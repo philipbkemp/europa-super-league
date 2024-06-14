@@ -1,0 +1,43 @@
+[
+	//eng
+][
+	//dnk
+][
+	//sco
+][
+	//nld
+][
+	//bel
+]
+[
+{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":16,"draw":7,"loss":7,"for":60,"against":37,"isChampion":true},
+{"country":"ita","name":"Ambrosiana-Inter","id":"Inter_Milan","win":14,"draw":7,"loss":9,"for":52,"against":42},
+{"country":"ita","name":"Milano","id":"AC_Milan","win":12,"draw":10,"loss":8,"for":55,"against":34},
+{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":14,"draw":6,"loss":10,"for":60,"against":49},
+{"country":"ita","name":"Juventus","id":"Juventus_FC","win":12,"draw":8,"loss":10,"for":50,"against":47},
+{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":11,"draw":9,"loss":10,"for":45,"against":38,"isReturning":true},
+{"country":"ita","name":"Torino","id":"Torino_FC","win":11,"draw":8,"loss":11,"for":54,"against":50},
+{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":11,"draw":8,"loss":11,"for":41,"against":48},
+{"country":"ita","name":"Triestina","id":"US_Triestina_Calcio_1918","win":9,"draw":11,"loss":10,"for":43,"against":39},
+{"country":"ita","name":"Genova 1893","id":"Genoa_CFC","win":10,"draw":9,"loss":11,"for":46,"against":44},
+{"country":"ita","name":"Roma","id":"AS_Roma","win":9,"draw":11,"loss":10,"for":48,"against":46},
+{"country":"ita","name":"Venezia","id":"Venezia_FC","win":8,"draw":13,"loss":9,"for":39,"against":44},
+{"country":"ita","name":"Livorno","id":"US_Livorno_1915","win":9,"draw":10,"loss":11,"for":40,"against":51,"isReturning":true},
+{"country":"ita","name":"Lazio","id":"SS_Lazio","win":7,"draw":13,"loss":10,"for":38,"against":42},
+{"country":"ita","name":"Novara","id":"Novara_FC","win":8,"draw":11,"loss":11,"for":31,"against":38,"isRemoved":true},
+{"country":"ita","name":"Bari","id":"SSC_Bari","win":5,"draw":7,"loss":18,"for":31,"against":84,"isRemoved":true}
+]
+[
+{"country":"che","name":"FC Lugano","id":"FC_Lugano","win":17,"draw":3,"loss":2,"for":57,"against":16,"isChampion":true},
+{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":15,"draw":5,"loss":2,"for":50,"against":9},
+{"country":"che","name":"Servette FC Genève","id":"Servette_FC","win":15,"draw":3,"loss":4,"for":55,"against":27},
+{"country":"che","name":"Grasshopper Club Zürich","id":"Grasshopper_Club_Zürich","win":13,"draw":3,"loss":6,"for":46,"against":31},
+{"country":"che","name":"Lausanne Sports","id":"FC_Lausanne-Sport","win":11,"draw":2,"loss":9,"for":34,"against":17},
+{"country":"che","name":"FC Grenchen","id":"FC_Grenchen","win":8,"draw":8,"loss":6,"for":36,"against":28},
+{"country":"che","name":"FC Nordstern Basel","id":"FC_Nordstern_Basel","win":6,"draw":4,"loss":12,"for":30,"against":57},
+{"country":"che","name":"Young Fellows Zürich","id":"SC_Young_Fellows_Juventus","win":5,"draw":5,"loss":12,"for":27,"against":36},
+{"country":"che","name":"FC Lucerne","id":"FC_Luzern","win":5,"draw":4,"loss":13,"for":26,"against":52},
+{"country":"che","name":"FC Biel-Bienne","id":"FC_Biel-Bienne","win":5,"draw":4,"loss":13,"for":23,"against":48},
+{"country":"che","name":"FC La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":5,"draw":2,"loss":15,"for":35,"against":54},
+{"country":"che","name":"FC St. Gallen","id":"FC_St._Gallen","win":5,"draw":1,"loss":16,"for":26,"against":70}
+]

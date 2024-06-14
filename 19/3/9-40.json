@@ -1,0 +1,52 @@
+[
+	//eng
+][
+{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"Kjøbenhavns_Boldklub","win":9,"draw":6,"loss":3,"for":45,"against":27,"isChampion":true,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament"},
+{"country":"dnk","name":"Fremad Amager","id":"Fremad_Amager","win":7,"draw":8,"loss":3,"for":44,"against":36,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament"},
+{"country":"dnk","name":"Boldklubben af 1893","id":"Boldklubben_af_1893","win":8,"draw":4,"loss":6,"for":45,"against":36,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament"},
+{"country":"dnk","name":"Køge BK","id":"Køge_Boldklub","win":8,"draw":4,"loss":6,"for":35,"against":34,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament","isNew":true},
+{"country":"dnk","name":"Boldklubben Frem","id":"Boldklubben_Frem","win":7,"draw":6,"loss":5,"for":39,"against":38,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament"},
+{"country":"dnk","name":"Boldklubben 1903","id":"Boldklubben_1903","win":8,"draw":3,"loss":7,"for":39,"against":34,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament"},
+{"country":"dnk","name":"Aalborg Boldspilklub","id":"AaB_Fodbold","win":7,"draw":3,"loss":8,"for":30,"against":32,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament"},
+{"country":"dnk","name":"Akademisk Boldklub","id":"Akademisk_Boldklub","win":5,"draw":5,"loss":8,"for":35,"against":37,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament"},
+{"country":"dnk","name":"Aarhus Gymnastikforening","id":"Aarhus_Gymnastikforening","win":5,"draw":2,"loss":11,"for":26,"against":49,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament"},
+{"country":"dnk","name":"Hellerup IK","id":"Hellerup_IK","win":3,"draw":5,"loss":10,"for":20,"against":35,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament"}
+][
+	//sco
+][
+	//nld
+][
+	//bel
+]
+[
+{"country":"ita","name":"Ambrosiana-Inter","id":"Inter_Milan","win":20,"draw":4,"loss":6,"for":56,"against":23,"isChampion":true},
+{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":16,"draw":9,"loss":5,"for":44,"against":23},
+{"country":"ita","name":"Juventus","id":"Juventus_FC","win":15,"draw":6,"loss":9,"for":45,"against":40},
+{"country":"ita","name":"Lazio","id":"SS_Lazio","win":12,"draw":11,"loss":7,"for":44,"against":36},
+{"country":"ita","name":"Genova 1893","id":"Genoa_CFC","win":14,"draw":5,"loss":11,"for":56,"against":47},
+{"country":"ita","name":"Torino","id":"Torino_FC","win":13,"draw":7,"loss":10,"for":47,"against":41},
+{"country":"ita","name":"Roma","id":"AS_Roma","win":11,"draw":7,"loss":12,"for":28,"against":31},
+{"country":"ita","name":"Milano","id":"AC_Milan","win":10,"draw":8,"loss":12,"for":46,"against":38},
+{"country":"ita","name":"Novara","id":"Novara_FC","win":12,"draw":3,"loss":15,"for":27,"against":35},
+{"country":"ita","name":"Venezia","id":"Venezia_FC","win":10,"draw":7,"loss":13,"for":34,"against":46,"isNew":true},
+{"country":"ita","name":"Bari","id":"SSC_Bari","win":9,"draw":9,"loss":12,"for":33,"against":46},
+{"country":"ita","name":"Triestina","id":"US_Triestina_Calcio_1918","win":10,"draw":6,"loss":14,"for":38,"against":43},
+{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":9,"draw":6,"loss":15,"for":37,"against":48,"isReturning":true},
+{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":9,"draw":6,"loss":15,"for":26,"against":41},
+{"country":"ita","name":"Liguria","id":"UC_Sampdoria","win":7,"draw":10,"loss":13,"for":25,"against":44,"isRemoved":true},
+{"country":"ita","name":"Modena","id":"Modena_FC_2018","win":7,"draw":8,"loss":15,"for":39,"against":43,"isRemoved":true}
+]
+[
+{"country":"che","name":"Servette FC Genève","id":"Servette_FC","win":19,"draw":3,"loss":0,"for":64,"against":14,"isChampion":true},
+{"country":"che","name":"FC Grenchen","id":"FC_Grenchen","win":11,"draw":6,"loss":5,"for":45,"against":24},
+{"country":"che","name":"Grasshopper Club Zürich","id":"Grasshopper_Club_Zürich","win":10,"draw":6,"loss":6,"for":45,"against":30},
+{"country":"che","name":"Lausanne Sports","id":"FC_Lausanne-Sport","win":10,"draw":5,"loss":7,"for":40,"against":26},
+{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":11,"draw":3,"loss":8,"for":37,"against":27},
+{"country":"che","name":"FC Lugano","id":"FC_Lugano","win":12,"draw":1,"loss":9,"for":46,"against":38},
+{"country":"che","name":"FC La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":10,"draw":2,"loss":10,"for":41,"against":35},
+{"country":"che","name":"FC Lucerne","id":"FC_Luzern","win":9,"draw":2,"loss":11,"for":39,"against":43},
+{"country":"che","name":"FC Nordstern Basel","id":"FC_Nordstern_Basel","win":7,"draw":3,"loss":12,"for":30,"against":40},
+{"country":"che","name":"FC St. Gallen","id":"FC_St._Gallen","win":5,"draw":3,"loss":14,"for":27,"against":63,"isReturning":true},
+{"country":"che","name":"Young Fellows Zürich","id":"SC_Young_Fellows_Juventus","win":4,"draw":4,"loss":14,"for":30,"against":53},
+{"country":"che","name":"FC Biel-Bienne","id":"FC_Biel-Bienne","win":3,"draw":4,"loss":15,"for":19,"against":70}
+]

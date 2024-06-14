@@ -1,0 +1,61 @@
+<textarea id="json-in" style="margin-bottom:10px;width:100%;height:200px;"></textarea>
+<button id="json-neat" style="margin-bottom:10px;">Format</button>
+<button id="json-parse" style="margin-bottom:10px;">Parse</button>
+
+<textarea id="json-teams" style="margin-bottom:10px;width:100%;height:100px;"></textarea>
+<textarea id="json-out" style="margin-bottom:10px;width:100%;height:200px;"></textarea>
+
+<script>
+	document.getElementById("json-neat").addEventListener("click",function(){
+		theData = JSON.parse(document.getElementById("json-in").value);
+		document.getElementById("json-in").value = JSON.stringify(theData).replaceAll("{","\n{").replaceAll("]","\n]");
+	});
+	document.getElementById("json-parse").addEventListener("click",function(){
+		console.clear();
+		theData = JSON.parse(document.getElementById("json-in").value);
+		theTeamData = document.getElementById("json-teams").value;
+		if ( theTeamData !== "" ) {
+			theTeamData = JSON.parse(theTeamData);
+		} else {
+			theTeamData = JSON.parse('{"teams":[],"redirects":[],"previous":[]}');
+		}
+
+		thisSeasonTeams = [];
+
+		for ( i=0 ; i!==theData.length ; i++ ) {
+
+			if ( theTeamData.redirects.filter(r=>{return r[0]===theData[i].id;}).length !== 0 ) {
+				theData[i].id = theTeamData.redirects.filter(r=>{return r[0]===theData[i].id;})[0][1]
+			}
+
+			if ( theTeamData.teams.indexOf(theData[i].id) === -1 ) {
+				newId = prompt("I don't know this team " + theData[i].name,theData[i].id);
+				if ( newId !== theData[i].id ) {
+					theTeamData.redirects.push( [ theData[i].id,newId ] );
+				}
+				theData[i].id = newId;
+			}
+			if ( theTeamData.teams.indexOf(theData[i].id) === -1 ) {
+				theTeamData.teams.push(theData[i].id);
+				theData[i].isNew = true;
+			} else if ( theTeamData.previous.indexOf(theData[i].id) === -1 ) {
+				theData[i].isReturning = true;
+			}
+			if ( typeof(theData[i].isRemoved) === "undefined" ) {
+				thisSeasonTeams.push(theData[i].id);
+			}
+		}
+
+		for ( j=0 ; j!==theData.length ; j++ ) {
+			theTeamData.previous = theTeamData.previous.filter(p=>{return p !== theData[j].id});
+		}
+		for ( k=0 ; k!==theTeamData.previous.length ; k++ ) {
+			console.error("Expected to see " + theTeamData.previous[k] + " this season");
+		}
+
+		theTeamData.previous = thisSeasonTeams;
+
+		document.getElementById("json-out").value = JSON.stringify(theData).replaceAll("{","\n{").replaceAll("]","\n]");
+		document.getElementById("json-teams").value = JSON.stringify(theTeamData);
+	});
+</script>

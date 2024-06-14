@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Europa Super League</title>
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+		<link rel="stylesheet" href="../../styles.css" />
+	</head>
+	<body>
+		<div class="container pt-4 placeholder-glow">
+
+			<h1><span class="placeholder col-6"></span></h1>
+			<hr />
+
+			<div class="row pt-3 pb-3">
+				<div class="col-1">
+					<a href="#" disabled class="btn btn-outline-dark w-100" id="goPrev"><span class="placeholder col-12"></span></a>
+				</div>
+				<div class="col-10 text-center" id="divisions" role="tablist">
+					<button class="btn btn-outline-dark active" id="diva" data-bs-toggle="tab" data-bs-target="#diva-pane" type="button" role="tab" aria-controls="diva-pane" aria-selected="true">Division A</button>
+					<button class="btn btn-outline-dark disabled" id="divb" data-bs-toggle="tab" data-bs-target="#divb-pane" type="button" role="tab" aria-controls="divb-pane" aria-selected="true">Division B</button>
+					<button class="btn btn-outline-dark disabled" id="divc" data-bs-toggle="tab" data-bs-target="#divc-pane" type="button" role="tab" aria-controls="divc-pane" aria-selected="true">Division C</button>
+					<button class="btn btn-outline-dark disabled" id="divd" data-bs-toggle="tab" data-bs-target="#divd-pane" type="button" role="tab" aria-controls="divd-pane" aria-selected="true">Division D</button>
+					<button class="btn btn-outline-dark disabled" id="dive" data-bs-toggle="tab" data-bs-target="#dive-pane" type="button" role="tab" aria-controls="dive-pane" aria-selected="true">Division E</button>
+					<button class="btn btn-outline-dark disabled" id="divf" data-bs-toggle="tab" data-bs-target="#divf-pane" type="button" role="tab" aria-controls="divf-pane" aria-selected="true">Division F</button>
+					<button class="btn btn-outline-dark disabled" id="divg" data-bs-toggle="tab" data-bs-target="#divg-pane" type="button" role="tab" aria-controls="divg-pane" aria-selected="true">Division G</button>
+					<button class="btn btn-outline-dark disabled" id="divh" data-bs-toggle="tab" data-bs-target="#divh-pane" type="button" role="tab" aria-controls="divh-pane" aria-selected="true">Division H</button>
+				</div>
+				<div class="col-1">
+					<a href="#" disabled class="btn btn-outline-dark w-100" id="goNext"><span class="placeholder col-12"></span></a>
+				</div>
+			</div>
+
+
+			<div class="tab-content" id="divisionsTables">
+				
+				<div class="tab-pane show active" id="diva-pane" role="tabpanel" aria-labelledby="diva" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_a">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+				<div class="tab-pane" id="divb-pane" role="tabpanel" aria-labelledby="divb" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_b">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+				<div class="tab-pane" id="divc-pane" role="tabpanel" aria-labelledby="divc" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_c">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+				<div class="tab-pane" id="divd-pane" role="tabpanel" aria-labelledby="divd" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_d">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+				<div class="tab-pane" id="dive-pane" role="tabpanel" aria-labelledby="dive" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_e">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+				<div class="tab-pane" id="divf-pane" role="tabpanel" aria-labelledby="divf" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_f">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+				<div class="tab-pane" id="divg-pane" role="tabpanel" aria-labelledby="divg" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_g">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+				<div class="tab-pane" id="divh-pane" role="tabpanel" aria-labelledby="divh" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_h">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+
+			<div>
+				<table class="table table-hover table-sm newclubs">
+					<thead>
+						<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+					</thead>
+					<tbody class="table-group-divider league" id="league_new">
+					</tbody>
+				</table>
+			</div>
+
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+		<script src="../../esl-script.js"></script>
+
+	</body>
+</html>

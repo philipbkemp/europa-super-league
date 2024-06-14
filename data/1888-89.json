@@ -1,0 +1,14 @@
+[
+	{"country":"eng","isChampion":true,"name":"Preston North End","id":"Preston_North_End_F.C.","win":18,"draw":4,"loss":0,"for":74,"against":15,"isNew":true},
+	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":12,"draw":5,"loss":5,"for":61,"against":43,"isNew":true},
+	{"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":12,"draw":4,"loss":6,"for":50,"against":37,"isNew":true},
+	{"country":"eng","name":"Blackburn Rovers","id":"Blackburn_Rovers_F.C.","win":10,"draw":6,"loss":6,"for":66,"against":45,"isNew":true},
+	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":10,"draw":2,"loss":10,"for":63,"against":59,"isNew":true},
+	{"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":10,"draw":2,"loss":10,"for":40,"against":46,"isNew":true},
+	{"country":"eng","name":"Accrington","id":"Accrington_F.C.","win":6,"draw":8,"loss":8,"for":48,"against":48,"isNew":true},
+	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":9,"draw":2,"loss":11,"for":35,"against":46,"isNew":true},
+	{"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":7,"draw":3,"loss":12,"for":42,"against":62,"isNew":true},
+	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":7,"draw":2,"loss":13,"for":41,"against":61,"isNew":true},
+	{"country":"eng","name":"Notts County","id":"Notts_County_F.C.","win":5,"draw":2,"loss":15,"for":40,"against":73,"isNew":true},
+	{"country":"eng","name":"Stoke","id":"Stoke_City_F.C.","win":4,"draw":4,"loss":14,"for":26,"against":51,"isNew":true}
+]

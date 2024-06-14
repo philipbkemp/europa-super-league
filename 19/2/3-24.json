@@ -1,0 +1,70 @@
+[
+{"country":"eng","name":"Huddersfield Town","id":"Huddersfield_Town_A.F.C.","win":23,"draw":11,"loss":8,"for":60,"against":33,"isChampion":true},
+{"country":"eng","name":"Cardiff City","id":"Cardiff_City_F.C.","win":22,"draw":13,"loss":7,"for":61,"against":34},
+{"country":"eng","name":"Sunderland","id":"Sunderland_A.F.C.","win":22,"draw":9,"loss":11,"for":71,"against":54},
+{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":18,"draw":14,"loss":10,"for":68,"against":34},
+{"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":19,"draw":12,"loss":11,"for":69,"against":49},
+{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":18,"draw":13,"loss":11,"for":52,"against":37},
+{"country":"eng","name":"Everton","id":"Everton_F.C.","win":18,"draw":13,"loss":11,"for":62,"against":53},
+{"country":"eng","name":"Blackburn Rovers","id":"Blackburn_Rovers_F.C.","win":17,"draw":11,"loss":14,"for":54,"against":50},
+{"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":17,"draw":10,"loss":15,"for":60,"against":54},
+{"country":"eng","name":"Notts County","id":"Notts_County_F.C.","win":14,"draw":14,"loss":14,"for":44,"against":49,"isReturning":true},
+{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":15,"draw":12,"loss":15,"for":54,"against":71},
+{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":15,"draw":11,"loss":16,"for":49,"against":48},
+{"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":13,"draw":15,"loss":14,"for":40,"against":43,"isNew":true},
+{"country":"eng","name":"Birmingham","id":"Birmingham_City_F.C.","win":13,"draw":13,"loss":16,"for":41,"against":49},
+{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":12,"draw":14,"loss":16,"for":50,"against":56},
+{"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":12,"draw":14,"loss":16,"for":51,"against":62},
+{"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":12,"draw":12,"loss":18,"for":55,"against":60},
+{"country":"eng","name":"Preston North End","id":"Preston_North_End_F.C.","win":12,"draw":10,"loss":20,"for":52,"against":67},
+{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":12,"draw":9,"loss":21,"for":40,"against":63},
+{"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":10,"draw":12,"loss":20,"for":42,"against":64},
+{"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":9,"draw":14,"loss":19,"for":31,"against":53,"isRemoved":true},
+{"country":"eng","name":"Middlesbrough","id":"Middlesbrough_F.C.","win":7,"draw":8,"loss":27,"for":37,"against":60,"isRemoved":true}
+][
+	//dnk
+][
+{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":25,"draw":9,"loss":4,"for":72,"against":22,"isChampion":true},
+{"country":"sco","name":"Airdrieonians","id":"Airdrieonians_F.C._(1878)","win":20,"draw":10,"loss":8,"for":72,"against":46},
+{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":17,"draw":12,"loss":9,"for":56,"against":33},
+{"country":"sco","name":"Raith Rovers","id":"Raith_Rovers_F.C.","win":18,"draw":7,"loss":13,"for":56,"against":38},
+{"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":15,"draw":13,"loss":10,"for":70,"against":57},
+{"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":15,"draw":12,"loss":11,"for":53,"against":45},
+{"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":15,"draw":11,"loss":12,"for":66,"against":52},
+{"country":"sco","name":"Partick Thistle","id":"Partick_Thistle_F.C.","win":15,"draw":9,"loss":14,"for":58,"against":55},
+{"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":14,"draw":10,"loss":14,"for":61,"against":50},
+{"country":"sco","name":"Motherwell","id":"Motherwell_F.C.","win":15,"draw":7,"loss":16,"for":58,"against":63},
+{"country":"sco","name":"Morton","id":"Greenock_Morton_F.C.","win":16,"draw":5,"loss":17,"for":48,"against":54},
+{"country":"sco","name":"Hamilton Academical","id":"Hamilton_Academical_F.C.","win":15,"draw":6,"loss":17,"for":52,"against":57},
+{"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":13,"draw":10,"loss":15,"for":37,"against":41},
+{"country":"sco","name":"Ayr United","id":"Ayr_United_F.C.","win":12,"draw":10,"loss":16,"for":38,"against":60},
+{"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":13,"draw":6,"loss":19,"for":46,"against":53},
+{"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":12,"draw":8,"loss":18,"for":48,"against":65},
+{"country":"sco","name":"Queen's Park","id":"Queen%27s_Park_F.C.","win":11,"draw":9,"loss":18,"for":43,"against":60,"isReturning":true},
+{"country":"sco","name":"Third Lanark","id":"Third_Lanark_A.C.","win":11,"draw":8,"loss":19,"for":54,"against":78},
+{"country":"sco","name":"Clyde","id":"Clyde_F.C.","win":10,"draw":9,"loss":19,"for":40,"against":70,"isRemoved":true},
+{"country":"sco","name":"Clydebank","id":"Clydebank_F.C._(1914)","win":10,"draw":5,"loss":23,"for":42,"against":71,"isRemoved":true,"isReturning":true}
+][
+	//nld
+][
+{"country":"bel","name":"Beerschot","id":"K._Beerschot_V.A.C.","win":15,"draw":8,"loss":3,"for":52,"against":21,"isChampion":true},
+{"country":"bel","name":"Royale Union Saint-Gilloise","id":"Royale_Union_Saint-Gilloise","win":14,"draw":9,"loss":3,"for":43,"against":20},
+{"country":"bel","name":"Cercle Brugge K.S.V.","id":"Cercle_Brugge_K.S.V.","win":13,"draw":7,"loss":6,"for":47,"against":26},
+{"country":"bel","name":"R.R.C. Bruxelles","id":"K.F.C._Rhodienne-De_Hoek","win":14,"draw":5,"loss":7,"for":47,"against":30},
+{"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":12,"draw":9,"loss":5,"for":43,"against":32},
+{"country":"bel","name":"RC de Gand","id":"K.R.C._Gent","win":13,"draw":4,"loss":9,"for":43,"against":41,"isReturning":true},
+{"country":"bel","name":"Royal Antwerp FC","id":"Royal_Antwerp_F.C.","win":8,"draw":9,"loss":9,"for":43,"against":32},
+{"country":"bel","name":"Daring Club","id":"R._Daring_Club_Molenbeek","win":7,"draw":10,"loss":9,"for":31,"against":32},
+{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":7,"draw":9,"loss":10,"for":38,"against":37},
+{"country":"bel","name":"K Berchem Sport","id":"K._Berchem_Sport","win":6,"draw":10,"loss":10,"for":31,"against":43},
+{"country":"bel","name":"La Gantoise","id":"K.A.A._Gent","win":6,"draw":7,"loss":13,"for":30,"against":42},
+{"country":"bel","name":"K.R.C. Mechelen","id":"K.R.C._Mechelen","win":6,"draw":7,"loss":13,"for":30,"against":65,"isRemoved":true},
+{"country":"bel","name":"R.C.S. Verviétois","id":"R.C.S._Verviétois","win":5,"draw":5,"loss":16,"for":23,"against":59,"isRemoved":true},
+{"country":"bel","name":"R.F.C. de Liège","id":"RFC_Liège","win":3,"draw":7,"loss":16,"for":17,"against":43,"isRemoved":true,"isReturning":true}
+]
+[
+	//ita
+]
+[
+	//che
+]

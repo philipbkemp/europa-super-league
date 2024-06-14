@@ -1,0 +1,60 @@
+[
+	//eng
+][
+	//dnk
+][
+	//sco
+][
+	//nld
+][
+{"country":"bel","name":"KV Mechelen","id":"K.V._Mechelen","win":21,"draw":4,"loss":5,"for":83,"against":31,"isChampion":true},
+{"country":"bel","name":"Beerschot","id":"K._Beerschot_V.A.C.","win":19,"draw":6,"loss":5,"for":87,"against":40},
+{"country":"bel","name":"Lierse S.K.","id":"Lierse_S.K.","win":17,"draw":5,"loss":8,"for":95,"against":51},
+{"country":"bel","name":"K.A.A. Gent","id":"K.A.A._Gent","win":17,"draw":3,"loss":10,"for":63,"against":54},
+{"country":"bel","name":"Royal Antwerp FC","id":"Royal_Antwerp_F.C.","win":17,"draw":1,"loss":12,"for":69,"against":48},
+{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":15,"draw":4,"loss":11,"for":73,"against":53},
+{"country":"bel","name":"Tilleur","id":"R.F.C._Tilleur","win":10,"draw":9,"loss":11,"for":52,"against":55},
+{"country":"bel","name":"Cercle Brugge K.S.V.","id":"Cercle_Brugge_K.S.V.","win":11,"draw":6,"loss":13,"for":46,"against":66},
+{"country":"bel","name":"R.O.C. de Charleroi-Marchienne","id":"R._Olympic_Charleroi_Châtelet_Farciennes","win":11,"draw":5,"loss":14,"for":50,"against":64},
+{"country":"bel","name":"White Star","id":"R.W.D._Molenbeek_(1909)","win":8,"draw":10,"loss":12,"for":72,"against":65},
+{"country":"bel","name":"Royale Union Saint-Gilloise","id":"Royale_Union_Saint-Gilloise","win":8,"draw":8,"loss":14,"for":37,"against":42},
+{"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":10,"draw":4,"loss":16,"for":62,"against":66},
+{"country":"bel","name":"Eendracht Alost","id":"S.C._Eendracht_Aalst","win":10,"draw":4,"loss":16,"for":45,"against":75},
+{"country":"bel","name":"CS La Forestoise","id":"R.C.S._La_Forestoise","win":9,"draw":5,"loss":16,"for":40,"against":92,"isReturning":true},
+{"country":"bel","name":"R.R.C. Bruxelles","id":"K.F.C._Rhodienne-De_Hoek","win":10,"draw":3,"loss":17,"for":61,"against":78,"isRemoved":true,"isReturning":true},
+{"country":"bel","name":"K Boom FC","id":"K._Boom_F.C.","win":7,"draw":3,"loss":20,"for":36,"against":90,"isRemoved":true}
+]
+[
+{"country":"ita","name":"Torino","id":"Torino_FC","win":20,"draw":4,"loss":6,"for":68,"against":31,"isChampion":true,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
+{"country":"ita","name":"Livorno","id":"US_Livorno_1915","win":18,"draw":7,"loss":5,"for":52,"against":34,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
+{"country":"ita","name":"Juventus Cisitalia","id":"Juventus_FC","win":16,"draw":5,"loss":9,"for":75,"against":55,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
+{"country":"ita","name":"Ambrosiana-Inter","id":"Inter_Milan","win":15,"draw":4,"loss":11,"for":53,"against":38,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
+{"country":"ita","name":"Genova 1893","id":"Genoa_CFC","win":14,"draw":5,"loss":11,"for":59,"against":53,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
+{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":12,"draw":5,"loss":13,"for":53,"against":39,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
+{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":12,"draw":5,"loss":13,"for":55,"against":61,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
+{"country":"ita","name":"Milano","id":"AC_Milan","win":10,"draw":9,"loss":11,"for":39,"against":44,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
+{"country":"ita","name":"Lazio","id":"SS_Lazio","win":10,"draw":8,"loss":12,"for":56,"against":59,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
+{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":11,"draw":6,"loss":13,"for":34,"against":44,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
+{"country":"ita","name":"Roma","id":"AS_Roma","win":12,"draw":4,"loss":14,"for":36,"against":50,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
+{"country":"ita","name":"Vicenza","id":"LR_Vicenza","win":8,"draw":9,"loss":13,"for":36,"against":44,"isRemoved":true,"removedNote":"Championship suspended due to WW2","isNew":true},
+{"country":"ita","name":"Triestina","id":"US_Triestina_Calcio_1918","win":5,"draw":14,"loss":11,"for":32,"against":40,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
+{"country":"ita","name":"Venezia","id":"Venezia_FC","win":8,"draw":8,"loss":14,"for":34,"against":46,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
+{"country":"ita","name":"Bari","id":"SSC_Bari","win":7,"draw":10,"loss":13,"for":24,"against":38,"isRemoved":true,"removedNote":"Championship suspended due to WW2","isReturning":true},
+{"country":"ita","name":"Liguria","id":"UC_Sampdoria","win":7,"draw":7,"loss":16,"for":36,"against":66,"isRemoved":true,"removedNote":"Championship suspended due to WW2"}
+]
+[
+{"country":"che","name":"Grasshopper Club Zürich","id":"Grasshopper_Club_Zürich","win":19,"draw":6,"loss":1,"for":91,"against":22,"isChampion":true},
+{"country":"che","name":"FC Lugano","id":"FC_Lugano","win":15,"draw":5,"loss":6,"for":67,"against":33},
+{"country":"che","name":"Lausanne Sports","id":"FC_Lausanne-Sport","win":15,"draw":4,"loss":7,"for":45,"against":36},
+{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":12,"draw":7,"loss":7,"for":46,"against":33},
+{"country":"che","name":"Cantonal Neuchâtel","id":"Neuchâtel_Xamax_FCS","win":13,"draw":2,"loss":11,"for":50,"against":45},
+{"country":"che","name":"Servette FC Genève","id":"Servette_FC","win":12,"draw":3,"loss":11,"for":59,"against":44},
+{"country":"che","name":"FC Grenchen","id":"FC_Grenchen","win":11,"draw":5,"loss":10,"for":47,"against":39},
+{"country":"che","name":"FC St. Gallen","id":"FC_St._Gallen","win":12,"draw":2,"loss":12,"for":43,"against":53},
+{"country":"che","name":"FC Biel-Bienne","id":"FC_Biel-Bienne","win":8,"draw":4,"loss":14,"for":33,"against":45},
+{"country":"che","name":"Young Fellows Zürich","id":"SC_Young_Fellows_Juventus","win":6,"draw":8,"loss":12,"for":26,"against":43},
+{"country":"che","name":"FC Zürich","id":"FC_Zürich","win":9,"draw":2,"loss":15,"for":38,"against":71},
+{"country":"che","name":"FC Lucerne","id":"FC_Luzern","win":6,"draw":6,"loss":14,"for":31,"against":45},
+{"country":"che","name":"FC Basel","id":"FC_Basel","win":7,"draw":4,"loss":15,"for":29,"against":57,"isReturning":true},
+{"country":"che","name":"FC Nordstern Basel","id":"FC_Nordstern_Basel","win":5,"draw":6,"loss":15,"for":25,"against":64,"isRemoved":true}
+]
