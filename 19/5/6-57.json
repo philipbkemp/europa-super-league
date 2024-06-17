@@ -124,3 +124,17 @@
 {"country":"che","name":"FC Zürich","id":"FC_Zürich","win":5,"draw":4,"loss":17,"for":34,"against":61,"isRemoved":true},
 {"country":"che","name":"FC Schaffhausen","id":"FC_Schaffhausen","win":1,"draw":7,"loss":18,"for":26,"against":85,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":7,"draw":3,"loss":1,"for":36,"against":14,"isChampion":true},
+{"country":"hun","name":"MTK Budapest FC","id":"MTK_Budapest_FC","win":8,"draw":0,"loss":3,"for":31,"against":16,"isReturning":true},
+{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":6,"draw":2,"loss":3,"for":18,"against":12},
+{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":5,"draw":3,"loss":3,"for":16,"against":11},
+{"country":"hun","name":"Csepel SC","id":"Csepel_SC","win":5,"draw":3,"loss":3,"for":18,"against":18},
+{"country":"hun","name":"Salgótarjáni BTC","id":"Salgótarjáni_BTC","win":4,"draw":4,"loss":3,"for":28,"against":23},
+{"country":"hun","name":"Pécs Baranya","id":"Pécsi_MFC","win":5,"draw":2,"loss":4,"for":7,"against":12},
+{"country":"hun","name":"FC Tatabánya","id":"Tatabányai_SC","win":3,"draw":4,"loss":4,"for":13,"against":16,"isReturning":true},
+{"country":"hun","name":"Dorogi AC","id":"Dorogi_FC","win":4,"draw":2,"loss":5,"for":14,"against":21},
+{"country":"hun","name":"Szegedi EAC","id":"Szegedi_EAC","win":1,"draw":4,"loss":6,"for":13,"against":25,"isReturning":true},
+{"country":"hun","name":"Budapest Honvéd FC","id":"Budapest_Honvéd_FC","win":1,"draw":3,"loss":7,"for":19,"against":27},
+{"country":"hun","name":"Szombathelyi Haladás","id":"Szombathelyi_Haladás","win":1,"draw":2,"loss":8,"for":14,"against":32}
+]

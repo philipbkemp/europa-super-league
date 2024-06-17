@@ -103,3 +103,19 @@
 {"country":"che","name":"FC Lucerne","id":"FC_Luzern","win":5,"draw":3,"loss":14,"for":37,"against":55},
 {"country":"che","name":"FC Bern","id":"FC_Bern","win":0,"draw":6,"loss":16,"for":18,"against":65,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":23,"draw":1,"loss":2,"for":95,"against":38,"isChampion":true},
+{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":21,"draw":2,"loss":3,"for":90,"against":32},
+{"country":"hun","name":"MTK Hungária FC","id":"MTK_Budapest_FC","win":18,"draw":4,"loss":4,"for":86,"against":32},
+{"country":"hun","name":"Kispest AC","id":"Budapest_Honvéd_FC","win":15,"draw":1,"loss":10,"for":72,"against":59},
+{"country":"hun","name":"Elektromos FC","id":"Elektromos_FC","win":11,"draw":6,"loss":9,"for":51,"against":49},
+{"country":"hun","name":"Phöbus FC","id":"Phöbus_FC","win":11,"draw":3,"loss":12,"for":57,"against":56},
+{"country":"hun","name":"Nemzeti SC","id":"Nemzeti_SC","win":9,"draw":6,"loss":11,"for":61,"against":71},
+{"country":"hun","name":"Szeged FC","id":"Szegedi_AK","win":10,"draw":3,"loss":13,"for":42,"against":49},
+{"country":"hun","name":"Szürketaxi FC","id":"Szürketaxi_FC","win":8,"draw":6,"loss":12,"for":56,"against":63,"isNew":true},
+{"country":"hun","name":"Budafok FC","id":"Gamma_FC","win":10,"draw":2,"loss":14,"for":43,"against":49},
+{"country":"hun","name":"Bocskai FC","id":"Bocskai_FC","win":9,"draw":2,"loss":15,"for":43,"against":57},
+{"country":"hun","name":"Törekvés SE","id":"Törekvés_SE","win":7,"draw":4,"loss":15,"for":49,"against":80,"isReturning":true,"isRemoved":true},
+{"country":"hun","name":"Győri ETO FC","id":"Győri_ETO_FC","win":3,"draw":5,"loss":18,"for":24,"against":83,"isNew":true,"isRemoved":true},
+{"country":"hun","name":"Budai 11","id":"33_FC","win":3,"draw":3,"loss":20,"for":28,"against":79,"isRemoved":true}
+]

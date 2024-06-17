@@ -116,3 +116,21 @@
 {"country":"che","name":"Sion","id":"FC_Sion","win":15,"draw":8,"loss":11,"for":40,"against":35,"deduct":-36,"deductReason":"Fielding ineligible players"},
 {"country":"che","name":"Neuchâtel Xamax","id":"Neuchâtel_Xamax_FCS","win":7,"draw":5,"loss":6,"for":22,"against":22,"isRemoved":"Expelled after the first round of matches for having their license revoked"}
 ]
+[
+{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":22,"draw":8,"loss":0,"for":64,"against":18,"isChampion":true},
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":21,"draw":3,"loss":6,"for":58,"against":19},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":20,"draw":3,"loss":7,"for":56,"against":31},
+{"country":"hun","name":"Honvéd","id":"Budapest_Honvéd_FC","win":13,"draw":7,"loss":10,"for":48,"against":40},
+{"country":"hun","name":"Kecskemét","id":"Kecskeméti_TE","win":13,"draw":6,"loss":11,"for":48,"against":38},
+{"country":"hun","name":"Paks","id":"Paksi_FC","win":12,"draw":9,"loss":9,"for":47,"against":51},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":13,"draw":4,"loss":13,"for":42,"against":43,"isReturning":true},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":9,"draw":11,"loss":10,"for":39,"against":37},
+{"country":"hun","name":"Siófok","id":"BFC_Siófok","win":9,"draw":9,"loss":12,"for":30,"against":41},
+{"country":"hun","name":"Kaposvár","id":"Kaposvári_Rákóczi_FC","win":7,"draw":14,"loss":9,"for":35,"against":42},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":9,"draw":7,"loss":14,"for":32,"against":35},
+{"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":8,"draw":10,"loss":12,"for":36,"against":50,"isReturning":true},
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":8,"draw":8,"loss":14,"for":34,"against":46},
+{"country":"hun","name":"Pápa","id":"Pápai_FC","win":8,"draw":6,"loss":16,"for":26,"against":40},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":5,"draw":9,"loss":16,"for":29,"against":51,"isRemoved":true,"deduct":-2,"deductReason":"Unauthorised use of a player"},
+{"country":"hun","name":"ZTE","id":"Zalaegerszegi_TE","win":1,"draw":10,"loss":19,"for":25,"against":65,"isRemoved":true}
+]

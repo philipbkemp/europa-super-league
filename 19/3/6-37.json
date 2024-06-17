@@ -104,3 +104,19 @@
 {"country":"che","name":"FC La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":9,"draw":2,"loss":13,"for":54,"against":61,"isRemoved":true},
 {"country":"che","name":"FC St. Gallen","id":"FC_St._Gallen","win":2,"draw":3,"loss":19,"for":32,"against":102,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"MTK Hungária FC","id":"MTK_Budapest_FC","win":20,"draw":3,"loss":3,"for":95,"against":34,"isChampion":true},
+{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":20,"draw":2,"loss":4,"for":102,"against":32},
+{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":17,"draw":3,"loss":6,"for":101,"against":39},
+{"country":"hun","name":"Phöbus FC","id":"Phöbus_FC","win":17,"draw":2,"loss":7,"for":54,"against":31},
+{"country":"hun","name":"Nemzeti SC","id":"Nemzeti_SC","win":14,"draw":4,"loss":8,"for":48,"against":42,"isReturning":true},
+{"country":"hun","name":"Bocskai FC","id":"Bocskai_FC","win":13,"draw":3,"loss":10,"for":57,"against":49},
+{"country":"hun","name":"Elektromos FC","id":"Elektromos_FC","win":11,"draw":6,"loss":9,"for":52,"against":48,"isNew":true},
+{"country":"hun","name":"Szeged FC","id":"Szegedi_AK","win":8,"draw":10,"loss":8,"for":40,"against":51},
+{"country":"hun","name":"Budai 11","id":"33_FC","win":8,"draw":7,"loss":11,"for":44,"against":59},
+{"country":"hun","name":"Kispest AC","id":"Budapest_Honvéd_FC","win":8,"draw":5,"loss":13,"for":62,"against":78},
+{"country":"hun","name":"Budafok FC","id":"Gamma_FC","win":8,"draw":5,"loss":13,"for":47,"against":87},
+{"country":"hun","name":"Szombathelyi Haladás","id":"Szombathelyi_Haladás","win":6,"draw":4,"loss":16,"for":38,"against":79,"isNew":true,"isRemoved":true},
+{"country":"hun","name":"III. Kerületi TUE","id":"III._Kerületi_TVE","win":3,"draw":2,"loss":21,"for":16,"against":90,"isRemoved":true},
+{"country":"hun","name":"Soroksár FC","id":"Soroksár_FC","win":0,"draw":2,"loss":24,"for":14,"against":51,"isRemoved":true}
+]

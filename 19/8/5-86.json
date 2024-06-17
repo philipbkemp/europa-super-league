@@ -122,3 +122,21 @@
 {"country":"che","name":"FC Grenchen","id":"FC_Grenchen","win":5,"draw":6,"loss":19,"for":33,"against":81,"isRemoved":true,"isReturning":true},
 {"country":"che","name":"FC Baden","id":"FC_Baden","win":1,"draw":6,"loss":23,"for":14,"against":86,"isRemoved":true,"isNew":true}
 ]
+[
+{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":17,"draw":11,"loss":2,"for":63,"against":29,"isChampion":true},
+{"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":15,"draw":9,"loss":6,"for":48,"against":26},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":13,"draw":11,"loss":6,"for":60,"against":43},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":12,"draw":12,"loss":6,"for":48,"against":34},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":12,"draw":10,"loss":8,"for":35,"against":29},
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":10,"draw":12,"loss":8,"for":25,"against":24},
+{"country":"hun","name":"MTK-VM","id":"MTK_Budapest_FC","win":11,"draw":7,"loss":12,"for":45,"against":39},
+{"country":"hun","name":"Tatabányai Bányász","id":"Tatabányai_SC","win":9,"draw":11,"loss":10,"for":34,"against":30},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":11,"draw":7,"loss":12,"for":37,"against":43},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":9,"draw":9,"loss":12,"for":34,"against":37},
+{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":8,"draw":9,"loss":13,"for":32,"against":44},
+{"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":8,"draw":9,"loss":13,"for":35,"against":48},
+{"country":"hun","name":"Debreceni MVSC","id":"Debreceni_VSC","win":7,"draw":11,"loss":12,"for":24,"against":46},
+{"country":"hun","name":"Siofoki Bányász","id":"BFC_Siófok","win":8,"draw":8,"loss":14,"for":28,"against":46,"isNew":true},
+{"country":"hun","name":"Csepel","id":"Csepel_SC","win":8,"draw":6,"loss":16,"for":28,"against":41,"isRemoved":true},
+{"country":"hun","name":"Volán","id":"Volán_FC","win":5,"draw":12,"loss":13,"for":30,"against":47,"isRemoved":true,"isReturning":true}
+]

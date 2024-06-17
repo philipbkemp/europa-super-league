@@ -118,3 +118,17 @@
 {"country":"che","name":"Winterthur","id":"FC_Winterthur","win":8,"draw":8,"loss":20,"for":32,"against":66,"isReturning":true},
 {"country":"che","name":"Sion","id":"FC_Sion","win":7,"draw":10,"loss":19,"for":41,"against":73,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":19,"draw":6,"loss":8,"for":62,"against":33,"isChampion":true},
+{"country":"hun","name":"Kecskemét","id":"Kecskeméti_TE","win":15,"draw":12,"loss":6,"for":48,"against":32,"isReturning":true},
+{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":15,"draw":9,"loss":9,"for":52,"against":39},
+{"country":"hun","name":"Puskás Akadémia","id":"Puskás_Akadémia_FC","win":14,"draw":11,"loss":8,"for":48,"against":42},
+{"country":"hun","name":"Paks","id":"Paksi_FC","win":14,"draw":7,"loss":12,"for":57,"against":57},
+{"country":"hun","name":"Kisvárda","id":"Kisvárda_FC","win":10,"draw":13,"loss":10,"for":43,"against":49},
+{"country":"hun","name":"Mezőkövesd","id":"Mezőkövesdi_SE","win":11,"draw":9,"loss":13,"for":40,"against":43},
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":11,"draw":8,"loss":14,"for":42,"against":55},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":10,"draw":9,"loss":14,"for":37,"against":43},
+{"country":"hun","name":"Fehérvár","id":"Fehérvár_FC","win":8,"draw":11,"loss":14,"for":38,"against":43},
+{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":8,"draw":9,"loss":16,"for":34,"against":51,"isRemoved":true},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":4,"draw":14,"loss":15,"for":29,"against":43,"isRemoved":true,"isReturning":true}
+]

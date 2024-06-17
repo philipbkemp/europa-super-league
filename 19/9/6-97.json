@@ -116,3 +116,23 @@
 {"country":"che","name":"Lugano","id":"FC_Lugano","win":4,"draw":14,"loss":18,"for":25,"against":49,"isRemoved":true},
 {"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":8,"draw":8,"loss":20,"for":36,"against":56,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"MTK Hungária","id":"MTK_Budapest_FC","win":26,"draw":7,"loss":1,"for":87,"against":25,"isChampion":true},
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":23,"draw":7,"loss":4,"for":75,"against":35},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":22,"draw":8,"loss":4,"for":69,"against":37},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":19,"draw":7,"loss":8,"for":50,"against":33},
+{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":14,"draw":10,"loss":10,"for":55,"against":38},
+{"country":"hun","name":"BVSC","id":"Budapesti_VSC","win":14,"draw":7,"loss":13,"for":43,"against":36},
+{"country":"hun","name":"Kispest Honvéd","id":"Budapest_Honvéd_FC","win":12,"draw":9,"loss":13,"for":42,"against":44},
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":10,"draw":12,"loss":12,"for":45,"against":44},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":10,"draw":12,"loss":12,"for":44,"against":51},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":10,"draw":10,"loss":14,"for":39,"against":42},
+{"country":"hun","name":"Vác","id":"Vác_FC","win":10,"draw":10,"loss":14,"for":40,"against":48},
+{"country":"hun","name":"Siófok","id":"BFC_Siófok","win":10,"draw":10,"loss":14,"for":36,"against":53,"isReturning":true},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":11,"draw":7,"loss":16,"for":34,"against":51},
+{"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":10,"draw":6,"loss":18,"for":37,"against":62},
+{"country":"hun","name":"III. Kerület","id":"III._Kerületi_TVE","win":8,"draw":11,"loss":15,"for":45,"against":55,"isRemoved":true,"isReturning":true},
+{"country":"hun","name":"Stadler","id":"Kiskőrösi_FC","win":7,"draw":7,"loss":20,"for":27,"against":50},
+{"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":6,"draw":8,"loss":20,"for":31,"against":68,"isRemoved":true},
+{"country":"hun","name":"Csepel","id":"Csepel_SC","win":5,"draw":10,"loss":19,"for":43,"against":70,"isRemoved":true}
+]

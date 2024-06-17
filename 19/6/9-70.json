@@ -124,3 +124,21 @@
 {"country":"che","name":"Wettingen","id":"FC_Wettingen","win":6,"draw":3,"loss":17,"for":33,"against":62,"isRemoved":true,"isNew":true},
 {"country":"che","name":"St. Gallen","id":"FC_St._Gallen","win":6,"draw":3,"loss":17,"for":28,"against":57,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":20,"draw":8,"loss":2,"for":83,"against":27,"isChampion":true},
+{"country":"hun","name":"Bp. Honvéd","id":"Budapest_Honvéd_FC","win":18,"draw":8,"loss":4,"for":66,"against":28},
+{"country":"hun","name":"FTC","id":"Ferencvárosi_TC","win":15,"draw":9,"loss":6,"for":56,"against":33},
+{"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":18,"draw":3,"loss":9,"for":72,"against":43},
+{"country":"hun","name":"Győri ETO","id":"Győri_ETO_FC","win":12,"draw":10,"loss":8,"for":53,"against":36},
+{"country":"hun","name":"Pécsi Dózsa","id":"Pécsi_MFC","win":13,"draw":6,"loss":11,"for":41,"against":38},
+{"country":"hun","name":"Csepel","id":"Csepel_SC","win":11,"draw":10,"loss":9,"for":37,"against":36},
+{"country":"hun","name":"Tatabányai Bányász","id":"Tatabányai_SC","win":10,"draw":8,"loss":12,"for":33,"against":41},
+{"country":"hun","name":"MTK","id":"MTK_Budapest_FC","win":9,"draw":8,"loss":13,"for":43,"against":53},
+{"country":"hun","name":"Salgótarjáni BTC","id":"Salgótarjáni_BTC","win":10,"draw":5,"loss":15,"for":29,"against":39},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":7,"draw":11,"loss":12,"for":26,"against":44},
+{"country":"hun","name":"Komlói Bányász SK","id":"Komlói_Bányász_SK","win":5,"draw":14,"loss":11,"for":21,"against":37,"isReturning":true},
+{"country":"hun","name":"Diósgyőri VTK","id":"Diósgyőri_VTK","win":7,"draw":9,"loss":14,"for":31,"against":51},
+{"country":"hun","name":"Dunaújváros","id":"Dunaújváros_FC","win":9,"draw":5,"loss":16,"for":26,"against":48},
+{"country":"hun","name":"Vörös Meteor Egyetértés SK","id":"Vörös_Meteor_Egyetértés_SK","win":6,"draw":9,"loss":15,"for":30,"against":52,"isRemoved":true},
+{"country":"hun","name":"Egri Dózsa","id":"Egri_FC","win":5,"draw":7,"loss":18,"for":23,"against":64,"isRemoved":true,"isReturning":true}
+]

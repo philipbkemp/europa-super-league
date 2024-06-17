@@ -124,3 +124,21 @@
 {"country":"che","name":"FC Locarno","id":"FC_Locarno","win":6,"draw":7,"loss":17,"for":44,"against":65,"isRemoved":true,"isReturning":true},
 {"country":"che","name":"FC La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":1,"draw":4,"loss":25,"for":22,"against":97,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"MTK-VM","id":"MTK_Budapest_FC","win":17,"draw":9,"loss":4,"for":52,"against":24,"isChampion":true},
+{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":16,"draw":8,"loss":6,"for":47,"against":23},
+{"country":"hun","name":"Tatabányai Bányász","id":"Tatabányai_SC","win":15,"draw":5,"loss":10,"for":44,"against":31},
+{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":15,"draw":5,"loss":10,"for":47,"against":39},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":10,"draw":13,"loss":7,"for":33,"against":27},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":13,"draw":6,"loss":11,"for":42,"against":40},
+{"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":12,"draw":7,"loss":11,"for":30,"against":25},
+{"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":10,"draw":11,"loss":9,"for":32,"against":34},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":11,"draw":8,"loss":11,"for":32,"against":33},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":9,"draw":11,"loss":10,"for":51,"against":45},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":9,"draw":11,"loss":10,"for":33,"against":34},
+{"country":"hun","name":"Debreceni MVSC","id":"Debreceni_VSC","win":8,"draw":12,"loss":10,"for":31,"against":37},
+{"country":"hun","name":"Siofoki Bányász","id":"BFC_Siófok","win":9,"draw":9,"loss":12,"for":36,"against":41},
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":7,"draw":9,"loss":14,"for":26,"against":37},
+{"country":"hun","name":"Dunaújvárosi Kohász","id":"Dunaújváros_FC","win":4,"draw":9,"loss":17,"for":26,"against":57,"isRemoved":true,"isReturning":true},
+{"country":"hun","name":"Eger","id":"Egri_FC","win":4,"draw":9,"loss":17,"for":23,"against":58,"isRemoved":true,"isReturning":true}
+]

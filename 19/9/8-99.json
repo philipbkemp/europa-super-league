@@ -116,3 +116,23 @@
 {"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":9,"draw":9,"loss":18,"for":58,"against":65,"isRemoved":true,"isReturning":true},
 {"country":"che","name":"Aarau","id":"FC_Aarau","win":9,"draw":9,"loss":18,"for":52,"against":65}
 ]
+[
+{"country":"hun","name":"MTK Hungária","id":"MTK_Budapest_FC","win":27,"draw":2,"loss":5,"for":77,"against":26,"isChampion":true},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":19,"draw":7,"loss":8,"for":61,"against":40},
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":20,"draw":3,"loss":11,"for":58,"against":40},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":16,"draw":11,"loss":7,"for":53,"against":39},
+{"country":"hun","name":"Dunaferr","id":"Dunaújváros_FC","win":17,"draw":6,"loss":11,"for":54,"against":46,"isReturning":true},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":15,"draw":10,"loss":9,"for":51,"against":44},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":15,"draw":8,"loss":11,"for":43,"against":37},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":14,"draw":9,"loss":11,"for":56,"against":54},
+{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":14,"draw":7,"loss":13,"for":53,"against":39},
+{"country":"hun","name":"Vác","id":"Vác_FC","win":13,"draw":10,"loss":11,"for":51,"against":49},
+{"country":"hun","name":"Gázszer","id":"Gázszer_FC","win":11,"draw":11,"loss":12,"for":37,"against":40,"isRemoved":true},
+{"country":"hun","name":"Kispest Honvéd","id":"Budapest_Honvéd_FC","win":11,"draw":9,"loss":14,"for":38,"against":50},
+{"country":"hun","name":"Nyíregyháza","id":"Nyíregyháza_Spartacus_FC","win":10,"draw":9,"loss":15,"for":46,"against":52,"isReturning":true},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":10,"draw":6,"loss":18,"for":39,"against":54},
+{"country":"hun","name":"Siófok","id":"BFC_Siófok","win":7,"draw":9,"loss":18,"for":32,"against":49},
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":7,"draw":9,"loss":18,"for":36,"against":54,"isRemoved":true},
+{"country":"hun","name":"BVSC","id":"Budapesti_VSC","win":7,"draw":6,"loss":21,"for":34,"against":53,"isRemoved":true},
+{"country":"hun","name":"III. Kerület","id":"III._Kerületi_TVE","win":4,"draw":6,"loss":24,"for":40,"against":93,"isRemoved":true,"isReturning":true}
+]

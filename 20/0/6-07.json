@@ -118,3 +118,21 @@
 {"country":"che","name":"Aarau","id":"FC_Aarau","win":6,"draw":8,"loss":22,"for":28,"against":55},
 {"country":"che","name":"Schaffhausen","id":"FC_Schaffhausen","win":4,"draw":13,"loss":19,"for":27,"against":58,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":22,"draw":3,"loss":5,"for":63,"against":21,"isChampion":true},
+{"country":"hun","name":"MTK Budapest","id":"MTK_Budapest_FC","win":19,"draw":4,"loss":7,"for":61,"against":33},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":17,"draw":4,"loss":9,"for":54,"against":38},
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":15,"draw":4,"loss":11,"for":39,"against":32,"deduct":-3},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":13,"draw":6,"loss":11,"for":43,"against":41},
+{"country":"hun","name":"Fehérvár","id":"Fehérvár_FC","win":13,"draw":5,"loss":12,"for":45,"against":43},
+{"country":"hun","name":"Kaposvár","id":"Kaposvári_Rákóczi_FC","win":12,"draw":5,"loss":13,"for":40,"against":36},
+{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":11,"draw":8,"loss":11,"for":48,"against":43},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":11,"draw":5,"loss":14,"for":40,"against":52},
+{"country":"hun","name":"Sopron","id":"FC_Sopron","win":11,"draw":4,"loss":15,"for":33,"against":46},
+{"country":"hun","name":"Paks","id":"Paksi_FC","win":10,"draw":7,"loss":13,"for":34,"against":38,"isNew":true},
+{"country":"hun","name":"Tatabánya","id":"Tatabányai_SC","win":11,"draw":3,"loss":16,"for":46,"against":58},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":9,"draw":8,"loss":13,"for":37,"against":43},
+{"country":"hun","name":"Rákospalota","id":"Rákospalotai_EAC","win":9,"draw":7,"loss":14,"for":42,"against":55},
+{"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":7,"draw":12,"loss":11,"for":31,"against":41,"isRemoved":true},
+{"country":"hun","name":"Vác","id":"Vác_FC","win":4,"draw":7,"loss":19,"for":21,"against":57,"isRemoved":true,"isReturning":true}
+]

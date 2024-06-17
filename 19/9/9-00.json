@@ -116,3 +116,23 @@
 {"country":"che","name":"Lugano","id":"FC_Lugano","win":13,"draw":10,"loss":13,"for":53,"against":52},
 {"country":"che","name":"Delémont","id":"SR_Delémont","win":8,"draw":7,"loss":21,"for":42,"against":77,"isRemoved":true,"isNew":true}
 ]
+[
+{"country":"hun","name":"Dunaferr","id":"Dunaújváros_FC","win":24,"draw":7,"loss":1,"for":79,"against":23,"isChampion":true},
+{"country":"hun","name":"MTK Hungária","id":"MTK_Budapest_FC","win":18,"draw":9,"loss":5,"for":64,"against":28},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":19,"draw":4,"loss":9,"for":58,"against":32},
+{"country":"hun","name":"Tatabánya","id":"Tatabányai_SC","win":14,"draw":13,"loss":5,"for":37,"against":34,"isReturning":true},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":14,"draw":8,"loss":10,"for":61,"against":39},
+{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":14,"draw":8,"loss":10,"for":52,"against":41},
+{"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":11,"draw":12,"loss":9,"for":41,"against":47,"isReturning":true},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":12,"draw":8,"loss":12,"for":52,"against":36},
+{"country":"hun","name":"Nyíregyháza","id":"Nyíregyháza_Spartacus_FC","win":12,"draw":8,"loss":12,"for":32,"against":42},
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":10,"draw":11,"loss":11,"for":46,"against":42},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":8,"draw":15,"loss":9,"for":34,"against":31},
+{"country":"hun","name":"Kispest Honvéd","id":"Budapest_Honvéd_FC","win":10,"draw":9,"loss":13,"for":27,"against":39},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":8,"draw":8,"loss":16,"for":37,"against":53},
+{"country":"hun","name":"Nagykanizsa","id":"Nagykanizsa_FC","win":7,"draw":10,"loss":15,"for":27,"against":44,"isReturning":true},
+{"country":"hun","name":"Siófok","id":"BFC_Siófok","win":7,"draw":7,"loss":18,"for":26,"against":51,"isRemoved":true},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":5,"draw":9,"loss":18,"for":26,"against":56,"isRemoved":true},
+{"country":"hun","name":"Vác","id":"Vác_FC","win":3,"draw":6,"loss":23,"for":24,"against":85,"isRemoved":true},
+{"country":"hun","name":"Szeged LC","id":"Szeged_LC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Excluded and results expunged","isNew":true}
+]

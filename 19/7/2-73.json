@@ -124,3 +124,21 @@
 {"country":"che","name":"Fribourg","id":"FC_Fribourg","win":4,"draw":7,"loss":15,"for":24,"against":43,"isRemoved":true,"isReturning":true},
 {"country":"che","name":"Grenchen","id":"FC_Grenchen","win":4,"draw":4,"loss":18,"for":23,"against":53,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":21,"draw":4,"loss":5,"for":81,"against":21,"isChampion":true},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":17,"draw":7,"loss":6,"for":60,"against":31},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":16,"draw":8,"loss":6,"for":54,"against":33},
+{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":12,"draw":11,"loss":7,"for":60,"against":37},
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":15,"draw":5,"loss":10,"for":46,"against":39},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":13,"draw":7,"loss":10,"for":42,"against":37,"isNew":true},
+{"country":"hun","name":"Csepel","id":"Csepel_SC","win":9,"draw":13,"loss":8,"for":45,"against":38},
+{"country":"hun","name":"Rába ETO Győr","id":"Győri_ETO_FC","win":14,"draw":2,"loss":14,"for":46,"against":51},
+{"country":"hun","name":"MTK Budapest","id":"MTK_Budapest_FC","win":8,"draw":11,"loss":11,"for":36,"against":49},
+{"country":"hun","name":"Salgótarján","id":"Salgótarjáni_BTC","win":9,"draw":7,"loss":14,"for":40,"against":50},
+{"country":"hun","name":"Tatabányai Bányász","id":"Tatabányai_SC","win":8,"draw":9,"loss":13,"for":28,"against":39},
+{"country":"hun","name":"Pécsi Dózsa","id":"Pécsi_MFC","win":7,"draw":11,"loss":12,"for":27,"against":41},
+{"country":"hun","name":"Egyetértés VM","id":"Vörös_Meteor_Egyetértés_SK","win":7,"draw":10,"loss":13,"for":28,"against":48},
+{"country":"hun","name":"SZEOL","id":"Szegedi_EAC","win":7,"draw":10,"loss":13,"for":31,"against":52,"isReturning":true},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":5,"draw":10,"loss":15,"for":20,"against":50,"isRemoved":true},
+{"country":"hun","name":"Komlói Bányász","id":"Komlói_Bányász_SK","win":5,"draw":9,"loss":16,"for":24,"against":52,"isRemoved":true}
+]

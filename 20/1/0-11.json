@@ -116,3 +116,21 @@
 {"country":"che","name":"Bellinzona","id":"AC_Bellinzona","win":7,"draw":11,"loss":18,"for":42,"against":75,"isRemoved":true},
 {"country":"che","name":"St. Gallen","id":"FC_St._Gallen","win":8,"draw":7,"loss":21,"for":34,"against":67,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":18,"draw":7,"loss":5,"for":59,"against":29,"isChampion":true},
+{"country":"hun","name":"Paks","id":"Paksi_FC","win":17,"draw":5,"loss":8,"for":54,"against":37},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":15,"draw":5,"loss":10,"for":50,"against":43},
+{"country":"hun","name":"ZTE","id":"Zalaegerszegi_TE","win":14,"draw":6,"loss":10,"for":51,"against":47},
+{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":12,"draw":10,"loss":8,"for":53,"against":43},
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":13,"draw":6,"loss":11,"for":50,"against":38},
+{"country":"hun","name":"Kaposvár","id":"Kaposvári_Rákóczi_FC","win":13,"draw":4,"loss":13,"for":41,"against":42},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":11,"draw":8,"loss":11,"for":42,"against":36},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":10,"draw":11,"loss":9,"for":40,"against":35},
+{"country":"hun","name":"Honvéd","id":"Budapest_Honvéd_FC","win":11,"draw":7,"loss":12,"for":36,"against":39},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":11,"draw":7,"loss":12,"for":34,"against":46},
+{"country":"hun","name":"Kecskemét","id":"Kecskeméti_TE","win":11,"draw":3,"loss":16,"for":51,"against":56},
+{"country":"hun","name":"Pápa","id":"Pápai_FC","win":10,"draw":5,"loss":15,"for":39,"against":52},
+{"country":"hun","name":"Siófok","id":"BFC_Siófok","win":8,"draw":10,"loss":12,"for":29,"against":41,"isReturning":true},
+{"country":"hun","name":"MTK","id":"MTK_Budapest_FC","win":8,"draw":6,"loss":16,"for":35,"against":49,"isRemoved":true},
+{"country":"hun","name":"Szolnok","id":"Szolnoki_MÁV_FC","win":5,"draw":6,"loss":19,"for":26,"against":56,"isRemoved":true,"isReturning":true}
+]

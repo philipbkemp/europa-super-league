@@ -55,3 +55,10 @@
 [
 	//che
 ]
+[
+{"country":"hun","name":"Budapesti TC","id":"Budapesti_TC","win":7,"draw":1,"loss":0,"for":31,"against":4,"isChampion":true},
+{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":4,"draw":1,"loss":3,"for":14,"against":13},
+{"country":"hun","name":"33 FC","id":"33_FC","win":3,"draw":3,"loss":2,"for":11,"against":12,"isNew":true},
+{"country":"hun","name":"Budapesti SC","id":"Budapesti_SC","win":2,"draw":0,"loss":6,"for":4,"against":33,"isRemoved":true},
+{"country":"hun","name":"Magyar Úszó Egylet","id":"Magyar_Úszó_Egylet","win":1,"draw":1,"loss":6,"for":7,"against":8}
+]

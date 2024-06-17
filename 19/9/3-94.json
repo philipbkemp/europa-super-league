@@ -118,3 +118,21 @@
 {"country":"che","name":"Yverdon-Sport","id":"Yverdon-Sport_FC","win":4,"draw":10,"loss":22,"for":27,"against":62,"isRemoved":true,"isNew":true},
 {"country":"che","name":"Kriens","id":"SC_Kriens","win":7,"draw":11,"loss":18,"for":38,"against":58,"isRemoved":true,"isNew":true}
 ]
+[
+{"country":"hun","name":"Vác","id":"Vác_FC","win":19,"draw":8,"loss":3,"for":58,"against":29,"isChampion":true},
+{"country":"hun","name":"Kispest Honvéd","id":"Budapest_Honvéd_FC","win":18,"draw":7,"loss":5,"for":66,"against":33},
+{"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":19,"draw":3,"loss":8,"for":68,"against":29},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":16,"draw":5,"loss":9,"for":50,"against":32},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":15,"draw":7,"loss":8,"for":51,"against":37},
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":13,"draw":8,"loss":9,"for":44,"against":35},
+{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":12,"draw":9,"loss":9,"for":40,"against":33,"isReturning":true},
+{"country":"hun","name":"Csepel","id":"Csepel_SC","win":12,"draw":8,"loss":10,"for":36,"against":44},
+{"country":"hun","name":"Parmalat","id":"Fehérvár_FC","win":8,"draw":9,"loss":13,"for":33,"against":46},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":8,"draw":8,"loss":14,"for":36,"against":43},
+{"country":"hun","name":"PMSC Fordan","id":"Pécsi_MFC","win":7,"draw":10,"loss":13,"for":23,"against":39},
+{"country":"hun","name":"BVSC","id":"Budapesti_VSC","win":7,"draw":10,"loss":13,"for":32,"against":52},
+{"country":"hun","name":"Siófoki Bányász","id":"BFC_Siófok","win":6,"draw":10,"loss":14,"for":33,"against":49,"isRemoved":true},
+{"country":"hun","name":"EMDSZ Sopron","id":"Anger_réti_SFAC_1900_SE","win":8,"draw":6,"loss":16,"for":31,"against":52,"isNew":true},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":5,"draw":9,"loss":16,"for":28,"against":48,"isRemoved":true,"isReturning":true},
+{"country":"hun","name":"MTK Hungária","id":"MTK_Budapest_FC","win":4,"draw":9,"loss":17,"for":30,"against":58,"isRemoved":true}
+]

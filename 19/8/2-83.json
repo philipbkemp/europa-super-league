@@ -124,3 +124,21 @@
 {"country":"che","name":"FC Bulle","id":"FC_Bulle","win":4,"draw":4,"loss":22,"for":27,"against":87,"isRemoved":true},
 {"country":"che","name":"FC Winterthur","id":"FC_Winterthur","win":2,"draw":6,"loss":22,"for":30,"against":74,"isRemoved":true,"isReturning":true}
 ]
+[
+{"country":"hun","name":"Rába ETO Győr","id":"Győri_ETO_FC","win":19,"draw":6,"loss":5,"for":82,"against":37,"isChampion":true},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":19,"draw":5,"loss":6,"for":73,"against":46},
+{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":17,"draw":8,"loss":5,"for":57,"against":33},
+{"country":"hun","name":"Csepel","id":"Csepel_SC","win":13,"draw":11,"loss":6,"for":52,"against":46},
+{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":12,"draw":8,"loss":10,"for":45,"against":47},
+{"country":"hun","name":"Tatabányai Bányász","id":"Tatabányai_SC","win":9,"draw":11,"loss":10,"for":42,"against":40},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":11,"draw":6,"loss":13,"for":56,"against":52},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":10,"draw":8,"loss":12,"for":33,"against":40},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":8,"draw":11,"loss":11,"for":36,"against":44},
+{"country":"hun","name":"Nyíregyházi VSSC","id":"Nyíregyháza_Spartacus_FC","win":9,"draw":8,"loss":13,"for":29,"against":37},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":8,"draw":10,"loss":12,"for":37,"against":46},
+{"country":"hun","name":"MTK-VM","id":"MTK_Budapest_FC","win":9,"draw":8,"loss":13,"for":40,"against":58,"isReturning":true},
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":11,"draw":3,"loss":16,"for":48,"against":47},
+{"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":9,"draw":7,"loss":14,"for":45,"against":52},
+{"country":"hun","name":"Debreceni MVSC","id":"Debreceni_VSC","win":8,"draw":9,"loss":13,"for":35,"against":51,"isRemoved":true},
+{"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":5,"draw":7,"loss":18,"for":41,"against":75,"isRemoved":true}
+]

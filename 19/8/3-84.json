@@ -124,3 +124,21 @@
 {"country":"che","name":"AC Bellinzona","id":"AC_Bellinzona","win":4,"draw":4,"loss":22,"for":30,"against":79,"isRemoved":true},
 {"country":"che","name":"FC Chiasso","id":"FC_Chiasso","win":4,"draw":2,"loss":24,"for":26,"against":82,"isRemoved":true,"isReturning":true}
 ]
+[
+{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":19,"draw":6,"loss":5,"for":63,"against":24,"isChampion":true},
+{"country":"hun","name":"Rába ETO Győr","id":"Győri_ETO_FC","win":14,"draw":9,"loss":7,"for":66,"against":58},
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":16,"draw":5,"loss":9,"for":47,"against":31},
+{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":12,"draw":11,"loss":7,"for":49,"against":33},
+{"country":"hun","name":"Tatabányai Bányász","id":"Tatabányai_SC","win":13,"draw":9,"loss":8,"for":40,"against":37},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":14,"draw":5,"loss":11,"for":46,"against":40},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":11,"draw":8,"loss":11,"for":38,"against":37},
+{"country":"hun","name":"MTK-VM","id":"MTK_Budapest_FC","win":10,"draw":9,"loss":11,"for":39,"against":44},
+{"country":"hun","name":"Szeged","id":"Szegedi_EAC","win":10,"draw":9,"loss":11,"for":42,"against":44,"isReturning":true},
+{"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":8,"draw":12,"loss":10,"for":36,"against":38},
+{"country":"hun","name":"Csepel","id":"Csepel_SC","win":9,"draw":9,"loss":12,"for":36,"against":43},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":9,"draw":9,"loss":12,"for":43,"against":44},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":10,"draw":6,"loss":14,"for":29,"against":42},
+{"country":"hun","name":"Volán","id":"Volán_FC","win":7,"draw":10,"loss":13,"for":42,"against":54,"isRemoved":true,"isReturning":true},
+{"country":"hun","name":"Nyíregyházi VSSC","id":"Nyíregyháza_Spartacus_FC","win":7,"draw":8,"loss":15,"for":28,"against":47,"isRemoved":true},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":2,"draw":9,"loss":19,"for":25,"against":53,"isRemoved":true}
+]

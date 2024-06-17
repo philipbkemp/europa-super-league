@@ -1,8 +1,9 @@
-country = "che";
+country = "hun";
 current_season = false;
 teams = [];
 IS_AUTUMN_SPRING = false;
 IS_CHAMP_RELEG = false;
+ISGROUPEDFIRST = false;
 tbl = $("h2 span#League_table");
 if ( tbl.length === 0 ) { tbl = $("h2 span#Final_league_table"); if ( tbl.length !== 1 ) { tbl = []; } }
 if ( tbl.length === 0 ) { tbl = $("h2 span#First_Division"); if ( tbl.length !== 1 ) { tbl = []; } }
@@ -37,6 +38,10 @@ if ( tbl.length === 0 ) { tbl = $("h3 span#Qualification_phase, h3 span#Champion
 if ( tbl.length === 0 ) { tbl = $("h3 span#Qualification_phase, h3 span#Champion_Playoffs, h3 span[id='Promotion/relegation_group_NLA/NLB']"); IS_CHAMP_RELEG = false; if ( tbl.length !== 3 ) { tbl = []; } }
 if ( tbl.length === 0 ) { tbl = $("h3 span#Regular_season, h3 span#Champion_playoffs, h2 span[id='Nationalliga_A/B_playoffs']"); IS_CHAMP_RELEG = false; if ( tbl.length !== 3 ) { tbl = []; } }
 if ( tbl.length === 0 ) { tbl = $("h3 span#Qualification_phase, h3 span#Championship_round, h3 span[id='Promotion/relegation_NLA/NLB']"); IS_CHAMP_RELEG = false; if ( tbl.length !== 3 ) { tbl = []; } }
+if ( tbl.length === 0 ) { tbl = $("h2 span#Final_standings"); if ( tbl.length !== 1 ) { tbl = []; } }
+if ( tbl.length === 0 ) { tbl = $("h3 span#Group_A, h3 span#Group_B, h2 span#Second_stage"); IS_CHAMP_RELEG = false; ISGROUPEDFIRST = true; if ( tbl.length !== 3 ) { tbl = []; ISGROUPEDFIRST = false; } }
+if ( tbl.length === 0 ) { tbl = $("h2 span#First_stage, h3 span#Championship_playoff, h3 span#Relegation_playoff"); IS_CHAMP_RELEG = true; if ( tbl.length !== 3 ) { tbl = []; } }
+
 if ( tbl.length !== 0 ) {
 	tblTotal = tbl.length;
 	for ( tblIndex=0 ; tblIndex!==tblTotal ; tblIndex++ ) {
@@ -45,23 +50,39 @@ if ( tbl.length !== 0 ) {
 		thisTbl = $($(tbl)[tblIndex]).parent().nextAll(".wikitable")[0];
 		rows = Array.from($(thisTbl).find("tr"));
 		firstRow = Array.from($($(rows)[0]).find("th, td"));
-		TYPE_STANDARD = ["Pos","Team","Pld","W","D","L","GF","GA"]; IS_STANDARD = true;
-		TYPE_HOMEAWAY = ["Pos","Team","Pld","HW","HD","HL","HGF","HGA","AW","AD","AL","AGF","AGA"]; IS_HOMEAWAY = true;
-		TYPE_NODRAWS = ["Pos","Team","Pld","W","L","GF","GA"]; IS_NODRAWS = true;
+		TYPE_STANDARD = ["Pos","Team","Pld","W","D","L","GF","GA"]; IS_STANDARD = 0;
+		TYPE_HOMEAWAY = ["Pos","Team","Pld","HW","HD","HL","HGF","HGA","AW","AD","AL","AGF","AGA"]; IS_HOMEAWAY = 0;
+		TYPE_NODRAWS = ["Pos","Team","Pld","W","L","GF","GA"]; IS_NODRAWS = 0;
+		TYPE_PENALTYDRAW = ["Pos","Team","Pld","W","PKW","PKL","L","GF","GA"]; IS_PENDRAW = 0;
 		for ( i=0; i!=TYPE_STANDARD.length; i++ ) {
-			if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_STANDARD[i] ) { IS_STANDARD = IS_STANDARD && true; } else { IS_STANDARD = false; }
+			if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_STANDARD[i] ) { IS_STANDARD++ }
 		}
-		if ( ! IS_STANDARD ) {
+		if ( IS_STANDARD !== TYPE_STANDARD.length ) {
 			for ( i=0; i!=TYPE_HOMEAWAY.length; i++ ) {
-				if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_HOMEAWAY[i] ) { IS_HOMEAWAY = IS_HOMEAWAY && true; } else { IS_HOMEAWAY = false; }
+				if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_HOMEAWAY[i] ) { IS_HOMEAWAY++ }
 			}
-			if ( ! IS_HOMEAWAY ) {
+			if ( IS_HOMEAWAY !== TYPE_HOMEAWAY.length ) {
 				for ( i=0; i!=TYPE_NODRAWS.length; i++ ) {
-					if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_NODRAWS[i] ) { IS_NODRAWS = IS_NODRAWS && true; } else { IS_NODRAWS = false; }
+					if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_NODRAWS[i] ) { IS_NODRAWS++ }
+				}
+				if ( IS_NODRAWS !== TYPE_NODRAWS.length) {
+				for ( i=0; i!=TYPE_PENALTYDRAW.length; i++ ) {
+					if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_PENALTYDRAW[i] ) { IS_PENDRAW++ }
+				}
 				}
 			}
 		}
-		if ( IS_STANDARD || IS_HOMEAWAY || IS_NODRAWS ) {
+		/*console.log(
+			IS_STANDARD === TYPE_STANDARD.length,
+			IS_HOMEAWAY === TYPE_HOMEAWAY.length,
+			IS_NODRAWS === TYPE_NODRAWS.length,
+			IS_PENDRAW === TYPE_PENALTYDRAW.length
+		);*/
+		if ( IS_STANDARD === TYPE_STANDARD.length ||
+			IS_HOMEAWAY === TYPE_HOMEAWAY.length ||
+			IS_NODRAWS === TYPE_NODRAWS.length ||
+			IS_PENDRAW === TYPE_PENALTYDRAW.length
+		) {
 			for ( r=1; r!==rows.length; r++ ) {
 				cols = Array.from($($(rows)[r]).find("th, td"));
 				if ( $($(cols)[0]).text().trim() !== "" ) {
@@ -75,7 +96,7 @@ if ( tbl.length !== 0 ) {
 						theClubId = theClubName.toLowerCase().split(" ").join("_");
 						console.log(theClubId);
 					}
-					if ( IS_STANDARD ) {
+					if ( IS_STANDARD === TYPE_STANDARD.length ) {
 						thisClub ={
 							country: country,
 							name: theClubName,
@@ -86,7 +107,7 @@ if ( tbl.length !== 0 ) {
 							for: parseInt($(cols[6]).text().trim()),
 							against: parseInt($(cols[7]).text().trim())
 						};
-					} else if ( IS_HOMEAWAY ) {
+					} else if ( IS_HOMEAWAY === TYPE_HOMEAWAY.length ) {
 						thisClub = {
 							country: country,
 							name: theClubName,
@@ -97,7 +118,7 @@ if ( tbl.length !== 0 ) {
 							for: parseInt($(cols[6]).text().trim()) + parseInt($(cols[11]).text().trim()),
 							against: parseInt($(cols[7]).text().trim()) + parseInt($(cols[12]).text().trim())
 						};
-					} else if ( IS_NODRAWS ) {
+					} else if ( IS_NODRAWS === TYPE_NODRAWS.length ) {
 						thisClub = {
 							country: country,
 							name: theClubName,
@@ -108,13 +129,27 @@ if ( tbl.length !== 0 ) {
 							for: parseInt($(cols[5]).text().trim()),
 							against: parseInt($(cols[6]).text().trim())
 						};
+					} else if ( IS_PENDRAW === TYPE_PENALTYDRAW.length ) {
+						console.error("Penalites after draw, TBC");
+						thisClub = {
+							country: country,
+							name: theClubName,
+							id: theClubId,
+							win: parseInt($(cols[3]).text().trim()),
+							draw: 0,
+							loss: parseInt($(cols[6]).text().trim()),
+							for: parseInt($(cols[7]).text().trim()),
+							against: parseInt($(cols[8]).text().trim()),
+							penWin: parseInt($(cols[4]).text().trim()), // HUN, 1988-89, 2pts for PenWin after draw
+							penLoss: parseInt($(cols[5]).text().trim()) // HUN, 1988-89, 0pts for PenLos after draw
+						};
 					}
 					if ( current_season ) {
 						thisClub.isCurrentSeason = true;
 					}
 					if ( $(cols[0]).text().trim() === "1" && !current_season) { thisClub.isChampion = true; }
 					if ( relegated.indexOf($(cols[0]).text().trim()) !== -1 ) { thisClub.isRemoved = true; }
-					if ( tblIndex === 0 ) {
+					if ( tblIndex === 0 || ( ISGROUPEDFIRST && tblIndex === 1) ) {
 						teams.push(thisClub);
 					} else {
 						foundClub = false;

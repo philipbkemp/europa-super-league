@@ -118,3 +118,21 @@
 {"country":"che","name":"Neuchâtel Xamax","id":"Neuchâtel_Xamax_FCS","win":13,"draw":8,"loss":15,"for":45,"against":69},
 {"country":"che","name":"Luzern","id":"FC_Luzern","win":12,"draw":7,"loss":17,"for":51,"against":68}
 ]
+[
+{"country":"hun","name":"Tatabánya","id":"Tatabányai_SC","win":9,"draw":8,"loss":19,"for":49,"against":73,"isRemoved":true},
+{"country":"hun","name":"Dunaferr","id":"Dunaújváros_FC","win":21,"draw":7,"loss":8,"for":77,"against":55},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":18,"draw":11,"loss":7,"for":59,"against":35,"isChampion":true},
+{"country":"hun","name":"Sopron","id":"FC_Sopron","win":13,"draw":8,"loss":15,"for":47,"against":53,"isNew":true},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":16,"draw":8,"loss":12,"for":55,"against":55},
+{"country":"hun","name":"Kispest Honvéd","id":"Budapest_Honvéd_FC","win":12,"draw":12,"loss":12,"for":51,"against":51},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":3,"draw":4,"loss":7,"for":14,"against":24,"isRemoved":true},
+{"country":"hun","name":"Nyíregyháza","id":"Nyíregyháza_Spartacus_FC","win":3,"draw":0,"loss":11,"for":10,"against":24,"isRemoved":true},
+{"country":"hun","name":"MTK Hungária","id":"MTK_Budapest_FC","win":16,"draw":8,"loss":12,"for":63,"against":35,"isChampion":true},
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":17,"draw":9,"loss":10,"for":73,"against":56},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":17,"draw":10,"loss":9,"for":66,"against":44},
+{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":13,"draw":5,"loss":18,"for":58,"against":64},
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":15,"draw":5,"loss":16,"for":58,"against":56,"isReturning":true},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":10,"draw":14,"loss":12,"for":45,"against":58},
+{"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":2,"draw":3,"loss":9,"for":13,"against":24,"isRemoved":true},
+{"country":"hun","name":"Nagykanizsa","id":"Nagykanizsa_FC","win":2,"draw":2,"loss":10,"for":12,"against":43,"isRemoved":true}
+]

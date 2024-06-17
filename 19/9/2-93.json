@@ -118,3 +118,21 @@
 {"country":"che","name":"FC Chiasso","id":"FC_Chiasso","win":12,"draw":8,"loss":16,"for":37,"against":41,"isRemoved":true,"isReturning":true},
 {"country":"che","name":"FC Bulle","id":"FC_Bulle","win":12,"draw":8,"loss":16,"for":46,"against":62,"isRemoved":true,"isReturning":true}
 ]
+[
+{"country":"hun","name":"Kispest Honvéd","id":"Budapest_Honvéd_FC","win":19,"draw":5,"loss":6,"for":59,"against":28,"isChampion":true},
+{"country":"hun","name":"Vác","id":"Vác_FC","win":17,"draw":8,"loss":5,"for":48,"against":28},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":19,"draw":3,"loss":8,"for":49,"against":28},
+{"country":"hun","name":"MTK Hungária","id":"MTK_Budapest_FC","win":14,"draw":8,"loss":8,"for":59,"against":37},
+{"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":12,"draw":12,"loss":6,"for":42,"against":31,"isReturning":true},
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":15,"draw":5,"loss":10,"for":42,"against":34},
+{"country":"hun","name":"Csepel","id":"Csepel_SC","win":12,"draw":6,"loss":12,"for":29,"against":37,"isReturning":true},
+{"country":"hun","name":"Siófoki Bányász","id":"BFC_Siófok","win":11,"draw":7,"loss":12,"for":36,"against":39},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":10,"draw":9,"loss":11,"for":38,"against":43},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":7,"draw":13,"loss":10,"for":31,"against":33},
+{"country":"hun","name":"PMSC Fordan","id":"Pécsi_MFC","win":10,"draw":7,"loss":13,"for":35,"against":39},
+{"country":"hun","name":"BVSC","id":"Budapesti_VSC","win":10,"draw":6,"loss":14,"for":32,"against":37},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":7,"draw":9,"loss":14,"for":26,"against":45,"isRemoved":true},
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":4,"draw":12,"loss":14,"for":29,"against":45},
+{"country":"hun","name":"Nyíregyháza","id":"Nyíregyháza_Spartacus_FC","win":3,"draw":12,"loss":15,"for":17,"against":39,"isRemoved":true,"isReturning":true},
+{"country":"hun","name":"Veszprém","id":"FC_Veszprém","win":6,"draw":6,"loss":18,"for":25,"against":54,"isRemoved":true}
+]

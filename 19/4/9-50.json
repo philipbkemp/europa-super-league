@@ -107,3 +107,21 @@
 {"country":"che","name":"FC St. Gallen","id":"FC_St._Gallen","win":7,"draw":2,"loss":17,"for":40,"against":79,"isRemoved":true,"isReturning":true},
 {"country":"che","name":"FC Bern","id":"FC_Bern","win":4,"draw":3,"loss":19,"for":31,"against":70,"isRemoved":true,"isReturning":true}
 ]
+[
+{"country":"hun","name":"Budapest Honvéd FC","id":"Budapest_Honvéd_FC","win":23,"draw":4,"loss":3,"for":84,"against":29,"isChampion":true},
+{"country":"hun","name":"ÉDOSZ","id":"Ferencvárosi_TC","win":21,"draw":4,"loss":5,"for":86,"against":38},
+{"country":"hun","name":"Textiles","id":"MTK_Budapest_FC","win":18,"draw":8,"loss":4,"for":81,"against":33},
+{"country":"hun","name":"Csepel SC","id":"Csepel_SC","win":15,"draw":8,"loss":7,"for":66,"against":45},
+{"country":"hun","name":"Bp. Dózsa","id":"Újpest_FC","win":14,"draw":9,"loss":7,"for":71,"against":52},
+{"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":15,"draw":5,"loss":10,"for":67,"against":44},
+{"country":"hun","name":"Győri ETO FC","id":"Győri_ETO_FC","win":13,"draw":7,"loss":10,"for":63,"against":45},
+{"country":"hun","name":"Teherfuvar","id":"Gamma_FC","win":10,"draw":11,"loss":9,"for":59,"against":51,"isRemoved":true},
+{"country":"hun","name":"Dorogi Tárna","id":"Dorogi_FC","win":11,"draw":6,"loss":13,"for":60,"against":58,"isReturning":true},
+{"country":"hun","name":"Salgótarjáni BTC","id":"Salgótarjáni_BTC","win":10,"draw":8,"loss":12,"for":51,"against":56},
+{"country":"hun","name":"Budapesti Postás SE","id":"Budapesti_Postás_SE","win":9,"draw":10,"loss":11,"for":45,"against":59,"isReturning":true},
+{"country":"hun","name":"Szombathelyi Haladás","id":"Szombathelyi_Haladás","win":10,"draw":4,"loss":16,"for":52,"against":67},
+{"country":"hun","name":"Budapesti Előre","id":"BKV_Előre_SC","win":6,"draw":5,"loss":19,"for":51,"against":93,"isReturning":true},
+{"country":"hun","name":"Nagykanizsa","id":"Nagykanizsai_Olajbányász","win":3,"draw":9,"loss":18,"for":35,"against":85,"isNew":true,"isRemoved":true},
+{"country":"hun","name":"Soroksár FC","id":"Soroksár_FC","win":4,"draw":5,"loss":21,"for":32,"against":84,"isRemoved":true},
+{"country":"hun","name":"Debreceni VSC","id":"Debreceni_VSC","win":4,"draw":5,"loss":21,"for":39,"against":103,"isReturning":true,"isRemoved":true}
+]

@@ -124,3 +124,21 @@
 {"country":"che","name":"Sion","id":"FC_Sion","win":7,"draw":6,"loss":13,"for":39,"against":52,"isRemoved":true},
 {"country":"che","name":"Luzern","id":"FC_Luzern","win":6,"draw":4,"loss":16,"for":35,"against":71,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":21,"draw":7,"loss":2,"for":65,"against":26,"isChampion":true},
+{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":20,"draw":8,"loss":2,"for":102,"against":27},
+{"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":18,"draw":6,"loss":6,"for":66,"against":37},
+{"country":"hun","name":"Budapest Honvéd FC","id":"Budapest_Honvéd_FC","win":13,"draw":12,"loss":5,"for":50,"against":30},
+{"country":"hun","name":"Csepel SC","id":"Csepel_SC","win":13,"draw":8,"loss":9,"for":35,"against":29},
+{"country":"hun","name":"Pécsi Dózsa","id":"Pécsi_MFC","win":10,"draw":8,"loss":12,"for":34,"against":40},
+{"country":"hun","name":"Tatabányai Bányász","id":"Tatabányai_SC","win":9,"draw":10,"loss":11,"for":31,"against":38},
+{"country":"hun","name":"Dunaújvárosi Kohász","id":"Dunaújváros_FC","win":10,"draw":7,"loss":13,"for":34,"against":45},
+{"country":"hun","name":"Vörös Meteor Egyetértés SK","id":"Vörös_Meteor_Egyetértés_SK","win":7,"draw":12,"loss":11,"for":34,"against":42,"isNew":true},
+{"country":"hun","name":"Szombathelyi Haladás","id":"Szombathelyi_Haladás","win":9,"draw":8,"loss":13,"for":36,"against":45},
+{"country":"hun","name":"MTK Budapest FC","id":"MTK_Budapest_FC","win":7,"draw":11,"loss":12,"for":35,"against":40},
+{"country":"hun","name":"Salgótarjáni BTC","id":"Salgótarjáni_BTC","win":8,"draw":9,"loss":13,"for":41,"against":55},
+{"country":"hun","name":"Diósgyőri VTK","id":"Diósgyőri_VTK","win":8,"draw":8,"loss":14,"for":36,"against":56},
+{"country":"hun","name":"Győri ETO FC","id":"Győri_ETO_FC","win":6,"draw":11,"loss":13,"for":37,"against":48},
+{"country":"hun","name":"Videoton SC","id":"Fehérvár_FC","win":9,"draw":3,"loss":18,"for":28,"against":57,"isNew":true,"isRemoved":true},
+{"country":"hun","name":"Szegedi EAC","id":"Szegedi_EAC","win":5,"draw":6,"loss":19,"for":26,"against":75,"isRemoved":true}
+]

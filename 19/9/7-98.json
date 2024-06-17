@@ -116,3 +116,23 @@
 {"country":"che","name":"Basel","id":"FC_Basel","win":11,"draw":8,"loss":17,"for":55,"against":68},
 {"country":"che","name":"Étoile Carouge","id":"Étoile_Carouge_FC","win":4,"draw":8,"loss":24,"for":33,"against":82,"isRemoved":true,"isReturning":true}
 ]
+[
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":21,"draw":10,"loss":3,"for":62,"against":26,"isChampion":true},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":20,"draw":7,"loss":7,"for":63,"against":43},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":19,"draw":7,"loss":8,"for":66,"against":41},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":18,"draw":9,"loss":7,"for":47,"against":31},
+{"country":"hun","name":"MTK Hungária","id":"MTK_Budapest_FC","win":17,"draw":7,"loss":10,"for":60,"against":35},
+{"country":"hun","name":"Vác","id":"Vác_FC","win":15,"draw":6,"loss":13,"for":45,"against":47},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":15,"draw":5,"loss":14,"for":58,"against":42},
+{"country":"hun","name":"Gázszer","id":"Gázszer_FC","win":12,"draw":13,"loss":9,"for":55,"against":45,"isNew":true},
+{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":13,"draw":9,"loss":12,"for":46,"against":48},
+{"country":"hun","name":"BVSC","id":"Budapesti_VSC","win":12,"draw":10,"loss":12,"for":49,"against":43},
+{"country":"hun","name":"Diósgyőri","id":"Diósgyőri_VTK","win":12,"draw":8,"loss":14,"for":46,"against":41,"isReturning":true},
+{"country":"hun","name":"Siófoki Bányász","id":"BFC_Siófok","win":11,"draw":8,"loss":15,"for":38,"against":43},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":9,"draw":9,"loss":16,"for":38,"against":47},
+{"country":"hun","name":"Kispest Honvéd","id":"Budapest_Honvéd_FC","win":10,"draw":6,"loss":18,"for":41,"against":57},
+{"country":"hun","name":"Tiszakécske","id":"Tiszakécske_FC","win":8,"draw":8,"loss":18,"for":36,"against":75,"isRemoved":true,"isNew":true},
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":7,"draw":10,"loss":17,"for":43,"against":58},
+{"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":7,"draw":10,"loss":17,"for":28,"against":61,"isRemoved":true},
+{"country":"hun","name":"Stadler","id":"Kiskőrösi_FC","win":4,"draw":10,"loss":20,"for":29,"against":67,"isRemoved":true}
+]

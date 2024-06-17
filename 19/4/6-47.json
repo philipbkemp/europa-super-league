@@ -110,3 +110,21 @@
 {"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":6,"draw":6,"loss":14,"for":44,"against":59,"isRemoved":true},
 {"country":"che","name":"Urania Genève Sport","id":"Urania_Genève_Sport","win":7,"draw":4,"loss":15,"for":33,"against":68,"isRemoved":true,"isReturning":true}
 ]
+[
+{"country":"hun","name":"Újpesti TE","id":"Újpest_FC","win":21,"draw":5,"loss":4,"for":106,"against":43,"isChampion":true,"isReturning":true},
+{"country":"hun","name":"Kispest","id":"Budapest_Honvéd_FC","win":17,"draw":7,"loss":6,"for":77,"against":37,"isReturning":true},
+{"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":16,"draw":7,"loss":7,"for":77,"against":43,"isReturning":true},
+{"country":"hun","name":"FTC","id":"Ferencvárosi_TC","win":16,"draw":6,"loss":8,"for":70,"against":39,"isReturning":true},
+{"country":"hun","name":"MTK","id":"MTK_Budapest_FC","win":14,"draw":3,"loss":13,"for":52,"against":43,"isReturning":true},
+{"country":"hun","name":"Csepel","id":"Csepel_SC","win":13,"draw":5,"loss":12,"for":57,"against":48,"isReturning":true},
+{"country":"hun","name":"Szentlőrinci AC","id":"Szentlőrinci_AC","win":11,"draw":8,"loss":11,"for":70,"against":64,"isNew":true},
+{"country":"hun","name":"Debreceni VSC","id":"Debreceni_VSC","win":13,"draw":4,"loss":13,"for":57,"against":70,"isReturning":true},
+{"country":"hun","name":"Szeged","id":"Szegedi_AK","win":12,"draw":5,"loss":13,"for":57,"against":64,"isReturning":true},
+{"country":"hun","name":"Szolnok","id":"Szolnoki_MÁV_FC","win":12,"draw":5,"loss":13,"for":46,"against":55,"isReturning":true},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":11,"draw":6,"loss":13,"for":49,"against":47,"isReturning":true},
+{"country":"hun","name":"Győri ETO FC","id":"Győri_ETO_FC","win":11,"draw":5,"loss":14,"for":54,"against":49,"isReturning":true},
+{"country":"hun","name":"Dorogi Bányász","id":"Dorogi_FC","win":11,"draw":5,"loss":14,"for":58,"against":60,"isNew":true,"isremoved":true},
+{"country":"hun","name":"Soroksár FC","id":"Soroksár_FC","win":11,"draw":5,"loss":14,"for":35,"against":56,"isReturning":true,"isremoved":true},
+{"country":"hun","name":"Perecesi TK","id":"Perecesi_TK","win":11,"draw":1,"loss":18,"for":47,"against":75,"isRemoved":true,"isNew":true},
+{"country":"hun","name":"Testvériség SE","id":"Testvériség_SE","win":1,"draw":1,"loss":28,"for":26,"against":145,"isRemoved":true,"isNew":true}
+]

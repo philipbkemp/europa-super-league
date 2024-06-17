@@ -118,3 +118,21 @@
 {"country":"che","name":"Schaffhausen","id":"FC_Schaffhausen","win":7,"draw":11,"loss":16,"for":36,"against":59,"isReturning":true},
 {"country":"che","name":"Servette","id":"Servette_FC","win":6,"draw":5,"loss":7,"for":24,"against":28,"isRemoved":true,"deduct":-3,"deductReason":"Financial irregularities","removedNote":"Forced to withdraw after the first round of matches"}
 ]
+[
+{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":19,"draw":5,"loss":6,"for":57,"against":25,"isChampion":true},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":17,"draw":5,"loss":8,"for":56,"against":31},
+{"country":"hun","name":"MTK Budapest","id":"MTK_Budapest_FC","win":16,"draw":9,"loss":5,"for":47,"against":26,"deduct":-1},
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":15,"draw":10,"loss":5,"for":60,"against":34},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":16,"draw":6,"loss":8,"for":44,"against":32},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":13,"draw":5,"loss":12,"for":48,"against":45},
+{"country":"hun","name":"Sopron","id":"FC_Sopron","win":11,"draw":9,"loss":10,"for":44,"against":44},
+{"country":"hun","name":"Fehérvár","id":"Fehérvár_FC","win":11,"draw":10,"loss":9,"for":44,"against":36,"deduct":-3},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":11,"draw":4,"loss":15,"for":39,"against":45,"isReturning":true},
+{"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":9,"draw":9,"loss":12,"for":33,"against":35},
+{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":10,"draw":5,"loss":15,"for":37,"against":58,"isReturning":true},
+{"country":"hun","name":"Kaposvár","id":"Kaposvári_Rákóczi_FC","win":8,"draw":10,"loss":12,"for":34,"against":47,"isReturning":true},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":10,"draw":3,"loss":17,"for":34,"against":48,"isReturning":true},
+{"country":"hun","name":"Lombard Pápa","id":"Pápai_FC","win":8,"draw":6,"loss":16,"for":40,"against":47,"isNew":true},
+{"country":"hun","name":"Nyíregyháza","id":"Nyíregyháza_Spartacus_FC","win":5,"draw":11,"loss":14,"for":38,"against":63,"isRemoved":true,"isReturning":true},
+{"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":4,"draw":7,"loss":19,"for":26,"against":65,"isRemoved":true,"deduct":-15}
+]

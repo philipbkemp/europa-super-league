@@ -116,3 +116,21 @@
 {"country":"che","name":"Aarau","id":"FC_Aarau","win":12,"draw":6,"loss":18,"for":55,"against":71,"isReturning":true},
 {"country":"che","name":"Lausanne-Sport","id":"FC_Lausanne-Sport","win":7,"draw":3,"loss":26,"for":38,"against":71,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":18,"draw":8,"loss":4,"for":66,"against":33,"isChampion":true},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":18,"draw":8,"loss":4,"for":58,"against":32},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":17,"draw":6,"loss":7,"for":47,"against":33},
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":15,"draw":8,"loss":7,"for":52,"against":31},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":12,"draw":11,"loss":7,"for":45,"against":38},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":12,"draw":10,"loss":8,"for":37,"against":31},
+{"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":12,"draw":9,"loss":9,"for":41,"against":38},
+{"country":"hun","name":"MTK","id":"MTK_Budapest_FC","win":11,"draw":7,"loss":12,"for":42,"against":36},
+{"country":"hun","name":"Honvéd","id":"Budapest_Honvéd_FC","win":10,"draw":6,"loss":14,"for":37,"against":39},
+{"country":"hun","name":"Kecskemét","id":"Kecskeméti_TE","win":9,"draw":9,"loss":12,"for":36,"against":51},
+{"country":"hun","name":"Paks","id":"Paksi_FC","win":8,"draw":10,"loss":12,"for":39,"against":42},
+{"country":"hun","name":"Pápa","id":"Pápai_FC","win":9,"draw":6,"loss":15,"for":32,"against":50},
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":8,"draw":8,"loss":14,"for":46,"against":51},
+{"country":"hun","name":"Puskás Akadémia","id":"Puskás_Akadémia_FC","win":8,"draw":7,"loss":15,"for":36,"against":51,"isNew":true},
+{"country":"hun","name":"Mezőkövesd","id":"Mezőkövesdi_SE","win":6,"draw":6,"loss":18,"for":27,"against":52,"isRemoved":true,"isNew":true},
+{"country":"hun","name":"Kaposvár","id":"Kaposvári_Rákóczi_FC","win":4,"draw":7,"loss":19,"for":21,"against":54,"isRemoved":true}
+]

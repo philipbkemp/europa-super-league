@@ -56,3 +56,21 @@
 {"country":"che","name":"FC Biel-Bienne","id":"FC_Biel-Bienne","win":7,"draw":3,"loss":16,"for":39,"against":76},
 {"country":"che","name":"FC La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":6,"draw":4,"loss":16,"for":30,"against":50,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"Csepel SC","id":"Csepel_SC","win":21,"draw":6,"loss":3,"for":92,"against":49,"isChampion":true},
+{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":18,"draw":8,"loss":4,"for":95,"against":42},
+{"country":"hun","name":"Szolnoki MÁV FC","id":"Szolnoki_MÁV_FC","win":18,"draw":5,"loss":7,"for":89,"against":49},
+{"country":"hun","name":"Szegedi AK","id":"Szegedi_AK","win":15,"draw":10,"loss":5,"for":95,"against":51},
+{"country":"hun","name":"Nagyváradi AC","id":"Club_Atletic_Oradea","win":14,"draw":8,"loss":8,"for":81,"against":52,"isNew":true},
+{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":15,"draw":5,"loss":10,"for":124,"against":69},
+{"country":"hun","name":"Gamma FC","id":"Gamma_FC","win":15,"draw":2,"loss":13,"for":72,"against":67},
+{"country":"hun","name":"DiMÁVAG","id":"Diósgyőri_VTK","win":10,"draw":9,"loss":11,"for":72,"against":68},
+{"country":"hun","name":"Salgótarjáni BTC","id":"Salgótarjáni_BTC","win":10,"draw":9,"loss":11,"for":67,"against":77},
+{"country":"hun","name":"Elektromos FC","id":"Elektromos_FC","win":10,"draw":7,"loss":13,"for":63,"against":60},
+{"country":"hun","name":"Kispest AC","id":"Budapest_Honvéd_FC","win":12,"draw":3,"loss":15,"for":67,"against":89},
+{"country":"hun","name":"Újvidéki AC","id":"NAK_Novi_Sad","win":10,"draw":5,"loss":15,"for":47,"against":86,"isNew":true},
+{"country":"hun","name":"Kolozsvár AC","id":"Ferar_Cluj","win":8,"draw":6,"loss":16,"for":51,"against":78,"isNew":true},
+{"country":"hun","name":"Lampart FC","id":"Lampart_FC","win":8,"draw":3,"loss":19,"for":48,"against":93,"isNew":true,"isRemoved":true},
+{"country":"hun","name":"Szegedi VSE","id":"Szegedi_VSE","win":5,"draw":3,"loss":22,"for":42,"against":113,"isNew":true,"isRemoved":true},
+{"country":"hun","name":"MÁVAG","id":"Budapesti_MÁVAG_SK","win":4,"draw":5,"loss":21,"for":35,"against":97,"isReturning":true,"isRemoved":true}
+]

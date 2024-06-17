@@ -107,3 +107,21 @@
 {"country":"che","name":"FC Grenchen","id":"FC_Grenchen","win":8,"draw":6,"loss":12,"for":31,"against":47,"isRemoved":true},
 {"country":"che","name":"Cantonal Neuchâtel","id":"Neuchâtel_Xamax_FCS","win":4,"draw":8,"loss":14,"for":41,"against":63,"isRemoved":true,"isReturning":true}
 ]
+[
+{"country":"hun","name":"Budapest Honvéd FC","id":"Budapest_Honvéd_FC","win":13,"draw":1,"loss":1,"for":67,"against":16,"isChampion":true},
+{"country":"hun","name":"Textiles","id":"MTK_Budapest_FC","win":11,"draw":2,"loss":2,"for":54,"against":25},
+{"country":"hun","name":"Bp. Dózsa","id":"Újpest_FC","win":9,"draw":3,"loss":3,"for":37,"against":23},
+{"country":"hun","name":"Csepel SC","id":"Csepel_SC","win":8,"draw":2,"loss":5,"for":33,"against":21},
+{"country":"hun","name":"Dorog","id":"Dorogi_FC","win":8,"draw":2,"loss":5,"for":36,"against":32},
+{"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":8,"draw":1,"loss":6,"for":30,"against":23},
+{"country":"hun","name":"Salgótarjáni BTC","id":"Salgótarjáni_BTC","win":6,"draw":4,"loss":5,"for":27,"against":26},
+{"country":"hun","name":"Diósgyőri VTK","id":"Diósgyőri_VTK","win":5,"draw":6,"loss":4,"for":21,"against":23,"isReturning":true},
+{"country":"hun","name":"Győri ETO FC","id":"Győri_ETO_FC","win":6,"draw":1,"loss":8,"for":28,"against":28},
+{"country":"hun","name":"ÉDOSZ","id":"Ferencvárosi_TC","win":5,"draw":2,"loss":8,"for":25,"against":30},
+{"country":"hun","name":"Szombathelyi Haladás","id":"Szombathelyi_Haladás","win":3,"draw":6,"loss":6,"for":16,"against":26},
+{"country":"hun","name":"Szegedi MTE","id":"Szegedi_AK","win":4,"draw":4,"loss":7,"for":22,"against":44,"isReturning":true},
+{"country":"hun","name":"Budapesti Postás SE","id":"Budapesti_Postás_SE","win":4,"draw":3,"loss":8,"for":18,"against":28,"isRemoved":true},
+{"country":"hun","name":"Budapesti Előre","id":"BKV_Előre_SC","win":4,"draw":2,"loss":9,"for":26,"against":41,"isRemoved":true},
+{"country":"hun","name":"Bőripari DSE","id":"Duna_SK","win":2,"draw":3,"loss":10,"for":22,"against":51,"isNew":true,"isRemoved":true},
+{"country":"hun","name":"FC Tatabánya","id":"Tatabányai_SC","win":1,"draw":4,"loss":10,"for":17,"against":42,"isReturning":true,"isRemoved":true}
+]

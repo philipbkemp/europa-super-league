@@ -124,3 +124,21 @@
 {"country":"che","name":"Young Fellows Zürich","id":"SC_Young_Fellows_Juventus","win":3,"draw":6,"loss":17,"for":21,"against":58,"isRemoved":true},
 {"country":"che","name":"FC Grenchen","id":"FC_Grenchen","win":3,"draw":3,"loss":20,"for":19,"against":62,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":24,"draw":4,"loss":2,"for":85,"against":24,"isChampion":true},
+{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":18,"draw":8,"loss":4,"for":89,"against":36},
+{"country":"hun","name":"Győri ETO FC","id":"Győri_ETO_FC","win":14,"draw":11,"loss":5,"for":68,"against":37},
+{"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":16,"draw":6,"loss":8,"for":71,"against":37},
+{"country":"hun","name":"FC Tatabánya","id":"Tatabányai_SC","win":9,"draw":11,"loss":10,"for":39,"against":36},
+{"country":"hun","name":"Budapest Honvéd FC","id":"Budapest_Honvéd_FC","win":9,"draw":10,"loss":11,"for":46,"against":49},
+{"country":"hun","name":"Diósgyőri VTK","id":"Diósgyőri_VTK","win":10,"draw":8,"loss":12,"for":48,"against":54},
+{"country":"hun","name":"Csepel SC","id":"Csepel_SC","win":7,"draw":14,"loss":9,"for":38,"against":47},
+{"country":"hun","name":"Szegedi EAC","id":"Szegedi_EAC","win":9,"draw":8,"loss":13,"for":34,"against":65,"isReturning":true},
+{"country":"hun","name":"MTK Budapest FC","id":"MTK_Budapest_FC","win":7,"draw":11,"loss":12,"for":38,"against":45},
+{"country":"hun","name":"Pécsi Dózsa","id":"Pécsi_MFC","win":8,"draw":9,"loss":13,"for":31,"against":40},
+{"country":"hun","name":"Szombathelyi Haladás","id":"Szombathelyi_Haladás","win":10,"draw":5,"loss":15,"for":42,"against":60,"isReturning":true},
+{"country":"hun","name":"Salgótarjáni BTC","id":"Salgótarjáni_BTC","win":9,"draw":7,"loss":14,"for":39,"against":58},
+{"country":"hun","name":"Dunaújváros FC","id":"Dunaújváros_FC","win":9,"draw":7,"loss":14,"for":35,"against":56},
+{"country":"hun","name":"Komlói Bányász SK","id":"Komlói_Bányász_SK","win":8,"draw":8,"loss":14,"for":36,"against":63,"isReturning":true,"isRemoved":true},
+{"country":"hun","name":"Egri Dózsa","id":"Egri_FC","win":6,"draw":7,"loss":17,"for":35,"against":67,"isNew":true,"isRemoved":true}
+]

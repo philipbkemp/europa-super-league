@@ -123,3 +123,21 @@
 {"country":"che","name":"La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":5,"draw":4,"loss":17,"for":27,"against":61,"isRemoved":true,"isReturning":true},
 {"country":"che","name":"Biel-Bienne","id":"FC_Biel-Bienne","win":5,"draw":3,"loss":18,"for":26,"against":58,"isRemoved":true,"isReturning":true}
 ]
+[
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":20,"draw":6,"loss":4,"for":65,"against":38,"isChampion":true},
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":18,"draw":8,"loss":4,"for":61,"against":26},
+{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":18,"draw":6,"loss":6,"for":79,"against":51},
+{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":14,"draw":8,"loss":8,"for":47,"against":32},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":15,"draw":4,"loss":11,"for":65,"against":41},
+{"country":"hun","name":"MTK-VM","id":"MTK_Budapest_FC","win":13,"draw":3,"loss":14,"for":53,"against":41},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":11,"draw":7,"loss":12,"for":36,"against":43},
+{"country":"hun","name":"Salgótarján","id":"Salgótarjáni_BTC","win":8,"draw":12,"loss":10,"for":40,"against":45},
+{"country":"hun","name":"Tatabányai Bányász","id":"Tatabányai_SC","win":11,"draw":6,"loss":13,"for":41,"against":50},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":9,"draw":9,"loss":12,"for":47,"against":49},
+{"country":"hun","name":"Rába ETO Győr","id":"Győri_ETO_FC","win":7,"draw":11,"loss":12,"for":36,"against":49},
+{"country":"hun","name":"Csepel","id":"Csepel_SC","win":8,"draw":9,"loss":13,"for":35,"against":48},
+{"country":"hun","name":"Kaposvár","id":"Kaposvári_Rákóczi_FC","win":6,"draw":12,"loss":12,"for":41,"against":52,"isNew":true},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":6,"draw":12,"loss":12,"for":26,"against":44},
+{"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":8,"draw":8,"loss":14,"for":25,"against":45},
+{"country":"hun","name":"SZEOL","id":"SZEOL_SC","win":5,"draw":5,"loss":20,"for":27,"against":70,"isNew":true}
+]

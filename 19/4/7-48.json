@@ -108,3 +108,22 @@
 {"country":"che","name":"FC Bern","id":"FC_Bern","win":8,"draw":5,"loss":13,"for":28,"against":56,"isRemoved":true},
 {"country":"che","name":"Cantonal Neuchâtel","id":"Neuchâtel_Xamax_FCS","win":2,"draw":6,"loss":18,"for":34,"against":85,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"Csepel SC","id":"Csepel_SC","win":24,"draw":4,"loss":4,"for":73,"against":32,"isChampion":true},
+{"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":22,"draw":7,"loss":3,"for":76,"against":31},
+{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":23,"draw":4,"loss":5,"for":77,"against":39},
+{"country":"hun","name":"Kispest AC","id":"Budapest_Honvéd_FC","win":21,"draw":6,"loss":5,"for":82,"against":42},
+{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":18,"draw":8,"loss":6,"for":83,"against":43},
+{"country":"hun","name":"MTK Budapest FC","id":"MTK_Budapest_FC","win":19,"draw":4,"loss":9,"for":75,"against":36},
+{"country":"hun","name":"Szombathelyi Haladás","id":"Szombathelyi_Haladás","win":13,"draw":7,"loss":12,"for":49,"against":48},
+{"country":"hun","name":"MATEOSZ","id":"Gamma_FC","win":11,"draw":9,"loss":12,"for":42,"against":42,"isReturning":true},
+{"country":"hun","name":"Salgótarjáni BTC","id":"Salgótarjáni_BTC","win":10,"draw":6,"loss":16,"for":32,"against":55,"isReturning":true},
+{"country":"hun","name":"Szentlőrinci AC","id":"Szentlőrinci_AC","win":8,"draw":9,"loss":15,"for":38,"against":63},
+{"country":"hun","name":"Győri ETO FC","id":"Győri_ETO_FC","win":11,"draw":2,"loss":19,"for":47,"against":62},
+{"country":"hun","name":"Szegedi Bástya","id":"Szegedi_AK","win":9,"draw":6,"loss":17,"for":30,"against":55},
+{"country":"hun","name":"Elektromos FC","id":"Elektromos_FC","win":7,"draw":8,"loss":17,"for":30,"against":61,"isReturning":true,"isRemoved":true},
+{"country":"hun","name":"Erzsébeti Spartacus MTK LE","id":"Erzsébeti_Spartacus_MTK_LE","win":9,"draw":4,"loss":19,"for":33,"against":72,"isReturning":true,"isRemoved":true},
+{"country":"hun","name":"Szolnoki MÁV FC","id":"Szolnoki_MÁV_FC","win":8,"draw":5,"loss":19,"for":33,"against":69,"isRemoved":true},
+{"country":"hun","name":"Debreceni VSC","id":"Debreceni_VSC","win":8,"draw":3,"loss":21,"for":37,"against":76,"isRemoved":true},
+{"country":"hun","name":"MOGÜRT","id":"Ikarus_Bus","win":4,"draw":2,"loss":26,"for":23,"against":34,"isNew":true,"isRemoved":true}
+]

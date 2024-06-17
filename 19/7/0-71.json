@@ -124,3 +124,21 @@
 {"country":"che","name":"FC Fribourg","id":"FC_Fribourg","win":6,"draw":7,"loss":13,"for":35,"against":63,"isRemoved":true},
 {"country":"che","name":"AC Bellinzona","id":"AC_Bellinzona","win":1,"draw":7,"loss":18,"for":24,"against":61,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":18,"draw":7,"loss":5,"for":71,"against":29,"isChampion":true},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":16,"draw":9,"loss":5,"for":52,"against":26},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":19,"draw":3,"loss":8,"for":61,"against":25},
+{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":14,"draw":8,"loss":8,"for":54,"against":37},
+{"country":"hun","name":"MTK Budapest","id":"MTK_Budapest_FC","win":10,"draw":13,"loss":7,"for":46,"against":35},
+{"country":"hun","name":"Csepel","id":"Csepel_SC","win":9,"draw":14,"loss":7,"for":35,"against":27},
+{"country":"hun","name":"Salgótarján","id":"Salgótarjáni_BTC","win":14,"draw":6,"loss":10,"for":46,"against":46},
+{"country":"hun","name":"Tatabányai Bányász","id":"Tatabányai_SC","win":12,"draw":6,"loss":12,"for":47,"against":35},
+{"country":"hun","name":"Rába ETO Győr","id":"Győri_ETO_FC","win":13,"draw":6,"loss":11,"for":37,"against":34},
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":9,"draw":12,"loss":9,"for":29,"against":33,"isReturning":true},
+{"country":"hun","name":"Pécsi Dózsa","id":"Pécsi_MFC","win":8,"draw":12,"loss":10,"for":28,"against":34},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":10,"draw":7,"loss":13,"for":24,"against":46},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":9,"draw":7,"loss":14,"for":40,"against":52},
+{"country":"hun","name":"Komlói Bányász","id":"Komlói_Bányász_SK","win":7,"draw":10,"loss":13,"for":35,"against":53},
+{"country":"hun","name":"Dunaújvárosi Kohász","id":"Dunaújváros_FC","win":3,"draw":7,"loss":20,"for":23,"against":69,"isRemoved":true},
+{"country":"hun","name":"SZEOL","id":"Szegedi_EAC","win":3,"draw":5,"loss":22,"for":28,"against":75,"isRemoved":true,"isReturning":true}
+]

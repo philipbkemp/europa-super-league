@@ -118,3 +118,21 @@
 {"country":"che","name":"St. Gallen","id":"FC_St._Gallen","win":9,"draw":7,"loss":20,"for":39,"against":69,"isRemoved":true},
 {"country":"che","name":"Thun","id":"FC_Thun","win":6,"draw":9,"loss":21,"for":30,"against":70,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"MTK Budapest","id":"MTK_Budapest_FC","win":20,"draw":6,"loss":4,"for":67,"against":23,"isChampion":true},
+{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":19,"draw":7,"loss":4,"for":67,"against":29},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":16,"draw":10,"loss":4,"for":64,"against":35},
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":16,"draw":7,"loss":7,"for":58,"against":40},
+{"country":"hun","name":"Fehérvár","id":"Fehérvár_FC","win":17,"draw":3,"loss":10,"for":48,"against":32},
+{"country":"hun","name":"Kaposvár","id":"Kaposvári_Rákóczi_FC","win":14,"draw":9,"loss":7,"for":48,"against":38},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":13,"draw":7,"loss":10,"for":55,"against":39},
+{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":12,"draw":7,"loss":11,"for":45,"against":36},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":12,"draw":5,"loss":13,"for":41,"against":45},
+{"country":"hun","name":"Nyíregyháza","id":"Nyíregyháza_Spartacus_FC","win":11,"draw":7,"loss":12,"for":34,"against":37,"isReturning":true},
+{"country":"hun","name":"Paks","id":"Paksi_FC","win":9,"draw":10,"loss":11,"for":51,"against":51},
+{"country":"hun","name":"Rákospalota","id":"Rákospalotai_EAC","win":7,"draw":9,"loss":14,"for":42,"against":60},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":5,"draw":13,"loss":12,"for":43,"against":63},
+{"country":"hun","name":"Siófok","id":"BFC_Siófok","win":6,"draw":9,"loss":15,"for":33,"against":46,"isReturning":true},
+{"country":"hun","name":"Tatabánya","id":"Tatabányai_SC","win":2,"draw":4,"loss":24,"for":34,"against":93,"isRemoved":true},
+{"country":"hun","name":"Sopron","id":"FC_Sopron","win":2,"draw":5,"loss":23,"for":10,"against":73,"isRemoved":true}
+]

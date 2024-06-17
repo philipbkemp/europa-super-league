@@ -116,3 +116,21 @@
 {"country":"che","name":"Vaduz","id":"FC_Vaduz","win":7,"draw":10,"loss":19,"for":28,"against":59,"isReturning":true},
 {"country":"che","name":"Aarau","id":"FC_Aarau","win":6,"draw":12,"loss":18,"for":31,"against":64,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":22,"draw":5,"loss":3,"for":64,"against":14,"isChampion":true},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":19,"draw":7,"loss":4,"for":49,"against":19},
+{"country":"hun","name":"MTK","id":"MTK_Budapest_FC","win":18,"draw":3,"loss":9,"for":39,"against":25},
+{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":15,"draw":9,"loss":6,"for":44,"against":19},
+{"country":"hun","name":"Paks","id":"Paksi_FC","win":14,"draw":9,"loss":7,"for":44,"against":27},
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":14,"draw":9,"loss":7,"for":40,"against":28},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":13,"draw":9,"loss":8,"for":43,"against":36},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":10,"draw":8,"loss":12,"for":41,"against":44,"isRemoved":true,"removedNote":"Relegated for Financial and Licence problems"},
+{"country":"hun","name":"Kecskemét","id":"Kecskeméti_TE","win":10,"draw":8,"loss":12,"for":30,"against":39,"isRemoved":true,"removedNote":"Relegated due to Licensing issues"},
+{"country":"hun","name":"Puskás Akadémia","id":"Puskás_Akadémia_FC","win":10,"draw":5,"loss":15,"for":35,"against":40},
+{"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":8,"draw":7,"loss":15,"for":32,"against":51,"isRemoved":true,"removedNote":"Relegated due to Licensing issues"},
+{"country":"hun","name":"Nyíregyháza","id":"Nyíregyháza_Spartacus_FC","win":8,"draw":6,"loss":16,"for":33,"against":49,"isRemoved":true,"removedNote":"Relegated due to Licensing issues","isReturning":true},
+{"country":"hun","name":"Honvéd","id":"Budapest_Honvéd_FC","win":6,"draw":10,"loss":14,"for":26,"against":36},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":7,"draw":4,"loss":19,"for":26,"against":53},
+{"country":"hun","name":"Dunaújváros","id":"Dunaújváros_PASE","win":5,"draw":8,"loss":17,"for":26,"against":49,"isRemoved":true,"deduct":-1,"isNew":true},
+{"country":"hun","name":"Pápa","id":"Pápai_FC","win":4,"draw":7,"loss":19,"for":14,"against":57,"isRemoved":true}
+]

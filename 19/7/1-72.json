@@ -124,3 +124,21 @@
 {"country":"che","name":"Luzern","id":"FC_Luzern","win":6,"draw":3,"loss":17,"for":24,"against":49,"isRemoved":true},
 {"country":"che","name":"Biel-Bienne","id":"FC_Biel-Bienne","win":2,"draw":5,"loss":19,"for":26,"against":67,"isRemoved":true}
 ]
+[
+{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":20,"draw":6,"loss":4,"for":78,"against":30,"isChampion":true},
+{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":16,"draw":7,"loss":7,"for":51,"against":26},
+{"country":"hun","name":"Salgótarján","id":"Salgótarjáni_BTC","win":15,"draw":9,"loss":6,"for":51,"against":39},
+{"country":"hun","name":"Tatabányai Bányász","id":"Tatabányai_SC","win":13,"draw":11,"loss":6,"for":44,"against":32},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":14,"draw":8,"loss":8,"for":59,"against":36,"deduct":-2},
+{"country":"hun","name":"Vasas","id":"Vasas_SC","win":12,"draw":8,"loss":10,"for":51,"against":46},
+{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":13,"draw":5,"loss":12,"for":47,"against":43},
+{"country":"hun","name":"Komlói Bányász","id":"Komlói_Bányász_SK","win":10,"draw":11,"loss":9,"for":38,"against":47},
+{"country":"hun","name":"Csepel","id":"Csepel_SC","win":11,"draw":8,"loss":11,"for":35,"against":38},
+{"country":"hun","name":"Rába ETO Győr","id":"Győri_ETO_FC","win":7,"draw":12,"loss":11,"for":36,"against":51},
+{"country":"hun","name":"Pécsi Dózsa","id":"Pécsi_MFC","win":6,"draw":13,"loss":11,"for":22,"against":28},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":9,"draw":6,"loss":15,"for":32,"against":46},
+{"country":"hun","name":"MTK Budapest","id":"MTK_Budapest_FC","win":8,"draw":8,"loss":14,"for":37,"against":41,"deduct":-2},
+{"country":"hun","name":"Egyetértés VM","id":"Vörös_Meteor_Egyetértés_SK","win":5,"draw":13,"loss":12,"for":26,"against":35,"deduct":-2,"isReturning":true},
+{"country":"hun","name":"Egri Dózsa","id":"Egri_FC","win":6,"draw":8,"loss":16,"for":32,"against":65,"isRemoved":true,"isReturning":true},
+{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":4,"draw":5,"loss":21,"for":27,"against":63,"isRemoved":true}
+]
