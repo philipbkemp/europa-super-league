@@ -4,6 +4,7 @@ const countries = {
 	"dnk":"Denmark",
 	"eir": "Ireland",
 	"eng":"England",
+	"hun": "Hungary",
 	"ita": "Italy",
 	"sco": "Scotland",
 	"nld": "Netherlands"
@@ -18,7 +19,7 @@ if ( $("h1 .placeholder").length !== 0 ) {
 	partThree = parseInt(pageEnd[0]);
 	partFour = parseInt(pageEnd[1]);
 
-	thisSeason = ( (partOne*100) + (partTwo*10) + partThree ) + "-" + partFour;
+	thisSeason = ( (partOne*100) + (partTwo*10) + partThree ) + "-" + String(partFour).padStart(2,"0");
 	if ( partFour === 0 ) {
 		partFour = "00";
 		thisSeason += "0";
@@ -28,8 +29,8 @@ if ( $("h1 .placeholder").length !== 0 ) {
 	previousSeason = [partOne,partTwo,partThree-1,parseInt(partFour)-1];
 	if ( previousSeason[2] === -1 ) {
 		$("#goPrev")
-			.html( ( (previousSeason[0]*100) + (previousSeason[1]*10) + previousSeason[2] ) + "-" + previousSeason[3] )
-			.attr("href","../"+(previousSeason[1]-1)+"/9-" + previousSeason[3] + ".html")
+			.html( ( (previousSeason[0]*100) + (previousSeason[1]*10) + previousSeason[2] ) + "-" + String(previousSeason[3]).padStart(2,"0") )
+			.attr("href","../"+(previousSeason[1]-1)+"/9-" + String(previousSeason[3]).padStart(2,"0") + ".html")
 			;
 	} else if ( previousSeason[3] === -1 ) {
 		$("#goPrev")
@@ -38,8 +39,8 @@ if ( $("h1 .placeholder").length !== 0 ) {
 			;
 	} else {
 		$("#goPrev")
-			.html( ( (previousSeason[0]*100) + (previousSeason[1]*10) + previousSeason[2] ) + "-" + previousSeason[3] )
-			.attr("href",previousSeason[2] + "-" + previousSeason[3] + ".html")
+			.html( ( (previousSeason[0]*100) + (previousSeason[1]*10) + previousSeason[2] ) + "-" + String(previousSeason[3]).padStart(2,"0") )
+			.attr("href",previousSeason[2] + "-" + String(previousSeason[3]).padStart(2,"0") + ".html")
 			;
 	}
 	if ( thisSeason === "1888-89" ) {
