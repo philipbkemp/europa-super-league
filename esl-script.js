@@ -1,9 +1,9 @@
 const countries = {
 	"bel": "Belgium",
 	"che": "Switzerland",
-	"dnk":"Denmark",
+	"dnk": "Denmark",
 	"eir": "Ireland",
-	"eng":"England",
+	"eng": "England",
 	"hun": "Hungary",
 	"ita": "Italy",
 	"sco": "Scotland",
@@ -120,11 +120,15 @@ if ( $("h1 .placeholder").length !== 0 ) {
 		rPos = $("<TD></TD>").html(position);
 		teamRow.append(rPos);
 
-		rFlag = $("<TD></TD>").append(
-			$("<IMG />").attr("src","../../flags/"+team.country.toUpperCase()+".png").attr("alt",countries[team.country]).attr("data-bs-toggle","tooltip").attr("data-bs-title",countries[team.country])
-		);
-		teamRow.append(rFlag);
-		keys.splice(keys.indexOf("country"),1);
+		if ( countries[team.country] ) {
+			rFlag = $("<TD></TD>").append(
+				$("<IMG />").attr("src","../../flags/"+team.country.toUpperCase()+".png").attr("alt",countries[team.country]).attr("data-bs-toggle","tooltip").attr("data-bs-title",countries[team.country])
+			);
+			teamRow.append(rFlag);
+			keys.splice(keys.indexOf("country"),1);
+		} else {
+			teamRow.append("<TD></TD>");
+		}
 
 		rName = $("<TH></TH>").attr("scope","row").html(team.name);
 		keys.splice(keys.indexOf("name"),1);
