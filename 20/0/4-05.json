@@ -135,4 +135,21 @@
 {"country":"hun","name":"Lombard Pápa","id":"Pápai_FC","win":8,"draw":6,"loss":16,"for":40,"against":47,"isNew":true},
 {"country":"hun","name":"Nyíregyháza","id":"Nyíregyháza_Spartacus_FC","win":5,"draw":11,"loss":14,"for":38,"against":63,"isRemoved":true,"isReturning":true},
 {"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":4,"draw":7,"loss":19,"for":26,"against":65,"isRemoved":true,"deduct":-15}
+][
+{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":19,"draw":8,"loss":3,"for":54,"against":18,"isChampion":true},
+{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":19,"draw":7,"loss":4,"for":51,"against":18},
+{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":17,"draw":11,"loss":2,"for":46,"against":22},
+{"country":"grc","name":"Skoda Xanthi","id":"Xanthi_F.C.","win":14,"draw":8,"loss":8,"for":43,"against":29},
+{"country":"grc","name":"PAOK","id":"PAOK_FC","win":13,"draw":7,"loss":10,"for":43,"against":39},
+{"country":"grc","name":"Egaleo","id":"Egaleo_F.C.","win":11,"draw":12,"loss":7,"for":31,"against":26},
+{"country":"grc","name":"Iraklis","id":"Iraklis_F.C._(Thessaloniki)","win":12,"draw":5,"loss":13,"for":36,"against":30},
+{"country":"grc","name":"Chalkidona","id":"Chalkidona_F.C.","win":10,"draw":8,"loss":12,"for":34,"against":38,"isRemoved":true,"removeNote":"Merged with Atromitos who took their position next season"},
+{"country":"grc","name":"Kallithea","id":"Athens_Kallithea_F.C.","win":9,"draw":10,"loss":11,"for":39,"against":44},
+{"country":"grc","name":"Ionikos","id":"Ionikos_F.C.","win":8,"draw":12,"loss":10,"for":22,"against":32},
+{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":8,"draw":11,"loss":11,"for":25,"against":32},
+{"country":"grc","name":"Apollon Kalamarias","id":"Apollon_Kalamarias_F.C.","win":8,"draw":9,"loss":13,"for":31,"against":49,"isReturning":true},
+{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":8,"draw":8,"loss":14,"for":36,"against":44},
+{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":5,"draw":13,"loss":12,"for":26,"against":37,"isRemoved":true,"deduct":-3,"deductReason":"Incidents in a game against Iraklis"},
+{"country":"grc","name":"Ergotelis","id":"Ergotelis_F.C.","win":5,"draw":5,"loss":20,"for":19,"against":50,"isRemoved":true,"isNew":true},
+{"country":"grc","name":"Kerkyra","id":"A.O._Kerkyra","win":3,"draw":8,"loss":19,"for":21,"against":49,"isRemoved":true,"isNew":true}
 ]

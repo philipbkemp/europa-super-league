@@ -123,3 +123,19 @@
 [
 	//hun - not yet created
 ]
+[
+{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"grc","name":"Asteras Tripolis","id":"Asteras_Tripolis_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"grc","name":"Athens Kallithea","id":"Athens_Kallithea_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
+{"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"grc","name":"Lamia","id":"PAS_Lamia_1964","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"grc","name":"Levadiakos","id":"Levadiakos_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
+{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"grc","name":"Panetolikos","id":"Panetolikos_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"grc","name":"Panserraikos","id":"Panserraikos_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"grc","name":"PAOK","id":"PAOK_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"grc","name":"Volos","id":"Volos_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
+]

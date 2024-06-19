@@ -135,4 +135,23 @@
 {"country":"hun","name":"EMDSZ Sopron","id":"Anger_réti_SFAC_1900_SE","win":8,"draw":6,"loss":16,"for":31,"against":52,"isNew":true},
 {"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":5,"draw":9,"loss":16,"for":28,"against":48,"isRemoved":true,"isReturning":true},
 {"country":"hun","name":"MTK Hungária","id":"MTK_Budapest_FC","win":4,"draw":9,"loss":17,"for":30,"against":58,"isRemoved":true}
+][
+{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":25,"draw":4,"loss":5,"for":63,"against":28,"isChampion":true},
+{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":22,"draw":6,"loss":6,"for":82,"against":32},
+{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":18,"draw":14,"loss":2,"for":63,"against":27},
+{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":18,"draw":9,"loss":7,"for":55,"against":34},
+{"country":"grc","name":"PAOK","id":"PAOK_FC","win":14,"draw":9,"loss":11,"for":45,"against":38},
+{"country":"grc","name":"Iraklis","id":"Iraklis_F.C._(Thessaloniki)","win":13,"draw":10,"loss":11,"for":59,"against":45},
+{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":13,"draw":8,"loss":13,"for":55,"against":42},
+{"country":"grc","name":"Skoda Xanthi","id":"Xanthi_F.C.","win":12,"draw":9,"loss":13,"for":62,"against":63},
+{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":12,"draw":7,"loss":15,"for":49,"against":58,"isReturning":true},
+{"country":"grc","name":"AEL","id":"Athlitiki_Enosi_Larissa_F.C.","win":11,"draw":9,"loss":14,"for":45,"against":53},
+{"country":"grc","name":"Levadiakos","id":"Levadiakos_F.C.","win":11,"draw":9,"loss":14,"for":38,"against":45,"isReturning":true},
+{"country":"grc","name":"Athinaikos","id":"Athinaikos_F.C.","win":11,"draw":7,"loss":16,"for":34,"against":50},
+{"country":"grc","name":"Apollon Athens","id":"Apollon_Smyrnis_F.C.","win":9,"draw":13,"loss":12,"for":30,"against":41},
+{"country":"grc","name":"Edessaikos","id":"Edessaikos_F.C.","win":11,"draw":6,"loss":17,"for":41,"against":56},
+{"country":"grc","name":"Doxa Drama","id":"Doxa_Drama_F.C.","win":11,"draw":5,"loss":18,"for":37,"against":64},
+{"country":"grc","name":"Panachaiki","id":"Panachaiki_F.C.","win":9,"draw":10,"loss":15,"for":36,"against":56,"isRemoved":true},
+{"country":"grc","name":"Apollon Kalamarias","id":"Apollon_Kalamarias_F.C.","win":8,"draw":8,"loss":18,"for":42,"against":66,"isRemoved":true},
+{"country":"grc","name":"Naoussa","id":"Naoussa_F.C.","win":5,"draw":3,"loss":26,"for":38,"against":76,"isRemoved":true,"isNew":true}
 ]

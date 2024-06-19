@@ -140,4 +140,21 @@
 {"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":6,"draw":12,"loss":12,"for":26,"against":44},
 {"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":8,"draw":8,"loss":14,"for":25,"against":45},
 {"country":"hun","name":"SZEOL","id":"SZEOL_SC","win":5,"draw":5,"loss":20,"for":27,"against":70,"isNew":true}
+][
+{"country":"grc","name":"PAOK","id":"PAOK_FC","win":21,"draw":7,"loss":2,"for":60,"against":17,"isChampion":true},
+{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":18,"draw":8,"loss":4,"for":57,"against":18},
+{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":16,"draw":9,"loss":5,"for":48,"against":28},
+{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":14,"draw":10,"loss":6,"for":47,"against":28},
+{"country":"grc","name":"PAS Giannina","id":"PAS_Giannina_F.C.","win":15,"draw":6,"loss":9,"for":40,"against":33},
+{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":13,"draw":9,"loss":8,"for":50,"against":27},
+{"country":"grc","name":"Ethnikos Piraeus","id":"Ethnikos_Piraeus_F.C.","win":12,"draw":8,"loss":10,"for":43,"against":39},
+{"country":"grc","name":"Iraklis","id":"Iraklis_F.C._(Thessaloniki)","win":9,"draw":9,"loss":12,"for":33,"against":39},
+{"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":9,"draw":11,"loss":10,"for":27,"against":33,"deduct":-3},
+{"country":"grc","name":"Panachaiki","id":"Panachaiki_F.C.","win":7,"draw":11,"loss":12,"for":22,"against":35},
+{"country":"grc","name":"Pierikos","id":"S.F.K._Pierikos_(football)","win":5,"draw":13,"loss":12,"for":26,"against":38,"isReturning":true},
+{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":5,"draw":12,"loss":13,"for":15,"against":36},
+{"country":"grc","name":"Kastoria","id":"Kastoria_1980_F.C.","win":4,"draw":14,"loss":12,"for":21,"against":45},
+{"country":"grc","name":"Apollon Athens","id":"Apollon_Smyrnis_F.C.","win":6,"draw":9,"loss":15,"for":26,"against":49,"isReturning":true},
+{"country":"grc","name":"Panetolikos","id":"Panetolikos_F.C.","win":3,"draw":13,"loss":14,"for":17,"against":41,"isNew":true},
+{"country":"grc","name":"Panserraikos","id":"Panserraikos_F.C.","win":5,"draw":7,"loss":18,"for":21,"against":47}
 ]

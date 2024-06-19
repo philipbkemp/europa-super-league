@@ -131,4 +131,19 @@
 {"country":"hun","name":"Paks","id":"Paksi_FC","win":11,"draw":8,"loss":14,"for":46,"against":53},
 {"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":11,"draw":6,"loss":16,"for":48,"against":57,"isRemoved":true},
 {"country":"hun","name":"Kaposvár","id":"Kaposvári_Rákóczi_FC","win":4,"draw":2,"loss":27,"for":27,"against":80,"isRemoved":true,"isReturning":true}
+][
+{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":28,"draw":7,"loss":1,"for":74,"against":16,"isChampion":true},
+{"country":"grc","name":"PAOK","id":"PAOK_FC","win":21,"draw":10,"loss":5,"for":58,"against":29},
+{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":20,"draw":9,"loss":7,"for":59,"against":32},
+{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":15,"draw":13,"loss":8,"for":43,"against":32},
+{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":10,"draw":6,"loss":20,"for":43,"against":56},
+{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":10,"draw":12,"loss":14,"for":48,"against":51},
+{"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":11,"draw":9,"loss":13,"for":41,"against":43},
+{"country":"grc","name":"AEL","id":"Athlitiki_Enosi_Larissa_F.C.","win":8,"draw":12,"loss":13,"for":32,"against":42},
+{"country":"grc","name":"Asteras Tripolis","id":"Asteras_Tripolis_F.C.","win":11,"draw":10,"loss":12,"for":44,"against":42},
+{"country":"grc","name":"Lamia","id":"PAS_Lamia_1964","win":6,"draw":17,"loss":10,"for":23,"against":36},
+{"country":"grc","name":"Volos","id":"Volos_F.C.","win":8,"draw":7,"loss":18,"for":27,"against":54,"isNew":true},
+{"country":"grc","name":"Xanthi","id":"Xanthi_F.C.","win":9,"draw":9,"loss":15,"for":25,"against":38,"deduct":-12,"deductReason":"Joint club ownership","isRemoved":true},
+{"country":"grc","name":"Panetolikos","id":"Panetolikos_F.C.","win":6,"draw":11,"loss":16,"for":30,"against":48},
+{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":7,"draw":8,"loss":18,"for":20,"against":48,"deduct":-6,"deductReason":"Non-Licensing","isRemoved":true}
 ]

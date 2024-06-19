@@ -141,4 +141,21 @@
 {"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":7,"draw":9,"loss":14,"for":26,"against":37},
 {"country":"hun","name":"Dunaújvárosi Kohász","id":"Dunaújváros_FC","win":4,"draw":9,"loss":17,"for":26,"against":57,"isRemoved":true,"isReturning":true},
 {"country":"hun","name":"Eger","id":"Egri_FC","win":4,"draw":9,"loss":17,"for":23,"against":58,"isRemoved":true,"isReturning":true}
+][
+{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":22,"draw":5,"loss":3,"for":54,"against":24,"isChampion":true},
+{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":15,"draw":9,"loss":6,"for":46,"against":30},
+{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":17,"draw":4,"loss":9,"for":44,"against":27},
+{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":11,"draw":11,"loss":8,"for":36,"against":22},
+{"country":"grc","name":"PAOK","id":"PAOK_FC","win":13,"draw":9,"loss":8,"for":39,"against":23},
+{"country":"grc","name":"Iraklis","id":"Iraklis_F.C._(Thessaloniki)","win":13,"draw":5,"loss":12,"for":34,"against":32},
+{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":10,"draw":8,"loss":12,"for":31,"against":26},
+{"country":"grc","name":"AEL","id":"Athlitiki_Enosi_Larissa_F.C.","win":10,"draw":5,"loss":15,"for":24,"against":31},
+{"country":"grc","name":"Veria","id":"Veria_F.C.","win":10,"draw":5,"loss":15,"for":30,"against":43,"isReturning":true},
+{"country":"grc","name":"Ethnikos Piraeus","id":"Ethnikos_Piraeus_F.C.","win":8,"draw":8,"loss":14,"for":32,"against":40},
+{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":10,"draw":4,"loss":16,"for":26,"against":30},
+{"country":"grc","name":"Apollon Kalamarias","id":"Apollon_Kalamarias_F.C.","win":8,"draw":7,"loss":15,"for":21,"against":35},
+{"country":"grc","name":"Diagoras","id":"P.A.E._G.S._Diagoras","win":9,"draw":4,"loss":17,"for":29,"against":33,"isNew":true},
+{"country":"grc","name":"Doxa Drama","id":"Doxa_Drama_F.C.","win":6,"draw":9,"loss":15,"for":29,"against":36,"isRemoved":true},
+{"country":"grc","name":"Apollon Athens","id":"Apollon_Smyrnis_F.C.","win":6,"draw":8,"loss":16,"for":21,"against":40,"isRemoved":true},
+{"country":"grc","name":"PAS Giannina","id":"PAS_Giannina_F.C.","win":5,"draw":7,"loss":18,"for":14,"against":38,"isRemoved":true}
 ]

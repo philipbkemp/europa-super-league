@@ -139,4 +139,21 @@
 {"country":"hun","name":"Szegedi EAC","id":"Szegedi_EAC","win":4,"draw":3,"loss":6,"for":9,"against":15},
 {"country":"hun","name":"Pécsi Dózsa","id":"Pécsi_MFC","win":3,"draw":0,"loss":10,"for":21,"against":31},
 {"country":"hun","name":"Debreceni VSC","id":"Debreceni_VSC","win":2,"draw":2,"loss":9,"for":15,"against":31}
+][
+{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":24,"draw":6,"loss":0,"for":67,"against":19,"isChampion":true},
+{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":20,"draw":7,"loss":3,"for":62,"against":17},
+{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":18,"draw":5,"loss":7,"for":72,"against":25},
+{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":12,"draw":9,"loss":9,"for":48,"against":31},
+{"country":"grc","name":"Apollon Athens","id":"Apollon_Smyrnis_F.C.","win":13,"draw":7,"loss":10,"for":41,"against":36},
+{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":10,"draw":11,"loss":9,"for":28,"against":29},
+{"country":"grc","name":"Pierikos","id":"S.F.K._Pierikos_(football)","win":9,"draw":9,"loss":12,"for":34,"against":42},
+{"country":"grc","name":"PAOK","id":"PAOK_FC","win":10,"draw":7,"loss":13,"for":22,"against":30,"deduct":-1},
+{"country":"grc","name":"Apollon Kalamarias","id":"Apollon_Kalamarias_F.C.","win":6,"draw":13,"loss":11,"for":29,"against":38},
+{"country":"grc","name":"Ethnikos Piraeus","id":"Ethnikos_Piraeus_F.C.","win":9,"draw":7,"loss":14,"for":24,"against":36},
+{"country":"grc","name":"Doxa Drama","id":"Doxa_Drama_F.C.","win":9,"draw":7,"loss":14,"for":28,"against":47,"isReturning":true},
+{"country":"grc","name":"Iraklis","id":"Iraklis_F.C._(Thessaloniki)","win":7,"draw":11,"loss":12,"for":26,"against":44},
+{"country":"grc","name":"Panegialios","id":"Panegialios_F.C.","win":9,"draw":7,"loss":14,"for":19,"against":39},
+{"country":"grc","name":"Niki Volos","id":"Niki_Volos_F.C.","win":8,"draw":8,"loss":14,"for":34,"against":43},
+{"country":"grc","name":"Olympiacos Chalkida","id":"Chalkida_F.C.","win":6,"draw":12,"loss":12,"for":21,"against":41,"isRemoved":true,"isNew":true},
+{"country":"grc","name":"Egaleo","id":"Egaleo_F.C.","win":6,"draw":2,"loss":22,"for":12,"against":50,"isRemoved":true,"deduct":-1}
 ]

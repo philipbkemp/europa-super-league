@@ -4,6 +4,7 @@ const countries = {
 	"dnk": "Denmark",
 	"eir": "Ireland",
 	"eng": "England",
+	"grc": "Greece",
 	"hun": "Hungary",
 	"ita": "Italy",
 	"sco": "Scotland",

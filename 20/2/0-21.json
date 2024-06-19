@@ -131,4 +131,19 @@
 {"country":"hun","name":"Honvéd","id":"Budapest_Honvéd_FC","win":9,"draw":10,"loss":14,"for":46,"against":48},
 {"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":9,"draw":6,"loss":18,"for":34,"against":53,"isRemoved":true},
 {"country":"hun","name":"Budafok","id":"Budafoki_MTE","win":7,"draw":6,"loss":20,"for":34,"against":74,"isRemoved":true,"isNew":true}
+][
+{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":28,"draw":6,"loss":2,"for":82,"against":19,"isChampion":true},
+{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":17,"draw":10,"loss":9,"for":41,"against":26},
+{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":17,"draw":9,"loss":10,"for":53,"against":45},
+{"country":"grc","name":"PAOK","id":"PAOK_FC","win":18,"draw":10,"loss":8,"for":60,"against":34},
+{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":14,"draw":11,"loss":11,"for":41,"against":34},
+{"country":"grc","name":"Asteras Tripolis","id":"Asteras_Tripolis_F.C.","win":12,"draw":15,"loss":9,"for":36,"against":38},
+{"country":"grc","name":"Volos","id":"Volos_F.C.","win":10,"draw":13,"loss":10,"for":34,"against":37},
+{"country":"grc","name":"PAS Giannina","id":"PAS_Giannina_F.C.","win":9,"draw":8,"loss":16,"for":27,"against":36,"isReturning":true},
+{"country":"grc","name":"Apollon Smyrnis","id":"Apollon_Smyrnis_F.C.","win":9,"draw":7,"loss":17,"for":29,"against":40,"isReturning":true},
+{"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":8,"draw":13,"loss":12,"for":30,"against":40},
+{"country":"grc","name":"Lamia","id":"PAS_Lamia_1964","win":8,"draw":11,"loss":14,"for":21,"against":42},
+{"country":"grc","name":"Panetolikos","id":"Panetolikos_F.C.","win":6,"draw":10,"loss":17,"for":20,"against":44},
+{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":8,"draw":8,"loss":17,"for":30,"against":47},
+{"country":"grc","name":"AEL","id":"Athlitiki_Enosi_Larissa_F.C.","win":6,"draw":9,"loss":18,"for":25,"against":47,"isRemoved":true}
 ]

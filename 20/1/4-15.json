@@ -133,4 +133,23 @@
 {"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":7,"draw":4,"loss":19,"for":26,"against":53},
 {"country":"hun","name":"Dunaújváros","id":"Dunaújváros_PASE","win":5,"draw":8,"loss":17,"for":26,"against":49,"isRemoved":true,"deduct":-1,"isNew":true},
 {"country":"hun","name":"Pápa","id":"Pápai_FC","win":4,"draw":7,"loss":19,"for":14,"against":57,"isRemoved":true}
+][
+{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":24,"draw":6,"loss":4,"for":79,"against":23,"isChampion":true},
+{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":21,"draw":6,"loss":7,"for":59,"against":31,"deduct":-3,"deductReason":"Extreme fan behaviour"},
+{"country":"grc","name":"PAOK","id":"PAOK_FC","win":20,"draw":5,"loss":9,"for":57,"against":42},
+{"country":"grc","name":"Asteras Tripolis","id":"Asteras_Tripolis_F.C.","win":17,"draw":8,"loss":9,"for":52,"against":37},
+{"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":14,"draw":12,"loss":8,"for":43,"against":27},
+{"country":"grc","name":"PAS Giannina","id":"PAS_Giannina_F.C.","win":13,"draw":14,"loss":7,"for":47,"against":33},
+{"country":"grc","name":"Panetolikos","id":"Panetolikos_F.C.","win":14,"draw":10,"loss":10,"for":41,"against":28},
+{"country":"grc","name":"Skoda Xanthi","id":"Xanthi_F.C.","win":12,"draw":11,"loss":11,"for":44,"against":41},
+{"country":"grc","name":"Platanias","id":"Platanias_F.C.","win":12,"draw":8,"loss":14,"for":32,"against":30},
+{"country":"grc","name":"AEL Kalloni","id":"AEL_Kalloni_F.C.","win":11,"draw":11,"loss":12,"for":34,"against":39},
+{"country":"grc","name":"Panthrakikos","id":"Panthrakikos_F.C.","win":11,"draw":10,"loss":13,"for":35,"against":44},
+{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":11,"draw":10,"loss":13,"for":43,"against":42},
+{"country":"grc","name":"Veria","id":"Veria_F.C.","win":12,"draw":7,"loss":15,"for":45,"against":54},
+{"country":"grc","name":"Levadiakos","id":"Levadiakos_F.C.","win":12,"draw":7,"loss":15,"for":41,"against":34},
+{"country":"grc","name":"Ergotelis","id":"Ergotelis_F.C.","win":8,"draw":8,"loss":18,"for":35,"against":60,"isRemoved":true},
+{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":7,"draw":2,"loss":25,"for":26,"against":72,"isRemoved":true,"deduct":-29,"deductReason":"10pts for failing to pay former players; 19pts for unknown reasons"},
+{"country":"grc","name":"Niki Volos","id":"Niki_Volos_F.C.","win":2,"draw":1,"loss":31,"for":7,"against":84,"isRemoved":true,"deduct":-13,"deductReasons":"Financial issues","isReturning":true},
+{"country":"grc","name":"Kerkyra","id":"PAE_Kerkyra","win":12,"draw":8,"loss":14,"for":39,"against":38,"isRemoved":true,"removedNote":"Demoted due to illegal transfer of shares and placed last in the league","isNew":true}
 ]

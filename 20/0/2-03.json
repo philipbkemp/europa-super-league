@@ -131,4 +131,21 @@
 {"country":"hun","name":"Dunaferr","id":"Dunaújváros_FC","win":4,"draw":8,"loss":20,"for":37,"against":72,"isRemoved":true},
 {"country":"hun","name":"Kispest Honvéd","id":"Budapest_Honvéd_FC","win":8,"draw":5,"loss":19,"for":43,"against":66,"isRemoved":true},
 {"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":9,"draw":5,"loss":18,"for":42,"against":71,"isReturning":true}
+][
+{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":21,"draw":7,"loss":2,"for":75,"against":21,"isChampion":true},
+{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":22,"draw":4,"loss":4,"for":50,"against":19},
+{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":21,"draw":5,"loss":4,"for":74,"against":29},
+{"country":"grc","name":"PAOK","id":"PAOK_FC","win":16,"draw":5,"loss":9,"for":59,"against":38},
+{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":15,"draw":8,"loss":7,"for":35,"against":25},
+{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":15,"draw":6,"loss":9,"for":37,"against":34},
+{"country":"grc","name":"Iraklis","id":"Iraklis_F.C._(Thessaloniki)","win":15,"draw":4,"loss":11,"for":44,"against":37},
+{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":12,"draw":8,"loss":10,"for":39,"against":34},
+{"country":"grc","name":"Skoda Xanthi","id":"Xanthi_F.C.","win":8,"draw":11,"loss":11,"for":31,"against":33},
+{"country":"grc","name":"Egaleo","id":"Egaleo_F.C.","win":7,"draw":10,"loss":13,"for":28,"against":44},
+{"country":"grc","name":"Proodeftiki","id":"Proodeftiki_F.C.","win":7,"draw":9,"loss":14,"for":25,"against":38,"isReturning":true},
+{"country":"grc","name":"Akratitos","id":"A.P.O._Akratitos_Ano_Liosia","win":7,"draw":5,"loss":18,"for":33,"against":62},
+{"country":"grc","name":"Kallithea","id":"Athens_Kallithea_F.C.","win":6,"draw":8,"loss":16,"for":29,"against":46,"isNew":true},
+{"country":"grc","name":"Ionikos","id":"Ionikos_F.C.","win":5,"draw":9,"loss":16,"for":22,"against":42},
+{"country":"grc","name":"Panachaiki","id":"Panachaiki_F.C.","win":1,"draw":6,"loss":23,"for":11,"against":71,"isRemoved":true},
+{"country":"grc","name":"PAS Giannina","id":"PAS_Giannina_F.C.","win":6,"draw":7,"loss":17,"for":25,"against":44,"isRemoved":true,"deduct":-90,"deductReason":"Deducted 3pts per game played due to debts to former players","isReturning":true}
 ]

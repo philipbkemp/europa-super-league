@@ -135,4 +135,21 @@
 {"country":"hun","name":"Rákospalota","id":"Rákospalotai_EAC","win":9,"draw":7,"loss":14,"for":42,"against":55},
 {"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":7,"draw":12,"loss":11,"for":31,"against":41,"isRemoved":true},
 {"country":"hun","name":"Vác","id":"Vác_FC","win":4,"draw":7,"loss":19,"for":21,"against":57,"isRemoved":true,"isReturning":true}
+][
+{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":22,"draw":5,"loss":3,"for":62,"against":23,"isChampion":true},
+{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":18,"draw":8,"loss":4,"for":60,"against":27},
+{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":16,"draw":6,"loss":8,"for":47,"against":28},
+{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":11,"draw":13,"loss":6,"for":32,"against":26,"isReturning":true},
+{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":12,"draw":9,"loss":9,"for":33,"against":31},
+{"country":"grc","name":"PAOK","id":"PAOK_FC","win":13,"draw":6,"loss":11,"for":32,"against":29},
+{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":12,"draw":6,"loss":12,"for":41,"against":45},
+{"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":10,"draw":10,"loss":10,"for":40,"against":44},
+{"country":"grc","name":"Ergotelis","id":"Ergotelis_F.C.","win":11,"draw":6,"loss":13,"for":30,"against":32,"isReturning":true},
+{"country":"grc","name":"AEL","id":"Athlitiki_Enosi_Larissa_F.C.","win":9,"draw":9,"loss":12,"for":30,"against":38},
+{"country":"grc","name":"Skoda Xanthi","id":"Xanthi_F.C.","win":8,"draw":12,"loss":10,"for":24,"against":22},
+{"country":"grc","name":"Apollon Kalamarias","id":"Apollon_Kalamarias_F.C.","win":9,"draw":8,"loss":13,"for":27,"against":36},
+{"country":"grc","name":"Iraklis","id":"Iraklis_F.C._(Thessaloniki)","win":10,"draw":5,"loss":15,"for":25,"against":34},
+{"country":"grc","name":"Kerkyra","id":"A.O._Kerkyra","win":8,"draw":11,"loss":11,"for":34,"against":36,"isRemoved":true,"isReturning":true},
+{"country":"grc","name":"Egaleo","id":"Egaleo_F.C.","win":7,"draw":7,"loss":16,"for":27,"against":45,"isRemoved":true},
+{"country":"grc","name":"Ionikos","id":"Ionikos_F.C.","win":2,"draw":3,"loss":25,"for":14,"against":62,"isRemoved":true,"deduct":-5,"deductReason":"3pts for their Chairman attacking a referee; 2pts for an incident against Iraklis"}
 ]

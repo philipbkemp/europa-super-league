@@ -140,3 +140,21 @@
 {"country":"hun","name":"Salgótarjáni BTC","id":"Salgótarjáni_BTC","win":6,"draw":6,"loss":14,"for":29,"against":38,"isRemoved":true},
 {"country":"hun","name":"Szombathelyi Haladás","id":"Szombathelyi_Haladás","win":4,"draw":5,"loss":17,"for":23,"against":49,"isReturning":true,"isRemoved":true}
 ]
+[
+{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":20,"draw":7,"loss":3,"for":66,"against":21,"isChampion":true},
+{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":19,"draw":9,"loss":2,"for":75,"against":28},
+{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":19,"draw":7,"loss":4,"for":62,"against":39},
+{"country":"grc","name":"PAOK","id":"PAOK_FC","win":13,"draw":8,"loss":9,"for":44,"against":34},
+{"country":"grc","name":"Ethnikos Piraeus","id":"Ethnikos_Piraeus_F.C.","win":12,"draw":9,"loss":9,"for":47,"against":41},
+{"country":"grc","name":"Iraklis","id":"Iraklis_F.C._(Thessaloniki)","win":11,"draw":10,"loss":9,"for":35,"against":38},
+{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":10,"draw":11,"loss":9,"for":33,"against":38},
+{"country":"grc","name":"Apollon Athens","id":"Apollon_Smyrnis_F.C.","win":8,"draw":12,"loss":10,"for":35,"against":34},
+{"country":"grc","name":"Pierikos","id":"S.F.K._Pierikos_(football)","win":9,"draw":7,"loss":14,"for":36,"against":37,"isReturning":true},
+{"country":"grc","name":"Egaleo","id":"Egaleo_F.C.","win":10,"draw":6,"loss":14,"for":27,"against":44,"deduct":-1},
+{"country":"grc","name":"Niki Volos","id":"Niki_Volos_F.C.","win":8,"draw":8,"loss":14,"for":24,"against":39},
+{"country":"grc","name":"Apollon Kalamarias","id":"Apollon_Kalamarias_F.C.","win":6,"draw":11,"loss":13,"for":18,"against":32},
+{"country":"grc","name":"Panegialios","id":"Panegialios_F.C.","win":8,"draw":7,"loss":15,"for":25,"against":37,"isReturning":true},
+{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":9,"draw":5,"loss":16,"for":22,"against":44},
+{"country":"grc","name":"Proodeftiki","id":"Proodeftiki_F.C.","win":7,"draw":9,"loss":14,"for":26,"against":43,"isRemoved":true},
+{"country":"grc","name":"Fostiras","id":"Fostiras_F.C.","win":6,"draw":4,"loss":20,"for":27,"against":53,"isRemoved":true}
+]

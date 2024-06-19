@@ -135,4 +135,21 @@
 {"country":"hun","name":"Nyíregyháza","id":"Nyíregyháza_Spartacus_FC","win":7,"draw":11,"loss":12,"for":32,"against":41},
 {"country":"hun","name":"Siófok","id":"BFC_Siófok","win":8,"draw":2,"loss":20,"for":30,"against":56,"isRemoved":true},
 {"country":"hun","name":"Rákospalota","id":"Rákospalotai_EAC","win":3,"draw":6,"loss":21,"for":33,"against":73,"isRemoved":true}
+][
+{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":22,"draw":5,"loss":3,"for":50,"against":14,"isChampion":true},
+{"country":"grc","name":"PAOK","id":"PAOK_FC","win":18,"draw":9,"loss":3,"for":39,"against":16},
+{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":17,"draw":10,"loss":3,"for":51,"against":18},
+{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":14,"draw":13,"loss":3,"for":40,"against":24},
+{"country":"grc","name":"AEL","id":"Athlitiki_Enosi_Larissa_F.C.","win":12,"draw":13,"loss":5,"for":36,"against":26},
+{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":13,"draw":8,"loss":9,"for":30,"against":31},
+{"country":"grc","name":"Skoda Xanthi","id":"Xanthi_F.C.","win":9,"draw":11,"loss":10,"for":25,"against":21},
+{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":10,"draw":7,"loss":13,"for":40,"against":40},
+{"country":"grc","name":"Ergotelis","id":"Ergotelis_F.C.","win":9,"draw":9,"loss":12,"for":31,"against":39},
+{"country":"grc","name":"Iraklis","id":"Iraklis_F.C._(Thessaloniki)","win":8,"draw":9,"loss":13,"for":22,"against":38},
+{"country":"grc","name":"Panthrakikos","id":"Panthrakikos_F.C.","win":9,"draw":6,"loss":15,"for":23,"against":37,"isNew":true},
+{"country":"grc","name":"Asteras Tripolis","id":"Asteras_Tripolis_F.C.","win":7,"draw":12,"loss":11,"for":33,"against":31},
+{"country":"grc","name":"Levadiakos","id":"Levadiakos_F.C.","win":9,"draw":5,"loss":16,"for":28,"against":36},
+{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":5,"draw":9,"loss":16,"for":30,"against":50,"isRemoved":true},
+{"country":"grc","name":"Panserraikos","id":"Panserraikos_F.C.","win":5,"draw":9,"loss":16,"for":19,"against":45,"isRemoved":true,"isReturning":true},
+{"country":"grc","name":"Thrasyvoulos","id":"Thrasyvoulos_F.C.","win":3,"draw":5,"loss":22,"for":22,"against":53,"isRemoved":true,"isNew":true}
 ]

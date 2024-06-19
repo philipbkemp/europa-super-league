@@ -131,4 +131,19 @@
 {"country":"hun","name":"Fehérvár","id":"Fehérvár_FC","win":8,"draw":11,"loss":14,"for":38,"against":43},
 {"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":8,"draw":9,"loss":16,"for":34,"against":51,"isRemoved":true},
 {"country":"hun","name":"Vasas","id":"Vasas_SC","win":4,"draw":14,"loss":15,"for":29,"against":43,"isRemoved":true,"isReturning":true}
+][
+{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":23,"draw":9,"loss":4,"for":47,"against":16},
+{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":26,"draw":5,"loss":5,"for":69,"against":17,"isChampion":true},
+{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":21,"draw":10,"loss":5,"for":70,"against":24},
+{"country":"grc","name":"PAOK","id":"PAOK_FC","win":19,"draw":10,"loss":7,"for":57,"against":32},
+{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":15,"draw":6,"loss":15,"for":55,"against":41},
+{"country":"grc","name":"Volos","id":"Volos_F.C.","win":11,"draw":7,"loss":18,"for":35,"against":66},
+{"country":"grc","name":"Panetolikos","id":"Panetolikos_F.C.","win":7,"draw":9,"loss":17,"for":32,"against":53},
+{"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":9,"draw":11,"loss":13,"for":34,"against":36},
+{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":10,"draw":11,"loss":12,"for":37,"against":41},
+{"country":"grc","name":"Asteras Tripolis","id":"Asteras_Tripolis_F.C.","win":5,"draw":16,"loss":12,"for":23,"against":36},
+{"country":"grc","name":"PAS Giannina","id":"PAS_Giannina_F.C.","win":7,"draw":13,"loss":13,"for":33,"against":50},
+{"country":"grc","name":"Ionikos","id":"Ionikos_F.C.","win":6,"draw":9,"loss":18,"for":24,"against":51,"isRemoved":true},
+{"country":"grc","name":"Lamia","id":"PAS_Lamia_1964","win":5,"draw":14,"loss":14,"for":23,"against":53},
+{"country":"grc","name":"Levadiakos","id":"Levadiakos_F.C.","win":4,"draw":14,"loss":15,"for":25,"against":48,"isRemoved":true,"isReturning":true}
 ]
