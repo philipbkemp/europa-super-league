@@ -1,0 +1,31 @@
+<textarea id="json-in" style="margin-bottom:10px;width:100%;height:200px;"></textarea>
+<button id="json-parse" style="margin-bottom:10px;">Add</button>
+
+<textarea id="json-out" style="margin-bottom:10px;width:100%;height:200px;"></textarea>
+
+<script>
+	document.getElementById("json-parse").addEventListener("click",function(){
+		console.clear();
+		jsin = JSON.parse( document.getElementById("json-in").value );
+		jsin = jsin.teams;
+
+		existing = document.getElementById("json-out").value;
+		if ( existing === "" ) {
+			existing = [];
+		} else {
+			existing = JSON.parse(existing);
+		}
+
+		jsin.forEach(t=>{
+			if ( existing.indexOf(t) === -1 ) {
+				existing.push(t);
+			} else {
+				console.error("Already have team " + t);
+			}
+		});
+
+		existing.sort();
+
+		document.getElementById("json-out").value = JSON.stringify(existing);
+	});
+</script>
