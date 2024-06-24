@@ -100,8 +100,12 @@ if ( $("h1 .placeholder").length !== 0 ) {
 			return b.winPercentage - a.winPercentage;
 		} else if ( a.forPerGame !== b.forPerGame ) {
 			return b.forPerGame - a.forPerGame;
+		} else if ( a.for !== b.for ) {
+			return b.for - a.for;
+		} else if ( a.win !== b.win ) {
+			return b.win - a.win;
 		}
-		console.error("Teams tied on p/g + gd/g + w% + f/g",a,b);
+		console.error("Teams tied on p/g + gd/g + w% + f/g + f + win",a,b);
 	});
 
 	tbody = $("#diva-pane table tbody");
