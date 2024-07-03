@@ -148,4 +148,17 @@
 {"country":"grc","name":"Ionikos","id":"Ionikos_F.C.","win":5,"draw":9,"loss":16,"for":22,"against":42},
 {"country":"grc","name":"Panachaiki","id":"Panachaiki_F.C.","win":1,"draw":6,"loss":23,"for":11,"against":71,"isRemoved":true},
 {"country":"grc","name":"PAS Giannina","id":"PAS_Giannina_F.C.","win":6,"draw":7,"loss":17,"for":25,"against":44,"isRemoved":true,"deduct":-90,"deductReason":"Deducted 3pts per game played due to debts to former players","isReturning":true}
+][
+{"country":"lux","name":"F91 Dudelange","id":"F91_Dudelange","win":16,"draw":4,"loss":8,"for":66,"against":34},
+{"country":"lux","name":"Grevenmacher","id":"CS_Grevenmacher","win":18,"draw":5,"loss":5,"for":68,"against":28,"isChampion":true},
+{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":12,"draw":6,"loss":10,"for":43,"against":40},
+{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":13,"draw":9,"loss":6,"for":54,"against":30},
+{"country":"lux","name":"Swift Hesperange","id":"FC_Swift_Hesperange","win":14,"draw":9,"loss":5,"for":66,"against":37},
+{"country":"lux","name":"Mondercange","id":"FC_Mondercange","win":14,"draw":2,"loss":12,"for":64,"against":56},
+{"country":"lux","name":"Rumelange","id":"US_Rumelange","win":11,"draw":4,"loss":13,"for":51,"against":63},
+{"country":"lux","name":"Wiltz 71","id":"FC_Wiltz_71","win":9,"draw":5,"loss":14,"for":40,"against":53,"isReturning":true},
+{"country":"lux","name":"Victoria Rosport","id":"FC_Victoria_Rosport","win":10,"draw":8,"loss":10,"for":44,"against":55,"isNew":true},
+{"country":"lux","name":"Avenir Beggen","id":"FC_Avenir_Beggen","win":11,"draw":4,"loss":13,"for":57,"against":64},
+{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":6,"draw":0,"loss":22,"for":29,"against":82,"isRemoved":true},
+{"country":"lux","name":"Sporting Mertzig","id":"FC_Sporting_Mertzig","win":6,"draw":0,"loss":22,"for":36,"against":76,"isRemoved":true}
 ]

@@ -148,4 +148,19 @@
 {"country":"grc","name":"PAS Giannina","id":"PAS_Giannina_F.C.","win":7,"draw":6,"loss":17,"for":19,"against":38,"isRemoved":true},
 {"country":"grc","name":"Levadiakos","id":"Levadiakos_F.C.","win":5,"draw":6,"loss":19,"for":15,"against":45,"isRemoved":true},
 {"country":"grc","name":"Apollon Smyrnis","id":"Apollon_Smyrnis_F.C.","win":2,"draw":4,"loss":24,"for":11,"against":55,"isRemoved":true}
+][
+{"country":"lux","name":"F91 Dudelange","id":"F91_Dudelange","win":18,"draw":5,"loss":3,"for":72,"against":33,"isChampion":true},
+{"country":"lux","name":"Fola Esch","id":"CS_Fola_Esch","win":15,"draw":5,"loss":6,"for":65,"against":28},
+{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":14,"draw":6,"loss":6,"for":46,"against":30},
+{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":13,"draw":5,"loss":8,"for":45,"against":35},
+{"country":"lux","name":"Differdange 03","id":"FC_Differdange_03","win":13,"draw":5,"loss":8,"for":35,"against":33},
+{"country":"lux","name":"Racing FC","id":"Racing_FC_Union_Luxembourg","win":11,"draw":6,"loss":9,"for":42,"against":31},
+{"country":"lux","name":"UNA Strassen","id":"FC_UNA_Strassen","win":12,"draw":3,"loss":11,"for":46,"against":43},
+{"country":"lux","name":"Union Titus Pétange","id":"Union_Titus_Pétange","win":11,"draw":4,"loss":11,"for":38,"against":43},
+{"country":"lux","name":"Mondorf-les-Bains","id":"US_Mondorf-les-Bains","win":10,"draw":5,"loss":11,"for":39,"against":39},
+{"country":"lux","name":"Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":7,"draw":7,"loss":12,"for":31,"against":44,"isReturning":true},
+{"country":"lux","name":"Victoria Rosport","id":"FC_Victoria_Rosport","win":7,"draw":7,"loss":12,"for":33,"against":49},
+{"country":"lux","name":"Hostert","id":"US_Hostert","win":7,"draw":4,"loss":15,"for":37,"against":58},
+{"country":"lux","name":"RM Hamm Benfica","id":"F.C._Luxembourg_City","win":5,"draw":4,"loss":17,"for":29,"against":50,"isRemoved":true},
+{"country":"lux","name":"Rumelange","id":"US_Rumelange","win":4,"draw":4,"loss":18,"for":34,"against":76,"isRemoved":true,"isReturning":true}
 ]

@@ -57,4 +57,15 @@
 ]
 [
 	//hun
+][
+{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":15,"draw":2,"loss":1,"for":62,"against":15,"isChampion":true,"isReturning":true},
+{"country":"lux","name":"US Dudelange","id":"US_Dudelange","win":11,"draw":2,"loss":5,"for":53,"against":32,"isReturning":true},
+{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":9,"draw":3,"loss":6,"for":45,"against":41,"isReturning":true},
+{"country":"lux","name":"FA Red Boys Differdange","id":"FA_Red_Boys_Differdange","win":10,"draw":0,"loss":8,"for":36,"against":28,"isReturning":true},
+{"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":8,"draw":2,"loss":8,"for":28,"against":41,"isReturning":true},
+{"country":"lux","name":"Chiers Rodange","id":"FC_Chiers","win":6,"draw":3,"loss":9,"for":23,"against":32,"isReturning":true},
+{"country":"lux","name":"National Schifflange","id":"National_Schifflange","win":6,"draw":3,"loss":9,"for":35,"against":53,"isReturning":true},
+{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":5,"draw":3,"loss":10,"for":34,"against":32,"isReturning":true},
+{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":5,"draw":3,"loss":10,"for":26,"against":44,"isReturning":true},
+{"country":"lux","name":"CS Pétange","id":"CS_Pétange","win":3,"draw":3,"loss":12,"for":26,"against":50,"isReturning":true}
 ]

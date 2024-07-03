@@ -47,4 +47,11 @@
 {"country":"hun","name":"Törekvés SE","id":"Törekvés_SE","win":3,"draw":8,"loss":10,"for":27,"against":32},
 {"country":"hun","name":"Budapesti AK","id":"Budapesti_AK","win":3,"draw":7,"loss":12,"for":21,"against":41},
 {"country":"hun","name":"MÁV Gépgyári SK","id":"Budapesti_MÁVAG_SK","win":3,"draw":3,"loss":14,"for":22,"against":66,"isRemoved":true}
+][
+{"country":"lux","name":"Sporting Club Luxembourg","id":"SC_Luxembourg","win":7,"draw":2,"loss":1,"for":18,"against":12,"isChampion":true},
+{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":6,"draw":1,"loss":3,"for":28,"against":14},
+{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":4,"draw":4,"loss":2,"for":24,"against":12,"isReturning":true},
+{"country":"lux","name":"US Hollerich Bonnevoie","id":"US_Hollerich_Bonnevoie","win":3,"draw":3,"loss":4,"for":18,"against":17},
+{"country":"lux","name":"Racing Club Luxembourg","id":"Racing_Club_Luxembourg","win":2,"draw":3,"loss":5,"for":14,"against":26},
+{"country":"lux","name":"FCM Young Boys Diekirch","id":"FCM_Young_Boys_Diekirch","win":0,"draw":3,"loss":7,"for":4,"against":25,"isRemoved":true}
 ]

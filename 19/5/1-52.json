@@ -122,4 +122,15 @@
 {"country":"hun","name":"Szombathelyi Haladás","id":"Szombathelyi_Haladás","win":8,"draw":2,"loss":16,"for":29,"against":59},
 {"country":"hun","name":"SORTEX","id":"Soroksár_FC","win":7,"draw":4,"loss":15,"for":19,"against":48,"isReturning":true,"isRemoved":true},
 {"country":"hun","name":"Szegedi Petőfi","id":"Szegedi_AK","win":2,"draw":6,"loss":18,"for":27,"against":78,"isRemoved":true}
+][
+{"country":"lux","name":"National Schifflange","id":"National_Schifflange","win":10,"draw":4,"loss":4,"for":39,"against":26,"isChampion":true},
+{"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":10,"draw":3,"loss":5,"for":35,"against":28},
+{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":9,"draw":3,"loss":6,"for":24,"against":22},
+{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":6,"draw":6,"loss":6,"for":37,"against":34},
+{"country":"lux","name":"FA Red Boys Differdange","id":"FA_Red_Boys_Differdange","win":6,"draw":6,"loss":6,"for":26,"against":27},
+{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":8,"draw":2,"loss":8,"for":39,"against":40,"isReturning":true},
+{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":6,"draw":5,"loss":7,"for":35,"against":28},
+{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":8,"draw":1,"loss":9,"for":40,"against":45},
+{"country":"lux","name":"SC Tétange","id":"SC_Tétange","win":5,"draw":6,"loss":7,"for":29,"against":31},
+{"country":"lux","name":"Racing Rodange","id":"FC_Racing","win":1,"draw":6,"loss":11,"for":23,"against":46}
 ]

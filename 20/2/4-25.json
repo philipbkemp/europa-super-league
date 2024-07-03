@@ -19,8 +19,7 @@
 {"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
-]
-[
+][
 {"country":"bel","name":"Anderlecht","id":"R.S.C._Anderlecht","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"bel","name":"Antwerp","id":"Royal_Antwerp_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"bel","name":"Beerschot","id":"K_Beerschot_VA","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
@@ -69,8 +68,7 @@
 {"country":"nld","name":"Twente","id":"FC_Twente","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"nld","name":"Utrecht","id":"FC_Utrecht","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"nld","name":"Willem II","id":"Willem_II_(football_club)","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true}
-]
-[
+][
 {"country":"ita","name":"AaB","id":"AaB_Fodbold","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
 {"country":"ita","name":"AGF","id":"Aarhus_Gymnastikforening","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"ita","name":"Brøndby","id":"Brøndby_IF","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
@@ -83,8 +81,7 @@
 {"country":"ita","name":"Randers","id":"Randers_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"ita","name":"Vejle","id":"Vejle_Boldklub","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"ita","name":"Viborg","id":"Viborg_FF","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
-]
-[
+][
 {"country":"ita","name":"AC Milan","id":"AC_Milan","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
@@ -105,8 +102,7 @@
 {"country":"ita","name":"Torino","id":"Torino_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"ita","name":"Udinese","id":"Udinese_Calcio","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"ita","name":"Venezia","id":"Venezia_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true}
-]
-[
+][
 {"country":"che","name":"Basel","id":"FC_Basel","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"che","name":"Grasshopper","id":"Grasshopper_Club_Zürich","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"che","name":"Lausanne-Sport","id":"FC_Lausanne-Sport","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
@@ -119,11 +115,9 @@
 {"country":"che","name":"Winterthur","id":"FC_Winterthur","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"che","name":"Yverdon-Sport","id":"Yverdon-Sport_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"che","name":"Zürich","id":"FC_Zürich","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
-]
-[
-	//hun - not yet created
-]
-[
+][
+	// hun - not yet created
+][
 {"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"grc","name":"Asteras Tripolis","id":"Asteras_Tripolis_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
@@ -138,4 +132,6 @@
 {"country":"grc","name":"Panserraikos","id":"Panserraikos_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"grc","name":"PAOK","id":"PAOK_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"grc","name":"Volos","id":"Volos_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
+][
+	// lux - not yet created
 ]

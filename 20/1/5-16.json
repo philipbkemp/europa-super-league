@@ -146,4 +146,19 @@
 {"country":"grc","name":"Veria","id":"Veria_F.C.","win":5,"draw":12,"loss":13,"for":19,"against":33},
 {"country":"grc","name":"Panthrakikos","id":"Panthrakikos_F.C.","win":3,"draw":8,"loss":19,"for":18,"against":58,"isRemoved":true},
 {"country":"grc","name":"AEL Kalloni","id":"AEL_Kalloni_F.C.","win":3,"draw":7,"loss":20,"for":19,"against":53,"isRemoved":true}
+][
+{"country":"lux","name":"F91 Dudelange","id":"F91_Dudelange","win":19,"draw":5,"loss":2,"for":65,"against":21,"isChampion":true},
+{"country":"lux","name":"Fola Esch","id":"CS_Fola_Esch","win":19,"draw":5,"loss":2,"for":61,"against":23},
+{"country":"lux","name":"Differdange 03","id":"FC_Differdange_03","win":17,"draw":4,"loss":5,"for":63,"against":32},
+{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":13,"draw":7,"loss":6,"for":48,"against":30},
+{"country":"lux","name":"UNA Strassen","id":"FC_UNA_Strassen","win":11,"draw":5,"loss":10,"for":50,"against":50,"isNew":true},
+{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":10,"draw":6,"loss":10,"for":41,"against":30},
+{"country":"lux","name":"Mondorf-les-Bains","id":"US_Mondorf-les-Bains","win":10,"draw":6,"loss":10,"for":36,"against":34},
+{"country":"lux","name":"Racing FC","id":"Racing_FC_Union_Luxembourg","win":10,"draw":5,"loss":11,"for":45,"against":54,"isReturning":true},
+{"country":"lux","name":"RM Hamm Benfica","id":"F.C._Luxembourg_City","win":9,"draw":7,"loss":10,"for":52,"against":49,"isReturning":true},
+{"country":"lux","name":"Rumelange","id":"US_Rumelange","win":8,"draw":4,"loss":14,"for":38,"against":52},
+{"country":"lux","name":"Victoria Rosport","id":"FC_Victoria_Rosport","win":7,"draw":5,"loss":14,"for":46,"against":49},
+{"country":"lux","name":"Wiltz","id":"FC_Wiltz_71","win":5,"draw":6,"loss":15,"for":22,"against":60,"isRemoved":true},
+{"country":"lux","name":"Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":4,"draw":5,"loss":17,"for":25,"against":70,"isRemoved":true},
+{"country":"lux","name":"Grevenmacher","id":"CS_Grevenmacher","win":3,"draw":4,"loss":19,"for":15,"against":53,"isRemoved":true}
 ]

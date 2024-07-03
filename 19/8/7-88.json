@@ -153,4 +153,17 @@
 {"country":"grc","name":"Veria","id":"Veria_F.C.","win":7,"draw":9,"loss":14,"for":24,"against":53,"isRemoved":true},
 {"country":"grc","name":"Panserraikos","id":"Panserraikos_F.C.","win":8,"draw":5,"loss":17,"for":24,"against":42,"isRemoved":true,"isReturning":true},
 {"country":"grc","name":"Panachaiki","id":"Panachaiki_F.C.","win":7,"draw":7,"loss":16,"for":32,"against":53,"isRemoved":true,"deduct":-1,"isReturning":true}
+][
+{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":19,"draw":4,"loss":5,"for":62,"against":27,"isChampion":true},
+{"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":14,"draw":5,"loss":9,"for":58,"against":37},
+{"country":"lux","name":"FC Avenir Beggen","id":"FC_Avenir_Beggen","win":15,"draw":7,"loss":6,"for":60,"against":29},
+{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":14,"draw":6,"loss":8,"for":58,"against":38},
+{"country":"lux","name":"FA Red Boys Differdange","id":"FA_Red_Boys_Differdange","win":8,"draw":7,"loss":7,"for":36,"against":27},
+{"country":"lux","name":"FC Olympique Eischen","id":"FC_Olympique_Eischen","win":7,"draw":7,"loss":8,"for":24,"against":35},
+{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":7,"draw":6,"loss":9,"for":35,"against":35},
+{"country":"lux","name":"CS Grevenmacher","id":"CS_Grevenmacher","win":8,"draw":4,"loss":10,"for":27,"against":36},
+{"country":"lux","name":"FC Swift Hesperange","id":"FC_Swift_Hesperange","win":9,"draw":6,"loss":13,"for":44,"against":55},
+{"country":"lux","name":"Alliance Dudelange","id":"Alliance_Dudelange","win":7,"draw":7,"loss":14,"for":26,"against":48,"isRemoved":true},
+{"country":"lux","name":"FC Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":7,"draw":7,"loss":14,"for":44,"against":65,"isReturning":true,"isRemoved":true},
+{"country":"lux","name":"US Rumelange","id":"US_Rumelange","win":2,"draw":6,"loss":14,"for":20,"against":63,"isRemoved":true,"isReturning":true}
 ]

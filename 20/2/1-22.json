@@ -146,4 +146,21 @@
 {"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":8,"draw":9,"loss":16,"for":33,"against":52},
 {"country":"grc","name":"Lamia","id":"PAS_Lamia_1964","win":6,"draw":8,"loss":19,"for":24,"against":44},
 {"country":"grc","name":"Apollon Smyrnis","id":"Apollon_Smyrnis_F.C.","win":4,"draw":10,"loss":19,"for":16,"against":57,"isRemoved":true}
+][
+{"country":"lux","name":"F91 Dudelange","id":"F91_Dudelange","win":21,"draw":4,"loss":5,"for":78,"against":27,"isChampion":true},
+{"country":"lux","name":"Differdange 03","id":"FC_Differdange_03","win":19,"draw":5,"loss":6,"for":58,"against":28},
+{"country":"lux","name":"Fola Esch","id":"CS_Fola_Esch","win":18,"draw":8,"loss":4,"for":64,"against":37},
+{"country":"lux","name":"Swift Hesperange","id":"FC_Swift_Hesperange","win":18,"draw":6,"loss":6,"for":61,"against":26},
+{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":16,"draw":7,"loss":7,"for":68,"against":37},
+{"country":"lux","name":"UNA Strassen","id":"FC_UNA_Strassen","win":14,"draw":9,"loss":7,"for":53,"against":36},
+{"country":"lux","name":"Racing Union","id":"Racing_FC_Union_Luxembourg","win":15,"draw":4,"loss":11,"for":56,"against":48},
+{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":14,"draw":5,"loss":11,"for":44,"against":30},
+{"country":"lux","name":"Mondorf-les-Bains","id":"US_Mondorf-les-Bains","win":10,"draw":7,"loss":13,"for":38,"against":44},
+{"country":"lux","name":"Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":12,"draw":1,"loss":17,"for":45,"against":66},
+{"country":"lux","name":"Union Titus Pétange","id":"Union_Titus_Pétange","win":10,"draw":5,"loss":15,"for":40,"against":41},
+{"country":"lux","name":"Victoria Rosport","id":"FC_Victoria_Rosport","win":8,"draw":9,"loss":13,"for":45,"against":59},
+{"country":"lux","name":"Wiltz 71","id":"FC_Wiltz_71","win":9,"draw":4,"loss":17,"for":42,"against":53},
+{"country":"lux","name":"Hostert","id":"US_Hostert","win":8,"draw":6,"loss":16,"for":42,"against":63},
+{"country":"lux","name":"Rodange 91","id":"FC_Rodange_91","win":6,"draw":1,"loss":23,"for":23,"against":70,"isRemoved":true},
+{"country":"lux","name":"RM Hamm Benfica","id":"F.C._Luxembourg_City","win":1,"draw":1,"loss":28,"for":13,"against":105,"isRemoved":true}
 ]

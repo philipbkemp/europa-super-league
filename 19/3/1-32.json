@@ -107,4 +107,13 @@
 {"country":"hun","name":"Nemzeti SC","id":"Nemzeti_SC","win":5,"draw":4,"loss":13,"for":27,"against":52},
 {"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":5,"draw":3,"loss":14,"for":41,"against":69,"isRemoved":true},
 {"country":"hun","name":"Sabaria FC","id":"Sabaria_FC","win":3,"draw":2,"loss":17,"for":17,"against":31,"isRemoved":true}
+][
+{"country":"lux","name":"FA Red Boys Differdange","id":"FA_Red_Boys_Differdange","win":9,"draw":3,"loss":2,"for":39,"against":19,"isChampion":true},
+{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":10,"draw":1,"loss":3,"for":34,"against":22},
+{"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":5,"draw":4,"loss":5,"for":42,"against":33},
+{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":6,"draw":2,"loss":6,"for":31,"against":34},
+{"country":"lux","name":"National Schifflange","id":"National_Schifflange","win":5,"draw":3,"loss":6,"for":30,"against":32},
+{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":4,"draw":3,"loss":7,"for":25,"against":28},
+{"country":"lux","name":"US Dudelange","id":"US_Dudelange","win":4,"draw":3,"loss":7,"for":28,"against":33,"isReturning":true},
+{"country":"lux","name":"FC Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":2,"draw":3,"loss":9,"for":19,"against":47,"isReturning":true,"isRemoved":true}
 ]

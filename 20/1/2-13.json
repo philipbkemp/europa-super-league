@@ -150,4 +150,19 @@
 {"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":8,"draw":8,"loss":14,"for":33,"against":46},
 {"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":8,"draw":6,"loss":16,"for":21,"against":36,"isRemoved":true,"deduct":-2,"deductReason":"Crowd violence"},
 {"country":"grc","name":"Kerkyra","id":"A.O._Kerkyra","win":4,"draw":8,"loss":18,"for":16,"against":41,"isRemoved":true}
+][
+{"country":"lux","name":"Fola Esch","id":"CS_Fola_Esch","win":18,"draw":5,"loss":3,"for":66,"against":23,"isChampion":true},
+{"country":"lux","name":"F91 Dudelange","id":"F91_Dudelange","win":16,"draw":7,"loss":3,"for":53,"against":20},
+{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":16,"draw":2,"loss":8,"for":53,"against":30},
+{"country":"lux","name":"Differdange 03","id":"FC_Differdange_03","win":14,"draw":5,"loss":7,"for":54,"against":34},
+{"country":"lux","name":"RM Hamm Benfica","id":"F.C._Luxembourg_City","win":13,"draw":7,"loss":6,"for":53,"against":38},
+{"country":"lux","name":"Grevenmacher","id":"CS_Grevenmacher","win":11,"draw":9,"loss":6,"for":43,"against":32},
+{"country":"lux","name":"Jeunesse Canach","id":"FC_Jeunesse_Canach","win":10,"draw":7,"loss":9,"for":40,"against":35,"isReturning":true},
+{"country":"lux","name":"Racing FC","id":"Racing_FC_Union_Luxembourg","win":9,"draw":6,"loss":11,"for":42,"against":44},
+{"country":"lux","name":"UN Käerjeng 97","id":"UN_Käerjéng_97","win":9,"draw":4,"loss":13,"for":44,"against":53},
+{"country":"lux","name":"Wiltz","id":"FC_Wiltz_71","win":9,"draw":3,"loss":14,"for":42,"against":66,"isReturning":true},
+{"country":"lux","name":"Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":6,"draw":9,"loss":11,"for":41,"against":61,"isReturning":true},
+{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":7,"draw":4,"loss":15,"for":29,"against":45},
+{"country":"lux","name":"Pétange","id":"CS_Pétange","win":3,"draw":5,"loss":18,"for":21,"against":56,"isRemoved":true},
+{"country":"lux","name":"Union 05 Kayl-Tétange","id":"Union_05_Kayl-Tétange","win":3,"draw":3,"loss":20,"for":29,"against":73,"isRemoved":true}
 ]

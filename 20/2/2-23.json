@@ -146,4 +146,21 @@
 {"country":"grc","name":"Ionikos","id":"Ionikos_F.C.","win":6,"draw":9,"loss":18,"for":24,"against":51,"isRemoved":true},
 {"country":"grc","name":"Lamia","id":"PAS_Lamia_1964","win":5,"draw":14,"loss":14,"for":23,"against":53},
 {"country":"grc","name":"Levadiakos","id":"Levadiakos_F.C.","win":4,"draw":14,"loss":15,"for":25,"against":48,"isRemoved":true,"isReturning":true}
+][
+{"country":"lux","name":"Swift Hesperange","id":"FC_Swift_Hesperange","win":24,"draw":5,"loss":1,"for":100,"against":28,"isChampion":true},
+{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":22,"draw":4,"loss":4,"for":67,"against":31},
+{"country":"lux","name":"F91 Dudelange","id":"F91_Dudelange","win":22,"draw":1,"loss":7,"for":86,"against":38},
+{"country":"lux","name":"Union Titus Pétange","id":"Union_Titus_Pétange","win":18,"draw":5,"loss":7,"for":62,"against":38},
+{"country":"lux","name":"Differdange 03","id":"FC_Differdange_03","win":14,"draw":3,"loss":13,"for":60,"against":43},
+{"country":"lux","name":"Mondorf-les-Bains","id":"US_Mondorf-les-Bains","win":14,"draw":3,"loss":13,"for":52,"against":52},
+{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":12,"draw":7,"loss":11,"for":44,"against":39},
+{"country":"lux","name":"Racing Union","id":"Racing_FC_Union_Luxembourg","win":11,"draw":10,"loss":9,"for":43,"against":39},
+{"country":"lux","name":"UNA Strassen","id":"FC_UNA_Strassen","win":12,"draw":3,"loss":15,"for":33,"against":46},
+{"country":"lux","name":"Wiltz 71","id":"FC_Wiltz_71","win":10,"draw":6,"loss":14,"for":48,"against":59},
+{"country":"lux","name":"Victoria Rosport","id":"FC_Victoria_Rosport","win":8,"draw":8,"loss":14,"for":48,"against":58},
+{"country":"lux","name":"Mondercange","id":"FC_Mondercange","win":7,"draw":8,"loss":15,"for":41,"against":55,"isReturning":true},
+{"country":"lux","name":"Fola Esch","id":"CS_Fola_Esch","win":8,"draw":2,"loss":20,"for":36,"against":71},
+{"country":"lux","name":"UN Käerjéng 97","id":"UN_Käerjéng_97","win":5,"draw":10,"loss":15,"for":30,"against":69,"isReturning":true},
+{"country":"lux","name":"Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":6,"draw":5,"loss":19,"for":32,"against":71,"isRemoved":true},
+{"country":"lux","name":"Hostert","id":"US_Hostert","win":4,"draw":6,"loss":20,"for":20,"against":65,"isRemoved":true}
 ]

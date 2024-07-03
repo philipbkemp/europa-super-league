@@ -118,4 +118,13 @@
 {"country":"hun","name":"III. Kerület","id":"III._Kerületi_TVE","win":6,"draw":5,"loss":11,"for":35,"against":44},
 {"country":"hun","name":"Miskolci Attila","id":"Miskolci_AK","win":6,"draw":3,"loss":13,"for":24,"against":57},
 {"country":"hun","name":"Somogy FC","id":"Somogy_FC","win":1,"draw":4,"loss":17,"for":24,"against":79,"isRemoved":true}
+][
+{"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":9,"draw":2,"loss":3,"for":33,"against":15,"isChampion":true},
+{"country":"lux","name":"FA Red Boys Differdange","id":"FA_Red_Boys_Differdange","win":8,"draw":1,"loss":5,"for":40,"against":27},
+{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":6,"draw":2,"loss":6,"for":27,"against":24},
+{"country":"lux","name":"US Dudelange","id":"US_Dudelange","win":6,"draw":2,"loss":6,"for":35,"against":40},
+{"country":"lux","name":"FC Red Black Pfaffenthal","id":"FC_Red_Black_Pfaffenthal","win":4,"draw":5,"loss":5,"for":21,"against":23,"isReturning":true},
+{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":5,"draw":3,"loss":6,"for":27,"against":31},
+{"country":"lux","name":"FC Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":5,"draw":1,"loss":8,"for":27,"against":39,"isReturning":true},
+{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":4,"draw":2,"loss":8,"for":20,"against":31,"isRemoved":true}
 ]

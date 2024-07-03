@@ -126,4 +126,17 @@
 {"country":"hun","name":"Szolnoki MÁV FC","id":"Szolnoki_MÁV_FC","win":8,"draw":5,"loss":19,"for":33,"against":69,"isRemoved":true},
 {"country":"hun","name":"Debreceni VSC","id":"Debreceni_VSC","win":8,"draw":3,"loss":21,"for":37,"against":76,"isRemoved":true},
 {"country":"hun","name":"MOGÜRT","id":"Ikarus_Bus","win":4,"draw":2,"loss":26,"for":23,"against":34,"isNew":true,"isRemoved":true}
+][
+{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":18,"draw":2,"loss":2,"for":84,"against":17,"isChampion":true},
+{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":11,"draw":5,"loss":6,"for":60,"against":34},
+{"country":"lux","name":"FA Red Boys Differdange","id":"FA_Red_Boys_Differdange","win":11,"draw":5,"loss":6,"for":58,"against":35},
+{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":11,"draw":4,"loss":7,"for":43,"against":31},
+{"country":"lux","name":"US Dudelange","id":"US_Dudelange","win":10,"draw":5,"loss":7,"for":58,"against":33},
+{"country":"lux","name":"National Schifflange","id":"National_Schifflange","win":9,"draw":5,"loss":8,"for":40,"against":36},
+{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":9,"draw":4,"loss":9,"for":32,"against":37},
+{"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":7,"draw":6,"loss":9,"for":46,"against":44},
+{"country":"lux","name":"SC Tétange","id":"SC_Tétange","win":8,"draw":4,"loss":10,"for":47,"against":69,"isReturning":true},
+{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":6,"draw":7,"loss":9,"for":31,"against":40,"isRemoved":true},
+{"country":"lux","name":"Sporting Club Bettembourg","id":"Sporting_Club_Bettembourg","win":4,"draw":1,"loss":17,"for":24,"against":84,"isNew":true,"isRemoved":true},
+{"country":"lux","name":"FC Red Black Pfaffenthal","id":"FC_Red_Black_Pfaffenthal","win":2,"draw":4,"loss":16,"for":20,"against":83,"isReturning":true,"isRemoved":true}
 ]

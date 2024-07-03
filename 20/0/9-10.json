@@ -150,4 +150,19 @@
 {"country":"grc","name":"Levadiakos","id":"Levadiakos_F.C.","win":9,"draw":7,"loss":14,"for":31,"against":44,"isRemoved":true},
 {"country":"grc","name":"PAS Giannina","id":"PAS_Giannina_F.C.","win":7,"draw":7,"loss":16,"for":27,"against":46,"isRemoved":true,"isReturning":true},
 {"country":"grc","name":"Panthrakikos","id":"Panthrakikos_F.C.","win":3,"draw":3,"loss":24,"for":21,"against":62,"isRemoved":true}
+][
+{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":17,"draw":6,"loss":3,"for":45,"against":20,"isChampion":true},
+{"country":"lux","name":"F91 Dudelange","id":"F91_Dudelange","win":16,"draw":6,"loss":4,"for":62,"against":23},
+{"country":"lux","name":"Grevenmacher","id":"CS_Grevenmacher","win":13,"draw":4,"loss":9,"for":46,"against":40},
+{"country":"lux","name":"Differdange 03","id":"FC_Differdange_03","win":12,"draw":6,"loss":8,"for":41,"against":30},
+{"country":"lux","name":"RM Hamm Benfica","id":"F.C._Luxembourg_City","win":11,"draw":8,"loss":7,"for":50,"against":29},
+{"country":"lux","name":"Fola Esch","id":"CS_Fola_Esch","win":11,"draw":8,"loss":7,"for":49,"against":38},
+{"country":"lux","name":"Racing FC","id":"Racing_FC_Union_Luxembourg","win":12,"draw":5,"loss":9,"for":39,"against":47},
+{"country":"lux","name":"Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":8,"draw":8,"loss":10,"for":42,"against":43},
+{"country":"lux","name":"Pétange","id":"CS_Pétange","win":9,"draw":5,"loss":12,"for":36,"against":42,"isReturning":true},
+{"country":"lux","name":"Swift Hesperange","id":"FC_Swift_Hesperange","win":8,"draw":5,"loss":13,"for":33,"against":41},
+{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":6,"draw":10,"loss":10,"for":39,"against":44},
+{"country":"lux","name":"UN Käerjeng 97","id":"UN_Käerjéng_97","win":7,"draw":7,"loss":12,"for":28,"against":36},
+{"country":"lux","name":"Rumelange","id":"US_Rumelange","win":7,"draw":1,"loss":18,"for":27,"against":63,"isRemoved":true},
+{"country":"lux","name":"Mondercange","id":"FC_Mondercange","win":2,"draw":7,"loss":17,"for":18,"against":58,"isRemoved":true,"isReturning":true}
 ]

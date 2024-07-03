@@ -148,4 +148,19 @@
 {"country":"grc","name":"Levadiakos","id":"Levadiakos_F.C.","win":6,"draw":8,"loss":16,"for":27,"against":49},
 {"country":"grc","name":"Iraklis","id":"Iraklis_F.C._(Thessaloniki)","win":6,"draw":11,"loss":13,"for":28,"against":39,"isRemoved":true},
 {"country":"grc","name":"Veria","id":"Veria_F.C.","win":5,"draw":7,"loss":18,"for":23,"against":56,"isRemoved":true}
+][
+{"country":"lux","name":"F91 Dudelange","id":"F91_Dudelange","win":20,"draw":5,"loss":1,"for":68,"against":14,"isChampion":true},
+{"country":"lux","name":"Differdange 03","id":"FC_Differdange_03","win":20,"draw":5,"loss":1,"for":65,"against":21},
+{"country":"lux","name":"Fola Esch","id":"CS_Fola_Esch","win":16,"draw":8,"loss":2,"for":69,"against":34},
+{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":13,"draw":5,"loss":8,"for":57,"against":38},
+{"country":"lux","name":"UNA Strassen","id":"FC_UNA_Strassen","win":11,"draw":4,"loss":11,"for":39,"against":47},
+{"country":"lux","name":"Union Titus Pétange","id":"Union_Titus_Pétange","win":10,"draw":5,"loss":11,"for":38,"against":33,"isNew":true},
+{"country":"lux","name":"Mondorf-les-Bains","id":"US_Mondorf-les-Bains","win":9,"draw":3,"loss":14,"for":29,"against":45},
+{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":7,"draw":8,"loss":11,"for":38,"against":49},
+{"country":"lux","name":"Victoria Rosport","id":"FC_Victoria_Rosport","win":8,"draw":4,"loss":14,"for":38,"against":54},
+{"country":"lux","name":"Racing FC","id":"Racing_FC_Union_Luxembourg","win":8,"draw":3,"loss":15,"for":38,"against":52},
+{"country":"lux","name":"RM Hamm Benfica","id":"F.C._Luxembourg_City","win":7,"draw":5,"loss":14,"for":29,"against":47},
+{"country":"lux","name":"Jeunesse Canach","id":"FC_Jeunesse_Canach","win":5,"draw":8,"loss":13,"for":30,"against":54,"isRemoved":true,"isReturning":true},
+{"country":"lux","name":"Rumelange","id":"US_Rumelange","win":5,"draw":8,"loss":13,"for":29,"against":53,"isRemoved":true},
+{"country":"lux","name":"UN Käerjéng 97","id":"UN_Käerjéng_97","win":7,"draw":1,"loss":18,"for":37,"against":63,"isRemoved":true,"isReturning":true}
 ]

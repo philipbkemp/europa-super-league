@@ -122,4 +122,17 @@
 {"country":"hun","name":"Diósgyőri VTK","id":"Diósgyőri_VTK","win":6,"draw":7,"loss":13,"for":40,"against":53,"isRemoved":true,"removedNote":"Hungary's 1956 season was cancelled. Team not present in restarted 1957 season"},
 {"country":"hun","name":"ÚTE Izzó","id":"Tungsram_SC","win":4,"draw":5,"loss":17,"for":24,"against":60,"isRemoved":true,"removedNote":"Hungary's 1956 season was cancelled. Team not present in restarted 1957 season"},
 {"country":"hun","name":"Szolnoki Légierő SK","id":"Szolnoki_Légierő_SK","win":3,"draw":4,"loss":19,"for":17,"against":60,"isNew":true,"isRemoved":true,"removedNote":"Hungary's 1956 season was cancelled. Team not present in restarted 1957 season"}
+][
+{"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":16,"draw":1,"loss":5,"for":61,"against":38,"isChampion":true,"isReturning":true},
+{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":16,"draw":0,"loss":6,"for":61,"against":23},
+{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":12,"draw":6,"loss":4,"for":66,"against":40},
+{"country":"lux","name":"Alliance Dudelange","id":"Alliance_Dudelange","win":12,"draw":5,"loss":5,"for":51,"against":41},
+{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":8,"draw":7,"loss":7,"for":35,"against":32},
+{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":10,"draw":3,"loss":9,"for":57,"against":58},
+{"country":"lux","name":"National Schifflange","id":"National_Schifflange","win":9,"draw":3,"loss":10,"for":37,"against":44},
+{"country":"lux","name":"FA Red Boys Differdange","id":"FA_Red_Boys_Differdange","win":8,"draw":4,"loss":10,"for":33,"against":39},
+{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":7,"draw":5,"loss":10,"for":42,"against":44},
+{"country":"lux","name":"FC Red Star Merl-Belair","id":"FC_Red_Star_Merl-Belair","win":3,"draw":8,"loss":11,"for":38,"against":68},
+{"country":"lux","name":"Racing Rodange","id":"FC_Racing","win":3,"draw":5,"loss":14,"for":33,"against":53,"isRemoved":true},
+{"country":"lux","name":"Chiers Rodange","id":"FC_Chiers","win":3,"draw":3,"loss":16,"for":29,"against":63,"isReturning":true,"isRemoved":true}
 ]

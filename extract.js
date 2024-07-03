@@ -1,4 +1,4 @@
-country = "grc";
+country = "lux";
 current_season = false;
 teams = [];
 IS_AUTUMN_SPRING = false;
@@ -40,11 +40,15 @@ if ( tbl.length === 0 ) { tbl = $("h2 span#Final_standings"); if ( tbl.length !=
 if ( tbl.length === 0 ) { tbl = $("h3 span#Group_A, h3 span#Group_B, h2 span#Second_stage"); IS_CHAMP_RELEG = false; ISGROUPEDFIRST = true; if ( tbl.length !== 3 ) { tbl = []; ISGROUPEDFIRST = false; } }
 if ( tbl.length === 0 ) { tbl = $("h2 span#First_stage, h3 span#Championship_playoff, h3 span#Relegation_playoff"); IS_CHAMP_RELEG = true; if ( tbl.length !== 3 ) { tbl = []; } }
 if ( tbl.length === 0 ) { tbl = $("h3 span#League_table, h2 span#Play-off_round, h2 span#Play-out_round"); IS_CHAMP_RELEG = true; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 1 || tbl.length === 0 ) { tbl = $("h2 span#League_table, h2 span#Play-off_round, h2 span#Play-out_round"); IS_CHAMP_RELEG = true; if ( tbl.length !== 3 ) { tbl = []; } }
+//if ( tbl.length === 1 || tbl.length === 0 ) { tbl = $("h2 span#League_table, h2 span#Play-off_round, h2 span#Play-out_round"); IS_CHAMP_RELEG = true; if ( tbl.length !== 3 ) { tbl = []; } }
+if ( tbl.length === 0 ) { tbl = $("h2 span#First_phase, h3 span#Championship_stage, h4 span#Group_A, h4 span#Group_B"); IS_CHAMP_RELEG = true; if ( tbl.length !== 4 ) { tbl = []; } }
+if ( tbl.length === 0 ) { tbl = $("h2 span#First_phase, h3 span#Championship_stage, h4 span#Group_1, h4 span#Group_2"); IS_CHAMP_RELEG = true; if ( tbl.length !== 4 ) { tbl = []; } }
+
 
 if ( tbl.length === 0 ) { tbl = $("h3 span#League_table"); if ( tbl.length !== 1 ) { tbl = []; } }
 if ( tbl.length === 0 ) { tbl = $("h2 span#Regular_season"); if ( tbl.length !== 1 ) { tbl = []; } }
 if ( tbl.length === 0 ) { tbl = $("h2 span#League_table"); if ( tbl.length !== 1 ) { tbl = []; } }
+if ( tbl.length === 0 ) { tbl = $("h2 span#Regular_phase"); if ( tbl.length !== 1 ) { tbl = []; } }
 
 if ( tbl.length !== 0 ) {
 	tblTotal = tbl.length;
@@ -150,6 +154,39 @@ if ( tbl.length !== 0 ) {
 					}
 					if ( current_season ) {
 						thisClub.isCurrentSeason = true;
+					}
+					if ( country === "lux" ) {
+						if ( thisClub.id === "FC_Schifflange_95" && thisClub.name === "National Schifflange" ) {
+							thisClub.id = "National_Schifflange";
+						} else if ( thisClub.id === "Union_05_Kayl-T%C3%A9tange" && thisClub.name === "SC Tétange" ) {
+							thisClub.id = "SC_Tétange"
+						} else if ( thisClub.id === "F91_Dudelange" && thisClub.name === "US Dudelange" ) {
+							thisClub.id = "US_Dudelange";
+						} else if ( thisClub.id === "F91_Dudelange" && thisClub.name === "Alliance Dudelange" ) {
+							thisClub.id = "Alliance_Dudelange";
+						} else if ( thisClub.id === "FC_Differdange_03" && thisClub.name === "AS Differdange" ) {
+							thisClub.id = "AS_Differdange";
+						} else if ( thisClub.id === "FC_Rodange_91" && thisClub.name === "Chiers Rodange" ) {
+							thisClub.id = "FC_Chiers";
+						} else if ( thisClub.id === "FC_Rodange_91" && thisClub.name === "Racing Rodange" ) {
+							thisClub.id = "FC_Racing";
+						} else if ( thisClub.id === "FC_Alliance_%C3%84ischdall" && thisClub.name === "FC Olympique Eischen" ) {
+							thisClub.id = "FC_Olympique_Eischen";
+						} else if ( thisClub.id === "UN_K%C3%A4erjeng_97" && thisClub.name === "Jeunesse Hautcharage" ) {
+							thisClub.id = "Jeunesse_Hautcharage";
+						} else if ( thisClub.id === "F91_Dudelange" && thisClub.name === "F91 Dudelange" ) {
+							thisClub.id = "F91_Dudelange";
+						} else if ( thisClub.id === "FC_Rodange_91" && ["FC Rodange 91","Rodange 91"].includes(thisClub.name) ) {
+							thisClub.id = "FC_Rodange_91";
+						} else if ( thisClub.id === "FC_Schifflange_95" && thisClub.name === "Schifflange 95" ) {
+							thisClub.id = "FC_Schifflange_95";
+						} else if ( thisClub.id === "FC_Differdange_03" && ["Differdange 03","FC Differdange 03"].includes(thisClub.name) ) {
+							thisClub.id = "FC_Differdange_03";
+						} else if ( thisClub.id === "Union_05_Kayl-T%C3%A9tange" && thisClub.name === "Union 05 Kayl-Tétange" ) {
+							thisClub.id = "Union_05_Kayl-T%C3%A9tange"
+						} else if ( ["FC_Schifflange_95","Union_05_Kayl-T%C3%A9tange","F91_Dudelange","FC_Differdange_03","FC_Rodange_91","FC_Alliance_%C3%84ischdall"].includes(thisClub.id) ) {
+							console.warn("Club merge?",thisClub.id);
+						}
 					}
 					if ( $(cols[0]).text().trim() === "1" && !current_season) { thisClub.isChampion = true; }
 					if ( relegated.indexOf($(cols[0]).text().trim()) !== -1 ) { thisClub.isRemoved = true; }

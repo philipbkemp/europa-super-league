@@ -152,4 +152,19 @@
 {"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":7,"draw":2,"loss":25,"for":26,"against":72,"isRemoved":true,"deduct":-29,"deductReason":"10pts for failing to pay former players; 19pts for unknown reasons"},
 {"country":"grc","name":"Niki Volos","id":"Niki_Volos_F.C.","win":2,"draw":1,"loss":31,"for":7,"against":84,"isRemoved":true,"deduct":-13,"deductReasons":"Financial issues","isReturning":true},
 {"country":"grc","name":"Kerkyra","id":"PAE_Kerkyra","win":12,"draw":8,"loss":14,"for":39,"against":38,"isRemoved":true,"removedNote":"Demoted due to illegal transfer of shares and placed last in the league","isNew":true}
+][
+{"country":"lux","name":"Fola Esch","id":"CS_Fola_Esch","win":19,"draw":4,"loss":3,"for":63,"against":21,"isChampion":true},
+{"country":"lux","name":"FC Differdange 03","id":"FC_Differdange_03","win":18,"draw":5,"loss":3,"for":61,"against":31},
+{"country":"lux","name":"F91 Dudelange","id":"F91_Dudelange","win":16,"draw":6,"loss":4,"for":55,"against":20},
+{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":15,"draw":5,"loss":6,"for":51,"against":29},
+{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":12,"draw":8,"loss":6,"for":46,"against":34},
+{"country":"lux","name":"FC Victoria Rosport","id":"FC_Victoria_Rosport","win":8,"draw":7,"loss":11,"for":36,"against":46,"isReturning":true},
+{"country":"lux","name":"Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":9,"draw":3,"loss":14,"for":36,"against":50},
+{"country":"lux","name":"US Mondorf-les-Bains","id":"US_Mondorf-les-Bains","win":8,"draw":5,"loss":13,"for":30,"against":40,"isReturning":true},
+{"country":"lux","name":"CS Grevenmacher","id":"CS_Grevenmacher","win":8,"draw":5,"loss":13,"for":24,"against":48},
+{"country":"lux","name":"US Rumelange","id":"US_Rumelange","win":7,"draw":7,"loss":12,"for":29,"against":38},
+{"country":"lux","name":"Wiltz","id":"FC_Wiltz_71","win":7,"draw":6,"loss":13,"for":29,"against":38},
+{"country":"lux","name":"UN Käerjéng 97","id":"UN_Käerjéng_97","win":8,"draw":3,"loss":15,"for":33,"against":52,"isRemoved":true},
+{"country":"lux","name":"US Hostert","id":"US_Hostert","win":5,"draw":8,"loss":13,"for":35,"against":52,"isRemoved":true,"isReturning":true},
+{"country":"lux","name":"Jeunesse Canach","id":"FC_Jeunesse_Canach","win":3,"draw":6,"loss":17,"for":16,"against":45,"isRemoved":true}
 ]
