@@ -163,4 +163,17 @@
 {"country":"mlt","name":"Birkirkara F.C.","id":"Birkirkara_F.C.","win":4,"draw":1,"loss":9,"for":14,"against":31},
 {"country":"mlt","name":"Rabat","id":"Rabat_Ajax_F.C.","win":3,"draw":2,"loss":9,"for":16,"against":32},
 {"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":1,"draw":2,"loss":11,"for":11,"against":33,"isRemoved":true,"isReturning":true}
+][
+{"country":"rou","name":"Petrolul Ploiești","id":"FC_Petrolul_Ploiești","win":12,"draw":3,"loss":7,"for":36,"against":22,"isChampion":true,"isReturning":true},
+{"country":"rou","name":"CCA București","id":"FCSB","win":11,"draw":5,"loss":6,"for":41,"against":27,"isReturning":true},
+{"country":"rou","name":"Știința Timișoara","id":"FC_Politehnica_Timișoara","win":11,"draw":5,"loss":6,"for":49,"against":38,"isReturning":true},
+{"country":"rou","name":"Progresul București","id":"FC_Progresul_București","win":13,"draw":0,"loss":9,"for":55,"against":31,"isReturning":true},
+{"country":"rou","name":"Minerul Petroșani","id":"CSM_Jiul_Petroșani","win":11,"draw":4,"loss":7,"for":27,"against":19,"isReturning":true},
+{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":10,"draw":4,"loss":8,"for":33,"against":26,"isReturning":true},
+{"country":"rou","name":"Steagul Roşu Oraşul Stalin","id":"FC_Brașov_(1936)","win":9,"draw":5,"loss":8,"for":37,"against":33,"isNew":true},
+{"country":"rou","name":"Locomotiva București","id":"FC_Rapid_București","win":9,"draw":4,"loss":9,"for":25,"against":25,"isReturning":true},
+{"country":"rou","name":"Dinamo Cluj","id":"Unirea_Tricolor_București","win":9,"draw":2,"loss":11,"for":34,"against":41,"isReturning":true,"isRemoved":true},
+{"country":"rou","name":"UTA Arad","id":"FC_UTA_Arad","win":7,"draw":6,"loss":9,"for":30,"against":47,"isReturning":true},
+{"country":"rou","name":"Energia Recolta Târgu Mureş","id":"CS_Târgu_Mureș","win":7,"draw":3,"loss":12,"for":23,"against":42,"isRemoved":true,"isReturning":true},
+{"country":"rou","name":"Progresul Oradea","id":"Club_Atletic_Oradea","win":1,"draw":3,"loss":18,"for":16,"against":55,"isRemoved":true,"isReturning":true}
 ]

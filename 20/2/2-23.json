@@ -178,4 +178,21 @@
 {"country":"mlt","name":"Santa Lucia","id":"St._Lucia_F.C.","win":4,"draw":3,"loss":19,"for":20,"against":49},
 {"country":"mlt","name":"Żebbuġ Rangers","id":"Żebbuġ_Rangers_F.C.","win":4,"draw":2,"loss":20,"for":21,"against":58,"isRemoved":true,"isReturning":true},
 {"country":"mlt","name":"Pietà Hotspurs","id":"Pietà_Hotspurs_F.C.","win":3,"draw":3,"loss":20,"for":22,"against":65,"isRemoved":true,"isReturning":true}
+][
+{"country":"rou","name":"Farul Constanța","id":"FCV_Farul_Constanța","win":25,"draw":10,"loss":5,"for":76,"against":41,"isChampion":true},
+{"country":"rou","name":"CFR Cluj","id":"CFR_Cluj","win":22,"draw":7,"loss":11,"for":65,"against":42},
+{"country":"rou","name":"FCSB","id":"FCSB","win":22,"draw":8,"loss":10,"for":66,"against":50},
+{"country":"rou","name":"Universitatea Craiova","id":"CS_Universitatea_Craiova","win":19,"draw":10,"loss":11,"for":52,"against":41},
+{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":18,"draw":10,"loss":12,"for":57,"against":46},
+{"country":"rou","name":"Sepsi OSK","id":"Sepsi_OSK_Sfântu_Gheorghe","win":13,"draw":11,"loss":16,"for":57,"against":44},
+{"country":"rou","name":"FC U Craiova 1948","id":"FC_U_Craiova_1948","win":15,"draw":11,"loss":13,"for":47,"against":40},
+{"country":"rou","name":"Petrolul Ploiești","id":"FC_Petrolul_Ploiești","win":16,"draw":4,"loss":19,"for":37,"against":53,"isReturning":true},
+{"country":"rou","name":"Universitatea Cluj","id":"FC_Universitatea_Cluj","win":13,"draw":11,"loss":15,"for":37,"against":46,"isReturning":true},
+{"country":"rou","name":"Voluntari","id":"FC_Voluntari","win":12,"draw":15,"loss":12,"for":45,"against":43},
+{"country":"rou","name":"Botoșani","id":"FC_Botoșani","win":11,"draw":14,"loss":14,"for":39,"against":49},
+{"country":"rou","name":"Chindia Târgoviște","id":"AFC_Chindia_Târgoviște","win":9,"draw":12,"loss":18,"for":39,"against":54,"isRemoved":true},
+{"country":"rou","name":"Hermannstadt","id":"FC_Hermannstadt","win":15,"draw":11,"loss":13,"for":40,"against":36,"deduct":-9,"deductReason":"Financial debts owed","isReturning":true},
+{"country":"rou","name":"Argeș Pitești","id":"FC_Argeș_Pitești","win":9,"draw":10,"loss":20,"for":31,"against":52,"isRemoved":true},
+{"country":"rou","name":"UTA Arad","id":"FC_UTA_Arad","win":9,"draw":12,"loss":18,"for":39,"against":50},
+{"country":"rou","name":"Mioveni","id":"CS_Mioveni","win":4,"draw":10,"loss":25,"for":24,"against":64,"isRemoved":true}
 ]

@@ -9,8 +9,9 @@ const countries = {
 	"ita": "Italy",
 	"lux": "Luxembourg",
 	"mlt": "Malta",
-	"sco": "Scotland",
-	"nld": "Netherlands"
+	"nld": "Netherlands",
+	"rou": "Romania",
+	"sco": "Scotland"
 };
 
 if ( $("h1 .placeholder").length !== 0 ) {

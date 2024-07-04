@@ -148,4 +148,21 @@
 {"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":4,"draw":3,"loss":7,"for":29,"against":35},
 {"country":"mlt","name":"Naxxar Lions","id":"Naxxar_Lions_F.C.","win":2,"draw":4,"loss":8,"for":16,"against":29},
 {"country":"mlt","name":"Melita F.C.","id":"Melita_F.C.","win":0,"draw":1,"loss":13,"for":13,"against":49,"isRemoved":true}
+][
+{"country":"rou","name":"ITA Arad","id":"FC_UTA_Arad","win":22,"draw":6,"loss":2,"for":129,"against":31,"isChampion":true},
+{"country":"rou","name":"CFR Timișoara","id":"CSF_CFR_Timișoara","win":21,"draw":3,"loss":6,"for":84,"against":43},
+{"country":"rou","name":"CFR București","id":"FC_Rapid_București","win":20,"draw":2,"loss":8,"for":87,"against":42},
+{"country":"rou","name":"Universitatea Cluj","id":"FC_Universitatea_Cluj","win":14,"draw":6,"loss":10,"for":58,"against":50},
+{"country":"rou","name":"Distribuția București","id":"FC_Petrolul_Ploiești","win":13,"draw":7,"loss":10,"for":69,"against":50},
+{"country":"rou","name":"Libertatea Oradea","id":"Club_Atletic_Oradea","win":10,"draw":10,"loss":10,"for":52,"against":49},
+{"country":"rou","name":"CFR Cluj","id":"CFR_Cluj","win":9,"draw":10,"loss":11,"for":48,"against":52,"isNew":true},
+{"country":"rou","name":"Ciocanul București","id":"Maccabi_București","win":12,"draw":4,"loss":14,"for":43,"against":47,"isRemoved":true},
+{"country":"rou","name":"RATA Târgu Mureş","id":"CS_Târgu_Mureș","win":12,"draw":4,"loss":14,"for":55,"against":64},
+{"country":"rou","name":"Jiul Petroșani","id":"CSM_Jiul_Petroșani","win":10,"draw":7,"loss":13,"for":46,"against":65},
+{"country":"rou","name":"Dermata Cluj","id":"Dermata_Cluj","win":7,"draw":11,"loss":12,"for":41,"against":50,"isRemoved":true,"isNew":true},
+{"country":"rou","name":"CSM Mediaș","id":"CS_Gaz_Metan_Mediaș","win":10,"draw":5,"loss":15,"for":48,"against":77,"isNew":true},
+{"country":"rou","name":"FC Ploiești","id":"FC_Ploiești","win":10,"draw":4,"loss":16,"for":48,"against":86,"isRemoved":true,"isReturning":true},
+{"country":"rou","name":"ASA București","id":"FCSB","win":8,"draw":6,"loss":16,"for":44,"against":66,"isNew":true},
+{"country":"rou","name":"Unirea Tricolor București","id":"Unirea_Tricolor_București","win":8,"draw":5,"loss":17,"for":51,"against":86,"isRemoved":true,"isReturning":true},
+{"country":"rou","name":"UD Reșița","id":"CSM_Reșița","win":7,"draw":4,"loss":19,"for":45,"against":90,"isRemoved":true}
 ]

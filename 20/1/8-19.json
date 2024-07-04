@@ -178,4 +178,19 @@
 {"country":"mlt","name":"St. Andrews","id":"St._Andrews_F.C._(Malta)","win":7,"draw":3,"loss":16,"for":25,"against":45,"isRemoved":true},
 {"country":"mlt","name":"Qormi","id":"Qormi_F.C.","win":6,"draw":2,"loss":18,"for":25,"against":51,"isRemoved":true,"isReturning":true},
 {"country":"mlt","name":"Pietà Hotspurs","id":"Pietà_Hotspurs_F.C.","win":3,"draw":4,"loss":19,"for":25,"against":59,"isRemoved":true,"isReturning":true}
+][
+{"country":"rou","name":"CFR Cluj","id":"CFR_Cluj","win":22,"draw":11,"loss":3,"for":54,"against":20,"isChampion":true},
+{"country":"rou","name":"FCSB","id":"FCSB","win":21,"draw":9,"loss":6,"for":67,"against":35},
+{"country":"rou","name":"Universitatea Craiova","id":"CS_Universitatea_Craiova","win":17,"draw":7,"loss":12,"for":51,"against":34},
+{"country":"rou","name":"Astra Giurgiu","id":"FC_Astra_Giurgiu","win":13,"draw":9,"loss":14,"for":42,"against":43},
+{"country":"rou","name":"Viitorul Constanța","id":"FC_Viitorul_Constanța","win":17,"draw":7,"loss":12,"for":44,"against":37},
+{"country":"rou","name":"Sepsi OSK","id":"Sepsi_OSK_Sfântu_Gheorghe","win":10,"draw":8,"loss":18,"for":37,"against":45},
+{"country":"rou","name":"Botoșani","id":"FC_Botoșani","win":17,"draw":11,"loss":12,"for":49,"against":42},
+{"country":"rou","name":"Politehnica Iași","id":"FC_Politehnica_Iași_(2010)","win":13,"draw":9,"loss":18,"for":40,"against":56},
+{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":16,"draw":11,"loss":13,"for":45,"against":44},
+{"country":"rou","name":"Hermannstadt","id":"FC_Hermannstadt","win":11,"draw":10,"loss":19,"for":34,"against":47,"isNew":true},
+{"country":"rou","name":"Gaz Metan Mediaș","id":"CS_Gaz_Metan_Mediaș","win":17,"draw":12,"loss":11,"for":50,"against":41},
+{"country":"rou","name":"Dunărea Călărași","id":"FC_Dunărea_Călărași","win":7,"draw":16,"loss":17,"for":24,"against":43,"isRemoved":true,"isNew":true},
+{"country":"rou","name":"Voluntari","id":"FC_Voluntari","win":9,"draw":14,"loss":17,"for":44,"against":62},
+{"country":"rou","name":"Concordia Chiajna","id":"CS_Concordia_Chiajna","win":6,"draw":10,"loss":24,"for":36,"against":68,"isRemoved":true}
 ]

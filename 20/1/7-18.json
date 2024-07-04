@@ -178,4 +178,19 @@
 {"country":"mlt","name":"Tarxien Rainbows","id":"Tarxien_Rainbows_F.C.","win":6,"draw":5,"loss":15,"for":34,"against":56},
 {"country":"mlt","name":"Naxxar Lions","id":"Naxxar_Lions_F.C.","win":5,"draw":7,"loss":14,"for":27,"against":41,"isRemoved":true,"isReturning":true},
 {"country":"mlt","name":"Lija Athletic","id":"Lija_Athletic_F.C.","win":1,"draw":3,"loss":22,"for":23,"against":84,"isRemoved":true,"isReturning":true}
+][
+{"country":"rou","name":"CFR Cluj","id":"CFR_Cluj","win":23,"draw":10,"loss":3,"for":54,"against":19,"isChampion":true},
+{"country":"rou","name":"FCSB","id":"FCSB","win":22,"draw":10,"loss":4,"for":66,"against":24},
+{"country":"rou","name":"Universitatea Craiova","id":"CS_Universitatea_Craiova","win":17,"draw":12,"loss":7,"for":51,"against":36},
+{"country":"rou","name":"Astra Giurgiu","id":"FC_Astra_Giurgiu","win":15,"draw":10,"loss":11,"for":47,"against":38},
+{"country":"rou","name":"Viitorul Constanța","id":"FC_Viitorul_Constanța","win":16,"draw":9,"loss":11,"for":47,"against":32},
+{"country":"rou","name":"CSM Politehnica Iași","id":"FC_Politehnica_Iași_(2010)","win":12,"draw":7,"loss":17,"for":39,"against":50},
+{"country":"rou","name":"Botoșani","id":"FC_Botoșani","win":16,"draw":11,"loss":13,"for":40,"against":35},
+{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":22,"draw":7,"loss":11,"for":68,"against":41},
+{"country":"rou","name":"Concordia Chiajna","id":"CS_Concordia_Chiajna","win":12,"draw":8,"loss":20,"for":49,"against":54},
+{"country":"rou","name":"Voluntari","id":"FC_Voluntari","win":10,"draw":11,"loss":19,"for":41,"against":57},
+{"country":"rou","name":"ACS Poli Timișoara","id":"ACS_Poli_Timișoara","win":9,"draw":13,"loss":18,"for":32,"against":53,"isRemoved":true},
+{"country":"rou","name":"Sepsi OSK","id":"Sepsi_OSK_Sfântu_Gheorghe","win":11,"draw":10,"loss":19,"for":36,"against":58,"isNew":true},
+{"country":"rou","name":"Gaz Metan Mediaș","id":"CS_Gaz_Metan_Mediaș","win":8,"draw":14,"loss":18,"for":32,"against":54},
+{"country":"rou","name":"Juventus București","id":"ASC_Daco-Getica_București","win":4,"draw":10,"loss":26,"for":21,"against":72,"isRemoved":true,"isNew":true}
 ]

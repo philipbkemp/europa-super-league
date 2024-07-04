@@ -182,4 +182,19 @@
 {"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":3,"draw":4,"loss":7,"for":13,"against":25},
 {"country":"mlt","name":"Msida Saint-Joseph F.C.","id":"Msida_Saint-Joseph_F.C.","win":4,"draw":0,"loss":10,"for":11,"against":23,"isRemoved":true,"isReturning":true},
 {"country":"mlt","name":"Qormi F.C.","id":"Qormi_F.C.","win":2,"draw":2,"loss":10,"for":10,"against":31,"isRemoved":true,"isNew":true}
+][
+{"country":"rou","name":"Steaua București","id":"FCSB","win":14,"draw":7,"loss":5,"for":45,"against":26,"isChampion":true},
+{"country":"rou","name":"Argeș Pitești","id":"FC_Argeș_Pitești","win":14,"draw":5,"loss":7,"for":40,"against":23},
+{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":13,"draw":5,"loss":8,"for":34,"against":31},
+{"country":"rou","name":"UTA Arad","id":"FC_UTA_Arad","win":11,"draw":4,"loss":11,"for":25,"against":24},
+{"country":"rou","name":"Petrolul Ploiești","id":"FC_Petrolul_Ploiești","win":12,"draw":2,"loss":12,"for":27,"against":29},
+{"country":"rou","name":"Dinamo Bacău","id":"FCM_Bacău","win":12,"draw":2,"loss":12,"for":33,"against":38,"isReturning":true},
+{"country":"rou","name":"Farul Constanța","id":"FCV_Farul_Constanța","win":10,"draw":5,"loss":11,"for":37,"against":32},
+{"country":"rou","name":"Jiul Petroșani","id":"CSM_Jiul_Petroșani","win":11,"draw":3,"loss":12,"for":36,"against":36},
+{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":10,"draw":5,"loss":11,"for":32,"against":33},
+{"country":"rou","name":"Universitatea Cluj","id":"FC_Universitatea_Cluj","win":10,"draw":5,"loss":11,"for":36,"against":37},
+{"country":"rou","name":"Universitatea Craiova","id":"CS_Universitatea_Craiova","win":11,"draw":1,"loss":14,"for":28,"against":31},
+{"country":"rou","name":"ASA Târgu Mureș","id":"ASA_Târgu_Mureș_(1962)","win":7,"draw":8,"loss":11,"for":28,"against":41,"isNew":true},
+{"country":"rou","name":"Progresul București","id":"FC_Progresul_București","win":6,"draw":9,"loss":11,"for":23,"against":31},
+{"country":"rou","name":"Steagul Roşu Brașov","id":"FC_Brașov_(1936)","win":8,"draw":5,"loss":13,"for":20,"against":32,"isRemoved":true}
 ]

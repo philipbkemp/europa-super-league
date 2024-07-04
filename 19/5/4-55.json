@@ -142,4 +142,18 @@
 {"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":4,"draw":2,"loss":8,"for":18,"against":32},
 {"country":"mlt","name":"Rabat","id":"Rabat_Ajax_F.C.","win":2,"draw":5,"loss":7,"for":12,"against":28},
 {"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":1,"draw":3,"loss":10,"for":15,"against":40,"isRemoved":true,"isReturning":true}
+][
+{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":15,"draw":7,"loss":2,"for":42,"against":19,"isChampion":true},
+{"country":"rou","name":"Flacăra Ploiești","id":"FC_Petrolul_Ploiești","win":14,"draw":6,"loss":4,"for":46,"against":20},
+{"country":"rou","name":"Progresul București","id":"FC_Progresul_București","win":13,"draw":7,"loss":4,"for":39,"against":22,"isNew":true},
+{"country":"rou","name":"Știința Timișoara","id":"FC_Politehnica_Timișoara","win":10,"draw":7,"loss":7,"for":47,"against":30},
+{"country":"rou","name":"Flamura Roșie Arad","id":"FC_UTA_Arad","win":10,"draw":6,"loss":8,"for":35,"against":28},
+{"country":"rou","name":"CCA București","id":"FCSB","win":8,"draw":7,"loss":9,"for":38,"against":26},
+{"country":"rou","name":"Știința Cluj","id":"FC_Universitatea_Cluj","win":8,"draw":7,"loss":9,"for":27,"against":35},
+{"country":"rou","name":"Minerul Petroșani","id":"CSM_Jiul_Petroșani","win":8,"draw":6,"loss":10,"for":26,"against":33},
+{"country":"rou","name":"Dinamo Orașul Stalin","id":"Unirea_Tricolor_București","win":8,"draw":6,"loss":10,"for":30,"against":39},
+{"country":"rou","name":"Locomotiva Timișoara","id":"CSF_CFR_Timișoara","win":7,"draw":7,"loss":10,"for":29,"against":36},
+{"country":"rou","name":"Locomotiva Târgu Mureş","id":"CS_Târgu_Mureș","win":6,"draw":8,"loss":10,"for":26,"against":33,"isRemoved":true},
+{"country":"rou","name":"Locomotiva Constanța","id":"FCV_Farul_Constanța","win":5,"draw":5,"loss":14,"for":19,"against":45,"isRemoved":true,"isNew":true},
+{"country":"rou","name":"Avântul Reghin","id":"CSM_Avântul_Reghin","win":3,"draw":3,"loss":18,"for":19,"against":57,"isRemoved":true,"isNew":true}
 ]

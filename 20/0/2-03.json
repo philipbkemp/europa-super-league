@@ -172,4 +172,21 @@
 {"country":"mlt","name":"Ħamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":8,"draw":5,"loss":11,"for":32,"against":43},
 {"country":"mlt","name":"Marsa","id":"Marsa_F.C.","win":6,"draw":6,"loss":12,"for":33,"against":53,"isRemoved":true},
 {"country":"mlt","name":"Mosta","id":"Mosta_F.C.","win":2,"draw":5,"loss":17,"for":17,"against":60,"isRemoved":true,"isReturning":true}
+][
+{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":20,"draw":3,"loss":7,"for":59,"against":25,"isChampion":true},
+{"country":"rou","name":"Steaua București","id":"FCSB","win":16,"draw":8,"loss":6,"for":42,"against":27},
+{"country":"rou","name":"Gloria Bistrița","id":"ACF_Gloria_Bistrița","win":13,"draw":6,"loss":11,"for":32,"against":33},
+{"country":"rou","name":"Brașov","id":"FC_Brașov_(1936)","win":13,"draw":6,"loss":11,"for":37,"against":33},
+{"country":"rou","name":"Ceahlăul Piatra Neamț","id":"CSM_Ceahlăul_Piatra_Neamț","win":12,"draw":8,"loss":10,"for":43,"against":33},
+{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":13,"draw":5,"loss":12,"for":49,"against":46},
+{"country":"rou","name":"Universitatea Craiova","id":"FC_U_Craiova_1948","win":12,"draw":8,"loss":10,"for":36,"against":37},
+{"country":"rou","name":"Național București","id":"FC_Progresul_București","win":12,"draw":7,"loss":11,"for":41,"against":36},
+{"country":"rou","name":"Astra Ploiești","id":"FC_Astra_Giurgiu","win":13,"draw":3,"loss":14,"for":42,"against":42,"isRemoved":true},
+{"country":"rou","name":"Farul Constanța","id":"FCV_Farul_Constanța","win":12,"draw":4,"loss":14,"for":35,"against":47},
+{"country":"rou","name":"Argeș Pitești","id":"FC_Argeș_Pitești","win":11,"draw":5,"loss":14,"for":37,"against":41},
+{"country":"rou","name":"Bacău","id":"FCM_Bacău","win":10,"draw":8,"loss":12,"for":31,"against":31},
+{"country":"rou","name":"Oțelul Galați","id":"ASC_Oțelul_Galați","win":9,"draw":9,"loss":12,"for":25,"against":37},
+{"country":"rou","name":"Politehnica AEK Timișoara","id":"FC_Politehnica_Timișoara","win":11,"draw":2,"loss":17,"for":37,"against":52,"isReturning":true},
+{"country":"rou","name":"Sportul Studențesc București","id":"FC_Sportul_Studențesc_București","win":9,"draw":4,"loss":17,"for":44,"against":55,"isRemoved":true},
+{"country":"rou","name":"UTA Arad","id":"FC_UTA_Arad","win":8,"draw":6,"loss":16,"for":37,"against":52,"isRemoved":true,"isReturning":true}
 ]

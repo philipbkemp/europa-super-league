@@ -94,4 +94,8 @@
 {"country":"hun","name":"Nemzeti SC","id":"Nemzeti_SC","win":4,"draw":4,"loss":10,"for":26,"against":40},
 {"country":"hun","name":"33 FC","id":"33_FC","win":4,"draw":5,"loss":9,"for":18,"against":37,"deduct":-2,"isReturning":true},
 {"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":2,"draw":4,"loss":12,"for":23,"against":51,"isRemoved":true}
+][
+{"country":"rou","name":"Olympia București","id":"Olympia_București","win":2,"draw":1,"loss":0,"for":7,"against":3,"isChampion":true},
+{"country":"rou","name":"United Ploiești","id":"FC_Prahova_Ploiești","win":1,"draw":1,"loss":1,"for":6,"against":7},
+{"country":"rou","name":"Colentina București","id":"Colentina_A.C._București","win":0,"draw":0,"loss":2,"for":3,"against":6}
 ]

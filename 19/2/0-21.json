@@ -107,4 +107,11 @@
 {"country":"mlt","name":"Qormi United","id":"qormi_united","win":2,"draw":1,"loss":5,"for":5,"against":26,"isNew":true,"isRemoved":true},
 {"country":"mlt","name":"Msida Rangers","id":"Msida_Saint-Joseph_F.C.","win":1,"draw":0,"loss":7,"for":4,"against":18,"isReturning":true,"isRemoved":true},
 {"country":"mlt","name":"Dockyard Police","id":"dockyard_police","win":1,"draw":0,"loss":7,"for":6,"against":20,"isNew":true,"isRemoved":true}
+][
+{"country":"rou","name":"Tricolor București","id":"Unirea_Tricolor_București","win":7,"draw":0,"loss":2,"for":null,"against":null,"isChampion":true,"isRemoved":true,"removedNote":"Romanian league moved to a knockout format"},
+{"country":"rou","name":"Venus București","id":"FC_Venus_București","win":4,"draw":1,"loss":1,"for":null,"against":null,"isRemoved":true,"removedNote":"Romanian league moved to a knockout format"},
+{"country":"rou","name":"Prahova Ploiești","id":"FC_Prahova_Ploiești","win":3,"draw":0,"loss":2,"for":null,"against":null,"isRemoved":true,"removedNote":"Romanian league moved to a knockout format"},
+{"country":"rou","name":"Colțea București","id":"Colțea_București","win":2,"draw":1,"loss":7,"for":null,"against":null,"isRemoved":true,"removedNote":"Romanian league moved to a knockout format"},
+{"country":"rou","name":"Excelsior București","id":"Excelsior_București","win":1,"draw":0,"loss":7,"for":null,"against":null,"isNew":true,"isRemoved":true,"removedNote":"Romanian league moved to a knockout format"},
+{"country":"rou","name":"Educația Fizică București","id":"Educația_Fizică_București","win":1,"draw":0,"loss":7,"for":null,"against":null,"isNew":true,"isRemoved":true,"removedNote":"Romanian league moved to a knockout format"}
 ]

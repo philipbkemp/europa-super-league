@@ -135,4 +135,17 @@
 {"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":1,"draw":2,"loss":3,"for":2,"against":10,"isReturning":true,"isRemoved":true},
 {"country":"mlt","name":"Marsa F.C.","id":"Marsa_F.C.","win":1,"draw":1,"loss":4,"for":4,"against":20,"isReturning":true,"isRemoved":true},
 {"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":0,"draw":0,"loss":6,"for":3,"against":25,"isReturning":true,"isRemoved":true}
+][
+{"country":"rou","name":"Ripensia Timișoara","id":"FC_Ripensia_Timișoara","win":14,"draw":4,"loss":4,"for":66,"against":34,"isChampion":true,"isNew":true},
+{"country":"rou","name":"CA Oradea","id":"Club_Atletic_Oradea","win":14,"draw":1,"loss":7,"for":50,"against":28,"isNew":true},
+{"country":"rou","name":"Venus București","id":"FC_Venus_București","win":14,"draw":1,"loss":7,"for":57,"against":38,"isReturning":true},
+{"country":"rou","name":"Universitatea Cluj","id":"FC_Universitatea_Cluj","win":12,"draw":1,"loss":9,"for":36,"against":34,"isNew":true},
+{"country":"rou","name":"Chinezul Timișoara","id":"Chinezul_Timișoara","win":9,"draw":5,"loss":8,"for":58,"against":57,"isNew":true},
+{"country":"rou","name":"România Cluj","id":"FC_Victoria_Cluj","win":9,"draw":5,"loss":8,"for":41,"against":41,"isNew":true},
+{"country":"rou","name":"Crișana Oradea","id":"Crișana_Oradea","win":8,"draw":6,"loss":8,"for":46,"against":50,"isNew":true},
+{"country":"rou","name":"Gloria Arad","id":"AFC_Gloria_Arad","win":7,"draw":7,"loss":8,"for":45,"against":57,"isNew":true},
+{"country":"rou","name":"Unirea Tricolor București","id":"Unirea_Tricolor_București","win":6,"draw":7,"loss":9,"for":49,"against":54,"isReturning":true},
+{"country":"rou","name":"CFR București","id":"FC_Rapid_București","win":8,"draw":1,"loss":13,"for":39,"against":51,"isNew":true},
+{"country":"rou","name":"Juventus București","id":"FC_Petrolul_Ploiești","win":6,"draw":4,"loss":12,"for":32,"against":46,"isNew":true},
+{"country":"rou","name":"AMEF Arad","id":"Vagonul_Arad","win":2,"draw":4,"loss":16,"for":24,"against":53,"isNew":true}
 ]

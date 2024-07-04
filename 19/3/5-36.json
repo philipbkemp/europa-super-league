@@ -135,4 +135,17 @@
 {"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":3,"draw":0,"loss":1,"for":10,"against":3,"isChampion":true},
 {"country":"mlt","name":"Floriana F.C.","id":"Floriana_F.C.","win":2,"draw":1,"loss":1,"for":9,"against":4},
 {"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":0,"draw":1,"loss":3,"for":2,"against":14}
+][
+{"country":"rou","name":"Ripensia Timișoara","id":"FC_Ripensia_Timișoara","win":13,"draw":4,"loss":5,"for":59,"against":37,"isChampion":true},
+{"country":"rou","name":"AMEF Arad","id":"Vagonul_Arad","win":11,"draw":6,"loss":5,"for":40,"against":27},
+{"country":"rou","name":"Juventus București","id":"FC_Petrolul_Ploiești","win":9,"draw":6,"loss":7,"for":48,"against":32},
+{"country":"rou","name":"CA Oradea","id":"Club_Atletic_Oradea","win":9,"draw":6,"loss":7,"for":37,"against":32},
+{"country":"rou","name":"Venus București","id":"FC_Venus_București","win":9,"draw":6,"loss":7,"for":57,"against":50},
+{"country":"rou","name":"Gloria Arad","id":"AFC_Gloria_Arad","win":10,"draw":2,"loss":10,"for":45,"against":50},
+{"country":"rou","name":"CFR București","id":"FC_Rapid_București","win":10,"draw":0,"loss":12,"for":55,"against":50},
+{"country":"rou","name":"Crișana Oradea","id":"Crișana_Oradea","win":8,"draw":3,"loss":11,"for":44,"against":48},
+{"country":"rou","name":"Chinezul Timișoara","id":"Chinezul_Timișoara","win":8,"draw":3,"loss":11,"for":45,"against":58},
+{"country":"rou","name":"Victoria Cluj","id":"FC_Victoria_Cluj","win":8,"draw":3,"loss":11,"for":39,"against":57},
+{"country":"rou","name":"Unirea Tricolor București","id":"Unirea_Tricolor_București","win":7,"draw":5,"loss":10,"for":54,"against":58},
+{"country":"rou","name":"Universitatea Cluj","id":"FC_Universitatea_Cluj","win":7,"draw":2,"loss":13,"for":29,"against":53}
 ]

@@ -1,59 +1,14 @@
-country = "mlt";
+country = "rou";
 current_season = false;
 teams = [];
-IS_AUTUMN_SPRING = false;
-IS_CHAMP_RELEG = false;
+ADD_TABLE_STATS = false;
 ISGROUPEDFIRST = false;
-tbl = $("h2 span#League_table");
-if ( tbl.length === 0 ) { tbl = $("h2 span#Final_league_table"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#First_Division"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#League_standings"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Table"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Autumn_"+parseInt(window.location.href.split("%E2")[0].split("/").pop())+", h2 span#Spring_"+(parseInt(window.location.href.split("%E2")[0].split("/").pop())+1)); IS_AUTUMN_SPRING = true; if ( tbl.length !== 2 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = [ ...$("h2 span#Regular_season, h2 span#Championship_round"), ...$("h2 span#Relegation_round").parent().nextAll("h3").find("span#Group_A"), ...$("h2 span#Relegation_round").parent().nextAll("h3").find("span#Group_B") ]; IS_CHAMP_RELEG = true; if ( tbl.length !== 4 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Regular_season, h2 span#Championship_round, h2 span#Relegation_round"); IS_CHAMP_RELEG = true; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Regular_season, h2 span#Championship_round, h2 span#Qualification_round"); IS_CHAMP_RELEG = true; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Standings"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Scottish_League"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#League_summary"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Regular_competition"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Regular_season, h2 span#Championship_playoff, h3 span#Group_A, h3 span#Group_B"); IS_CHAMP_RELEG = false; if ( tbl.length !== 4 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Regular_season, h2 span#Championship_playoff, h3 span#Group_A, h3 span#Group_B, h2 span#Relegation_playoff"); IS_CHAMP_RELEG = false; if ( tbl.length !== 5 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Regular_season, h2 span#Championship_play-offs, h3 span#Group_A, h3 span#Group_B"); IS_CHAMP_RELEG = false; if ( tbl.length !== 4 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Regular_season, h3 span#Play-Off_I, h3 span#Play-Off_II"); IS_CHAMP_RELEG = false; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Regular_season, h3 span#Play-off_I, h3 span#Play-off_II"); IS_CHAMP_RELEG = false; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Final_classification"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Main_tournament"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Classification"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Nationalliga_standings"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#League_standings_Nationalliga_A"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#First_stage, h3 span#Championship_group, h3 span#Playout_group"); IS_CHAMP_RELEG = false; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#First_stage, h3 span#Championship_group, h3 span#Relegation_group"); IS_CHAMP_RELEG = false; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#First_stage, h3 span#Playoff, h3 span#Playout"); IS_CHAMP_RELEG = false; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#First_stage, h2 span#Playoff"); IS_CHAMP_RELEG = false; if ( tbl.length !== 2 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#First_stage, h3 span#Championship_group, h4 span#Group_A, h4 span#Group_B"); IS_CHAMP_RELEG = false; if ( tbl.length !== 4 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h3 span#Qualification_phase, h3 span#Championship_group, h3 span[id='Promotion/relegation_group_NLA/NLB']"); IS_CHAMP_RELEG = false; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h3 span#Qualification_phase, h3 span#Championship_round, h3 span[id='Promotion/relegation_group_NLA/NLB']"); IS_CHAMP_RELEG = false; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h3 span#Qualification_phase, h3 span#Champion_Playoffs, h3 span[id='Promotion/relegation_group_NLA/NLB']"); IS_CHAMP_RELEG = false; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h3 span#Regular_season, h3 span#Champion_playoffs, h2 span[id='Nationalliga_A/B_playoffs']"); IS_CHAMP_RELEG = false; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h3 span#Qualification_phase, h3 span#Championship_round, h3 span[id='Promotion/relegation_NLA/NLB']"); IS_CHAMP_RELEG = false; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Final_standings"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h3 span#Group_A, h3 span#Group_B, h2 span#Second_stage"); IS_CHAMP_RELEG = false; ISGROUPEDFIRST = true; if ( tbl.length !== 3 ) { tbl = []; ISGROUPEDFIRST = false; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#First_stage, h3 span#Championship_playoff, h3 span#Relegation_playoff"); IS_CHAMP_RELEG = true; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h3 span#League_table, h2 span#Play-off_round, h2 span#Play-out_round"); IS_CHAMP_RELEG = true; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 1 || tbl.length === 0 ) { tbl = $("h2 span#First_round, h3 span#Top_Six, h3 span#Play-out"); IS_CHAMP_RELEG = false; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 1 || tbl.length === 0 ) { tbl = $("h2 span#First_phase, h3 span#Top_Six, h3 span#Play-out"); IS_CHAMP_RELEG = true; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 1 || tbl.length === 0 ) { tbl = $("h2 span#First_phase, h3 span#Top_Six, h3 span#Play-Out"); IS_CHAMP_RELEG = true; if ( tbl.length !== 3 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#First_phase, h3 span#Championship_stage, h4 span#Group_A, h4 span#Group_B"); IS_CHAMP_RELEG = true; if ( tbl.length !== 4 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#First_phase, h3 span#Championship_stage, h4 span#Group_1, h4 span#Group_2"); IS_CHAMP_RELEG = true; if ( tbl.length !== 4 ) { tbl = []; } }
-
-
-if ( tbl.length === 0 ) { tbl = $("h3 span#League_table"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Regular_season"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#League_table"); if ( tbl.length !== 1 ) { tbl = []; } }
-if ( tbl.length === 0 ) { tbl = $("h2 span#Regular_phase"); if ( tbl.length !== 1 ) { tbl = []; } }
-
-if ( tbl.length === 1 || tbl.length === 0 ) { tbl2 = $("h2 span#Second_round"); if ( tbl2.length === 1 ) { tbl = tbl2; } }
+FOUND = false;
+tbl = $("h2 span#League_table, h2 span#Final_table");
+if ( tbl.length === 1 ) { FOUND = true; }
+if ( !FOUND ) { tbl2 = $("h2 span#Regular_season, h2 span#Championship_play-offs, h2 span#Relegation_play-outs"); if ( tbl2.length === 3 ) { tbl = tbl2; ADD_TABLE_STATS = true; FOUND = true; } }
+if ( !FOUND ) { tbl2 = $("h2 span#Regular_season, h2 span#Play-off_round, h2 span#Play-out_round"); if ( tbl2.length === 3 ) { tbl = tbl2; ADD_TABLE_STATS = true; FOUND = true; } }
+if ( !FOUND ) { tbl2 = $("h2 span#Standings"); if ( tbl2.length === 1 ) { tbl = tbl2; FOUND = true; } }
 
 if ( tbl.length !== 0 ) {
 	tblTotal = tbl.length;
@@ -85,12 +40,6 @@ if ( tbl.length !== 0 ) {
 				}
 			}
 		}
-		/*console.log(
-			IS_STANDARD === TYPE_STANDARD.length,
-			IS_HOMEAWAY === TYPE_HOMEAWAY.length,
-			IS_NODRAWS === TYPE_NODRAWS.length,
-			IS_PENDRAW === TYPE_PENALTYDRAW.length
-		);*/
 		if ( IS_STANDARD === TYPE_STANDARD.length ||
 			IS_HOMEAWAY === TYPE_HOMEAWAY.length ||
 			IS_NODRAWS === TYPE_NODRAWS.length ||
@@ -169,18 +118,18 @@ if ( tbl.length !== 0 ) {
 						for ( te=0 ; te!==teams.length ; te++ ) {
 							if ( teams[te].id === thisClub.id ) {
 								foundClub = true;
-								if ( IS_CHAMP_RELEG ) {
-									teams[te].win = thisClub.win;
-									teams[te].draw = thisClub.draw;
-									teams[te].loss = thisClub.loss;
-									teams[te].for = thisClub.for;
-									teams[te].against = thisClub.against;
-								} else {
+								if ( ADD_TABLE_STATS ) {
 									teams[te].win += thisClub.win;
 									teams[te].draw += thisClub.draw;
 									teams[te].loss += thisClub.loss;
 									teams[te].for += thisClub.for;
 									teams[te].against += thisClub.against;
+								} else {
+									teams[te].win = thisClub.win;
+									teams[te].draw = thisClub.draw;
+									teams[te].loss = thisClub.loss;
+									teams[te].for = thisClub.for;
+									teams[te].against = thisClub.against;
 								}
 							}
 						}

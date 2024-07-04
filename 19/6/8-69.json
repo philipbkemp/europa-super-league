@@ -182,4 +182,21 @@
 {"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":3,"draw":4,"loss":7,"for":10,"against":17},
 {"country":"mlt","name":"Birkirkara F.C.","id":"Birkirkara_F.C.","win":3,"draw":1,"loss":10,"for":13,"against":29,"isRemoved":true,"isReturning":true},
 {"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":2,"draw":1,"loss":11,"for":9,"against":36,"isRemoved":true}
+][
+{"country":"rou","name":"UTA Arad","id":"FC_UTA_Arad","win":17,"draw":4,"loss":9,"for":50,"against":27,"isChampion":true},
+{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":15,"draw":5,"loss":10,"for":55,"against":33},
+{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":14,"draw":6,"loss":10,"for":41,"against":33},
+{"country":"rou","name":"Steaua București","id":"FCSB","win":14,"draw":5,"loss":11,"for":50,"against":38},
+{"country":"rou","name":"Dinamo Bacău","id":"FCM_Bacău","win":13,"draw":7,"loss":10,"for":31,"against":28},
+{"country":"rou","name":"Jiul Petroșani","id":"CSM_Jiul_Petroșani","win":13,"draw":5,"loss":12,"for":35,"against":32},
+{"country":"rou","name":"Universitatea Craiova","id":"CS_Universitatea_Craiova","win":14,"draw":3,"loss":13,"for":45,"against":47},
+{"country":"rou","name":"Universitatea Cluj","id":"FC_Universitatea_Cluj","win":13,"draw":4,"loss":13,"for":47,"against":39},
+{"country":"rou","name":"Farul Constanța","id":"FCV_Farul_Constanța","win":13,"draw":3,"loss":14,"for":35,"against":43},
+{"country":"rou","name":"Crişul Oradea","id":"FC_Bihor_Oradea_(1958)","win":10,"draw":8,"loss":12,"for":36,"against":33,"isReturning":true},
+{"country":"rou","name":"Politehnica Iași","id":"FC_Politehnica_Iași_(1945)","win":12,"draw":4,"loss":14,"for":31,"against":42,"isReturning":true},
+{"country":"rou","name":"Argeș Pitești","id":"FC_Argeș_Pitești","win":13,"draw":1,"loss":16,"for":38,"against":44},
+{"country":"rou","name":"Petrolul Ploiești","id":"FC_Petrolul_Ploiești","win":12,"draw":3,"loss":15,"for":30,"against":41},
+{"country":"rou","name":"ASA Târgu Mureș","id":"ASA_Târgu_Mureș_(1962)","win":12,"draw":3,"loss":15,"for":32,"against":47},
+{"country":"rou","name":"Progresul București","id":"FC_Progresul_București","win":9,"draw":8,"loss":13,"for":30,"against":39,"isRemoved":true},
+{"country":"rou","name":"Vagonul Arad","id":"Vagonul_Arad","win":10,"draw":3,"loss":17,"for":40,"against":60,"isRemoved":true,"isReturning":true}
 ]

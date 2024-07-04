@@ -180,4 +180,19 @@
 {"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":2,"draw":4,"loss":8,"for":16,"against":25},
 {"country":"mlt","name":"St. Patrick F.C.","id":"Żabbar_St._Patrick_F.C.","win":4,"draw":0,"loss":10,"for":12,"against":37,"isReturning":true},
 {"country":"mlt","name":"Marsa F.C.","id":"Marsa_F.C.","win":1,"draw":2,"loss":11,"for":9,"against":36,"isRemoved":true}
+][
+{"country":"rou","name":"CCA București","id":"FCSB","win":17,"draw":3,"loss":6,"for":61,"against":36,"isChampion":true},
+{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":14,"draw":4,"loss":8,"for":56,"against":31},
+{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":11,"draw":8,"loss":7,"for":37,"against":31},
+{"country":"rou","name":"Știința Cluj","id":"FC_Universitatea_Cluj","win":12,"draw":5,"loss":9,"for":48,"against":44},
+{"country":"rou","name":"Steagul Roşu Brașov","id":"FC_Brașov_(1936)","win":12,"draw":4,"loss":10,"for":50,"against":40},
+{"country":"rou","name":"Petrolul Ploiești","id":"FC_Petrolul_Ploiești","win":10,"draw":8,"loss":8,"for":45,"against":45},
+{"country":"rou","name":"UTA Arad","id":"FC_UTA_Arad","win":12,"draw":3,"loss":11,"for":46,"against":42},
+{"country":"rou","name":"Dinamo Bacău","id":"FCM_Bacău","win":11,"draw":3,"loss":12,"for":39,"against":36},
+{"country":"rou","name":"Progresul București","id":"FC_Progresul_București","win":10,"draw":5,"loss":11,"for":48,"against":51},
+{"country":"rou","name":"Știința Timișoara","id":"FC_Politehnica_Timișoara","win":9,"draw":7,"loss":10,"for":45,"against":49,"isReturning":true},
+{"country":"rou","name":"Minerul Lupeni","id":"CS_Viitorul_Minerul_Lupeni","win":10,"draw":2,"loss":14,"for":30,"against":50},
+{"country":"rou","name":"CSMS Iași","id":"FC_Politehnica_Iași_(1945)","win":7,"draw":6,"loss":13,"for":43,"against":49,"isRemoved":true,"isNew":true},
+{"country":"rou","name":"Farul Constanța","id":"FCV_Farul_Constanța","win":8,"draw":4,"loss":14,"for":37,"against":58,"isRemoved":true},
+{"country":"rou","name":"Corvinul Hunedoara","id":"CS_Corvinul_Hunedoara","win":5,"draw":6,"loss":15,"for":28,"against":51,"isRemoved":true,"isReturning":true}
 ]

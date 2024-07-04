@@ -178,4 +178,23 @@
 {"country":"mlt","name":"Hamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":9,"draw":7,"loss":16,"for":47,"against":71},
 {"country":"mlt","name":"Tarxien Rainbows","id":"Tarxien_Rainbows_F.C.","win":11,"draw":3,"loss":18,"for":45,"against":54},
 {"country":"mlt","name":"Marsaxlokk","id":"Marsaxlokk_F.C.","win":5,"draw":2,"loss":25,"for":34,"against":88,"isRemoved":true,"deduct":-9}
+][
+{"country":"rou","name":"CFR Cluj","id":"CFR_Cluj","win":21,"draw":8,"loss":5,"for":63,"against":31,"isChampion":true},
+{"country":"rou","name":"Vaslui","id":"CS_Sporting_Vaslui","win":22,"draw":4,"loss":8,"for":58,"against":29},
+{"country":"rou","name":"Steaua București","id":"FCSB","win":19,"draw":9,"loss":6,"for":47,"against":26},
+{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":18,"draw":10,"loss":6,"for":54,"against":29},
+{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":18,"draw":8,"loss":8,"for":57,"against":32},
+{"country":"rou","name":"Oțelul Galați","id":"ASC_Oțelul_Galați","win":15,"draw":7,"loss":12,"for":34,"against":29},
+{"country":"rou","name":"Pandurii Târgu Jiu","id":"CS_Pandurii_Târgu_Jiu","win":12,"draw":11,"loss":11,"for":47,"against":40},
+{"country":"rou","name":"Universitatea Cluj","id":"FC_Universitatea_Cluj","win":11,"draw":14,"loss":9,"for":46,"against":37},
+{"country":"rou","name":"Concordia Chiajna","id":"CS_Concordia_Chiajna","win":13,"draw":6,"loss":15,"for":42,"against":52,"isNew":true},
+{"country":"rou","name":"Brașov","id":"FC_Brașov_(1936)","win":13,"draw":6,"loss":15,"for":39,"against":34},
+{"country":"rou","name":"Ceahlăul Piatra Neamț","id":"CSM_Ceahlăul_Piatra_Neamț","win":11,"draw":9,"loss":14,"for":36,"against":46,"isReturning":true},
+{"country":"rou","name":"Astra Ploiești","id":"FC_Astra_Giurgiu","win":11,"draw":8,"loss":15,"for":36,"against":43},
+{"country":"rou","name":"Gaz Metan Mediaș","id":"CS_Gaz_Metan_Mediaș","win":11,"draw":8,"loss":15,"for":39,"against":54},
+{"country":"rou","name":"Petrolul Ploiești","id":"FC_Petrolul_Ploiești","win":10,"draw":9,"loss":15,"for":42,"against":45,"isReturning":true},
+{"country":"rou","name":"Târgu Mureș","id":"ASA_2013_Târgu_Mureș","win":8,"draw":11,"loss":15,"for":34,"against":47,"isRemoved":true},
+{"country":"rou","name":"Voința Sibiu","id":"CSU_Voința_Sibiu","win":8,"draw":8,"loss":18,"for":24,"against":45,"isRemoved":true,"isNew":true},
+{"country":"rou","name":"Sportul Studențesc București","id":"FC_Sportul_Studențesc_București","win":6,"draw":12,"loss":16,"for":33,"against":55,"isRemoved":true},
+{"country":"rou","name":"Mioveni","id":"CS_Mioveni","win":2,"draw":6,"loss":26,"for":20,"against":77,"isRemoved":true,"isReturning":true}
 ]

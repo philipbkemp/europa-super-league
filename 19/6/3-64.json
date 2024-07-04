@@ -178,4 +178,19 @@
 {"country":"mlt","name":"Rabat","id":"Rabat_Ajax_F.C.","win":4,"draw":2,"loss":8,"for":24,"against":37},
 {"country":"mlt","name":"Melita F.C.","id":"Melita_F.C.","win":3,"draw":2,"loss":9,"for":9,"against":26,"isRemoved":true,"isReturning":true},
 {"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":0,"draw":1,"loss":13,"for":8,"against":46,"isRemoved":true}
+][
+{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":18,"draw":4,"loss":4,"for":65,"against":25,"isChampion":true},
+{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":15,"draw":3,"loss":8,"for":50,"against":36},
+{"country":"rou","name":"FC Steaua București","id":"FCSB","win":15,"draw":1,"loss":10,"for":71,"against":44},
+{"country":"rou","name":"Progresul București","id":"FC_Progresul_București","win":11,"draw":5,"loss":10,"for":40,"against":45},
+{"country":"rou","name":"Petrolul Ploiești","id":"FC_Petrolul_Ploiești","win":11,"draw":4,"loss":11,"for":28,"against":19},
+{"country":"rou","name":"Steagul Roşu Brașov","id":"FC_Brașov_(1936)","win":9,"draw":8,"loss":9,"for":32,"against":32},
+{"country":"rou","name":"Crişul Oradea","id":"FC_Bihor_Oradea_(1958)","win":10,"draw":6,"loss":10,"for":27,"against":38,"isNew":true},
+{"country":"rou","name":"Farul Constanța","id":"FCV_Farul_Constanța","win":11,"draw":3,"loss":12,"for":28,"against":34},
+{"country":"rou","name":"Știința Cluj","id":"FC_Universitatea_Cluj","win":11,"draw":2,"loss":13,"for":39,"against":38},
+{"country":"rou","name":"Dinamo Pitești","id":"FC_Argeș_Pitești","win":10,"draw":3,"loss":13,"for":28,"against":39,"isReturning":true},
+{"country":"rou","name":"UTA Arad","id":"FC_UTA_Arad","win":9,"draw":5,"loss":12,"for":32,"against":46},
+{"country":"rou","name":"CSMS Iași","id":"FC_Politehnica_Iași_(1945)","win":10,"draw":2,"loss":14,"for":42,"against":47},
+{"country":"rou","name":"Știința Timișoara","id":"FC_Politehnica_Timișoara","win":8,"draw":6,"loss":12,"for":31,"against":42,"isRemoved":true},
+{"country":"rou","name":"Siderurgistul Galați","id":"Siderurgistul_Galați","win":6,"draw":4,"loss":16,"for":21,"against":49,"isRemoved":true,"isNew":true}
 ]

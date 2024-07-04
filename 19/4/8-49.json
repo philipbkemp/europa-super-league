@@ -146,4 +146,19 @@
 {"country":"mlt","name":"St. Andrews F.C.","id":"St._Andrews_F.C._(Malta)","win":3,"draw":1,"loss":10,"for":13,"against":33,"isNew":true},
 {"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":1,"draw":4,"loss":9,"for":19,"against":42},
 {"country":"mlt","name":"Naxxar Lions","id":"Naxxar_Lions_F.C.","win":2,"draw":2,"loss":10,"for":13,"against":33,"isRemoved":true}
+][
+{"country":"rou","name":"ICO Oradea","id":"Club_Atletic_Oradea","win":16,"draw":5,"loss":5,"for":60,"against":36,"isChampion":true},
+{"country":"rou","name":"CFR București","id":"FC_Rapid_București","win":14,"draw":4,"loss":8,"for":61,"against":33},
+{"country":"rou","name":"Jiul Petroșani","id":"CSM_Jiul_Petroșani","win":11,"draw":8,"loss":7,"for":44,"against":40},
+{"country":"rou","name":"RATA Târgu Mureș","id":"CS_Târgu_Mureș","win":13,"draw":4,"loss":9,"for":51,"against":37},
+{"country":"rou","name":"CFR Timișoara","id":"CSF_CFR_Timișoara","win":12,"draw":6,"loss":8,"for":47,"against":30},
+{"country":"rou","name":"CSCA București","id":"FCSB","win":10,"draw":9,"loss":7,"for":58,"against":53},
+{"country":"rou","name":"Petrolul București","id":"FC_Petrolul_Ploiești","win":11,"draw":7,"loss":8,"for":47,"against":37},
+{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":11,"draw":6,"loss":9,"for":55,"against":50,"isNew":true},
+{"country":"rou","name":"ITA Arad","id":"FC_UTA_Arad","win":9,"draw":9,"loss":8,"for":45,"against":34},
+{"country":"rou","name":"CSU Timișoara","id":"FC_Politehnica_Timișoara","win":11,"draw":3,"loss":12,"for":47,"against":45,"isNew":true},
+{"country":"rou","name":"CFR Cluj","id":"CFR_Cluj","win":9,"draw":5,"loss":12,"for":39,"against":67,"isRemoved":true},
+{"country":"rou","name":"CSU Cluj","id":"FC_Universitatea_Cluj","win":7,"draw":5,"loss":14,"for":31,"against":50,"isRemoved":true},
+{"country":"rou","name":"Metalochimic București","id":"Faur_București","win":5,"draw":4,"loss":17,"for":50,"against":80,"isRemoved":true,"isNew":true},
+{"country":"rou","name":"Gaz Metan Mediaș","id":"CS_Gaz_Metan_Mediaș","win":3,"draw":5,"loss":18,"for":27,"against":70,"isRemoved":true}
 ]

@@ -174,4 +174,19 @@
 {"country":"mlt","name":"St. Andrews","id":"St._Andrews_F.C._(Malta)","win":4,"draw":3,"loss":26,"for":32,"against":90,"isReturning":true},
 {"country":"mlt","name":"Naxxar Lions","id":"Naxxar_Lions_F.C.","win":5,"draw":4,"loss":24,"for":29,"against":95,"isRemoved":true},
 {"country":"mlt","name":"Qormi","id":"Qormi_F.C.","win":3,"draw":4,"loss":26,"for":26,"against":80,"isRemoved":true}
+][
+{"country":"rou","name":"Astra Giurgiu","id":"FC_Astra_Giurgiu","win":21,"draw":10,"loss":5,"for":62,"against":38,"isChampion":true},
+{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":15,"draw":15,"loss":6,"for":48,"against":39},
+{"country":"rou","name":"Pandurii Târgu Jiu","id":"CS_Pandurii_Târgu_Jiu","win":16,"draw":14,"loss":6,"for":47,"against":33},
+{"country":"rou","name":"Viitorul Constanța","id":"FC_Viitorul_Constanța","win":14,"draw":10,"loss":12,"for":63,"against":51},
+{"country":"rou","name":"Steaua București","id":"FCSB","win":18,"draw":11,"loss":7,"for":53,"against":33},
+{"country":"rou","name":"Târgu Mureș","id":"ASA_2013_Târgu_Mureș","win":9,"draw":14,"loss":13,"for":35,"against":45},
+{"country":"rou","name":"CSMS Iași","id":"FC_Politehnica_Iași_(2010)","win":14,"draw":15,"loss":11,"for":39,"against":40},
+{"country":"rou","name":"Universitatea Craiova","id":"CS_Universitatea_Craiova","win":15,"draw":9,"loss":16,"for":45,"against":44},
+{"country":"rou","name":"CFR Cluj","id":"CFR_Cluj","win":15,"draw":14,"loss":11,"for":56,"against":38,"deduct":-10,"deductReason":"Failing to comply with licensing requirements"},
+{"country":"rou","name":"Botoșani","id":"FC_Botoșani","win":13,"draw":12,"loss":15,"for":59,"against":54},
+{"country":"rou","name":"ACS Poli Timișoara","id":"ACS_Poli_Timișoara","win":6,"draw":14,"loss":20,"for":38,"against":71,"isReturning":true},
+{"country":"rou","name":"Voluntari","id":"FC_Voluntari","win":10,"draw":11,"loss":19,"for":47,"against":62,"isNew":true},
+{"country":"rou","name":"Concordia Chiajna","id":"CS_Concordia_Chiajna","win":10,"draw":13,"loss":17,"for":41,"against":59},
+{"country":"rou","name":"Petrolul Ploiești","id":"FC_Petrolul_Ploiești","win":6,"draw":10,"loss":24,"for":26,"against":52,"deduct":-6,"deductReason":"Failing to comply with licensing requirements","isRemoved":true}
 ]

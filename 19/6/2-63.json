@@ -179,4 +179,20 @@
 {"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":3,"draw":3,"loss":8,"for":17,"against":28},
 {"country":"mlt","name":"Rabat","id":"Rabat_Ajax_F.C.","win":3,"draw":0,"loss":11,"for":14,"against":37,"isReturning":true},
 {"country":"mlt","name":"Birkirkara F.C.","id":"Birkirkara_F.C.","win":0,"draw":1,"loss":13,"for":8,"against":58,"isRemoved":true}
+][
+{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":14,"draw":9,"loss":4,"for":46,"against":25,"isChampion":true},
+{"country":"rou","name":"Steaua București","id":"FCSB","win":13,"draw":8,"loss":6,"for":58,"against":42},
+{"country":"rou","name":"Știința Timișoara","id":"FC_Politehnica_Timișoara","win":11,"draw":7,"loss":9,"for":41,"against":39},
+{"country":"rou","name":"Știința Cluj","id":"FC_Universitatea_Cluj","win":11,"draw":7,"loss":9,"for":42,"against":44},
+{"country":"rou","name":"Farul Constanța","id":"FCV_Farul_Constanța","win":12,"draw":4,"loss":11,"for":48,"against":38,"isReturning":true},
+{"country":"rou","name":"Steagul Roşu Brașov","id":"FC_Brașov_(1936)","win":12,"draw":4,"loss":11,"for":48,"against":44},
+{"country":"rou","name":"Petrolul Ploiești","id":"FC_Petrolul_Ploiești","win":10,"draw":7,"loss":10,"for":46,"against":30},
+{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":10,"draw":7,"loss":10,"for":52,"against":46},
+{"country":"rou","name":"Progresul București","id":"FC_Progresul_București","win":10,"draw":7,"loss":10,"for":45,"against":49},
+{"country":"rou","name":"CSMS Iași","id":"FC_Politehnica_Iași_(1945)","win":8,"draw":10,"loss":9,"for":44,"against":53,"isReturning":true},
+{"country":"rou","name":"UTA Arad","id":"FC_UTA_Arad","win":10,"draw":5,"loss":12,"for":47,"against":49},
+{"country":"rou","name":"Dinamo Bacău","id":"FCM_Bacău","win":9,"draw":5,"loss":13,"for":32,"against":42,"isRemoved":true},
+{"country":"rou","name":"Crișana Oradea","id":"Club_Atletic_Oradea","win":9,"draw":5,"loss":13,"for":34,"against":47,"isRemoved":true,"isReturning":true},
+{"country":"rou","name":"Viitorul București","id":"Viitorul_București","win":6,"draw":3,"loss":5,"for":33,"against":26,"isRemoved":true,"removedNote":"Dissolved mid-season","isNew":true},
+{"country":"rou","name":"Minerul Lupeni","id":"CS_Viitorul_Minerul_Lupeni","win":4,"draw":6,"loss":17,"for":24,"against":66,"isRemoved":true}
 ]
