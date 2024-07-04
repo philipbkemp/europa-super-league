@@ -180,4 +180,15 @@
 {"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":8,"draw":2,"loss":12,"for":40,"against":55},
 {"country":"lux","name":"FC Red Star Merl-Belair","id":"FC_Red_Star_Merl-Belair","win":4,"draw":6,"loss":12,"for":20,"against":42,"isRemoved":true},
 {"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":4,"draw":6,"loss":12,"for":23,"against":45,"isRemoved":true}
+][
+{"country":"mlt","name":"Floriana F.C.","id":"Floriana_F.C.","win":14,"draw":3,"loss":1,"for":36,"against":9,"isChampion":true},
+{"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":11,"draw":2,"loss":5,"for":30,"against":20},
+{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":8,"draw":7,"loss":3,"for":21,"against":12,"isReturning":true},
+{"country":"mlt","name":"Birkirkara F.C.","id":"Birkirkara_F.C.","win":8,"draw":4,"loss":6,"for":17,"against":21},
+{"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":8,"draw":3,"loss":7,"for":21,"against":15},
+{"country":"mlt","name":"Zebbug Rangers","id":"Żebbuġ_Rangers_F.C.","win":4,"draw":8,"loss":6,"for":16,"against":16},
+{"country":"mlt","name":"Marsa F.C.","id":"Marsa_F.C.","win":6,"draw":3,"loss":9,"for":16,"against":17},
+{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":5,"draw":5,"loss":8,"for":16,"against":19},
+{"country":"mlt","name":"Gzira United","id":"Gżira_United_F.C.","win":5,"draw":4,"loss":9,"for":14,"against":28,"isRemoved":true},
+{"country":"mlt","name":"Mosta F.C.","id":"Mosta_F.C.","win":1,"draw":1,"loss":16,"for":10,"against":40,"isRemoved":true,"isNew":true}
 ]

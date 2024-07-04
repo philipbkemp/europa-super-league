@@ -131,4 +131,8 @@
 {"country":"lux","name":"FC Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":7,"draw":1,"loss":10,"for":33,"against":60},
 {"country":"lux","name":"AS Differdange","id":"AS_Differdange","win":5,"draw":1,"loss":12,"for":42,"against":51,"isReturning":true,"isRemoved":true},
 {"country":"lux","name":"National Schifflange","id":"National_Schifflange","win":4,"draw":1,"loss":13,"for":27,"against":52,"isReturning":true,"isRemoved":true}
+][
+{"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":3,"draw":0,"loss":1,"for":10,"against":3,"isChampion":true},
+{"country":"mlt","name":"Floriana F.C.","id":"Floriana_F.C.","win":2,"draw":1,"loss":1,"for":9,"against":4},
+{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":0,"draw":1,"loss":3,"for":2,"against":14}
 ]

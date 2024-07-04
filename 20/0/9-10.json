@@ -165,4 +165,15 @@
 {"country":"lux","name":"UN Käerjeng 97","id":"UN_Käerjéng_97","win":7,"draw":7,"loss":12,"for":28,"against":36},
 {"country":"lux","name":"Rumelange","id":"US_Rumelange","win":7,"draw":1,"loss":18,"for":27,"against":63,"isRemoved":true},
 {"country":"lux","name":"Mondercange","id":"FC_Mondercange","win":2,"draw":7,"loss":17,"for":18,"against":58,"isRemoved":true,"isReturning":true}
+][
+{"country":"mlt","name":"Valletta","id":"Valletta_F.C.","win":20,"draw":4,"loss":4,"for":71,"against":25},
+{"country":"mlt","name":"Birkirkara","id":"Birkirkara_F.C.","win":20,"draw":4,"loss":4,"for":64,"against":32,"isChampion":true},
+{"country":"mlt","name":"Qormi","id":"Qormi_F.C.","win":15,"draw":2,"loss":11,"for":53,"against":36},
+{"country":"mlt","name":"Sliema Wanderers","id":"Sliema_Wanderers_F.C.","win":14,"draw":2,"loss":12,"for":41,"against":37},
+{"country":"mlt","name":"Hibernians","id":"Hibernians_F.C.","win":8,"draw":6,"loss":14,"for":40,"against":51},
+{"country":"mlt","name":"Tarxien Rainbows","id":"Tarxien_Rainbows_F.C.","win":10,"draw":6,"loss":12,"for":41,"against":50},
+{"country":"mlt","name":"Floriana","id":"Floriana_F.C.","win":10,"draw":6,"loss":8,"for":35,"against":41},
+{"country":"mlt","name":"Ħamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":10,"draw":4,"loss":10,"for":41,"against":39},
+{"country":"mlt","name":"Msida Saint-Joseph","id":"Msida_Saint-Joseph_F.C.","win":4,"draw":4,"loss":16,"for":24,"against":51,"isRemoved":true,"deduct":-10,"deductReason":"Failing to pay former players"},
+{"country":"mlt","name":"Dingli Swallows","id":"Dingli_Swallows_F.C.","win":2,"draw":0,"loss":22,"for":23,"against":71,"isRemoved":true,"isNew":true}
 ]

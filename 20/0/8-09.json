@@ -167,4 +167,15 @@
 {"country":"lux","name":"Rumelange","id":"US_Rumelange","win":7,"draw":6,"loss":13,"for":34,"against":48,"isReturning":true},
 {"country":"lux","name":"SC Steinfort","id":"SC_Steinfort","win":5,"draw":6,"loss":15,"for":21,"against":54,"isRemoved":true,"isNew":true},
 {"country":"lux","name":"Avenir Beggen","id":"FC_Avenir_Beggen","win":3,"draw":4,"loss":19,"for":16,"against":75,"isRemoved":true}
+][
+{"country":"mlt","name":"Hibernians","id":"Hibernians_F.C.","win":19,"draw":5,"loss":4,"for":73,"against":25,"isChampion":true},
+{"country":"mlt","name":"Valletta","id":"Valletta_F.C.","win":17,"draw":9,"loss":2,"for":50,"against":18},
+{"country":"mlt","name":"Birkirkara","id":"Birkirkara_F.C.","win":12,"draw":7,"loss":9,"for":43,"against":45},
+{"country":"mlt","name":"Sliema Wanderers","id":"Sliema_Wanderers_F.C.","win":10,"draw":8,"loss":10,"for":33,"against":41},
+{"country":"mlt","name":"Floriana","id":"Floriana_F.C.","win":7,"draw":6,"loss":15,"for":25,"against":44},
+{"country":"mlt","name":"Marsaxlokk","id":"Marsaxlokk_F.C.","win":10,"draw":6,"loss":12,"for":46,"against":52,"isRemoved":true,"removedNote":"Relegated due to involvement in bribery scandal"},
+{"country":"mlt","name":"Msida Saint-Joseph","id":"Msida_Saint-Joseph_F.C.","win":7,"draw":5,"loss":12,"for":25,"against":40},
+{"country":"mlt","name":"Hamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":7,"draw":3,"loss":14,"for":31,"against":48},
+{"country":"mlt","name":"Qormi","id":"Qormi_F.C.","win":7,"draw":6,"loss":11,"for":30,"against":31,"isReturning":true},
+{"country":"mlt","name":"Tarxien Rainbows","id":"Tarxien_Rainbows_F.C.","win":6,"draw":5,"loss":13,"for":32,"against":44,"isReturning":true}
 ]

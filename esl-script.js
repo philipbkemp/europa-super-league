@@ -8,6 +8,7 @@ const countries = {
 	"hun": "Hungary",
 	"ita": "Italy",
 	"lux": "Luxembourg",
+	"mlt": "Malta",
 	"sco": "Scotland",
 	"nld": "Netherlands"
 };

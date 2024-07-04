@@ -133,4 +133,13 @@
 {"country":"lux","name":"FC Red Star Merl-Belair","id":"FC_Red_Star_Merl-Belair","win":7,"draw":5,"loss":10,"for":46,"against":53},
 {"country":"lux","name":"US Dudelange","id":"US_Dudelange","win":4,"draw":10,"loss":8,"for":31,"against":45,"isReturning":true,"isRemoved":true},
 {"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":5,"draw":6,"loss":11,"for":37,"against":66,"isRemoved":true}
+][
+{"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":9,"draw":2,"loss":3,"for":31,"against":16,"isChampion":true},
+{"country":"mlt","name":"Floriana F.C.","id":"Floriana_F.C.","win":8,"draw":3,"loss":3,"for":26,"against":17},
+{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":6,"draw":4,"loss":4,"for":25,"against":17},
+{"country":"mlt","name":"Rabat","id":"Rabat_Ajax_F.C.","win":6,"draw":4,"loss":4,"for":25,"against":18},
+{"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":5,"draw":3,"loss":6,"for":17,"against":20},
+{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":5,"draw":2,"loss":7,"for":16,"against":23},
+{"country":"mlt","name":"Birkirkara F.C.","id":"Birkirkara_F.C.","win":3,"draw":4,"loss":7,"for":11,"against":16},
+{"country":"mlt","name":"Melita F.C.","id":"Melita_F.C.","win":3,"draw":0,"loss":11,"for":9,"against":33,"isRemoved":true,"isReturning":true}
 ]

@@ -163,4 +163,19 @@
 {"country":"lux","name":"Hostert","id":"US_Hostert","win":7,"draw":4,"loss":15,"for":37,"against":58},
 {"country":"lux","name":"RM Hamm Benfica","id":"F.C._Luxembourg_City","win":5,"draw":4,"loss":17,"for":29,"against":50,"isRemoved":true},
 {"country":"lux","name":"Rumelange","id":"US_Rumelange","win":4,"draw":4,"loss":18,"for":34,"against":76,"isRemoved":true,"isReturning":true}
+][
+{"country":"mlt","name":"Valletta","id":"Valletta_F.C.","win":18,"draw":4,"loss":4,"for":61,"against":18,"isChampion":true},
+{"country":"mlt","name":"Hibernians","id":"Hibernians_F.C.","win":18,"draw":4,"loss":4,"for":54,"against":27},
+{"country":"mlt","name":"Gżira United","id":"Gżira_United_F.C.","win":13,"draw":11,"loss":2,"for":42,"against":21},
+{"country":"mlt","name":"Ħamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":12,"draw":10,"loss":4,"for":35,"against":20},
+{"country":"mlt","name":"Sliema Wanderers","id":"Sliema_Wanderers_F.C.","win":13,"draw":6,"loss":7,"for":37,"against":26},
+{"country":"mlt","name":"Balzan","id":"Balzan_F.C.","win":12,"draw":7,"loss":7,"for":41,"against":31},
+{"country":"mlt","name":"Birkirkara","id":"Birkirkara_F.C.","win":12,"draw":3,"loss":11,"for":33,"against":26},
+{"country":"mlt","name":"Floriana","id":"Floriana_F.C.","win":9,"draw":5,"loss":12,"for":28,"against":25},
+{"country":"mlt","name":"Mosta","id":"Mosta_F.C.","win":7,"draw":8,"loss":11,"for":30,"against":45},
+{"country":"mlt","name":"Tarxien Rainbows","id":"Tarxien_Rainbows_F.C.","win":8,"draw":2,"loss":16,"for":29,"against":58},
+{"country":"mlt","name":"Senglea Athletic","id":"Senglea_Athletic_F.C.","win":7,"draw":5,"loss":14,"for":33,"against":46},
+{"country":"mlt","name":"St. Andrews","id":"St._Andrews_F.C._(Malta)","win":7,"draw":3,"loss":16,"for":25,"against":45,"isRemoved":true},
+{"country":"mlt","name":"Qormi","id":"Qormi_F.C.","win":6,"draw":2,"loss":18,"for":25,"against":51,"isRemoved":true,"isReturning":true},
+{"country":"mlt","name":"Pietà Hotspurs","id":"Pietà_Hotspurs_F.C.","win":3,"draw":4,"loss":19,"for":25,"against":59,"isRemoved":true,"isReturning":true}
 ]

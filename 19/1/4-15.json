@@ -64,4 +64,11 @@
 ]
 [
 	//hun
+][
+{"country":"mlt","name":"Valletta United","id":"Valletta_F.C.","win":4,"draw":1,"loss":0,"for":15,"against":0,"isChampion":true,"isRemoved":true,"removedNote":"Maltese league not contested next season"},
+{"country":"mlt","name":"Ħamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":3,"draw":1,"loss":1,"for":11,"against":1,"isRemoved":true,"removedNote":"Maltese league not contested next season"},
+{"country":"mlt","name":"Sliema Wanderers","id":"Sliema_Wanderers_F.C.","win":3,"draw":0,"loss":2,"for":10,"against":6,"isRemoved":true,"isReturning":true,"removedNote":"Maltese league not contested next season"},
+{"country":"mlt","name":"Cottonera","id":"Cottonera_F.C.","win":2,"draw":1,"loss":2,"for":7,"against":2,"isRemoved":true,"isNew":true,"removedNote":"Maltese league not contested next season"},
+{"country":"mlt","name":"Msida Rangers","id":"Msida_Saint-Joseph_F.C.","win":1,"draw":1,"loss":3,"for":4,"against":3,"isRemoved":true,"removedNote":"Maltese league not contested next season"},
+{"country":"mlt","name":"Vittoriosa Melita","id":"Vittoriosa_Stars_F.C.","win":0,"draw":0,"loss":5,"for":0,"against":35,"isRemoved":true,"removedNote":"Maltese league not contested next season"}
 ]

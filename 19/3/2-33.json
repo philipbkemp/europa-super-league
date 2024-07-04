@@ -116,4 +116,9 @@
 {"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":5,"draw":2,"loss":7,"for":28,"against":27},
 {"country":"lux","name":"US Dudelange","id":"US_Dudelange","win":4,"draw":3,"loss":7,"for":18,"against":37},
 {"country":"lux","name":"FC Red Black Pfaffenthal","id":"FC_Red_Black_Pfaffenthal","win":1,"draw":3,"loss":10,"for":11,"against":38,"isReturning":true,"isRemoved":true}
+][
+{"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":2,"draw":1,"loss":0,"for":9,"against":2,"isChampion":true},
+{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":2,"draw":1,"loss":0,"for":7,"against":2,"isReturning":true},
+{"country":"mlt","name":"Sliema Rangers","id":"sliema_rangers","win":1,"draw":0,"loss":2,"for":4,"against":10,"isReturning":true,"isRemoved":true},
+{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":0,"draw":0,"loss":3,"for":1,"against":7,"isRemoved":true}
 ]

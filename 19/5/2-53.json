@@ -133,4 +133,13 @@
 {"country":"lux","name":"SC Tétange","id":"SC_Tétange","win":7,"draw":3,"loss":12,"for":33,"against":41},
 {"country":"lux","name":"Alliance Dudelange","id":"Alliance_Dudelange","win":7,"draw":3,"loss":12,"for":39,"against":47,"isNew":true,"isRemoved":true},
 {"country":"lux","name":"Racing Rodange","id":"FC_Racing","win":5,"draw":6,"loss":11,"for":32,"against":54,"isRemoved":true}
+][
+{"country":"mlt","name":"Floriana F.C.","id":"Floriana_F.C.","win":9,"draw":3,"loss":2,"for":27,"against":12,"isChampion":true},
+{"country":"mlt","name":"Birkirkara F.C.","id":"Birkirkara_F.C.","win":9,"draw":2,"loss":3,"for":19,"against":10,"isReturning":true},
+{"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":7,"draw":5,"loss":2,"for":26,"against":17},
+{"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":4,"draw":5,"loss":5,"for":20,"against":16},
+{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":4,"draw":4,"loss":6,"for":22,"against":25},
+{"country":"mlt","name":"Rabat","id":"Rabat_Ajax_F.C.","win":4,"draw":3,"loss":7,"for":13,"against":18},
+{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":3,"draw":3,"loss":8,"for":14,"against":19},
+{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":2,"draw":3,"loss":9,"for":10,"against":34,"isRemoved":true}
 ]

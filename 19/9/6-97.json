@@ -167,4 +167,15 @@
 {"country":"lux","name":"Rumelange","id":"US_Rumelange","win":5,"draw":3,"loss":14,"for":33,"against":59,"isReturning":true},
 {"country":"lux","name":"Rodange 91","id":"FC_Rodange_91","win":4,"draw":4,"loss":14,"for":25,"against":42,"isRemoved":true},
 {"country":"lux","name":"Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":2,"draw":5,"loss":15,"for":22,"against":55,"isRemoved":true}
+][
+{"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":21,"draw":4,"loss":2,"for":80,"against":22,"isChampion":true},
+{"country":"mlt","name":"Birkirkara F.C.","id":"Birkirkara_F.C.","win":18,"draw":6,"loss":3,"for":46,"against":21},
+{"country":"mlt","name":"Floriana F.C.","id":"Floriana_F.C.","win":16,"draw":5,"loss":6,"for":56,"against":28},
+{"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":14,"draw":4,"loss":9,"for":58,"against":30},
+{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":12,"draw":3,"loss":12,"for":46,"against":40},
+{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":10,"draw":7,"loss":10,"for":39,"against":38},
+{"country":"mlt","name":"Pietà Hotspurs F.C.","id":"Pietà_Hotspurs_F.C.","win":11,"draw":3,"loss":13,"for":35,"against":41,"isReturning":true},
+{"country":"mlt","name":"Naxxar Lions","id":"Naxxar_Lions_F.C.","win":5,"draw":7,"loss":15,"for":18,"against":45},
+{"country":"mlt","name":"Rabat Ajax F.C.","id":"Rabat_Ajax_F.C.","win":5,"draw":3,"loss":19,"for":32,"against":73,"isRemoved":true},
+{"country":"mlt","name":"Lija Athletic F.C.","id":"Lija_Athletic_F.C.","win":2,"draw":0,"loss":25,"for":22,"against":94,"isRemoved":true,"isNew":true}
 ]

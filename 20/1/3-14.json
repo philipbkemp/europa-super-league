@@ -167,4 +167,17 @@
 {"country":"lux","name":"RM Hamm Benfica","id":"F.C._Luxembourg_City","win":6,"draw":6,"loss":14,"for":31,"against":46,"isRemoved":true},
 {"country":"lux","name":"Swift Hesperange","id":"FC_Swift_Hesperange","win":4,"draw":8,"loss":14,"for":22,"against":51,"isRemoved":true,"isReturning":true},
 {"country":"lux","name":"Racing FC","id":"Racing_FC_Union_Luxembourg","win":4,"draw":6,"loss":16,"for":22,"against":54,"isRemoved":true}
+][
+{"country":"mlt","name":"Birkirkara","id":"Birkirkara_F.C.","win":25,"draw":3,"loss":4,"for":76,"against":25},
+{"country":"mlt","name":"Valletta","id":"Valletta_F.C.","win":24,"draw":5,"loss":3,"for":74,"against":21,"isChampion":true},
+{"country":"mlt","name":"Hibernians","id":"Hibernians_F.C.","win":18,"draw":4,"loss":10,"for":77,"against":51},
+{"country":"mlt","name":"Sliema Wanderers","id":"Sliema_Wanderers_F.C.","win":14,"draw":10,"loss":8,"for":54,"against":42},
+{"country":"mlt","name":"Mosta","id":"Mosta_F.C.","win":15,"draw":6,"loss":11,"for":58,"against":57},
+{"country":"mlt","name":"Balzan","id":"Balzan_F.C.","win":9,"draw":5,"loss":18,"for":36,"against":58},
+{"country":"mlt","name":"Naxxar Lions","id":"Naxxar_Lions_F.C.","win":11,"draw":6,"loss":15,"for":40,"against":55,"isReturning":true},
+{"country":"mlt","name":"Floriana","id":"Floriana_F.C.","win":14,"draw":5,"loss":13,"for":50,"against":48},
+{"country":"mlt","name":"Vittoriosa Stars","id":"Vittoriosa_Stars_F.C.","win":9,"draw":6,"loss":17,"for":41,"against":66,"isRemoved":true,"isReturning":true},
+{"country":"mlt","name":"Qormi","id":"Qormi_F.C.","win":10,"draw":4,"loss":18,"for":51,"against":62},
+{"country":"mlt","name":"Tarxien Rainbows","id":"Tarxien_Rainbows_F.C.","win":10,"draw":6,"loss":16,"for":51,"against":55},
+{"country":"mlt","name":"Rabat Ajax","id":"Rabat_Ajax_F.C.","win":1,"draw":4,"loss":27,"for":23,"against":91,"isRemoved":true}
 ]

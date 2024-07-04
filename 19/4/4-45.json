@@ -41,4 +41,9 @@
 {"country":"hun","name":"Budapesti MÁVAG SK","id":"Budapesti_MÁVAG_SK","win":4,"draw":1,"loss":17,"for":29,"against":82,"isRemoved":true,"isReturning":true},
 {"country":"hun","name":"Ganz-MÁVAG SE","id":"Ganz-MÁVAG_SE","win":2,"draw":2,"loss":18,"for":26,"against":123,"isRemoved":true,"isNew":true},
 {"country":"hun","name":"Nemzeti","id":"Nemzeti_SC","win":2,"draw":1,"loss":19,"for":16,"against":121,"isRemoved":true,"isReturning":true}
+][
+{"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":2,"draw":0,"loss":1,"for":7,"against":3,"isChampion":true,"isReturning":true},
+{"country":"mlt","name":"Sliema Athletics","id":"Sliema_Wanderers_F.C.","win":1,"draw":1,"loss":1,"for":10,"against":5,"isReturning":true},
+{"country":"mlt","name":"Floriana F.C.","id":"Floriana_F.C.","win":1,"draw":1,"loss":1,"for":3,"against":5,"isReturning":true},
+{"country":"mlt","name":"Melita F.C.","id":"Melita_F.C.","win":1,"draw":0,"loss":2,"for":4,"against":11,"isReturning":true}
 ]

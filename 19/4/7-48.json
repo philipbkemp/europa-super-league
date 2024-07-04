@@ -139,4 +139,13 @@
 {"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":6,"draw":7,"loss":9,"for":31,"against":40,"isRemoved":true},
 {"country":"lux","name":"Sporting Club Bettembourg","id":"Sporting_Club_Bettembourg","win":4,"draw":1,"loss":17,"for":24,"against":84,"isNew":true,"isRemoved":true},
 {"country":"lux","name":"FC Red Black Pfaffenthal","id":"FC_Red_Black_Pfaffenthal","win":2,"draw":4,"loss":16,"for":20,"against":83,"isReturning":true,"isRemoved":true}
+][
+{"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":10,"draw":3,"loss":1,"for":44,"against":16,"isChampion":true},
+{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":10,"draw":1,"loss":3,"for":43,"against":27},
+{"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":7,"draw":5,"loss":2,"for":35,"against":23},
+{"country":"mlt","name":"Floriana F.C.","id":"Floriana_F.C.","win":6,"draw":3,"loss":5,"for":31,"against":23},
+{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":6,"draw":2,"loss":6,"for":31,"against":40},
+{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":4,"draw":3,"loss":7,"for":29,"against":35},
+{"country":"mlt","name":"Naxxar Lions","id":"Naxxar_Lions_F.C.","win":2,"draw":4,"loss":8,"for":16,"against":29},
+{"country":"mlt","name":"Melita F.C.","id":"Melita_F.C.","win":0,"draw":1,"loss":13,"for":13,"against":49,"isRemoved":true}
 ]

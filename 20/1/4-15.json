@@ -167,4 +167,17 @@
 {"country":"lux","name":"UN Käerjéng 97","id":"UN_Käerjéng_97","win":8,"draw":3,"loss":15,"for":33,"against":52,"isRemoved":true},
 {"country":"lux","name":"US Hostert","id":"US_Hostert","win":5,"draw":8,"loss":13,"for":35,"against":52,"isRemoved":true,"isReturning":true},
 {"country":"lux","name":"Jeunesse Canach","id":"FC_Jeunesse_Canach","win":3,"draw":6,"loss":17,"for":16,"against":45,"isRemoved":true}
+][
+{"country":"mlt","name":"Hibernians","id":"Hibernians_F.C.","win":27,"draw":5,"loss":1,"for":97,"against":24,"isChampion":true},
+{"country":"mlt","name":"Valletta","id":"Valletta_F.C.","win":22,"draw":3,"loss":8,"for":74,"against":30},
+{"country":"mlt","name":"Birkirkara","id":"Birkirkara_F.C.","win":19,"draw":7,"loss":7,"for":59,"against":31},
+{"country":"mlt","name":"Balzan","id":"Balzan_F.C.","win":17,"draw":8,"loss":8,"for":59,"against":45},
+{"country":"mlt","name":"Floriana","id":"Floriana_F.C.","win":13,"draw":11,"loss":9,"for":58,"against":51},
+{"country":"mlt","name":"Sliema Wanderers","id":"Sliema_Wanderers_F.C.","win":10,"draw":9,"loss":14,"for":50,"against":56},
+{"country":"mlt","name":"Naxxar Lions","id":"Naxxar_Lions_F.C.","win":9,"draw":9,"loss":15,"for":40,"against":51},
+{"country":"mlt","name":"Qormi","id":"Qormi_F.C.","win":8,"draw":9,"loss":16,"for":40,"against":55},
+{"country":"mlt","name":"Tarxien Rainbows","id":"Tarxien_Rainbows_F.C.","win":8,"draw":9,"loss":16,"for":35,"against":60},
+{"country":"mlt","name":"Mosta","id":"Mosta_F.C.","win":9,"draw":6,"loss":18,"for":38,"against":72},
+{"country":"mlt","name":"Pietà Hotspurs","id":"Pietà_Hotspurs_F.C.","win":6,"draw":8,"loss":19,"for":30,"against":58,"isRemoved":true,"isReturning":true},
+{"country":"mlt","name":"Żebbuġ Rangers","id":"Żebbuġ_Rangers_F.C.","win":5,"draw":6,"loss":22,"for":37,"against":84,"isRemoved":true,"isReturning":true}
 ]

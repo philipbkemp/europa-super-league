@@ -90,4 +90,10 @@
 {"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":3,"draw":3,"loss":8,"for":21,"against":27},
 {"country":"lux","name":"FC Red Black Pfaffenthal","id":"FC_Red_Black_Pfaffenthal","win":3,"draw":2,"loss":9,"for":18,"against":42,"isNew":true,"isRemoved":true},
 {"country":"lux","name":"Eclair Bettembourg","id":"Eclair_Bettembourg","win":1,"draw":3,"loss":10,"for":18,"against":51,"isNew":true,"isRemoved":true}
+][
+{"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":4,"draw":0,"loss":0,"for":9,"against":1,"isChampion":true},
+{"country":"mlt","name":"Vittoriosa Rovers","id":"Vittoriosa_Stars_F.C.","win":2,"draw":0,"loss":2,"for":5,"against":4},
+{"country":"mlt","name":"Valletta United","id":"Valletta_F.C.","win":2,"draw":0,"loss":2,"for":4,"against":4},
+{"country":"mlt","name":"Sliema Rangers","id":"sliema_rangers","win":1,"draw":0,"loss":3,"for":5,"against":8},
+{"country":"mlt","name":"Msida Rovers","id":"Msida_Saint-Joseph_F.C.","win":1,"draw":0,"loss":3,"for":3,"against":9,"isReturning":true}
 ]

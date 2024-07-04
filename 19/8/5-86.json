@@ -169,4 +169,13 @@
 {"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":6,"draw":4,"loss":12,"for":27,"against":37},
 {"country":"lux","name":"FC Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":6,"draw":3,"loss":13,"for":40,"against":50,"isRemoved":true},
 {"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":0,"draw":2,"loss":20,"for":12,"against":84,"isRemoved":true}
+][
+{"country":"mlt","name":"Rabat Ajax F.C.","id":"Rabat_Ajax_F.C.","win":9,"draw":5,"loss":0,"for":20,"against":5,"isChampion":true},
+{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":5,"draw":8,"loss":1,"for":18,"against":10},
+{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":5,"draw":7,"loss":2,"for":12,"against":7},
+{"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":7,"draw":3,"loss":4,"for":19,"against":16},
+{"country":"mlt","name":"Żurrieq F.C.","id":"Żurrieq_F.C.","win":5,"draw":4,"loss":5,"for":25,"against":14},
+{"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":4,"draw":3,"loss":7,"for":19,"against":22},
+{"country":"mlt","name":"Birkirkara F.C.","id":"Birkirkara_F.C.","win":1,"draw":4,"loss":9,"for":9,"against":25,"isRemoved":true,"isReturning":true},
+{"country":"mlt","name":"Mqabba F.C.","id":"Mqabba_F.C.","win":1,"draw":4,"loss":9,"for":9,"against":32,"isRemoved":true,"isNew":true}
 ]

@@ -171,4 +171,13 @@
 {"country":"lux","name":"Alliance Dudelange","id":"Alliance_Dudelange","win":6,"draw":3,"loss":13,"for":20,"against":50,"isReturning":true},
 {"country":"lux","name":"FC Wiltz 71","id":"FC_Wiltz_71","win":6,"draw":1,"loss":15,"for":45,"against":55,"isRemoved":true},
 {"country":"lux","name":"US Rumelange","id":"US_Rumelange","win":4,"draw":4,"loss":14,"for":19,"against":51,"isRemoved":true}
+][
+{"country":"mlt","name":"Rabat Ajax F.C.","id":"Rabat_Ajax_F.C.","win":5,"draw":7,"loss":1,"for":19,"against":12,"isChampion":true},
+{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":4,"draw":8,"loss":1,"for":18,"against":8},
+{"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":5,"draw":5,"loss":3,"for":13,"against":10,"isReturning":true},
+{"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":6,"draw":2,"loss":5,"for":18,"against":15},
+{"country":"mlt","name":"Żurrieq F.C.","id":"Żurrieq_F.C.","win":5,"draw":4,"loss":4,"for":18,"against":14},
+{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":5,"draw":4,"loss":4,"for":14,"against":12},
+{"country":"mlt","name":"Floriana F.C.","id":"Floriana_F.C.","win":4,"draw":5,"loss":4,"for":11,"against":11,"isRemoved":true},
+{"country":"mlt","name":"Marsa F.C.","id":"Marsa_F.C.","win":0,"draw":1,"loss":12,"for":6,"against":35,"isRemoved":true,"isReturning":true}
 ]

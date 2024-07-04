@@ -163,4 +163,19 @@
 {"country":"lux","name":"Fola Esch","id":"CS_Fola_Esch","win":8,"draw":4,"loss":18,"for":33,"against":61},
 {"country":"lux","name":"Marisca Mersch","id":"Marisca_Mersch","win":7,"draw":5,"loss":18,"for":40,"against":62,"isRemoved":true,"isNew":true},
 {"country":"lux","name":"Schifflange 95","id":"FC_Schifflange_95","win":6,"draw":7,"loss":17,"for":36,"against":59,"isRemoved":true,"isReturning":true}
+][
+{"country":"mlt","name":"Ħamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":19,"draw":5,"loss":2,"for":61,"against":16,"isChampion":true},
+{"country":"mlt","name":"Floriana","id":"Floriana_F.C.","win":18,"draw":3,"loss":5,"for":53,"against":19},
+{"country":"mlt","name":"Sliema Wanderers","id":"Sliema_Wanderers_F.C.","win":14,"draw":8,"loss":4,"for":34,"against":12,"isReturning":true},
+{"country":"mlt","name":"Marsaxlokk","id":"Marsaxlokk_F.C.","win":12,"draw":7,"loss":7,"for":40,"against":23},
+{"country":"mlt","name":"Birkirkara","id":"Birkirkara_F.C.","win":9,"draw":9,"loss":8,"for":28,"against":27},
+{"country":"mlt","name":"Naxxar Lions","id":"Naxxar_Lions_F.C.","win":9,"draw":8,"loss":9,"for":32,"against":35,"isReturning":true},
+{"country":"mlt","name":"Hibernians","id":"Hibernians_F.C.","win":9,"draw":8,"loss":9,"for":29,"against":28},
+{"country":"mlt","name":"Balzan","id":"Balzan_F.C.","win":8,"draw":10,"loss":8,"for":26,"against":28},
+{"country":"mlt","name":"Gżira United","id":"Gżira_United_F.C.","win":9,"draw":6,"loss":11,"for":38,"against":33},
+{"country":"mlt","name":"Mosta","id":"Mosta_F.C.","win":7,"draw":10,"loss":9,"for":19,"against":32},
+{"country":"mlt","name":"Santa Lucia","id":"St._Lucia_F.C.","win":8,"draw":6,"loss":12,"for":25,"against":41,"isRemoved":true},
+{"country":"mlt","name":"Valletta","id":"Valletta_F.C.","win":6,"draw":9,"loss":11,"for":26,"against":31,"isRemoved":true},
+{"country":"mlt","name":"Sirens","id":"Sirens_F.C.","win":3,"draw":7,"loss":16,"for":17,"against":50,"isRemoved":true},
+{"country":"mlt","name":"Gudja United","id":"Gudja_United_F.C.","win":0,"draw":6,"loss":20,"for":14,"against":67,"isRemoved":true}
 ]

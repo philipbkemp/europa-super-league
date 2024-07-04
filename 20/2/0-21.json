@@ -163,4 +163,21 @@
 {"country":"lux","name":"RM Hamm Benfica","id":"F.C._Luxembourg_City","win":5,"draw":11,"loss":14,"for":33,"against":48,"isReturning":true},
 {"country":"lux","name":"Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":5,"draw":9,"loss":16,"for":32,"against":57},
 {"country":"lux","name":"Union Titus Pétange","id":"Union_Titus_Pétange","win":5,"draw":6,"loss":19,"for":23,"against":52}
+][
+{"country":"mlt","name":"Ħamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":17,"draw":5,"loss":1,"for":56,"against":20,"isChampion":true},
+{"country":"mlt","name":"Hibernians","id":"Hibernians_F.C.","win":16,"draw":3,"loss":4,"for":53,"against":20},
+{"country":"mlt","name":"Gżira United","id":"Gżira_United_F.C.","win":14,"draw":4,"loss":5,"for":49,"against":21},
+{"country":"mlt","name":"Birkirkara","id":"Birkirkara_F.C.","win":13,"draw":5,"loss":5,"for":45,"against":25},
+{"country":"mlt","name":"Sliema Wanderers","id":"Sliema_Wanderers_F.C.","win":12,"draw":4,"loss":7,"for":39,"against":31},
+{"country":"mlt","name":"Mosta","id":"Mosta_F.C.","win":10,"draw":6,"loss":7,"for":41,"against":36},
+{"country":"mlt","name":"Valletta","id":"Valletta_F.C.","win":9,"draw":6,"loss":8,"for":27,"against":35},
+{"country":"mlt","name":"St. Lucia","id":"St._Lucia_F.C.","win":7,"draw":8,"loss":8,"for":38,"against":35},
+{"country":"mlt","name":"Sirens","id":"Sirens_F.C.","win":7,"draw":7,"loss":9,"for":27,"against":35},
+{"country":"mlt","name":"Balzan","id":"Balzan_F.C.","win":6,"draw":9,"loss":8,"for":31,"against":29},
+{"country":"mlt","name":"Gudja United","id":"Gudja_United_F.C.","win":8,"draw":3,"loss":12,"for":29,"against":35},
+{"country":"mlt","name":"Floriana","id":"Floriana_F.C.","win":7,"draw":6,"loss":10,"for":26,"against":34},
+{"country":"mlt","name":"Żejtun Corinthians","id":"Żejtun_Corinthians_F.C.","win":6,"draw":6,"loss":11,"for":28,"against":40,"isRemoved":true,"isNew":true},
+{"country":"mlt","name":"Tarxien Rainbows","id":"Tarxien_Rainbows_F.C.","win":6,"draw":3,"loss":14,"for":25,"against":48,"isRemoved":true},
+{"country":"mlt","name":"Lija Athetlic","id":"Lija_Athletic_F.C.","win":5,"draw":5,"loss":13,"for":25,"against":46,"isRemoved":true,"isReturning":true},
+{"country":"mlt","name":"Senglea Athletic","id":"Senglea_Athletic_F.C.","win":0,"draw":2,"loss":21,"for":13,"against":62,"isRemoved":true}
 ]

@@ -84,4 +84,12 @@
 {"country":"hun","name":"Budapesti AK","id":"Budapesti_AK","win":5,"draw":1,"loss":12,"for":19,"against":32,"isRemoved":true,"removedNote":"League not contested next season due to WW2"},
 {"country":"hun","name":"III. Kerületi TUE","id":"III._Kerületi_TVE","win":3,"draw":4,"loss":11,"for":22,"against":37,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season due to WW2"},
 {"country":"hun","name":"Nemzeti SC","id":"Nemzeti_SC","win":3,"draw":3,"loss":12,"for":17,"against":53,"isRemoved":true,"removedNote":"League not contested next season due to WW2"}
+][
+{"country":"mlt","name":"Ħamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":5,"draw":0,"loss":1,"for":22,"against":1,"isChampion":true},
+{"country":"mlt","name":"St. George's","id":"St._George%27s_F.C.","win":5,"draw":0,"loss":1,"for":15,"against":2,"isRemoved":true},
+{"country":"mlt","name":"Valletta United","id":"Valletta_F.C.","win":4,"draw":0,"loss":2,"for":7,"against":5,"isReturning":true},
+{"country":"mlt","name":"Floriana","id":"Floriana_F.C.","win":3,"draw":0,"loss":3,"for":10,"against":16,"isRemoved":true},
+{"country":"mlt","name":"Msida Rangers","id":"Msida_Saint-Joseph_F.C.","win":2,"draw":1,"loss":3,"for":6,"against":7},
+{"country":"mlt","name":"Senglea Shamrocks","id":"Senglea_Athletic_F.C.","win":1,"draw":1,"loss":4,"for":6,"against":19,"isRemoved":true},
+{"country":"mlt","name":"Vittoriosa Melita","id":"Vittoriosa_Stars_F.C.","win":0,"draw":0,"loss":6,"for":1,"against":17}
 ]
