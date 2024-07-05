@@ -193,4 +193,19 @@
 {"country":"rou","name":"Apulum Alba Iulia","id":"CSM_Unirea_Alba_Iulia","win":6,"draw":8,"loss":16,"for":28,"against":62,"isRemoved":true},
 {"country":"rou","name":"Brașov","id":"FC_Brașov_(1936)","win":5,"draw":6,"loss":19,"for":28,"against":45,"isRemoved":true},
 {"country":"rou","name":"Universitatea Craiova","id":"FC_U_Craiova_1948","win":4,"draw":8,"loss":18,"for":24,"against":54,"isRemoved":true}
+][
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":15,"draw":7,"loss":4,"for":44,"against":21,"isChampion":true},
+{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":14,"draw":8,"loss":4,"for":53,"against":27},
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":14,"draw":5,"loss":7,"for":33,"against":20},
+{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":11,"draw":8,"loss":7,"for":38,"against":32},
+{"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":10,"draw":10,"loss":6,"for":27,"against":18,"isReturning":true},
+{"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":10,"draw":7,"loss":9,"for":28,"against":28},
+{"country":"swe","name":"GIF Sundsvall","id":"GIF_Sundsvall","win":9,"draw":7,"loss":10,"for":30,"against":29},
+{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":9,"draw":6,"loss":11,"for":32,"against":45,"isRemoved":true,"removedNote":"Denied license for next season"},
+{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":8,"draw":8,"loss":10,"for":25,"against":32},
+{"country":"swe","name":"Helsingborgs IF","id":"Helsingborgs_IF","win":7,"draw":9,"loss":10,"for":41,"against":33},
+{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":7,"draw":9,"loss":10,"for":27,"against":33},
+{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":6,"draw":9,"loss":11,"for":24,"against":35},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":5,"draw":10,"loss":11,"for":23,"against":35,"isRemoved":true},
+{"country":"swe","name":"Trelleborgs FF","id":"Trelleborgs_FF","win":2,"draw":7,"loss":17,"for":18,"against":55,"isRemoved":true,"isReturning":true}
 ]

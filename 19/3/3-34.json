@@ -134,4 +134,17 @@
 ][
 {"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":2,"draw":1,"loss":1,"for":6,"against":4,"isChampion":true},
 {"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":1,"draw":1,"loss":2,"for":4,"against":6}
+][
+{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":13,"draw":1,"loss":6,"for":49,"against":35,"isChampion":true},
+{"country":"swe","name":"GAIS","id":"GAIS","win":12,"draw":2,"loss":6,"for":54,"against":34},
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":11,"draw":3,"loss":6,"for":52,"against":38},
+{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":9,"draw":4,"loss":7,"for":43,"against":38,"isNew":true},
+{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":9,"draw":3,"loss":8,"for":38,"against":35},
+{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":7,"draw":6,"loss":7,"for":45,"against":44},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":6,"draw":6,"loss":8,"for":40,"against":42},
+{"country":"swe","name":"Sandvikens IF","id":"Sandvikens_IF","win":7,"draw":3,"loss":10,"for":49,"against":57},
+{"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":7,"draw":3,"loss":10,"for":42,"against":52},
+{"country":"swe","name":"Gefle IF","id":"Gefle_IF","win":6,"draw":4,"loss":10,"for":37,"against":56,"isNew":true},
+{"country":"swe","name":"IS Halmia","id":"IS_Halmia","win":3,"draw":5,"loss":12,"for":23,"against":41,"isRemoved":true},
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":5,"draw":0,"loss":8,"for":27,"against":38,"isRemoved":true,"removedNote":"Disqualified mid-season for paying amateur players"}
 ]

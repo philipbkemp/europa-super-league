@@ -70,4 +70,17 @@
 {"country":"rou","name":"Universitatea Cluj-Sibiu","id":"FC_Universitatea_Cluj","win":8,"draw":1,"loss":15,"for":42,"against":58,"isReturning":true,"isRemoved":true,"removedNote":"League suspended until after WW2"},
 {"country":"rou","name":"Gloria CFR Galaţi","id":"Gloria_CFR_Galați","win":5,"draw":6,"loss":13,"for":27,"against":41,"isRemoved":true,"removedNote":"League suspended until after WW2"},
 {"country":"rou","name":"FC Brăila","id":"AFC_Dacia_Unirea_Brăila","win":4,"draw":1,"loss":19,"for":31,"against":90,"isNew":true,"isRemoved":true,"removedNote":"League suspended until after WW2"}
+][
+{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":14,"draw":3,"loss":5,"for":46,"against":26,"isChampion":true},
+{"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":12,"draw":5,"loss":5,"for":47,"against":28,"isReturning":true},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":11,"draw":4,"loss":7,"for":45,"against":36},
+{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":11,"draw":3,"loss":8,"for":54,"against":37},
+{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":8,"draw":9,"loss":5,"for":36,"against":36},
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":8,"draw":6,"loss":8,"for":42,"against":36},
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":8,"draw":6,"loss":8,"for":35,"against":32,"isReturning":true},
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":7,"draw":8,"loss":7,"for":33,"against":33},
+{"country":"swe","name":"Gårda","id":"Gårda_BK","win":7,"draw":4,"loss":11,"for":31,"against":42},
+{"country":"swe","name":"Sandvikens IF","id":"Sandvikens_IF","win":6,"draw":6,"loss":10,"for":30,"against":42},
+{"country":"swe","name":"IK Brage","id":"IK_Brage","win":6,"draw":4,"loss":12,"for":39,"against":53,"isRemoved":true},
+{"country":"swe","name":"IK Sleipner","id":"IK_Sleipner","win":3,"draw":4,"loss":15,"for":28,"against":65,"isRemoved":true}
 ]

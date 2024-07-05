@@ -75,4 +75,17 @@
 {"country":"hun","name":"Szombathelyi Haladás","id":"Szombathelyi_Haladás","win":8,"draw":7,"loss":15,"for":60,"against":92,"isReturning":true,"isRemoved":true},
 {"country":"hun","name":"Szegedi AK","id":"Szegedi_AK","win":8,"draw":3,"loss":19,"for":60,"against":115,"isRemoved":true},
 {"country":"hun","name":"Törekvés SE","id":"Törekvés_SE","win":6,"draw":6,"loss":18,"for":42,"against":86,"isReturning":true,"isRemoved":true}
+][
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":12,"draw":7,"loss":3,"for":52,"against":25,"isChampion":true},
+{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":14,"draw":2,"loss":6,"for":58,"against":32},
+{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":12,"draw":6,"loss":4,"for":46,"against":28},
+{"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":9,"draw":8,"loss":5,"for":49,"against":27},
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":10,"draw":5,"loss":7,"for":44,"against":30},
+{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":9,"draw":7,"loss":6,"for":38,"against":50,"isReturning":true},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":10,"draw":4,"loss":8,"for":48,"against":37},
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":7,"draw":10,"loss":5,"for":46,"against":40},
+{"country":"swe","name":"Sandvikens IF","id":"Sandvikens_IF","win":8,"draw":2,"loss":12,"for":31,"against":47},
+{"country":"swe","name":"GAIS","id":"GAIS","win":6,"draw":3,"loss":13,"for":38,"against":47},
+{"country":"swe","name":"Gårda","id":"Gårda_BK","win":2,"draw":5,"loss":15,"for":17,"against":60,"isRemoved":true},
+{"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":2,"draw":3,"loss":17,"for":31,"against":75,"isRemoved":true,"isReturning":true}
 ]

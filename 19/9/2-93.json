@@ -195,4 +195,15 @@
 {"country":"rou","name":"FC Ploiești","id":"FC_Petrolul_Ploiești","win":12,"draw":3,"loss":19,"for":47,"against":50},
 {"country":"rou","name":"Selena Bacău","id":"FCM_Bacău","win":8,"draw":9,"loss":17,"for":24,"against":44,"isRemoved":true},
 {"country":"rou","name":"CSM Reșița","id":"CSM_Reșița","win":9,"draw":3,"loss":22,"for":34,"against":72,"isRemoved":true,"isReturning":true}
+][
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":15,"draw":5,"loss":8,"for":52,"against":37},
+{"country":"swe","name":"Östers IF","id":"Östers_IF","win":12,"draw":8,"loss":8,"for":54,"against":46},
+{"country":"swe","name":"Trelleborgs FF","id":"Trelleborgs_FF","win":11,"draw":7,"loss":10,"for":43,"against":49,"isReturning":true},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":13,"draw":8,"loss":7,"for":47,"against":29,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":10,"draw":7,"loss":11,"for":33,"against":30},
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":11,"draw":3,"loss":14,"for":42,"against":41},
+{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":11,"draw":12,"loss":9,"for":56,"against":48,"isRemoved":true},
+{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":12,"draw":10,"loss":10,"for":45,"against":39},
+{"country":"swe","name":"Västra Frölunda","id":"Västra_Frölunda_IF","win":5,"draw":9,"loss":18,"for":37,"against":58,"isReturning":true},
+{"country":"swe","name":"GAIS","id":"GAIS","win":9,"draw":6,"loss":17,"for":32,"against":53,"isRemoved":true}
 ]

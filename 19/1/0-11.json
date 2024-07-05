@@ -98,4 +98,13 @@
 {"country":"rou","name":"Olympia București","id":"Olympia_București","win":2,"draw":1,"loss":0,"for":7,"against":3,"isChampion":true},
 {"country":"rou","name":"United Ploiești","id":"FC_Prahova_Ploiești","win":1,"draw":1,"loss":1,"for":6,"against":7},
 {"country":"rou","name":"Colentina București","id":"Colentina_A.C._București","win":0,"draw":0,"loss":2,"for":3,"against":6}
+][
+{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":8,"draw":3,"loss":3,"for":52,"against":22,"isChampion":true,"isNew":true,"isRemoved":true,"removedNote":"Next season was not completed due to clashes with the 1912 Olympic football tournament preparations"},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":8,"draw":3,"loss":3,"for":50,"against":28,"isNew":true,"isRemoved":true,"removedNote":"Next season was not completed due to clashes with the 1912 Olympic football tournament preparations"},
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":8,"draw":2,"loss":4,"for":41,"against":32,"isNew":true,"isRemoved":true,"removedNote":"Next season was not completed due to clashes with the 1912 Olympic football tournament preparations"},
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":6,"draw":3,"loss":5,"for":31,"against":26,"isNew":true,"isRemoved":true,"removedNote":"Next season was not completed due to clashes with the 1912 Olympic football tournament preparations"},
+{"country":"swe","name":"Göteborgs FF","id":"Göteborgs_FF","win":5,"draw":3,"loss":6,"for":24,"against":24,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"Next season was not completed due to clashes with the 1912 Olympic football tournament preparations"},
+{"country":"swe","name":"Vikingarnas FK","id":"Vikingarnas_FK","win":4,"draw":3,"loss":7,"for":28,"against":38,"isNew":true,"isRemoved":true,"removedNote":"Next season was not completed due to clashes with the 1912 Olympic football tournament preparations"},
+{"country":"swe","name":"Västmanland-Nerikes BK","id":"Västmanland-Nerikes_BK","win":3,"draw":3,"loss":8,"for":25,"against":50,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"Next season was not completed due to clashes with the 1912 Olympic football tournament preparations"},
+{"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":3,"draw":2,"loss":9,"for":30,"against":61,"isNew":true,"isRemoved":true,"removedNote":"Next season was not completed due to clashes with the 1912 Olympic football tournament preparations"}
 ]

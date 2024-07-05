@@ -201,4 +201,17 @@
 {"country":"rou","name":"Petrolul Ploiești","id":"FC_Petrolul_Ploiești","win":9,"draw":7,"loss":14,"for":23,"against":40},
 {"country":"rou","name":"Politehnica Iași","id":"FC_Politehnica_Iași_(1945)","win":6,"draw":12,"loss":12,"for":30,"against":42,"isRemoved":true},
 {"country":"rou","name":"Crişul Oradea","id":"FC_Bihor_Oradea_(1958)","win":3,"draw":8,"loss":19,"for":17,"against":54,"isRemoved":true,"isReturning":true}
+][
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":12,"draw":6,"loss":4,"for":46,"against":22,"isChampion":true},
+{"country":"swe","name":"Åtvidabergs FF","id":"Åtvidabergs_FF","win":10,"draw":8,"loss":4,"for":43,"against":20},
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":8,"draw":10,"loss":4,"for":23,"against":15},
+{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":11,"draw":4,"loss":7,"for":32,"against":27},
+{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":6,"draw":10,"loss":6,"for":29,"against":28},
+{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":5,"draw":12,"loss":5,"for":22,"against":25,"isReturning":true},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":8,"draw":6,"loss":8,"for":26,"against":38},
+{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":7,"draw":7,"loss":8,"for":20,"against":25},
+{"country":"swe","name":"Östers IF","id":"Östers_IF","win":5,"draw":10,"loss":7,"for":26,"against":24},
+{"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":6,"draw":7,"loss":9,"for":22,"against":27},
+{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":6,"draw":2,"loss":14,"for":20,"against":34,"isRemoved":true},
+{"country":"swe","name":"IFK Luleå","id":"IFK_Luleå","win":4,"draw":6,"loss":12,"for":20,"against":44,"isRemoved":true,"isNew":true}
 ]

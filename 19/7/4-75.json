@@ -210,4 +210,19 @@
 {"country":"rou","name":"Steagul Roşu Brașov","id":"FC_Brașov_(1936)","win":12,"draw":7,"loss":15,"for":39,"against":30,"isRemoved":true},
 {"country":"rou","name":"Chimia Râmnicu Vâlcea","id":"Chimia_Râmnicu_Vâlcea","win":11,"draw":9,"loss":14,"for":35,"against":54,"isRemoved":true,"isNew":true},
 {"country":"rou","name":"FC Galați","id":"FCM_Dunărea_Galați","win":10,"draw":5,"loss":19,"for":27,"against":61,"isRemoved":true,"isNew":true}
+][
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":19,"draw":5,"loss":2,"for":48,"against":15,"isChampion":true},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":15,"draw":4,"loss":7,"for":40,"against":28},
+{"country":"swe","name":"Östers IF","id":"Östers_IF","win":13,"draw":7,"loss":6,"for":55,"against":26},
+{"country":"swe","name":"GAIS","id":"GAIS","win":12,"draw":5,"loss":9,"for":44,"against":40},
+{"country":"swe","name":"Åtvidabergs FF","id":"Åtvidabergs_FF","win":11,"draw":5,"loss":10,"for":48,"against":40},
+{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":10,"draw":6,"loss":10,"for":55,"against":43},
+{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":11,"draw":4,"loss":11,"for":43,"against":36},
+{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":9,"draw":8,"loss":9,"for":44,"against":38},
+{"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":10,"draw":5,"loss":11,"for":37,"against":44},
+{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":8,"draw":7,"loss":11,"for":42,"against":50},
+{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":7,"draw":9,"loss":10,"for":28,"against":38,"isReturning":true},
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":7,"draw":7,"loss":12,"for":39,"against":60},
+{"country":"swe","name":"IK Sirius","id":"IK_Sirius_Fotboll","win":4,"draw":8,"loss":14,"for":28,"against":57,"isRemoved":true},
+{"country":"swe","name":"Brynäs","id":"Brynäs_IF_Fotboll","win":2,"draw":8,"loss":16,"for":27,"against":63,"isRemoved":true,"isNew":true}
 ]

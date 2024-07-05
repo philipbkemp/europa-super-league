@@ -195,4 +195,15 @@
 {"country":"rou","name":"Argeș Pitești","id":"FC_Argeș_Pitești","win":8,"draw":8,"loss":18,"for":38,"against":52,"isRemoved":true},
 {"country":"rou","name":"ASA Târgu Mureș","id":"ASA_Târgu_Mureș_(1962)","win":8,"draw":5,"loss":21,"for":31,"against":55,"isRemoved":true,"isReturning":true},
 {"country":"rou","name":"Corvinul Hunedoara","id":"CS_Corvinul_Hunedoara","win":6,"draw":7,"loss":21,"for":35,"against":67,"isRemoved":true}
+][
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":15,"draw":7,"loss":6,"for":43,"against":24,"isChampion":true},
+{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":12,"draw":8,"loss":8,"for":32,"against":30},
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":10,"draw":11,"loss":7,"for":29,"against":25},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":10,"draw":6,"loss":12,"for":31,"against":30},
+{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":9,"draw":11,"loss":8,"for":43,"against":40},
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":11,"draw":8,"loss":9,"for":42,"against":34},
+{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":8,"draw":10,"loss":14,"for":50,"against":52,"isRemoved":true},
+{"country":"swe","name":"GAIS","id":"GAIS","win":13,"draw":7,"loss":12,"for":47,"against":45},
+{"country":"swe","name":"Östers IF","id":"Östers_IF","win":11,"draw":15,"loss":6,"for":59,"against":43},
+{"country":"swe","name":"GIF Sundsvall","id":"GIF_Sundsvall","win":4,"draw":11,"loss":17,"for":39,"against":75,"isRemoved":true,"isReturning":true}
 ]

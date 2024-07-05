@@ -11,7 +11,8 @@ const countries = {
 	"mlt": "Malta",
 	"nld": "Netherlands",
 	"rou": "Romania",
-	"sco": "Scotland"
+	"sco": "Scotland",
+	"swe": "Sweden"
 };
 
 if ( $("h1 .placeholder").length !== 0 ) {

@@ -203,4 +203,19 @@
 {"country":"rou","name":"CS Târgoviște","id":"FCM_Târgoviște","win":12,"draw":7,"loss":15,"for":48,"against":53,"isRemoved":true},
 {"country":"rou","name":"Olimpia Satu Mare","id":"FC_Olimpia_Satu_Mare","win":11,"draw":8,"loss":15,"for":35,"against":50,"isRemoved":true},
 {"country":"rou","name":"Gloria Buzău","id":"FC_Gloria_Buzău","win":4,"draw":7,"loss":23,"for":22,"against":61,"isRemoved":true}
+][
+{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":12,"draw":12,"loss":2,"for":38,"against":21,"isChampion":true},
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":13,"draw":9,"loss":4,"for":44,"against":24},
+{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":14,"draw":5,"loss":7,"for":35,"against":24},
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":12,"draw":8,"loss":6,"for":30,"against":24},
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":11,"draw":9,"loss":6,"for":44,"against":28},
+{"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":11,"draw":6,"loss":9,"for":46,"against":36},
+{"country":"swe","name":"Östers IF","id":"Östers_IF","win":9,"draw":10,"loss":7,"for":32,"against":28},
+{"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":8,"draw":8,"loss":10,"for":42,"against":39},
+{"country":"swe","name":"IFK Sundsvall","id":"IFK_Sundsvall","win":8,"draw":7,"loss":11,"for":31,"against":41,"isReturning":true},
+{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":7,"draw":8,"loss":11,"for":28,"against":35},
+{"country":"swe","name":"Åtvidabergs FF","id":"Åtvidabergs_FF","win":7,"draw":8,"loss":11,"for":20,"against":27},
+{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":8,"draw":5,"loss":13,"for":32,"against":41},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":5,"draw":10,"loss":11,"for":24,"against":35,"isRemoved":true},
+{"country":"swe","name":"IS Halmia","id":"IS_Halmia","win":2,"draw":5,"loss":19,"for":15,"against":58,"isRemoved":true,"isReturning":true}
 ]

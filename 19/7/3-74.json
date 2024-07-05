@@ -203,4 +203,19 @@
 {"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":9,"draw":12,"loss":13,"for":30,"against":38,"isRemoved":true},
 {"country":"rou","name":"SC Bacău","id":"FCM_Bacău","win":12,"draw":4,"loss":18,"for":40,"against":49,"isRemoved":true},
 {"country":"rou","name":"Petrolul Ploiești","id":"FC_Petrolul_Ploiești","win":10,"draw":7,"loss":17,"for":31,"against":42,"isRemoved":true}
+][
+{"country":"swe","name":"Åtvidabergs FF","id":"Åtvidabergs_FF","win":16,"draw":5,"loss":5,"for":53,"against":32,"isChampion":true},
+{"country":"swe","name":"Östers IF","id":"Östers_IF","win":11,"draw":9,"loss":6,"for":46,"against":27},
+{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":13,"draw":5,"loss":8,"for":53,"against":38},
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":12,"draw":6,"loss":8,"for":46,"against":32},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":13,"draw":4,"loss":9,"for":42,"against":29},
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":9,"draw":11,"loss":6,"for":48,"against":34},
+{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":11,"draw":6,"loss":9,"for":35,"against":34},
+{"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":9,"draw":8,"loss":9,"for":33,"against":37},
+{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":7,"draw":11,"loss":8,"for":36,"against":37,"isReturning":true},
+{"country":"swe","name":"GAIS","id":"GAIS","win":9,"draw":7,"loss":10,"for":33,"against":42},
+{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":8,"draw":8,"loss":10,"for":42,"against":42},
+{"country":"swe","name":"IK Sirius","id":"IK_Sirius_Fotboll","win":7,"draw":5,"loss":14,"for":20,"against":48,"isReturning":true},
+{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":3,"draw":9,"loss":14,"for":31,"against":59,"isRemoved":true},
+{"country":"swe","name":"Saab","id":"IF_Saab","win":4,"draw":6,"loss":16,"for":26,"against":53,"isRemoved":true,"isNew":true}
 ]

@@ -1,4 +1,4 @@
-country = "rou";
+country = "swe";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = false;
@@ -6,11 +6,16 @@ ISGROUPEDFIRST = false;
 FOUND = false;
 tbl = $("h2 span#League_table, h2 span#Final_table");
 if ( tbl.length === 1 ) { FOUND = true; }
+/*
 if ( !FOUND ) { tbl2 = $("h2 span#Regular_season, h2 span#Championship_play-offs, h2 span#Relegation_play-outs"); if ( tbl2.length === 3 ) { tbl = tbl2; ADD_TABLE_STATS = true; FOUND = true; } }
 if ( !FOUND ) { tbl2 = $("h2 span#Regular_season, h2 span#Play-off_round, h2 span#Play-out_round"); if ( tbl2.length === 3 ) { tbl = tbl2; ADD_TABLE_STATS = true; FOUND = true; } }
 if ( !FOUND ) { tbl2 = $("h2 span#Standings"); if ( tbl2.length === 1 ) { tbl = tbl2; FOUND = true; } }
+*/
+if ( !FOUND) { tbl2 = $("h2 span#Regular_season"); if ( tbl2.length === 1 ) { tbl = tbl2; FOUND = true; } }
 
-if ( tbl.length !== 0 ) {
+tbl3 = $("h3 span#League_table, h3 span[id^='Mästerskapsserien_'], h3 span[id^='Kvalsvenskan_']"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = true; }
+
+if ( FOUND ) {
 	tblTotal = tbl.length;
 	for ( tblIndex=0 ; tblIndex!==tblTotal ; tblIndex++ ) {
 		if ( tblTotal === 1 && !current_season) { relegated = prompt("Any relegations?").split(",");

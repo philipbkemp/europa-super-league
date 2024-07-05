@@ -63,4 +63,11 @@
 {"country":"mlt","name":"Valletta United","id":"Valletta_F.C.","win":2,"draw":1,"loss":2,"for":8,"against":6,"isReturning":true},
 {"country":"mlt","name":"Floriana Liberty","id":"Floriana_Liberty","win":1,"draw":1,"loss":4,"for":4,"against":12,"isNew":true},
 {"country":"mlt","name":"Vittoriosa Rovers","id":"Vittoriosa_Stars_F.C.","win":0,"draw":0,"loss":5,"for":1,"against":17,"isReturning":true,"isRemoved":true}
+][
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":8,"draw":0,"loss":2,"for":34,"against":8,"isChampion":true,"isRemoved":true,"removedNote":"League suspended during WW1"},
+{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":6,"draw":1,"loss":3,"for":27,"against":15,"isRemoved":true,"removedNote":"League suspended during WW1"},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":4,"draw":2,"loss":4,"for":17,"against":24,"isRemoved":true,"removedNote":"League suspended during WW1"},
+{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":4,"draw":1,"loss":5,"for":15,"against":19,"isRemoved":true,"isNew":true,"removedNote":"League suspended during WW1"},
+{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":2,"draw":2,"loss":6,"for":11,"against":20,"isRemoved":true,"removedNote":"League suspended during WW1"},
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":2,"draw":2,"loss":6,"for":15,"against":33,"isRemoved":true,"removedNote":"League suspended during WW1"}
 ]

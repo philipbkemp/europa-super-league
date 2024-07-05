@@ -197,4 +197,19 @@
 {"country":"rou","name":"Chindia Târgoviște","id":"FCM_Târgoviște","win":11,"draw":5,"loss":18,"for":32,"against":55,"isReturning":true},
 {"country":"rou","name":"Politehnica Timișoara","id":"FC_Politehnica_Timișoara","win":10,"draw":5,"loss":19,"for":45,"against":65,"isRemoved":true},
 {"country":"rou","name":"Brașov","id":"FC_Brașov_(1936)","win":9,"draw":5,"loss":20,"for":42,"against":61,"isRemoved":true}
+][
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":17,"draw":5,"loss":4,"for":61,"against":23,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":13,"draw":7,"loss":6,"for":33,"against":26},
+{"country":"swe","name":"Helsingborgs IF","id":"Helsingborgs_IF","win":13,"draw":5,"loss":8,"for":39,"against":26},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":12,"draw":7,"loss":7,"for":36,"against":23},
+{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":13,"draw":3,"loss":10,"for":34,"against":29},
+{"country":"swe","name":"Östers IF","id":"Östers_IF","win":10,"draw":6,"loss":10,"for":37,"against":39},
+{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":9,"draw":8,"loss":9,"for":34,"against":37},
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":9,"draw":7,"loss":10,"for":31,"against":29},
+{"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":9,"draw":7,"loss":10,"for":34,"against":41},
+{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":8,"draw":7,"loss":11,"for":27,"against":30},
+{"country":"swe","name":"Umeå FC","id":"Umeå_FC","win":8,"draw":6,"loss":12,"for":35,"against":45,"isRemoved":true,"isNew":true},
+{"country":"swe","name":"Trelleborgs FF","id":"Trelleborgs_FF","win":9,"draw":3,"loss":14,"for":33,"against":48},
+{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":8,"draw":3,"loss":15,"for":28,"against":43,"isRemoved":true},
+{"country":"swe","name":"IK Oddevold","id":"IK_Oddevold","win":5,"draw":4,"loss":17,"for":20,"against":43,"isRemoved":true,"isNew":true}
 ]

@@ -193,4 +193,21 @@
 {"country":"rou","name":"Sepsi OSK","id":"Sepsi_OSK_Sfântu_Gheorghe","win":11,"draw":10,"loss":19,"for":36,"against":58,"isNew":true},
 {"country":"rou","name":"Gaz Metan Mediaș","id":"CS_Gaz_Metan_Mediaș","win":8,"draw":14,"loss":18,"for":32,"against":54},
 {"country":"rou","name":"Juventus București","id":"ASC_Daco-Getica_București","win":4,"draw":10,"loss":26,"for":21,"against":72,"isRemoved":true,"isNew":true}
+][
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":19,"draw":7,"loss":4,"for":63,"against":27,"isChampion":true},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":16,"draw":9,"loss":5,"for":47,"against":22},
+{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":15,"draw":8,"loss":7,"for":54,"against":30},
+{"country":"swe","name":"BK Häcken","id":"BK_Häcken","win":14,"draw":10,"loss":6,"for":42,"against":28},
+{"country":"swe","name":"Östersunds FK","id":"Östersunds_FK","win":13,"draw":11,"loss":6,"for":48,"against":32},
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":14,"draw":6,"loss":10,"for":45,"against":40},
+{"country":"swe","name":"IK Sirius","id":"IK_Sirius_Fotboll","win":11,"draw":7,"loss":12,"for":46,"against":51,"isReturning":true},
+{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":10,"draw":9,"loss":11,"for":53,"against":59},
+{"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":9,"draw":11,"loss":10,"for":42,"against":43},
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":9,"draw":10,"loss":11,"for":42,"against":40},
+{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":10,"draw":6,"loss":14,"for":38,"against":54},
+{"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":9,"draw":5,"loss":16,"for":30,"against":49},
+{"country":"swe","name":"GIF Sundsvall","id":"GIF_Sundsvall","win":7,"draw":10,"loss":13,"for":29,"against":46},
+{"country":"swe","name":"Jönköpings Södra IF","id":"Jönköpings_Södra_IF","win":6,"draw":12,"loss":12,"for":31,"against":46,"isRemoved":true},
+{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":5,"draw":9,"loss":16,"for":29,"against":45,"isRemoved":true,"isReturning":true},
+{"country":"swe","name":"AFC Eskilstuna","id":"AFC_Eskilstuna","win":4,"draw":8,"loss":18,"for":28,"against":55,"isRemoved":true,"isNew":true}
 ]

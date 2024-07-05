@@ -100,4 +100,11 @@
 {"country":"rou","name":"United Ploiești","id":"FC_Prahova_Ploiești","win":2,"draw":0,"loss":1,"for":5,"against":5,"isRemoved":true},
 {"country":"rou","name":"Olympia București","id":"Olympia_București","win":1,"draw":1,"loss":5,"for":11,"against":17},
 {"country":"rou","name":"Uniunea Sportivă București","id":"Uniunea_Sportivă_București","win":0,"draw":0,"loss":3,"for":2,"against":20,"isNew":true,"isRemoved":true}
+][
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":7,"draw":2,"loss":1,"for":25,"against":9,"isChampion":true,"isReturning":true},
+{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":6,"draw":1,"loss":3,"for":36,"against":14,"isReturning":true},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":6,"draw":0,"loss":4,"for":23,"against":27,"isReturning":true},
+{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":5,"draw":0,"loss":5,"for":19,"against":25,"isNew":true},
+{"country":"swe","name":"IFK Uppsala","id":"IFK_Uppsala_Fotboll","win":3,"draw":1,"loss":6,"for":22,"against":23,"isNew":true},
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":0,"draw":2,"loss":8,"for":7,"against":34,"isReturning":true}
 ]

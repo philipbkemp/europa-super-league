@@ -114,4 +114,15 @@
 {"country":"rou","name":"Colțea București","id":"Colțea_București","win":2,"draw":1,"loss":7,"for":null,"against":null,"isRemoved":true,"removedNote":"Romanian league moved to a knockout format"},
 {"country":"rou","name":"Excelsior București","id":"Excelsior_București","win":1,"draw":0,"loss":7,"for":null,"against":null,"isNew":true,"isRemoved":true,"removedNote":"Romanian league moved to a knockout format"},
 {"country":"rou","name":"Educația Fizică București","id":"Educația_Fizică_București","win":1,"draw":0,"loss":7,"for":null,"against":null,"isNew":true,"isRemoved":true,"removedNote":"Romanian league moved to a knockout format"}
+][
+{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":10,"draw":5,"loss":3,"for":27,"against":10,"isChampion":true,"isReturning":true,"isRemoved":"League not contested next season"},
+{"country":"swe","name":"GAIS","id":"GAIS","win":10,"draw":3,"loss":5,"for":47,"against":25,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":9,"draw":4,"loss":5,"for":35,"against":27,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":9,"draw":4,"loss":5,"for":23,"against":27,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":8,"draw":4,"loss":6,"for":39,"against":21,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"swe","name":"IFK Malmö","id":"IFK_Malmö_Fotboll","win":9,"draw":1,"loss":8,"for":47,"against":47,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":6,"draw":4,"loss":8,"for":24,"against":33,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":5,"draw":3,"loss":10,"for":30,"against":38,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":4,"draw":3,"loss":11,"for":23,"against":45,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":2,"draw":5,"loss":11,"for":19,"against":51,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"}
 ]

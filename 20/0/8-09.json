@@ -197,4 +197,21 @@
 {"country":"rou","name":"Farul Constanța","id":"FCV_Farul_Constanța","win":8,"draw":6,"loss":20,"for":27,"against":56,"isRemoved":true},
 {"country":"rou","name":"Otopeni","id":"CS_Otopeni","win":5,"draw":7,"loss":22,"for":32,"against":54,"isRemoved":true,"isNew":true},
 {"country":"rou","name":"Gloria Buzău","id":"FC_Gloria_Buzău","win":4,"draw":5,"loss":25,"for":23,"against":62,"isRemoved":true}
+][
+{"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":20,"draw":4,"loss":6,"for":70,"against":32,"isChampion":true},
+{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":19,"draw":6,"loss":5,"for":49,"against":18},
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":15,"draw":9,"loss":6,"for":50,"against":26},
+{"country":"swe","name":"Helsingborgs IF","id":"Helsingborgs_IF","win":16,"draw":6,"loss":8,"for":54,"against":41},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":12,"draw":9,"loss":9,"for":36,"against":32},
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":12,"draw":8,"loss":10,"for":51,"against":46},
+{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":11,"draw":9,"loss":10,"for":36,"against":39},
+{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":11,"draw":8,"loss":11,"for":41,"against":38},
+{"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":11,"draw":8,"loss":11,"for":44,"against":51},
+{"country":"swe","name":"Trelleborgs FF","id":"Trelleborgs_FF","win":9,"draw":13,"loss":8,"for":33,"against":31},
+{"country":"swe","name":"GAIS","id":"GAIS","win":9,"draw":11,"loss":10,"for":30,"against":36},
+{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":9,"draw":9,"loss":12,"for":30,"against":41},
+{"country":"swe","name":"Gefle IF","id":"Gefle_IF","win":7,"draw":7,"loss":16,"for":33,"against":42},
+{"country":"swe","name":"Ljungskile SK","id":"Ljungskile_SK","win":6,"draw":6,"loss":18,"for":23,"against":52,"isRemoved":true,"isReturning":true},
+{"country":"swe","name":"GIF Sundsvall","id":"GIF_Sundsvall","win":5,"draw":7,"loss":18,"for":26,"against":54,"isRemoved":true,"isReturning":true},
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":4,"draw":8,"loss":18,"for":31,"against":58,"isRemoved":true,"isReturning":true}
 ]

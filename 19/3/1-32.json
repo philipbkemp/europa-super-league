@@ -121,4 +121,17 @@
 {"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":2,"draw":0,"loss":1,"for":13,"against":3},
 {"country":"mlt","name":"Sliema Hotspurs","id":"sliema_hotspurs","win":1,"draw":0,"loss":2,"for":4,"against":11,"isNew":true,"isRemoved":true},
 {"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":0,"draw":1,"loss":2,"for":2,"against":10}
+][
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":12,"draw":9,"loss":1,"for":58,"against":33,"isChampion":true},
+{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":13,"draw":5,"loss":4,"for":67,"against":37},
+{"country":"swe","name":"GAIS","id":"GAIS","win":11,"draw":8,"loss":3,"for":45,"against":29},
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":11,"draw":4,"loss":7,"for":47,"against":34},
+{"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":9,"draw":5,"loss":8,"for":50,"against":44},
+{"country":"swe","name":"IK Sleipner","id":"IK_Sleipner","win":8,"draw":6,"loss":8,"for":41,"against":35},
+{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":8,"draw":6,"loss":8,"for":38,"against":35},
+{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":9,"draw":3,"loss":10,"for":45,"against":44},
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":6,"draw":4,"loss":12,"for":48,"against":68,"isNew":true},
+{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":4,"draw":8,"loss":10,"for":35,"against":58},
+{"country":"swe","name":"IFK Malmö","id":"IFK_Malmö_Fotboll","win":4,"draw":6,"loss":12,"for":32,"against":55,"isRemoved":true},
+{"country":"swe","name":"Hallstahammar","id":"Hallstahammars_SK","win":2,"draw":6,"loss":14,"for":29,"against":63,"isRemoved":true,"isNew":true}
 ]

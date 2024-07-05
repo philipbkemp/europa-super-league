@@ -193,4 +193,17 @@
 {"country":"rou","name":"CSMS Iași","id":"FC_Politehnica_Iași_(1945)","win":10,"draw":2,"loss":14,"for":42,"against":47},
 {"country":"rou","name":"Știința Timișoara","id":"FC_Politehnica_Timișoara","win":8,"draw":6,"loss":12,"for":31,"against":42,"isRemoved":true},
 {"country":"rou","name":"Siderurgistul Galați","id":"Siderurgistul_Galați","win":6,"draw":4,"loss":16,"for":21,"against":49,"isRemoved":true,"isNew":true}
+][
+{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":13,"draw":5,"loss":4,"for":46,"against":20,"isChampion":true,"isRemoved":true,"removedNote":"Single year season moved European Qualifying season"},
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":13,"draw":5,"loss":4,"for":45,"against":20,"isRemoved":true,"removedNote":"Single year season moved European Qualifying season"},
+{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":14,"draw":3,"loss":5,"for":54,"against":36,"isRemoved":true,"removedNote":"Single year season moved European Qualifying season"},
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":11,"draw":6,"loss":5,"for":55,"against":28,"isRemoved":true,"removedNote":"Single year season moved European Qualifying season"},
+{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":12,"draw":2,"loss":8,"for":42,"against":32,"isRemoved":true,"removedNote":"Single year season moved European Qualifying season"},
+{"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":9,"draw":4,"loss":9,"for":40,"against":47,"isRemoved":true,"removedNote":"Single year season moved European Qualifying season"},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":8,"draw":3,"loss":11,"for":38,"against":38,"isRemoved":true,"removedNote":"Single year season moved European Qualifying season"},
+{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":7,"draw":5,"loss":10,"for":24,"against":35,"isRemoved":true,"removedNote":"Single year season moved European Qualifying season"},
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":8,"draw":2,"loss":12,"for":31,"against":46,"isRemoved":true,"removedNote":"Single year season moved European Qualifying season"},
+{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":7,"draw":3,"loss":12,"for":42,"against":53,"isRemoved":true,"removedNote":"Single year season moved European Qualifying season"},
+{"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":4,"draw":6,"loss":12,"for":24,"against":49,"isReturning":true,"isRemoved":true,"removedNote":"Single year season moved European Qualifying season"},
+{"country":"swe","name":"GAIS","id":"GAIS","win":2,"draw":4,"loss":16,"for":21,"against":58,"isReturning":true,"isRemoved":true,"removedNote":"Single year season moved European Qualifying season"}
 ]

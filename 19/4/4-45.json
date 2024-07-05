@@ -46,4 +46,17 @@
 {"country":"mlt","name":"Sliema Athletics","id":"Sliema_Wanderers_F.C.","win":1,"draw":1,"loss":1,"for":10,"against":5,"isReturning":true},
 {"country":"mlt","name":"Floriana F.C.","id":"Floriana_F.C.","win":1,"draw":1,"loss":1,"for":3,"against":5,"isReturning":true},
 {"country":"mlt","name":"Melita F.C.","id":"Melita_F.C.","win":1,"draw":0,"loss":2,"for":4,"against":11,"isReturning":true}
+][
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":17,"draw":3,"loss":2,"for":71,"against":23,"isChampion":true},
+{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":13,"draw":6,"loss":3,"for":52,"against":31},
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":12,"draw":4,"loss":6,"for":58,"against":31},
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":12,"draw":3,"loss":7,"for":57,"against":43},
+{"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":10,"draw":5,"loss":7,"for":35,"against":32},
+{"country":"swe","name":"GAIS","id":"GAIS","win":9,"draw":3,"loss":10,"for":35,"against":38},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":7,"draw":5,"loss":10,"for":38,"against":38},
+{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":8,"draw":2,"loss":12,"for":33,"against":58},
+{"country":"swe","name":"IS Halmia","id":"IS_Halmia","win":7,"draw":2,"loss":13,"for":31,"against":49},
+{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":5,"draw":4,"loss":13,"for":35,"against":56},
+{"country":"swe","name":"Ludvika","id":"Ludvika_FK","win":6,"draw":2,"loss":14,"for":30,"against":56,"isRemoved":true,"isNew":true},
+{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":4,"draw":5,"loss":13,"for":38,"against":58,"isRemoved":true,"isReturning":true}
 ]

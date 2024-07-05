@@ -195,4 +195,21 @@
 {"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":10,"draw":9,"loss":20,"for":32,"against":53,"isReturning":true},
 {"country":"rou","name":"Voluntari","id":"FC_Voluntari","win":8,"draw":14,"loss":17,"for":42,"against":59,"isRemoved":true},
 {"country":"rou","name":"Botoșani","id":"FC_Botoșani","win":7,"draw":14,"loss":18,"for":41,"against":63}
+][
+{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":20,"draw":4,"loss":6,"for":62,"against":27,"isChampion":true},
+{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":20,"draw":4,"loss":6,"for":59,"against":26},
+{"country":"swe","name":"BK Häcken","id":"BK_Häcken","win":18,"draw":3,"loss":9,"for":69,"against":39},
+{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":15,"draw":5,"loss":10,"for":41,"against":36},
+{"country":"swe","name":"IFK Värnamo","id":"IFK_Värnamo","win":14,"draw":3,"loss":13,"for":37,"against":34},
+{"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":13,"draw":6,"loss":11,"for":35,"against":40},
+{"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":11,"draw":11,"loss":8,"for":41,"against":39},
+{"country":"swe","name":"IK Sirius","id":"IK_Sirius_Fotboll","win":12,"draw":6,"loss":12,"for":51,"against":44},
+{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":12,"draw":5,"loss":13,"for":45,"against":45},
+{"country":"swe","name":"Mjällby AIF","id":"Mjällby_AIF","win":12,"draw":5,"loss":13,"for":32,"against":34},
+{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":9,"draw":9,"loss":12,"for":34,"against":38},
+{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":9,"draw":9,"loss":12,"for":30,"against":44,"isReturning":true},
+{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":8,"draw":10,"loss":12,"for":33,"against":37},
+{"country":"swe","name":"IF Brommapojkarna","id":"IF_Brommapojkarna","win":10,"draw":3,"loss":17,"for":40,"against":53,"isReturning":true},
+{"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":7,"draw":5,"loss":18,"for":30,"against":62,"isRemoved":true},
+{"country":"swe","name":"Varbergs BoIS","id":"Varbergs_BoIS","win":3,"draw":6,"loss":21,"for":26,"against":67,"isRemoved":true}
 ]
