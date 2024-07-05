@@ -169,4 +169,19 @@
 {"country":"swe","name":"GAIS","id":"GAIS","win":7,"draw":6,"loss":9,"for":35,"against":42,"isRemoved":true},
 {"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":7,"draw":3,"loss":12,"for":31,"against":53,"isRemoved":true},
 {"country":"swe","name":"Sandvikens AIK","id":"Sandvikens_AIK_Fotboll","win":2,"draw":1,"loss":19,"for":24,"against":72,"isRemoved":true,"isNew":true}
+][
+{"country":"aut","name":"First Vienna","id":"First_Vienna_FC","win":17,"draw":5,"loss":4,"for":64,"against":26,"isChampion":true},
+{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":17,"draw":5,"loss":4,"for":75,"against":40},
+{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":14,"draw":8,"loss":4,"for":87,"against":47},
+{"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":16,"draw":2,"loss":8,"for":86,"against":53},
+{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":13,"draw":7,"loss":6,"for":68,"against":49},
+{"country":"aut","name":"Admira Wien","id":"SK_Admira_Wien","win":10,"draw":7,"loss":9,"for":54,"against":51},
+{"country":"aut","name":"Kapfenberger SV","id":"Kapfenberger_SV","win":11,"draw":5,"loss":10,"for":55,"against":57,"isReturning":true},
+{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":8,"draw":9,"loss":9,"for":45,"against":47},
+{"country":"aut","name":"Austria Salzburg","id":"SV_Austria_Salzburg","win":7,"draw":8,"loss":11,"for":43,"against":55},
+{"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":10,"draw":1,"loss":15,"for":57,"against":55},
+{"country":"aut","name":"FC Stadlau","id":"FC_Stadlau","win":7,"draw":6,"loss":13,"for":29,"against":48,"isNew":true},
+{"country":"aut","name":"FC Wien","id":"FC_Wien","win":6,"draw":5,"loss":15,"for":39,"against":77},
+{"country":"aut","name":"Linzer ASK","id":"LASK","win":7,"draw":2,"loss":17,"for":46,"against":63,"isRemoved":true},
+{"country":"aut","name":"Schwarz-Weiß Bregenz","id":"Schwarz-Weiß_Bregenz","win":2,"draw":4,"loss":20,"for":13,"against":93,"isNew":true,"isRemoved":true}
 ]

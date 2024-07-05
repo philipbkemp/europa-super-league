@@ -171,4 +171,19 @@
 {"country":"swe","name":"Västerås SK","id":"Västerås_SK_Fotboll","win":6,"draw":3,"loss":13,"for":30,"against":67,"isNew":true},
 {"country":"swe","name":"Norrby IF","id":"Norrby_IF","win":3,"draw":6,"loss":13,"for":30,"against":52,"isRemoved":true,"isNew":true},
 {"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":3,"draw":6,"loss":13,"for":24,"against":47,"isRemoved":true}
+][
+{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":20,"draw":3,"loss":3,"for":93,"against":37,"isChampion":true},
+{"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":19,"draw":3,"loss":4,"for":85,"against":33},
+{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":18,"draw":4,"loss":4,"for":96,"against":41},
+{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":16,"draw":3,"loss":7,"for":78,"against":47},
+{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":12,"draw":5,"loss":9,"for":50,"against":51},
+{"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":10,"draw":8,"loss":8,"for":68,"against":61},
+{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":11,"draw":5,"loss":10,"for":59,"against":63},
+{"country":"aut","name":"SV Austria Salzburg","id":"SV_Austria_Salzburg","win":9,"draw":5,"loss":12,"for":50,"against":65},
+{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":7,"draw":4,"loss":15,"for":54,"against":61},
+{"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":5,"draw":8,"loss":13,"for":43,"against":68,"isReturning":true},
+{"country":"aut","name":"Kapfenberger SV","id":"Kapfenberger_SV","win":7,"draw":3,"loss":16,"for":39,"against":67},
+{"country":"aut","name":"FC Stadlau","id":"FC_Stadlau","win":5,"draw":5,"loss":16,"for":43,"against":74},
+{"country":"aut","name":"FC Wien","id":"FC_Wien","win":5,"draw":5,"loss":16,"for":31,"against":68,"isRemoved":true},
+{"country":"aut","name":"ESV Austria Graz","id":"ESV_Austria_Graz","win":7,"draw":1,"loss":18,"for":25,"against":78,"isNew":true,"isRemoved":true}
 ]

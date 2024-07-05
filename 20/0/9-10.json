@@ -212,4 +212,15 @@
 {"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":8,"draw":5,"loss":17,"for":24,"against":49},
 {"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":6,"draw":7,"loss":17,"for":27,"against":49,"isRemoved":true,"isReturning":true},
 {"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":6,"draw":4,"loss":20,"for":22,"against":44,"isRemoved":true}
+][
+{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":22,"draw":10,"loss":4,"for":68,"against":27,"isChampion":true},
+{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":23,"draw":6,"loss":7,"for":60,"against":34},
+{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":21,"draw":10,"loss":5,"for":80,"against":38},
+{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":16,"draw":10,"loss":10,"for":50,"against":36},
+{"country":"aut","name":"Wiener Neustadt","id":"1._Wiener_Neustädter_SC_(2008)","win":13,"draw":8,"loss":15,"for":54,"against":58,"isNew":true},
+{"country":"aut","name":"Mattersburg","id":"SV_Mattersburg","win":12,"draw":5,"loss":19,"for":45,"against":71},
+{"country":"aut","name":"LASK Linz","id":"LASK","win":9,"draw":13,"loss":14,"for":59,"against":70},
+{"country":"aut","name":"Ried","id":"SV_Ried","win":10,"draw":8,"loss":18,"for":39,"against":47},
+{"country":"aut","name":"Kapfenberger SV","id":"Kapfenberger_SV","win":8,"draw":9,"loss":19,"for":44,"against":67},
+{"country":"aut","name":"Austria Kärnten","id":"SK_Austria_Kärnten","win":2,"draw":9,"loss":25,"for":29,"against":80,"isRemoved":true}
 ]

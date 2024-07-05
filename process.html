@@ -46,16 +46,27 @@
 			}
 		}
 
+		uniqueTeams = [];
+
 		for ( j=0 ; j!==theData.length ; j++ ) {
 			theTeamData.previous = theTeamData.previous.filter(p=>{return p !== theData[j].id});
+			if ( ! uniqueTeams.includes(theData[j].id) ) {
+				uniqueTeams.push(theData[j].id);
+			}
 		}
 		for ( k=0 ; k!==theTeamData.previous.length ; k++ ) {
 			console.error("Expected to see " + theTeamData.previous[k] + " this season");
 		}
 
-		theTeamData.previous = thisSeasonTeams;
+		if ( uniqueTeams.length !== theData.length ) {
+			console.error("Duplicate teams",theData.length - uniqueTeams.length);
+		} else {
 
-		document.getElementById("json-out").value = JSON.stringify(theData).replaceAll("{","\n{").replaceAll("]","\n]");
-		document.getElementById("json-teams").value = JSON.stringify(theTeamData);
+			theTeamData.previous = thisSeasonTeams;
+
+			document.getElementById("json-out").value = JSON.stringify(theData).replaceAll("{","\n{").replaceAll("]","\n]");
+			document.getElementById("json-teams").value = JSON.stringify(theTeamData);
+
+		}
 	});
 </script>

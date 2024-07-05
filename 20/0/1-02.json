@@ -202,4 +202,15 @@
 {"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":7,"draw":8,"loss":11,"for":29,"against":40},
 {"country":"swe","name":"BK Häcken","id":"BK_Häcken","win":5,"draw":9,"loss":12,"for":35,"against":50,"isRemoved":true},
 {"country":"swe","name":"Trelleborgs FF","id":"Trelleborgs_FF","win":3,"draw":5,"loss":18,"for":25,"against":62,"isRemoved":true}
+][
+{"country":"aut","name":"Tirol Innsbruck","id":"FC_Tirol_Innsbruck","win":23,"draw":6,"loss":7,"for":63,"against":20,"isChampion":true,"isRemoved":true,"removedNote":"Failed to receive a top flight license"},
+{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":18,"draw":11,"loss":7,"for":68,"against":42},
+{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":17,"draw":12,"loss":7,"for":69,"against":39},
+{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":14,"draw":11,"loss":11,"for":53,"against":38},
+{"country":"aut","name":"Kärnten","id":"FC_Kärnten","win":14,"draw":8,"loss":14,"for":40,"against":52,"isReturning":true},
+{"country":"aut","name":"Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":13,"draw":10,"loss":13,"for":42,"against":40},
+{"country":"aut","name":"Bregenz","id":"Schwarz-Weiß_Bregenz","win":12,"draw":9,"loss":15,"for":51,"against":70},
+{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":11,"draw":10,"loss":15,"for":37,"against":49},
+{"country":"aut","name":"Ried","id":"SV_Ried","win":9,"draw":9,"loss":18,"for":37,"against":54},
+{"country":"aut","name":"Admira Wacker Mödling","id":"FC_Admira_Wacker_Mödling","win":3,"draw":6,"loss":27,"for":25,"against":81}
 ]

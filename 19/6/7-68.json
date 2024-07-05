@@ -210,4 +210,19 @@
 {"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":6,"draw":5,"loss":11,"for":40,"against":46},
 {"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":3,"draw":4,"loss":15,"for":23,"against":40,"isRemoved":true,"isReturning":true},
 {"country":"swe","name":"IFK Holmsund","id":"IFK_Holmsund","win":3,"draw":1,"loss":18,"for":24,"against":79,"isRemoved":true,"isNew":true}
+][
+{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":21,"draw":2,"loss":3,"for":75,"against":24,"isChampion":true},
+{"country":"aut","name":"FC Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":15,"draw":7,"loss":4,"for":45,"against":27},
+{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":15,"draw":5,"loss":6,"for":46,"against":24},
+{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":11,"draw":9,"loss":6,"for":41,"against":30},
+{"country":"aut","name":"Austria Klagenfurt","id":"FC_Kärnten","win":11,"draw":7,"loss":8,"for":31,"against":36},
+{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":11,"draw":5,"loss":10,"for":35,"against":37},
+{"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":9,"draw":7,"loss":10,"for":38,"against":47},
+{"country":"aut","name":"Linzer ASK","id":"LASK","win":8,"draw":7,"loss":11,"for":40,"against":37},
+{"country":"aut","name":"SK Admira Wien Energie","id":"SK_Admira_Wien","win":5,"draw":11,"loss":10,"for":41,"against":47},
+{"country":"aut","name":"SC Eisenstadt","id":"SC_Eisenstadt","win":8,"draw":5,"loss":13,"for":26,"against":33,"isNew":true},
+{"country":"aut","name":"Schwarz-Weiß Bregenz","id":"Schwarz-Weiß_Bregenz","win":8,"draw":5,"loss":13,"for":27,"against":41},
+{"country":"aut","name":"SV Austria Salzburg","id":"SV_Austria_Salzburg","win":7,"draw":6,"loss":13,"for":34,"against":43,"isReturning":true},
+{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":7,"draw":1,"loss":18,"for":27,"against":50,"isRemoved":true},
+{"country":"aut","name":"WSG Radenthein","id":"WSG_Radenthein","win":5,"draw":5,"loss":16,"for":30,"against":60,"isNew":true,"isRemoved":true}
 ]

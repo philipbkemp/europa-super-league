@@ -189,4 +189,19 @@
 {"country":"swe","name":"Sandvikens IF","id":"Sandvikens_IF","win":9,"draw":8,"loss":16,"for":50,"against":61},
 {"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":8,"draw":8,"loss":17,"for":45,"against":77,"isRemoved":true,"isReturning":true},
 {"country":"swe","name":"Motala AIF","id":"Motala_AIF","win":6,"draw":7,"loss":20,"for":35,"against":68,"isRemoved":true,"isNew":true}
+][
+{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":20,"draw":5,"loss":1,"for":100,"against":35,"isChampion":true},
+{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":20,"draw":3,"loss":3,"for":93,"against":39},
+{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":12,"draw":6,"loss":8,"for":57,"against":39},
+{"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":10,"draw":8,"loss":8,"for":54,"against":39},
+{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":10,"draw":7,"loss":9,"for":63,"against":46},
+{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":10,"draw":6,"loss":10,"for":57,"against":51},
+{"country":"aut","name":"Kapfenberger SV","id":"Kapfenberger_SV","win":10,"draw":6,"loss":10,"for":42,"against":62},
+{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":11,"draw":3,"loss":12,"for":63,"against":52},
+{"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":10,"draw":2,"loss":14,"for":52,"against":65},
+{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":8,"draw":6,"loss":12,"for":53,"against":76},
+{"country":"aut","name":"SC Olympia 33","id":"SC_Olympia_33","win":7,"draw":7,"loss":12,"for":34,"against":53,"isNew":true},
+{"country":"aut","name":"Kremser SC","id":"Kremser_SC","win":8,"draw":4,"loss":14,"for":39,"against":67},
+{"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":7,"draw":3,"loss":16,"for":42,"against":81,"isRemoved":true},
+{"country":"aut","name":"FC Wien","id":"FC_Wien","win":3,"draw":6,"loss":17,"for":26,"against":70,"isReturning":true,"isRemoved":true}
 ]

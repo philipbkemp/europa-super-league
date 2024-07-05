@@ -59,4 +59,15 @@
 {"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":5,"draw":4,"loss":13,"for":35,"against":56},
 {"country":"swe","name":"Ludvika","id":"Ludvika_FK","win":6,"draw":2,"loss":14,"for":30,"against":56,"isRemoved":true,"isNew":true},
 {"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":4,"draw":5,"loss":13,"for":38,"against":58,"isRemoved":true,"isReturning":true}
+][
+{"country":"aut-naz","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":6,"draw":2,"loss":1,"for":35,"against":12,"note":"Would have been champions, but the season was suspended as Austria regained independence from Nazi Gemany"},
+{"country":"aut-naz","name":"SC Wacker Wien","id":"SC_Wacker","win":6,"draw":2,"loss":1,"for":26,"against":14},
+{"country":"aut-naz","name":"First Vienna FC","id":"First_Vienna_FC","win":6,"draw":1,"loss":2,"for":35,"against":18},
+{"country":"aut-naz","name":"FC Wien","id":"FC_Wien","win":5,"draw":1,"loss":3,"for":21,"against":8},
+{"country":"aut-naz","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":5,"draw":1,"loss":3,"for":18,"against":13},
+{"country":"aut-naz","name":"SK Admira Wien","id":"SK_Admira_Wien","win":4,"draw":1,"loss":4,"for":17,"against":20},
+{"country":"aut-naz","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":2,"draw":1,"loss":6,"for":14,"against":26},
+{"country":"aut-naz","name":"Wiener AC","id":"Wiener_AC","win":2,"draw":1,"loss":6,"for":16,"against":34},
+{"country":"aut-naz","name":"FK Austria Wien","id":"FK_Austria_Wien","win":2,"draw":0,"loss":7,"for":15,"against":19},
+{"country":"aut-naz","name":"SC Rapid Oberlaa","id":"SC_Rapid_Oberlaa","win":1,"draw":0,"loss":8,"for":8,"against":41,"isNew":true}
 ]

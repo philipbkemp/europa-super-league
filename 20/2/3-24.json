@@ -212,4 +212,17 @@
 {"country":"swe","name":"IF Brommapojkarna","id":"IF_Brommapojkarna","win":10,"draw":3,"loss":17,"for":40,"against":53,"isReturning":true},
 {"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":7,"draw":5,"loss":18,"for":30,"against":62,"isRemoved":true},
 {"country":"swe","name":"Varbergs BoIS","id":"Varbergs_BoIS","win":3,"draw":6,"loss":21,"for":26,"against":67,"isRemoved":true}
+][
+{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":20,"draw":7,"loss":5,"for":74,"against":29},
+{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":19,"draw":10,"loss":3,"for":56,"against":23,"isChampion":true},
+{"country":"aut","name":"LASK","id":"LASK","win":14,"draw":10,"loss":8,"for":43,"against":33},
+{"country":"aut","name":"Austria Klagenfurt","id":"SK_Austria_Klagenfurt_(2007)","win":9,"draw":12,"loss":11,"for":40,"against":50},
+{"country":"aut","name":"Hartberg","id":"TSV_Hartberg","win":12,"draw":9,"loss":11,"for":49,"against":52},
+{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":11,"draw":12,"loss":9,"for":47,"against":35},
+{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":12,"draw":10,"loss":10,"for":35,"against":34},
+{"country":"aut","name":"Wolfsberger AC","id":"Wolfsberger_AC","win":12,"draw":10,"loss":10,"for":41,"against":39},
+{"country":"aut","name":"SCR Altach","id":"SC_Rheindorf_Altach","win":6,"draw":13,"loss":13,"for":27,"against":40},
+{"country":"aut","name":"Blau-Weiß Linz","id":"FC_Blau-Weiß_Linz","win":7,"draw":11,"loss":14,"for":33,"against":48,"isNew":true},
+{"country":"aut","name":"WSG Tirol","id":"WSG_Tirol","win":7,"draw":5,"loss":20,"for":29,"against":55},
+{"country":"aut","name":"Austria Lustenau","id":"SC_Austria_Lustenau","win":4,"draw":9,"loss":19,"for":22,"against":58,"isRemoved":true}
 ]

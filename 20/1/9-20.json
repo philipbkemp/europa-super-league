@@ -208,4 +208,17 @@
 {"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":4,"draw":11,"loss":15,"for":22,"against":47},
 {"country":"swe","name":"GIF Sundsvall","id":"GIF_Sundsvall","win":4,"draw":8,"loss":18,"for":31,"against":50,"isRemoved":true},
 {"country":"swe","name":"AFC Eskilstuna","id":"AFC_Eskilstuna","win":4,"draw":8,"loss":18,"for":23,"against":55,"isRemoved":true,"isReturning":true}
+][
+{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":22,"draw":8,"loss":2,"for":110,"against":34,"isChampion":true},
+{"country":"aut","name":"LASK","id":"LASK","win":20,"draw":4,"loss":8,"for":67,"against":37,"deduct":-8,"deductReason":"Violating pandemic restrictions"},
+{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":17,"draw":7,"loss":8,"for":64,"against":43},
+{"country":"aut","name":"Wolfsberger AC","id":"Wolfsberger_AC","win":15,"draw":9,"loss":8,"for":69,"against":43},
+{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":10,"draw":5,"loss":17,"for":46,"against":60},
+{"country":"aut","name":"Hartberg","id":"TSV_Hartberg","win":12,"draw":6,"loss":14,"for":52,"against":74},
+{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":12,"draw":11,"loss":9,"for":49,"against":47},
+{"country":"aut","name":"Rheindorf Altach","id":"SC_Rheindorf_Altach","win":10,"draw":8,"loss":14,"for":45,"against":53},
+{"country":"aut","name":"Admira Wacker Mödling","id":"FC_Admira_Wacker_Mödling","win":6,"draw":10,"loss":16,"for":29,"against":57},
+{"country":"aut","name":"WSG Tirol","id":"WSG_Tirol","win":6,"draw":8,"loss":18,"for":34,"against":66,"isReturning":true},
+{"country":"aut","name":"Mattersburg","id":"SV_Mattersburg","win":8,"draw":6,"loss":18,"for":39,"against":64,"isRemoved":true,"removedNote":"Dissolved mid-season"},
+{"country":"aut","name":"St. Pölten","id":"SKN_St._Pölten","win":8,"draw":10,"loss":14,"for":39,"against":65}
 ]

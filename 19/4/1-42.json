@@ -86,4 +86,14 @@
 {"country":"swe","name":"Sandvikens IF","id":"Sandvikens_IF","win":6,"draw":3,"loss":13,"for":27,"against":45},
 {"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":5,"draw":4,"loss":13,"for":22,"against":47,"isRemoved":true},
 {"country":"swe","name":"Reymersholm","id":"Reymersholms_IK","win":4,"draw":4,"loss":14,"for":27,"against":57,"isRemoved":true,"isNew":true}
+][
+{"country":"aut-naz","name":"First Vienna FC","id":"First_Vienna_FC","win":11,"draw":3,"loss":2,"for":51,"against":26,"isChampion":true},
+{"country":"aut-naz","name":"FC Wien","id":"FC_Wien","win":8,"draw":5,"loss":3,"for":45,"against":23},
+{"country":"aut-naz","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":8,"draw":3,"loss":5,"for":39,"against":30},
+{"country":"aut-naz","name":"FK Austria Wien","id":"FK_Austria_Wien","win":5,"draw":7,"loss":4,"for":34,"against":25},
+{"country":"aut-naz","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":7,"draw":3,"loss":6,"for":39,"against":50},
+{"country":"aut-naz","name":"SC Wacker","id":"SC_Wacker","win":7,"draw":2,"loss":7,"for":42,"against":39},
+{"country":"aut-naz","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":6,"draw":3,"loss":7,"for":43,"against":38},
+{"country":"aut-naz","name":"SK Admira Wien","id":"SK_Admira_Wien","win":5,"draw":3,"loss":8,"for":43,"against":40,"isRemoved":true},
+{"country":"aut-naz","name":"Post SV Wien","id":"Post_SV_Wien","win":0,"draw":1,"loss":15,"for":10,"against":75,"isNew":true,"isRemoved":true}
 ]

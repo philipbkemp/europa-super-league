@@ -216,4 +216,15 @@
 {"country":"swe","name":"Gefle IF","id":"Gefle_IF","win":8,"draw":8,"loss":14,"for":34,"against":42},
 {"country":"swe","name":"Mjällby AIF","id":"Mjällby_AIF","win":8,"draw":5,"loss":17,"for":29,"against":47,"isRemoved":true},
 {"country":"swe","name":"IF Brommapojkarna","id":"IF_Brommapojkarna","win":2,"draw":6,"loss":22,"for":28,"against":69,"isRemoved":true}
+][
+{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":22,"draw":7,"loss":7,"for":99,"against":42,"isChampion":true},
+{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":19,"draw":10,"loss":7,"for":68,"against":38},
+{"country":"aut","name":"SCR Altach","id":"SC_Rheindorf_Altach","win":17,"draw":8,"loss":11,"for":50,"against":49,"isReturning":true},
+{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":16,"draw":10,"loss":10,"for":57,"against":41},
+{"country":"aut","name":"Wolfsberger AC","id":"Wolfsberger_AC","win":16,"draw":4,"loss":16,"for":44,"against":50},
+{"country":"aut","name":"Ried","id":"SV_Ried","win":12,"draw":8,"loss":16,"for":49,"against":51},
+{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":10,"draw":13,"loss":13,"for":45,"against":51},
+{"country":"aut","name":"Grödig","id":"SV_Grödig","win":10,"draw":7,"loss":19,"for":46,"against":65},
+{"country":"aut","name":"Admira Wacker","id":"FC_Admira_Wacker_Mödling","win":7,"draw":13,"loss":16,"for":32,"against":61},
+{"country":"aut","name":"Wiener Neustadt","id":"1._Wiener_Neustädter_SC_(2008)","win":7,"draw":8,"loss":21,"for":37,"against":79,"isRemoved":true}
 ]

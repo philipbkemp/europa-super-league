@@ -236,4 +236,15 @@
 {"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":6,"draw":10,"loss":10,"for":30,"against":35},
 {"country":"swe","name":"IFK Sundsvall","id":"IFK_Sundsvall","win":5,"draw":10,"loss":11,"for":32,"against":43,"isRemoved":true},
 {"country":"swe","name":"Derby","id":"BK_Derby","win":3,"draw":6,"loss":17,"for":18,"against":53,"isRemoved":true,"isNew":true}
+][
+{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":23,"draw":10,"loss":3,"for":77,"against":34,"isChampion":true},
+{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":16,"draw":10,"loss":10,"for":76,"against":43},
+{"country":"aut","name":"FC Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":15,"draw":9,"loss":12,"for":49,"against":34},
+{"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":13,"draw":12,"loss":11,"for":51,"against":54},
+{"country":"aut","name":"VÖEST Linz","id":"VÖEST_Linz","win":10,"draw":13,"loss":13,"for":45,"against":49},
+{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":10,"draw":13,"loss":13,"for":44,"against":49},
+{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":12,"draw":8,"loss":16,"for":34,"against":54},
+{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":8,"draw":15,"loss":13,"for":47,"against":61,"isReturning":true},
+{"country":"aut","name":"FC Admira/Wacker","id":"FC_Admira_Wacker_Mödling","win":8,"draw":12,"loss":16,"for":45,"against":67},
+{"country":"aut","name":"Linzer ASK","id":"LASK","win":9,"draw":10,"loss":17,"for":35,"against":58,"isRemoved":true}
 ]

@@ -212,4 +212,21 @@
 {"country":"swe","name":"Gefle IF","id":"Gefle_IF","win":4,"draw":5,"loss":13,"for":21,"against":37,"isReturning":true},
 {"country":"swe","name":"Mjällby AIF","id":"Mjällby_AIF","win":3,"draw":7,"loss":12,"for":18,"against":44,"isRemoved":true,"isReturning":true},
 {"country":"swe","name":"BK Häcken","id":"BK_Häcken","win":2,"draw":8,"loss":12,"for":16,"against":41,"isRemoved":true,"isNew":true}
+][
+{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":21,"draw":5,"loss":4,"for":85,"against":29,"isChampion":true},
+{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":19,"draw":9,"loss":2,"for":71,"against":18},
+{"country":"aut","name":"Linzer ASK","id":"LASK","win":17,"draw":8,"loss":5,"for":54,"against":25},
+{"country":"aut","name":"FC Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":13,"draw":11,"loss":6,"for":54,"against":31},
+{"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":15,"draw":7,"loss":8,"for":52,"against":43},
+{"country":"aut","name":"FC Admira/Wacker","id":"FC_Admira_Wacker_Mödling","win":12,"draw":12,"loss":6,"for":47,"against":36},
+{"country":"aut","name":"Austria Klagenfurt","id":"FC_Kärnten","win":12,"draw":10,"loss":8,"for":55,"against":38},
+{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":13,"draw":6,"loss":11,"for":45,"against":37},
+{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":10,"draw":7,"loss":13,"for":53,"against":52},
+{"country":"aut","name":"SV Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":10,"draw":7,"loss":13,"for":39,"against":46},
+{"country":"aut","name":"SC Eisenstadt","id":"SC_Eisenstadt","win":9,"draw":7,"loss":14,"for":39,"against":49},
+{"country":"aut","name":"VÖEST Linz","id":"VÖEST_Linz","win":8,"draw":9,"loss":13,"for":35,"against":47},
+{"country":"aut","name":"Favoritner AC","id":"Favoritner_AC","win":8,"draw":9,"loss":13,"for":35,"against":52,"isReturning":true},
+{"country":"aut","name":"SV Sankt Veit","id":"FC_St._Veit","win":7,"draw":7,"loss":16,"for":37,"against":59,"isNew":true,"isRemoved":true},
+{"country":"aut","name":"Union Wels","id":"Union_Wels","win":4,"draw":6,"loss":20,"for":22,"against":69,"isRemoved":true},
+{"country":"aut","name":"SC Neusiedl","id":"SC_Neusiedl_am_See_1919","win":1,"draw":2,"loss":27,"for":10,"against":102,"isRemoved":true}
 ]

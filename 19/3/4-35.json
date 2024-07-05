@@ -161,4 +161,17 @@
 {"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":7,"draw":4,"loss":11,"for":37,"against":52},
 {"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":5,"draw":5,"loss":12,"for":40,"against":49,"isRemoved":true},
 {"country":"swe","name":"Gefle IF","id":"Gefle_IF","win":2,"draw":4,"loss":16,"for":37,"against":79,"isRemoved":true}
+][
+{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":18,"draw":4,"loss":0,"for":95,"against":30,"isChampion":true},
+{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":15,"draw":4,"loss":3,"for":74,"against":27},
+{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":11,"draw":5,"loss":6,"for":36,"against":25},
+{"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":8,"draw":6,"loss":8,"for":48,"against":55},
+{"country":"aut","name":"SC Libertas","id":"SC_Libertas","win":6,"draw":8,"loss":8,"for":43,"against":45},
+{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":8,"draw":4,"loss":10,"for":33,"against":40},
+{"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":7,"draw":6,"loss":9,"for":41,"against":53},
+{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":8,"draw":2,"loss":12,"for":36,"against":48},
+{"country":"aut","name":"FC Wien","id":"FC_Wien","win":4,"draw":9,"loss":9,"for":33,"against":44},
+{"country":"aut","name":"Hakoah Vienna","id":"Hakoah_Vienna","win":6,"draw":5,"loss":11,"for":37,"against":60},
+{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":5,"draw":6,"loss":11,"for":36,"against":57},
+{"country":"aut","name":"Favoritner SC","id":"Favoritner_AC","win":4,"draw":5,"loss":13,"for":25,"against":53,"isNew":true}
 ]

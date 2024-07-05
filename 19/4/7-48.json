@@ -178,4 +178,15 @@
 {"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":7,"draw":4,"loss":11,"for":40,"against":51},
 {"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":6,"draw":5,"loss":11,"for":32,"against":35,"isRemoved":true},
 {"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":6,"draw":5,"loss":11,"for":38,"against":56,"isRemoved":true,"isReturning":true}
+][
+{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":13,"draw":2,"loss":3,"for":55,"against":23,"isChampion":true},
+{"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":13,"draw":1,"loss":4,"for":60,"against":19},
+{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":9,"draw":4,"loss":5,"for":74,"against":36},
+{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":9,"draw":3,"loss":6,"for":36,"against":29},
+{"country":"aut","name":"FC Wien","id":"FC_Wien","win":9,"draw":3,"loss":6,"for":33,"against":28},
+{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":7,"draw":5,"loss":6,"for":26,"against":36},
+{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":8,"draw":2,"loss":8,"for":47,"against":46},
+{"country":"aut","name":"SC Rapid Oberlaa","id":"SC_Rapid_Oberlaa","win":4,"draw":2,"loss":12,"for":20,"against":57,"isReturning":true},
+{"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":3,"draw":3,"loss":12,"for":21,"against":47},
+{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":2,"draw":1,"loss":15,"for":17,"against":68,"isRemoved":true}
 ]

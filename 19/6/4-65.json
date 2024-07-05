@@ -192,4 +192,19 @@
 {"country":"rou","name":"Farul Constanța","id":"FCV_Farul_Constanța","win":8,"draw":6,"loss":12,"for":21,"against":36},
 {"country":"rou","name":"Minerul Baia Mare","id":"CS_Minaur_Baia_Mare_(football)","win":9,"draw":3,"loss":14,"for":27,"against":45,"isRemoved":true,"isNew":true},
 {"country":"rou","name":"Progresul București","id":"FC_Progresul_București","win":6,"draw":8,"loss":12,"for":23,"against":31,"isRemoved":true}
+][
+{"country":"aut","name":"Linzer ASK","id":"LASK","win":14,"draw":8,"loss":4,"for":49,"against":29,"isChampion":true},
+{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":14,"draw":7,"loss":5,"for":42,"against":21},
+{"country":"aut","name":"SK Admira Wien Energie","id":"SK_Admira_Wien","win":14,"draw":7,"loss":5,"for":52,"against":28},
+{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":15,"draw":3,"loss":8,"for":54,"against":36},
+{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":12,"draw":6,"loss":8,"for":51,"against":36},
+{"country":"aut","name":"1. Schwechater SC","id":"SV_Schwechat","win":10,"draw":9,"loss":7,"for":27,"against":28},
+{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":9,"draw":10,"loss":7,"for":29,"against":28},
+{"country":"aut","name":"FC Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":8,"draw":10,"loss":8,"for":29,"against":23,"isNew":true},
+{"country":"aut","name":"1. Wiener Neustädter SC","id":"1._Wiener_Neustädter_SC","win":8,"draw":7,"loss":11,"for":31,"against":32},
+{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":6,"draw":8,"loss":12,"for":28,"against":48},
+{"country":"aut","name":"Kapfenberger SV","id":"Kapfenberger_SV","win":5,"draw":10,"loss":11,"for":25,"against":45},
+{"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":7,"draw":5,"loss":14,"for":29,"against":40,"isReturning":true,"isRemoved":true},
+{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":5,"draw":5,"loss":16,"for":31,"against":54,"isRemoved":true},
+{"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":4,"draw":7,"loss":15,"for":27,"against":56,"isReturning":true,"isRemoved":true}
 ]

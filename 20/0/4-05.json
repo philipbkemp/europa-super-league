@@ -208,4 +208,15 @@
 {"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":6,"draw":9,"loss":11,"for":24,"against":35},
 {"country":"swe","name":"AIK","id":"AIK_Fotboll","win":5,"draw":10,"loss":11,"for":23,"against":35,"isRemoved":true},
 {"country":"swe","name":"Trelleborgs FF","id":"Trelleborgs_FF","win":2,"draw":7,"loss":17,"for":18,"against":55,"isRemoved":true,"isReturning":true}
+][
+{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":21,"draw":8,"loss":7,"for":67,"against":31,"isChampion":true},
+{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":21,"draw":7,"loss":8,"for":58,"against":28},
+{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":19,"draw":12,"loss":5,"for":64,"against":24},
+{"country":"aut","name":"Pasching","id":"ASKÖ_Pasching","win":17,"draw":9,"loss":10,"for":53,"against":48},
+{"country":"aut","name":"Mattersburg","id":"SV_Mattersburg","win":12,"draw":9,"loss":15,"for":48,"against":58},
+{"country":"aut","name":"Wacker Tirol","id":"FC_Wacker_Innsbruck_(2002)","win":11,"draw":11,"loss":14,"for":48,"against":48,"isNew":true},
+{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":10,"draw":10,"loss":16,"for":37,"against":47},
+{"country":"aut","name":"Admira Wacker Mödling","id":"FC_Admira_Wacker_Mödling","win":10,"draw":8,"loss":18,"for":36,"against":63},
+{"country":"aut","name":"Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":9,"draw":9,"loss":18,"for":37,"against":51},
+{"country":"aut","name":"Bregenz","id":"Schwarz-Weiß_Bregenz","win":4,"draw":9,"loss":23,"for":30,"against":80,"isRemoved":true}
 ]

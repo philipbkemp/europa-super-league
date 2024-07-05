@@ -214,4 +214,20 @@
 {"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":6,"draw":7,"loss":9,"for":22,"against":27},
 {"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":6,"draw":2,"loss":14,"for":20,"against":34,"isRemoved":true},
 {"country":"swe","name":"IFK Luleå","id":"IFK_Luleå","win":4,"draw":6,"loss":12,"for":20,"against":44,"isRemoved":true,"isNew":true}
+][
+{"country":"aut","name":"FC Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":15,"draw":9,"loss":4,"for":49,"against":20,"isChampion":true},
+{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":17,"draw":4,"loss":7,"for":49,"against":34},
+{"country":"aut","name":"VÖEST Linz","id":"VÖEST_Linz","win":15,"draw":5,"loss":8,"for":52,"against":26},
+{"country":"aut","name":"SV Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":12,"draw":11,"loss":5,"for":47,"against":29},
+{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":12,"draw":9,"loss":7,"for":39,"against":23},
+{"country":"aut","name":"Donawitzer SV Alpine","id":"DSV_Leoben","win":10,"draw":10,"loss":8,"for":31,"against":28,"isReturning":true},
+{"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":13,"draw":4,"loss":11,"for":37,"against":39},
+{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":9,"draw":10,"loss":9,"for":32,"against":42},
+{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":9,"draw":7,"loss":12,"for":30,"against":31},
+{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":10,"draw":5,"loss":13,"for":27,"against":43},
+{"country":"aut","name":"SC Eisenstadt","id":"SC_Eisenstadt","win":9,"draw":6,"loss":13,"for":29,"against":30,"isReturning":true},
+{"country":"aut","name":"Linzer ASK","id":"LASK","win":8,"draw":8,"loss":12,"for":37,"against":39},
+{"country":"aut","name":"FC Admira/Wacker","id":"FC_Admira_Wacker_Mödling","win":6,"draw":12,"loss":10,"for":31,"against":39,"isNew":true},
+{"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":8,"draw":6,"loss":14,"for":23,"against":48,"isRemoved":true},
+{"country":"aut","name":"SK Bischofshofen","id":"SK_Bischofshofen","win":1,"draw":6,"loss":21,"for":22,"against":64,"isNew":true,"isRemoved":true}
 ]

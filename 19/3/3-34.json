@@ -147,4 +147,17 @@
 {"country":"swe","name":"Gefle IF","id":"Gefle_IF","win":6,"draw":4,"loss":10,"for":37,"against":56,"isNew":true},
 {"country":"swe","name":"IS Halmia","id":"IS_Halmia","win":3,"draw":5,"loss":12,"for":23,"against":41,"isRemoved":true},
 {"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":5,"draw":0,"loss":8,"for":27,"against":38,"isRemoved":true,"removedNote":"Disqualified mid-season for paying amateur players"}
+][
+{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":16,"draw":1,"loss":5,"for":69,"against":41,"isChampion":true},
+{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":15,"draw":1,"loss":6,"for":80,"against":34},
+{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":12,"draw":3,"loss":7,"for":56,"against":36},
+{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":12,"draw":3,"loss":7,"for":52,"against":34},
+{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":10,"draw":2,"loss":10,"for":51,"against":64},
+{"country":"aut","name":"FC Wien","id":"FC_Wien","win":8,"draw":5,"loss":9,"for":48,"against":56},
+{"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":6,"draw":7,"loss":9,"for":37,"against":49},
+{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":6,"draw":6,"loss":10,"for":36,"against":41},
+{"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":6,"draw":6,"loss":10,"for":49,"against":65},
+{"country":"aut","name":"Hakoah Vienna","id":"Hakoah_Vienna","win":5,"draw":7,"loss":10,"for":31,"against":46},
+{"country":"aut","name":"SC Libertas","id":"SC_Libertas","win":5,"draw":6,"loss":11,"for":35,"against":56},
+{"country":"aut","name":"SV Donau","id":"SV_Donau","win":5,"draw":5,"loss":12,"for":32,"against":54,"isNew":true,"isRemoved":true}
 ]

@@ -1,4 +1,6 @@
 const countries = {
+	"aut": "Austria",
+	"aut-naz": "Nazi occupied Austria",
 	"bel": "Belgium",
 	"che": "Switzerland",
 	"dnk": "Denmark",

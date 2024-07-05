@@ -202,4 +202,15 @@
 {"country":"swe","name":"GIF Sundsvall","id":"GIF_Sundsvall","win":3,"draw":10,"loss":13,"for":25,"against":43},
 {"country":"swe","name":"Östers IF","id":"Östers_IF","win":3,"draw":8,"loss":15,"for":31,"against":56,"isRemoved":true,"isReturning":true},
 {"country":"swe","name":"Enköpings SK","id":"Enköpings_SK_FK","win":3,"draw":5,"loss":18,"for":22,"against":59,"isRemoved":true,"isNew":true}
+][
+{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":21,"draw":9,"loss":6,"for":62,"against":32,"isChampion":true},
+{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":21,"draw":8,"loss":7,"for":63,"against":31},
+{"country":"aut","name":"Pasching","id":"ASKÖ_Pasching","win":17,"draw":12,"loss":7,"for":59,"against":41},
+{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":16,"draw":9,"loss":11,"for":50,"against":47},
+{"country":"aut","name":"Bregenz","id":"Schwarz-Weiß_Bregenz","win":11,"draw":12,"loss":13,"for":47,"against":58},
+{"country":"aut","name":"Admira Wacker Mödling","id":"FC_Admira_Wacker_Mödling","win":11,"draw":9,"loss":16,"for":42,"against":49},
+{"country":"aut","name":"Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":11,"draw":5,"loss":20,"for":44,"against":48},
+{"country":"aut","name":"Mattersburg","id":"SV_Mattersburg","win":9,"draw":10,"loss":17,"for":39,"against":61,"isNew":true},
+{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":8,"draw":11,"loss":17,"for":39,"against":52},
+{"country":"aut","name":"Kärnten","id":"FC_Kärnten","win":7,"draw":11,"loss":18,"for":36,"against":62,"isRemoved":true}
 ]

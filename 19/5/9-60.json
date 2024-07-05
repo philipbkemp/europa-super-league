@@ -206,4 +206,19 @@
 {"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":8,"draw":2,"loss":12,"for":42,"against":53},
 {"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":8,"draw":2,"loss":12,"for":26,"against":38,"isRemoved":true},
 {"country":"swe","name":"Jönköpings Södra IF","id":"Jönköpings_Södra_IF","win":5,"draw":1,"loss":16,"for":19,"against":52,"isRemoved":true,"isReturning":true}
+][
+{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":18,"draw":6,"loss":2,"for":87,"against":32,"isChampion":true},
+{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":17,"draw":4,"loss":5,"for":71,"against":35},
+{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":17,"draw":4,"loss":5,"for":74,"against":43},
+{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":17,"draw":4,"loss":5,"for":81,"against":50},
+{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":12,"draw":6,"loss":8,"for":67,"against":49},
+{"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":11,"draw":6,"loss":9,"for":51,"against":49},
+{"country":"aut","name":"Linzer ASK","id":"LASK","win":9,"draw":8,"loss":9,"for":54,"against":57},
+{"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":7,"draw":6,"loss":13,"for":47,"against":57},
+{"country":"aut","name":"1. Wiener Neustädter SC","id":"1._Wiener_Neustädter_SC","win":6,"draw":8,"loss":12,"for":49,"against":79,"isReturning":true},
+{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":7,"draw":5,"loss":14,"for":45,"against":55},
+{"country":"aut","name":"SV Austria Salzburg","id":"SV_Austria_Salzburg","win":5,"draw":9,"loss":12,"for":42,"against":67,"isReturning":true},
+{"country":"aut","name":"Kremser SC","id":"Kremser_SC","win":6,"draw":6,"loss":14,"for":44,"against":65,"isRemoved":true},
+{"country":"aut","name":"WSV Donawitz","id":"DSV_Leoben","win":7,"draw":3,"loss":16,"for":39,"against":73,"isRemoved":true},
+{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":3,"draw":5,"loss":18,"for":31,"against":71,"isRemoved":true}
 ]

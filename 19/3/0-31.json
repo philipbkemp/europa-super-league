@@ -134,4 +134,15 @@
 {"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":6,"draw":3,"loss":13,"for":39,"against":59},
 {"country":"swe","name":"Redbergslid","id":"Redbergslids_IK_Fotboll","win":5,"draw":5,"loss":12,"for":35,"against":60,"isRemoved":true,"isNew":true},
 {"country":"swe","name":"Sandvikens IF","id":"Sandvikens_IF","win":6,"draw":2,"loss":14,"for":39,"against":52,"isRemoved":true}
+][
+{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":12,"draw":5,"loss":1,"for":53,"against":25,"isChampion":true},
+{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":12,"draw":3,"loss":3,"for":68,"against":37},
+{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":12,"draw":2,"loss":4,"for":64,"against":33},
+{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":9,"draw":1,"loss":8,"for":51,"against":40},
+{"country":"aut","name":"SC Nicholson","id":"SC_Nicholson","win":7,"draw":3,"loss":8,"for":38,"against":38},
+{"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":5,"draw":6,"loss":7,"for":37,"against":51},
+{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":6,"draw":3,"loss":9,"for":44,"against":47},
+{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":6,"draw":0,"loss":12,"for":48,"against":65},
+{"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":4,"draw":4,"loss":10,"for":31,"against":59},
+{"country":"aut","name":"SK Slovan HAC","id":"SK_Slovan_HAC","win":1,"draw":5,"loss":12,"for":21,"against":60,"isReturning":true}
 ]

@@ -206,4 +206,17 @@
 {"country":"swe","name":"GAIS","id":"GAIS","win":13,"draw":7,"loss":12,"for":47,"against":45},
 {"country":"swe","name":"Östers IF","id":"Östers_IF","win":11,"draw":15,"loss":6,"for":59,"against":43},
 {"country":"swe","name":"GIF Sundsvall","id":"GIF_Sundsvall","win":4,"draw":11,"loss":17,"for":39,"against":75,"isRemoved":true,"isReturning":true}
+][
+{"country":"aut","name":"Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":23,"draw":4,"loss":9,"for":62,"against":37},
+{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":21,"draw":7,"loss":8,"for":73,"against":36,"isChampion":true},
+{"country":"aut","name":"Swarovski Tirol","id":"FC_Swarovski_Tirol","win":21,"draw":5,"loss":10,"for":69,"against":49,"isRemoved":true},
+{"country":"aut","name":"Stahl Linz","id":"FC_Linz","win":15,"draw":9,"loss":12,"for":47,"against":45,"isNew":true},
+{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":16,"draw":9,"loss":11,"for":58,"against":40},
+{"country":"aut","name":"Admira/Wacker","id":"FC_Admira_Wacker_Mödling","win":22,"draw":15,"loss":13,"for":73,"against":57},
+{"country":"aut","name":"VSE St. Pölten","id":"SKN_St._Pölten","win":9,"draw":9,"loss":18,"for":38,"against":59},
+{"country":"aut","name":"Vorwärts Steyr","id":"SK_Vorwärts_Steyr","win":12,"draw":5,"loss":19,"for":47,"against":48},
+{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":10,"draw":12,"loss":14,"for":39,"against":47},
+{"country":"aut","name":"Kremser SC","id":"Kremser_SC","win":7,"draw":12,"loss":17,"for":45,"against":68,"isRemoved":true},
+{"country":"aut","name":"First Vienna","id":"First_Vienna_FC","win":9,"draw":10,"loss":17,"for":35,"against":56,"isRemoved":true},
+{"country":"aut","name":"Donawitzer SV Alpine","id":"DSV_Leoben","win":7,"draw":8,"loss":21,"for":28,"against":68,"isRemoved":true}
 ]

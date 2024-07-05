@@ -181,4 +181,17 @@
 {"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":3,"draw":2,"loss":7,"for":15,"against":32,"isCurrentSeason":true},
 {"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":3,"draw":1,"loss":8,"for":17,"against":28,"isCurrentSeason":true},
 {"country":"swe","name":"Västerås SK","id":"Västerås_SK_Fotboll","win":2,"draw":2,"loss":8,"for":8,"against":14,"isCurrentSeason":true,"isReturning":true}
+][
+{"country":"aut","name":"Austria Klagenfurt","id":"SK_Austria_Klagenfurt_(2007)","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"aut","name":"Blau-Weiß Linz","id":"FC_Blau-Weiß_Linz","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
+{"country":"aut","name":"LASK","id":"LASK","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"aut","name":"SCR Altach","id":"SC_Rheindorf_Altach","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"aut","name":"TSV Hartberg","id":"TSV_Hartberg","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"aut","name":"Wolfsberg","id":"Wolfsberger_AC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"aut","name":"Tirol","id":"WSG_Tirol","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
 ]

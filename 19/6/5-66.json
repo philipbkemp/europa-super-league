@@ -204,4 +204,19 @@
 {"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":4,"draw":8,"loss":10,"for":28,"against":59,"isReturning":true},
 {"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":5,"draw":3,"loss":14,"for":36,"against":48,"isRemoved":true,"isReturning":true},
 {"country":"swe","name":"GIF Sundsvall","id":"GIF_Sundsvall","win":1,"draw":4,"loss":17,"for":19,"against":71,"isRemoved":true,"isNew":true}
+][
+{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":18,"draw":7,"loss":1,"for":51,"against":17,"isChampion":true},
+{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":16,"draw":8,"loss":2,"for":64,"against":22},
+{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":16,"draw":3,"loss":7,"for":58,"against":27},
+{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":11,"draw":8,"loss":7,"for":57,"against":33},
+{"country":"aut","name":"Austria Klagenfurt","id":"FC_Kärnten","win":11,"draw":7,"loss":8,"for":39,"against":33,"isReturning":true},
+{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":11,"draw":7,"loss":8,"for":53,"against":49},
+{"country":"aut","name":"Linzer ASK","id":"LASK","win":10,"draw":7,"loss":9,"for":45,"against":37},
+{"country":"aut","name":"FC Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":8,"draw":9,"loss":9,"for":32,"against":31},
+{"country":"aut","name":"1. Schwechater SC","id":"SV_Schwechat","win":9,"draw":5,"loss":12,"for":40,"against":42,"isRemoved":true},
+{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":7,"draw":9,"loss":10,"for":35,"against":46},
+{"country":"aut","name":"Kapfenberger SV","id":"Kapfenberger_SV","win":5,"draw":10,"loss":11,"for":26,"against":51},
+{"country":"aut","name":"1. Wiener Neustädter SC","id":"1._Wiener_Neustädter_SC","win":7,"draw":5,"loss":14,"for":30,"against":60},
+{"country":"aut","name":"SV Austria Salzburg","id":"SV_Austria_Salzburg","win":3,"draw":6,"loss":17,"for":26,"against":66,"isReturning":true,"isRemoved":true},
+{"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":3,"draw":3,"loss":20,"for":26,"against":68,"isReturning":true,"isRemoved":true}
 ]

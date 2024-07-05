@@ -225,4 +225,15 @@
 {"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":7,"draw":7,"loss":12,"for":39,"against":60},
 {"country":"swe","name":"IK Sirius","id":"IK_Sirius_Fotboll","win":4,"draw":8,"loss":14,"for":28,"against":57,"isRemoved":true},
 {"country":"swe","name":"Brynäs","id":"Brynäs_IF_Fotboll","win":2,"draw":8,"loss":16,"for":27,"against":63,"isRemoved":true,"isNew":true}
+][
+{"country":"aut","name":"Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":24,"draw":3,"loss":9,"for":76,"against":36,"isChampion":true},
+{"country":"aut","name":"VÖEST Linz","id":"VÖEST_Linz","win":16,"draw":10,"loss":10,"for":51,"against":33},
+{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":16,"draw":9,"loss":11,"for":57,"against":41},
+{"country":"aut","name":"FK Austria WAC Wien","id":"FK_Austria_Wien","win":14,"draw":9,"loss":13,"for":59,"against":52},
+{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":13,"draw":10,"loss":13,"for":46,"against":45},
+{"country":"aut","name":"Linzer ASK","id":"LASK","win":12,"draw":10,"loss":14,"for":50,"against":55},
+{"country":"aut","name":"Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":12,"draw":9,"loss":15,"for":41,"against":54},
+{"country":"aut","name":"FC Admira/Wacker","id":"FC_Admira_Wacker_Mödling","win":11,"draw":9,"loss":16,"for":46,"against":55},
+{"country":"aut","name":"Austria Klagenfurt","id":"FC_Kärnten","win":11,"draw":6,"loss":19,"for":32,"against":57},
+{"country":"aut","name":"SC Eisenstadt","id":"SC_Eisenstadt","win":8,"draw":11,"loss":17,"for":35,"against":65,"isRemoved":true}
 ]
