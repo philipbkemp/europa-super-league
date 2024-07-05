@@ -61,7 +61,7 @@
 {"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":18,"draw":8,"loss":4,"for":95,"against":42},
 {"country":"hun","name":"Szolnoki MÁV FC","id":"Szolnoki_MÁV_FC","win":18,"draw":5,"loss":7,"for":89,"against":49},
 {"country":"hun","name":"Szegedi AK","id":"Szegedi_AK","win":15,"draw":10,"loss":5,"for":95,"against":51},
-{"country":"hun","name":"Nagyváradi AC","id":"Club_Atletic_Oradea","win":14,"draw":8,"loss":8,"for":81,"against":52,"isNew":true},
+{"country":"hun","name":"Nagyváradi AC","id":"Club_Atletic_Oradea","win":14,"draw":8,"loss":8,"for":81,"against":52,"isReturning":true,"returningFrom":"rou"},
 {"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":15,"draw":5,"loss":10,"for":124,"against":69},
 {"country":"hun","name":"Gamma FC","id":"Gamma_FC","win":15,"draw":2,"loss":13,"for":72,"against":67},
 {"country":"hun","name":"DiMÁVAG","id":"Diósgyőri_VTK","win":10,"draw":9,"loss":11,"for":72,"against":68},
