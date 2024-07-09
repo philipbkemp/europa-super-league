@@ -54,21 +54,21 @@ if ( $("h1 .placeholder").length !== 0 ) {
 		$("#goPrev").addClass("disabled");
 	}
 
-	nextSeason = [partOne,partTwo,partThree+1,parseInt(partFour)+1];
+	nextSeasonParts = [partOne,partTwo,partThree+1,parseInt(partFour)+1];
 	if ( previousSeason[2] === 10 ) {
 		console.error("Marty, you're not thinking four dimensionally");
 	}
-	if ( nextSeason[2] === 10 ) {
-		nextSeason[2] = 0;
-		nextSeason[1]++;
+	if ( nextSeasonParts[2] === 10 ) {
+		nextSeasonParts[2] = 0;
+		nextSeasonParts[1]++;
 	}
-	if ( nextSeason[1] === 10 ) {
-		nextSeason[1] = 0;
-		nextSeason[0]++;
+	if ( nextSeasonParts[1] === 10 ) {
+		nextSeasonParts[1] = 0;
+		nextSeasonParts[0]++;
 	}
 	$("#goNext")
-		.html( ( (nextSeason[0]*100) + (nextSeason[1]*10) + nextSeason[2] ) + "-" + String(nextSeason[3]).padStart(2,"0") )
-		.attr("href","../../"+nextSeason[0]+"/"+nextSeason[1]+"/"+nextSeason[2] + "-" + String(nextSeason[3]).padStart(2,"0") + ".html")
+		.html( ( (nextSeasonParts[0]*100) + (nextSeasonParts[1]*10) + nextSeasonParts[2] ) + "-" + String(nextSeasonParts[3]).padStart(2,"0") )
+		.attr("href","../../"+nextSeasonParts[0]+"/"+nextSeasonParts[1]+"/"+nextSeasonParts[2] + "-" + String(nextSeasonParts[3]).padStart(2,"0") + ".html")
 		;
 
 	data = JSON.parse(prompt("Give me data!"));
@@ -122,6 +122,10 @@ if ( $("h1 .placeholder").length !== 0 ) {
 		tbody = $('tbody[data-teams*="'+team.id+'"]');
 		if ( tbody.length === 0 ) {
 			tbody = $("tbody#league_new");
+		} else if ( tbody.children().length !== 0 ) {
+			if ( ! tbody.children()[0].getAttribute("id") ) {
+				tbody.children()[0].remove();
+			}
 		}
 		position = tbody.find("tr").length +1;
 
@@ -226,69 +230,94 @@ if ( $("h1 .placeholder").length !== 0 ) {
 }
 
 function nextSeason() {
-	diva = []; $.each( $("#diva-pane tbody tr") , function() {
+	diva = [];
+	divb = [];
+	divc = [];
+	divd = [];
+	dive = [];
+	divf = [];
+	divg = [];
+	divh = [];
+
+	$.each( $("#diva-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
 			if ( ! $(this).hasClass("removed") ) {
 				diva.push( $(this).attr("id") );
 			}
 		}
-	}); if ( diva.length !== 0 ) { console.log("A",diva.join("|")); }
-
-	divb = []; $.each( $("#divb-pane tbody tr") , function() {
+	});
+	$.each( $("#divb-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
-			if ( ! $(this).hasClass("removed") ) {
+			if ( $(this).hasClass("promoted") ) {
+				diva.push( $(this).attr("id") );
+			} else if ( ! $(this).hasClass("removed") ) {
 				divb.push( $(this).attr("id") );
 			}
 		}
-	}); if ( divb.length !== 0 ) { console.log("B",divb.join("|")); }
-
-	divc = []; $.each( $("#divc-pane tbody tr") , function() {
+	});
+	$.each( $("#divc-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
-			if ( ! $(this).hasClass("removed") ) {
+			if ( $(this).hasClass("promoted") ) {
+				divb.push( $(this).attr("id") );
+			} else if ( ! $(this).hasClass("removed") ) {
 				divc.push( $(this).attr("id") );
 			}
 		}
-	}); if ( divc.length !== 0 ) { console.log("C",divc.join("|")); }
-
-	divd = []; $.each( $("#divd-pane tbody tr") , function() {
+	});
+	$.each( $("#divd-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
-			if ( ! $(this).hasClass("removed") ) {
+			if ( $(this).hasClass("promoted") ) {
+				divc.push( $(this).attr("id") );
+			} else if ( ! $(this).hasClass("removed") ) {
 				divd.push( $(this).attr("id") );
 			}
 		}
-	}); if ( divd.length !== 0 ) { console.log("D",divd.join("|")); }
-
-	dive = []; $.each( $("#dive-pane tbody tr") , function() {
+	});
+	$.each( $("#dive-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
-			if ( ! $(this).hasClass("removed") ) {
+			if ( $(this).hasClass("promoted") ) {
+				divd.push( $(this).attr("id") );
+			} else if ( ! $(this).hasClass("removed") ) {
 				dive.push( $(this).attr("id") );
 			}
 		}
-	}); if ( dive.length !== 0 ) { console.log("E",dive.join("|")); }
-
-	divf = []; $.each( $("#divf-pane tbody tr") , function() {
+	});
+	$.each( $("#divf-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
-			if ( ! $(this).hasClass("removed") ) {
+			if ( $(this).hasClass("promoted") ) {
+				dive.push( $(this).attr("id") );
+			} else if ( ! $(this).hasClass("removed") ) {
 				divf.push( $(this).attr("id") );
 			}
 		}
-	}); if ( divf.length !== 0 ) { console.log("F",divf.join("|")); }
-
-	divg = []; $.each( $("#divg-pane tbody tr") , function() {
+	});
+	$.each( $("#divg-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
-			if ( ! $(this).hasClass("removed") ) {
+			if ( $(this).hasClass("promoted") ) {
+				divf.push( $(this).attr("id") );
+			} else if ( ! $(this).hasClass("removed") ) {
 				divg.push( $(this).attr("id") );
 			}
 		}
-	}); if ( divg.length !== 0 ) { console.log("G",divg.join("|")); }
-
-	divh = []; $.each( $("#divh-pane tbody tr") , function() {
+	});
+	$.each( $("#divh-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
-			if ( ! $(this).hasClass("removed") ) {
+			if ( $(this).hasClass("promoted") ) {
+				divg.push( $(this).attr("id") );
+			} else if ( ! $(this).hasClass("removed") ) {
 				divh.push( $(this).attr("id") );
 			}
 		}
-	}); if ( divh.length !== 0 ) { console.log("H",divh.join("|")); }
+	});
+
+	if ( diva.length !== 0 ) { console.log("A",diva.length,diva.join("|")); }
+	if ( divb.length !== 0 ) { console.log("B",divb.length,divb.join("|")); }
+	if ( divc.length !== 0 ) { console.log("C",divc.length,divc.join("|")); }
+	if ( divd.length !== 0 ) { console.log("D",divd.length,divd.join("|")); }
+	if ( dive.length !== 0 ) { console.log("E",dive.length,dive.join("|")); }
+	if ( divf.length !== 0 ) { console.log("F",divf.length,divf.join("|")); }
+	if ( divg.length !== 0 ) { console.log("G",divg.length,divg.join("|")); }
+	if ( divh.length !== 0 ) { console.log("H",divh.length,divh.join("|")); }
 }
 
 function newTeams() {
@@ -304,16 +333,21 @@ function newTeams() {
 		if ( diva.length < 100 ) {
 			diva.push( $(this).attr("id") );
 			addedA = true;
+		} else if ( divb.length < 100 ) {
+			divb.push( $(this).attr("id") );
+			addedB = true;
+		} else {
+			console.error("TOO Many Teams!");
 		}
 	});
 	if ( addedA ) { console.log("A",diva.join("|")); }
-	if ( addedB ) { console.log("B",diva.join("|")); }
-	if ( addedC ) { console.log("C",diva.join("|")); }
-	if ( addedD ) { console.log("D",diva.join("|")); }
-	if ( addedE ) { console.log("E",diva.join("|")); }
-	if ( addedF ) { console.log("F",diva.join("|")); }
-	if ( addedG ) { console.log("G",diva.join("|")); }
-	if ( addedH ) { console.log("H",diva.join("|")); }
+	if ( addedB ) { console.log("B",divb.join("|")); }
+	if ( addedC ) { console.log("C",divc.join("|")); }
+	if ( addedD ) { console.log("D",divd.join("|")); }
+	if ( addedE ) { console.log("E",dive.join("|")); }
+	if ( addedF ) { console.log("F",divf.join("|")); }
+	if ( addedG ) { console.log("G",divg.join("|")); }
+	if ( addedH ) { console.log("H",divh.join("|")); }
 }
 
 function verify() {
@@ -482,3 +516,29 @@ $(document).ready(function(){
 		html: true
 	});
 });
+
+
+function promote(fromDivision,number) {
+	promoted = 0;
+	newDivision = "?";
+	target = "league_" + fromDivision.toLowerCase();
+	if ( fromDivision === "b" ) { newDivision = "A"; }
+	if ( fromDivision === "c" ) { newDivision = "B"; }
+	if ( fromDivision === "d" ) { newDivision = "C"; }
+	if ( fromDivision === "e" ) { newDivision = "D"; }
+	if ( fromDivision === "f" ) { newDivision = "E"; }
+	if ( fromDivision === "g" ) { newDivision = "F"; }
+	if ( fromDivision === "h" ) { newDivision = "G"; }
+	$.each( $("#"+target+" tr") , function(k,v) {
+		if ( promoted !== number && ! $(v).hasClass("removed") ) {
+			$(v).addClass("promoted");
+			promoted++;
+			icon = $("<IMG />").attr("src","../../icons/promoted.png").attr("alt","Promoted").attr("data-bs-toggle","tooltip").attr("data-bs-title","Promoted to Division "+newDivision);
+			$($(v).find("th")[0]).append(icon);
+		}
+	});
+	$('[data-bs-toggle="tooltip"]').tooltip({
+		container: '#divisionsTables, #winnersTables',
+		html: true
+	});
+}
