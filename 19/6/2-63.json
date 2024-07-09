@@ -223,4 +223,11 @@
 {"country":"aut","name":"SV Austria Salzburg","id":"SV_Austria_Salzburg","win":9,"draw":1,"loss":16,"for":31,"against":59,"isReturning":true,"isRemoved":true},
 {"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":7,"draw":5,"loss":14,"for":38,"against":53,"isReturning":true,"isRemoved":true},
 {"country":"aut","name":"Austria Klagenfurt","id":"FC_Kärnten","win":7,"draw":3,"loss":16,"for":26,"against":49,"isNew":true,"isRemoved":true}
+][
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":4,"draw":5,"loss":1,"for":18,"against":8,"isChampion":true},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":5,"draw":3,"loss":2,"for":17,"against":8},
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":4,"draw":4,"loss":2,"for":22,"against":16},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":3,"draw":5,"loss":2,"for":22,"against":16},
+{"country":"isl","name":"ÍBA","id":"ÍB_Akureyri","win":4,"draw":2,"loss":4,"for":21,"against":18},
+{"country":"isl","name":"ÍBÍ","id":"Íþróttabandalag_Ísafjarðar","win":0,"draw":1,"loss":9,"for":2,"against":36,"isRemoved":true,"isNew":true}
 ]

@@ -219,4 +219,15 @@
 {"country":"aut","name":"Bregenz","id":"Schwarz-Weiß_Bregenz","win":10,"draw":8,"loss":18,"for":40,"against":67},
 {"country":"aut","name":"Admira Wacker Mödling","id":"FC_Admira_Wacker_Mödling","win":8,"draw":12,"loss":16,"for":29,"against":63,"isReturning":true},
 {"country":"aut","name":"LASK Linz","id":"LASK","win":8,"draw":9,"loss":19,"for":43,"against":70,"isRemoved":true}
+][
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":11,"draw":4,"loss":3,"for":27,"against":14,"isChampion":true},
+{"country":"isl","name":"Fylkir","id":"Fylkir","win":10,"draw":5,"loss":3,"for":39,"against":16,"isReturning":true},
+{"country":"isl","name":"Grindavík","id":"Grindavík_men%27s_football","win":8,"draw":6,"loss":4,"for":25,"against":18},
+{"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":8,"draw":5,"loss":5,"for":29,"against":17},
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":7,"draw":5,"loss":6,"for":21,"against":17},
+{"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":4,"draw":7,"loss":7,"for":21,"against":35},
+{"country":"isl","name":"Breiðablik","id":"Breiðablik_men%27s_football","win":5,"draw":3,"loss":10,"for":29,"against":35},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":4,"draw":5,"loss":9,"for":22,"against":33},
+{"country":"isl","name":"Stjarnan","id":"Stjarnan_men%27s_football","win":4,"draw":5,"loss":9,"for":18,"against":31,"isRemoved":true,"isReturning":true},
+{"country":"isl","name":"Leiftur","id":"Knattspyrnufélag_Fjallabyggðar","win":3,"draw":7,"loss":8,"for":24,"against":39,"isRemoved":true}
 ]

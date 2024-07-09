@@ -223,4 +223,15 @@
 {"country":"aut","name":"Ried","id":"SV_Ried","win":8,"draw":8,"loss":20,"for":25,"against":47},
 {"country":"aut","name":"Austria Lustenau","id":"SC_Austria_Lustenau","win":4,"draw":11,"loss":21,"for":24,"against":61},
 {"country":"aut","name":"Vorwärts Steyr","id":"SK_Vorwärts_Steyr","win":3,"draw":6,"loss":27,"for":29,"against":81,"isRemoved":true,"deduct":-2,"deductReason":"Failing to meet licensing requirements","isReturning":true}
+][
+{"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":12,"draw":2,"loss":4,"for":40,"against":15,"isChampion":true},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":9,"draw":6,"loss":3,"for":25,"against":9},
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":8,"draw":6,"loss":4,"for":27,"against":22},
+{"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":8,"draw":4,"loss":5,"for":19,"against":23},
+{"country":"isl","name":"Leiftur","id":"Knattspyrnufélag_Fjallabyggðar","win":7,"draw":4,"loss":7,"for":21,"against":21},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":5,"draw":5,"loss":8,"for":21,"against":23},
+{"country":"isl","name":"Grindavík","id":"Grindavík_men%27s_football","win":5,"draw":4,"loss":9,"for":24,"against":34},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":4,"draw":6,"loss":8,"for":25,"against":33},
+{"country":"isl","name":"Þróttur","id":"Knattspyrnufélagið_Þróttur","win":4,"draw":6,"loss":8,"for":27,"against":39,"isRemoved":true,"isReturning":true},
+{"country":"isl","name":"ÍR","id":"ÍR_men%27s_football","win":4,"draw":5,"loss":9,"for":20,"against":30,"isRemoved":true,"isNew":true}
 ]

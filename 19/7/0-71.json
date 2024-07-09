@@ -229,4 +229,13 @@
 {"country":"aut","name":"Schwarz-Weiß Bregenz","id":"Schwarz-Weiß_Bregenz","win":7,"draw":5,"loss":18,"for":31,"against":60,"isReturning":true,"isRemoved":true},
 {"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":5,"draw":6,"loss":19,"for":43,"against":59,"isRemoved":true},
 {"country":"aut","name":"WSG Radenthein","id":"WSG_Radenthein","win":4,"draw":4,"loss":22,"for":31,"against":81,"isReturning":true,"isRemoved":true}
+][
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":8,"draw":4,"loss":2,"for":24,"against":15,"isChampion":true},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":8,"draw":0,"loss":6,"for":28,"against":19},
+{"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":7,"draw":2,"loss":5,"for":18,"against":15},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":5,"draw":4,"loss":5,"for":18,"against":16},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":5,"draw":4,"loss":5,"for":23,"against":24},
+{"country":"isl","name":"ÍBA","id":"ÍB_Akureyri","win":4,"draw":5,"loss":5,"for":32,"against":30},
+{"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":6,"draw":1,"loss":7,"for":20,"against":25},
+{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":3,"draw":0,"loss":11,"for":18,"against":37,"isRemoved":true,"isReturning":true}
 ]

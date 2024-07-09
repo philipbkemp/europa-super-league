@@ -219,4 +219,17 @@
 {"country":"aut","name":"Wolfsberger AC","id":"Wolfsberger_AC","win":11,"draw":9,"loss":16,"for":40,"against":59},
 {"country":"aut","name":"St. Pölten","id":"SKN_St._Pölten","win":9,"draw":10,"loss":17,"for":41,"against":60,"isReturning":true},
 {"country":"aut","name":"Ried","id":"SV_Ried","win":10,"draw":5,"loss":21,"for":33,"against":56,"isRemoved":true}
+][
+{"country":"isl","name":"FH","id":"FH_men%27s_football","win":12,"draw":7,"loss":3,"for":32,"against":17,"isChampion":true},
+{"country":"isl","name":"Stjarnan","id":"Stjarnan_men%27s_football","win":12,"draw":3,"loss":7,"for":43,"against":31},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":11,"draw":5,"loss":6,"for":29,"against":20},
+{"country":"isl","name":"Fjölnir","id":"Ungmennafélagið_Fjölnir","win":11,"draw":4,"loss":7,"for":42,"against":25},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":10,"draw":5,"loss":7,"for":41,"against":28},
+{"country":"isl","name":"Breiðablik","id":"Breiðablik_men%27s_football","win":10,"draw":5,"loss":7,"for":27,"against":20},
+{"country":"isl","name":"Víkingur Reykjavík","id":"Knattspyrnufélagið_Víkingur","win":9,"draw":5,"loss":8,"for":29,"against":32},
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":10,"draw":1,"loss":11,"for":28,"against":33},
+{"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":6,"draw":5,"loss":11,"for":23,"against":27},
+{"country":"isl","name":"Víkingur Ólafsvík","id":"Ungmennafélagið_Víkingur","win":5,"draw":6,"loss":11,"for":23,"against":38,"isReturning":true},
+{"country":"isl","name":"Fylkir","id":"Fylkir","win":4,"draw":7,"loss":11,"for":25,"against":40,"isRemoved":true},
+{"country":"isl","name":"Þróttur Reykjavík","id":"Knattspyrnufélagið_Þróttur","win":3,"draw":5,"loss":14,"for":19,"against":50,"isRemoved":true,"isReturning":true}
 ]

@@ -70,4 +70,9 @@
 {"country":"aut-naz","name":"Wiener AC","id":"Wiener_AC","win":2,"draw":1,"loss":6,"for":16,"against":34},
 {"country":"aut-naz","name":"FK Austria Wien","id":"FK_Austria_Wien","win":2,"draw":0,"loss":7,"for":15,"against":19},
 {"country":"aut-naz","name":"SC Rapid Oberlaa","id":"SC_Rapid_Oberlaa","win":1,"draw":0,"loss":8,"for":8,"against":41,"isNew":true}
+][
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":2,"draw":1,"loss":0,"for":6,"against":3,"isChampion":true},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":2,"draw":0,"loss":1,"for":3,"against":2},
+{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":0,"draw":2,"loss":1,"for":4,"against":6,"isReturning":true},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":0,"draw":1,"loss":2,"for":3,"against":5}
 ]

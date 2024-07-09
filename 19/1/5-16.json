@@ -68,4 +68,8 @@
 {"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":3,"draw":1,"loss":14,"for":28,"against":49},
 {"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":2,"draw":0,"loss":16,"for":18,"against":91},
 {"country":"aut","name":"ASV Hertha","id":"ASV_Hertha","win":1,"draw":1,"loss":16,"for":12,"against":68}
+][
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":2,"draw":0,"loss":0,"for":7,"against":4,"isChampion":true,"isReturning":true},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":1,"draw":0,"loss":1,"for":9,"against":6,"isReturning":true},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":0,"draw":0,"loss":2,"for":1,"against":7,"isNew":true}
 ]

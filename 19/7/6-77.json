@@ -227,4 +227,14 @@
 {"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":9,"draw":12,"loss":15,"for":34,"against":62},
 {"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":9,"draw":10,"loss":17,"for":40,"against":55},
 {"country":"aut","name":"SV Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":9,"draw":5,"loss":22,"for":34,"against":64,"isRemoved":true}
+][
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":10,"draw":5,"loss":1,"for":45,"against":14,"isChampion":true},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":10,"draw":4,"loss":2,"for":30,"against":16},
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":8,"draw":5,"loss":3,"for":27,"against":19},
+{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":8,"draw":2,"loss":6,"for":22,"against":21},
+{"country":"isl","name":"Breiðablik","id":"Breiðablik_men%27s_football","win":8,"draw":2,"loss":6,"for":21,"against":22,"isReturning":true},
+{"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":6,"draw":3,"loss":7,"for":22,"against":23},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":3,"draw":5,"loss":8,"for":20,"against":23},
+{"country":"isl","name":"FH","id":"FH_men%27s_football","win":2,"draw":4,"loss":10,"for":11,"against":31},
+{"country":"isl","name":"Þróttur","id":"Knattspyrnufélagið_Þróttur","win":1,"draw":2,"loss":13,"for":10,"against":39,"isRemoved":true,"isReturning":true}
 ]

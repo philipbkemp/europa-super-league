@@ -186,4 +186,10 @@
 {"country":"aut","name":"SK Vorwärts Steyr","id":"SK_Vorwärts_Steyr","win":7,"draw":2,"loss":15,"for":34,"against":64,"isRemoved":true},
 {"country":"aut","name":"1. Wiener Neustädter SC","id":"1._Wiener_Neustädter_SC","win":6,"draw":3,"loss":15,"for":45,"against":74,"isNew":true,"isRemoved":true},
 {"country":"aut","name":"FS Elektra","id":"FS_Elektra","win":3,"draw":1,"loss":20,"for":31,"against":115,"isNew":true,"isRemoved":true}
+][
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":2,"draw":2,"loss":0,"for":7,"against":3,"isChampion":true},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":2,"draw":1,"loss":1,"for":8,"against":4},
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":0,"draw":3,"loss":1,"for":6,"against":7},
+{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":1,"draw":1,"loss":2,"for":8,"against":11},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":1,"draw":1,"loss":3,"for":5,"against":9}
 ]

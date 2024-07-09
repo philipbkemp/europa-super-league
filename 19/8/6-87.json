@@ -225,4 +225,15 @@
 {"country":"aut","name":"Eisenstadt","id":"SC_Eisenstadt","win":10,"draw":9,"loss":17,"for":46,"against":68,"isRemoved":true},
 {"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":13,"draw":7,"loss":16,"for":42,"against":53},
 {"country":"aut","name":"Austria Klagenfurt","id":"FC_Kärnten","win":7,"draw":10,"loss":19,"for":26,"against":73}
+][
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":11,"draw":5,"loss":2,"for":39,"against":13,"isChampion":true},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":12,"draw":2,"loss":4,"for":31,"against":11},
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":9,"draw":3,"loss":6,"for":33,"against":22},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":7,"draw":8,"loss":3,"for":21,"against":10},
+{"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":9,"draw":1,"loss":8,"for":25,"against":27},
+{"country":"isl","name":"Þór","id":"Þór_Akureyri","win":6,"draw":4,"loss":8,"for":21,"against":31},
+{"country":"isl","name":"Víðir","id":"Knattspyrnufélagið_Víðir","win":5,"draw":4,"loss":9,"for":21,"against":25},
+{"country":"isl","name":"FH","id":"FH_men%27s_football","win":5,"draw":4,"loss":9,"for":24,"against":36},
+{"country":"isl","name":"Breiðablik","id":"Breiðablik_men%27s_football","win":4,"draw":4,"loss":10,"for":18,"against":35,"isRemoved":true,"isReturning":true},
+{"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":3,"draw":3,"loss":12,"for":20,"against":43,"isRemoved":true,"isReturning":true}
 ]

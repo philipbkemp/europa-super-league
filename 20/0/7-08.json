@@ -223,4 +223,15 @@
 {"country":"aut","name":"Rheindorf Altach","id":"SC_Rheindorf_Altach","win":8,"draw":12,"loss":16,"for":37,"against":64},
 {"country":"aut","name":"Austria Kärnten","id":"SK_Austria_Kärnten","win":8,"draw":9,"loss":19,"for":26,"against":58,"isNew":true},
 {"country":"aut","name":"Wacker Innsbruck","id":"FC_Wacker_Innsbruck_(2002)","win":6,"draw":11,"loss":19,"for":32,"against":63,"isRemoved":true}
+][
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":11,"draw":5,"loss":2,"for":41,"against":20,"isChampion":true},
+{"country":"isl","name":"FH","id":"FH_men%27s_football","win":11,"draw":4,"loss":3,"for":42,"against":26},
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":8,"draw":6,"loss":4,"for":34,"against":27},
+{"country":"isl","name":"Fylkir","id":"Fylkir","win":8,"draw":5,"loss":5,"for":23,"against":18},
+{"country":"isl","name":"Breiðablik","id":"Breiðablik_men%27s_football","win":5,"draw":9,"loss":4,"for":29,"against":20},
+{"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":5,"draw":6,"loss":7,"for":26,"against":32},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":3,"draw":7,"loss":8,"for":25,"against":31,"isReturning":true},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":3,"draw":6,"loss":9,"for":17,"against":30},
+{"country":"isl","name":"HK","id":"Handknattleiksfélag_Kópavogs","win":4,"draw":4,"loss":10,"for":17,"against":35,"isNew":true},
+{"country":"isl","name":"Vikingur","id":"Knattspyrnufélagið_Víkingur","win":3,"draw":5,"loss":10,"for":15,"against":30,"isRemoved":true}
 ]

@@ -109,4 +109,9 @@
 {"country":"aut","name":"ASV Hertha","id":"ASV_Hertha","win":4,"draw":9,"loss":9,"for":22,"against":33,"isRemoved":true},
 {"country":"aut","name":"FC Ostmark","id":"FC_Ostmark","win":2,"draw":5,"loss":15,"for":17,"against":64,"isRemoved":true,"isReturning":true},
 {"country":"aut","name":"Wiener AF","id":"Wiener_AF","win":1,"draw":5,"loss":16,"for":26,"against":68,"isRemoved":true}
+][
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":3,"draw":0,"loss":0,"for":12,"against":2,"isChampion":true},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":2,"draw":0,"loss":1,"for":8,"against":4},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":0,"draw":1,"loss":2,"for":3,"against":10,"isReturning":true},
+{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":0,"draw":1,"loss":2,"for":2,"against":9}
 ]

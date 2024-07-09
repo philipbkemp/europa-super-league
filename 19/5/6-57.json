@@ -187,4 +187,11 @@
 {"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":9,"draw":3,"loss":14,"for":48,"against":66},
 {"country":"aut","name":"SV Austria Salzburg","id":"SV_Austria_Salzburg","win":6,"draw":3,"loss":17,"for":55,"against":83,"isRemoved":true},
 {"country":"aut","name":"FC Stadlau","id":"FC_Stadlau","win":2,"draw":4,"loss":20,"for":26,"against":98,"isRemoved":true}
+][
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":4,"draw":1,"loss":0,"for":14,"against":6,"isChampion":true},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":3,"draw":2,"loss":0,"for":14,"against":8},
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":3,"draw":1,"loss":1,"for":17,"against":6},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":2,"draw":0,"loss":3,"for":10,"against":12},
+{"country":"isl","name":"ÍBA","id":"ÍB_Akureyri","win":1,"draw":0,"loss":4,"for":3,"against":13,"isReturning":true},
+{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":0,"draw":0,"loss":5,"for":6,"against":19,"isRemoved":true}
 ]

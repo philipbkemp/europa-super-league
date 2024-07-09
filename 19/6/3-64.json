@@ -221,4 +221,11 @@
 {"country":"aut","name":"SVS Linz","id":"SVS_Linz","win":5,"draw":7,"loss":14,"for":42,"against":56,"isRemoved":true},
 {"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":8,"draw":1,"loss":17,"for":46,"against":64,"isRemoved":true},
 {"country":"aut","name":"FC Dornbirn","id":"FC_Dornbirn_1913","win":4,"draw":5,"loss":17,"for":31,"against":59,"isRemoved":true,"isReturning":true}
+][
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":7,"draw":1,"loss":2,"for":27,"against":16,"isChampion":true},
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":6,"draw":1,"loss":3,"for":25,"against":17},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":4,"draw":2,"loss":4,"for":20,"against":20},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":4,"draw":1,"loss":5,"for":11,"against":20},
+{"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":3,"draw":1,"loss":6,"for":15,"against":19,"isReturning":true},
+{"country":"isl","name":"ÍBA","id":"ÍB_Akureyri","win":2,"draw":2,"loss":6,"for":16,"against":22,"isRemoved":true}
 ]

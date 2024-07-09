@@ -120,4 +120,10 @@
 {"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":8,"draw":4,"loss":12,"for":46,"against":52},
 {"country":"aut","name":"SK Slovan HAC","id":"SK_Slovan_HAC","win":7,"draw":5,"loss":12,"for":35,"against":52},
 {"country":"aut","name":"SC Rudolfshügel","id":"SC_Rudolfshügel","win":1,"draw":2,"loss":21,"for":29,"against":96,"isRemoved":true}
+][
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":3,"draw":1,"loss":0,"for":17,"against":6,"isChampion":true},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":3,"draw":1,"loss":0,"for":7,"against":4},
+{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":2,"draw":0,"loss":2,"for":9,"against":6},
+{"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":0,"draw":1,"loss":3,"for":9,"against":17,"isReturning":true,"isRemoved":true},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":0,"draw":1,"loss":3,"for":8,"against":17}
 ]

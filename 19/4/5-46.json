@@ -102,4 +102,9 @@
 {"country":"aut","name":"SC Helfort","id":"SC_Helfort","win":7,"draw":5,"loss":10,"for":39,"against":56,"isNew":true,"isRemoved":true},
 {"country":"aut","name":"SC Rapid Oberlaa","id":"SC_Rapid_Oberlaa","win":1,"draw":2,"loss":19,"for":22,"against":97,"isRemoved":true},
 {"country":"aut","name":"ESV Ostbahn XI","id":"SC_Ostbahn_XI","win":1,"draw":0,"loss":21,"for":11,"against":157,"isRemoved":true,"isNew":true}
+][
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":3,"draw":0,"loss":0,"for":15,"against":0,"isChampion":true},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":2,"draw":0,"loss":1,"for":10,"against":1},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":0,"draw":1,"loss":2,"for":1,"against":12},
+{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":0,"draw":1,"loss":2,"for":1,"against":14}
 ]

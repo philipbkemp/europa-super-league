@@ -225,4 +225,17 @@
 {"country":"aut","name":"Blau-Weiß Linz","id":"FC_Blau-Weiß_Linz","win":7,"draw":11,"loss":14,"for":33,"against":48,"isNew":true},
 {"country":"aut","name":"WSG Tirol","id":"WSG_Tirol","win":7,"draw":5,"loss":20,"for":29,"against":55},
 {"country":"aut","name":"Austria Lustenau","id":"SC_Austria_Lustenau","win":4,"draw":9,"loss":19,"for":22,"against":58,"isRemoved":true}
+][
+{"country":"isl","name":"Víkingur Reykjavík","id":"Knattspyrnufélagið_Víkingur","win":21,"draw":3,"loss":3,"for":76,"against":30,"isChampion":true},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":17,"draw":4,"loss":6,"for":66,"against":35},
+{"country":"isl","name":"Breiðablik","id":"Breiðablik_men%27s_football","win":12,"draw":5,"loss":10,"for":52,"against":49},
+{"country":"isl","name":"Stjarnan","id":"Stjarnan_men%27s_football","win":14,"draw":4,"loss":9,"for":55,"against":29},
+{"country":"isl","name":"FH","id":"FH_men%27s_football","win":12,"draw":4,"loss":11,"for":49,"against":54},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":10,"draw":7,"loss":10,"for":38,"against":48},
+{"country":"isl","name":"KA","id":"Knattspyrnufélag_Akureyrar","win":12,"draw":5,"loss":10,"for":42,"against":45},
+{"country":"isl","name":"HK","id":"Handknattleiksfélag_Kópavogs","win":6,"draw":9,"loss":12,"for":41,"against":55,"isReturning":true},
+{"country":"isl","name":"Fylkir","id":"Fylkir","win":7,"draw":8,"loss":12,"for":43,"against":55,"isReturning":true},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":7,"draw":6,"loss":14,"for":40,"against":56},
+{"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":6,"draw":7,"loss":14,"for":31,"against":50,"isRemoved":true},
+{"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":2,"draw":10,"loss":15,"for":27,"against":54,"isRemoved":true}
 ]

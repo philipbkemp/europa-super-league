@@ -74,4 +74,8 @@
 {"country":"aut","name":"SV Amateure","id":"FK_Austria_Wien","win":4,"draw":7,"loss":7,"for":23,"against":33},
 {"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":6,"draw":2,"loss":10,"for":30,"against":47},
 {"country":"aut","name":"ASV Hertha","id":"ASV_Hertha","win":1,"draw":7,"loss":10,"for":24,"against":61}
+][
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":2,"draw":0,"loss":0,"for":7,"against":5,"isChampion":true},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":1,"draw":0,"loss":1,"for":5,"against":5},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":0,"draw":0,"loss":2,"for":3,"against":5}
 ]

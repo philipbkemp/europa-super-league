@@ -114,4 +114,8 @@
 {"country":"aut","name":"SC Rudolfshügel","id":"SC_Rudolfshügel","win":6,"draw":8,"loss":10,"for":33,"against":37},
 {"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":7,"draw":5,"loss":12,"for":38,"against":52},
 {"country":"aut","name":"FC Ostmark","id":"FC_Ostmark","win":6,"draw":5,"loss":13,"for":32,"against":54,"isRemoved":true,"isNew":true}
+][
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":2,"draw":0,"loss":0,"for":10,"against":1,"isChampion":true},
+{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":1,"draw":0,"loss":1,"for":3,"against":6},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":0,"draw":0,"loss":2,"for":3,"against":9}
 ]

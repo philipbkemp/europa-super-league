@@ -223,4 +223,11 @@
 {"country":"aut","name":"Kapfenberger SV","id":"Kapfenberger_SV","win":5,"draw":6,"loss":15,"for":29,"against":53,"isRemoved":true},
 {"country":"aut","name":"1. Wiener Neustädter SC","id":"1._Wiener_Neustädter_SC","win":4,"draw":5,"loss":17,"for":30,"against":57,"isRemoved":true},
 {"country":"aut","name":"Salzburger AK","id":null,"win":1,"draw":6,"loss":19,"for":27,"against":79,"isRemoved":true}
+][
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":8,"draw":1,"loss":1,"for":35,"against":11,"isChampion":true},
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":7,"draw":1,"loss":2,"for":18,"against":12},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":5,"draw":2,"loss":3,"for":18,"against":13},
+{"country":"isl","name":"ÍBA","id":"ÍB_Akureyri","win":4,"draw":1,"loss":5,"for":23,"against":23},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":2,"draw":2,"loss":6,"for":11,"against":17},
+{"country":"isl","name":"ÍBH","id":"Íþróttabandalag_Hafnarfjarðar","win":0,"draw":1,"loss":9,"for":6,"against":35,"isRemoved":true,"isReturning":true}
 ]

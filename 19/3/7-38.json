@@ -158,4 +158,8 @@
 {"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":5,"draw":4,"loss":9,"for":32,"against":32,"isRemoved":true},
 {"country":"aut","name":"Favoritner AC","id":"Favoritner_AC","win":4,"draw":4,"loss":10,"for":29,"against":62,"isRemoved":true},
 {"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":2,"draw":1,"loss":15,"for":30,"against":81,"isReturning":true,"isRemoved":true}
+][
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":2,"draw":0,"loss":0,"for":8,"against":3,"isChampion":true},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":1,"draw":0,"loss":1,"for":3,"against":4},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":0,"draw":0,"loss":2,"for":3,"against":7}
 ]

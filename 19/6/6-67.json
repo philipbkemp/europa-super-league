@@ -221,4 +221,11 @@
 {"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":7,"draw":4,"loss":15,"for":28,"against":50,"isReturning":true,"isRemoved":true},
 {"country":"aut","name":"1. Wiener Neustädter SC","id":"1._Wiener_Neustädter_SC","win":6,"draw":3,"loss":17,"for":21,"against":44,"isRemoved":true},
 {"country":"aut","name":"Kapfenberger SV","id":"Kapfenberger_SV","win":2,"draw":7,"loss":17,"for":17,"against":59,"isRemoved":true}
+][
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":6,"draw":2,"loss":2,"for":20,"against":12,"isChampion":true},
+{"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":6,"draw":2,"loss":2,"for":23,"against":12},
+{"country":"isl","name":"ÍBA","id":"Knattspyrnufélag_Akureyrar","win":4,"draw":4,"loss":2,"for":20,"against":17},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":4,"draw":2,"loss":4,"for":19,"against":13},
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":2,"draw":3,"loss":5,"for":13,"against":21},
+{"country":"isl","name":"Þróttur","id":"Knattspyrnufélagið_Þróttur","win":0,"draw":3,"loss":7,"for":7,"against":27,"isRemoved":true,"isReturning":true}
 ]

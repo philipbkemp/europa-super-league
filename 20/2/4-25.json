@@ -116,7 +116,18 @@
 {"country":"che","name":"Yverdon-Sport","id":"Yverdon-Sport_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"che","name":"Zürich","id":"FC_Zürich","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
 ][
-	// hun - not yet created
+{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
+{"country":"hun","name":"Fehérvár","id":"Fehérvár_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"hun","name":"Kecskemét","id":"Kecskeméti_TE","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"hun","name":"MTK","id":"MTK_Budapest_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"hun","name":"Nyíregyháza","id":"Nyíregyháza_Spartacus_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
+{"country":"hun","name":"Paks","id":"Paksi_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"hun","name":"Puskás Akadémia","id":"Puskás_Akadémia_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"hun","name":"Újpest","id":"Újpest_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
 ][
 {"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
@@ -194,4 +205,17 @@
 {"country":"aut","name":"TSV Hartberg","id":"TSV_Hartberg","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"aut","name":"Wolfsberg","id":"Wolfsberger_AC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"aut","name":"Tirol","id":"WSG_Tirol","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
+][
+{"country":"isl","name":"Víkingur Reykjavík","id":"Knattspyrnufélagið_Víkingur","win":10,"draw":3,"loss":1,"for":34,"against":14,"isCurrentSeason":true},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":8,"draw":4,"loss":2,"for":36,"against":18,"isCurrentSeason":true},
+{"country":"isl","name":"Breiðablik","id":"Breiðablik_men%27s_football","win":8,"draw":3,"loss":3,"for":29,"against":17,"isCurrentSeason":true},
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":7,"draw":2,"loss":4,"for":32,"against":17,"isCurrentSeason":true,"isReturning":true},
+{"country":"isl","name":"FH","id":"FH_men%27s_football","win":6,"draw":3,"loss":4,"for":23,"against":22,"isCurrentSeason":true},
+{"country":"isl","name":"Stjarnan","id":"Stjarnan_men%27s_football","win":5,"draw":2,"loss":7,"for":25,"against":29,"isCurrentSeason":true},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":4,"draw":4,"loss":5,"for":19,"against":20,"isCurrentSeason":true},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":3,"draw":5,"loss":5,"for":23,"against":25,"isCurrentSeason":true},
+{"country":"isl","name":"HK","id":"Handknattleiksfélag_Kópavogs","win":4,"draw":1,"loss":8,"for":15,"against":31,"isCurrentSeason":true},
+{"country":"isl","name":"KA","id":"Knattspyrnufélag_Akureyrar","win":3,"draw":3,"loss":7,"for":20,"against":29,"isCurrentSeason":true},
+{"country":"isl","name":"Vestri","id":"Vestri_men%27s_football","win":3,"draw":2,"loss":8,"for":17,"against":33,"isCurrentSeason":true,"isNew":true},
+{"country":"isl","name":"Fylkir","id":"Fylkir","win":2,"draw":2,"loss":9,"for":18,"against":36,"isCurrentSeason":true}
 ]

@@ -228,4 +228,11 @@
 {"country":"aut","name":"SC Eisenstadt","id":"SC_Eisenstadt","win":6,"draw":9,"loss":13,"for":33,"against":42},
 {"country":"aut","name":"Schwarz-Weiß Bregenz","id":"Schwarz-Weiß_Bregenz","win":8,"draw":5,"loss":15,"for":30,"against":49,"isRemoved":true},
 {"country":"aut","name":"WSV Donawitz","id":"DSV_Leoben","win":3,"draw":4,"loss":21,"for":26,"against":82,"isReturning":true,"isRemoved":true}
+][
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":6,"draw":3,"loss":1,"for":27,"against":16,"isChampion":true},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":4,"draw":4,"loss":2,"for":17,"against":15},
+{"country":"isl","name":"ÍBA","id":"Knattspyrnufélag_Akureyrar","win":3,"draw":4,"loss":3,"for":17,"against":14,"isRemoved":true},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":3,"draw":4,"loss":3,"for":18,"against":15},
+{"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":4,"draw":1,"loss":5,"for":16,"against":21,"isReturning":true},
+{"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":0,"draw":4,"loss":6,"for":5,"against":19}
 ]

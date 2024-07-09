@@ -213,4 +213,15 @@
 {"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":11,"draw":10,"loss":15,"for":37,"against":49},
 {"country":"aut","name":"Ried","id":"SV_Ried","win":9,"draw":9,"loss":18,"for":37,"against":54},
 {"country":"aut","name":"Admira Wacker Mödling","id":"FC_Admira_Wacker_Mödling","win":3,"draw":6,"loss":27,"for":25,"against":81}
+][
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":11,"draw":3,"loss":4,"for":29,"against":16,"isChampion":true},
+{"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":11,"draw":3,"loss":4,"for":23,"against":15},
+{"country":"isl","name":"FH","id":"FH_men%27s_football","win":9,"draw":5,"loss":3,"for":23,"against":16,"isReturning":true},
+{"country":"isl","name":"Grindavík","id":"Grindavík_men%27s_football","win":9,"draw":0,"loss":9,"for":27,"against":29},
+{"country":"isl","name":"Fylkir","id":"Fylkir","win":7,"draw":4,"loss":7,"for":26,"against":23},
+{"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":6,"draw":5,"loss":7,"for":27,"against":30},
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":6,"draw":4,"loss":8,"for":16,"against":20},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":6,"draw":2,"loss":10,"for":28,"against":28},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":5,"draw":4,"loss":9,"for":19,"against":26,"isRemoved":true,"isReturning":true},
+{"country":"isl","name":"Breiðablik","id":"Breiðablik_men%27s_football","win":4,"draw":2,"loss":12,"for":17,"against":32,"isRemoved":true}
 ]

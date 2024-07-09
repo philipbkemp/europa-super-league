@@ -186,4 +186,10 @@
 {"country":"aut","name":"SV Gloggnitz","id":"SV_Gloggnitz","win":4,"draw":3,"loss":17,"for":49,"against":104,"isNew":true,"isRemoved":true},
 {"country":"aut","name":"SK Slovan","id":"SK_Slovan_HAC","win":2,"draw":5,"loss":17,"for":31,"against":71,"isReturning":true,"isRemoved":true},
 {"country":"aut","name":"SC Rapid Oberlaa","id":"SC_Rapid_Oberlaa","win":0,"draw":2,"loss":22,"for":23,"against":105,"isRemoved":true}
+][
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":1,"draw":3,"loss":0,"for":10,"against":8,"isChampion":true},
+{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":2,"draw":1,"loss":1,"for":12,"against":9},
+{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":1,"draw":2,"loss":1,"for":6,"against":6},
+{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":2,"draw":0,"loss":2,"for":7,"against":8},
+{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":0,"draw":2,"loss":2,"for":5,"against":9,"isReturning":true}
 ]
