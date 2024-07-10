@@ -543,3 +543,19 @@ function promote(fromDivision,number) {
 		html: true
 	});
 }
+
+function checkRemoved() {
+	lastYear = prompt("Who was removed last year?");
+	lastYear = lastYear.split("|");
+	$.each(lastYear,function(k,v){
+		if ( $("tr[id='"+v+"']").length !== 0 ) {
+			console.error("REMOVED / BUT PRESENT",v);
+		}
+	});
+
+	removedIds = [];
+	$.each( $(".removed"), function(k,v){
+		removedIds.push( $(v).attr("id") );
+	});
+	console.log("REMOVED:",removedIds.join("|"));
+}
