@@ -36,7 +36,7 @@
 	{"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":5,"draw":1,"loss":12,"for":39,"against":62,"isNew":true},
 	{"country":"sco","name":"Vale of Leven","id":"Vale_of_Leven_F.C.","win":5,"draw":1,"loss":12,"for":27,"against":65,"isNew":true},
 	{"country":"sco","name":"Cowlairs","id":"Cowlairs_F.C.","win":3,"draw":4,"loss":11,"for":24,"against":50,"isRemoved":true,"deduct":-3,"deductReason":"Fielding ineligible player","isNew":true},
-	{"country":"sco","name":"Renton","id":"Renton_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Expelled from the league and had their record expunged","isNew":true},
+	{"country":"sco","name":"Renton","id":"Renton_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"note":"Expelled from the league midseason and had their record expunged","isNew":true},
 	{"country":"nld","name":"HVV Den Haag","id":"HVV_Den_Haag","win":6,"draw":1,"loss":1,"for":17,"against":3,"isChampion":true,"isNew":true},
 	{"country":"nld","name":"Koninklijke HFC","id":"Koninklijke_HFC","win":4,"draw":2,"loss":2,"for":18,"against":11,"isNew":true},
 	{"country":"nld","name":"RAP","id":"AVV_RAP","win":2,"draw":5,"loss":1,"for":10,"against":7,"isNew":true},
