@@ -20,7 +20,7 @@
 	{"country":"dnk","name":"Melchioraner Boldklubben","id":"Melchioraner_Boldklubben","win":0,"draw":0,"loss":4,"for":2,"against":12,"isRemoved":true},
 	{"country":"eir","name":"Linfield","id":"Linfield_F.C.","win":15,"draw":1,"loss":1,"for":106,"against":14,"isChampion":true},
 	{"country":"eir","name":"Lancashire Fusiliers","id":"Lancashire_Fusiliers_F.C.","win":11,"draw":2,"loss":3,"for":56,"against":29,"isNew":true,"isRemoved":true},
-	{"country":"eir","name":"Ulster","id":"Ulster_F.C.","win":12,"draw":0,"loss":4,"for":61,"against":34,"isRemoved":true,"removedNote":"Withdrew"},
+	{"country":"eir","name":"Ulster","id":"Ulster_F.C.","win":12,"draw":0,"loss":4,"for":61,"against":34},
 	{"country":"eir","name":"Glentoran","id":"Glentoran_F.C.","win":9,"draw":3,"loss":4,"for":81,"against":41},
 	{"country":"eir","name":"Cliftonville","id":"Cliftonville_F.C.","win":5,"draw":4,"loss":7,"for":31,"against":39},
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":7,"draw":0,"loss":3,"for":40,"against":17,"deduct":-2},

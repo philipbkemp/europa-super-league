@@ -24,7 +24,7 @@
 	{"country":"eir","name":"Cliftonville","id":"Cliftonville_F.C.","win":7,"draw":1,"loss":2,"for":28,"against":18},
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":5,"draw":2,"loss":3,"for":31,"against":18},
 	{"country":"eir","name":"Glentoran","id":"Glentoran_F.C.","win":4,"draw":0,"loss":6,"for":13,"against":17},
-	{"country":"eir","name":"Ulster","id":"Ulster_F.C.","win":3,"draw":0,"loss":7,"for":10,"against":30,"isReturning":true},
+	{"country":"eir","name":"Ulster","id":"Ulster_F.C.","win":3,"draw":0,"loss":7,"for":10,"against":30},
 	{"country":"eir","name":"Derry Olympic","id":"Derry_Olympic_F.C.","win":0,"draw":1,"loss":9,"for":7,"against":26,"isRemoved":true,"removedNote":"Withdrew","isNew":true},
 	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":14,"draw":1,"loss":3,"for":54,"against":25,"isChampion":true},
 	{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":12,"draw":4,"loss":2,"for":41,"against":27},
