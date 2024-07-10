@@ -76,7 +76,7 @@
 	{"country":"mlt","name":"Msida Rangers","id":"Msida_Saint-Joseph_F.C.","win":2,"draw":0,"loss":4,"for":3,"against":10,"isNew":true},
 	{"country":"mlt","name":"St. George's","id":"St._George%27s_F.C.","win":1,"draw":0,"loss":5,"for":3,"against":9},
 	{"country":"mlt","name":"Senglea Shamrocks","id":"Senglea_Athletic_F.C.","win":0,"draw":0,"loss":6,"for":2,"against":26,"isNew":true},
-	{"country":"mlt","name":"Valletta United","id":"Valletta_F.C.","win":4,"draw":1,"loss":2,"for":16,"against":4,"isRemoved":true,"removedNote":"Disqualified"},
+	{"country":"mlt","name":"Valletta United","id":"Valletta_F.C.","win":4,"draw":1,"loss":2,"for":16,"against":4,"note":"Disqualified"},
 	{"country":"rou","name":"Colentina București","id":"Colentina_A.C._București","win":8,"draw":0,"loss":0,"for":33,"against":3,"isChampion":true},
 	{"country":"rou","name":"Cercul Atletic București","id":"Cercul_Atletic_București","win":3,"draw":0,"loss":4,"for":17,"against":20,"isNew":true},
 	{"country":"rou","name":"Bukarester FC","id":"Bukarester_FC","win":2,"draw":1,"loss":3,"for":13,"against":16,"isNew":true},
