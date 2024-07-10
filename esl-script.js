@@ -8,6 +8,7 @@ const countries = {
 	"eng": "England",
 	"grc": "Greece",
 	"hun": "Hungary",
+	"isl": "Iceland",
 	"ita": "Italy",
 	"lux": "Luxembourg",
 	"mlt": "Malta",
@@ -340,14 +341,14 @@ function newTeams() {
 			console.error("TOO Many Teams!");
 		}
 	});
-	if ( addedA ) { console.log("A",diva.join("|")); }
-	if ( addedB ) { console.log("B",divb.join("|")); }
-	if ( addedC ) { console.log("C",divc.join("|")); }
-	if ( addedD ) { console.log("D",divd.join("|")); }
-	if ( addedE ) { console.log("E",dive.join("|")); }
-	if ( addedF ) { console.log("F",divf.join("|")); }
-	if ( addedG ) { console.log("G",divg.join("|")); }
-	if ( addedH ) { console.log("H",divh.join("|")); }
+	if ( addedA ) { console.log("A",diva.length,diva.join("|")); }
+	if ( addedB ) { console.log("B",divb.length,divb.join("|")); }
+	if ( addedC ) { console.log("C",divc.length,divc.join("|")); }
+	if ( addedD ) { console.log("D",divd.length,divd.join("|")); }
+	if ( addedE ) { console.log("E",dive.length,dive.join("|")); }
+	if ( addedF ) { console.log("F",divf.length,divf.join("|")); }
+	if ( addedG ) { console.log("G",divg.length,divg.join("|")); }
+	if ( addedH ) { console.log("H",divh.length,divh.join("|")); }
 }
 
 function verify() {
