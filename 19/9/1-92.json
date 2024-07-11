@@ -230,4 +230,23 @@
 {"country":"isl","name":"FH","id":"FH_men%27s_football","win":6,"draw":4,"loss":8,"for":26,"against":32},
 {"country":"isl","name":"Stjarnan","id":"Stjarnan_men%27s_football","win":4,"draw":6,"loss":8,"for":23,"against":27,"isRemoved":true},
 {"country":"isl","name":"Víðir","id":"Knattspyrnufélagið_Víðir","win":2,"draw":3,"loss":13,"for":17,"against":47,"isRemoved":true,"isReturning":true}
+][
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":19,"draw":11,"loss":4,"for":66,"against":38,"isChampion":true},
+{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":16,"draw":12,"loss":6,"for":51,"against":29},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":17,"draw":9,"loss":8,"for":48,"against":28,"isReturning":true},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":14,"draw":15,"loss":5,"for":43,"against":26},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":13,"draw":13,"loss":8,"for":43,"against":38},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":15,"draw":8,"loss":11,"for":42,"against":35},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":10,"draw":14,"loss":10,"for":39,"against":35},
+{"country":"pol","name":"Zawisza Bydgoszcz","id":"Zawisza_Bydgoszcz","win":11,"draw":12,"loss":11,"for":43,"against":42},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":12,"draw":10,"loss":12,"for":30,"against":31},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":11,"draw":11,"loss":12,"for":34,"against":33},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":9,"draw":15,"loss":10,"for":26,"against":29},
+{"country":"pol","name":"Hutnik Kraków","id":"Hutnik_Kraków","win":9,"draw":14,"loss":11,"for":54,"against":46},
+{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":8,"draw":16,"loss":10,"for":27,"against":28},
+{"country":"pol","name":"Olimpia Poznań","id":"Olimpia_Poznań","win":8,"draw":15,"loss":11,"for":34,"against":41},
+{"country":"pol","name":"Motor Lublin","id":"Motor_Lublin","win":9,"draw":12,"loss":13,"for":33,"against":40,"isRemoved":true},
+{"country":"pol","name":"Stal Stalowa Wola","id":"Stal_Stalowa_Wola","win":8,"draw":12,"loss":14,"for":23,"against":33,"isRemoved":true,"isReturning":true},
+{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":6,"draw":12,"loss":16,"for":28,"against":50,"isRemoved":true},
+{"country":"pol","name":"Igloopol Dębica","id":"Igloopol_Dębica","win":2,"draw":7,"loss":25,"for":15,"against":76,"isRemoved":true}
 ]

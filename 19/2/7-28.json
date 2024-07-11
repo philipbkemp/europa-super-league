@@ -130,4 +130,20 @@
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":2,"draw":0,"loss":1,"for":5,"against":3},
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":1,"draw":0,"loss":2,"for":4,"against":6},
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":0,"draw":0,"loss":3,"for":0,"against":10,"isRemoved":true}
+][
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":20,"draw":2,"loss":6,"for":98,"against":36,"isChampion":true},
+{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":16,"draw":8,"loss":4,"for":63,"against":39},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":17,"draw":2,"loss":9,"for":77,"against":43},
+{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":15,"draw":6,"loss":7,"for":70,"against":42,"isNew":true},
+{"country":"pol","name":"1. FC Kattowitz","id":"1._FC_Kattowitz","win":16,"draw":3,"loss":9,"for":64,"against":49},
+{"country":"pol","name":"Pogoń Lwów","id":"Pogoń_Lwów","win":14,"draw":3,"loss":11,"for":61,"against":55},
+{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":14,"draw":2,"loss":12,"for":63,"against":61},
+{"country":"pol","name":"Czarni Lwów","id":"Czarni_Lwów","win":13,"draw":3,"loss":12,"for":54,"against":51},
+{"country":"pol","name":"Klub Turystów Łódź","id":"Union_Touring_Łódź","win":13,"draw":3,"loss":12,"for":51,"against":49},
+{"country":"pol","name":"Warszawianka Warszawa","id":"KS_Warszawianka","win":11,"draw":7,"loss":10,"for":50,"against":60},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":10,"draw":5,"loss":13,"for":58,"against":57},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":10,"draw":5,"loss":13,"for":43,"against":54},
+{"country":"pol","name":"Hasmonea Lwów","id":"Hasmonea_Lwów","win":6,"draw":3,"loss":19,"for":43,"against":71,"isRemoved":true},
+{"country":"pol","name":"Śląsk Świętochłowice","id":"Śląsk_Świętochłowice","win":5,"draw":2,"loss":21,"for":29,"against":86,"isRemoved":true,"isNew":true},
+{"country":"pol","name":"TKS Toruń","id":"TKS_Toruń","win":2,"draw":2,"loss":24,"for":28,"against":99,"isRemoved":true}
 ]

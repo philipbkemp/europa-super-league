@@ -185,4 +185,17 @@
 {"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":9,"draw":0,"loss":17,"for":42,"against":69,"isReturning":true,"isRemoved":true},
 {"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":6,"draw":4,"loss":16,"for":48,"against":69,"isRemoved":true},
 {"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":2,"draw":3,"loss":21,"for":33,"against":108,"isRemoved":true}
+][
+{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":9,"draw":6,"loss":5,"for":36,"against":22,"isChampion":true},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":9,"draw":6,"loss":5,"for":30,"against":20,"isReturning":true},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":10,"draw":4,"loss":6,"for":24,"against":18},
+{"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":9,"draw":4,"loss":7,"for":24,"against":26},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":9,"draw":3,"loss":8,"for":14,"against":18},
+{"country":"pol","name":"Górnik Radlin","id":"Górnik_Radlin","win":8,"draw":4,"loss":8,"for":23,"against":24},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":7,"draw":5,"loss":8,"for":27,"against":29},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":7,"draw":4,"loss":9,"for":19,"against":20},
+{"country":"pol","name":"Polonia Bydgoszcz","id":"Polonia_Bydgoszcz","win":6,"draw":4,"loss":10,"for":18,"against":22,"isNew":true},
+{"country":"pol","name":"AKS Chorzów","id":"AKS_Chorzów","win":5,"draw":6,"loss":9,"for":28,"against":37,"isRemoved":true},
+{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":5,"draw":6,"loss":9,"for":21,"against":28,"isRemoved":true},
+{"country":"pol","name":"Wawel Kraków","id":"Wawel_Kraków","win":null,"draw":null,"loss":null,"for":null,"against":null,"isRemoved":true}
 ]

@@ -227,4 +227,21 @@
 {"country":"isl","name":"KA","id":"Knattspyrnufélag_Akureyrar","win":5,"draw":1,"loss":12,"for":18,"against":28},
 {"country":"isl","name":"Þór","id":"Þór_Akureyri","win":4,"draw":3,"loss":11,"for":13,"against":24,"isRemoved":true},
 {"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":3,"draw":2,"loss":13,"for":19,"against":36,"isRemoved":true}
+][
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":18,"draw":8,"loss":4,"for":49,"against":25,"isChampion":true},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":15,"draw":10,"loss":5,"for":55,"against":24},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":13,"draw":14,"loss":3,"for":52,"against":26},
+{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":16,"draw":7,"loss":7,"for":33,"against":26},
+{"country":"pol","name":"Hutnik Kraków","id":"Hutnik_Kraków","win":14,"draw":9,"loss":7,"for":53,"against":34,"isNew":true},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":10,"draw":13,"loss":7,"for":48,"against":28},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":12,"draw":9,"loss":9,"for":41,"against":37},
+{"country":"pol","name":"Olimpia Poznań","id":"Olimpia_Poznań","win":9,"draw":12,"loss":9,"for":37,"against":41},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":8,"draw":12,"loss":10,"for":24,"against":24},
+{"country":"pol","name":"Motor Lublin","id":"Motor_Lublin","win":10,"draw":8,"loss":12,"for":33,"against":38},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":11,"draw":6,"loss":13,"for":25,"against":36},
+{"country":"pol","name":"Pegrotour Dębica","id":"Igloopol_Dębica","win":7,"draw":12,"loss":11,"for":29,"against":44,"isNew":true},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":7,"draw":11,"loss":12,"for":25,"against":34},
+{"country":"pol","name":"Zawisza Bydgoszcz","id":"Zawisza_Bydgoszcz","win":8,"draw":7,"loss":15,"for":27,"against":41},
+{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":3,"draw":10,"loss":17,"for":25,"against":49},
+{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":2,"draw":6,"loss":22,"for":21,"against":69}
 ]

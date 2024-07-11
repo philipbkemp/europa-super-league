@@ -179,4 +179,15 @@
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":1,"draw":2,"loss":0,"for":10,"against":4},
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":1,"draw":1,"loss":1,"for":8,"against":3},
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":0,"draw":0,"loss":3,"for":1,"against":17,"isRemoved":true}
+][
+{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":8,"draw":6,"loss":2,"for":37,"against":16,"isChampion":true,"isReturning":true},
+{"country":"pol","name":"AKS Chorzów","id":"AKS_Chorzów","win":8,"draw":4,"loss":4,"for":31,"against":22,"isNew":true},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":7,"draw":5,"loss":4,"for":40,"against":29},
+{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":6,"draw":4,"loss":6,"for":34,"against":38},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":6,"draw":3,"loss":7,"for":30,"against":23},
+{"country":"pol","name":"Pogoń Lwów","id":"Pogoń_Lwów","win":6,"draw":3,"loss":7,"for":19,"against":23},
+{"country":"pol","name":"Warszawianka Warszawa","id":"KS_Warszawianka","win":6,"draw":2,"loss":8,"for":28,"against":44},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":5,"draw":2,"loss":9,"for":30,"against":39},
+{"country":"pol","name":"Garbarnia Kraków","id":"Garbarnia_Kraków","win":3,"draw":5,"loss":8,"for":22,"against":39,"isRemoved":true},
+{"country":"pol","name":"Dąb Katowice","id":"Dąb_Katowice","win":null,"draw":null,"loss":null,"for":null,"against":null,"isRemoved":true}
 ]

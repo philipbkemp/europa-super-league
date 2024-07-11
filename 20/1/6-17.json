@@ -232,4 +232,21 @@
 {"country":"isl","name":"Víkingur Ólafsvík","id":"Ungmennafélagið_Víkingur","win":5,"draw":6,"loss":11,"for":23,"against":38,"isReturning":true},
 {"country":"isl","name":"Fylkir","id":"Fylkir","win":4,"draw":7,"loss":11,"for":25,"against":40,"isRemoved":true},
 {"country":"isl","name":"Þróttur Reykjavík","id":"Knattspyrnufélagið_Þróttur","win":3,"draw":5,"loss":14,"for":19,"against":50,"isRemoved":true,"isReturning":true}
+][
+{"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":21,"draw":8,"loss":8,"for":64,"against":39},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":21,"draw":10,"loss":6,"for":70,"against":31,"isChampion":true},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":20,"draw":9,"loss":8,"for":62,"against":29},
+{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":20,"draw":8,"loss":9,"for":57,"against":37},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":14,"draw":6,"loss":17,"for":54,"against":57},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":11,"draw":13,"loss":13,"for":51,"against":54},
+{"country":"pol","name":"Nieciecza","id":"Bruk-Bet_Termalica_Nieciecza","win":13,"draw":7,"loss":17,"for":35,"against":55},
+{"country":"pol","name":"Korona Kielce","id":"Korona_Kielce","win":14,"draw":5,"loss":18,"for":47,"against":65},
+{"country":"pol","name":"Wisła Płock","id":"Wisła_Płock","win":12,"draw":11,"loss":14,"for":49,"against":57,"isReturning":true},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":14,"draw":11,"loss":12,"for":51,"against":45},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":12,"draw":10,"loss":15,"for":49,"against":52},
+{"country":"pol","name":"Arka Gdynia","id":"Arka_Gdynia","win":10,"draw":9,"loss":18,"for":44,"against":60,"isReturning":true},
+{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":8,"draw":15,"loss":14,"for":45,"against":52},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":10,"draw":8,"loss":19,"for":42,"against":62,"deduct":-4,"deducReason":"Financial problems","isRemoved":true},
+{"country":"pol","name":"Piast Gliwice","id":"Piast_Gliwice","win":12,"draw":10,"loss":15,"for":45,"against":54},
+{"country":"pol","name":"Górnik Łęczna","id":"GKS_Górnik_Łęczna","win":9,"draw":10,"loss":18,"for":47,"against":63,"isRemoved":true}
 ]

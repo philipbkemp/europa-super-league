@@ -232,4 +232,19 @@
 {"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":3,"draw":2,"loss":5,"for":9,"against":13},
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":3,"draw":1,"loss":6,"for":15,"against":18},
 {"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":2,"draw":0,"loss":8,"for":10,"against":21,"isRemoved":true}
+][
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":14,"draw":10,"loss":2,"for":56,"against":26,"isChampion":true},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":13,"draw":9,"loss":4,"for":36,"against":15},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":13,"draw":7,"loss":6,"for":52,"against":27},
+{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":9,"draw":8,"loss":9,"for":31,"against":31},
+{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":10,"draw":6,"loss":10,"for":28,"against":29},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":10,"draw":6,"loss":10,"for":23,"against":28},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":8,"draw":9,"loss":9,"for":22,"against":22},
+{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":8,"draw":9,"loss":9,"for":29,"against":34},
+{"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":10,"draw":3,"loss":13,"for":37,"against":40},
+{"country":"pol","name":"Odra Opole","id":"Odra_Opole","win":7,"draw":9,"loss":10,"for":20,"against":33,"isReturning":true},
+{"country":"pol","name":"Stal Rzeszów","id":"Stal_Rzeszów_(football)","win":8,"draw":7,"loss":11,"for":24,"against":39},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":5,"draw":11,"loss":10,"for":18,"against":24},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":7,"draw":7,"loss":12,"for":22,"against":38,"isRemoved":true},
+{"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":7,"draw":5,"loss":14,"for":32,"against":44,"isRemoved":true,"isReturning":true}
 ]

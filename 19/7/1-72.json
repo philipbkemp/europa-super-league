@@ -239,4 +239,19 @@
 {"country":"isl","name":"Breiðablik","id":"Breiðablik_men%27s_football","win":4,"draw":2,"loss":8,"for":12,"against":31,"isNew":true},
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":3,"draw":4,"loss":7,"for":13,"against":20},
 {"country":"isl","name":"ÍBA","id":"ÍB_Akureyri","win":4,"draw":1,"loss":9,"for":21,"against":31,"isRemoved":true}
+][
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":14,"draw":9,"loss":3,"for":45,"against":23,"isChampion":true},
+{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":13,"draw":7,"loss":6,"for":31,"against":26},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":12,"draw":8,"loss":6,"for":36,"against":20},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":13,"draw":4,"loss":9,"for":46,"against":33},
+{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":12,"draw":6,"loss":8,"for":29,"against":19},
+{"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":11,"draw":6,"loss":9,"for":28,"against":21},
+{"country":"pol","name":"Odra Opole","id":"Odra_Opole","win":9,"draw":9,"loss":8,"for":25,"against":27,"isReturning":true},
+{"country":"pol","name":"Zagłębie Wałbrzych","id":"Zagłębie_Wałbrzych","win":9,"draw":8,"loss":9,"for":22,"against":21},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":7,"draw":11,"loss":8,"for":29,"against":34},
+{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":5,"draw":11,"loss":10,"for":19,"against":31},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":8,"draw":4,"loss":14,"for":24,"against":37},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":3,"draw":13,"loss":10,"for":24,"against":39,"isReturning":true},
+{"country":"pol","name":"Stal Rzeszów","id":"Stal_Rzeszów_(football)","win":4,"draw":10,"loss":12,"for":20,"against":32,"isRemoved":true},
+{"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":6,"draw":6,"loss":14,"for":24,"against":39,"isRemoved":true}
 ]

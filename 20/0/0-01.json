@@ -230,4 +230,21 @@
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":4,"draw":5,"loss":9,"for":22,"against":33},
 {"country":"isl","name":"Stjarnan","id":"Stjarnan_men%27s_football","win":4,"draw":5,"loss":9,"for":18,"against":31,"isRemoved":true,"isReturning":true},
 {"country":"isl","name":"Leiftur","id":"Knattspyrnufélag_Fjallabyggðar","win":3,"draw":7,"loss":8,"for":24,"against":39,"isRemoved":true}
+][
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":19,"draw":5,"loss":6,"for":66,"against":27,"isChampion":true,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":16,"draw":5,"loss":9,"for":43,"against":33,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":14,"draw":8,"loss":8,"for":45,"against":29,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
+{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":13,"draw":7,"loss":10,"for":38,"against":30,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":14,"draw":4,"loss":12,"for":43,"against":40,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":13,"draw":5,"loss":12,"for":50,"against":48,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
+{"country":"pol","name":"Amica Wronki","id":"Amica_Wronki","win":13,"draw":5,"loss":12,"for":48,"against":44,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
+{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":9,"draw":15,"loss":6,"for":28,"against":22,"isReturning":true,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
+{"country":"pol","name":"Odra Wodzisław","id":"Odra_Wodzisław_Śląski","win":10,"draw":9,"loss":11,"for":39,"against":46,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
+{"country":"pol","name":"Groclin Grodzisk","id":"Dyskobolia_Grodzisk_Wielkopolski","win":9,"draw":10,"loss":11,"for":35,"against":38,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":9,"draw":9,"loss":12,"for":32,"against":38,"isReturning":true,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":9,"draw":9,"loss":12,"for":33,"against":40,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":9,"draw":7,"loss":14,"for":29,"against":35,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
+{"country":"pol","name":"Stomil Olsztyn","id":"Stomil_Olsztyn_S.A.","win":10,"draw":4,"loss":16,"for":22,"against":41,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
+{"country":"pol","name":"Orlen Płock","id":"Wisła_Płock","win":9,"draw":4,"loss":17,"for":37,"against":55,"isRemoved":true,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
+{"country":"pol","name":"Ruch Radzionków","id":"Ruch_Radzionków","win":9,"draw":4,"loss":17,"for":29,"against":51,"isRemoved":true,"isRemoved":true,"removedNote":"League contested as a grouped format next season"}
 ]

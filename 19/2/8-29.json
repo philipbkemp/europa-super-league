@@ -124,4 +124,18 @@
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":2,"draw":0,"loss":0,"for":6,"against":2,"isChampion":true},"isRemoved":true,"removedNote":"League changed to knockout format next season",
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":1,"draw":0,"loss":1,"for":4,"against":4,"isRemoved":true,"removedNote":"League changed to knockout format next season"},
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":0,"draw":0,"loss":2,"for":5,"against":9,"isRemoved":true,"removedNote":"League changed to knockout format next season"}
+][
+{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":15,"draw":3,"loss":6,"for":58,"against":33,"isChampion":true},
+{"country":"pol","name":"Garbarnia Kraków","id":"Garbarnia_Kraków","win":13,"draw":6,"loss":5,"for":62,"against":43,"isNew":true},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":13,"draw":4,"loss":7,"for":62,"against":46},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":12,"draw":6,"loss":6,"for":44,"against":34},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":11,"draw":7,"loss":6,"for":41,"against":41},
+{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":10,"draw":8,"loss":6,"for":60,"against":35},
+{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":8,"draw":4,"loss":12,"for":47,"against":57},
+{"country":"pol","name":"Warszawianka Warszawa","id":"KS_Warszawianka","win":6,"draw":8,"loss":10,"for":36,"against":54},
+{"country":"pol","name":"Pogoń Lwów","id":"Pogoń_Lwów","win":7,"draw":5,"loss":12,"for":43,"against":48},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":6,"draw":7,"loss":11,"for":32,"against":48},
+{"country":"pol","name":"Czarni Lwów","id":"Czarni_Lwów","win":7,"draw":4,"loss":13,"for":59,"against":63},
+{"country":"pol","name":"1. FC Kattowitz","id":"1._FC_Kattowitz","win":5,"draw":7,"loss":12,"for":33,"against":51,"isRemoved":true},
+{"country":"pol","name":"Klub Turystów Łódź","id":"Union_Touring_Łódź","win":6,"draw":5,"loss":13,"for":31,"against":55,"isRemoved":true}
 ]

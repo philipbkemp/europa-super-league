@@ -236,4 +236,21 @@
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":6,"draw":4,"loss":12,"for":24,"against":45,"isReturning":true},
 {"country":"isl","name":"Þróttur Reykjavík","id":"Knattspyrnufélagið_Þróttur","win":4,"draw":4,"loss":14,"for":23,"against":48,"isRemoved":true},
 {"country":"isl","name":"Fjölnir","id":"Ungmennafélagið_Fjölnir","win":3,"draw":6,"loss":13,"for":27,"against":47,"isRemoved":true}
+][
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":19,"draw":8,"loss":3,"for":51,"against":20,"isChampion":true},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":19,"draw":5,"loss":6,"for":48,"against":20},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":16,"draw":5,"loss":9,"for":40,"against":30},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":15,"draw":7,"loss":8,"for":36,"against":22},
+{"country":"pol","name":"GKS Bełchatów","id":"GKS_Bełchatów","win":13,"draw":9,"loss":8,"for":37,"against":27},
+{"country":"pol","name":"Korona Kielce","id":"Korona_Kielce","win":9,"draw":10,"loss":11,"for":35,"against":41,"isReturning":true},
+{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":9,"draw":10,"loss":11,"for":29,"against":31},
+{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":9,"draw":10,"loss":11,"for":30,"against":32},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":8,"draw":12,"loss":10,"for":32,"against":33},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":8,"draw":11,"loss":11,"for":30,"against":38,"isReturning":true},
+{"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":11,"draw":11,"loss":8,"for":29,"against":27,"deduct":-10,"deductReason":"Involvement in corruption scandal"},
+{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":9,"draw":7,"loss":14,"for":25,"against":39},
+{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":9,"draw":6,"loss":15,"for":25,"against":38},
+{"country":"pol","name":"Arka Gdynia","id":"Arka_Gdynia","win":7,"draw":7,"loss":16,"for":28,"against":39},
+{"country":"pol","name":"Odra Wodzisław","id":"Odra_Wodzisław_Śląski","win":7,"draw":6,"loss":17,"for":27,"against":45,"isRemoved":true},
+{"country":"pol","name":"Piast Gliwice","id":"Piast_Gliwice","win":7,"draw":6,"loss":17,"for":30,"against":50,"isRemoved":true}
 ]

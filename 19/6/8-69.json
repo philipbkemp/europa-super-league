@@ -235,4 +235,19 @@
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":3,"draw":4,"loss":3,"for":18,"against":15},
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":4,"draw":1,"loss":5,"for":16,"against":21,"isReturning":true},
 {"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":0,"draw":4,"loss":6,"for":5,"against":19}
+][
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":16,"draw":7,"loss":3,"for":51,"against":16,"isChampion":true},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":15,"draw":7,"loss":4,"for":49,"against":21},
+{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":8,"draw":12,"loss":9,"for":30,"against":23},
+{"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":11,"draw":6,"loss":9,"for":35,"against":35},
+{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":12,"draw":4,"loss":10,"for":32,"against":33},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":9,"draw":9,"loss":8,"for":34,"against":34},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":9,"draw":7,"loss":10,"for":25,"against":32},
+{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":6,"draw":12,"loss":8,"for":21,"against":21},
+{"country":"pol","name":"Odra Opole","id":"Odra_Opole","win":8,"draw":8,"loss":10,"for":28,"against":33},
+{"country":"pol","name":"Zagłębie Wałbrzych","id":"Zagłębie_Wałbrzych","win":10,"draw":3,"loss":13,"for":21,"against":29,"isNew":true},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":7,"draw":8,"loss":11,"for":24,"against":31},
+{"country":"pol","name":"Stal Rzeszów","id":"Stal_Rzeszów_(football)","win":7,"draw":8,"loss":11,"for":18,"against":31},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":7,"draw":7,"loss":12,"for":19,"against":30,"isRemoved":true},
+{"country":"pol","name":"ROW Rybnik","id":"KS_ROW_1964_Rybnik","win":3,"draw":10,"loss":13,"for":23,"against":41,"isRemoved":true,"isReturning":true}
 ]

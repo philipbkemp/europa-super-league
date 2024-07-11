@@ -242,4 +242,21 @@
 {"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":5,"draw":6,"loss":7,"for":14,"against":19,"isReturning":true},
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":4,"draw":7,"loss":7,"for":17,"against":23,"isRemoved":true},
 {"country":"isl","name":"KA","id":"Knattspyrnufélag_Akureyrar","win":4,"draw":6,"loss":8,"for":18,"against":24,"isRemoved":true}
+][
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":17,"draw":5,"loss":8,"for":42,"against":31,"isChampion":true},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":13,"draw":12,"loss":5,"for":50,"against":30},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":11,"draw":13,"loss":6,"for":34,"against":22},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":12,"draw":9,"loss":9,"for":44,"against":28},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":13,"draw":6,"loss":11,"for":44,"against":36},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":12,"draw":6,"loss":12,"for":35,"against":34},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":10,"draw":10,"loss":10,"for":36,"against":38},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":11,"draw":7,"loss":12,"for":43,"against":39},
+{"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":8,"draw":13,"loss":9,"for":34,"against":37},
+{"country":"pol","name":"Bałtyk Gdynia","id":"Bałtyk_Gdynia","win":9,"draw":11,"loss":10,"for":28,"against":31},
+{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":10,"draw":9,"loss":11,"for":29,"against":37},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":10,"draw":8,"loss":12,"for":30,"against":38},
+{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":10,"draw":7,"loss":13,"for":28,"against":34,"isReturning":true},
+{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":6,"draw":15,"loss":9,"for":20,"against":33,"isReturning":true},
+{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":7,"draw":10,"loss":13,"for":27,"against":36,"isRemoved":true},
+{"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":7,"draw":7,"loss":16,"for":26,"against":46,"isRemoved":true}
 ]

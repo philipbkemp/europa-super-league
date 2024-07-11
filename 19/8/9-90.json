@@ -231,4 +231,21 @@
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":4,"draw":5,"loss":9,"for":24,"against":31},
 {"country":"isl","name":"Fylkir","id":"Fylkir","win":5,"draw":2,"loss":11,"for":18,"against":31,"isRemoved":true,"isNew":true},
 {"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":3,"draw":6,"loss":9,"for":18,"against":29,"isRemoved":true}
+][
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":8,"draw":12,"loss":4,"for":45,"against":25,"winByThree":5,"lossByThree":1,"isChampion":true},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":12,"draw":10,"loss":6,"for":37,"against":23,"winByThree":2,"lossByThree":0,"isReturning":true},
+{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":10,"draw":14,"loss":4,"for":31,"against":17,"winByThree":2,"lossByThree":0},
+{"country":"pol","name":"Zawisza Bydgoszcz","id":"Zawisza_Bydgoszcz","win":9,"draw":7,"loss":10,"for":36,"against":25,"winByThree":4,"lossByThree":0,"isReturning":true},
+{"country":"pol","name":"Olimpia Poznań","id":"Olimpia_Poznań","win":10,"draw":10,"loss":8,"for":35,"against":22,"winByThree":2,"lossByThree":0},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":12,"draw":10,"loss":6,"for":37,"against":27,"winByThree":1,"lossByThree":1},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":10,"draw":16,"loss":3,"for":27,"against":18,"winByThree":0,"lossByThree":1},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":11,"draw":10,"loss":7,"for":35,"against":30,"winByThree":1,"lossByThree":1},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":5,"draw":12,"loss":10,"for":32,"against":34,"winByThree":3,"lossByThree":0},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":6,"draw":10,"loss":11,"for":30,"against":34,"winByThree":2,"lossByThree":1},
+{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":6,"draw":10,"loss":10,"for":27,"against":37,"winByThree":2,"lossByThree":2},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":4,"draw":9,"loss":9,"for":31,"against":36,"winByThree":4,"lossByThree":4},
+{"country":"pol","name":"Motor Lublin","id":"Motor_Lublin","win":6,"draw":13,"loss":7,"for":18,"against":35,"winByThree":0,"lossByThree":4,"isReturning":true},
+{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":6,"draw":12,"loss":8,"for":22,"against":36,"winByThree":0,"lossByThree":4,"isReturning":true},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":4,"draw":12,"loss":11,"for":22,"against":39,"winByThree":0,"lossByThree":3,"isRemoved":true},
+{"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":3,"draw":13,"loss":7,"for":19,"against":45,"winByThree":0,"lossByThree":6,"isRemoved":true}
 ]

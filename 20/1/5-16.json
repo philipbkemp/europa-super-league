@@ -230,4 +230,21 @@
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":5,"draw":4,"loss":13,"for":26,"against":37},
 {"country":"isl","name":"Leiknir Reykjavík","id":"Leiknir_Reykjavík","win":3,"draw":6,"loss":13,"for":20,"against":34,"isRemoved":true,"isNew":true},
 {"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":2,"draw":4,"loss":16,"for":22,"against":61,"isRemoved":true}
+][
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":21,"draw":10,"loss":6,"for":70,"against":32,"isChampion":true},
+{"country":"pol","name":"Piast Gliwice","id":"Piast_Gliwice","win":20,"draw":9,"loss":8,"for":60,"against":45},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":12,"draw":17,"loss":8,"for":43,"against":43},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":17,"draw":9,"loss":11,"for":55,"against":42,"isReturning":true},
+{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":16,"draw":10,"loss":11,"for":66,"against":50},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":14,"draw":6,"loss":17,"for":42,"against":47},
+{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":14,"draw":10,"loss":13,"for":53,"against":44},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":11,"draw":8,"loss":18,"for":40,"against":60,"deduct":-1,"deductReason":"Failing licensing requirements"},
+{"country":"pol","name":"Podbeskidzie Bielsko-Biała","id":"Podbeskidzie_Bielsko-Biała","win":9,"draw":12,"loss":16,"for":45,"against":63,"isRemoved":true},
+{"country":"pol","name":"Korona Kielce","id":"Korona_Kielce","win":10,"draw":15,"loss":12,"for":39,"against":45},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":12,"draw":15,"loss":10,"for":61,"against":45,"deduct":-1,"deductReason":"Failing licensing requirements"},
+{"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":13,"draw":6,"loss":18,"for":46,"against":62},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":12,"draw":12,"loss":13,"for":41,"against":46},
+{"country":"pol","name":"Nieciecza","id":"Bruk-Bet_Termalica_Nieciecza","win":10,"draw":12,"loss":15,"for":39,"against":50,"isNew":true},
+{"country":"pol","name":"Górnik Łęczna","id":"GKS_Górnik_Łęczna","win":10,"draw":9,"loss":18,"for":40,"against":53},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":6,"draw":18,"loss":13,"for":38,"against":51,"deduct":-1,"deductReason":"Failing licensing requirements","isRemoved":true}
 ]

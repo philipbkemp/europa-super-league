@@ -224,4 +224,19 @@
 {"country":"isl","name":"KA","id":"Knattspyrnufélag_Akureyrar","win":6,"draw":4,"loss":8,"for":29,"against":27},
 {"country":"isl","name":"Þróttur","id":"Knattspyrnufélagið_Þróttur","win":7,"draw":1,"loss":10,"for":27,"against":29,"isRemoved":true,"isReturning":true},
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":6,"draw":2,"loss":10,"for":24,"against":33,"isRemoved":true,"isReturning":true}
+][
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":21,"draw":2,"loss":3,"for":73,"against":30,"isChampion":true},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":18,"draw":6,"loss":2,"for":56,"against":19},
+{"country":"pol","name":"Amica Wronki","id":"Amica_Wronki","win":14,"draw":6,"loss":6,"for":47,"against":25},
+{"country":"pol","name":"Dyskobolia Grodzisk Wielkopolski","id":"Dyskobolia_Grodzisk_Wielkopolski","win":13,"draw":7,"loss":6,"for":59,"against":31},
+{"country":"pol","name":"Wisła Płock","id":"Wisła_Płock","win":10,"draw":8,"loss":8,"for":41,"against":39},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":10,"draw":7,"loss":9,"for":43,"against":34},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":8,"draw":9,"loss":9,"for":26,"against":33},
+{"country":"pol","name":"Górnik Łęczna","id":"GKS_Górnik_Łęczna","win":10,"draw":3,"loss":13,"for":22,"against":38,"isNew":true},
+{"country":"pol","name":"Odra Wodzisław","id":"Odra_Wodzisław_Śląski","win":8,"draw":4,"loss":14,"for":27,"against":40},
+{"country":"pol","name":"Dospel Katowice","id":"GKS_Katowice","win":6,"draw":8,"loss":12,"for":20,"against":42},
+{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":6,"draw":7,"loss":13,"for":25,"against":40},
+{"country":"pol","name":"Górnik Polkowice","id":"Górnik_Polkowice","win":6,"draw":5,"loss":15,"for":17,"against":37,"isRemoved":true,"isNew":true},
+{"country":"pol","name":"Świt Nowy Dwór Mazowiecki","id":"Świt_Nowy_Dwór_Mazowiecki","win":5,"draw":7,"loss":14,"for":21,"against":42,"isRemoved":true,"isNew":true},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":4,"draw":7,"loss":15,"for":25,"against":52,"isRemoved":true}
 ]

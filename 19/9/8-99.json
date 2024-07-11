@@ -234,4 +234,21 @@
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":4,"draw":6,"loss":8,"for":25,"against":33},
 {"country":"isl","name":"Þróttur","id":"Knattspyrnufélagið_Þróttur","win":4,"draw":6,"loss":8,"for":27,"against":39,"isRemoved":true,"isReturning":true},
 {"country":"isl","name":"ÍR","id":"ÍR_men%27s_football","win":4,"draw":5,"loss":9,"for":20,"against":30,"isRemoved":true,"isNew":true}
+][
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":23,"draw":4,"loss":3,"for":75,"against":23,"isChampion":true},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":18,"draw":2,"loss":10,"for":50,"against":33},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":16,"draw":8,"loss":6,"for":41,"against":25},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":17,"draw":3,"loss":10,"for":55,"against":36},
+{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":13,"draw":7,"loss":10,"for":38,"against":31},
+{"country":"pol","name":"Ruch Radzionków","id":"Ruch_Radzionków","win":10,"draw":11,"loss":9,"for":40,"against":35,"isNew":true},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":9,"draw":12,"loss":9,"for":34,"against":31},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":9,"draw":11,"loss":10,"for":42,"against":44},
+{"country":"pol","name":"Stomil Olsztyn","id":"Stomil_Olsztyn_S.A.","win":10,"draw":7,"loss":13,"for":29,"against":38},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":9,"draw":9,"loss":12,"for":23,"against":36},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":8,"draw":10,"loss":12,"for":33,"against":45},
+{"country":"pol","name":"Amica Wronki","id":"Amica_Wronki","win":9,"draw":7,"loss":14,"for":31,"against":39},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":9,"draw":6,"loss":15,"for":33,"against":54},
+{"country":"pol","name":"Odra Wodzisław","id":"Odra_Wodzisław_Śląski","win":8,"draw":8,"loss":14,"for":33,"against":41},
+{"country":"pol","name":"GKS Bełchatów","id":"GKS_Bełchatów","win":7,"draw":7,"loss":16,"for":26,"against":48,"isRemoved":true,"isReturning":true},
+{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":5,"draw":8,"loss":17,"for":25,"against":49,"isRemoved":true}
 ]

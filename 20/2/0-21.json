@@ -240,4 +240,21 @@
 {"country":"isl","name":"Víkingur Reykjavík","id":"Knattspyrnufélagið_Víkingur","win":3,"draw":8,"loss":7,"for":25,"against":30},
 {"country":"isl","name":"Grótta","id":"Íþróttafélagið_Grótta","win":1,"draw":5,"loss":12,"for":15,"against":43,"isRemoved":true,"isNew":true},
 {"country":"isl","name":"Fjölnir","id":"Ungmennafélagið_Fjölnir","win":0,"draw":6,"loss":12,"for":15,"against":40,"isRemoved":true,"isReturning":true}
+][
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":19,"draw":7,"loss":4,"for":48,"against":24,"isChampion":true},
+{"country":"pol","name":"Raków Częstochowa","id":"Raków_Częstochowa","win":17,"draw":8,"loss":5,"for":46,"against":25},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":15,"draw":7,"loss":8,"for":36,"against":23},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":11,"draw":10,"loss":9,"for":36,"against":32},
+{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":13,"draw":4,"loss":13,"for":33,"against":32,"isReturning":true},
+{"country":"pol","name":"Piast Gliwice","id":"Piast_Gliwice","win":11,"draw":9,"loss":10,"for":39,"against":32},
+{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":12,"draw":6,"loss":12,"for":40,"against":37},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":11,"draw":8,"loss":11,"for":38,"against":40},
+{"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":10,"draw":7,"loss":13,"for":39,"against":48},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":10,"draw":7,"loss":13,"for":31,"against":33},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":9,"draw":10,"loss":11,"for":39,"against":38},
+{"country":"pol","name":"Wisła Płock","id":"Wisła_Płock","win":8,"draw":9,"loss":13,"for":37,"against":44},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":8,"draw":9,"loss":13,"for":39,"against":42},
+{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":8,"draw":13,"loss":9,"for":28,"against":32,"deduct":-5,"deductReason":"Match-fixing in 2003-04"},
+{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":6,"draw":11,"loss":13,"for":31,"against":47,"isReturning":true},
+{"country":"pol","name":"Podbeskidzie Bielsko-Biała","id":"Podbeskidzie_Bielsko-Biała","win":6,"draw":7,"loss":17,"for":29,"against":60,"isRemoved":true,"isReturning":true}
 ]

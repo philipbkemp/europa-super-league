@@ -245,4 +245,21 @@
 {"country":"isl","name":"ÍBA","id":"ÍB_Akureyri","win":4,"draw":3,"loss":7,"for":15,"against":29,"isReturning":true},
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":3,"draw":3,"loss":8,"for":17,"against":27},
 {"country":"isl","name":"Breiðablik","id":"Breiðablik_men%27s_football","win":1,"draw":3,"loss":10,"for":23,"against":45,"isRemoved":true}
+][
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":14,"draw":13,"loss":3,"for":53,"against":23,"isChampion":true},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":16,"draw":6,"loss":8,"for":43,"against":27},
+{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":13,"draw":11,"loss":6,"for":41,"against":24},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":12,"draw":10,"loss":8,"for":38,"against":28},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":11,"draw":12,"loss":7,"for":35,"against":27},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":9,"draw":11,"loss":10,"for":24,"against":28},
+{"country":"pol","name":"ROW Rybnik","id":"KS_ROW_1964_Rybnik","win":9,"draw":11,"loss":10,"for":24,"against":28},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":8,"draw":13,"loss":9,"for":28,"against":38},
+{"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":7,"draw":14,"loss":9,"for":26,"against":27},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":8,"draw":12,"loss":10,"for":25,"against":26},
+{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":10,"draw":7,"loss":13,"for":22,"against":31},
+{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":7,"draw":13,"loss":10,"for":23,"against":34},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":9,"draw":9,"loss":12,"for":21,"against":34,"isReturning":true},
+{"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":8,"draw":10,"loss":12,"for":26,"against":31,"isReturning":true},
+{"country":"pol","name":"Odra Opole","id":"Odra_Opole","win":6,"draw":12,"loss":12,"for":25,"against":37,"isRemoved":true},
+{"country":"pol","name":"Zagłębie Wałbrzych","id":"Zagłębie_Wałbrzych","win":7,"draw":8,"loss":15,"for":22,"against":33,"isRemoved":true}
 ]

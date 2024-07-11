@@ -245,4 +245,21 @@
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":3,"draw":6,"loss":5,"for":19,"against":20},
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":2,"draw":5,"loss":7,"for":14,"against":19,"isReturning":true},
 {"country":"isl","name":"ÍBA","id":"ÍB_Akureyri","win":3,"draw":3,"loss":8,"for":16,"against":33,"isRemoved":true}
+][
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":20,"draw":4,"loss":6,"for":61,"against":27,"isChampion":true},
+{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":15,"draw":8,"loss":7,"for":40,"against":24},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":13,"draw":10,"loss":7,"for":40,"against":31},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":12,"draw":10,"loss":8,"for":40,"against":31},
+{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":11,"draw":9,"loss":10,"for":31,"against":31},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":9,"draw":11,"loss":10,"for":45,"against":35},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":7,"draw":15,"loss":8,"for":48,"against":46},
+{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":6,"draw":16,"loss":8,"for":25,"against":31},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":10,"draw":8,"loss":12,"for":31,"against":43},
+{"country":"pol","name":"GKS Tychy","id":"GKS_Tychy","win":8,"draw":11,"loss":11,"for":34,"against":38,"isNew":true},
+{"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":7,"draw":12,"loss":11,"for":43,"against":45},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":9,"draw":8,"loss":13,"for":30,"against":35},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":7,"draw":12,"loss":11,"for":26,"against":34},
+{"country":"pol","name":"ROW Rybnik","id":"KS_ROW_1964_Rybnik","win":7,"draw":12,"loss":11,"for":24,"against":35},
+{"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":8,"draw":10,"loss":12,"for":25,"against":38,"isRemoved":true},
+{"country":"pol","name":"Arka Gdynia","id":"Arka_Gdynia","win":8,"draw":10,"loss":12,"for":26,"against":45,"isRemoved":true,"isNew":true}
 ]

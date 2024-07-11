@@ -234,4 +234,21 @@
 {"country":"isl","name":"Fjölnir","id":"Ungmennafélagið_Fjölnir","win":6,"draw":7,"loss":9,"for":32,"against":40},
 {"country":"isl","name":"Víkingur Ó.","id":"Ungmennafélagið_Víkingur","win":6,"draw":4,"loss":12,"for":24,"against":44,"isRemoved":true},
 {"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":3,"draw":8,"loss":11,"for":28,"against":41,"isRemoved":true}
+][
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":16,"draw":12,"loss":9,"for":53,"against":34},
+{"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":20,"draw":7,"loss":10,"for":55,"against":41},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":22,"draw":4,"loss":11,"for":55,"against":35,"isChampion":true},
+{"country":"pol","name":"Wisła Płock","id":"Wisła_Płock","win":17,"draw":6,"loss":14,"for":53,"against":45},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":16,"draw":12,"loss":9,"for":68,"against":54,"isReturning":true},
+{"country":"pol","name":"Korona Kielce","id":"Korona_Kielce","win":12,"draw":13,"loss":12,"for":49,"against":54},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":15,"draw":10,"loss":12,"for":51,"against":42},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":13,"draw":13,"loss":11,"for":45,"against":42},
+{"country":"pol","name":"Arka Gdynia","id":"Arka_Gdynia","win":11,"draw":10,"loss":16,"for":46,"against":48},
+{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":13,"draw":11,"loss":13,"for":51,"against":52},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":13,"draw":11,"loss":13,"for":50,"against":54},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":12,"draw":9,"loss":16,"for":46,"against":54},
+{"country":"pol","name":"Piast Gliwice","id":"Piast_Gliwice","win":8,"draw":13,"loss":16,"for":40,"against":48},
+{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":9,"draw":13,"loss":15,"for":46,"against":58,"deduct":-1,"deductReason":"Failing licensing requirements"},
+{"country":"pol","name":"Bruk-Bet Termalica Nieciecza","id":"Bruk-Bet_Termalica_Nieciecza","win":9,"draw":9,"loss":19,"for":39,"against":66,"isRemoved":true},
+{"country":"pol","name":"Sandecja Nowy Sącz","id":"Sandecja_Nowy_Sącz","win":6,"draw":15,"loss":16,"for":34,"against":54,"isRemoved":true,"isNew":true}
 ]

@@ -228,4 +228,21 @@
 {"country":"isl","name":"KA","id":"Knattspyrnufélag_Akureyrar","win":3,"draw":5,"loss":10,"for":14,"against":38,"isReturning":true},
 {"country":"isl","name":"FH","id":"FH_men%27s_football","win":2,"draw":6,"loss":10,"for":22,"against":37,"isRemoved":true},
 {"country":"isl","name":"Breiðablik","id":"Breiðablik_men%27s_football","win":3,"draw":1,"loss":14,"for":19,"against":45,"isRemoved":true}
+][
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":16,"draw":7,"loss":7,"for":44,"against":27,"isChampion":true},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":14,"draw":11,"loss":5,"for":37,"against":26},
+{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":14,"draw":8,"loss":8,"for":43,"against":27},
+{"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":11,"draw":13,"loss":6,"for":42,"against":27},
+{"country":"pol","name":"Odra Opole","id":"Odra_Opole","win":14,"draw":6,"loss":10,"for":42,"against":28},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":10,"draw":13,"loss":7,"for":32,"against":28},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":11,"draw":8,"loss":11,"for":34,"against":38},
+{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":10,"draw":10,"loss":10,"for":28,"against":36,"isReturning":true},
+{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":7,"draw":15,"loss":8,"for":22,"against":25},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":11,"draw":7,"loss":12,"for":23,"against":27},
+{"country":"pol","name":"Arka Gdynia","id":"Arka_Gdynia","win":11,"draw":7,"loss":12,"for":29,"against":35},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":9,"draw":8,"loss":13,"for":30,"against":36},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":9,"draw":8,"loss":13,"for":42,"against":43},
+{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":9,"draw":6,"loss":15,"for":23,"against":39},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":7,"draw":8,"loss":15,"for":31,"against":41,"isRemoved":true},
+{"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":5,"draw":9,"loss":16,"for":22,"against":41,"isRemoved":true,"isReturning":true}
 ]

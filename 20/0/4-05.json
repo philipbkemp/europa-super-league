@@ -230,4 +230,19 @@
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":4,"draw":5,"loss":9,"for":19,"against":28},
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":4,"draw":4,"loss":10,"for":19,"against":30,"isRemoved":true,"isReturning":true},
 {"country":"isl","name":"KA","id":"Knattspyrnufélag_Akureyrar","win":4,"draw":3,"loss":11,"for":13,"against":30,"isRemoved":true}
+][
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":19,"draw":5,"loss":2,"for":70,"against":23,"isChampion":true},
+{"country":"pol","name":"Dyskobolia Grodzisk Wielkopolski","id":"Dyskobolia_Grodzisk_Wielkopolski","win":16,"draw":3,"loss":7,"for":46,"against":28},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":13,"draw":8,"loss":5,"for":42,"against":19},
+{"country":"pol","name":"Wisła Płock","id":"Wisła_Płock","win":12,"draw":5,"loss":9,"for":35,"against":30},
+{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":12,"draw":4,"loss":10,"for":37,"against":29,"isReturning":true},
+{"country":"pol","name":"Amica Wronki","id":"Amica_Wronki","win":10,"draw":8,"loss":8,"for":29,"against":28},
+{"country":"pol","name":"Górnik Łęczna","id":"GKS_Górnik_Łęczna","win":10,"draw":6,"loss":10,"for":36,"against":36},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":10,"draw":4,"loss":12,"for":34,"against":40},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":7,"draw":10,"loss":9,"for":34,"against":43,"isReturning":true},
+{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":8,"draw":5,"loss":13,"for":27,"against":52},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":7,"draw":7,"loss":12,"for":27,"against":30},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":6,"draw":10,"loss":10,"for":31,"against":41,"isReturning":true},
+{"country":"pol","name":"Odra Wodzisław","id":"Odra_Wodzisław_Śląski","win":7,"draw":3,"loss":16,"for":27,"against":41},
+{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":4,"draw":4,"loss":18,"for":23,"against":58,"isRemoved":true}
 ]

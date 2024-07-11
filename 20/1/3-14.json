@@ -240,4 +240,21 @@
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":6,"draw":4,"loss":12,"for":26,"against":37},
 {"country":"isl","name":"Víkingur Ólafsvík","id":"Ungmennafélagið_Víkingur","win":3,"draw":8,"loss":11,"for":21,"against":35,"isRemoved":true,"isNew":true},
 {"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":3,"draw":2,"loss":17,"for":29,"against":56,"isRemoved":true}
+][
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":26,"draw":3,"loss":8,"for":75,"against":34,"isChampion":true},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":19,"draw":9,"loss":9,"for":68,"against":40},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":16,"draw":11,"loss":10,"for":47,"against":48},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":11,"draw":17,"loss":9,"for":50,"against":50},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":14,"draw":11,"loss":12,"for":51,"against":46},
+{"country":"pol","name":"Zawisza Bydgoszcz","id":"Zawisza_Bydgoszcz","win":12,"draw":10,"loss":15,"for":48,"against":48,"isReturning":true},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":14,"draw":10,"loss":13,"for":53,"against":57},
+{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":13,"draw":13,"loss":11,"for":46,"against":41},
+{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":12,"draw":8,"loss":17,"for":43,"against":56,"isReturning":true},
+{"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":12,"draw":12,"loss":13,"for":59,"against":58},
+{"country":"pol","name":"Korona Kielce","id":"Korona_Kielce","win":10,"draw":14,"loss":13,"for":47,"against":56},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":12,"draw":15,"loss":10,"for":49,"against":41},
+{"country":"pol","name":"Piast Gliwice","id":"Piast_Gliwice","win":11,"draw":12,"loss":14,"for":43,"against":56},
+{"country":"pol","name":"Podbeskidzie Bielsko-Biała","id":"Podbeskidzie_Bielsko-Biała","win":10,"draw":15,"loss":12,"for":39,"against":45},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":7,"draw":9,"loss":21,"for":32,"against":51,"isRemoved":true},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":8,"draw":9,"loss":20,"for":36,"against":59,"isRemoved":true}
 ]

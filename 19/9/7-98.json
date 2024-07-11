@@ -234,4 +234,23 @@
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":6,"draw":3,"loss":9,"for":21,"against":36},
 {"country":"isl","name":"Skallagrímur","id":"Skallagrímur_men%27s_football","win":4,"draw":3,"loss":11,"for":19,"against":40,"isRemoved":true,"isNew":true},
 {"country":"isl","name":"Stjarnan","id":"Stjarnan_men%27s_football","win":1,"draw":4,"loss":13,"for":14,"against":39,"isRemoved":true}
+][
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":19,"draw":9,"loss":6,"for":52,"against":23,"isChampion":true},
+{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":18,"draw":9,"loss":7,"for":46,"against":30},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":18,"draw":7,"loss":9,"for":50,"against":30},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":18,"draw":7,"loss":9,"for":53,"against":34},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":16,"draw":11,"loss":7,"for":50,"against":32},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":15,"draw":10,"loss":9,"for":48,"against":39},
+{"country":"pol","name":"Amica Wronki","id":"Amica_Wronki","win":13,"draw":11,"loss":10,"for":38,"against":31},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":12,"draw":12,"loss":10,"for":48,"against":42},
+{"country":"pol","name":"Odra Wodzisław","id":"Odra_Wodzisław_Śląski","win":14,"draw":6,"loss":14,"for":51,"against":50},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":12,"draw":10,"loss":12,"for":41,"against":37},
+{"country":"pol","name":"Stomil Olsztyn","id":"Stomil_Olsztyn_S.A.","win":12,"draw":9,"loss":13,"for":38,"against":45},
+{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":10,"draw":13,"loss":11,"for":37,"against":33},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":12,"draw":7,"loss":15,"for":39,"against":40},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":10,"draw":13,"loss":11,"for":36,"against":40,"isReturning":true},
+{"country":"pol","name":"Petrochemia Płock","id":"Wisła_Płock","win":10,"draw":8,"loss":16,"for":28,"against":54,"isRemoved":true,"isReturning":true},
+{"country":"pol","name":"Groclin Grodzisk","id":"Dyskobolia_Grodzisk_Wielkopolski","win":8,"draw":5,"loss":21,"for":30,"against":55,"isRemoved":true,"isNew":true},
+{"country":"pol","name":"KSZO Ostrowiec Świętokrzyski","id":"KSZO_Ostrowiec_Świętokrzyski","win":6,"draw":6,"loss":22,"for":24,"against":47,"isRemoved":true,"isNew":true},
+{"country":"pol","name":"Raków Częstochowa","id":"Raków_Częstochowa","win":4,"draw":5,"loss":25,"for":21,"against":68,"isRemoved":true}
 ]

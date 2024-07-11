@@ -231,4 +231,21 @@
 {"country":"isl","name":"Völsungur","id":"Íþróttafélagið_Völsungur","win":4,"draw":5,"loss":9,"for":20,"against":32,"isNew":true},
 {"country":"isl","name":"Víðir","id":"Knattspyrnufélagið_Víðir","win":3,"draw":8,"loss":7,"for":20,"against":33,"isRemoved":true},
 {"country":"isl","name":"FH","id":"FH_men%27s_football","win":4,"draw":4,"loss":10,"for":22,"against":34,"isRemoved":true}
+][
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":13,"draw":7,"loss":4,"for":65,"against":30,"winByThree":6,"lossByThree":0,"isChampion":true},
+{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":11,"draw":9,"loss":7,"for":40,"against":23,"winByThree":3,"lossByThree":0},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":13,"draw":8,"loss":6,"for":39,"against":27,"winByThree":2,"lossByThree":1},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":13,"draw":5,"loss":8,"for":40,"against":29,"winByThree":3,"lossByThree":1},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":7,"draw":15,"loss":6,"for":28,"against":24,"winByThree":1,"lossByThree":1},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":7,"draw":11,"loss":8,"for":32,"against":30,"winByThree":2,"lossByThree":2},
+{"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":10,"draw":10,"loss":9,"for":28,"against":29,"winByThree":0,"lossByThree":1,"isReturning":true},
+{"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":11,"draw":7,"loss":12,"for":24,"against":25,"winByThree":0,"lossByThree":0,"isNew":true},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":9,"draw":9,"loss":9,"for":29,"against":30,"winByThree":1,"lossByThree":2},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":11,"draw":5,"loss":11,"for":32,"against":36,"winByThree":1,"lossByThree":2},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":8,"draw":10,"loss":12,"for":23,"against":25,"winByThree":0,"lossByThree":0,"isRemoved":true},
+{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":6,"draw":14,"loss":10,"for":18,"against":26,"winByThree":0,"lossByThree":0,"isRemoved":true},
+{"country":"pol","name":"Olimpia Poznań","id":"Olimpia_Poznań","win":5,"draw":11,"loss":9,"for":36,"against":46,"winByThree":2,"lossByThree":3},
+{"country":"pol","name":"Górnik Wałbrzych","id":"Górnik_Wałbrzych_(football)","win":5,"draw":11,"loss":13,"for":24,"against":36,"winByThree":1,"lossByThree":0},
+{"country":"pol","name":"Bałtyk Gdynia","id":"Bałtyk_Gdynia","win":8,"draw":6,"loss":11,"for":27,"against":41,"winByThree":1,"lossByThree":4,"isRemoved":true,"isReturning":true},
+{"country":"pol","name":"Stal Stalowa Wola","id":"Stal_Stalowa_Wola","win":5,"draw":9,"loss":9,"for":31,"against":56,"winByThree":1,"lossByThree":6,"isRemoved":true,"isNew":true}
 ]

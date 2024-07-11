@@ -230,4 +230,19 @@
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":3,"draw":5,"loss":2,"for":22,"against":16},
 {"country":"isl","name":"ÍBA","id":"ÍB_Akureyri","win":4,"draw":2,"loss":4,"for":21,"against":18},
 {"country":"isl","name":"ÍBÍ","id":"Íþróttabandalag_Ísafjarðar","win":0,"draw":1,"loss":9,"for":2,"against":36,"isRemoved":true,"isNew":true}
+][
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":19,"draw":4,"loss":3,"for":69,"against":26,"isChampion":true,"isReturning":true},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":15,"draw":7,"loss":4,"for":55,"against":33,"isReturning":true},
+{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":16,"draw":4,"loss":6,"for":54,"against":28,"isReturning":true},
+{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":14,"draw":6,"loss":6,"for":52,"against":41,"isReturning":true},
+{"country":"pol","name":"Odra Opole","id":"Odra_Opole","win":12,"draw":5,"loss":9,"for":29,"against":27,"isReturning":true},
+{"country":"pol","name":"Arkonia Szczecin","id":"Arkonia_Szczecin","win":9,"draw":8,"loss":9,"for":32,"against":38,"isReturning":true},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":7,"draw":11,"loss":8,"for":29,"against":25,"isReturning":true},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":10,"draw":5,"loss":11,"for":35,"against":33,"isReturning":true},
+{"country":"pol","name":"Stal Rzeszów","id":"Stal_Rzeszów_(football)","win":7,"draw":9,"loss":10,"for":33,"against":39,"isNew":true},
+{"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":10,"draw":3,"loss":13,"for":31,"against":43,"isReturning":true},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":7,"draw":5,"loss":14,"for":31,"against":45,"isReturning":true},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":6,"draw":7,"loss":13,"for":27,"against":43,"isReturning":true},
+{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":6,"draw":3,"loss":17,"for":20,"against":48,"isReturning":true},"isRemoved":true,
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":3,"draw":5,"loss":18,"for":19,"against":47,"isReturning":true,"isRemoved":true}
 ]

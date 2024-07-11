@@ -235,4 +235,21 @@
 {"country":"isl","name":"FH","id":"FH_men%27s_football","win":4,"draw":5,"loss":5,"for":11,"against":21,"isNew":true},
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":3,"draw":4,"loss":7,"for":13,"against":18},
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":2,"draw":5,"loss":7,"for":11,"against":22,"isRemoved":true}
+][
+{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":13,"draw":12,"loss":5,"for":45,"against":23,"isChampion":true},
+{"country":"pol","name":"GKS Tychy","id":"GKS_Tychy","win":15,"draw":8,"loss":7,"for":38,"against":34},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":15,"draw":7,"loss":8,"for":39,"against":19},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":12,"draw":13,"loss":5,"for":35,"against":24},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":10,"draw":12,"loss":8,"for":33,"against":33,"isReturning":true},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":13,"draw":5,"loss":12,"for":46,"against":42},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":11,"draw":9,"loss":10,"for":36,"against":33},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":12,"draw":5,"loss":13,"for":44,"against":46},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":10,"draw":8,"loss":12,"for":38,"against":39},
+{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":12,"draw":4,"loss":14,"for":37,"against":38},
+{"country":"pol","name":"ROW Rybnik","id":"KS_ROW_1964_Rybnik","win":11,"draw":6,"loss":13,"for":30,"against":40},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":9,"draw":9,"loss":12,"for":33,"against":46},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":8,"draw":10,"loss":12,"for":27,"against":33},
+{"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":10,"draw":5,"loss":15,"for":37,"against":42},
+{"country":"pol","name":"Stal Rzeszów","id":"Stal_Rzeszów_(football)","win":8,"draw":8,"loss":14,"for":23,"against":35,"isRemoved":true,"isReturning":true},
+{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":6,"draw":9,"loss":15,"for":19,"against":33,"isRemoved":true}
 ]

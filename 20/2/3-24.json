@@ -238,4 +238,23 @@
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":7,"draw":6,"loss":14,"for":40,"against":56},
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":6,"draw":7,"loss":14,"for":31,"against":50,"isRemoved":true},
 {"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":2,"draw":10,"loss":15,"for":27,"against":54,"isRemoved":true}
+][
+{"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":18,"draw":9,"loss":7,"for":77,"against":45,"isChampion":true},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":18,"draw":9,"loss":7,"for":50,"against":31},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":16,"draw":11,"loss":7,"for":51,"against":39},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":16,"draw":7,"loss":11,"for":59,"against":38},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":14,"draw":11,"loss":9,"for":47,"against":41},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":15,"draw":8,"loss":11,"for":45,"against":41},
+{"country":"pol","name":"Raków Częstochowa","id":"Raków_Częstochowa","win":14,"draw":10,"loss":10,"for":54,"against":39},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":13,"draw":8,"loss":13,"for":43,"against":50},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":13,"draw":7,"loss":14,"for":45,"against":46},
+{"country":"pol","name":"Piast Gliwice","id":"Piast_Gliwice","win":9,"draw":16,"loss":9,"for":38,"against":35},
+{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":11,"draw":10,"loss":13,"for":42,"against":48},
+{"country":"pol","name":"Puszcza Niepołomice","id":"Puszcza_Niepołomice","win":9,"draw":13,"loss":12,"for":39,"against":49,"isNew":true},
+{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":8,"draw":15,"loss":11,"for":45,"against":46},
+{"country":"pol","name":"Korona Kielce","id":"Korona_Kielce","win":8,"draw":14,"loss":12,"for":40,"against":44},
+{"country":"pol","name":"Radomiak Radom","id":"Radomiak_Radom","win":10,"draw":8,"loss":16,"for":41,"against":58},
+{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":9,"draw":10,"loss":15,"for":33,"against":43,"isRemoved":true},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":6,"draw":14,"loss":14,"for":40,"against":55,"isRemoved":true,"isReturning":true},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":6,"draw":6,"loss":22,"for":34,"against":75,"isRemoved":true,"isReturning":true}
 ]

@@ -180,4 +180,16 @@
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":2,"draw":1,"loss":1,"for":11,"against":5},
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":1,"draw":0,"loss":3,"for":5,"against":15,"isReturning":true,"isRemoved":true},
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":0,"draw":0,"loss":4,"for":4,"against":25}
+][
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":10,"draw":6,"loss":4,"for":37,"against":26,"isChampion":true},
+{"country":"pol","name":"Pogoń Lwów","id":"Pogoń_Lwów","win":11,"draw":3,"loss":6,"for":55,"against":31},
+{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":10,"draw":4,"loss":6,"for":50,"against":33},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":10,"draw":3,"loss":7,"for":51,"against":33},
+{"country":"pol","name":"Śląsk Świętochłowice","id":"Śląsk_Świętochłowice","win":10,"draw":2,"loss":8,"for":34,"against":40,"isReturning":true},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":9,"draw":2,"loss":9,"for":30,"against":34},
+{"country":"pol","name":"Garbarnia Kraków","id":"Garbarnia_Kraków","win":7,"draw":5,"loss":8,"for":37,"against":31},
+{"country":"pol","name":"Warszawianka Warszawa","id":"KS_Warszawianka","win":6,"draw":6,"loss":8,"for":29,"against":37},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":8,"draw":2,"loss":10,"for":32,"against":46},
+{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":6,"draw":5,"loss":9,"for":34,"against":34,"isRemoved":true},
+{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":3,"draw":2,"loss":15,"for":15,"against":57,"isRemoved":true}
 ]

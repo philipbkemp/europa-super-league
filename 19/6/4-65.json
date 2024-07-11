@@ -214,4 +214,19 @@
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":3,"draw":2,"loss":5,"for":19,"against":24},
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":2,"draw":3,"loss":5,"for":16,"against":20},
 {"country":"isl","name":"Þróttur","id":"Knattspyrnufélagið_Þróttur","win":2,"draw":3,"loss":5,"for":14,"against":24,"isRemoved":true,"isReturning":true}
+][
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":15,"draw":7,"loss":4,"for":61,"against":35,"isChampion":true},
+{"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":14,"draw":4,"loss":8,"for":53,"against":44},
+{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":14,"draw":3,"loss":9,"for":57,"against":36},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":12,"draw":6,"loss":8,"for":56,"against":31},
+{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":11,"draw":4,"loss":11,"for":48,"against":38},
+{"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":9,"draw":8,"loss":9,"for":31,"against":30},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":9,"draw":8,"loss":9,"for":41,"against":41},
+{"country":"pol","name":"Zawisza Bydgoszcz","id":"Zawisza_Bydgoszcz","win":9,"draw":6,"loss":11,"for":34,"against":41,"isReturning":true},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":8,"draw":8,"loss":10,"for":25,"against":32},
+{"country":"pol","name":"Odra Opole","id":"Odra_Opole","win":8,"draw":8,"loss":10,"for":26,"against":35},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":9,"draw":6,"loss":11,"for":35,"against":46,"isNew":true},
+{"country":"pol","name":"Stal Rzeszów","id":"Stal_Rzeszów_(football)","win":5,"draw":13,"loss":8,"for":30,"against":35},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":9,"draw":5,"loss":12,"for":31,"against":41,"isRemoved":true},
+{"country":"pol","name":"Unia Racibórz","id":"KP_Unia_Racibórz","win":6,"draw":2,"loss":18,"for":32,"against":75,"isRemoved":true}
 ]

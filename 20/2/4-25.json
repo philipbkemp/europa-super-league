@@ -218,4 +218,23 @@
 {"country":"isl","name":"KA","id":"Knattspyrnufélag_Akureyrar","win":3,"draw":3,"loss":7,"for":20,"against":29,"isCurrentSeason":true},
 {"country":"isl","name":"Vestri","id":"Vestri_men%27s_football","win":3,"draw":2,"loss":8,"for":17,"against":33,"isCurrentSeason":true,"isNew":true},
 {"country":"isl","name":"Fylkir","id":"Fylkir","win":2,"draw":2,"loss":9,"for":18,"against":36,"isCurrentSeason":true}
+][
+{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"pol","name":"Korona Kielce","id":"Korona_Kielce","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"pol","name":"Motor Lublin","id":"Motor_Lublin","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
+{"country":"pol","name":"Piast Gliwice","id":"Piast_Gliwice","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"pol","name":"Puszcza Niepołomice","id":"Puszcza_Niepołomice","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"pol","name":"Radomiak Radom","id":"Radomiak_Radom","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"pol","name":"Raków Częstochowa","id":"Raków_Częstochowa","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
 ]

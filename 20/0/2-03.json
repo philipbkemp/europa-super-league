@@ -226,4 +226,21 @@
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":5,"draw":5,"loss":8,"for":29,"against":33},
 {"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":4,"draw":8,"loss":6,"for":25,"against":30,"isRemoved":true},
 {"country":"isl","name":"Þór","id":"Þór_Akureyri","win":3,"draw":4,"loss":11,"for":22,"against":43,"isRemoved":true,"isReturning":true}
+][
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":21,"draw":5,"loss":4,"for":75,"against":28,"isChampion":true,"isReturning":true},
+{"country":"pol","name":"Dyskobolia Grodzisk Wielkopolski","id":"Dyskobolia_Grodzisk_Wielkopolski","win":18,"draw":8,"loss":4,"for":56,"against":26,"isReturning":true},
+{"country":"pol","name":"Dospel Katowice","id":"GKS_Katowice","win":19,"draw":4,"loss":7,"for":39,"against":21,"isReturning":true},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":17,"draw":9,"loss":4,"for":61,"against":29,"isReturning":true},
+{"country":"pol","name":"Odra Wodzisław","id":"Odra_Wodzisław_Śląski","win":17,"draw":5,"loss":8,"for":55,"against":42,"isReturning":true},
+{"country":"pol","name":"Amica Wronki","id":"Amica_Wronki","win":11,"draw":10,"loss":9,"for":43,"against":34,"isReturning":true},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":10,"draw":11,"loss":9,"for":46,"against":32,"isReturning":true},
+{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":11,"draw":8,"loss":11,"for":37,"against":45,"isReturning":true},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":10,"draw":7,"loss":13,"for":29,"against":39,"isReturning":true},
+{"country":"pol","name":"Wisła Płock","id":"Wisła_Płock","win":10,"draw":7,"loss":13,"for":29,"against":38,"isReturning":true},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":8,"draw":11,"loss":11,"for":41,"against":38,"isReturning":true},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":8,"draw":8,"loss":14,"for":34,"against":44,"isRemoved":true,"isReturning":true},
+{"country":"pol","name":"Szczakowianka Jaworzno","id":"Szczakowianka_Jaworzno","win":8,"draw":8,"loss":14,"for":40,"against":54,"isRemoved":true,"isNew":true},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":7,"draw":11,"loss":12,"for":29,"against":39,"isRemoved":true,"isReturning":true},
+{"country":"pol","name":"KSZO Ostrowiec Świętokrzyski","id":"KSZO_Ostrowiec_Świętokrzyski","win":4,"draw":3,"loss":23,"for":21,"against":63,"isRemoved":true,"isReturning":true},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":2,"draw":3,"loss":25,"for":14,"against":77,"isRemoved":true,"isReturning":true}
 ]

@@ -147,4 +147,17 @@
 {"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":6,"draw":3,"loss":11,"for":33,"against":47},
 {"country":"aut","name":"Hakoah Vienna","id":"Hakoah_Vienna","win":4,"draw":2,"loss":14,"for":31,"against":61,"isReturning":true,"isRemoved":true},
 {"country":"aut","name":"ASV Hertha","id":"ASV_Hertha","win":3,"draw":4,"loss":13,"for":33,"against":52,"isRemoved":true}
+][
+{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":16,"draw":1,"loss":5,"for":46,"against":22,"isChampion":true},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":14,"draw":4,"loss":4,"for":53,"against":34},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":12,"draw":6,"loss":4,"for":67,"against":27},
+{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":10,"draw":6,"loss":6,"for":59,"against":39},
+{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":11,"draw":4,"loss":7,"for":50,"against":37},
+{"country":"pol","name":"Garbarnia Kraków","id":"Garbarnia_Kraków","win":8,"draw":5,"loss":9,"for":50,"against":49},
+{"country":"pol","name":"Pogoń Lwów","id":"Pogoń_Lwów","win":4,"draw":11,"loss":7,"for":34,"against":36},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":7,"draw":5,"loss":10,"for":34,"against":51},
+{"country":"pol","name":"Czarni Lwów","id":"Czarni_Lwów","win":5,"draw":9,"loss":8,"for":25,"against":40},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":6,"draw":3,"loss":13,"for":38,"against":40},
+{"country":"pol","name":"Warszawianka Warszawa","id":"KS_Warszawianka","win":4,"draw":4,"loss":14,"for":27,"against":66},
+{"country":"pol","name":"ŁTSG Łódź","id":"ŁTSG_Łódź","win":3,"draw":6,"loss":13,"for":25,"against":67,"isRemoved":true,"isNew":true}
 ]

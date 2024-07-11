@@ -162,4 +162,15 @@
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":2,"draw":0,"loss":0,"for":8,"against":3,"isChampion":true},
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":1,"draw":0,"loss":1,"for":3,"against":4},
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":0,"draw":0,"loss":2,"for":3,"against":7}
+][
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":13,"draw":1,"loss":4,"for":57,"against":35,"isChampion":true,"isRemoved":true,"removedNote":"Next season was not completed due to the Nazi attack on Germany and WW2"},
+{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":9,"draw":3,"loss":6,"for":58,"against":38,"isRemoved":true,"removedNote":"Next season was not completed due to the Nazi attack on Germany and WW2"},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":8,"draw":4,"loss":6,"for":41,"against":36,"isRemoved":true,"removedNote":"Next season was not completed due to the Nazi attack on Germany and WW2"},
+{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":9,"draw":1,"loss":8,"for":40,"against":35,"isReturning":true,"isRemoved":true,"removedNote":"Next season was not completed due to the Nazi attack on Germany and WW2"},
+{"country":"pol","name":"Pogoń Lwów","id":"Pogoń_Lwów","win":9,"draw":1,"loss":8,"for":23,"against":26,"isRemoved":true,"removedNote":"Next season was not completed due to the Nazi attack on Germany and WW2"},
+{"country":"pol","name":"AKS Chorzów","id":"AKS_Chorzów","win":8,"draw":2,"loss":8,"for":42,"against":30,"isRemoved":true,"removedNote":"Next season was not completed due to the Nazi attack on Germany and WW2"},
+{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":8,"draw":2,"loss":8,"for":37,"against":42,"isRemoved":true,"removedNote":"Next season was not completed due to the Nazi attack on Germany and WW2"},
+{"country":"pol","name":"Warszawianka Warszawa","id":"KS_Warszawianka","win":7,"draw":1,"loss":10,"for":34,"against":46,"isRemoved":true,"removedNote":"Next season was not completed due to the Nazi attack on Germany and WW2"},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":4,"draw":4,"loss":10,"for":25,"against":45,"isRemoved":true,"isRemoved":true,"removedNote":"Next season was not completed due to the Nazi attack on Germany and WW2"},
+{"country":"pol","name":"Śmigły Wilno","id":"Śmigły_Wilno","win":5,"draw":1,"loss":12,"for":29,"against":50,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"Next season was not completed due to the Nazi attack on Germany and WW2"}
 ]

@@ -237,4 +237,21 @@
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":3,"draw":5,"loss":8,"for":20,"against":23},
 {"country":"isl","name":"FH","id":"FH_men%27s_football","win":2,"draw":4,"loss":10,"for":11,"against":31},
 {"country":"isl","name":"Þróttur","id":"Knattspyrnufélagið_Þróttur","win":1,"draw":2,"loss":13,"for":10,"against":39,"isRemoved":true,"isReturning":true}
+][
+{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":17,"draw":7,"loss":6,"for":38,"against":32,"isChampion":true},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":14,"draw":10,"loss":6,"for":46,"against":31},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":15,"draw":7,"loss":8,"for":41,"against":32},
+{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":14,"draw":8,"loss":8,"for":42,"against":30},
+{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":12,"draw":11,"loss":7,"for":40,"against":28},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":14,"draw":7,"loss":9,"for":38,"against":44},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":12,"draw":9,"loss":9,"for":35,"against":29},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":12,"draw":6,"loss":12,"for":40,"against":38},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":9,"draw":9,"loss":12,"for":32,"against":33},
+{"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":11,"draw":5,"loss":14,"for":34,"against":35},
+{"country":"pol","name":"Arka Gdynia","id":"Arka_Gdynia","win":10,"draw":7,"loss":13,"for":27,"against":32,"isReturning":true},
+{"country":"pol","name":"Odra Opole","id":"Odra_Opole","win":8,"draw":10,"loss":12,"for":36,"against":39,"isReturning":true},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":8,"draw":10,"loss":12,"for":30,"against":40},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":9,"draw":5,"loss":16,"for":37,"against":48},
+{"country":"pol","name":"GKS Tychy","id":"GKS_Tychy","win":5,"draw":11,"loss":14,"for":33,"against":41,"isRemoved":true},
+{"country":"pol","name":"ROW Rybnik","id":"KS_ROW_1964_Rybnik","win":5,"draw":8,"loss":17,"for":29,"against":46,"isRemoved":true}
 ]

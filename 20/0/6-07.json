@@ -234,4 +234,21 @@
 {"country":"isl","name":"Fylkir","id":"Fylkir","win":5,"draw":6,"loss":7,"for":22,"against":25},
 {"country":"isl","name":"Grindavík","id":"Grindavík_men%27s_football","win":4,"draw":7,"loss":7,"for":24,"against":26,"isRemoved":true},
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":5,"draw":3,"loss":10,"for":18,"against":39,"isRemoved":true}
+][
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":18,"draw":8,"loss":4,"for":57,"against":29,"isChampion":true},
+{"country":"pol","name":"GKS Bełchatów","id":"GKS_Bełchatów","win":19,"draw":4,"loss":7,"for":63,"against":32},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":16,"draw":4,"loss":10,"for":53,"against":33},
+{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":14,"draw":7,"loss":9,"for":48,"against":41},
+{"country":"pol","name":"Dyskobolia","id":"Dyskobolia_Grodzisk_Wielkopolski","win":11,"draw":15,"loss":4,"for":40,"against":26},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":12,"draw":11,"loss":7,"for":53,"against":36},
+{"country":"pol","name":"Korona Kielce","id":"Korona_Kielce","win":14,"draw":5,"loss":11,"for":41,"against":34},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":10,"draw":16,"loss":4,"for":41,"against":25},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":10,"draw":11,"loss":9,"for":31,"against":30},
+{"country":"pol","name":"Odra Wodzisław","id":"Odra_Wodzisław_Śląski","win":10,"draw":10,"loss":10,"for":29,"against":36},
+{"country":"pol","name":"Arka Gdynia","id":"Arka_Gdynia","win":10,"draw":10,"loss":10,"for":43,"against":39,"isRemoved":true,"removedNote":"Relegation due to corruption scandal","isReturning":true},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":7,"draw":7,"loss":16,"for":27,"against":48},
+{"country":"pol","name":"Górnik Łęczna","id":"GKS_Górnik_Łęczna","win":7,"draw":5,"loss":18,"for":24,"against":64,"isRemoved":true,"removedNote":"Dissolved after the end of the season","isReturning":true},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":6,"draw":7,"loss":17,"for":30,"against":51},
+{"country":"pol","name":"Wisła Płock","id":"Wisła_Płock","win":4,"draw":11,"loss":15,"for":20,"against":47,"isRemoved":true,"isReturning":true},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":3,"draw":7,"loss":20,"for":24,"against":53,"isRemoved":true,"isReturning":true}
 ]

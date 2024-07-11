@@ -1,4 +1,4 @@
-country = "isl";
+country = "pol";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
@@ -12,8 +12,9 @@ if ( tbl.length === 1 ) { FOUND = true; }
 //if ( !FOUND) { tbl2 = $("h2 span#Regular_season"); if ( tbl2.length === 1 ) { tbl = tbl2; FOUND = true; } }
 
 //tbl3 = $("h2 span#Autumn_season, h3 span#Championship_playoff, h3 span[id='Promotion/relegation_playoff']"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,true]; }
-tbl3 = $("h2 span#League_table, h2 span#Championship_round, h2 span#Relegation_round"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,false]; }
-tbl3 = $("h2 span#Regular_season, h2 span#Championship_Round, h2 span#Relegation_Round"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,false]; }
+//tbl3 = $("h2 span#League_table, h2 span#Championship_round, h2 span#Relegation_round"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,false]; }
+tbl3 = $("h2 span#Regular_season, h3 span#Championship_round, h3 span#Relegation_round"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,false]; }
+tbl3 = $("h2 span#League_table, h3 span#Championship_round, h3 span#Relegation_round"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,false]; }
 
 if ( FOUND ) {
 	tblTotal = tbl.length;
@@ -27,6 +28,7 @@ if ( FOUND ) {
 		TYPE_HOMEAWAY = ["Pos","Team","Pld","HW","HD","HL","HGF","HGA","AW","AD","AL","AGF","AGA"]; IS_HOMEAWAY = 0;
 		TYPE_NODRAWS = ["Pos","Team","Pld","W","L","GF","GA"]; IS_NODRAWS = 0;
 		TYPE_PENALTYDRAW = ["Pos","Team","Pld","W","PKW","PKL","L","GF","GA"]; IS_PENDRAW = 0;
+		TYPE_WINBYTHREE = ["Pos","Team","Pld","W","3W","D","3L","L","GF","GA"]; IS_WINBYTHREE = 0;
 		for ( i=0; i!=TYPE_STANDARD.length; i++ ) {
 			if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_STANDARD[i] ) { IS_STANDARD++ }
 		}
@@ -39,16 +41,22 @@ if ( FOUND ) {
 					if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_NODRAWS[i] ) { IS_NODRAWS++ }
 				}
 				if ( IS_NODRAWS !== TYPE_NODRAWS.length) {
-				for ( i=0; i!=TYPE_PENALTYDRAW.length; i++ ) {
-					if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_PENALTYDRAW[i] ) { IS_PENDRAW++ }
-				}
+					for ( i=0; i!=TYPE_PENALTYDRAW.length; i++ ) {
+						if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_PENALTYDRAW[i] ) { IS_PENDRAW++ }
+					}
+					if ( IS_PENDRAW !== TYPE_PENALTYDRAW.length) {
+						for ( i=0; i!=TYPE_WINBYTHREE.length; i++ ) {
+							if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_WINBYTHREE[i] ) { IS_WINBYTHREE++ }
+						}
+					}
 				}
 			}
 		}
 		if ( IS_STANDARD === TYPE_STANDARD.length ||
 			IS_HOMEAWAY === TYPE_HOMEAWAY.length ||
 			IS_NODRAWS === TYPE_NODRAWS.length ||
-			IS_PENDRAW === TYPE_PENALTYDRAW.length
+			IS_PENDRAW === TYPE_PENALTYDRAW.length ||
+			IS_WINBYTHREE === TYPE_WINBYTHREE.length
 		) {
 			for ( r=1; r!==rows.length; r++ ) {
 				cols = Array.from($($(rows)[r]).find("th, td"));
@@ -97,7 +105,6 @@ if ( FOUND ) {
 							against: parseInt($(cols[6]).text().trim())
 						};
 					} else if ( IS_PENDRAW === TYPE_PENALTYDRAW.length ) {
-						console.error("Penalites after draw, TBC");
 						thisClub = {
 							country: country,
 							name: theClubName,
@@ -109,6 +116,19 @@ if ( FOUND ) {
 							against: parseInt($(cols[8]).text().trim()),
 							penWin: parseInt($(cols[4]).text().trim()), // HUN, 1988-89, 2pts for PenWin after draw
 							penLoss: parseInt($(cols[5]).text().trim()) // HUN, 1988-89, 0pts for PenLos after draw
+						};
+					} else if ( IS_WINBYTHREE === TYPE_WINBYTHREE.length ) {
+						thisClub = {
+							country: country,
+							name: theClubName,
+							id: theClubId,
+							win: parseInt($(cols[3]).text().trim()),
+							draw: parseInt($(cols[5]).text().trim()),
+							loss: parseInt($(cols[7]).text().trim()),
+							for: parseInt($(cols[8]).text().trim()),
+							against: parseInt($(cols[9]).text().trim()),
+							winByThree: parseInt($(cols[4]).text().trim()), // POL, 1986-87 to 1989-90, +1 for win by 3+ goals
+							lossByThree: parseInt($(cols[6]).text().trim()) // POL, 1986-87 to 1989-90, -1 for loss by 3+ goals
 						};
 					}
 					if ( current_season ) {

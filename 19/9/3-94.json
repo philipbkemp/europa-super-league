@@ -232,4 +232,23 @@
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":5,"draw":4,"loss":9,"for":31,"against":41},
 {"country":"isl","name":"Fylkir","id":"Fylkir","win":6,"draw":1,"loss":11,"for":22,"against":35,"isRemoved":true,"isReturning":true},
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":3,"draw":2,"loss":13,"for":23,"against":59,"isRemoved":true}
+][
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":19,"draw":13,"loss":2,"for":72,"against":24,"isChampion":true,"deduct":-3},
+{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":17,"draw":13,"loss":4,"for":52,"against":28},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":17,"draw":12,"loss":5,"for":56,"against":32},
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":17,"draw":11,"loss":6,"for":49,"against":24,"deduct":-3},
+{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":11,"draw":19,"loss":4,"for":39,"against":24},
+{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":12,"draw":15,"loss":7,"for":43,"against":34},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":14,"draw":9,"loss":11,"for":48,"against":41},
+{"country":"pol","name":"Hutnik Kraków","id":"Hutnik_Kraków","win":12,"draw":13,"loss":9,"for":34,"against":28},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":12,"draw":11,"loss":11,"for":39,"against":32},
+{"country":"pol","name":"Miliarder Pniewy","id":"Sokół_Pniewy","win":11,"draw":11,"loss":12,"for":41,"against":40,"isNew":true},
+{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":11,"draw":9,"loss":14,"for":32,"against":45},
+{"country":"pol","name":"Stal Stalowa Wola","id":"Stal_Stalowa_Wola","win":8,"draw":14,"loss":12,"for":40,"against":47,"isReturning":true},
+{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":9,"draw":12,"loss":13,"for":25,"against":37},
+{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":11,"draw":8,"loss":15,"for":32,"against":45,"isReturning":true},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":6,"draw":13,"loss":15,"for":30,"against":46,"isRemoved":true,"deduct":-3},
+{"country":"pol","name":"Siarka Tarnobrzeg","id":"Siarka_Tarnobrzeg","win":5,"draw":9,"loss":20,"for":28,"against":61,"isRemoved":true},
+{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":4,"draw":11,"loss":19,"for":25,"against":57,"isRemoved":true,"isReturning":true},
+{"country":"pol","name":"Zawisza Bydgoszcz","id":"Zawisza_Bydgoszcz","win":4,"draw":9,"loss":21,"for":30,"against":70,"isRemoved":true}
 ]

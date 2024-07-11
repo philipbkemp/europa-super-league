@@ -189,4 +189,17 @@
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":2,"draw":0,"loss":2,"for":8,"against":9,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":0,"draw":2,"loss":2,"for":3,"against":5,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":0,"draw":1,"loss":3,"for":3,"against":10,"isRemoved":true,"removedNote":"League moved to grouped format next season"}
+][
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":17,"draw":4,"loss":1,"for":51,"against":14,"isChampion":true,"isReturning":true},
+{"country":"pol","name":"Wawel Kraków","id":"Wawel_Kraków","win":11,"draw":6,"loss":5,"for":39,"against":25,"isNew":true},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":12,"draw":3,"loss":7,"for":35,"against":29,"isReturning":true},
+{"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":11,"draw":4,"loss":7,"for":27,"against":27,"isNew":true},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":8,"draw":7,"loss":7,"for":37,"against":31,"isReturning":true},
+{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":10,"draw":3,"loss":9,"for":33,"against":29,"isReturning":true},
+{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":4,"draw":10,"loss":8,"for":22,"against":29,"isReturning":true},
+{"country":"pol","name":"Górnik Radlin","id":"Górnik_Radlin","win":6,"draw":6,"loss":10,"for":27,"against":38,"isReturning":true},
+{"country":"pol","name":"AKS Chorzów","id":"AKS_Chorzów","win":7,"draw":4,"loss":11,"for":31,"against":46,"isReturning":true},
+{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":7,"draw":3,"loss":12,"for":23,"against":30,"isReturning":true},
+{"country":"pol","name":"Odra Opole","id":"Odra_Opole","win":4,"draw":8,"loss":10,"for":25,"against":38,"isRemoved":true,"isNew":true},
+{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":2,"draw":8,"loss":12,"for":21,"against":35,"isRemoved":true,"isReturning":true}
 ]

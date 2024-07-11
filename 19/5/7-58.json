@@ -211,4 +211,17 @@
 {"country":"isl","name":"ÍBH","id":"Íþróttabandalag_Hafnarfjarðar","win":1,"draw":1,"loss":3,"for":5,"against":9,"isNew":true},
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":0,"draw":2,"loss":3,"for":3,"against":10},
 {"country":"isl","name":"ÍBA","id":"ÍB_Akureyri","win":0,"draw":2,"loss":3,"for":6,"against":15,"isRemoved":true}
+][
+{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":13,"draw":6,"loss":3,"for":61,"against":24,"isChampion":true},
+{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":12,"draw":7,"loss":3,"for":49,"against":21},
+{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":10,"draw":7,"loss":5,"for":57,"against":31},
+{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":11,"draw":5,"loss":6,"for":38,"against":28},
+{"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":12,"draw":3,"loss":7,"for":42,"against":39},
+{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":9,"draw":2,"loss":11,"for":40,"against":40},
+{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":8,"draw":4,"loss":11,"for":39,"against":50},
+{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":8,"draw":3,"loss":11,"for":33,"against":44},
+{"country":"pol","name":"Polonia Bydgoszcz","id":"Polonia_Bydgoszcz","win":7,"draw":5,"loss":10,"for":31,"against":58,"isReturning":true},
+{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":8,"draw":2,"loss":12,"for":37,"against":46,"isReturning":true},
+{"country":"pol","name":"Odra Opole","id":"Odra_Opole","win":7,"draw":4,"loss":11,"for":23,"against":36,"isRemoved":true},
+{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":1,"draw":4,"loss":17,"for":22,"against":55,"isRemoved":true}
 ]
