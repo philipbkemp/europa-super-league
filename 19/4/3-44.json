@@ -89,4 +89,11 @@
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":2,"draw":0,"loss":2,"for":10,"against":9},
 {"country":"isl","name":"ÍBA","id":"ÍB_Akureyri","win":1,"draw":1,"loss":2,"for":8,"against":9,"isNew":true,"isRemoved":true},
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":0,"draw":1,"loss":3,"for":5,"against":15,"isRemoved":true}
+][
+{"country":"est","name":"JS Estonia Tallinn","id":"JS_Estonia_Tallinn","win":7,"draw":2,"loss":1,"for":27,"against":19,"isChampion":true,"isRemoved":true,"removedNote":"Next season discontinued due to Red Army attack"},
+{"country":"est","name":"VS Sport Tallinn","id":"SK_Tallinna_Sport","win":5,"draw":2,"loss":3,"for":21,"against":13,"isReturning":true,"isRemoved":true,"removedNote":"Next season discontinued due to Red Army attack"},
+{"country":"est","name":"Pärnu Tervis","id":"Pärnu_JK_Tervis","win":4,"draw":2,"loss":4,"for":31,"against":25,"isRemoved":true,"removedNote":"Next season discontinued due to Red Army attack"},
+{"country":"est","name":"Narva Spordiklubi","id":"Narva_Spordiklubi","win":3,"draw":2,"loss":5,"for":19,"against":26,"isRemoved":true,"removedNote":"Next season discontinued due to Red Army attack"},
+{"country":"est","name":"Tartu Politsei Spordiring","id":"Tartu_Politsei_Spordiring","win":3,"draw":1,"loss":6,"for":18,"against":25,"isNew":true,"isRemoved":true,"removedNote":"Next season discontinued due to Red Army attack"},
+{"country":"est","name":"Tallinna Spordiklubi","id":"Tallinna_Spordiklubi","win":3,"draw":1,"loss":6,"for":14,"against":22,"isRemoved":true,"removedNote":"Next season discontinued due to Red Army attack"}
 ]

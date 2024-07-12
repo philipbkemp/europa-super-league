@@ -249,4 +249,17 @@
 {"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":9,"draw":5,"loss":20,"for":33,"against":72,"isRemoved":true},
 {"country":"pol","name":"Olimpia Poznań","id":"Olimpia_Poznań","win":7,"draw":7,"loss":19,"for":27,"against":49,"isRemoved":true},
 {"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":2,"draw":5,"loss":27,"for":28,"against":91,"isRemoved":true,"isReturning":true}
+][
+{"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":20,"draw":2,"loss":0,"for":102,"against":16,"isChampion":true,"isReturning":true},
+{"country":"est","name":"Flora","id":"FC_Flora","win":15,"draw":4,"loss":3,"for":63,"against":13,"isReturning":true},
+{"country":"est","name":"Nikol","id":"FC_TVMK","win":15,"draw":3,"loss":4,"for":58,"against":17,"isReturning":true},
+{"country":"est","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":13,"draw":6,"loss":3,"for":53,"against":20,"isReturning":true},
+{"country":"est","name":"Vigri","id":"KSK_Vigri_Tallinn","win":10,"draw":7,"loss":5,"for":61,"against":33,"isReturning":true,"isRemoved":true},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":11,"draw":2,"loss":9,"for":51,"against":34,"isReturning":true},
+{"country":"est","name":"Kohtla-Järve Keemik","id":"JHK_Kohtla-Järve_Keemik","win":7,"draw":4,"loss":11,"for":30,"against":56,"isRemoved":true,"isReturning":true},
+{"country":"est","name":"EsDAG","id":"Spordiselts_EsDAG","win":5,"draw":3,"loss":14,"for":30,"against":75,"isNew":true},
+{"country":"est","name":"Dünamo","id":"Tallinna_JK_Dünamo","win":4,"draw":5,"loss":13,"for":24,"against":50,"isReturning":true},
+{"country":"est","name":"Merkuur","id":"Tartu_JK_Merkuur","win":4,"draw":4,"loss":14,"for":17,"against":63,"isReturning":true},
+{"country":"est","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":4,"draw":1,"loss":17,"for":17,"against":65,"isReturning":true},
+{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":3,"draw":1,"loss":18,"for":24,"against":88,"isRemoved":true,"isReturning":true}
 ]

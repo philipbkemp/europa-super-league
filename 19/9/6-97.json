@@ -253,4 +253,13 @@
 {"country":"pol","name":"Hutnik Kraków","id":"Hutnik_Kraków","win":8,"draw":11,"loss":15,"for":34,"against":46,"isRemoved":true},
 {"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":6,"draw":6,"loss":22,"for":24,"against":56,"isRemoved":true},
 {"country":"pol","name":"Sokół Tychy","id":"GKS_Tychy","win":5,"draw":6,"loss":23,"for":18,"against":67,"isRemoved":true}
+][
+{"country":"est","name":"Lantana","id":"FC_Lantana_Tallinn","win":18,"draw":4,"loss":2,"for":52,"against":15,"isChampion":true},
+{"country":"est","name":"Flora","id":"FC_Flora","win":9,"draw":2,"loss":3,"for":27,"against":9},
+{"country":"est","name":"Marlekor","id":"FC_TVMK","win":8,"draw":6,"loss":10,"for":27,"against":36},
+{"country":"est","name":"Lelle","id":"Pärnu_JK_Tervis","win":8,"draw":6,"loss":10,"for":26,"against":37},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":7,"draw":6,"loss":11,"for":28,"against":38},
+{"country":"est","name":"Tallinna Sadam","id":"JK_Tallinna_Sadam","win":10,"draw":2,"loss":12,"for":37,"against":35},
+{"country":"est","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":12,"draw":2,"loss":10,"for":38,"against":25},
+{"country":"est","name":"Vall","id":"JK_Vall_Tallinn","win":7,"draw":2,"loss":15,"for":38,"against":59,"isNew":true,"isRemoved":true}
 ]

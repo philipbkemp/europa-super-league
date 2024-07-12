@@ -206,4 +206,15 @@
 {"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":6,"draw":5,"loss":11,"for":35,"against":43},
 {"country":"pol","name":"Polonia Bydgoszcz","id":"Polonia_Bydgoszcz","win":5,"draw":5,"loss":12,"for":20,"against":36,"isRemoved":true},
 {"country":"pol","name":"Garbarnia Kraków","id":"Garbarnia_Kraków","win":5,"draw":2,"loss":15,"for":27,"against":46,"isRemoved":true}
+][
+{"country":"est-ssr","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":13,"draw":2,"loss":3,"for":43,"against":13,"isChampion":true,"isReturning":true},
+{"country":"est-ssr","name":"Tartu Dünamo","id":"Tartu_Dünamo","win":12,"draw":4,"loss":2,"for":37,"against":15},
+{"country":"est-ssr","name":"Viljandi Spartak","id":"Viljandi_Spartak","win":12,"draw":0,"loss":6,"for":38,"against":30},
+{"country":"est-ssr","name":"Narva Kalev","id":"Narva_Kalev","win":9,"draw":4,"loss":5,"for":36,"against":16},
+{"country":"est-ssr","name":"Officers' Club of Tallinn","id":"officers'_club_of_tallinn","win":9,"draw":2,"loss":7,"for":32,"against":26,"isReturning":true,"isRemoved":true},
+{"country":"est-ssr","name":"Järvakandi Kalev","id":"Järvakandi_Kalev","win":8,"draw":2,"loss":8,"for":33,"against":30},
+{"country":"est-ssr","name":"Kiviõli Kalev","id":"Kiviõli_Kalev","win":8,"draw":2,"loss":8,"for":28,"against":34},
+{"country":"est-ssr","name":"Pärnu Kalev","id":"Pärnu_Kalev","win":5,"draw":2,"loss":11,"for":32,"against":44},
+{"country":"est-ssr","name":"Kohtla-Järve Kalev","id":"Kohtla-Järve_Kalev","win":2,"draw":2,"loss":14,"for":18,"against":54,"isRemoved":true},
+{"country":"est-ssr","name":"Tallinna Dünamo II","id":"Tallinna_JK_Dünamo","win":1,"draw":2,"loss":15,"for":13,"against":48,"isRemoved":true}
 ]

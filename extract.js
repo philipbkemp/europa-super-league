@@ -1,4 +1,4 @@
-country = "pol";
+country = "est";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
@@ -13,8 +13,9 @@ if ( tbl.length === 1 ) { FOUND = true; }
 
 //tbl3 = $("h2 span#Autumn_season, h3 span#Championship_playoff, h3 span[id='Promotion/relegation_playoff']"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,true]; }
 //tbl3 = $("h2 span#League_table, h2 span#Championship_round, h2 span#Relegation_round"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,false]; }
-tbl3 = $("h2 span#Regular_season, h3 span#Championship_round, h3 span#Relegation_round"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,false]; }
-tbl3 = $("h2 span#League_table, h3 span#Championship_round, h3 span#Relegation_round"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,false]; }
+//tbl3 = $("h2 span#Regular_season, h3 span#Championship_round, h3 span#Relegation_round"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,false]; }
+
+tbl3 = $("h2 span#Preliminary_round, h2 span#Championship_Tournament, h2 span#Meistriliiga_Transition_Tournament"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [true,true]; }
 
 if ( FOUND ) {
 	tblTotal = tbl.length;

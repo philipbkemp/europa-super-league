@@ -255,4 +255,15 @@
 {"country":"pol","name":"Bruk-Bet Termalica Nieciecza","id":"Bruk-Bet_Termalica_Nieciecza","win":7,"draw":11,"loss":16,"for":36,"against":56,"isRemoved":true,"isReturning":true},
 {"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":7,"draw":10,"loss":17,"for":37,"against":54,"isRemoved":true},
 {"country":"pol","name":"Górnik Łęczna","id":"GKS_Górnik_Łęczna","win":6,"draw":10,"loss":18,"for":29,"against":60,"isRemoved":true,"isReturning":true}
+][
+{"country":"est","name":"FCI Levadia","id":"FCI_Levadia_Tallinn","win":25,"draw":3,"loss":4,"for":84,"against":38,"isChampion":true},
+{"country":"est","name":"Flora","id":"FC_Flora","win":23,"draw":8,"loss":1,"for":90,"against":23},
+{"country":"est","name":"Paide Linnameeskond","id":"Paide_Linnameeskond","win":18,"draw":8,"loss":6,"for":66,"against":35},
+{"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":13,"draw":6,"loss":13,"for":57,"against":44},
+{"country":"est","name":"Legion","id":"Tallinna_JK_Legion","win":11,"draw":7,"loss":14,"for":49,"against":48},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":9,"draw":6,"loss":17,"for":36,"against":61},
+{"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":10,"draw":4,"loss":16,"for":39,"against":47},
+{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":9,"draw":3,"loss":18,"for":39,"against":62,"isRemoved":true,"removedNote":"Voluntarily relegated due to financial issues"},
+{"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":7,"draw":4,"loss":19,"for":34,"against":72},
+{"country":"est","name":"Vaprus","id":"Pärnu_JK_Vaprus","win":5,"draw":3,"loss":22,"for":24,"against":88,"isReturning":true}
 ]

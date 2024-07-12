@@ -255,4 +255,15 @@
 {"country":"pol","name":"GKS Bełchatów","id":"GKS_Bełchatów","win":7,"draw":10,"loss":13,"for":34,"against":36},
 {"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":5,"draw":9,"loss":16,"for":23,"against":53,"isRemoved":true,"isReturning":true},
 {"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":4,"draw":10,"loss":16,"for":20,"against":41,"isRemoved":true}
+][
+{"country":"est","name":"Flora","id":"FC_Flora","win":26,"draw":8,"loss":2,"for":100,"against":24,"isChampion":true},
+{"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":24,"draw":7,"loss":5,"for":82,"against":23},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":22,"draw":7,"loss":7,"for":107,"against":29},
+{"country":"est","name":"Levadia","id":"FCI_Levadia_Tallinn","win":21,"draw":10,"loss":5,"for":76,"against":25},
+{"country":"est","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":17,"draw":3,"loss":16,"for":77,"against":59},
+{"country":"est","name":"Paide","id":"Paide_Linnameeskond","win":13,"draw":6,"loss":17,"for":40,"against":51},
+{"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":11,"draw":6,"loss":19,"for":57,"against":75},
+{"country":"est","name":"Viljandi","id":"FC_Viljandi_(2011)","win":8,"draw":6,"loss":22,"for":37,"against":69,"isNew":true},
+{"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":7,"draw":5,"loss":24,"for":28,"against":68},
+{"country":"est","name":"Ajax","id":"FC_Ajax_Lasnamäe","win":0,"draw":4,"loss":32,"for":11,"against":192,"isRemoved":true,"isReturning":true}
 ]

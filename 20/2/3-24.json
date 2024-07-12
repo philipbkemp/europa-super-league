@@ -257,4 +257,15 @@
 {"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":9,"draw":10,"loss":15,"for":33,"against":43,"isRemoved":true},
 {"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":6,"draw":14,"loss":14,"for":40,"against":55,"isRemoved":true,"isReturning":true},
 {"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":6,"draw":6,"loss":22,"for":34,"against":75,"isRemoved":true,"isReturning":true}
+][
+{"country":"est","name":"Flora","id":"FC_Flora","win":23,"draw":10,"loss":3,"for":74,"against":24,"isChampion":true},
+{"country":"est","name":"FCI Levadia","id":"FCI_Levadia_Tallinn","win":22,"draw":11,"loss":3,"for":67,"against":24},
+{"country":"est","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":14,"draw":11,"loss":11,"for":49,"against":41},
+{"country":"est","name":"Paide Linnameeskond","id":"Paide_Linnameeskond","win":13,"draw":14,"loss":9,"for":50,"against":34},
+{"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":12,"draw":13,"loss":11,"for":50,"against":42},
+{"country":"est","name":"Vaprus","id":"Pärnu_JK_Vaprus","win":12,"draw":12,"loss":12,"for":40,"against":43},
+{"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":12,"draw":7,"loss":17,"for":36,"against":60},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":12,"draw":2,"loss":22,"for":32,"against":64},
+{"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":5,"draw":12,"loss":19,"for":33,"against":65},
+{"country":"est","name":"Harju","id":"Harju_JK_Laagri","win":5,"draw":8,"loss":23,"for":27,"against":61,"isRemoved":true,"isNew":true}
 ]

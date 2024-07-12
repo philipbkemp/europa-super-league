@@ -251,4 +251,15 @@
 {"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":6,"draw":7,"loss":17,"for":30,"against":51},
 {"country":"pol","name":"Wisła Płock","id":"Wisła_Płock","win":4,"draw":11,"loss":15,"for":20,"against":47,"isRemoved":true,"isReturning":true},
 {"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":3,"draw":7,"loss":20,"for":24,"against":53,"isRemoved":true,"isReturning":true}
+][
+{"country":"est","name":"Levadia","id":"FCI_Levadia_Tallinn","win":30,"draw":4,"loss":2,"for":114,"against":29,"isChampion":true},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":25,"draw":8,"loss":3,"for":106,"against":36},
+{"country":"est","name":"Flora","id":"FC_Flora","win":26,"draw":4,"loss":6,"for":93,"against":34},
+{"country":"est","name":"TVMK","id":"FC_TVMK","win":22,"draw":6,"loss":8,"for":83,"against":37},
+{"country":"est","name":"Maag","id":"Tartu_JK_Merkuur","win":13,"draw":9,"loss":14,"for":65,"against":68,"isReturning":true},
+{"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":12,"draw":7,"loss":17,"for":45,"against":57,"isRemoved":true},
+{"country":"est","name":"Vaprus","id":"Pärnu_JK_Vaprus","win":10,"draw":4,"loss":22,"for":49,"against":86,"isNew":true},
+{"country":"est","name":"Lasnamäe Ajax","id":"FC_Ajax_Lasnamäe","win":6,"draw":7,"loss":23,"for":35,"against":104,"isNew":true},
+{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":5,"draw":5,"loss":26,"for":29,"against":74},
+{"country":"est","name":"Warrior","id":"FC_Warrior_Valga","win":3,"draw":2,"loss":31,"for":16,"against":110,"isRemoved":true,"isNew":true}
 ]

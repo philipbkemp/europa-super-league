@@ -224,4 +224,13 @@
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":6,"draw":2,"loss":10,"for":28,"against":28},
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":5,"draw":4,"loss":9,"for":19,"against":26,"isRemoved":true,"isReturning":true},
 {"country":"isl","name":"Breiðablik","id":"Breiðablik_men%27s_football","win":4,"draw":2,"loss":12,"for":17,"against":32,"isRemoved":true}
+][
+{"country":"est","name":"Flora","id":"FC_Flora","win":21,"draw":5,"loss":2,"for":62,"against":18,"isChampion":true},
+{"country":"est","name":"TVMK","id":"FC_TVMK","win":16,"draw":8,"loss":4,"for":77,"against":30},
+{"country":"est","name":"Maardu Levadia","id":"FCI_Levadia_Tallinn","win":16,"draw":7,"loss":5,"for":72,"against":35},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":16,"draw":3,"loss":9,"for":79,"against":35},
+{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":11,"draw":6,"loss":11,"for":41,"against":37},
+{"country":"est","name":"Tallinna Levadia","id":"FCI_Levadia_U21","win":6,"draw":5,"loss":17,"for":30,"against":78,"isNew":true},
+{"country":"est","name":"Lootus","id":"Kohtla-Järve_FC_Lootus","win":4,"draw":5,"loss":19,"for":21,"against":53},
+{"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":2,"draw":1,"loss":25,"for":18,"against":114,"isRemoved":true}
 ]

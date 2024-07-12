@@ -243,4 +243,13 @@
 {"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":7,"draw":11,"loss":12,"for":29,"against":39,"isRemoved":true,"isReturning":true},
 {"country":"pol","name":"KSZO Ostrowiec Świętokrzyski","id":"KSZO_Ostrowiec_Świętokrzyski","win":4,"draw":3,"loss":23,"for":21,"against":63,"isRemoved":true,"isReturning":true},
 {"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":2,"draw":3,"loss":25,"for":14,"against":77,"isRemoved":true,"isReturning":true}
+][
+{"country":"est","name":"Flora","id":"FC_Flora","win":20,"draw":4,"loss":4,"for":79,"against":25,"isChampion":true},
+{"country":"est","name":"Maardu Levadia","id":"FCI_Levadia_Tallinn","win":18,"draw":8,"loss":2,"for":70,"against":25},
+{"country":"est","name":"TVMK","id":"FC_TVMK","win":16,"draw":5,"loss":7,"for":90,"against":35},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":14,"draw":5,"loss":9,"for":54,"against":49},
+{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":10,"draw":6,"loss":12,"for":51,"against":52},
+{"country":"est","name":"Tallinna Levadia","id":"FCI_Levadia_U21","win":6,"draw":5,"loss":17,"for":32,"against":70},
+{"country":"est","name":"Lootus","id":"Kohtla-Järve_FC_Lootus","win":5,"draw":6,"loss":17,"for":24,"against":67,"isRemoved":true},
+{"country":"est","name":"Levadia Pärnu","id":"Pärnu_Linnameeskond","win":1,"draw":5,"loss":22,"for":19,"against":96,"isRemoved":true,"isReturning":true}
 ]

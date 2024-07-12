@@ -160,4 +160,11 @@
 {"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":6,"draw":3,"loss":13,"for":38,"against":40},
 {"country":"pol","name":"Warszawianka Warszawa","id":"KS_Warszawianka","win":4,"draw":4,"loss":14,"for":27,"against":66},
 {"country":"pol","name":"ŁTSG Łódź","id":"ŁTSG_Łódź","win":3,"draw":6,"loss":13,"for":25,"against":67,"isRemoved":true,"isNew":true}
+][
+{"country":"est","name":"VS Sport Tallinn","id":"SK_Tallinna_Sport","win":5,"draw":0,"loss":0,"for":15,"against":1,"isChampion":true,"isNew":true},
+{"country":"est","name":"Tallinna Jalgpalliklubi","id":"Tallinna_JK","win":3,"draw":1,"loss":1,"for":14,"against":7,"isNew":true},
+{"country":"est","name":"ESS Kalev Tallinn","id":"JK_Tallinna_Kalev","win":2,"draw":1,"loss":2,"for":9,"against":9,"isNew":true},
+{"country":"est","name":"SK Estika Tallinn","id":"SK_Estika_Tallinn","win":0,"draw":3,"loss":2,"for":8,"against":13,"isRemoved":true,"isNew":true},
+{"country":"est","name":"VK Merkur Tallinn","id":"VK_Merkur_Tallinn","win":1,"draw":1,"loss":3,"for":7,"against":15,"isRemoved":true,"isNew":true},
+{"country":"est","name":"Tartu Jalgpalliklubi","id":"Tartu_Jalgpalliklubi","win":0,"draw":2,"loss":3,"for":4,"against":12,"isRemoved":true,"isNew":true}
 ]

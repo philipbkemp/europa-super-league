@@ -253,4 +253,17 @@
 {"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":3,"draw":14,"loss":10,"for":16,"against":33,"winByThree":0,"lossByThree":2,"isRemoved":true},
 {"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":5,"draw":10,"loss":11,"for":24,"against":44,"winByThree":0,"lossByThree":3,"isRemoved":true},
 {"country":"pol","name":"Motor Lublin","id":"Motor_Lublin","win":6,"draw":9,"loss":7,"for":20,"against":50,"winByThree":0,"lossByThree":8,"isRemoved":true}
+][
+{"country":"est-ssr","name":"Zvezda","id":"Tallinna_FC_Zvezda","win":18,"draw":4,"loss":0,"for":56,"against":16,"isChampion":true},
+{"country":"est-ssr","name":"Norma","id":"FC_Norma_Tallinn","win":15,"draw":3,"loss":4,"for":67,"against":32},
+{"country":"est-ssr","name":"Tempo","id":"Tallinna_JK_Tempo","win":12,"draw":8,"loss":2,"for":51,"against":24},
+{"country":"est-ssr","name":"Jõhvi Estonia Kaevandus","id":"Jõhvi_Estonia_Kaevandus","win":12,"draw":5,"loss":5,"for":36,"against":25,"isRemoved":true},
+{"country":"est-ssr","name":"Pärnu Kalakombinaat/MEK","id":"Pärnu_Kalakombinaat/MEK","win":11,"draw":4,"loss":7,"for":54,"against":37},
+{"country":"est-ssr","name":"Kohtla-Järve Keemik","id":"JHK_Kohtla-Järve_Keemik","win":11,"draw":4,"loss":7,"for":53,"against":29},
+{"country":"est-ssr","name":"Tallinna Elektrotehnik","id":"Tallinna_Elektrotehnik","win":9,"draw":4,"loss":9,"for":34,"against":31,"isNew":true},
+{"country":"est-ssr","name":"Kohtla-Järve RMT","id":"Kohtla-Järve_RMT","win":6,"draw":6,"loss":10,"for":24,"against":43,"isNew":true,"isRemoved":true},
+{"country":"est-ssr","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":6,"draw":5,"loss":11,"for":26,"against":43},
+{"country":"est-ssr","name":"FK Viljandi","id":"FK_Viljandi","win":4,"draw":3,"loss":15,"for":31,"against":44},
+{"country":"est-ssr","name":"Pärnu KEK","id":"Pärnu_KEK","win":2,"draw":2,"loss":18,"for":16,"against":69,"isRemoved":true},
+{"country":"est-ssr","name":"Tallinna KK Majak","id":"Tallinna_KK_Majak","win":2,"draw":0,"loss":20,"for":16,"against":71,"isRemoved":true}
 ]

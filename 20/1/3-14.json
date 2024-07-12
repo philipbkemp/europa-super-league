@@ -257,4 +257,15 @@
 {"country":"pol","name":"Podbeskidzie Bielsko-Biała","id":"Podbeskidzie_Bielsko-Biała","win":10,"draw":15,"loss":12,"for":39,"against":45},
 {"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":7,"draw":9,"loss":21,"for":32,"against":51,"isRemoved":true},
 {"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":8,"draw":9,"loss":20,"for":36,"against":59,"isRemoved":true}
+][
+{"country":"est","name":"Levadia","id":"FCI_Levadia_Tallinn","win":30,"draw":1,"loss":5,"for":69,"against":24,"isChampion":true},
+{"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":26,"draw":6,"loss":4,"for":78,"against":23},
+{"country":"est","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":23,"draw":6,"loss":7,"for":75,"against":22},
+{"country":"est","name":"Flora","id":"FC_Flora","win":21,"draw":5,"loss":10,"for":83,"against":40},
+{"country":"est","name":"Paide","id":"Paide_Linnameeskond","win":15,"draw":2,"loss":19,"for":43,"against":58},
+{"country":"est","name":"Infonet","id":"FCI_Tallinn","win":10,"draw":8,"loss":18,"for":36,"against":56,"isNew":true},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":11,"draw":3,"loss":22,"for":39,"against":55},
+{"country":"est","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":10,"draw":4,"loss":22,"for":35,"against":77},
+{"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":8,"draw":8,"loss":20,"for":30,"against":68},
+{"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":2,"draw":5,"loss":29,"for":22,"against":87,"isRemoved":true}
 ]

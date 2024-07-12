@@ -257,4 +257,17 @@
 {"country":"pol","name":"Zawisza Bydgoszcz","id":"Zawisza_Bydgoszcz","win":8,"draw":8,"loss":14,"for":35,"against":52,"isReturning":true},
 {"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":7,"draw":7,"loss":16,"for":32,"against":44,"isRemoved":true},
 {"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":3,"draw":10,"loss":17,"for":23,"against":47,"isRemoved":true}
+][
+{"country":"est-ssr","name":"Norma","id":"FC_Norma_Tallinn","win":12,"draw":6,"loss":2,"for":34,"against":16,"isChampion":true},
+{"country":"est-ssr","name":"Tallinna Dünamo","id":"Tallinna_JK_Dünamo","win":13,"draw":3,"loss":4,"for":40,"against":13},
+{"country":"est-ssr","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":10,"draw":6,"loss":4,"for":29,"against":17},
+{"country":"est-ssr","name":"Tempo","id":"Tallinna_JK_Tempo","win":7,"draw":8,"loss":5,"for":18,"against":14},
+{"country":"est-ssr","name":"Narva Baltika","id":"Narva_Baltika","win":9,"draw":3,"loss":8,"for":31,"against":24},
+{"country":"est-ssr","name":"Kohtla-Järve Keemik","id":"JHK_Kohtla-Järve_Keemik","win":7,"draw":6,"loss":7,"for":29,"against":20},
+{"country":"est-ssr","name":"Jõhvi Estonia Kaevandus","id":"Jõhvi_Estonia_Kaevandus","win":7,"draw":5,"loss":8,"for":32,"against":29},
+{"country":"est-ssr","name":"Pärnu Kalakombinaat","id":"Pärnu_Kalakombinaat","win":6,"draw":5,"loss":9,"for":25,"against":30},
+{"country":"est-ssr","name":"Tartu Katseremonditehas","id":"Tartu_Katseremonditehas","win":6,"draw":4,"loss":10,"for":32,"against":38,"isNew":true},
+{"country":"est-ssr","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":7,"draw":2,"loss":11,"for":23,"against":42},
+{"country":"est-ssr","name":"TPI Tallinn","id":"TPI_Tallinn","win":0,"draw":4,"loss":16,"for":21,"against":71,"isRemoved":true,"isNew":true},
+{"country":"est-ssr","name":"Aseri SK","id":"Aseri_SK","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true}
 ]

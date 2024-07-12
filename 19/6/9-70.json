@@ -252,4 +252,18 @@
 {"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":6,"draw":9,"loss":11,"for":21,"against":31},
 {"country":"pol","name":"Odra Opole","id":"Odra_Opole","win":6,"draw":9,"loss":11,"for":22,"against":36,"isRemoved":true},
 {"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":2,"draw":7,"loss":17,"for":16,"against":38,"isRemoved":true,"isReturning":true}
+][
+{"country":"est-ssr","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":16,"draw":6,"loss":2,"for":51,"against":18,"isChampion":true,"isNew":true},
+{"country":"est-ssr","name":"Norma","id":"FC_Norma_Tallinn","win":17,"draw":3,"loss":4,"for":49,"against":24},
+{"country":"est-ssr","name":"Baltic Fleet","id":"Baltic_Fleet","win":15,"draw":6,"loss":3,"for":72,"against":22},
+{"country":"est-ssr","name":"Kopli Dünamo","id":"Kopli_Dünamo","win":14,"draw":4,"loss":6,"for":37,"against":18,"isReturning":true,"isRemoved":true},
+{"country":"est-ssr","name":"Tempo","id":"Tallinna_JK_Tempo","win":10,"draw":7,"loss":7,"for":31,"against":26},
+{"country":"est-ssr","name":"Tallinna Start","id":"Tallinna_Start","win":10,"draw":5,"loss":9,"for":32,"against":27},
+{"country":"est-ssr","name":"Narva Kreenholm","id":"Narva_Kreenholm","win":11,"draw":2,"loss":11,"for":34,"against":36},
+{"country":"est-ssr","name":"Tallinna Tekstiil","id":"Tallinna_Tekstiil","win":8,"draw":6,"loss":10,"for":33,"against":33},
+{"country":"est-ssr","name":"Türi Jõud","id":"Türi_Jõud","win":8,"draw":6,"loss":10,"for":22,"against":36,"isReturning":true},
+{"country":"est-ssr","name":"Kohtla-Järve Keemik","id":"JHK_Kohtla-Järve_Keemik","win":5,"draw":3,"loss":16,"for":19,"against":45,"isNew":true},
+{"country":"est-ssr","name":"Jõhvi Kaevur","id":"Jõhvi_Kaevur","win":2,"draw":9,"loss":13,"for":22,"against":51},
+{"country":"est-ssr","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":3,"draw":6,"loss":15,"for":25,"against":46,"isRemoved":true},
+{"country":"est-ssr","name":"Narva Energeetik","id":"Narva_Energeetik","win":5,"draw":1,"loss":18,"for":23,"against":69,"isRemoved":true}
 ]

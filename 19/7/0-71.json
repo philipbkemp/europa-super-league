@@ -253,4 +253,17 @@
 {"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":5,"draw":13,"loss":8,"for":15,"against":22},
 {"country":"pol","name":"ROW Rybnik","id":"KS_ROW_1964_Rybnik","win":7,"draw":8,"loss":11,"for":15,"against":22,"isRemoved":true,"isReturning":true},
 {"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":4,"draw":13,"loss":9,"for":20,"against":30,"isRemoved":true}
+][
+{"country":"est-ssr","name":"Norma","id":"FC_Norma_Tallinn","win":14,"draw":6,"loss":2,"for":42,"against":9,"isChampion":true},
+{"country":"est-ssr","name":"Narva Kreenholm","id":"Narva_Kreenholm","win":13,"draw":2,"loss":7,"for":35,"against":19},
+{"country":"est-ssr","name":"Kohtla-Järve Keemik","id":"JHK_Kohtla-Järve_Keemik","win":11,"draw":6,"loss":5,"for":32,"against":19},
+{"country":"est-ssr","name":"Tallinna Tekstiil","id":"Tallinna_Tekstiil","win":10,"draw":8,"loss":4,"for":27,"against":15},
+{"country":"est-ssr","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":10,"draw":6,"loss":6,"for":35,"against":21},
+{"country":"est-ssr","name":"Baltic Fleet","id":"Baltic_Fleet","win":10,"draw":5,"loss":7,"for":38,"against":25},
+{"country":"est-ssr","name":"Tallinna Start","id":"Tallinna_Start","win":9,"draw":6,"loss":7,"for":40,"against":21},
+{"country":"est-ssr","name":"Tempo","id":"Tallinna_JK_Tempo","win":8,"draw":7,"loss":7,"for":33,"against":22},
+{"country":"est-ssr","name":"Tallinna Dünamo","id":"Tallinna_JK_Dünamo","win":5,"draw":6,"loss":11,"for":27,"against":36,"isReturning":true,"isRemoved":true},
+{"country":"est-ssr","name":"Jõhvi Kaevur","id":"Jõhvi_Kaevur","win":5,"draw":4,"loss":13,"for":19,"against":53},
+{"country":"est-ssr","name":"Türi Jõud","id":"Türi_Jõud","win":4,"draw":3,"loss":15,"for":11,"against":58,"isRemoved":true},
+{"country":"est-ssr","name":"Tartu Remonditehas","id":"Tartu_Remonditehas","win":2,"draw":3,"loss":17,"for":7,"against":48,"isRemoved":true,"isReturning":true}
 ]

@@ -204,4 +204,15 @@
 {"country":"pol","name":"Polonia Bydgoszcz","id":"Polonia_Bydgoszcz","win":6,"draw":6,"loss":10,"for":18,"against":26},
 {"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":5,"draw":7,"loss":10,"for":23,"against":36,"isRemoved":true},
 {"country":"pol","name":"Górnik Radlin","id":"Górnik_Radlin","win":5,"draw":6,"loss":11,"for":20,"against":41,"isRemoved":true}
+][
+{"country":"est-ssr","name":"Tallinna Dünamo","id":"Tallinna_JK_Dünamo","win":11,"draw":4,"loss":3,"for":38,"against":18,"isChampion":true},
+{"country":"est-ssr","name":"Narva Kalev","id":"Narva_Kalev","win":10,"draw":3,"loss":5,"for":30,"against":16},
+{"country":"est-ssr","name":"Viljandi Spartak","id":"Viljandi_Spartak","win":11,"draw":1,"loss":6,"for":40,"against":28},
+{"country":"est-ssr","name":"Järvakandi Kalev","id":"Järvakandi_Kalev","win":9,"draw":3,"loss":6,"for":23,"against":20},
+{"country":"est-ssr","name":"Kiviõli Kalev","id":"Kiviõli_Kalev","win":8,"draw":3,"loss":7,"for":22,"against":22},
+{"country":"est-ssr","name":"Tartu Dünamo","id":"Tartu_Dünamo","win":6,"draw":3,"loss":9,"for":18,"against":25,"isNew":true},
+{"country":"est-ssr","name":"Pärnu Kalev","id":"Pärnu_Kalev","win":7,"draw":0,"loss":11,"for":22,"against":34},
+{"country":"est-ssr","name":"Kohtla-Järve Kalev","id":"Kohtla-Järve_Kalev","win":6,"draw":2,"loss":10,"for":21,"against":38},
+{"country":"est-ssr","name":"Tallinna Kalev II","id":"JK_Tallinna_Kalev","win":5,"draw":3,"loss":10,"for":20,"against":28,"isRemoved":true},
+{"country":"est-ssr","name":"Rakvere Dünamo","id":"Rakvere_Dünamo","win":3,"draw":6,"loss":9,"for":8,"against":14,"isRemoved":true}
 ]

@@ -189,4 +189,15 @@
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":2,"draw":0,"loss":2,"for":8,"against":8},
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":1,"draw":1,"loss":2,"for":7,"against":6},
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":1,"draw":1,"loss":2,"for":5,"against":13}
+][
+{"country":"est-ssr","name":"Baltic Fleet","id":"Baltic_Fleet","win":15,"draw":2,"loss":1,"for":71,"against":10,"isChampion":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"est-ssr","name":"Tallinna Dünamo","id":"Tallinna_JK_Dünamo","win":14,"draw":4,"loss":0,"for":70,"against":10,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"est-ssr","name":"Soviet Air Forces Club Sokol","id":"soviet_air_forces_club_sokol","win":9,"draw":4,"loss":5,"for":36,"against":20,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"est-ssr","name":"Narva Kalev","id":"Narva_Kalev","win":9,"draw":3,"loss":6,"for":35,"against":37,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"est-ssr","name":"Pärnu Kalev","id":"Pärnu_Kalev","win":7,"draw":2,"loss":9,"for":25,"against":40,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"est-ssr","name":"Kohtla-Järve Kalev","id":"Kohtla-Järve_Kalev","win":5,"draw":4,"loss":9,"for":27,"against":45,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"est-ssr","name":"Rakvere Dünamo","id":"Rakvere_Dünamo","win":4,"draw":5,"loss":9,"for":23,"against":47,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"est-ssr","name":"Tallinna Spartak","id":"Tallinna_Spartak","win":5,"draw":1,"loss":12,"for":21,"against":50,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"est-ssr","name":"Tartu ÜSK","id":"Tartu_ÜSK","win":4,"draw":2,"loss":12,"for":21,"against":56,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"est-ssr","name":"Viljandi Dünamo","id":"Viljandi_Dünamo","win":3,"draw":3,"loss":12,"for":24,"against":38,"isRemoved":true,"removedNote":"Next season is a grouped format"}
 ]

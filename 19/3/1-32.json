@@ -165,4 +165,11 @@
 {"country":"pol","name":"Garbarnia Kraków","id":"Garbarnia_Kraków","win":7,"draw":4,"loss":11,"for":39,"against":43,"isRemoved":true,"removedNote":"League moved to regional format for next season"},
 {"country":"pol","name":"Czarni Lwów","id":"Czarni_Lwów","win":6,"draw":4,"loss":12,"for":24,"against":39,"isRemoved":true,"removedNote":"League moved to regional format for next season"},
 {"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":6,"draw":4,"loss":12,"for":27,"against":51,"isRemoved":true,"isRemoved":true,"removedNote":"League moved to regional format for next season"}
+][
+{"country":"est","name":"VS Sport Tallinn","id":"SK_Tallinna_Sport","win":4,"draw":1,"loss":0,"for":14,"against":2,"isChampion":true},
+{"country":"est","name":"ESS Kalev Tallinn","id":"JK_Tallinna_Kalev","win":3,"draw":1,"loss":1,"for":9,"against":2},
+{"country":"est","name":"Tallinna Jalgpalliklubi","id":"Tallinna_JK","win":3,"draw":1,"loss":1,"for":9,"against":5},
+{"country":"est","name":"VVS Puhkekodu Tallinn","id":"VVS_Puhkekodu_Tallinn","win":1,"draw":1,"loss":3,"for":10,"against":10,"isNew":true},
+{"country":"est","name":"KS Võitleja Narva","id":"KS_Võitleja_Narva","win":1,"draw":0,"loss":4,"for":9,"against":18},
+{"country":"est","name":"Narva THK","id":"Narva_THK","win":1,"draw":0,"loss":4,"for":4,"against":18,"isRemoved":true,"isNew":true}
 ]

@@ -257,4 +257,15 @@
 {"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":8,"draw":13,"loss":9,"for":28,"against":32,"deduct":-5,"deductReason":"Match-fixing in 2003-04"},
 {"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":6,"draw":11,"loss":13,"for":31,"against":47,"isReturning":true},
 {"country":"pol","name":"Podbeskidzie Bielsko-Biała","id":"Podbeskidzie_Bielsko-Biała","win":6,"draw":7,"loss":17,"for":29,"against":60,"isRemoved":true,"isReturning":true}
+][
+{"country":"est","name":"Flora","id":"FC_Flora","win":26,"draw":2,"loss":1,"for":76,"against":17,"isChampion":true},
+{"country":"est","name":"Paide Linnameeskond","id":"Paide_Linnameeskond","win":21,"draw":1,"loss":8,"for":80,"against":43},
+{"country":"est","name":"FCI Levadia","id":"FCI_Levadia_Tallinn","win":17,"draw":6,"loss":6,"for":66,"against":37},
+{"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":14,"draw":7,"loss":9,"for":52,"against":31},
+{"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":8,"draw":8,"loss":12,"for":33,"against":44},
+{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":9,"draw":4,"loss":15,"for":30,"against":46},
+{"country":"est","name":"TJK Legion","id":"Tallinna_JK_Legion","win":8,"draw":7,"loss":15,"for":26,"against":44,"isNew":true},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":6,"draw":7,"loss":17,"for":31,"against":49},
+{"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":5,"draw":9,"loss":16,"for":28,"against":63},
+{"country":"est","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":5,"draw":5,"loss":20,"for":20,"against":68,"isRemoved":true}
 ]

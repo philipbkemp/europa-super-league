@@ -248,4 +248,17 @@
 {"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":6,"draw":12,"loss":8,"for":22,"against":36,"winByThree":0,"lossByThree":4,"isReturning":true},
 {"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":4,"draw":12,"loss":11,"for":22,"against":39,"winByThree":0,"lossByThree":3,"isRemoved":true},
 {"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":3,"draw":13,"loss":7,"for":19,"against":45,"winByThree":0,"lossByThree":6,"isRemoved":true}
+][
+{"country":"est-ssr","name":"Zvezda","id":"Tallinna_FC_Zvezda","win":17,"draw":3,"loss":2,"for":57,"against":15,"isChampion":true,"isRemoved":true},
+{"country":"est-ssr","name":"TVMK","id":"FC_TVMK","win":16,"draw":3,"loss":3,"for":62,"against":20},
+{"country":"est-ssr","name":"Kalakombinaat/MEK","id":"Pärnu_Kalakombinaat/MEK","win":14,"draw":4,"loss":4,"for":51,"against":34,"isRemoved":true},
+{"country":"est-ssr","name":"Kohtla-Järve Keemik","id":"Kohtla-Järve_JK_Keemik","win":12,"draw":2,"loss":8,"for":47,"against":29},
+{"country":"est-ssr","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":10,"draw":4,"loss":8,"for":37,"against":30,"isRemoved":true},
+{"country":"est-ssr","name":"Norma","id":"FC_Norma_Tallinn","win":8,"draw":6,"loss":8,"for":35,"against":42},
+{"country":"est-ssr","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":8,"draw":1,"loss":13,"for":34,"against":44},
+{"country":"est-ssr","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":6,"draw":5,"loss":11,"for":31,"against":42},
+{"country":"est-ssr","name":"Narva Baltika","id":"Narva_Baltika","win":7,"draw":2,"loss":13,"for":32,"against":59,"isReturning":true,"isRemoved":true},
+{"country":"est-ssr","name":"Tallinna Tempo","id":"Tallinna_JK_Tempo","win":7,"draw":2,"loss":13,"for":30,"against":44},
+{"country":"est-ssr","name":"Narva Autobaas","id":"JK_Narva_Trans","win":5,"draw":1,"loss":16,"for":31,"against":48,"isRemoved":true,"isReturning":true},
+{"country":"est-ssr","name":"Eesti Tööstus/Flora","id":"FC_Flora","win":4,"draw":3,"loss":15,"for":22,"against":62,"isRemoved":true,"isReturning":true}
 ]

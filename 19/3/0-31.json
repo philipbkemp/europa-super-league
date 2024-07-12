@@ -164,4 +164,9 @@
 {"country":"pol","name":"Czarni Lwów","id":"Czarni_Lwów","win":7,"draw":2,"loss":13,"for":28,"against":50},
 {"country":"pol","name":"Warszawianka Warszawa","id":"KS_Warszawianka","win":6,"draw":1,"loss":15,"for":36,"against":60},
 {"country":"pol","name":"Lechia Lwów","id":"Lechia_Lwów","win":5,"draw":1,"loss":16,"for":23,"against":66,"isRemoved":true,"isNew":true}
+][
+{"country":"est","name":"ESS Kalev Tallinn","id":"JK_Tallinna_Kalev","win":2,"draw":1,"loss":0,"for":13,"against":1,"isChampion":true},
+{"country":"est","name":"VS Sport Tallinn","id":"SK_Tallinna_Sport","win":2,"draw":1,"loss":0,"for":9,"against":1},
+{"country":"est","name":"Tallinna Jalgpalliklubi","id":"Tallinna_JK","win":1,"draw":0,"loss":2,"for":7,"against":6},
+{"country":"est","name":"KS Võitleja Narva","id":"KS_Võitleja_Narva","win":0,"draw":0,"loss":3,"for":2,"against":23,"isNew":true}
 ]

@@ -190,4 +190,13 @@
 {"country":"pol","name":"Dąb Katowice","id":"Dąb_Katowice","win":7,"draw":0,"loss":11,"for":29,"against":43,"isNew":true},
 {"country":"pol","name":"Śląsk Świętochłowice","id":"Śląsk_Świętochłowice","win":4,"draw":3,"loss":11,"for":21,"against":40,"isRemoved":true},
 {"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":3,"draw":2,"loss":13,"for":24,"against":46,"isRemoved":true}
+][
+{"country":"est","name":"JS Estonia Tallinn","id":"JS_Estonia_Tallinn","win":6,"draw":1,"loss":0,"for":26,"against":3,"isChampion":true},
+{"country":"est","name":"VVS Puhkekodu Tallinn","id":"VVS_Puhkekodu_Tallinn","win":4,"draw":1,"loss":2,"for":11,"against":14},
+{"country":"est","name":"Tallinna Jalgpalliklubi","id":"Tallinna_JK","win":3,"draw":2,"loss":2,"for":15,"against":8},
+{"country":"est","name":"VS Sport Tallinn","id":"SK_Tallinna_Sport","win":3,"draw":2,"loss":2,"for":7,"against":8},
+{"country":"est","name":"ESS Kalev Tallinn","id":"JK_Tallinna_Kalev","win":2,"draw":2,"loss":3,"for":16,"against":13},
+{"country":"est","name":"SS Tervis Pärnu","id":"Pärnu_JK_Tervis","win":2,"draw":2,"loss":3,"for":10,"against":15,"isNew":true},
+{"country":"est","name":"KS Võitleja Narva","id":"KS_Võitleja_Narva","win":2,"draw":0,"loss":5,"for":10,"against":15,"isReturning":true},
+{"country":"est","name":"PK Olümpia Tartu","id":"PK_Olümpia_Tartu","win":0,"draw":2,"loss":5,"for":5,"against":24,"isRemoved":true}
 ]

@@ -107,4 +107,13 @@
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":2,"draw":0,"loss":1,"for":10,"against":1},
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":0,"draw":1,"loss":2,"for":1,"against":12},
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":0,"draw":1,"loss":2,"for":1,"against":14}
+][
+{"country":"est-ssr","name":"Tallinna Dünamo","id":"Tallinna_JK_Dünamo","win":6,"draw":0,"loss":1,"for":30,"against":7,"isChampion":true,"isNew":true},
+{"country":"est-ssr","name":"Baltic Fleet","id":"Baltic_Fleet","win":5,"draw":1,"loss":1,"for":26,"against":9,"isNew":true},
+{"country":"est-ssr","name":"Rifle corps","id":"Rifle_corps_(Soviet)_1XI","win":4,"draw":2,"loss":1,"for":22,"against":9,"isNew":true,"isRemoved":true},
+{"country":"est-ssr","name":"Rifle corps","id":"Rifle_corps_(Soviet)_2XI","win":4,"draw":1,"loss":2,"for":17,"against":9,"isNew":true,"isRemoved":true},
+{"country":"est-ssr","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":3,"draw":1,"loss":3,"for":11,"against":16,"isReturning":true},
+{"country":"est-ssr","name":"Tallinna Spartak","id":"Tallinna_Spartak","win":1,"draw":1,"loss":5,"for":10,"against":30,"isNew":true},
+{"country":"est-ssr","name":"Rakvere Dünamo","id":"Rakvere_Dünamo","win":1,"draw":0,"loss":6,"for":8,"against":28,"isNew":true},
+{"country":"est-ssr","name":"Pärnu Kalev","id":"Pärnu_Kalev","win":1,"draw":0,"loss":6,"for":13,"against":29,"isNew":true,"isRemoved":true}
 ]

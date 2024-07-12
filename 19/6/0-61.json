@@ -245,4 +245,15 @@
 {"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":8,"draw":5,"loss":13,"for":34,"against":45,"isNew":true,"isRemoved":true,"removedNote":"League moved to group format next season"},
 {"country":"pol","name":"Polonia Bydgoszcz","id":"Polonia_Bydgoszcz","win":8,"draw":3,"loss":15,"for":36,"against":71,"isRemoved":true,"isRemoved":true,"removedNote":"League moved to group format next season"},
 {"country":"pol","name":"Zawisza Bydgoszcz","id":"Zawisza_Bydgoszcz","win":3,"draw":4,"loss":19,"for":18,"against":64,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"League moved to group format next season"}
+][
+{"country":"est-ssr","name":"Baltic Fleet","id":"Baltic_Fleet","win":18,"draw":0,"loss":0,"for":105,"against":8,"isChampion":true,"isRemoved":true,"removedNote":"Next season is a grouped league"},
+{"country":"est-ssr","name":"Ülemiste Kalev","id":"Ülemiste_Kalev","win":10,"draw":4,"loss":4,"for":44,"against":25,"isRemoved":true,"removedNote":"Next season is a grouped league"},
+{"country":"est-ssr","name":"Narva Kreenholm","id":"Narva_Kreenholm","win":8,"draw":7,"loss":3,"for":43,"against":27,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped league"},
+{"country":"est-ssr","name":"Norma","id":"FC_Norma_Tallinn","win":7,"draw":6,"loss":5,"for":31,"against":31,"isRemoved":true,"removedNote":"Next season is a grouped league"},
+{"country":"est-ssr","name":"Pärnu Kalev","id":"Pärnu_Kalev","win":8,"draw":1,"loss":9,"for":33,"against":38,"isRemoved":true,"removedNote":"Next season is a grouped league"},
+{"country":"est-ssr","name":"Rakvere Kalev","id":"Rakvere_Kalev","win":5,"draw":5,"loss":8,"for":23,"against":25,"isRemoved":true,"removedNote":"Next season is a grouped league"},
+{"country":"est-ssr","name":"Kohtla-Järve PK","id":"Kohtla-Järve_PK","win":5,"draw":5,"loss":8,"for":25,"against":54,"isRemoved":true,"removedNote":"Next season is a grouped league"},
+{"country":"est-ssr","name":"Türi Jõud","id":"Türi_Jõud","win":5,"draw":3,"loss":10,"for":18,"against":47,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped league"},
+{"country":"est-ssr","name":"Tartu Kalev","id":"FA_Tartu_Kalev","win":3,"draw":3,"loss":12,"for":21,"against":40,"isReturning":true,"isRemoved":true,"removedNote":"Next season is a grouped league"},
+{"country":"est-ssr","name":"Viljandi Jõud","id":"Viljandi_Jõud","win":2,"draw":4,"loss":12,"for":17,"against":65,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped league"}
 ]

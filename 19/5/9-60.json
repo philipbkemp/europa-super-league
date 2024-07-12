@@ -241,4 +241,15 @@
 {"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":5,"draw":8,"loss":9,"for":28,"against":36},
 {"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":6,"draw":5,"loss":11,"for":31,"against":37,"isRemoved":true},
 {"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":3,"draw":7,"loss":12,"for":25,"against":53,"isRemoved":true}
+][
+{"country":"est-ssr","name":"Ülemiste Kalev","id":"Ülemiste_Kalev","win":14,"draw":2,"loss":2,"for":55,"against":14,"isChampion":true},
+{"country":"est-ssr","name":"Baltic Fleet","id":"Baltic_Fleet","win":12,"draw":2,"loss":4,"for":59,"against":17},
+{"country":"est-ssr","name":"Tallinna Punane Koit","id":"Tallinna_Punane_Koit","win":12,"draw":1,"loss":5,"for":33,"against":24,"isRemoved":true},
+{"country":"est-ssr","name":"Narva Kalev","id":"Narva_Kalev","win":9,"draw":2,"loss":7,"for":28,"against":29,"isRemoved":true},
+{"country":"est-ssr","name":"Pärnu Kalev","id":"Pärnu_Kalev","win":8,"draw":3,"loss":7,"for":36,"against":29},
+{"country":"est-ssr","name":"Norma","id":"FC_Norma_Tallinn","win":7,"draw":4,"loss":7,"for":29,"against":25,"isNew":true},
+{"country":"est-ssr","name":"Rakvere Kalev","id":"Rakvere_Kalev","win":6,"draw":4,"loss":8,"for":22,"against":27},
+{"country":"est-ssr","name":"Tartu Dünamo","id":"Tartu_Dünamo","win":4,"draw":5,"loss":9,"for":26,"against":44,"isRemoved":true},
+{"country":"est-ssr","name":"Kohtla-Järve PK","id":"Kohtla-Järve_PK","win":3,"draw":3,"loss":12,"for":20,"against":37,"isNew":true},
+{"country":"est-ssr","name":"Viljandi Kalev","id":"Viljandi_Kalev","win":2,"draw":0,"loss":16,"for":11,"against":73,"isRemoved":true,"isNew":true}
 ]

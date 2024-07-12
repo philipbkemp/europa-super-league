@@ -253,4 +253,15 @@
 {"country":"pol","name":"Wisła Płock","id":"Wisła_Płock","win":10,"draw":11,"loss":16,"for":50,"against":58},
 {"country":"pol","name":"Arka Gdynia","id":"Arka_Gdynia","win":10,"draw":12,"loss":15,"for":49,"against":51},
 {"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":7,"draw":8,"loss":22,"for":49,"against":80,"isRemoved":true,"isReturning":true}
+][
+{"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":25,"draw":11,"loss":0,"for":114,"against":32,"isChampion":true},
+{"country":"est","name":"FCI Levadia","id":"FCI_Levadia_Tallinn","win":26,"draw":6,"loss":4,"for":109,"against":26},
+{"country":"est","name":"Flora","id":"FC_Flora","win":25,"draw":8,"loss":3,"for":116,"against":32},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":18,"draw":7,"loss":11,"for":76,"against":57},
+{"country":"est","name":"Paide Linnameeskond","id":"Paide_Linnameeskond","win":14,"draw":9,"loss":13,"for":64,"against":74},
+{"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":14,"draw":7,"loss":15,"for":56,"against":58},
+{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":8,"draw":5,"loss":23,"for":37,"against":100},
+{"country":"est","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":7,"draw":7,"loss":22,"for":54,"against":68,"isReturning":true},
+{"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":6,"draw":3,"loss":27,"for":34,"against":115,"isReturning":true},
+{"country":"est","name":"Vaprus","id":"Pärnu_JK_Vaprus","win":2,"draw":7,"loss":27,"for":25,"against":123,"isRemoved":true}
 ]

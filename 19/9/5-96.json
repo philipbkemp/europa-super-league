@@ -251,4 +251,13 @@
 {"country":"pol","name":"Olimpia/Lechia Gdańsk","id":"Olimpia-Lechia_Gdańsk","win":11,"draw":7,"loss":16,"for":39,"against":59,"isRemoved":true,"isNew":true},
 {"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":8,"draw":4,"loss":22,"for":33,"against":67,"isRemoved":true},
 {"country":"pol","name":"Siarka Tarnobrzeg","id":"Siarka_Tarnobrzeg","win":3,"draw":6,"loss":25,"for":24,"against":70,"isRemoved":true,"isReturning":true}
+][
+{"country":"est","name":"Lantana","id":"FC_Lantana_Tallinn","win":16,"draw":5,"loss":3,"for":58,"against":15,"isChampion":true},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":8,"draw":6,"loss":10,"for":33,"against":32},
+{"country":"est","name":"Flora","id":"FC_Flora","win":12,"draw":6,"loss":6,"for":51,"against":22},
+{"country":"est","name":"Tallinna Sadam","id":"JK_Tallinna_Sadam","win":10,"draw":4,"loss":10,"for":40,"against":35},
+{"country":"est","name":"Tevalte-Marlekor","id":"FC_TVMK","win":13,"draw":2,"loss":9,"for":33,"against":29,"isReturning":true},
+{"country":"est","name":"Tervis","id":"Pärnu_JK_Tervis","win":6,"draw":3,"loss":15,"for":20,"against":45,"isReturning":true},
+{"country":"est","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":10,"draw":8,"loss":6,"for":36,"against":24},
+{"country":"est","name":"PJK Kalev","id":"Pärnu_JK","win":4,"draw":4,"loss":16,"for":20,"against":81,"isRemoved":true}
 ]

@@ -244,4 +244,17 @@
 {"country":"pol","name":"Zawisza Bydgoszcz","id":"Zawisza_Bydgoszcz","win":8,"draw":7,"loss":15,"for":27,"against":41},
 {"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":3,"draw":10,"loss":17,"for":25,"against":49},
 {"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":2,"draw":6,"loss":22,"for":21,"against":69}
+][
+{"country":"est-ssr","name":"TVMK","id":"FC_TVMK","win":16,"draw":5,"loss":1,"for":63,"against":19,"isChampion":true},
+{"country":"est-ssr","name":"Norma","id":"FC_Norma_Tallinn","win":16,"draw":3,"loss":3,"for":68,"against":34},
+{"country":"est-ssr","name":"Kohtla-Järve Keemik","id":"Kohtla-Järve_JK_Keemik","win":16,"draw":3,"loss":3,"for":49,"against":20,"isRemoved":true},
+{"country":"est-ssr","name":"Estonia Jõhvi","id":"Estonia_Jõhvi","win":15,"draw":4,"loss":3,"for":57,"against":16,"isNew":true,"isRemoved":true},
+{"country":"est-ssr","name":"Kalakombinaat/MEK Pärnu","id":"Pärnu_Linnameeskond","win":8,"draw":6,"loss":8,"for":39,"against":46,"isNew":true,"isRemoved":true},
+{"country":"est-ssr","name":"Viljandi JK","id":"Viljandi_JK_Tulevik","win":6,"draw":7,"loss":9,"for":36,"against":37,"isNew":true},
+{"country":"est-ssr","name":"Tempo","id":"Tallinna_JK_Tempo","win":6,"draw":6,"loss":10,"for":23,"against":43,"isRemoved":true},
+{"country":"est-ssr","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":5,"draw":6,"loss":11,"for":30,"against":37},
+{"country":"est-ssr","name":"Baltika Narva","id":"Baltika_Narva","win":5,"draw":6,"loss":11,"for":31,"against":49,"isNew":true,"isRemoved":true},
+{"country":"est-ssr","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":4,"draw":7,"loss":11,"for":23,"against":45},
+{"country":"est-ssr","name":"KEK Jõgeva/Merkuur Tartu","id":"Tartu_JK_Merkuur","win":5,"draw":2,"loss":15,"for":30,"against":54,"isRemoved":true,"isNew":true},
+{"country":"est-ssr","name":"Flora","id":"FC_Flora","win":1,"draw":3,"loss":18,"for":25,"against":74,"isRemoved":true,"isReturning":true}
 ]

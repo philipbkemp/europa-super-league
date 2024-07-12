@@ -249,4 +249,18 @@
 {"country":"pol","name":"Stal Stalowa Wola","id":"Stal_Stalowa_Wola","win":8,"draw":12,"loss":14,"for":23,"against":33,"isRemoved":true,"isReturning":true},
 {"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":6,"draw":12,"loss":16,"for":28,"against":50,"isRemoved":true},
 {"country":"pol","name":"Igloopol Dębica","id":"Igloopol_Dębica","win":2,"draw":7,"loss":25,"for":15,"against":76,"isRemoved":true}
+][
+{"country":"est-ssr","name":"TVMK","id":"FC_TVMK","win":18,"draw":3,"loss":3,"for":73,"against":17,"isChampion":true,"championNote":"Due to reformation of Estonia, not counted as official champion","isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
+{"country":"est-ssr","name":"Norma","id":"FC_Norma_Tallinn","win":17,"draw":3,"loss":4,"for":73,"against":16,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
+{"country":"est-ssr","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":16,"draw":5,"loss":3,"for":63,"against":24,"isReturning":true,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
+{"country":"est-ssr","name":"Eesti Fosforiit","id":"JK_Eesti_Fosforiit","win":17,"draw":3,"loss":4,"for":77,"against":25,"isNew":true,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
+{"country":"est-ssr","name":"Vigri/Marat","id":"KSK_Vigri_Tallinn","win":14,"draw":3,"loss":7,"for":63,"against":41,"isNew":true,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
+{"country":"est-ssr","name":"Kalakombinaat/MEK","id":"Pärnu_JK","win":10,"draw":7,"loss":7,"for":30,"against":28,"isNew":true,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
+{"country":"est-ssr","name":"Kohtla-Järve Keemik","id":"Kohtla-Järve_Keemik","win":7,"draw":6,"loss":11,"for":41,"against":51,"isNew":true,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
+{"country":"est-ssr","name":"Narva Autobaas","id":"JK_Narva_Trans","win":7,"draw":6,"loss":11,"for":26,"against":49,"isReturning":true,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
+{"country":"est-ssr","name":"Viljandi","id":"Viljandi_JK_Tulevik","win":8,"draw":2,"loss":14,"for":30,"against":45,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
+{"country":"est-ssr","name":"Narva Baltika","id":"Narva_Baltika","win":4,"draw":7,"loss":13,"for":24,"against":64,"isReturning":true,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
+{"country":"est-ssr","name":"Tempo","id":"Tempo_Tallinn","win":4,"draw":6,"loss":14,"for":27,"against":70,"isNew":true,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
+{"country":"est-ssr","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":4,"draw":4,"loss":16,"for":37,"against":73,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
+{"country":"est-ssr","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":2,"draw":1,"loss":21,"for":16,"against":77,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"}
 ]

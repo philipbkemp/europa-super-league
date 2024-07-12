@@ -247,4 +247,15 @@
 {"country":"pol","name":"Arka Gdynia","id":"Arka_Gdynia","win":4,"draw":15,"loss":11,"for":21,"against":33,"isReturning":true},
 {"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":6,"draw":7,"loss":17,"for":20,"against":45,"isRemoved":true},
 {"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":11,"draw":9,"loss":10,"for":45,"against":45,"isRemoved":true}
+][
+{"country":"est","name":"TVMK","id":"FC_TVMK","win":30,"draw":5,"loss":1,"for":138,"against":21,"isChampion":true},
+{"country":"est","name":"Levadia","id":"FCI_Levadia_Tallinn","win":28,"draw":5,"loss":3,"for":97,"against":25},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":23,"draw":6,"loss":7,"for":99,"against":34},
+{"country":"est","name":"Flora","id":"FC_Flora","win":21,"draw":6,"loss":9,"for":81,"against":36},
+{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":12,"draw":11,"loss":13,"for":46,"against":48},
+{"country":"est","name":"Merkuur","id":"Tartu_FC_Merkuur","win":11,"draw":7,"loss":18,"for":52,"against":86,"isRemoved":true},
+{"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":8,"draw":5,"loss":23,"for":50,"against":88,"isNew":true},
+{"country":"est","name":"Valga","id":"FC_Valga","win":8,"draw":4,"loss":24,"for":38,"against":78,"isRemoved":true},
+{"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":7,"draw":6,"loss":23,"for":40,"against":96,"isReturning":true,"isRemoved":true},
+{"country":"est","name":"Dünamo","id":"Tallinna_JK_Dünamo","win":3,"draw":3,"loss":30,"for":28,"against":157,"isRemoved":true,"isReturning":true}
 ]

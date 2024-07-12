@@ -257,4 +257,15 @@
 {"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":12,"draw":10,"loss":15,"for":44,"against":46},
 {"country":"pol","name":"GKS Bełchatów","id":"GKS_Bełchatów","win":9,"draw":9,"loss":19,"for":35,"against":60,"isRemoved":true,"isReturning":true},
 {"country":"pol","name":"Zawisza Bydgoszcz","id":"Zawisza_Bydgoszcz","win":10,"draw":8,"loss":19,"for":45,"against":63,"isRemoved":true}
+][
+{"country":"est","name":"Levadia","id":"FCI_Levadia_Tallinn","win":26,"draw":6,"loss":4,"for":112,"against":19,"isChampion":true},
+{"country":"est","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":25,"draw":4,"loss":7,"for":108,"against":34},
+{"country":"est","name":"Flora","id":"FC_Flora","win":24,"draw":7,"loss":5,"for":88,"against":36},
+{"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":24,"draw":6,"loss":6,"for":85,"against":19},
+{"country":"est","name":"Infonet","id":"FCI_Tallinn","win":19,"draw":9,"loss":8,"for":80,"against":44},
+{"country":"est","name":"Paide Linnameeskond","id":"Paide_Linnameeskond","win":9,"draw":8,"loss":19,"for":39,"against":67},
+{"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":7,"draw":7,"loss":22,"for":37,"against":83},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":6,"draw":10,"loss":20,"for":37,"against":79},
+{"country":"est","name":"Lokomotiv","id":"Jõhvi_FC_Phoenix","win":4,"draw":6,"loss":26,"for":35,"against":115,"isRemoved":true,"isNew":true},
+{"country":"est","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":3,"draw":3,"loss":30,"for":21,"against":146,"isRemoved":true}
 ]

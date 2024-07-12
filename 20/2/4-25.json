@@ -237,4 +237,15 @@
 {"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
+][
+{"country":"est","name":"FCI Levadia","id":"FCI_Levadia_Tallinn","win":16,"draw":3,"loss":1,"for":48,"against":8,"isCurrentSeason":true},
+{"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":10,"draw":6,"loss":2,"for":36,"against":19,"isCurrentSeason":true},
+{"country":"est","name":"Flora","id":"FC_Flora","win":10,"draw":6,"loss":4,"for":34,"against":22,"isCurrentSeason":true},
+{"country":"est","name":"Paide Linnameeskond","id":"Paide_Linnameeskond","win":10,"draw":2,"loss":8,"for":30,"against":22,"isCurrentSeason":true},
+{"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":5,"draw":5,"loss":8,"for":23,"against":24,"isCurrentSeason":true},
+{"country":"est","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":5,"draw":5,"loss":10,"for":23,"against":38,"isCurrentSeason":true},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":5,"draw":4,"loss":9,"for":25,"against":38,"isCurrentSeason":true},
+{"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":4,"draw":6,"loss":8,"for":22,"against":35,"isCurrentSeason":true},
+{"country":"est","name":"Vaprus","id":"Pärnu_JK_Vaprus","win":4,"draw":4,"loss":10,"for":18,"against":32,"isCurrentSeason":true},
+{"country":"est","name":"Nõmme United","id":"FC_Nõmme_United","win":2,"draw":5,"loss":11,"for":12,"against":33,"isCurrentSeason":true,"isNew":true}
 ]

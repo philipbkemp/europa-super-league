@@ -246,4 +246,17 @@
 {"country":"pol","name":"GKS Jastrzębie","id":"GKS_Jastrzębie","win":8,"draw":8,"loss":9,"for":24,"against":43,"winByThree":0,"lossByThree":5,"isRemoved":true,"isNew":true},
 {"country":"pol","name":"Górnik Wałbrzych","id":"Górnik_Wałbrzych_(football)","win":7,"draw":5,"loss":14,"for":22,"against":44,"winByThree":0,"lossByThree":4,"isRemoved":true},
 {"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":4,"draw":9,"loss":13,"for":33,"against":57,"winByThree":0,"lossByThree":4,"isRemoved":true}
+][
+{"country":"est-ssr","name":"Norma","id":"FC_Norma_Tallinn","win":17,"draw":2,"loss":3,"for":64,"against":12,"isChampion":true},
+{"country":"est-ssr","name":"Kohtla-Järve Keemik","id":"Kohtla-Järve_JK_Keemik","win":15,"draw":3,"loss":4,"for":53,"against":27,"isReturning":true},
+{"country":"est-ssr","name":"Kalakombinaat/MEK","id":"Pärnu_Kalakombinaat/MEK","win":14,"draw":3,"loss":5,"for":44,"against":26},
+{"country":"est-ssr","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":12,"draw":6,"loss":4,"for":33,"against":18,"isNew":true},
+{"country":"est-ssr","name":"Zvezda","id":"Tallinna_FC_Zvezda","win":13,"draw":2,"loss":7,"for":49,"against":24},
+{"country":"est-ssr","name":"TVMK","id":"FC_TVMK","win":11,"draw":4,"loss":7,"for":61,"against":40,"isNew":true},
+{"country":"est-ssr","name":"Tempo","id":"Tallinna_JK_Tempo","win":11,"draw":3,"loss":8,"for":40,"against":40},
+{"country":"est-ssr","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":5,"draw":6,"loss":11,"for":42,"against":53,"isReturning":true},
+{"country":"est-ssr","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":8,"draw":0,"loss":14,"for":37,"against":58},
+{"country":"est-ssr","name":"Viljandi FK","id":"Viljandi_FK","win":4,"draw":4,"loss":14,"for":36,"against":70,"isNew":true,"isRemoved":true},
+{"country":"est-ssr","name":"Lõvid-Flora","id":"FC_Flora","win":3,"draw":1,"loss":18,"for":40,"against":66,"isRemoved":true,"isNew":true},
+{"country":"est-ssr","name":"Tartu Kalev","id":"FA_Tartu_Kalev","win":2,"draw":0,"loss":20,"for":17,"against":76,"isRemoved":true}
 ]

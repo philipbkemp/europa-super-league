@@ -259,4 +259,17 @@
 {"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":6,"draw":15,"loss":9,"for":20,"against":33,"isReturning":true},
 {"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":7,"draw":10,"loss":13,"for":27,"against":36,"isRemoved":true},
 {"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":7,"draw":7,"loss":16,"for":26,"against":46,"isRemoved":true}
+][
+{"country":"est-ssr","name":"Tempo","id":"Tallinna_JK_Tempo","win":15,"draw":2,"loss":5,"for":43,"against":19,"isChampion":true},
+{"country":"est-ssr","name":"Jõhvi Estonia Kaevandus","id":"Jõhvi_Estonia_Kaevandus","win":11,"draw":8,"loss":3,"for":49,"against":17},
+{"country":"est-ssr","name":"Pärnu Kalakombinaat","id":"Pärnu_Kalakombinaat","win":11,"draw":8,"loss":3,"for":51,"against":22},
+{"country":"est-ssr","name":"Norma","id":"FC_Norma_Tallinn","win":13,"draw":4,"loss":5,"for":41,"against":23},
+{"country":"est-ssr","name":"Tallinna Dünamo","id":"Tallinna_JK_Dünamo","win":13,"draw":4,"loss":5,"for":52,"against":20},
+{"country":"est-ssr","name":"Narva Baltika","id":"Narva_Baltika","win":10,"draw":8,"loss":4,"for":25,"against":15},
+{"country":"est-ssr","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":7,"draw":5,"loss":10,"for":27,"against":34},
+{"country":"est-ssr","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":8,"draw":2,"loss":12,"for":28,"against":36},
+{"country":"est-ssr","name":"TPI Tallinn","id":"TPI_Tallinn","win":6,"draw":6,"loss":10,"for":26,"against":36,"isRemoved":true},
+{"country":"est-ssr","name":"Kohtla-Järve Ehitaja","id":"Kohtla-Järve_Ehitaja","win":7,"draw":3,"loss":12,"for":31,"against":34,"isNew":true},
+{"country":"est-ssr","name":"FK Viljandi","id":"FK_Viljandi","win":2,"draw":4,"loss":16,"for":15,"against":74,"isRemoved":true},
+{"country":"est-ssr","name":"Tallinna Elektrotehnika","id":"Tallinna_Elektrotehnika","win":1,"draw":2,"loss":19,"for":18,"against":76,"isRemoved":true,"isNew":true}
 ]

@@ -176,4 +176,13 @@
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":1,"draw":1,"loss":1,"for":6,"against":6,"isReturning":true},
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":0,"draw":2,"loss":1,"for":7,"against":8},
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":0,"draw":2,"loss":1,"for":5,"against":6}
+][
+{"country":"est","name":"JS Estonia Tallinn","id":"JS_Estonia_Tallinn","win":11,"draw":1,"loss":2,"for":40,"against":1,"isChampion":true},
+{"country":"est","name":"Tallinna Jalgpalliklubi","id":"Tallinna_JK","win":7,"draw":3,"loss":4,"for":43,"against":26,"isReturning":true},
+{"country":"est","name":"VS Sport Tallinn","id":"SK_Tallinna_Sport","win":7,"draw":1,"loss":6,"for":35,"against":26},
+{"country":"est","name":"SÜ Esta Tallinn","id":"SÜ_Esta_Tallinn","win":5,"draw":5,"loss":4,"for":25,"against":21},
+{"country":"est","name":"ESS Kalev Tallinn","id":"JK_Tallinna_Kalev","win":5,"draw":4,"loss":5,"for":27,"against":23},
+{"country":"est","name":"PK Olümpia Tartu","id":"PK_Olümpia_Tartu","win":7,"draw":0,"loss":7,"for":22,"against":36,"isReturning":true},
+{"country":"est","name":"SS Tervis Pärnu","id":"Pärnu_JK_Tervis","win":4,"draw":1,"loss":9,"for":21,"against":42,"isRemoved":true},
+{"country":"est","name":"Narva THK","id":"Narva_THK","win":2,"draw":1,"loss":11,"for":18,"against":46,"isRemoved":true}
 ]

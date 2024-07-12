@@ -245,4 +245,13 @@
 {"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":6,"draw":10,"loss":10,"for":31,"against":41,"isReturning":true},
 {"country":"pol","name":"Odra Wodzisław","id":"Odra_Wodzisław_Śląski","win":7,"draw":3,"loss":16,"for":27,"against":41},
 {"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":4,"draw":4,"loss":18,"for":23,"against":58,"isRemoved":true}
+][
+{"country":"est","name":"Levadia","id":"FCI_Levadia_Tallinn","win":21,"draw":6,"loss":1,"for":82,"against":14,"isChampion":true},
+{"country":"est","name":"TVMK","id":"FC_TVMK","win":19,"draw":6,"loss":3,"for":89,"against":29},
+{"country":"est","name":"Flora","id":"FC_Flora","win":18,"draw":4,"loss":6,"for":83,"against":25},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":15,"draw":2,"loss":11,"for":43,"against":39},
+{"country":"est","name":"Merkuur","id":"Tartu_FC_Merkuur","win":10,"draw":5,"loss":13,"for":47,"against":58,"isNew":true},
+{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":6,"draw":7,"loss":15,"for":30,"against":53},
+{"country":"est","name":"Valga","id":"FC_Valga","win":5,"draw":2,"loss":21,"for":30,"against":80},
+{"country":"est","name":"Alutaguse Lootus","id":"Kohtla-Järve_FC_Lootus","win":1,"draw":2,"loss":25,"for":11,"against":117,"isRemoved":true,"isReturning":true}
 ]

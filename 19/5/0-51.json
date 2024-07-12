@@ -205,4 +205,15 @@
 {"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":5,"draw":6,"loss":11,"for":16,"against":26,"isReturning":true,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
 {"country":"pol","name":"Garbarnia Kraków","id":"Garbarnia_Kraków","win":4,"draw":7,"loss":11,"for":30,"against":42,"isRemoved":true,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
 {"country":"pol","name":"Arkonia Szczecin","id":"Arkonia_Szczecin","win":1,"draw":5,"loss":16,"for":17,"against":61,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"League moved to grouped format next season"}
+][
+{"country":"est-ssr","name":"Tallinna Dünamo","id":"Tallinna_JK_Dünamo","win":16,"draw":1,"loss":1,"for":53,"against":10,"isChampion":true},
+{"country":"est-ssr","name":"Baltic Fleet","id":"Baltic_Fleet","win":16,"draw":1,"loss":1,"for":59,"against":13},
+{"country":"est-ssr","name":"Soviet Air Forces Club Sokol","id":"soviet_air_forces_club_sokol","win":11,"draw":3,"loss":4,"for":34,"against":14},
+{"country":"est-ssr","name":"Rakvere Dünamo","id":"Rakvere_Dünamo","win":9,"draw":2,"loss":7,"for":28,"against":17},
+{"country":"est-ssr","name":"Narva Kalev","id":"Narva_Kalev","win":9,"draw":2,"loss":7,"for":29,"against":43,"isNew":true},
+{"country":"est-ssr","name":"Viljandi Dünamo","id":"Viljandi_Dünamo","win":9,"draw":1,"loss":8,"for":32,"against":31},
+{"country":"est-ssr","name":"Tallinna Spartak","id":"Tallinna_Spartak","win":6,"draw":2,"loss":10,"for":21,"against":34,"isReturning":true},
+{"country":"est-ssr","name":"Narva Dünamo","id":"Narva_Dünamo","win":3,"draw":3,"loss":12,"for":22,"against":53,"isRemoved":true},
+{"country":"est-ssr","name":"Pärnu Kalev","id":"Pärnu_Kalev","win":3,"draw":1,"loss":14,"for":23,"against":46},
+{"country":"est-ssr","name":"Tartu Kalev","id":"FA_Tartu_Kalev","win":0,"draw":0,"loss":18,"for":4,"against":44,"isRemoved":true}
 ]

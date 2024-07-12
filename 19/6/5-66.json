@@ -241,4 +241,15 @@
 {"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":7,"draw":7,"loss":12,"for":33,"against":41},
 {"country":"pol","name":"Odra Opole","id":"Odra_Opole","win":7,"draw":6,"loss":13,"for":26,"against":40,"isRemoved":true},
 {"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":5,"draw":4,"loss":17,"for":20,"against":51,"isRemoved":true}
+][
+{"country":"est-ssr","name":"Baltic Fleet","id":"Baltic_Fleet","win":14,"draw":4,"loss":6,"for":56,"against":8,"isChampion":true},
+{"country":"est-ssr","name":"Kopli Dünamo","id":"Kopli_Dünamo","win":8,"draw":8,"loss":2,"for":33,"against":14},
+{"country":"est-ssr","name":"Tempo","id":"Tallinna_JK_Tempo","win":10,"draw":4,"loss":4,"for":32,"against":17},
+{"country":"est-ssr","name":"Norma","id":"FC_Norma_Tallinn","win":8,"draw":6,"loss":4,"for":39,"against":20},
+{"country":"est-ssr","name":"Kohtla-Järve PK","id":"Kohtla-Järve_PK","win":8,"draw":4,"loss":6,"for":32,"against":24},
+{"country":"est-ssr","name":"Narva Kreenholm","id":"Narva_Kreenholm","win":8,"draw":2,"loss":8,"for":27,"against":33},
+{"country":"est-ssr","name":"Pärnu Kalev","id":"Pärnu_Kalev","win":5,"draw":3,"loss":10,"for":24,"against":35},
+{"country":"est-ssr","name":"Tartu Remonditehas","id":"Tartu_Remonditehas","win":5,"draw":3,"loss":10,"for":25,"against":41,"isNew":true},
+{"country":"est-ssr","name":"Valga Kalev","id":"BC_Valga-Valka","win":2,"draw":3,"loss":13,"for":14,"against":29,"isRemoved":true},
+{"country":"est-ssr","name":"EAT Tallinn","id":"EAT_Tallinn","win":1,"draw":2,"loss":15,"for":11,"against":72,"isRemoved":true,"isReturning":true}
 ]

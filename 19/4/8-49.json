@@ -203,4 +203,13 @@
 {"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":7,"draw":5,"loss":10,"for":34,"against":54,"isNew":true},
 {"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":6,"draw":5,"loss":11,"for":37,"against":43,"isRemoved":true},
 {"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":4,"draw":3,"loss":15,"for":26,"against":67,"isRemoved":true,"isNew":true}
+][
+{"country":"est-ssr","name":"Baltic Fleet","id":"Baltic_Fleet","win":9,"draw":4,"loss":1,"for":35,"against":16,"isChampion":true},
+{"country":"est-ssr","name":"Pärnu Kalev","id":"Pärnu_Kalev","win":9,"draw":2,"loss":3,"for":23,"against":15,"isReturning":true},
+{"country":"est-ssr","name":"Tartu Kalev","id":"FA_Tartu_Kalev","win":7,"draw":5,"loss":2,"for":33,"against":16,"isNew":true},
+{"country":"est-ssr","name":"Rakvere Dünamo","id":"Rakvere_Dünamo","win":4,"draw":5,"loss":5,"for":24,"against":22},
+{"country":"est-ssr","name":"Tallinna Esto","id":"Tallinna_Esto","win":5,"draw":3,"loss":6,"for":22,"against":28},
+{"country":"est-ssr","name":"Viljandi Dünamo","id":"Viljandi_Dünamo","win":4,"draw":3,"loss":7,"for":30,"against":28,"isNew":true},
+{"country":"est-ssr","name":"Tallinna Dünamo II","id":"Tallinna_JK_Dünamo","win":4,"draw":3,"loss":7,"for":14,"against":24},
+{"country":"est-ssr","name":"Tallinna Kalev II","id":"JK_Tallinna_Kalev","win":1,"draw":1,"loss":12,"for":11,"against":43,"isRemoved":true}
 ]

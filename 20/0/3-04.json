@@ -239,4 +239,13 @@
 {"country":"pol","name":"Górnik Polkowice","id":"Górnik_Polkowice","win":6,"draw":5,"loss":15,"for":17,"against":37,"isRemoved":true,"isNew":true},
 {"country":"pol","name":"Świt Nowy Dwór Mazowiecki","id":"Świt_Nowy_Dwór_Mazowiecki","win":5,"draw":7,"loss":14,"for":21,"against":42,"isRemoved":true,"isNew":true},
 {"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":4,"draw":7,"loss":15,"for":25,"against":52,"isRemoved":true}
+][
+{"country":"est","name":"Flora","id":"FC_Flora","win":24,"draw":4,"loss":0,"for":105,"against":21,"isChampion":true},
+{"country":"est","name":"TVMK","id":"FC_TVMK","win":20,"draw":5,"loss":3,"for":82,"against":26},
+{"country":"est","name":"Levadia Maardu","id":"FCI_Levadia_Tallinn","win":15,"draw":4,"loss":9,"for":54,"against":30},
+{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":14,"draw":5,"loss":9,"for":58,"against":43},
+{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":8,"draw":6,"loss":14,"for":44,"against":56},
+{"country":"est","name":"Levadia Tallinn","id":"FCI_Levadia_U21","win":8,"draw":4,"loss":16,"for":44,"against":63,"isRemoved":true},
+{"country":"est","name":"Valga","id":"FC_Valga","win":3,"draw":8,"loss":17,"for":25,"against":63,"isReturning":true},
+{"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":1,"draw":2,"loss":25,"for":11,"against":121,"isRemoved":true,"isReturning":true}
 ]

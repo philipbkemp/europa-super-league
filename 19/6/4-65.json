@@ -229,4 +229,15 @@
 {"country":"pol","name":"Stal Rzeszów","id":"Stal_Rzeszów_(football)","win":5,"draw":13,"loss":8,"for":30,"against":35},
 {"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":9,"draw":5,"loss":12,"for":31,"against":41,"isRemoved":true},
 {"country":"pol","name":"Unia Racibórz","id":"KP_Unia_Racibórz","win":6,"draw":2,"loss":18,"for":32,"against":75,"isRemoved":true}
+][
+{"country":"est-ssr","name":"Norma","id":"FC_Norma_Tallinn","win":12,"draw":4,"loss":2,"for":38,"against":12,"isChampion":true},
+{"country":"est-ssr","name":"Tempo","id":"Tallinna_JK_Tempo","win":9,"draw":6,"loss":3,"for":20,"against":13},
+{"country":"est-ssr","name":"Baltic Fleet","id":"Baltic_Fleet","win":7,"draw":6,"loss":5,"for":31,"against":13},
+{"country":"est-ssr","name":"Kopli Dünamo","id":"Kopli_Dünamo","win":6,"draw":7,"loss":5,"for":14,"against":11,"isNew":true},
+{"country":"est-ssr","name":"Valga Kalev","id":"BC_Valga-Valka","win":5,"draw":7,"loss":6,"for":12,"against":15,"isNew":true},
+{"country":"est-ssr","name":"Kohtla-Järve PK","id":"Kohtla-Järve_PK","win":5,"draw":6,"loss":7,"for":26,"against":20,"isReturning":true},
+{"country":"est-ssr","name":"Narva Kreenholm","id":"Narva_Kreenholm","win":5,"draw":6,"loss":7,"for":28,"against":38},
+{"country":"est-ssr","name":"Pärnu Kalev","id":"Pärnu_Kalev","win":5,"draw":5,"loss":8,"for":15,"against":27},
+{"country":"est-ssr","name":"Ülemiste Kalev","id":"Ülemiste_Kalev","win":3,"draw":8,"loss":7,"for":19,"against":18,"isRemoved":true},
+{"country":"est-ssr","name":"Aseri Keraamikatehas","id":"Aseri_Keraamikatehas","win":3,"draw":5,"loss":10,"for":13,"against":49,"isRemoved":true,"isNew":true}
 ]
