@@ -260,4 +260,13 @@
 {"country":"est","name":"TVMK","id":"FC_TVMK","win":3,"draw":4,"loss":7,"for":15,"against":27},
 {"country":"est","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":2,"draw":0,"loss":12,"for":10,"against":44},
 {"country":"est","name":"Lelle","id":"Pärnu_JK_Tervis","win":0,"draw":3,"loss":11,"for":10,"against":39,"isRemoved":true}
+][
+{"country":"lva","name":"Skonto","id":"Skonto_FC","win":21,"draw":4,"loss":3,"for":98,"against":27,"isChampion":true},
+{"country":"lva","name":"Liepājas Metalurgs","id":"FK_Liepājas_Metalurgs","win":17,"draw":6,"loss":5,"for":62,"against":25},
+{"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":16,"draw":6,"loss":6,"for":56,"against":23},
+{"country":"lva","name":"Dinaburg","id":"Dinaburg_FC","win":11,"draw":10,"loss":7,"for":49,"against":31},
+{"country":"lva","name":"Valmiera","id":"Valmiera_FC","win":10,"draw":7,"loss":11,"for":39,"against":59},
+{"country":"lva","name":"LU-Daugava","id":"Torpedo_Rīga","win":7,"draw":9,"loss":12,"for":42,"against":42,"isRemoved":true},
+{"country":"lva","name":"Rēzekne","id":"SK_Blāzma","win":2,"draw":5,"loss":21,"for":22,"against":80},
+{"country":"lva","name":"Ranto-Miks","id":"Ranto-Miks","win":2,"draw":5,"loss":21,"for":25,"against":106,"isRemoved":true,"isNew":true}
 ]

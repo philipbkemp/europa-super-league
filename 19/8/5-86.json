@@ -264,4 +264,20 @@
 {"country":"est-ssr","name":"FK Viljandi","id":"FK_Viljandi","win":5,"draw":6,"loss":11,"for":34,"against":45,"isReturning":true},
 {"country":"est-ssr","name":"Narva Baltika","id":"Narva_Baltika","win":3,"draw":3,"loss":16,"for":24,"against":66,"isRemoved":true},
 {"country":"est-ssr","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":1,"draw":1,"loss":20,"for":12,"against":105,"isRemoved":true}
+][
+{"country":"lva-ssr","name":"Alfa","id":"FK_Alfa","win":17,"draw":6,"loss":5,"for":50,"against":23,"isChampion":true},
+{"country":"lva-ssr","name":"Kimikis","id":"Kimikis","win":18,"draw":3,"loss":7,"for":36,"against":20},
+{"country":"lva-ssr","name":"Gauja","id":"FK_Gauja","win":15,"draw":8,"loss":5,"for":60,"against":32},
+{"country":"lva-ssr","name":"Energija","id":"FK_Apgaismes_tehnika","win":15,"draw":8,"loss":5,"for":48,"against":27},
+{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":14,"draw":7,"loss":7,"for":45,"against":31,"isReturning":true},
+{"country":"lva-ssr","name":"Celtnieks Rīga","id":"Celtnieks_Rīga","win":13,"draw":8,"loss":7,"for":50,"against":30},
+{"country":"lva-ssr","name":"Torpedo","id":"Torpedo_Rīga","win":11,"draw":9,"loss":8,"for":39,"against":28},
+{"country":"lva-ssr","name":"Junioru izlase","id":"Junioru_izlase","win":13,"draw":3,"loss":12,"for":40,"against":38,"isNew":true},
+{"country":"lva-ssr","name":"Jurnieks","id":"FK_Jūrnieks","win":11,"draw":6,"loss":11,"for":51,"against":46},
+{"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":11,"draw":5,"loss":12,"for":45,"against":34},
+{"country":"lva-ssr","name":"Aditajs","id":"Aditajs","win":9,"draw":6,"loss":13,"for":32,"against":45},
+{"country":"lva-ssr","name":"Zvezda","id":"zvezda","win":7,"draw":5,"loss":16,"for":28,"against":45,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Sarkanais Kvadrats","id":"Sarkanais_Kvadrats","win":5,"draw":8,"loss":15,"for":20,"against":59},
+{"country":"lva-ssr","name":"Masinbuvetajs","id":"SK_Blāzma","win":6,"draw":4,"loss":18,"for":28,"against":67,"isReturning":true,"isRemoved":true},
+{"country":"lva-ssr","name":"RPI","id":"RPI_Riga","win":1,"draw":2,"loss":25,"for":19,"against":66,"isRemoved":true}
 ]

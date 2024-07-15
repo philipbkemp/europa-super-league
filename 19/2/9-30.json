@@ -167,4 +167,10 @@
 {"country":"est","name":"SK Estika Tallinn","id":"SK_Estika_Tallinn","win":0,"draw":3,"loss":2,"for":8,"against":13,"isRemoved":true,"isNew":true},
 {"country":"est","name":"VK Merkur Tallinn","id":"VK_Merkur_Tallinn","win":1,"draw":1,"loss":3,"for":7,"against":15,"isRemoved":true,"isNew":true},
 {"country":"est","name":"Tartu Jalgpalliklubi","id":"Tartu_Jalgpalliklubi","win":0,"draw":2,"loss":3,"for":4,"against":12,"isRemoved":true,"isNew":true}
+][
+{"country":"lva","name":"Olimpija","id":"Olimpia_Liepaja","win":6,"draw":2,"loss":0,"for":27,"against":9,"isChampion":true},
+{"country":"lva","name":"RFK","id":"RFK_Riga","win":6,"draw":0,"loss":2,"for":31,"against":10},
+{"country":"lva","name":"Amatieris","id":"Amatieris","win":3,"draw":2,"loss":3,"for":14,"against":14},
+{"country":"lva","name":"ASK","id":"FK_ASK","win":1,"draw":2,"loss":5,"for":14,"against":25,"isNew":true},
+{"country":"lva","name":"LSB","id":"LSB_Rīga","win":1,"draw":0,"loss":7,"for":6,"against":34}
 ]

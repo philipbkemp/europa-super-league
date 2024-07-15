@@ -256,4 +256,17 @@
 {"country":"est-ssr","name":"Türi Jõud","id":"Türi_Jõud","win":5,"draw":3,"loss":10,"for":18,"against":47,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped league"},
 {"country":"est-ssr","name":"Tartu Kalev","id":"FA_Tartu_Kalev","win":3,"draw":3,"loss":12,"for":21,"against":40,"isReturning":true,"isRemoved":true,"removedNote":"Next season is a grouped league"},
 {"country":"est-ssr","name":"Viljandi Jõud","id":"Viljandi_Jõud","win":2,"draw":4,"loss":12,"for":17,"against":65,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped league"}
+][
+{"country":"lva-ssr","name":"ASK","id":"FK_ASK","win":19,"draw":2,"loss":1,"for":88,"against":14,"isChampion":true},
+{"country":"lva-ssr","name":"Pilots","id":"Pilots_Rīga","win":13,"draw":4,"loss":5,"for":44,"against":22},
+{"country":"lva-ssr","name":"RVR","id":"RVR_Riga","win":12,"draw":5,"loss":5,"for":48,"against":34},
+{"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":10,"draw":7,"loss":5,"for":63,"against":43,"isRemoved":true},
+{"country":"lva-ssr","name":"Vulkans","id":"Vulkans","win":11,"draw":4,"loss":7,"for":41,"against":33},
+{"country":"lva-ssr","name":"RER","id":"RER_Riga","win":9,"draw":6,"loss":7,"for":41,"against":32,"isRemoved":true},
+{"country":"lva-ssr","name":"Celtnieks","id":"Celtnieks_Rīga","win":9,"draw":5,"loss":8,"for":41,"against":31,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Tosmares c","id":"Tosmares_c","win":9,"draw":2,"loss":11,"for":46,"against":41},
+{"country":"lva-ssr","name":"Rigas Audums","id":"Rigas_Audums","win":8,"draw":2,"loss":12,"for":37,"against":59,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Rezekne","id":"SK_Blāzma","win":6,"draw":5,"loss":11,"for":28,"against":49,"isReturning":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Dinamo Rīga","id":"Dinamo_Riga","win":3,"draw":3,"loss":16,"for":23,"against":73,"isRemoved":true},
+{"country":"lva-ssr","name":"Jelgava","id":"FK_Jelgava","win":0,"draw":1,"loss":21,"for":20,"against":89,"isNew":true,"isRemoved":true}
 ]

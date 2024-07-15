@@ -258,4 +258,13 @@
 {"country":"est","name":"Pärnu Linnameeskond","id":"Pärnu_Linnameeskond","win":6,"draw":8,"loss":22,"for":38,"against":87,"isReturning":true},
 {"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":7,"draw":4,"loss":25,"for":39,"against":96},
 {"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":6,"draw":4,"loss":26,"for":35,"against":75,"isRemoved":true,"isReturning":true}
+][
+{"country":"lva","name":"Liepāja","id":"FK_Liepāja","win":15,"draw":7,"loss":2,"for":48,"against":23,"isChampion":true},
+{"country":"lva","name":"Skonto","id":"Skonto_FC","win":13,"draw":6,"loss":5,"for":43,"against":23,"isRemoved":true,"removedNote":"Failed to be granted a licence"},
+{"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":11,"draw":10,"loss":3,"for":39,"against":16},
+{"country":"lva","name":"Jelgava","id":"FK_Jelgava","win":11,"draw":8,"loss":5,"for":26,"against":18},
+{"country":"lva","name":"Spartaks Jūrmala","id":"FK_Spartaks_Jūrmala","win":5,"draw":6,"loss":13,"for":20,"against":36},
+{"country":"lva","name":"BFC Daugavpils","id":"BFC_Daugavpils","win":2,"draw":8,"loss":14,"for":14,"against":37},
+{"country":"lva","name":"METTA/LU","id":"FK_Metta","win":3,"draw":3,"loss":18,"for":19,"against":56},
+{"country":"lva","name":"Gulbene","id":"FB_Gulbene","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Excluded due to match fixing; Record expunged","isReturning":true}
 ]

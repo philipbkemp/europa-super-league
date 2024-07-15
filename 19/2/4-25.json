@@ -129,4 +129,10 @@
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":2,"draw":0,"loss":1,"for":10,"against":7},
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":0,"draw":1,"loss":2,"for":2,"against":4},
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":0,"draw":1,"loss":2,"for":3,"against":12}
+][
+{"country":"lva","name":"RFK","id":"rfk","win":4,"draw":0,"loss":0,"for":11,"against":1,"isChampion":true},
+{"country":"lva","name":"ASK","id":"ask","win":2,"draw":1,"loss":1,"for":4,"against":4,"isNew":true},
+{"country":"lva","name":"Amatieris","id":"amatieris","win":2,"draw":0,"loss":2,"for":6,"against":9},
+{"country":"lva","name":"JKS","id":"jks","win":1,"draw":0,"loss":3,"for":1,"against":4},
+{"country":"lva","name":"LSB","id":"lsb","win":0,"draw":1,"loss":3,"for":3,"against":7}
 ]

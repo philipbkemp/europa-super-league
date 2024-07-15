@@ -199,4 +199,13 @@
 {"country":"est","name":"SS Tervis Pärnu","id":"Pärnu_JK_Tervis","win":2,"draw":2,"loss":3,"for":10,"against":15,"isNew":true},
 {"country":"est","name":"KS Võitleja Narva","id":"KS_Võitleja_Narva","win":2,"draw":0,"loss":5,"for":10,"against":15,"isReturning":true},
 {"country":"est","name":"PK Olümpia Tartu","id":"PK_Olümpia_Tartu","win":0,"draw":2,"loss":5,"for":5,"against":24,"isRemoved":true}
+][
+{"country":"lva","name":"RFK","id":"RFK_Riga","win":11,"draw":2,"loss":1,"for":36,"against":9,"isChampion":true},
+{"country":"lva","name":"Olimpija","id":"Olimpia_Liepaja","win":7,"draw":4,"loss":3,"for":29,"against":20},
+{"country":"lva","name":"US","id":"Riga_US","win":7,"draw":2,"loss":5,"for":29,"against":31,"isNew":true},
+{"country":"lva","name":"Riga Wanderer","id":"Riga_Vanderer","win":6,"draw":2,"loss":6,"for":33,"against":24},
+{"country":"lva","name":"Hakoah","id":"Hakoah_Riga","win":6,"draw":2,"loss":6,"for":28,"against":25},
+{"country":"lva","name":"ASK","id":"FK_ASK","win":4,"draw":3,"loss":7,"for":17,"against":20},
+{"country":"lva","name":"JKS","id":"JKS_Riga","win":4,"draw":3,"loss":7,"for":21,"against":34},
+{"country":"lva","name":"Union","id":"Union_Riga","win":1,"draw":2,"loss":11,"for":12,"against":42,"isRemoved":true}
 ]

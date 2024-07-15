@@ -248,4 +248,13 @@
 {"country":"est","name":"Levadia Tallinn","id":"FCI_Levadia_U21","win":8,"draw":4,"loss":16,"for":44,"against":63,"isRemoved":true},
 {"country":"est","name":"Valga","id":"FC_Valga","win":3,"draw":8,"loss":17,"for":25,"against":63,"isReturning":true},
 {"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":1,"draw":2,"loss":25,"for":11,"against":121,"isRemoved":true,"isReturning":true}
+][
+{"country":"lva","name":"Skonto","id":"Skonto_FC","win":23,"draw":4,"loss":1,"for":91,"against":9,"isChampion":true},
+{"country":"lva","name":"Liepājas Metalurgs","id":"FK_Liepājas_Metalurgs","win":22,"draw":2,"loss":4,"for":100,"against":29},
+{"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":19,"draw":4,"loss":5,"for":89,"against":18},
+{"country":"lva","name":"Dinaburg","id":"Dinaburg_FC","win":13,"draw":5,"loss":10,"for":43,"against":36},
+{"country":"lva","name":"Rīga","id":"FK_Rīga","win":8,"draw":5,"loss":15,"for":34,"against":63},
+{"country":"lva","name":"Gauja","id":"Valmiera_FC","win":6,"draw":5,"loss":17,"for":27,"against":70,"isRemoved":true},
+{"country":"lva","name":"Auda","id":"FK_Auda","win":4,"draw":1,"loss":23,"for":21,"against":88},
+{"country":"lva","name":"RKB-Arma","id":"RKB-Arma","win":2,"draw":4,"loss":22,"for":23,"against":115,"isRemoved":true,"isNew":true}
 ]

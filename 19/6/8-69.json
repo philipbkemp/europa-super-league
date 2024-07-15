@@ -263,4 +263,19 @@
 {"country":"est-ssr","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":5,"draw":5,"loss":12,"for":22,"against":48,"isReturning":true},
 {"country":"est-ssr","name":"Narva Energeetik","id":"Narva_Energeetik","win":5,"draw":4,"loss":13,"for":23,"against":38},
 {"country":"est-ssr","name":"Tartu Remonditehas","id":"Tartu_Remonditehas","win":3,"draw":8,"loss":11,"for":27,"against":44,"isRemoved":true}
+][
+{"country":"lva-ssr","name":"Starts","id":"FK_Starts","win":16,"draw":4,"loss":6,"for":53,"against":20,"isChampion":true},
+{"country":"lva-ssr","name":"Elektrons","id":"FK_Alfa","win":12,"draw":11,"loss":3,"for":32,"against":16,"isNew":true},
+{"country":"lva-ssr","name":"Energija","id":"FK_Apgaismes_tehnika","win":11,"draw":9,"loss":6,"for":27,"against":15},
+{"country":"lva-ssr","name":"May 2012","id":"FK_ASK","win":13,"draw":4,"loss":9,"for":26,"against":26},
+{"country":"lva-ssr","name":"Pilots","id":"Pilots_Rīga","win":12,"draw":5,"loss":9,"for":30,"against":23},
+{"country":"lva-ssr","name":"Jurnieks","id":"FK_Jūrnieks","win":9,"draw":10,"loss":7,"for":30,"against":16},
+{"country":"lva-ssr","name":"Venta","id":"FK_Venta","win":10,"draw":8,"loss":8,"for":28,"against":21,"isReturning":true},
+{"country":"lva-ssr","name":"Lokomotive","id":"Lokomotiv_Daugavpils","win":9,"draw":9,"loss":8,"for":29,"against":37,"isNew":true},
+{"country":"lva-ssr","name":"Radiotehnikis","id":"Radiotehnikis","win":8,"draw":9,"loss":9,"for":25,"against":32,"isNew":true},
+{"country":"lva-ssr","name":"Baltika","id":"Baltika_(Latvia)","win":6,"draw":10,"loss":10,"for":25,"against":23},
+{"country":"lva-ssr","name":"Kurzeme","id":"Kurzeme","win":6,"draw":10,"loss":10,"for":30,"against":34,"isNew":true},
+{"country":"lva-ssr","name":"Ausma","id":"FK_Ausma","win":6,"draw":7,"loss":13,"for":16,"against":36,"isNew":true},
+{"country":"lva-ssr","name":"Vulkans","id":"Vulkans","win":6,"draw":5,"loss":15,"for":24,"against":47,"isRemoved":true},
+{"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":4,"draw":7,"loss":15,"for":16,"against":45,"isReturning":true,"isRemoved":true}
 ]

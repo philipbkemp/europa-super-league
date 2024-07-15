@@ -132,4 +132,13 @@
 {"country":"est","name":"Tallinna Jalgpalliklubi","id":"Tallinna_JK","win":5,"draw":2,"loss":7,"for":26,"against":32,"isRemoved":true,"removedNote":"Next season interupted by the Soviet Occupation, not run"},
 {"country":"est","name":"ÜENÜTO","id":"Üle_Eestilise_Noorte_Ühenduse_Tallinna_Osakond","win":3,"draw":2,"loss":9,"for":22,"against":38,"isReturning":true,"isRemoved":true,"removedNote":"Next season interupted by the Soviet Occupation, not run"},
 {"country":"est","name":"SS Kalev Pärnu","id":"Pärnu_JK_Tervis","win":1,"draw":3,"loss":10,"for":18,"against":52,"isRemoved":true,"isReturning":true,"isRemoved":true,"removedNote":"Next season interupted by the Soviet Occupation, not run"}
+][
+{"country":"lva","name":"Rīgas FK","id":"RFK_Riga","win":10,"draw":3,"loss":1,"for":40,"against":11,"isChampion":true,"isRemoved":true,"removedNote":"Next season was interrupted by the Soviet Union invasion"},
+{"country":"lva","name":"Olimpija Liepāja","id":"Olimpia_Liepaja","win":9,"draw":3,"loss":2,"for":42,"against":21,"isRemoved":true,"removedNote":"Next season was interrupted by the Soviet Union invasion"},
+{"country":"lva","name":"ASK","id":"FK_ASK","win":6,"draw":4,"loss":4,"for":40,"against":26,"isRemoved":true,"removedNote":"Next season was interrupted by the Soviet Union invasion"},
+{"country":"lva","name":"Hakoah Riga","id":"Hakoah_Riga","win":7,"draw":1,"loss":6,"for":21,"against":25,"isRemoved":true,"removedNote":"Next season was interrupted by the Soviet Union invasion"},
+{"country":"lva","name":"Rīgas Vilki","id":"Riga_Vanderer","win":5,"draw":2,"loss":7,"for":29,"against":26,"isReturning":true,"isRemoved":true,"removedNote":"Next season was interrupted by the Soviet Union invasion"},
+{"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":3,"draw":4,"loss":7,"for":26,"against":39,"isNew":true,"isRemoved":true,"removedNote":"Next season was interrupted by the Soviet Union invasion"},
+{"country":"lva","name":"US","id":"Universitātes_Sports","win":2,"draw":4,"loss":8,"for":20,"against":38,"isRemoved":true,"removedNote":"Next season was interrupted by the Soviet Union invasion"},
+{"country":"lva","name":"RKSB","id":"RKSB","win":2,"draw":3,"loss":9,"for":17,"against":49,"isRemoved":true,"isRemoved":true,"removedNote":"Next season was interrupted by the Soviet Union invasion"}
 ]

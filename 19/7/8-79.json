@@ -258,4 +258,19 @@
 {"country":"est-ssr","name":"Tempo","id":"Tallinna_JK_Tempo","win":5,"draw":4,"loss":13,"for":21,"against":38},
 {"country":"est-ssr","name":"Tartu Kontrollaparaaditehas","id":"Tartu_Kontrollaparaaditehas","win":2,"draw":3,"loss":17,"for":15,"against":70,"isNew":true,"isRemoved":true},
 {"country":"est-ssr","name":"Tallinna Autobussipark","id":"Tallinna_Autobussipark","win":1,"draw":2,"loss":19,"for":13,"against":72,"isRemoved":true,"isNew":true}
+][
+{"country":"lva-ssr","name":"Kimikis","id":"Kimikis","win":20,"draw":5,"loss":1,"for":53,"against":15,"isChampion":true},
+{"country":"lva-ssr","name":"Elektrons","id":"FK_Alfa","win":16,"draw":7,"loss":3,"for":41,"against":15},
+{"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":17,"draw":4,"loss":5,"for":43,"against":23},
+{"country":"lva-ssr","name":"Energija","id":"FK_Apgaismes_tehnika","win":13,"draw":7,"loss":6,"for":48,"against":30},
+{"country":"lva-ssr","name":"RER","id":"RER_Riga","win":14,"draw":4,"loss":8,"for":52,"against":30,"isRemoved":true},
+{"country":"lva-ssr","name":"Jurnieks","id":"FK_Jūrnieks","win":14,"draw":3,"loss":9,"for":45,"against":30},
+{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":10,"draw":9,"loss":7,"for":30,"against":25,"deduct":-1},
+{"country":"lva-ssr","name":"Celtnieks","id":"Celtnieks_Rīga","win":7,"draw":9,"loss":10,"for":37,"against":45,"isReturning":true},
+{"country":"lva-ssr","name":"Starts","id":"FK_Starts","win":5,"draw":10,"loss":11,"for":23,"against":38,"deduct":-1},
+{"country":"lva-ssr","name":"Metalists","id":"RAF_Jelgava","win":6,"draw":6,"loss":14,"for":30,"against":39},
+{"country":"lva-ssr","name":"Radiotehnikis","id":"Radiotehnikis","win":4,"draw":9,"loss":13,"for":20,"against":31,"isReturning":true},
+{"country":"lva-ssr","name":"RPI","id":"RPI_Riga","win":5,"draw":6,"loss":15,"for":29,"against":49,"isNew":true},
+{"country":"lva-ssr","name":"Venta","id":"FK_Venta","win":5,"draw":5,"loss":16,"for":24,"against":54,"deduct":-1,"isRemoved":true},
+{"country":"lva-ssr","name":"Masinbuvetajs","id":"SK_Blāzma","win":1,"draw":6,"loss":19,"for":15,"against":66,"deduct":-1,"isRemoved":true}
 ]

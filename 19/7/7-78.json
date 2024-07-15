@@ -288,4 +288,18 @@
 {"country":"est-ssr","name":"Jõhvi Estonia Kaevandus","id":"Jõhvi_Estonia_Kaevandus","win":5,"draw":6,"loss":11,"for":24,"against":44,"isNew":true},
 {"country":"est-ssr","name":"Tartu Remonditehas","id":"Tartu_Remonditehas","win":4,"draw":6,"loss":12,"for":22,"against":40,"isRemoved":true},
 {"country":"est-ssr","name":"Narva Energeetik","id":"Narva_Energeetik","win":4,"draw":3,"loss":15,"for":17,"against":50,"isRemoved":true,"isReturning":true}
+][
+{"country":"lva-ssr","name":"Energija","id":"FK_Apgaismes_tehnika","win":19,"draw":5,"loss":0,"for":54,"against":13,"isChampion":true},
+{"country":"lva-ssr","name":"Elektrons","id":"FK_Alfa","win":12,"draw":11,"loss":1,"for":35,"against":11},
+{"country":"lva-ssr","name":"Kimikis","id":"Kimikis","win":15,"draw":4,"loss":5,"for":51,"against":21},
+{"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":14,"draw":5,"loss":5,"for":68,"against":31},
+{"country":"lva-ssr","name":"RER","id":"RER_RER_Riga","win":13,"draw":5,"loss":6,"for":53,"against":21},
+{"country":"lva-ssr","name":"Jurnieks","id":"FK_Jūrnieks","win":13,"draw":4,"loss":7,"for":45,"against":20},
+{"country":"lva-ssr","name":"Metalists","id":"RAF_Jelgava","win":9,"draw":5,"loss":10,"for":42,"against":33,"isNew":true},
+{"country":"lva-ssr","name":"Venta","id":"FK_Venta","win":6,"draw":6,"loss":12,"for":29,"against":36,"deduct":-1},
+{"country":"lva-ssr","name":"Masinbuvetajs","id":"SK_Blāzma","win":7,"draw":2,"loss":15,"for":20,"against":43,"isReturning":true},
+{"country":"lva-ssr","name":"RPI","id":"RPI_Riga","win":5,"draw":5,"loss":14,"for":24,"against":31},
+{"country":"lva-ssr","name":"Starts","id":"FK_Starts","win":6,"draw":3,"loss":15,"for":30,"against":45},
+{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":5,"draw":5,"loss":14,"for":25,"against":46,"isReturning":true},
+{"country":"lva-ssr","name":"Lielupe","id":"Lielupe,_Latvia","win":2,"draw":0,"loss":22,"for":10,"against":135,"deduct":-1,"isRemoved":true}
 ]

@@ -262,4 +262,15 @@
 {"country":"est","name":"Tallinna Sadam","id":"JK_Tallinna_Sadam","win":10,"draw":2,"loss":12,"for":37,"against":35},
 {"country":"est","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":12,"draw":2,"loss":10,"for":38,"against":25},
 {"country":"est","name":"Vall","id":"JK_Vall_Tallinn","win":7,"draw":2,"loss":15,"for":38,"against":59,"isNew":true,"isRemoved":true}
+][
+{"country":"lva","name":"Skonto","id":"Skonto_FC","win":23,"draw":4,"loss":1,"for":98,"against":12,"isChampion":true},
+{"country":"lva","name":"Daugava Rīga","id":"Torpedo_Rīga","win":18,"draw":7,"loss":3,"for":61,"against":18},
+{"country":"lva","name":"Dinaburg","id":"Dinaburg_FC","win":13,"draw":8,"loss":7,"for":53,"against":31},
+{"country":"lva","name":"Baltika Liepāja","id":"FK_Liepājas_Metalurgs","win":11,"draw":5,"loss":12,"for":32,"against":44},
+{"country":"lva","name":"Universitāte","id":"RAF_Jelgava","win":11,"draw":6,"loss":11,"for":37,"against":45},
+{"country":"lva","name":"Starts","id":"FK_Starts","win":6,"draw":5,"loss":17,"for":26,"against":69,"isRemoved":true,"removedNote":"Dissolved"},
+{"country":"lva","name":"Vairogs","id":"SK_Blāzma","win":9,"draw":6,"loss":15,"for":37,"against":54},
+{"country":"lva","name":"Lokomotīve","id":"FK_Lokomotīve_Daugavpils","win":10,"draw":9,"loss":11,"for":38,"against":45,"isNew":true},
+{"country":"lva","name":"Skonto/Metāls","id":"Skonto/Metāls","win":7,"draw":6,"loss":17,"for":25,"against":53,"isRemoved":true},
+{"country":"lva","name":"Jūrnieks","id":"FK_Jūrnieks","win":4,"draw":8,"loss":18,"for":25,"against":61,"isRemoved":true,"isReturning":true}
 ]

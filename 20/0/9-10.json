@@ -264,4 +264,14 @@
 {"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":7,"draw":3,"loss":26,"for":21,"against":99,"isReturning":true},
 {"country":"est","name":"Paide Linnameeskond","id":"Paide_Linnameeskond","win":6,"draw":4,"loss":26,"for":21,"against":97,"isNew":true},
 {"country":"est","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":4,"draw":4,"loss":28,"for":32,"against":89,"isRemoved":true}
+][
+{"country":"lva","name":"Liepājas Metalurgs","id":"FK_Liepājas_Metalurgs","win":25,"draw":4,"loss":3,"for":96,"against":23,"isChampion":true},
+{"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":23,"draw":5,"loss":4,"for":89,"against":21},
+{"country":"lva","name":"Skonto","id":"Skonto_FC","win":23,"draw":4,"loss":5,"for":98,"against":30},
+{"country":"lva","name":"Jūrmala-VV","id":"FK_Daugava_(2003)","win":12,"draw":4,"loss":16,"for":42,"against":60},
+{"country":"lva","name":"Olimps/RFS","id":"JFK_Olimps","win":11,"draw":5,"loss":16,"for":53,"against":60},
+{"country":"lva","name":"Blāzma Rēzekne","id":"SK_Blāzma","win":7,"draw":5,"loss":20,"for":30,"against":71},
+{"country":"lva","name":"Tranzīts Ventspils","id":"FC_Tranzit","win":2,"draw":10,"loss":20,"for":22,"against":65,"isNew":true},
+{"country":"lva","name":"Daugava Rīga","id":"FK_RFS","win":3,"draw":5,"loss":24,"for":26,"against":116,"isRemoved":true,"isNew":true},
+{"country":"lva","name":"Dinaburg","id":"Dinaburg_FC","win":15,"draw":4,"loss":13,"for":31,"against":39,"isRemoved":true,"removedNote":"Relegation/excluded due to match fixing"}
 ]

@@ -270,4 +270,21 @@
 {"country":"est-ssr","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":5,"draw":6,"loss":11,"for":22,"against":28},
 {"country":"est-ssr","name":"Narva Energia","id":"Narva_Energia","win":5,"draw":2,"loss":15,"for":25,"against":50,"isRemoved":true},
 {"country":"est-ssr","name":"Tallinna Autobussipark","id":"Tallinna_Autobussipark","win":3,"draw":3,"loss":16,"for":28,"against":64,"isRemoved":true,"isReturning":true}
+][
+{"country":"lva-ssr","name":"Elektrons","id":"FK_Alfa","win":21,"draw":8,"loss":1,"for":83,"against":18,"isChampion":true},
+{"country":"lva-ssr","name":"Celtnieks","id":"Celtnieks_Rīga","win":19,"draw":9,"loss":2,"for":73,"against":18},
+{"country":"lva-ssr","name":"Ķīmiķis","id":"Kimikis","win":20,"draw":5,"loss":5,"for":71,"against":21,"isNew":true},
+{"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":17,"draw":11,"loss":2,"for":65,"against":24},
+{"country":"lva-ssr","name":"Enerģija","id":"FK_Apgaismes_tehnika","win":14,"draw":12,"loss":4,"for":69,"against":28},
+{"country":"lva-ssr","name":"Torpedo","id":"Torpedo_Rīga","win":11,"draw":12,"loss":7,"for":42,"against":24},
+{"country":"lva-ssr","name":"Automobilists","id":"Automobilists","win":13,"draw":7,"loss":10,"for":43,"against":43},
+{"country":"lva-ssr","name":"Gauja","id":"FK_Gauja","win":12,"draw":8,"loss":10,"for":44,"against":46},
+{"country":"lva-ssr","name":"FK Jūrnieks","id":"FK_Jūrnieks","win":12,"draw":5,"loss":13,"for":45,"against":37},
+{"country":"lva-ssr","name":"Progress","id":"Progress_Rīga","win":9,"draw":7,"loss":14,"for":41,"against":38},
+{"country":"lva-ssr","name":"Radiotehniķis","id":"Radiotehnikis","win":7,"draw":10,"loss":13,"for":42,"against":67,"isNew":true},
+{"country":"lva-ssr","name":"RPI","id":"RPI_Riga","win":8,"draw":5,"loss":17,"for":39,"against":61},
+{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":7,"draw":5,"loss":18,"for":26,"against":55,"isReturning":true},
+{"country":"lva-ssr","name":"Dīzelists","id":"Dīzelists","win":4,"draw":5,"loss":21,"for":31,"against":93,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Mašīnbūvētājs","id":"SK_Blāzma","win":4,"draw":4,"loss":22,"for":19,"against":83,"isReturning":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Vulkāns","id":"Vulkāns_Kuldīga","win":5,"draw":1,"loss":24,"for":33,"against":110,"isNew":true,"isRemoved":true}
 ]

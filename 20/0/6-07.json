@@ -262,4 +262,13 @@
 {"country":"est","name":"Lasnamäe Ajax","id":"FC_Ajax_Lasnamäe","win":6,"draw":7,"loss":23,"for":35,"against":104,"isNew":true},
 {"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":5,"draw":5,"loss":26,"for":29,"against":74},
 {"country":"est","name":"Warrior","id":"FC_Warrior_Valga","win":3,"draw":2,"loss":31,"for":16,"against":110,"isRemoved":true,"isNew":true}
+][
+{"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":19,"draw":5,"loss":4,"for":48,"against":23,"isChampion":true},
+{"country":"lva","name":"Liepājas Metalurgs","id":"FK_Liepājas_Metalurgs","win":18,"draw":6,"loss":4,"for":66,"against":20},
+{"country":"lva","name":"Skonto","id":"Skonto_FC","win":16,"draw":6,"loss":6,"for":55,"against":21},
+{"country":"lva","name":"Dinaburg","id":"Dinaburg_FC","win":12,"draw":5,"loss":11,"for":33,"against":38},
+{"country":"lva","name":"Ditton","id":"FC_Daugava","win":10,"draw":8,"loss":10,"for":33,"against":31,"isReturning":true},
+{"country":"lva","name":"Jūrmala","id":"FK_Daugava_(2003)","win":11,"draw":4,"loss":13,"for":36,"against":36},
+{"country":"lva","name":"Rīga","id":"FK_Rīga","win":6,"draw":4,"loss":18,"for":21,"against":57},
+{"country":"lva","name":"Dižvanagi","id":"RSK_Dižvanagi","win":0,"draw":2,"loss":26,"for":11,"against":77,"isRemoved":true,"isNew":true}
 ]

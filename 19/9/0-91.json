@@ -257,4 +257,19 @@
 {"country":"est-ssr","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":4,"draw":7,"loss":11,"for":23,"against":45},
 {"country":"est-ssr","name":"KEK Jõgeva/Merkuur Tartu","id":"Tartu_JK_Merkuur","win":5,"draw":2,"loss":15,"for":30,"against":54,"isRemoved":true,"isNew":true},
 {"country":"est-ssr","name":"Flora","id":"FC_Flora","win":1,"draw":3,"loss":18,"for":25,"against":74,"isRemoved":true,"isReturning":true}
+][
+{"country":"lva-ssr","name":"Gauja Valmiera","id":"FK_Gauja","win":18,"draw":5,"loss":3,"for":51,"against":20,"isChampion":true},
+{"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":16,"draw":7,"loss":3,"for":59,"against":21},
+{"country":"lva-ssr","name":"Latgale","id":"Latgale","win":16,"draw":3,"loss":7,"for":62,"against":39,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Apgaismes Tehnika","id":"FK_Apgaismes_tehnika","win":15,"draw":3,"loss":8,"for":60,"against":31},
+{"country":"lva-ssr","name":"Sarkanais Kvadrāts","id":"Sarkanais_Kvadrāts","win":13,"draw":6,"loss":7,"for":40,"against":30,"isNew":true},
+{"country":"lva-ssr","name":"Celtnieks Daugavpils","id":"Dinaburg_FC","win":11,"draw":4,"loss":11,"for":48,"against":46},
+{"country":"lva-ssr","name":"Jurnieks","id":"FK_Jūrnieks","win":10,"draw":6,"loss":10,"for":37,"against":41},
+{"country":"lva-ssr","name":"Betons","id":"Betons","win":10,"draw":5,"loss":11,"for":54,"against":49},
+{"country":"lva-ssr","name":"Rīgas Audums","id":"Rīgas_Audums","win":11,"draw":3,"loss":12,"for":59,"against":76,"isNew":true},
+{"country":"lva-ssr","name":"Vārpa Ilūkste","id":"Augšdaugavas_NSS","win":8,"draw":8,"loss":10,"for":41,"against":42},
+{"country":"lva-ssr","name":"Tiltubuvetajs","id":"Tiltubuvetajs","win":7,"draw":7,"loss":12,"for":48,"against":71,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Dīzelists","id":"Dīzelists","win":5,"draw":7,"loss":14,"for":33,"against":46,"isReturning":true},
+{"country":"lva-ssr","name":"Aditajs","id":"Aditajs","win":6,"draw":4,"loss":16,"for":30,"against":50,"isReturning":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Dubna","id":"Dubna","win":1,"draw":2,"loss":23,"for":26,"against":86,"isNew":true,"isRemoved":true}
 ]

@@ -268,4 +268,15 @@
 {"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":6,"draw":7,"loss":17,"for":31,"against":49},
 {"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":5,"draw":9,"loss":16,"for":28,"against":63},
 {"country":"est","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":5,"draw":5,"loss":20,"for":20,"against":68,"isRemoved":true}
+][
+{"country":"lva","name":"Riga","id":"Riga_FC","win":23,"draw":0,"loss":4,"for":60,"against":21,"isChampion":true},
+{"country":"lva","name":"Rīgas FS","id":"FK_RFS","win":21,"draw":3,"loss":3,"for":66,"against":21},
+{"country":"lva","name":"Valmiera/BSS","id":"Valmiera_FC","win":13,"draw":8,"loss":6,"for":47,"against":33},
+{"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":12,"draw":8,"loss":7,"for":40,"against":25},
+{"country":"lva","name":"Liepāja","id":"FK_Liepāja","win":12,"draw":6,"loss":9,"for":57,"against":34},
+{"country":"lva","name":"Spartaks Jūrmala","id":"FK_Spartaks_Jūrmala","win":11,"draw":7,"loss":9,"for":53,"against":44},
+{"country":"lva","name":"Jelgava","id":"FK_Jelgava","win":6,"draw":4,"loss":17,"for":19,"against":64,"isRemoved":true},
+{"country":"lva","name":"Daugavpils","id":"BFC_Daugavpils","win":5,"draw":5,"loss":17,"for":30,"against":48},
+{"country":"lva","name":"Metta/LU","id":"FK_Metta","win":4,"draw":4,"loss":19,"for":22,"against":55},
+{"country":"lva","name":"Tukums","id":"FK_Tukums_2000","win":3,"draw":5,"loss":19,"for":21,"against":70,"isRemoved":true,"isNew":true}
 ]

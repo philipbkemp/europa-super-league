@@ -138,4 +138,10 @@
 {"country":"pol","name":"Czarni Lwów","id":"Czarni_Lwów","win":7,"draw":4,"loss":13,"for":59,"against":63},
 {"country":"pol","name":"1. FC Kattowitz","id":"1._FC_Kattowitz","win":5,"draw":7,"loss":12,"for":33,"against":51,"isRemoved":true},
 {"country":"pol","name":"Klub Turystów Łódź","id":"Union_Touring_Łódź","win":6,"draw":5,"loss":13,"for":31,"against":55,"isRemoved":true}
+][
+{"country":"lva","name":"Olimpija","id":"Olimpia_Liepaja","win":6,"draw":1,"loss":1,"for":22,"against":10,"isChampion":true},
+{"country":"lva","name":"RFK","id":"RFK_Riga","win":3,"draw":3,"loss":2,"for":20,"against":16},
+{"country":"lva","name":"LSB","id":"LSB_Rīga","win":2,"draw":3,"loss":3,"for":13,"against":17},
+{"country":"lva","name":"Amatieris","id":"Amatieris","win":2,"draw":2,"loss":4,"for":15,"against":18},
+{"country":"lva","name":"LNJS","id":"LNJS","win":2,"draw":1,"loss":5,"for":17,"against":26,"isNew":true,"isRemoved":true}
 ]

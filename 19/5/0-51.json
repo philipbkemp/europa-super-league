@@ -216,4 +216,22 @@
 {"country":"est-ssr","name":"Narva Dünamo","id":"Narva_Dünamo","win":3,"draw":3,"loss":12,"for":22,"against":53,"isRemoved":true},
 {"country":"est-ssr","name":"Pärnu Kalev","id":"Pärnu_Kalev","win":3,"draw":1,"loss":14,"for":23,"against":46},
 {"country":"est-ssr","name":"Tartu Kalev","id":"FA_Tartu_Kalev","win":0,"draw":0,"loss":18,"for":4,"against":44,"isRemoved":true}
+][
+{"country":"lva-ssr","name":"AVN","id":"FK_ASK#FK_AVN","win":30,"draw":2,"loss":0,"for":139,"against":9,"isChampion":true},
+{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":27,"draw":3,"loss":2,"for":122,"against":18},
+{"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":26,"draw":1,"loss":5,"for":104,"against":27},
+{"country":"lva-ssr","name":"Daugava Daugavpils","id":"FC_Daugava","win":15,"draw":9,"loss":8,"for":41,"against":33,"isRemoved":true},
+{"country":"lva-ssr","name":"Vulkans","id":"Vulkans","win":16,"draw":5,"loss":11,"for":44,"against":45,"isNew":true},
+{"country":"lva-ssr","name":"PAK Zhmylov","id":"PAK_Zhmylov","win":15,"draw":4,"loss":13,"for":73,"against":28,"isRemoved":true},
+{"country":"lva-ssr","name":"PAK Kasatkin","id":"PAK_Kasatkin","win":14,"draw":3,"loss":15,"for":68,"against":57,"isRemoved":true},
+{"country":"lva-ssr","name":"RVR","id":"RVR_(football_club)","win":14,"draw":3,"loss":15,"for":55,"against":73,"isRemoved":true},
+{"country":"lva-ssr","name":"Dinamo Ventspils","id":"Dinamo_Ventspils","win":14,"draw":3,"loss":15,"for":38,"against":68,"isRemoved":true},
+{"country":"lva-ssr","name":"Dinamo 7 RK","id":"Dinamo_7_RK","win":11,"draw":5,"loss":16,"for":54,"against":55,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Daugava Dobele","id":"Daugava_Dobele","win":7,"draw":9,"loss":16,"for":53,"against":114,"isRemoved":true},
+{"country":"lva-ssr","name":"DzSK","id":"DzSK","win":9,"draw":5,"loss":18,"for":35,"against":86,"isRemoved":true},
+{"country":"lva-ssr","name":"Spartak Riga","id":"Spartak_Riga","win":7,"draw":8,"loss":17,"for":40,"against":70,"isRemoved":true},
+{"country":"lva-ssr","name":"Dinamo Rezekne","id":"Dinamo_Rezekne","win":9,"draw":3,"loss":20,"for":14,"against":62,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Dinamo Valmiera","id":"Dinamo_Valmiera","win":5,"draw":9,"loss":18,"for":23,"against":72,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Spartak Talsi","id":"Spartak_Talsi","win":6,"draw":6,"loss":20,"for":33,"against":85,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Dinamo Rīga","id":"Dinamo_Riga","win":7,"draw":2,"loss":23,"for":40,"against":74,"isRemoved":true}
 ]

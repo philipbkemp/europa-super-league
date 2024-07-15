@@ -263,4 +263,25 @@
 {"country":"est-ssr","name":"Tempo","id":"Tempo_Tallinn","win":4,"draw":6,"loss":14,"for":27,"against":70,"isNew":true,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
 {"country":"est-ssr","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":4,"draw":4,"loss":16,"for":37,"against":73,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
 {"country":"est-ssr","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":2,"draw":1,"loss":21,"for":16,"against":77,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"}
+][
+{"country":"lva-ssr","name":"Forums Skonto","id":"Skonto_FC","win":15,"draw":2,"loss":1,"for":33,"against":7,"isChampion":true,"isNew":true},
+{"country":"lva-ssr","name":"Pārdaugava","id":"FK_Pārdaugava","win":12,"draw":2,"loss":4,"for":38,"against":13,"isReturning":true},
+{"country":"lva-ssr","name":"Olimpija","id":"FK_Liepājas_Metalurgs","win":10,"draw":5,"loss":3,"for":34,"against":13,"isReturning":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Celtnieks Daugavpils","id":"Dinaburg_FC","win":10,"draw":2,"loss":6,"for":39,"against":20},
+{"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":5,"draw":7,"loss":6,"for":18,"against":19},
+{"country":"lva-ssr","name":"Gauja","id":"FK_Gauja","win":6,"draw":4,"loss":8,"for":21,"against":33},
+{"country":"lva-ssr","name":"Vārpa-Dilar","id":"Augšdaugavas_NSS","win":5,"draw":3,"loss":10,"for":14,"against":27},
+{"country":"lva-ssr","name":"Torpedo","id":"Torpedo_Rīga","win":4,"draw":5,"loss":9,"for":21,"against":26,"isReturning":true},
+{"country":"lva-ssr","name":"Starts","id":"FK_Starts","win":4,"draw":2,"loss":12,"for":21,"against":52,"isReturning":true},
+{"country":"lva-ssr","name":"Strautmala","id":"Strautmala","win":2,"draw":2,"loss":14,"for":12,"against":40,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Sarkanais Kvadrāts","id":"Sarkanais_Kvadrāts","win":11,"draw":5,"loss":12,"for":45,"against":5,"isRemoved":true2},
+{"country":"lva-ssr","name":"Rīgas Audums","id":"Rīgas_Audums","win":11,"draw":5,"loss":12,"for":55,"against":57,"isRemoved":true},
+{"country":"lva-ssr","name":"Betons","id":"Betons","win":7,"draw":13,"loss":8,"for":50,"against":47,"isRemoved":true},
+{"country":"lva-ssr","name":"Jūrnieks","id":"FK_Jūrnieks","win":9,"draw":6,"loss":13,"for":41,"against":58,"isRemoved":true},
+{"country":"lva-ssr","name":"FK Auda","id":"FK_Auda","win":8,"draw":8,"loss":12,"for":35,"against":49,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Faless","id":"Faless","win":7,"draw":7,"loss":14,"for":45,"against":68,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Celtnieks Rīga","id":"Celtnieks_Rīga","win":7,"draw":6,"loss":15,"for":39,"against":64,"isReturning":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Apgaismes tehnika","id":"FK_Apgaismes_tehnika","win":5,"draw":8,"loss":15,"for":33,"against":55,"isRemoved":true},
+{"country":"lva-ssr","name":"Daugava","id":"FC_Daugava_Riga","win":6,"draw":4,"loss":18,"for":34,"against":67,"isReturning":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Dīzelists","id":"Dīzelists","win":2,"draw":7,"loss":19,"for":28,"against":79,"isRemoved":true}
 ]

@@ -1,10 +1,10 @@
-country = "est";
+country = "lva";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
 ISGROUPEDFIRST = false;
 FOUND = false;
-tbl = $("h2 span#League_table, h2 span#Final_table, h2 span#League_standings, h2 span#Table, h2 span#Standings, h3 span#League_standings, h2 span#Final_league_table");
+tbl = $("h2 span#League_table, h2 span#Final_table, h2 span#League_standings, h2 span#Table, h2 span#Standings, h3 span#League_standings, h2 span#Final_league_table, h2 span#Final_classification");
 if ( tbl.length === 1 ) { FOUND = true; }
 //if ( !FOUND ) { tbl2 = $("h2 span#Regular_season, h2 span#Championship_play-offs, h2 span#Relegation_play-outs"); if ( tbl2.length === 3 ) { tbl = tbl2; ADD_TABLE_STATS = true; FOUND = true; } }
 //if ( !FOUND ) { tbl2 = $("h2 span#Regular_season, h2 span#Play-off_round, h2 span#Play-out_round"); if ( tbl2.length === 3 ) { tbl = tbl2; ADD_TABLE_STATS = true; FOUND = true; } }
@@ -14,8 +14,7 @@ if ( tbl.length === 1 ) { FOUND = true; }
 //tbl3 = $("h2 span#Autumn_season, h3 span#Championship_playoff, h3 span[id='Promotion/relegation_playoff']"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,true]; }
 //tbl3 = $("h2 span#League_table, h2 span#Championship_round, h2 span#Relegation_round"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,false]; }
 //tbl3 = $("h2 span#Regular_season, h3 span#Championship_round, h3 span#Relegation_round"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,false]; }
-
-tbl3 = $("h2 span#Preliminary_round, h2 span#Championship_Tournament, h2 span#Meistriliiga_Transition_Tournament"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [true,true]; }
+tbl3 = $("h2 span#First_round, h3 span#Championship_round, h3 span#Relegation_round"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,false]; }
 
 if ( FOUND ) {
 	tblTotal = tbl.length;
@@ -69,8 +68,12 @@ if ( FOUND ) {
 					} else {
 						theClubName = $(cols[1]).text().trim();
 						theClubName = theClubName.replace(" (E)","");
+						theClubName = theClubName.replace(" (C)","");
 						theClubId = theClubName.toLowerCase().split(" ").join("_");
-						console.log(theClubId);
+						console.warn(theClubId);
+					}
+					if ( theClubId === "RFK" ) {
+						console.warn(theClubId);
 					}
 					if ( IS_STANDARD === TYPE_STANDARD.length ) {
 						thisClub ={

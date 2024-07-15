@@ -254,4 +254,19 @@
 {"country":"est-ssr","name":"EAT Tallinn","id":"EAT_Tallinn","win":4,"draw":2,"loss":10,"for":24,"against":51,"isNew":true,"isRemoved":true},
 {"country":"est-ssr","name":"Kiviõli Kombinaat","id":"Kiviõli_Kombinaat","win":3,"draw":1,"loss":12,"for":21,"against":37,"isRemoved":true,"isNew":true},
 {"country":"est-ssr","name":"Ülemiste Kalev","id":"Ülemiste_Kalev","win":0,"draw":0,"loss":0,"for":0,"against":0,"isReturning":true,"note":"Disqualified from final standings due to unsportsmanlike behaviour"}
+][
+{"country":"lva-ssr","name":"ASK","id":"FK_ASK","win":19,"draw":6,"loss":1,"for":72,"against":11,"isChampion":true},
+{"country":"lva-ssr","name":"KBRR","id":"FK_Jūrnieks","win":18,"draw":4,"loss":4,"for":54,"against":21},
+{"country":"lva-ssr","name":"RER","id":"RER_Riga","win":15,"draw":7,"loss":4,"for":52,"against":18,"isReturning":true},
+{"country":"lva-ssr","name":"LMR","id":"LMR_(football_club)","win":13,"draw":6,"loss":7,"for":47,"against":25,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Lignums","id":"Lignums","win":12,"draw":7,"loss":7,"for":48,"against":41,"isNew":true},
+{"country":"lva-ssr","name":"Tosmares c","id":"Tosmares_c","win":11,"draw":5,"loss":10,"for":43,"against":32},
+{"country":"lva-ssr","name":"Vulkans","id":"Vulkans","win":11,"draw":3,"loss":12,"for":40,"against":36},
+{"country":"lva-ssr","name":"Broceni","id":"FK_Starts","win":9,"draw":6,"loss":11,"for":43,"against":39},
+{"country":"lva-ssr","name":"Daugavpils","id":"Dinaburg_FC","win":9,"draw":4,"loss":13,"for":30,"against":42,"isReturning":true},
+{"country":"lva-ssr","name":"RVR","id":"RVR_(football_club)","win":8,"draw":5,"loss":13,"for":39,"against":48,"isReturning":true,"isRemoved":true},
+{"country":"lva-ssr","name":"ASK-2","id":"ASK-2","win":7,"draw":7,"loss":12,"for":35,"against":52,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Jūrmala","id":"FC_Jūrmala","win":6,"draw":4,"loss":16,"for":25,"against":60},
+{"country":"lva-ssr","name":"Jelgava","id":"FS_Jelgava","win":4,"draw":4,"loss":18,"for":20,"against":60,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Valmiera","id":"Valmiera_FC","win":4,"draw":4,"loss":18,"for":20,"against":83,"isReturning":true,"isRemoved":true}
 ]

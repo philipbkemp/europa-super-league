@@ -259,4 +259,21 @@
 {"country":"est-ssr","name":"Viljandi FK","id":"Viljandi_FK","win":4,"draw":4,"loss":14,"for":36,"against":70,"isNew":true,"isRemoved":true},
 {"country":"est-ssr","name":"Lõvid-Flora","id":"FC_Flora","win":3,"draw":1,"loss":18,"for":40,"against":66,"isRemoved":true,"isNew":true},
 {"country":"est-ssr","name":"Tartu Kalev","id":"FA_Tartu_Kalev","win":2,"draw":0,"loss":20,"for":17,"against":76,"isRemoved":true}
+][
+{"country":"lva-ssr","name":"RAF","id":"RAF_Jelgava","win":19,"draw":11,"loss":0,"for":69,"against":18,"isChampion":true,"isReturning":true},
+{"country":"lva-ssr","name":"Torpedo","id":"Torpedo_Rīga","win":22,"draw":4,"loss":4,"for":55,"against":24},
+{"country":"lva-ssr","name":"Celtnieks Daugavpils","id":"Dinaburg_FC","win":16,"draw":9,"loss":5,"for":47,"against":19},
+{"country":"lva-ssr","name":"Jurnieks","id":"FK_Jūrnieks","win":14,"draw":9,"loss":7,"for":55,"against":43},
+{"country":"lva-ssr","name":"Gauja","id":"FK_Gauja","win":15,"draw":6,"loss":9,"for":56,"against":40},
+{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":12,"draw":10,"loss":8,"for":66,"against":44},
+{"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":11,"draw":10,"loss":9,"for":40,"against":38},
+{"country":"lva-ssr","name":"Apgaismes Tehnika","id":"FK_Apgaismes_tehnika","win":13,"draw":5,"loss":12,"for":56,"against":44,"isReturning":true},
+{"country":"lva-ssr","name":"Celtnieks Rīga","id":"Celtnieks_Rīga","win":12,"draw":6,"loss":12,"for":53,"against":43},
+{"country":"lva-ssr","name":"Sarkanais Kvadrats","id":"Sarkanais_Kvadrats","win":10,"draw":7,"loss":13,"for":29,"against":45,"isRemoved":true},
+{"country":"lva-ssr","name":"Zvezda","id":"FK_Venta","win":10,"draw":5,"loss":15,"for":58,"against":55,"isReturning":true},
+{"country":"lva-ssr","name":"Jaunatnes izlase","id":"FK_Pārdaugava","win":6,"draw":10,"loss":14,"for":33,"against":46,"isReturning":true},
+{"country":"lva-ssr","name":"Zemgale Ilūkste","id":"Augšdaugavas_NSS","win":7,"draw":7,"loss":16,"for":27,"against":59,"isNew":true},
+{"country":"lva-ssr","name":"Masinbuvetajs","id":"SK_Blāzma","win":8,"draw":4,"loss":18,"for":37,"against":64,"isRemoved":true},
+{"country":"lva-ssr","name":"Aditajs","id":"Aditajs","win":6,"draw":5,"loss":19,"for":45,"against":75,"isRemoved":true},
+{"country":"lva-ssr","name":"Ostinieks","id":"Ostinieks","win":3,"draw":4,"loss":23,"for":29,"against":98,"isReturning":true,"isRemoved":true}
 ]

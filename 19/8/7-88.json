@@ -261,4 +261,19 @@
 {"country":"est-ssr","name":"Tartu Kalev","id":"FA_Tartu_Kalev","win":4,"draw":4,"loss":14,"for":27,"against":51,"isReturning":true},
 {"country":"est-ssr","name":"Narva Baltika","id":"Narva_Baltika","win":3,"draw":4,"loss":15,"for":22,"against":59,"isRemoved":true,"isReturning":true},
 {"country":"est-ssr","name":"Narva Avtomobilist","id":"JK_Narva_Trans","win":1,"draw":5,"loss":16,"for":30,"against":65,"isRemoved":true,"isReturning":true}
+][
+{"country":"lva-ssr","name":"Torpedo","id":"Torpedo_Rīga","win":15,"draw":9,"loss":2,"for":43,"against":15,"isChampion":true},
+{"country":"lva-ssr","name":"Celtnieks Daugavpils","id":"Dinaburg_FC","win":16,"draw":5,"loss":5,"for":44,"against":21,"isReturning":true},
+{"country":"lva-ssr","name":"Gaismas Tehnika","id":"Gaismas_Tehnika","win":14,"draw":8,"loss":4,"for":51,"against":18,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":11,"draw":10,"loss":5,"for":33,"against":21},
+{"country":"lva-ssr","name":"Celtnieks Rīga","id":"Celtnieks_Rīga","win":12,"draw":7,"loss":7,"for":48,"against":24},
+{"country":"lva-ssr","name":"Junioru izlase","id":"Junioru_izlase","win":12,"draw":6,"loss":8,"for":34,"against":20,"isRemoved":true},
+{"country":"lva-ssr","name":"Gauja","id":"FK_Gauja","win":11,"draw":8,"loss":7,"for":36,"against":23},
+{"country":"lva-ssr","name":"Jurnieks","id":"FK_Jūrnieks","win":9,"draw":7,"loss":10,"for":28,"against":36},
+{"country":"lva-ssr","name":"Alfa","id":"FK_Alfa","win":8,"draw":8,"loss":10,"for":28,"against":36,"isRemoved":true},
+{"country":"lva-ssr","name":"Sarkanais Kvadrats","id":"Sarkanais_Kvadrats","win":8,"draw":7,"loss":11,"for":30,"against":28},
+{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":6,"draw":9,"loss":11,"for":29,"against":40},
+{"country":"lva-ssr","name":"Aditajs","id":"Aditajs","win":7,"draw":2,"loss":17,"for":28,"against":71},
+{"country":"lva-ssr","name":"Masinbuvetajs","id":"SK_Blāzma","win":4,"draw":6,"loss":16,"for":25,"against":58,"isReturning":true},
+{"country":"lva-ssr","name":"9 Maijs","id":"9_Maijs","win":1,"draw":4,"loss":21,"for":14,"against":60,"isRemoved":true}
 ]

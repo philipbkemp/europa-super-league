@@ -146,4 +146,9 @@
 {"country":"pol","name":"Hasmonea Lwów","id":"Hasmonea_Lwów","win":6,"draw":3,"loss":19,"for":43,"against":71,"isRemoved":true},
 {"country":"pol","name":"Śląsk Świętochłowice","id":"Śląsk_Świętochłowice","win":5,"draw":2,"loss":21,"for":29,"against":86,"isRemoved":true,"isNew":true},
 {"country":"pol","name":"TKS Toruń","id":"TKS_Toruń","win":2,"draw":2,"loss":24,"for":28,"against":99,"isRemoved":true}
+][
+{"country":"lva","name":"Olimpija","id":"Olimpia_Liepaja","win":5,"draw":0,"loss":1,"for":12,"against":5,"isChampion":true,"isNew":true},
+{"country":"lva","name":"Rīgas FK","id":"RFK_Riga","win":3,"draw":0,"loss":3,"for":15,"against":6,"isNew":true},
+{"country":"lva","name":"LSB Rīga","id":"LSB_Rīga","win":2,"draw":1,"loss":3,"for":12,"against":9,"isNew":true},
+{"country":"lva","name":"Amatieris","id":"Amatieris","win":1,"draw":1,"loss":4,"for":4,"against":23,"isNew":true}
 ]

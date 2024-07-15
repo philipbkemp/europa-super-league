@@ -268,4 +268,15 @@
 {"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":6,"draw":10,"loss":20,"for":37,"against":79},
 {"country":"est","name":"Lokomotiv","id":"Jõhvi_FC_Phoenix","win":4,"draw":6,"loss":26,"for":35,"against":115,"isRemoved":true,"isNew":true},
 {"country":"est","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":3,"draw":3,"loss":30,"for":21,"against":146,"isRemoved":true}
+][
+{"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":26,"draw":5,"loss":5,"for":73,"against":20,"isChampion":true},
+{"country":"lva","name":"Skonto","id":"Skonto_FC","win":25,"draw":1,"loss":10,"for":77,"against":34,"deduct":-5},
+{"country":"lva","name":"Jelgava","id":"FK_Jelgava","win":20,"draw":10,"loss":6,"for":57,"against":27},
+{"country":"lva","name":"Liepāja","id":"FK_Liepāja","win":21,"draw":3,"loss":12,"for":72,"against":45,"isNew":true},
+{"country":"lva","name":"Daugava Daugavpils","id":"FC_Daugava","win":19,"draw":8,"loss":9,"for":53,"against":39,"isRemoved":true},
+{"country":"lva","name":"Spartaks Jūrmala","id":"FK_Spartaks_Jūrmala","win":14,"draw":9,"loss":13,"for":38,"against":32},
+{"country":"lva","name":"Daugava Rīga","id":"FK_Daugava_(2003)","win":13,"draw":4,"loss":19,"for":48,"against":64,"isRemoved":true},
+{"country":"lva","name":"BFC Daugavpils","id":"BFC_Daugavpils","win":8,"draw":5,"loss":23,"for":30,"against":65,"isNew":true},
+{"country":"lva","name":"METTA/LU","id":"FK_Metta","win":3,"draw":7,"loss":26,"for":26,"against":69},
+{"country":"lva","name":"FC Jūrmala","id":"FC_Jūrmala","win":2,"draw":6,"loss":28,"for":29,"against":108,"isRemoved":true,"deduct":-5}
 ]

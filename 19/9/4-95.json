@@ -260,4 +260,17 @@
 {"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":4,"draw":1,"loss":19,"for":15,"against":79,"isRemoved":true},
 {"country":"est","name":"PJK Kalev","id":"Pärnu_JK","win":8,"draw":1,"loss":15,"for":47,"against":59,"isReturning":true},
 {"country":"est","name":"DAG","id":"FC_DAG","win":1,"draw":4,"loss":19,"for":14,"against":81,"isRemoved":true,"isNew":true}
+][
+{"country":"lva","name":"Skonto","id":"Skonto_FC","win":20,"draw":2,"loss":0,"for":76,"against":9,"isChampion":true},
+{"country":"lva","name":"RAF Jelgava","id":"RAF_Jelgava","win":13,"draw":7,"loss":2,"for":38,"against":11},
+{"country":"lva","name":"DAG Rīga","id":"FK_VEF_Rīga","win":11,"draw":7,"loss":4,"for":34,"against":16,"isRemoved":true},
+{"country":"lva","name":"Olimpija Rīga","id":"Olimpija_Rīga","win":10,"draw":8,"loss":4,"for":32,"against":19},
+{"country":"lva","name":"Vairogs","id":"SK_Blāzma","win":9,"draw":6,"loss":7,"for":28,"against":27},
+{"country":"lva","name":"Pārdaugava","id":"FK_Pārdaugava","win":6,"draw":10,"loss":6,"for":24,"against":24,"isRemoved":true,"removedNote":"Dissolved"},
+{"country":"lva","name":"Vidus","id":"Torpedo_Rīga","win":8,"draw":5,"loss":9,"for":21,"against":34},
+{"country":"lva","name":"Interskonto","id":"FK_Interskonto","win":5,"draw":7,"loss":10,"for":17,"against":27,"isNew":true,"isRemoved":true},
+{"country":"lva","name":"Auseklis","id":"Dinaburg_FC","win":5,"draw":7,"loss":10,"for":26,"against":29},
+{"country":"lva","name":"Gemma","id":"FK_Gemma","win":4,"draw":6,"loss":12,"for":18,"against":45,"isRemoved":true,"removedNote":"Dissolved","isNew":true},
+{"country":"lva","name":"Liepāja","id":"FK_Liepājas_Metalurgs","win":2,"draw":5,"loss":15,"for":16,"against":46,"isRemoved":true,"isReturning":true},
+{"country":"lva","name":"Ķīmiķis","id":"Kimikis","win":1,"draw":6,"loss":15,"for":10,"against":53,"isRemoved":true,"isReturning":true}
 ]

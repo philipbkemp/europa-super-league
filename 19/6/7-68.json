@@ -260,4 +260,19 @@
 {"country":"est-ssr","name":"Kohtla-Järve PK","id":"Kohtla-Järve_PK","win":4,"draw":7,"loss":11,"for":21,"against":38},
 {"country":"est-ssr","name":"Pärnu Kalev","id":"Pärnu_Kalev","win":4,"draw":3,"loss":15,"for":15,"against":46,"isRemoved":true},
 {"country":"est-ssr","name":"Aseri Keraamikatehas","id":"Aseri_Keraamikatehas","win":3,"draw":3,"loss":16,"for":21,"against":68,"isRemoved":true}
+][
+{"country":"lva-ssr","name":"ASK","id":"FK_ASK","win":15,"draw":5,"loss":6,"for":51,"against":20},
+{"country":"lva-ssr","name":"ESR","id":"FK_Apgaismes_tehnika","win":13,"draw":9,"loss":4,"for":35,"against":11,"isChampion":true,"championNote":"Championship decided by playoff match"},
+{"country":"lva-ssr","name":"KRR","id":"FK_Jūrnieks","win":12,"draw":10,"loss":4,"for":39,"against":22},
+{"country":"lva-ssr","name":"RRR","id":"RRR_Riga","win":11,"draw":8,"loss":7,"for":33,"against":22,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"RABR","id":"RABR","win":11,"draw":7,"loss":8,"for":35,"against":27,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Pilots","id":"Pilots_Rīga","win":10,"draw":8,"loss":8,"for":41,"against":25},
+{"country":"lva-ssr","name":"Kurzeme","id":"Kurzeme_Aizpute","win":12,"draw":4,"loss":10,"for":34,"against":37,"isNew":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Daugavpils","id":"Dinaburg_FC","win":10,"draw":7,"loss":9,"for":20,"against":25,"isRemoved":true},
+{"country":"lva-ssr","name":"Baltika","id":"Baltika_(Latvia)","win":11,"draw":4,"loss":11,"for":30,"against":31},
+{"country":"lva-ssr","name":"Broceni","id":"FK_Starts","win":7,"draw":9,"loss":10,"for":26,"against":39},
+{"country":"lva-ssr","name":"Ventspils","id":"FK_Ventspils","win":7,"draw":7,"loss":12,"for":23,"against":27,"isRemoved":true},
+{"country":"lva-ssr","name":"Vulkans","id":"Vulkans","win":5,"draw":8,"loss":13,"for":23,"against":43},
+{"country":"lva-ssr","name":"Jelgava","id":"FS_Jelgava","win":6,"draw":4,"loss":16,"for":19,"against":43,"isRemoved":true},
+{"country":"lva-ssr","name":"Dinamo Liepaja","id":"Dinamo_Liepaja","win":4,"draw":6,"loss":16,"for":10,"against":47,"isRemoved":true}
 ]

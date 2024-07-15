@@ -216,4 +216,12 @@
 {"country":"est-ssr","name":"Rakvere Dünamo","id":"Rakvere_Dünamo","win":2,"draw":2,"loss":4,"for":5,"against":21},
 {"country":"est-ssr","name":"Tallinna Esto","id":"Tallinna_Esto","win":1,"draw":3,"loss":4,"for":10,"against":10,"isNew":true},
 {"country":"est-ssr","name":"Tallinna Kalev II","id":"JK_Tallinna_Kalev","win":1,"draw":2,"loss":5,"for":5,"against":26}
+][
+{"country":"lva-ssr","name":"Daugava Liepaja","id":"Daugava_Liepaja","win":9,"draw":3,"loss":0,"for":43,"against":12,"isChampion":true},
+{"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":6,"draw":4,"loss":2,"for":21,"against":17},
+{"country":"lva-ssr","name":"PAK Goncharov","id":"PAK_Goncharov","win":5,"draw":4,"loss":3,"for":21,"against":17,"isNew":true},
+{"country":"lva-ssr","name":"Daugava Riga","id":"FC_Daugava_Riga","win":3,"draw":5,"loss":4,"for":21,"against":33},
+{"country":"lva-ssr","name":"Dinamo Rīga","id":"Dinamo_Riga","win":4,"draw":2,"loss":6,"for":28,"against":31},
+{"country":"lva-ssr","name":"AVN","id":"FK_ASK#FK_AVN","win":2,"draw":3,"loss":7,"for":16,"against":27},
+{"country":"lva-ssr","name":"Spartak","id":"Spartak_Riga","win":1,"draw":3,"loss":8,"for":17,"against":30}
 ]

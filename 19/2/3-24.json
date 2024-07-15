@@ -114,4 +114,11 @@
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":2,"draw":0,"loss":1,"for":8,"against":4},
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":0,"draw":1,"loss":2,"for":3,"against":10,"isReturning":true},
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":0,"draw":1,"loss":2,"for":2,"against":9}
+][
+{"country":"lva","name":"Kaiserwald","id":"kaiserwald","win":7,"draw":2,"loss":1,"for":44,"against":8,"isChampion":true,"isRemoved":true},
+{"country":"lva","name":"RFK","id":"rfk","win":7,"draw":1,"loss":2,"for":26,"against":11,"isNew":true},
+{"country":"lva","name":"LSB","id":"lsb","win":5,"draw":4,"loss":1,"for":19,"against":11},
+{"country":"lva","name":"Amatieris","id":"amatieris","win":3,"draw":3,"loss":4,"for":13,"against":21,"isNew":true},
+{"country":"lva","name":"JKS","id":"jks","win":1,"draw":1,"loss":8,"for":13,"against":28},
+{"country":"lva","name":"Union","id":"union","win":1,"draw":1,"loss":8,"for":11,"against":47,"isRemoved":true}
 ]

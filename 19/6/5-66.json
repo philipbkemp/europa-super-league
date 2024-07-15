@@ -252,4 +252,19 @@
 {"country":"est-ssr","name":"Tartu Remonditehas","id":"Tartu_Remonditehas","win":5,"draw":3,"loss":10,"for":25,"against":41,"isNew":true},
 {"country":"est-ssr","name":"Valga Kalev","id":"BC_Valga-Valka","win":2,"draw":3,"loss":13,"for":14,"against":29,"isRemoved":true},
 {"country":"est-ssr","name":"EAT Tallinn","id":"EAT_Tallinn","win":1,"draw":2,"loss":15,"for":11,"against":72,"isRemoved":true,"isReturning":true}
+][
+{"country":"lva-ssr","name":"ASK","id":"FK_ASK","win":20,"draw":6,"loss":0,"for":61,"against":15,"isChampion":true},
+{"country":"lva-ssr","name":"Ventspils","id":"FK_Ventspils","win":16,"draw":2,"loss":8,"for":37,"against":25,"isReturning":true},
+{"country":"lva-ssr","name":"Pilots","id":"Pilots_Rīga","win":13,"draw":7,"loss":6,"for":37,"against":17,"isReturning":true},
+{"country":"lva-ssr","name":"Daugavpils","id":"Dinaburg_FC","win":14,"draw":5,"loss":7,"for":46,"against":26},
+{"country":"lva-ssr","name":"KRR","id":"FK_Jūrnieks","win":14,"draw":3,"loss":9,"for":48,"against":34},
+{"country":"lva-ssr","name":"PFR","id":"PFR_Rīga","win":12,"draw":6,"loss":8,"for":31,"against":32},
+{"country":"lva-ssr","name":"RER","id":"RER_Riga","win":10,"draw":8,"loss":8,"for":43,"against":25},
+{"country":"lva-ssr","name":"Baltika","id":"Baltika_(Latvia)","win":12,"draw":4,"loss":10,"for":34,"against":30,"isNew":true},
+{"country":"lva-ssr","name":"Kompresors","id":"Kompresors","win":10,"draw":5,"loss":11,"for":34,"against":39,"isRemoved":true},
+{"country":"lva-ssr","name":"Broceni","id":"FK_Starts","win":11,"draw":1,"loss":14,"for":33,"against":49},
+{"country":"lva-ssr","name":"Dinamo Liepaja","id":"Dinamo_Liepaja","win":7,"draw":7,"loss":12,"for":20,"against":32},
+{"country":"lva-ssr","name":"Aizpute","id":"Aizpute","win":5,"draw":8,"loss":13,"for":31,"against":50},
+{"country":"lva-ssr","name":"Vulkans","id":"Vulkans","win":3,"draw":6,"loss":17,"for":22,"against":47},
+{"country":"lva-ssr","name":"Rezekne","id":"Rezekne","win":1,"draw":0,"loss":25,"for":22,"against":78,"isNew":true,"isRemoved":true}
 ]

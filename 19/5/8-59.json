@@ -235,4 +235,15 @@
 {"country":"est-ssr","name":"Tartu Dünamo","id":"Tartu_Dünamo","win":5,"draw":1,"loss":12,"for":17,"against":44},
 {"country":"est-ssr","name":"Tallinna Dünamo II","id":"Tallinna_JK_Dünamo","win":2,"draw":2,"loss":14,"for":15,"against":41,"isRemoved":true,"isReturning":true},
 {"country":"est-ssr","name":"Kiviõli Kalev","id":"Kiviõli_Kalev","win":1,"draw":2,"loss":15,"for":16,"against":66,"isRemoved":true,"isReturning":true}
+][
+{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":11,"draw":6,"loss":1,"for":35,"against":10,"isChampion":true},
+{"country":"lva-ssr","name":"RVR","id":"RVR_Riga","win":10,"draw":4,"loss":4,"for":35,"against":21},
+{"country":"lva-ssr","name":"Tosmares c","id":"Tosmares_c","win":10,"draw":4,"loss":4,"for":26,"against":23,"isNew":true},
+{"country":"lva-ssr","name":"Dinamo Rīga","id":"Dinamo_Riga","win":9,"draw":5,"loss":4,"for":30,"against":19},
+{"country":"lva-ssr","name":"ASK","id":"FK_ASK","win":9,"draw":4,"loss":5,"for":24,"against":20},
+{"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":9,"draw":2,"loss":7,"for":15,"against":19},
+{"country":"lva-ssr","name":"RER","id":"RER_Riga","win":8,"draw":2,"loss":8,"for":18,"against":16},
+{"country":"lva-ssr","name":"Vulkans","id":"Vulkans","win":6,"draw":4,"loss":8,"for":22,"against":23},
+{"country":"lva-ssr","name":"Lokomotive","id":"Lokomotive_Riga","win":1,"draw":1,"loss":16,"for":11,"against":65},
+{"country":"lva-ssr","name":"Rezekne","id":"SK_Blāzma","win":0,"draw":0,"loss":0,"for":0,"against":0,"note":"Withdrew midseason, recorded expunged","isRemoved":true}
 ]

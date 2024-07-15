@@ -248,4 +248,15 @@
 {"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":4,"draw":6,"loss":8,"for":22,"against":35,"isCurrentSeason":true},
 {"country":"est","name":"Vaprus","id":"Pärnu_JK_Vaprus","win":4,"draw":4,"loss":10,"for":18,"against":32,"isCurrentSeason":true},
 {"country":"est","name":"Nõmme United","id":"FC_Nõmme_United","win":2,"draw":5,"loss":11,"for":12,"against":33,"isCurrentSeason":true,"isNew":true}
+][
+{"country":"lva","name":"RFS","id":"FK_RFS","win":18,"draw":2,"loss":2,"for":68,"against":15,"isCurrentSeason":true},
+{"country":"lva","name":"Riga","id":"Riga_FC","win":15,"draw":4,"loss":3,"for":50,"against":15,"isCurrentSeason":true},
+{"country":"lva","name":"Valmiera","id":"Valmiera_FC","win":14,"draw":4,"loss":4,"for":46,"against":19,"isCurrentSeason":true,"deduct":-3},
+{"country":"lva","name":"Daugavpils","id":"BFC_Daugavpils","win":10,"draw":4,"loss":8,"for":29,"against":31,"isCurrentSeason":true},
+{"country":"lva","name":"Grobiņa","id":"Grobiņas_SC","win":7,"draw":4,"loss":11,"for":25,"against":43,"isCurrentSeason":true,"isNew":true},
+{"country":"lva","name":"Auda","id":"FK_Auda","win":7,"draw":4,"loss":11,"for":29,"against":24,"isCurrentSeason":true},
+{"country":"lva","name":"Tukums 2000","id":"FK_Tukums_2000","win":6,"draw":4,"loss":12,"for":22,"against":42,"isCurrentSeason":true},
+{"country":"lva","name":"Metta","id":"FK_Metta","win":6,"draw":4,"loss":12,"for":21,"against":43,"isCurrentSeason":true},
+{"country":"lva","name":"Jelgava","id":"FS_Jelgava","win":4,"draw":4,"loss":14,"for":14,"against":47,"isCurrentSeason":true},
+{"country":"lva","name":"Liepāja","id":"FK_Liepāja","win":3,"draw":6,"loss":13,"for":16,"against":41,"isCurrentSeason":true}
 ]

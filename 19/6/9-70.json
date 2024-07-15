@@ -266,4 +266,19 @@
 {"country":"est-ssr","name":"Jõhvi Kaevur","id":"Jõhvi_Kaevur","win":2,"draw":9,"loss":13,"for":22,"against":51},
 {"country":"est-ssr","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":3,"draw":6,"loss":15,"for":25,"against":46,"isRemoved":true},
 {"country":"est-ssr","name":"Narva Energeetik","id":"Narva_Energeetik","win":5,"draw":1,"loss":18,"for":23,"against":69,"isRemoved":true}
+][
+{"country":"lva-ssr","name":"Venta","id":"FK_Venta","win":20,"draw":3,"loss":3,"for":45,"against":16,"isChampion":true},
+{"country":"lva-ssr","name":"Energija","id":"FK_Apgaismes_tehnika","win":17,"draw":6,"loss":3,"for":55,"against":28},
+{"country":"lva-ssr","name":"Elektrons","id":"FK_Alfa","win":12,"draw":9,"loss":5,"for":45,"against":20},
+{"country":"lva-ssr","name":"ASK","id":"FK_ASK","win":13,"draw":6,"loss":7,"for":43,"against":23},
+{"country":"lva-ssr","name":"Starts","id":"FK_Starts","win":13,"draw":5,"loss":8,"for":42,"against":27},
+{"country":"lva-ssr","name":"Pilots","id":"Pilots_Rīga","win":12,"draw":5,"loss":9,"for":29,"against":35},
+{"country":"lva-ssr","name":"Lielupe","id":"Lielupe,_Latvia","win":10,"draw":6,"loss":10,"for":30,"against":26,"isNew":true},
+{"country":"lva-ssr","name":"Radiotehnikis","id":"Radiotehnikis","win":10,"draw":6,"loss":10,"for":28,"against":25},
+{"country":"lva-ssr","name":"Jurnieks","id":"FK_Jūrnieks","win":8,"draw":7,"loss":11,"for":22,"against":24},
+{"country":"lva-ssr","name":"RPI","id":"RPI_Riga","win":9,"draw":5,"loss":12,"for":26,"against":37,"isNew":true},
+{"country":"lva-ssr","name":"Baltika","id":"Baltika_(Latvia)","win":8,"draw":3,"loss":15,"for":20,"against":38,"isRemoved":true},
+{"country":"lva-ssr","name":"Lokomotive","id":"Lokomotiv_Daugavpils","win":4,"draw":7,"loss":15,"for":26,"against":52,"isRemoved":true},
+{"country":"lva-ssr","name":"Ausma","id":"FK_Ausma","win":6,"draw":2,"loss":18,"for":13,"against":41},
+{"country":"lva-ssr","name":"Kurzeme","id":"Kurzeme","win":3,"draw":4,"loss":19,"for":15,"against":47,"isRemoved":true}
 ]
