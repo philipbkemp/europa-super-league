@@ -1,0 +1,22 @@
+- format JSON file
+- move file to /data folder
+- delete original JSON file
+- duplicate _template file
+- go to website page for previous season
+- run "nextSeason()" and copy results
+- for each league, add attribute "data-teams" with output
+- run "checkRemoved()"
+- open season in new tab
+- paste contents of JSON file into prompt
+- check no "new"/"returning" in existing leagues
+- check all new teams are "new"/"returning"
+- PROMOTE AND RELEGATE?
+- run "newTeams()" and update "data-teams" attributes
+- reload, repaste JSON
+- run "checkRemoved()" pasting results from previous season
+- copy HTML element and paste into HTML file
+- reload page and verify
+- run "getWinner()" and paste into winners file
+- verify HTML version of winners file
+- add link to new season on homepage
+- push to GIT
