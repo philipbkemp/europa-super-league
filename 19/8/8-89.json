@@ -269,7 +269,7 @@
 {"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":11,"draw":10,"loss":9,"for":40,"against":38},
 {"country":"lva-ssr","name":"Apgaismes Tehnika","id":"FK_Apgaismes_tehnika","win":13,"draw":5,"loss":12,"for":56,"against":44,"isReturning":true},
 {"country":"lva-ssr","name":"Celtnieks Rīga","id":"Celtnieks_Rīga","win":12,"draw":6,"loss":12,"for":53,"against":43},
-{"country":"lva-ssr","name":"Sarkanais Kvadrats","id":"Sarkanais_Kvadrats","win":10,"draw":7,"loss":13,"for":29,"against":45,"isRemoved":true},
+{"country":"lva-ssr","name":"Sarkanais Kvadrats","id":"Sarkanais_Kvadrāts","win":10,"draw":7,"loss":13,"for":29,"against":45,"isRemoved":true},
 {"country":"lva-ssr","name":"Zvezda","id":"FK_Venta","win":10,"draw":5,"loss":15,"for":58,"against":55,"isReturning":true},
 {"country":"lva-ssr","name":"Jaunatnes izlase","id":"FK_Pārdaugava","win":6,"draw":10,"loss":14,"for":33,"against":46,"isReturning":true},
 {"country":"lva-ssr","name":"Zemgale Ilūkste","id":"Augšdaugavas_NSS","win":7,"draw":7,"loss":16,"for":27,"against":59,"isNew":true},

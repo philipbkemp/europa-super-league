@@ -262,7 +262,7 @@
 {"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":16,"draw":7,"loss":3,"for":59,"against":21},
 {"country":"lva-ssr","name":"Latgale","id":"Latgale","win":16,"draw":3,"loss":7,"for":62,"against":39,"isNew":true,"isRemoved":true},
 {"country":"lva-ssr","name":"Apgaismes Tehnika","id":"FK_Apgaismes_tehnika","win":15,"draw":3,"loss":8,"for":60,"against":31},
-{"country":"lva-ssr","name":"Sarkanais Kvadrāts","id":"Sarkanais_Kvadrāts","win":13,"draw":6,"loss":7,"for":40,"against":30,"isNew":true},
+{"country":"lva-ssr","name":"Sarkanais Kvadrāts","id":"Sarkanais_Kvadrāts","win":13,"draw":6,"loss":7,"for":40,"against":30,"isReturning":true},
 {"country":"lva-ssr","name":"Celtnieks Daugavpils","id":"Dinaburg_FC","win":11,"draw":4,"loss":11,"for":48,"against":46},
 {"country":"lva-ssr","name":"Jurnieks","id":"FK_Jūrnieks","win":10,"draw":6,"loss":10,"for":37,"against":41},
 {"country":"lva-ssr","name":"Betons","id":"Betons","win":10,"draw":5,"loss":11,"for":54,"against":49},
