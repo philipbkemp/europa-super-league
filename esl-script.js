@@ -559,3 +559,18 @@ function checkRemoved() {
 	});
 	console.log("REMOVED:",removedIds.join("|"));
 }
+
+function listClubsForCountry() {
+	country = prompt("country code?");
+	data = JSON.parse(prompt("feed me data"));
+	teams = data.teams;
+	teams.sort();
+
+	btns = [];
+
+	$.each(teams,function(k,v){
+		btns.push('<div class="col"><a class="btn btn-outline-dark w-100 mb-2 disabled" disabled href="'+country+'/'+v+'.html">'+v+'</a></div>');
+	});
+
+	console.log(btns.join("\n"));
+}

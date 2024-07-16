@@ -45,3 +45,6 @@ p a { color: #0000d6; text-decoration: none; }
 #club-winners a:hover,
 #country-winners a:hover,
 p a:hover { color: darkblue; }
+.country-list .btn, .club-list .btn { text-align: left; }
+.country-list img, .club-list img { height: 23px; margin-right: 5px; position: relative; top: -2px; }
+.club-list img { float: right; top: 0; }
