@@ -7,7 +7,7 @@
 {"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":20,"draw":8,"loss":14,"for":59,"against":51},
 {"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":19,"draw":7,"loss":16,"for":102,"against":80},
 {"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":18,"draw":8,"loss":16,"for":82,"against":78},
-{"country":"eng","name":"Preston North End","id":"Preston_North_End_F.C.","win":16,"draw":12,"loss":14,"for":79,"against":76},
+{"country":"eng","name":"Preston North End","id":"preston_north_end_fc","win":16,"draw":12,"loss":14,"for":79,"against":76},
 {"country":"eng","name":"Fulham","id":"Fulham_F.C.","win":17,"draw":10,"loss":15,"for":73,"against":80,"isReturning":true},
 {"country":"eng","name":"Blackpool","id":"Blackpool_F.C.","win":15,"draw":10,"loss":17,"for":59,"against":71},
 {"country":"eng","name":"Leicester City","id":"Leicester_City_F.C.","win":13,"draw":13,"loss":16,"for":66,"against":75},

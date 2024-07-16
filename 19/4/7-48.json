@@ -5,7 +5,7 @@
 {"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":19,"draw":12,"loss":11,"for":77,"against":57},
 {"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":19,"draw":9,"loss":14,"for":83,"against":70},
 {"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":19,"draw":9,"loss":14,"for":65,"against":57},
-{"country":"eng","name":"Preston North End","id":"Preston_North_End_F.C.","win":20,"draw":7,"loss":15,"for":67,"against":68},
+{"country":"eng","name":"Preston North End","id":"preston_north_end_fc","win":20,"draw":7,"loss":15,"for":67,"against":68},
 {"country":"eng","name":"Portsmouth","id":"Portsmouth_F.C.","win":19,"draw":7,"loss":16,"for":68,"against":50},
 {"country":"eng","name":"Blackpool","id":"Blackpool_F.C.","win":17,"draw":10,"loss":15,"for":57,"against":41},
 {"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":15,"draw":12,"loss":15,"for":52,"against":47,"isReturning":true},

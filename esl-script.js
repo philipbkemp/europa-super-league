@@ -18,6 +18,8 @@ const countries = {
 	"swe": "Sweden"
 };
 
+clubPages = ["preston_north_end_fc"];
+
 if ( $("h1 .placeholder").length !== 0 ) {
 
 	page = window.location.href.replace("file:///C:/kemphi/Personal/esl/","").split("/");
@@ -228,6 +230,29 @@ if ( $("h1 .placeholder").length !== 0 ) {
 	if ( data.length !== $("tr[id]").length ) {
 		console.error("Something's wrong...");
 	}
+} else {
+	$.each(clubPages,function(k,v){
+		saveRow = $("tr[id='"+v+"']");
+		if ( saveRow.length !== 0 ) {
+			$sr = $(saveRow[0]);
+			original = $sr.html();
+			$sr.prepend( $("<TD></TD>").html( $("h1").text().replace("Europa Super League","").replace("Home","").trim() ) );
+			$($sr.find("td")[1]).prepend( $($("#"+v).parent()).attr("id").split("_")[1].toUpperCase() );
+			country = $sr.find("img[src*='/flags/']");
+			countryFlag = country.attr("src").split("/").pop().split(".")[0].toLowerCase();
+			$(country.parent()).remove();
+			classes = $sr.attr("class") || "";
+			if ( $sr.html().indexOf("A1") === -1 ) {
+				classes = classes.replace("champion","");
+			}
+			console.warn(v);
+			console.log("<tr class='"+classes+"'>"+$sr.html()+"</tr>");
+			$sr.html(original);
+			clubName = $($sr.find("th")[0]);
+			clubName.html( clubName.html().replace(clubName.text(),"<a href='../../clubs/"+countryFlag+"/"+$sr.attr("id")+".html'>"+clubName.text()+"</a>") );
+			console.log($sr.find("th").html().split("</a>")[0]+"</a>");
+		}
+	});
 }
 
 function nextSeason() {
@@ -462,7 +487,9 @@ if ( typeof(winners) !== "undefined" ) {
 		);
 		teamRow.append(flag);
 
-		teamName = $("<TH></TH>").html( wc[0][4] );
+		teamName = $("<TH></TH>");
+		teamNameLink = $("<A></A>").html( wc[0][4] ).attr("href","clubs/"+wc[0][2].toLowerCase()+"/"+c[0]+".html");
+		teamName.append(teamNameLink);
 		teamRow.append(teamName);
 
 		titles = $("<TD></TD>").html( c[1] ).addClass("text-center");
@@ -513,7 +540,7 @@ if ( typeof(winners) !== "undefined" ) {
 
 $(document).ready(function(){
 	$('[data-bs-toggle="tooltip"]').tooltip({
-		container: '#divisionsTables, #winnersTables',
+		container: '#divisionsTables, #winnersTables, #historyTables',
 		html: true
 	});
 });

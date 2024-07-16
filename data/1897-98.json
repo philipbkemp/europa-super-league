@@ -10,7 +10,7 @@
 	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":11,"draw":6,"loss":13,"for":48,"against":45},
 	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":11,"draw":6,"loss":13,"for":57,"against":61},
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":11,"draw":4,"loss":15,"for":28,"against":41},
-	{"country":"eng","name":"Preston North End","id":"Preston_North_End_F.C.","win":8,"draw":8,"loss":14,"for":35,"against":43},
+	{"country":"eng","name":"Preston North End","id":"preston_north_end_fc","win":8,"draw":8,"loss":14,"for":35,"against":43},
 	{"country":"eng","name":"Notts County","id":"Notts_County_F.C.","win":8,"draw":8,"loss":14,"for":36,"against":46,"isReturning":true},
 	{"country":"eng","name":"Bury","id":"Bury_F.C.","win":8,"draw":8,"loss":14,"for":39,"against":51},
 	{"country":"eng","name":"Blackburn Rovers","id":"Blackburn_Rovers_F.C.","win":7,"draw":10,"loss":13,"for":39,"against":54},

@@ -20,7 +20,7 @@
 {"country":"eng","name":"Birmingham City","id":"Birmingham_City_F.C.","win":14,"draw":6,"loss":22,"for":62,"against":84},
 {"country":"eng","name":"Blackpool","id":"Blackpool_F.C.","win":12,"draw":9,"loss":21,"for":68,"against":73},
 {"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":11,"draw":10,"loss":21,"for":86,"against":109,"isRemoved":true},
-{"country":"eng","name":"Preston North End","id":"Preston_North_End_F.C.","win":10,"draw":10,"loss":22,"for":43,"against":71,"isRemoved":true}
+{"country":"eng","name":"Preston North End","id":"preston_north_end_fc","win":10,"draw":10,"loss":22,"for":43,"against":71,"isRemoved":true}
 ][
 {"country":"dnk","name":"Esbjerg fB","id":"Esbjerg_fB","win":15,"draw":3,"loss":4,"for":52,"against":18,"isChampion":true},
 {"country":"dnk","name":"Kjøbenhavns Boldklub","id":"Kjøbenhavns_Boldklub","win":15,"draw":3,"loss":4,"for":73,"against":41},

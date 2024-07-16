@@ -9,7 +9,7 @@
 {"country":"eng","name":"Everton","id":"Everton_F.C.","win":16,"draw":12,"loss":14,"for":89,"against":88},
 {"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":17,"draw":10,"loss":15,"for":83,"against":83},
 {"country":"eng","name":"Stoke City","id":"Stoke_City_F.C.","win":18,"draw":6,"loss":18,"for":71,"against":70},
-{"country":"eng","name":"Preston North End","id":"Preston_North_End_F.C.","win":15,"draw":12,"loss":15,"for":62,"against":67,"isReturning":true},
+{"country":"eng","name":"Preston North End","id":"preston_north_end_fc","win":15,"draw":12,"loss":15,"for":62,"against":67,"isReturning":true},
 {"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":16,"draw":9,"loss":17,"for":73,"against":82},
 {"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":14,"draw":13,"loss":15,"for":74,"against":88},
 {"country":"eng","name":"Portsmouth","id":"Portsmouth_F.C.","win":15,"draw":10,"loss":17,"for":71,"against":72},

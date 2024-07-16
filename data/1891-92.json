@@ -1,6 +1,6 @@
 [
 	{"country":"eng","isChampion":true,"name":"Sunderland","id":"Sunderland_A.F.C.","win":21,"draw":0,"loss":5,"for":93,"against":36},
-	{"country":"eng","name":"Preston North End","id":"Preston_North_End_F.C.","win":18,"draw":1,"loss":7,"for":61,"against":31},
+	{"country":"eng","name":"Preston North End","id":"preston_north_end_fc","win":18,"draw":1,"loss":7,"for":61,"against":31},
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":17,"draw":2,"loss":7,"for":51,"against":37},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":15,"draw":0,"loss":11,"for":89,"against":56},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":12,"draw":4,"loss":10,"for":49,"against":49},

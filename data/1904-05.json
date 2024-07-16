@@ -6,7 +6,7 @@
 	{"country":"eng","name":"Sunderland","id":"Sunderland_A.F.C.","win":16,"draw":8,"loss":10,"for":60,"against":44},
 	{"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":19,"draw":2,"loss":13,"for":64,"against":56},
 	{"country":"eng","name":"Small Heath","id":"Birmingham_City_F.C.","win":17,"draw":5,"loss":12,"for":54,"against":38},
-	{"country":"eng","name":"Preston North End","id":"Preston_North_End_F.C.","win":13,"draw":10,"loss":11,"for":42,"against":37,"isReturning":true},
+	{"country":"eng","name":"Preston North End","id":"preston_north_end_fc","win":13,"draw":10,"loss":11,"for":42,"against":37,"isReturning":true},
 	{"country":"eng","name":"The Wednesday","id":"Sheffield_Wednesday_F.C.","win":14,"draw":5,"loss":15,"for":61,"against":57},
 	{"country":"eng","name":"Woolwich Arsenal","id":"Arsenal_F.C.","win":12,"draw":9,"loss":13,"for":36,"against":40,"isNew":true},
 	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":12,"draw":8,"loss":14,"for":37,"against":48},

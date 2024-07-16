@@ -1,6 +1,6 @@
 [
 {"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":21,"draw":12,"loss":9,"for":97,"against":64,"isChampion":true},
-{"country":"eng","name":"Preston North End","id":"Preston_North_End_F.C.","win":21,"draw":12,"loss":9,"for":85,"against":60},
+{"country":"eng","name":"Preston North End","id":"preston_north_end_fc","win":21,"draw":12,"loss":9,"for":85,"against":60},
 {"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":19,"draw":13,"loss":10,"for":86,"against":63},
 {"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":21,"draw":8,"loss":13,"for":66,"against":60},
 {"country":"eng","name":"Charlton Athletic","id":"Charlton_Athletic_F.C.","win":19,"draw":11,"loss":12,"for":77,"against":63},

@@ -1,6 +1,6 @@
 [
 	{"country":"eng","isChampion":true,"name":"Everton","id":"Everton_F.C.","win":14,"draw":1,"loss":7,"for":63,"against":29},
-	{"country":"eng","name":"Preston North End","id":"Preston_North_End_F.C.","win":12,"draw":3,"loss":7,"for":44,"against":23},
+	{"country":"eng","name":"Preston North End","id":"preston_north_end_fc","win":12,"draw":3,"loss":7,"for":44,"against":23},
 	{"country":"eng","name":"Notts County","id":"Notts_County_F.C.","win":11,"draw":4,"loss":7,"for":52,"against":35},
 	{"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":12,"draw":2,"loss":8,"for":39,"against":50},
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":12,"draw":1,"loss":9,"for":47,"against":34},

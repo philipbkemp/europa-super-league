@@ -3,33 +3,47 @@ h1 span { font-weight: normal; font-size: 2rem; }
 #divisionsTables thead th:nth-of-type(3),
 .newclubs thead th:nth-of-type(3) { text-align: left; }
 #divisionsTables thead th,
+#historyTables thead th,
 .newclubs thead th { text-align: center; }
 #divisionsTables tbody td,
+#historyTables tbody td,
 .newclubs tbody td,
 #club-winners tbody td,
 #country-winners tbody td { width: 50px; }
+#historyTables tbody td:nth-of-type(1) { width: 100px; }
+#historyTables tbody td:nth-of-type(2) { width: 100px; }
 #divisionsTables tbody td,
+#historyTables tbody td,
 .newclubs tbody td { text-align: center; }
 #divisionsTables tbody td:nth-of-type(1),
 .newclubs tbody td:nth-of-type(1),
 #club-winners tbody td:nth-of-type(1),
 #country-winners tbody td:nth-of-type(1) { font-size: 0.6rem; vertical-align: middle; }
 #divisionsTables tbody td:nth-of-type(2) img,
+#historyTables tbody td:nth-of-type(3) img,
 .newclubs tbody td:nth-of-type(2) img,
 #club-winners tbody td:nth-of-type(2) img,
 #country-winners tbody td:nth-of-type(2) img { height: 20px; }
 #divisionsTables tbody tr.removed,
+#historyTables tbody tr.removed,
 .newclubs tbody tr.removed { background-color: #fd9292; }
 #divisionsTables tbody tr.promoted,
+#historyTables tbody tr.promoted,
 .newclubs tbody tr.promoted { background-color: #b5e9b5; }
 #divisionsTables tbody tr.relegated,
+#historyTables tbody tr.relegated,
 .newclubs tbody tr.relegated { background-color: #ffc9c9; }
 #divisionsTables tbody tr.champion,
+#historyTables tbody tr.champion,
 .newclubs tbody tr.champion { background-color: #ffffe0; }
 #divisionsTables tbody th img,
+#historyTables tbody th img,
 .newclubs tbody th img { height: 16px; float: right; position: relative; top: 3px; right: 5px; margin-left: 5px; cursor: help; width: 16px; }
 #club-winners tbody th,
 #country-winners tbody th { width: 500px; }
+tbody th a { color: #2b5873 !important; width: 100%; display: block; }
+#divisionsTables tbody th a { display: inline; }
+tbody th a:hover { color: #0000d6 !important; }
 #club-winners tbody td:nth-of-type(4),
 #country-winners tbody td:nth-of-type(4) { width: calc( 100% - 500px - 50px - 50px - 50px); }
 .tab-pane { margin-bottom: 50px; }
@@ -41,6 +55,8 @@ thead {position:sticky;top:0;z-index: 10;background: white; border-bottom-width:
 thead:after { content: ""; border-bottom: 2px solid black; position: absolute; width: 100%; bottom: 0; z-index: 9;}
 #club-winners a,
 #country-winners a,
+#historyTables a,
+#divisionsTables a,
 p a { color: #0000d6; text-decoration: none; }
 #club-winners a:hover,
 #country-winners a:hover,

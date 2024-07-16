@@ -10,7 +10,7 @@
 {"country":"eng","name":"Birmingham City","id":"Birmingham_City_F.C.","win":20,"draw":6,"loss":16,"for":84,"against":68},
 {"country":"eng","name":"Blackburn Rovers","id":"Blackburn_Rovers_F.C.","win":17,"draw":10,"loss":15,"for":76,"against":70,"isReturning":true},
 {"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":17,"draw":7,"loss":18,"for":80,"against":80},
-{"country":"eng","name":"Preston North End","id":"Preston_North_End_F.C.","win":17,"draw":7,"loss":18,"for":70,"against":77},
+{"country":"eng","name":"Preston North End","id":"preston_north_end_fc","win":17,"draw":7,"loss":18,"for":70,"against":77},
 {"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":17,"draw":6,"loss":19,"for":71,"against":74},
 {"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":18,"draw":4,"loss":20,"for":77,"against":98},
 {"country":"eng","name":"Leeds United","id":"Leeds_United_F.C.","win":15,"draw":9,"loss":18,"for":57,"against":74},

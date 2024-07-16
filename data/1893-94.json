@@ -12,7 +12,7 @@
 	{"country":"eng","name":"Stoke","id":"Stoke_City_F.C.","win":13,"draw":3,"loss":14,"for":65,"against":79},
 	{"country":"eng","name":"The Wednesday","id":"Sheffield_Wednesday_F.C.","win":9,"draw":8,"loss":13,"for":48,"against":57},
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":10,"draw":4,"loss":16,"for":38,"against":52},
-	{"country":"eng","name":"Preston North End","id":"Preston_North_End_F.C.","win":10,"draw":3,"loss":17,"for":44,"against":56},
+	{"country":"eng","name":"Preston North End","id":"preston_north_end_fc","win":10,"draw":3,"loss":17,"for":44,"against":56},
 	{"country":"eng","name":"Darwen","id":"Darwen_F.C._(1870)","win":7,"draw":5,"loss":18,"for":37,"against":83,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"Newton Heath","id":"Manchester_United_F.C.","win":6,"draw":2,"loss":22,"for":36,"against":72,"isRemoved":true},
 	{"country":"dnk","name":"Akademisk Boldklub","id":"Akademisk_Boldklub","win":7,"draw":1,"loss":0,"for":53,"against":6,"isChampion":true},
