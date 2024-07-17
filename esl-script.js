@@ -18,8 +18,7 @@ const countries = {
 	"swe": "Sweden"
 };
 
-clubPages = ["preston_north_end_fc","akademisk_boldklub"];
-clubPages = ["akademisk_boldklub"];
+clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub"];
 clubPages = [];
 
 if ( $("h1 .placeholder").length !== 0 ) {

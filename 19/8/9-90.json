@@ -32,7 +32,7 @@
 {"country":"dnk","name":"Aalborg BK","id":"AaB_Fodbold","win":8,"draw":10,"loss":8,"for":32,"against":34},
 {"country":"dnk","name":"Næstved IF","id":"Næstved_Boldklub","win":6,"draw":10,"loss":10,"for":20,"against":34,"isRemoved":true},
 {"country":"dnk","name":"Herfølge BK","id":"Herfølge_Boldklub","win":4,"draw":9,"loss":13,"for":21,"against":47,"isRemoved":true},
-{"country":"dnk","name":"KB","id":"Kjøbenhavns_Boldklub","win":4,"draw":6,"loss":16,"for":24,"against":52,"isRemoved":true,"isReturning":true},
+{"country":"dnk","name":"KB","id":"kjobenhavns_boldklub","win":4,"draw":6,"loss":16,"for":24,"against":52,"isRemoved":true,"isReturning":true},
 {"country":"dnk","name":"Viborg FF","id":"Viborg_FF","win":5,"draw":4,"loss":17,"for":19,"against":52,"isRemoved":true,"isReturning":true}
 ][
 {"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":20,"draw":11,"loss":5,"for":48,"against":19,"isChampion":true},

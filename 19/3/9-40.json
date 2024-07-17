@@ -1,7 +1,7 @@
 [
 	//eng
 ][
-{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"Kjøbenhavns_Boldklub","win":9,"draw":6,"loss":3,"for":45,"against":27,"isChampion":true,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament"},
+{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":9,"draw":6,"loss":3,"for":45,"against":27,"isChampion":true,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament"},
 {"country":"dnk","name":"Fremad Amager","id":"Fremad_Amager","win":7,"draw":8,"loss":3,"for":44,"against":36,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament"},
 {"country":"dnk","name":"Boldklubben af 1893","id":"Boldklubben_af_1893","win":8,"draw":4,"loss":6,"for":45,"against":36,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament"},
 {"country":"dnk","name":"Køge BK","id":"Køge_Boldklub","win":8,"draw":4,"loss":6,"for":35,"against":34,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament","isNew":true},

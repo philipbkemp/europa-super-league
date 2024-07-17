@@ -17,7 +17,7 @@
 	{"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":9,"draw":7,"loss":18,"for":40,"against":61},
 	{"country":"eng","name":"Bury","id":"Bury_F.C.","win":10,"draw":4,"loss":20,"for":47,"against":67},
 	{"country":"eng","name":"Notts County","id":"Notts_County_F.C.","win":5,"draw":8,"loss":21,"for":36,"against":69},
-	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"Kjøbenhavns_Boldklub","win":5,"draw":0,"loss":0,"for":30,"against":6,"isChampion":true,"isRemoved":true},
+	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":5,"draw":0,"loss":0,"for":30,"against":6,"isChampion":true,"isRemoved":true},
 	{"country":"dnk","name":"Boldklubben af 1893","id":"Boldklubben_af_1893","win":4,"draw":0,"loss":1,"for":26,"against":7},
 	{"country":"dnk","name":"Akademisk Boldklub","id":"akademisk_boldklub","win":3,"draw":0,"loss":2,"for":22,"against":16},
 	{"country":"dnk","name":"Boldklubben Frem","id":"Boldklubben_Frem","win":1,"draw":1,"loss":3,"for":12,"against":13},

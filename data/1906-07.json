@@ -19,7 +19,7 @@
 	{"country":"eng","name":"Notts County","id":"Notts_County_F.C.","win":8,"draw":15,"loss":15,"for":46,"against":50},
 	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":9,"draw":9,"loss":20,"for":41,"against":59,"isRemoved":true},
 	{"country":"eng","name":"Stoke","id":"Stoke_City_F.C.","win":8,"draw":10,"loss":20,"for":41,"against":64,"isRemoved":true},
-	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"Kjøbenhavns_Boldklub","win":5,"draw":2,"loss":1,"for":24,"against":20,"isChampion":true,"isReturning":true},
+	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":5,"draw":2,"loss":1,"for":24,"against":20,"isChampion":true,"isReturning":true},
 	{"country":"dnk","name":"Boldklubben af 1893","id":"Boldklubben_af_1893","win":5,"draw":2,"loss":1,"for":41,"against":17,"isChampion":true},
 	{"country":"dnk","name":"Akademisk Boldklub","id":"akademisk_boldklub","win":4,"draw":3,"loss":1,"for":34,"against":23},
 	{"country":"dnk","name":"Olympia","id":"Olympia_(Denmark_football_club)","win":1,"draw":1,"loss":6,"for":12,"against":31},

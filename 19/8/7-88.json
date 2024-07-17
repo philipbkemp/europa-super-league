@@ -33,7 +33,7 @@
 {"country":"dnk","name":"Ikast FS","id":"Ikast_FC","win":8,"draw":6,"loss":12,"for":35,"against":39},
 {"country":"dnk","name":"Aalborg BK","id":"AaB_Fodbold","win":8,"draw":6,"loss":12,"for":33,"against":50},
 {"country":"dnk","name":"Brønshøj BK","id":"Brønshøj_Boldklub","win":8,"draw":4,"loss":14,"for":38,"against":48},
-{"country":"dnk","name":"KB","id":"Kjøbenhavns_Boldklub","win":3,"draw":2,"loss":21,"for":27,"against":66,"isRemoved":true},
+{"country":"dnk","name":"KB","id":"kjobenhavns_boldklub","win":3,"draw":2,"loss":21,"for":27,"against":66,"isRemoved":true},
 {"country":"dnk","name":"Randers Freja","id":"Randers_Sportsklub_Freja","win":2,"draw":4,"loss":20,"for":28,"against":74,"isRemoved":true,"isReturning":true}
 ][
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":31,"draw":10,"loss":3,"for":79,"against":23,"isChampion":true},

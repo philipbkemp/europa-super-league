@@ -42,7 +42,7 @@ h1 span { font-weight: normal; font-size: 2rem; }
 #club-winners tbody th,
 #country-winners tbody th { width: 500px; }
 tbody th a { color: #2b5873 !important; width: 100%; display: block; }
-#divisionsTables tbody th a { display: inline; }
+#divisionsTables tbody th a { display: inline-block; width: 75%; }
 tbody th a:hover { color: #0000d6 !important; }
 #club-winners tbody td:nth-of-type(4),
 #country-winners tbody td:nth-of-type(4) { width: calc( 100% - 500px - 50px - 50px - 50px); }

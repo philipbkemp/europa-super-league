@@ -31,7 +31,7 @@
 {"country":"dnk","name":"Boldklubben af 1893","id":"Boldklubben_af_1893","win":7,"draw":3,"loss":8,"for":27,"against":28},
 {"country":"dnk","name":"Esbjerg fB","id":"Esbjerg_fB","win":7,"draw":2,"loss":9,"for":31,"against":37},
 {"country":"dnk","name":"Boldklubben 1909","id":"Boldklubben_1909","win":5,"draw":6,"loss":7,"for":23,"against":30,"isReturning":true},
-{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"Kjøbenhavns_Boldklub","win":4,"draw":6,"loss":8,"for":24,"against":25,"isRemoved"}
+{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":4,"draw":6,"loss":8,"for":24,"against":25,"isRemoved"}
 ][
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":22,"draw":4,"loss":4,"for":78,"against":26,"isChampion":true},
 {"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":17,"draw":4,"loss":9,"for":64,"against":37},

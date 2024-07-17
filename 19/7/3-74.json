@@ -22,7 +22,7 @@
 {"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":10,"draw":12,"loss":20,"for":38,"against":48,"isRemoved":true},
 {"country":"eng","name":"Norwich City","id":"Norwich_City_F.C.","win":7,"draw":15,"loss":20,"for":37,"against":62,"isRemoved":true}
 ][
-{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"Kjøbenhavns_Boldklub","win":15,"draw":3,"loss":4,"for":48,"against":24,"isChampion":true},
+{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":15,"draw":3,"loss":4,"for":48,"against":24,"isChampion":true},
 {"country":"dnk","name":"Vejle Boldklub","id":"Vejle_Boldklub","win":11,"draw":3,"loss":8,"for":47,"against":35},
 {"country":"dnk","name":"Boldklubben 1903","id":"Boldklubben_1903","win":9,"draw":6,"loss":7,"for":37,"against":28},
 {"country":"dnk","name":"Holbæk B&I","id":"Holbæk_B%26I","win":9,"draw":6,"loss":7,"for":33,"against":30,"isNew":true},
