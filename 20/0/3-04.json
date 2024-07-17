@@ -31,7 +31,7 @@
 {"country":"dnk","name":"FC Nordsjælland","id":"FC_Nordsjælland","win":7,"draw":11,"loss":15,"for":35,"against":59},
 {"country":"dnk","name":"Herfølge BK","id":"Herfølge_Boldklub","win":8,"draw":7,"loss":18,"for":34,"against":57,"isReturning":true},
 {"country":"dnk","name":"BK Frem","id":"Boldklubben_Frem","win":8,"draw":3,"loss":22,"for":40,"against":65,"isRemoved":true,"isReturning":true},
-{"country":"dnk","name":"AB Copenhagen","id":"Akademisk_Boldklub","win":8,"draw":2,"loss":23,"for":31,"against":70,"isRemoved":true,"deduct":-9,"deductReason":"Use of fake passport in player registration"}
+{"country":"dnk","name":"AB Copenhagen","id":"akademisk_boldklub","win":8,"draw":2,"loss":23,"for":31,"against":70,"isRemoved":true,"deduct":-9,"deductReason":"Use of fake passport in player registration"}
 ][
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":31,"draw":5,"loss":2,"for":105,"against":25,"isChampion":true},
 {"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":25,"draw":6,"loss":7,"for":76,"against":33},

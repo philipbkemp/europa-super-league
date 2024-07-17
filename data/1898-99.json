@@ -17,7 +17,7 @@
 	{"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":9,"draw":11,"loss":14,"for":45,"against":51},
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":9,"draw":7,"loss":18,"for":37,"against":51,"isRemoved":true},
 	{"country":"eng","name":"The Wednesday","id":"Sheffield_Wednesday_F.C.","win":8,"draw":8,"loss":18,"for":32,"against":61,"isRemoved":true},
-	{"country":"dnk","name":"Akademisk Boldklub","id":"Akademisk_Boldklub","win":9,"draw":0,"loss":1,"for":30,"against":9,"isChampion":true},
+	{"country":"dnk","name":"Akademisk Boldklub","id":"akademisk_boldklub","win":9,"draw":0,"loss":1,"for":30,"against":9,"isChampion":true},
 	{"country":"dnk","name":"Boldklubben af 1893","id":"Boldklubben_af_1893","win":6,"draw":0,"loss":4,"for":25,"against":14},
 	{"country":"dnk","name":"Boldklubben Frem","id":"Boldklubben_Frem","win":6,"draw":0,"loss":4,"for":23,"against":13},
 	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"Kjøbenhavns_Boldklub","win":6,"draw":0,"loss":4,"for":21,"against":12},

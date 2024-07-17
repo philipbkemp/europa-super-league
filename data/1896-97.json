@@ -16,7 +16,7 @@
 	{"country":"eng","name":"Sunderland","id":"Sunderland_A.F.C.","win":7,"draw":9,"loss":14,"for":34,"against":47},
 	{"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":6,"draw":7,"loss":17,"for":43,"against":61,"isRemoved":true},
 	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"Kjøbenhavns_Boldklub","win":4,"draw":0,"loss":0,"for":13,"against":4,"isChampion":true},
-	{"country":"dnk","name":"Akademisk Boldklub","id":"Akademisk_Boldklub","win":3,"draw":0,"loss":1,"for":14,"against":6},
+	{"country":"dnk","name":"Akademisk Boldklub","id":"akademisk_boldklub","win":3,"draw":0,"loss":1,"for":14,"against":6},
 	{"country":"dnk","name":"Cricketklubben af 1893","id":"Boldklubben_af_1893","win":1,"draw":0,"loss":2,"for":10,"against":7},
 	{"country":"dnk","name":"Østerbros Boldklub","id":"Østerbros_Boldklub","win":1,"draw":0,"loss":2,"for":6,"against":14,"isNew":true},
 	{"country":"dnk","name":"Boldklubben Frem","id":"Boldklubben_Frem","win":0,"draw":0,"loss":4,"for":5,"against":17,"isReturning":true},

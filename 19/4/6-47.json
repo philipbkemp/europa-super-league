@@ -22,7 +22,7 @@
 {"country":"eng","name":"Brentford","id":"Brentford_F.C.","win":9,"draw":7,"loss":26,"for":45,"against":88,"isRemoved":true,"isReturning":true},
 {"country":"eng","name":"Leeds United","id":"Leeds_United_F.C.","win":6,"draw":6,"loss":30,"for":45,"against":90,"isRemoved":true,"isReturning":true}
 ][
-{"country":"dnk","name":"Akademisk Boldklub","id":"Akademisk_Boldklub","win":14,"draw":0,"loss":4,"for":56,"against":36,"isChampion":true},
+{"country":"dnk","name":"Akademisk Boldklub","id":"akademisk_boldklub","win":14,"draw":0,"loss":4,"for":56,"against":36,"isChampion":true},
 {"country":"dnk","name":"Kjøbenhavns Boldklub","id":"Kjøbenhavns_Boldklub","win":11,"draw":4,"loss":3,"for":51,"against":30},
 {"country":"dnk","name":"Fremad Amager","id":"Fremad_Amager","win":10,"draw":2,"loss":6,"for":36,"against":30},
 {"country":"dnk","name":"Østerbros Boldklub","id":"Østerbros_Boldklub","win":9,"draw":3,"loss":6,"for":49,"against":45,"isReturning":true},

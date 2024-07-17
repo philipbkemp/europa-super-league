@@ -15,7 +15,7 @@
 	{"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":10,"draw":1,"loss":19,"for":61,"against":65},
 	{"country":"eng","name":"Small Heath","id":"Birmingham_City_F.C.","win":8,"draw":4,"loss":18,"for":39,"against":79,"isRemoved":true},
 	{"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":6,"draw":7,"loss":17,"for":30,"against":59},
-	{"country":"dnk","name":"Akademisk Boldklub","id":"Akademisk_Boldklub","win":2,"draw":0,"loss":0,"for":7,"against":0,"isChampion":true},
+	{"country":"dnk","name":"Akademisk Boldklub","id":"akademisk_boldklub","win":2,"draw":0,"loss":0,"for":7,"against":0,"isChampion":true},
 	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"Kjøbenhavns_Boldklub","win":1,"draw":0,"loss":1,"for":2,"against":5},
 	{"country":"dnk","name":"Cricketklubben af 1893","id":"Boldklubben_af_1893","win":0,"draw":0,"loss":2,"for":0,"against":4,"isNew":true},
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":3,"draw":2,"loss":1,"for":17,"against":12,"isChampion":true},

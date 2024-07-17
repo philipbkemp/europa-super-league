@@ -15,7 +15,7 @@
 	{"country":"eng","name":"Notts County","id":"Notts_County_F.C.","win":10,"draw":4,"loss":16,"for":53,"against":61,"isRemoved":true},
 	{"country":"eng","name":"Accrington","id":"Accrington_F.C.","win":6,"draw":11,"loss":13,"for":57,"against":81,"isRemoved":true},
 	{"country":"eng","name":"Newton Heath","id":"Manchester_United_F.C.","win":6,"draw":6,"loss":18,"for":50,"against":85,"isNew":true},
-	{"country":"dnk","name":"Akademisk Boldklub","id":"Akademisk_Boldklub","win":8,"draw":0,"loss":0,"for":30,"against":4,"isChampion":true},
+	{"country":"dnk","name":"Akademisk Boldklub","id":"akademisk_boldklub","win":8,"draw":0,"loss":0,"for":30,"against":4,"isChampion":true},
 	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"Kjøbenhavns_Boldklub","win":6,"draw":0,"loss":2,"for":32,"against":4},
 	{"country":"dnk","name":"Boldklubben Frem","id":"Boldklubben_Frem","win":4,"draw":0,"loss":4,"for":18,"against":13},
 	{"country":"dnk","name":"Fri","id":"Boldklubben_Fri","win":1,"draw":0,"loss":7,"for":4,"against":60,"isNew":true},

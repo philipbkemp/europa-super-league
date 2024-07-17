@@ -24,7 +24,7 @@
 	{"country":"dnk","name":"Boldklubben Frem","id":"Boldklubben_Frem","win":3,"draw":1,"loss":1,"for":14,"against":10,"isRemoved":true,"removedNote":"League run in different format from next season"},
 	{"country":"dnk","name":"Boldklubben 1903","id":"Boldklubben_1903","win":2,"draw":0,"loss":3,"for":11,"against":19,"isRemoved":true,"removedNote":"League run in different format from next season"},
 	{"country":"dnk","name":"Velo Hellerup","id":"Velo_Hellerup","win":0,"draw":1,"loss":4,"for":4,"against":16,"isNew":true,"isRemoved":true,"removedNote":"League run in different format from next season"},
-	{"country":"dnk","name":"Akademisk Boldklub","id":"Akademisk_Boldklub","win":0,"draw":1,"loss":4,"for":7,"against":15,"isRemoved":true,"removedNote":"League run in different format from next season"},
+	{"country":"dnk","name":"Akademisk Boldklub","id":"akademisk_boldklub","win":0,"draw":1,"loss":4,"for":7,"against":15,"isRemoved":true,"removedNote":"League run in different format from next season"},
 	{"country":"eir","name":"Glentoran","id":"Glentoran_F.C.","win":11,"draw":2,"loss":1,"for":45,"against":13,"isChampion":true},
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":9,"draw":3,"loss":2,"for":32,"against":14},
 	{"country":"eir","name":"Belfast Celtic","id":"Belfast_Celtic_F.C.","win":7,"draw":6,"loss":1,"for":21,"against":11},

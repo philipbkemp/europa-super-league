@@ -18,7 +18,9 @@ const countries = {
 	"swe": "Sweden"
 };
 
-clubPages = ["preston_north_end_fc"];
+clubPages = ["preston_north_end_fc","akademisk_boldklub"];
+clubPages = ["akademisk_boldklub"];
+clubPages = [];
 
 if ( $("h1 .placeholder").length !== 0 ) {
 
@@ -236,7 +238,9 @@ if ( $("h1 .placeholder").length !== 0 ) {
 		if ( saveRow.length !== 0 ) {
 			$sr = $(saveRow[0]);
 			original = $sr.html();
-			$sr.prepend( $("<TD></TD>").html( $("h1").text().replace("Europa Super League","").replace("Home","").trim() ) );
+			year = $("h1").text().replace("Europa Super League","").replace("Home","").trim();
+			year = $("<A></A>").attr("href","../../"+year[0]+""+year[1]+"/"+year[2]+"/"+year[3]+"-"+year.split("-").pop()+".html").html(year)
+			$sr.prepend( $("<TD></TD>").html( year ) );
 			$($sr.find("td")[1]).prepend( $($("#"+v).parent()).attr("id").split("_")[1].toUpperCase() );
 			country = $sr.find("img[src*='/flags/']");
 			countryFlag = country.attr("src").split("/").pop().split(".")[0].toLowerCase();

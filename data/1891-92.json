@@ -13,7 +13,7 @@
 	{"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":6,"draw":6,"loss":14,"for":51,"against":58},
 	{"country":"eng","name":"Stoke","id":"Stoke_City_F.C.","win":5,"draw":4,"loss":17,"for":38,"against":61,"isReturning":true},
 	{"country":"eng","name":"Darwen","id":"Darwen_F.C._(1870)","win":4,"draw":3,"loss":19,"for":38,"against":112,"isRemoved":true,"isNew":true},
-	{"country":"dnk","name":"Akademisk Boldklub","id":"Akademisk_Boldklub","win":3,"draw":0,"loss":1,"for":14,"against":7,"isChampion":true},
+	{"country":"dnk","name":"Akademisk Boldklub","id":"akademisk_boldklub","win":3,"draw":0,"loss":1,"for":14,"against":7,"isChampion":true},
 	{"country":"dnk","name":"Østerbro Boldklub","id":"Østerbro_Boldklub_(1887-1893)","win":3,"draw":0,"loss":1,"for":8,"against":6,"isChampion":true},
 	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"Kjøbenhavns_Boldklub","win":3,"draw":0,"loss":1,"for":5,"against":5,"isChampion":true},
 	{"country":"dnk","name":"Boldklubben Frem","id":"Boldklubben_Frem","win":1,"draw":0,"loss":3,"for":9,"against":8},
