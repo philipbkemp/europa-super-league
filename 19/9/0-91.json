@@ -10,7 +10,7 @@
 {"country":"eng","name":"Everton","id":"Everton_F.C.","win":13,"draw":12,"loss":13,"for":50,"against":46},
 {"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":11,"draw":16,"loss":11,"for":51,"against":50},
 {"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":13,"draw":10,"loss":15,"for":58,"against":69},
-{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_Rangers_F.C.","win":12,"draw":10,"loss":16,"for":44,"against":53},
+{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_rangers_fc","win":12,"draw":10,"loss":16,"for":44,"against":53},
 {"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":13,"draw":7,"loss":18,"for":36,"against":55,"isReturning":true},
 {"country":"eng","name":"Southampton","id":"Southampton_F.C.","win":12,"draw":9,"loss":17,"for":58,"against":69},
 {"country":"eng","name":"Norwich City","id":"Norwich_City_F.C.","win":13,"draw":6,"loss":19,"for":41,"against":64},
@@ -31,7 +31,7 @@
 {"country":"dnk","name":"Silkeborg IF","id":"Silkeborg_IF","win":4,"draw":7,"loss":7,"for":23,"against":33},
 {"country":"dnk","name":"Ikast FS","id":"Ikast_FC","win":3,"draw":4,"loss":11,"for":9,"against":27,"isRemoved":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":24,"draw":7,"loss":5,"for":62,"against":23,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":24,"draw":7,"loss":5,"for":62,"against":23,"isChampion":true},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":22,"draw":9,"loss":5,"for":62,"against":27},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":17,"draw":7,"loss":12,"for":52,"against":38},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":17,"draw":7,"loss":12,"for":41,"against":29},

@@ -34,7 +34,7 @@
 {"country":"dnk","name":"Odense BK","id":"Odense_Boldklub","win":6,"draw":7,"loss":20,"for":40,"against":57,"isRemoved":true}
 ][
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":22,"draw":8,"loss":6,"for":64,"against":24,"isChampion":true},
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":21,"draw":9,"loss":6,"for":76,"against":38},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":21,"draw":9,"loss":6,"for":76,"against":38},
 {"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":19,"draw":10,"loss":7,"for":70,"against":46},
 {"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":13,"draw":11,"loss":12,"for":40,"against":52},
 {"country":"sco","name":"St Johnstone","id":"St_Johnstone_F.C.","win":13,"draw":9,"loss":14,"for":38,"against":42,"isReturning":true},

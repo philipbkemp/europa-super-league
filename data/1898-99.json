@@ -29,7 +29,7 @@
 	{"country":"eir","name":"Glentoran","id":"Glentoran_F.C.","win":6,"draw":0,"loss":4,"for":17,"against":12},
 	{"country":"eir","name":"Celtic","id":"Belfast_Celtic_F.C.","win":2,"draw":2,"loss":6,"for":15,"against":25},
 	{"country":"eir","name":"North Staffordshire Regiment","id":"North_Staffordshire_Regiment_F.C.","win":0,"draw":0,"loss":10,"for":11,"against":32,"isRemoved":true},
-	{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":18,"draw":0,"loss":0,"for":79,"against":18,"isChampion":true},
+	{"country":"sco","name":"Rangers","id":"rangers_fc","win":18,"draw":0,"loss":0,"for":79,"against":18,"isChampion":true},
 	{"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":12,"draw":2,"loss":4,"for":56,"against":30},
 	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":11,"draw":2,"loss":5,"for":51,"against":33},
 	{"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":10,"draw":3,"loss":5,"for":42,"against":43},

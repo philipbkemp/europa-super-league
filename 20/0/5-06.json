@@ -35,7 +35,7 @@
 ][
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":28,"draw":7,"loss":3,"for":93,"against":37,"isChampion":true},
 {"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":22,"draw":8,"loss":8,"for":71,"against":31},
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":21,"draw":10,"loss":7,"for":67,"against":37},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":21,"draw":10,"loss":7,"for":67,"against":37},
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":17,"draw":5,"loss":16,"for":61,"against":56},
 {"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":15,"draw":10,"loss":13,"for":63,"against":64},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":13,"draw":15,"loss":10,"for":46,"against":40},

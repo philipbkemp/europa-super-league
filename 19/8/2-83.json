@@ -42,7 +42,7 @@
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":24,"draw":8,"loss":4,"for":90,"against":35,"isChampion":true},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":25,"draw":5,"loss":6,"for":90,"against":36},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":25,"draw":5,"loss":6,"for":76,"against":25},
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":13,"draw":12,"loss":11,"for":53,"against":41},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":13,"draw":12,"loss":11,"for":53,"against":41},
 {"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":11,"draw":12,"loss":13,"for":47,"against":51},
 {"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":9,"draw":11,"loss":16,"for":42,"against":53},
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":7,"draw":15,"loss":14,"for":35,"against":51},
@@ -181,7 +181,7 @@
 {"country":"mlt","name":"Żurrieq F.C.","id":"Żurrieq_F.C.","win":4,"draw":6,"loss":4,"for":7,"against":8},
 {"country":"mlt","name":"Floriana F.C.","id":"Floriana_F.C.","win":3,"draw":7,"loss":4,"for":8,"against":7},
 {"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":4,"draw":4,"loss":6,"for":14,"against":11,"isRemoved":true},
-{"country":"mlt","name":"Zebbug Rangers","id":"Żebbuġ_Rangers_F.C.","win":0,"draw":2,"loss":12,"for":5,"against":33,"isRemoved":true,"isReturning":true}
+{"country":"mlt","name":"Zebbug Rangers","id":"Żebbuġ_rangers_fc","win":0,"draw":2,"loss":12,"for":5,"against":33,"isRemoved":true,"isReturning":true}
 ][
 {"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":17,"draw":15,"loss":2,"for":62,"against":25,"isChampion":true},
 {"country":"rou","name":"Universitatea Craiova","id":"CS_Universitatea_Craiova","win":20,"draw":6,"loss":8,"for":66,"against":29},

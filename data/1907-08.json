@@ -34,7 +34,7 @@
 	{"country":"eir","name":"Bohemians","id":"Bohemian_F.C.","win":2,"draw":2,"loss":10,"for":13,"against":31},
 	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":24,"draw":7,"loss":3,"for":86,"against":27,"isChampion":true},
 	{"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":22,"draw":7,"loss":5,"for":103,"against":42},
-	{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":21,"draw":8,"loss":5,"for":74,"against":40},
+	{"country":"sco","name":"Rangers","id":"rangers_fc","win":21,"draw":8,"loss":5,"for":74,"against":40},
 	{"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":20,"draw":8,"loss":5,"for":74,"against":40},
 	{"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":17,"draw":8,"loss":9,"for":55,"against":42},
 	{"country":"sco","name":"Airdrieonians","id":"Airdrieonians_F.C._(1878)","win":18,"draw":5,"loss":11,"for":58,"against":41},

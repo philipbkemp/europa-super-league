@@ -33,7 +33,7 @@
 {"country":"dnk","name":"Hellerup IK","id":"Hellerup_IK","win":4,"draw":2,"loss":12,"for":27,"against":49,"isNew":true},
 {"country":"dnk","name":"Helsingør IF","id":"FC_Helsingør","win":2,"draw":1,"loss":15,"for":22,"against":77,"isRemoved":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":26,"draw":9,"loss":3,"for":88,"against":32,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":26,"draw":9,"loss":3,"for":88,"against":32,"isChampion":true},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":23,"draw":8,"loss":7,"for":89,"against":44},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":22,"draw":8,"loss":8,"for":89,"against":58},
 {"country":"sco","name":"Motherwell","id":"Motherwell_F.C.","win":22,"draw":7,"loss":9,"for":96,"against":54},

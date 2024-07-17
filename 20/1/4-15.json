@@ -18,7 +18,7 @@
 {"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":10,"draw":8,"loss":20,"for":31,"against":57},
 {"country":"eng","name":"Hull City","id":"Hull_City_A.F.C.","win":8,"draw":11,"loss":19,"for":33,"against":51,"isRemoved":true},
 {"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":7,"draw":12,"loss":19,"for":28,"against":53,"isRemoved":true,"isReturning":true},
-{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_Rangers_F.C.","win":8,"draw":6,"loss":24,"for":42,"against":73,"isRemoved":true,"isReturning":true}
+{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_rangers_fc","win":8,"draw":6,"loss":24,"for":42,"against":73,"isRemoved":true,"isReturning":true}
 ][
 {"country":"dnk","name":"Midtjylland","id":"FC_Midtjylland","win":22,"draw":5,"loss":6,"for":64,"against":34,"isChampion":true},
 {"country":"dnk","name":"Copenhagen","id":"F.C._Copenhagen","win":20,"draw":7,"loss":6,"for":40,"against":22},
@@ -179,7 +179,7 @@
 {"country":"mlt","name":"Tarxien Rainbows","id":"Tarxien_Rainbows_F.C.","win":8,"draw":9,"loss":16,"for":35,"against":60},
 {"country":"mlt","name":"Mosta","id":"Mosta_F.C.","win":9,"draw":6,"loss":18,"for":38,"against":72},
 {"country":"mlt","name":"Pietà Hotspurs","id":"Pietà_Hotspurs_F.C.","win":6,"draw":8,"loss":19,"for":30,"against":58,"isRemoved":true,"isReturning":true},
-{"country":"mlt","name":"Żebbuġ Rangers","id":"Żebbuġ_Rangers_F.C.","win":5,"draw":6,"loss":22,"for":37,"against":84,"isRemoved":true,"isReturning":true}
+{"country":"mlt","name":"Żebbuġ Rangers","id":"Żebbuġ_rangers_fc","win":5,"draw":6,"loss":22,"for":37,"against":84,"isRemoved":true,"isReturning":true}
 ][
 {"country":"rou","name":"Steaua București","id":"FCSB","win":22,"draw":5,"loss":7,"for":59,"against":23,"isChampion":true},
 {"country":"rou","name":"Târgu Mureș","id":"ASA_2013_Târgu_Mureș","win":20,"draw":8,"loss":6,"for":51,"against":25,"isReturning":true},

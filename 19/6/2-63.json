@@ -35,7 +35,7 @@
 {"country":"dnk","name":"Aalborg Boldspilklub","id":"AaB_Fodbold","win":7,"draw":4,"loss":11,"for":30,"against":46,"isReturning":true,"isRemoved":true},
 {"country":"dnk","name":"Køge BK","id":"Køge_Boldklub","win":3,"draw":6,"loss":13,"for":33,"against":60,"isRemoved":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":25,"draw":7,"loss":2,"for":94,"against":28,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":25,"draw":7,"loss":2,"for":94,"against":28,"isChampion":true},
 {"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":20,"draw":8,"loss":6,"for":92,"against":40},
 {"country":"sco","name":"Partick Thistle","id":"Partick_Thistle_F.C.","win":20,"draw":6,"loss":8,"for":66,"against":44},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":19,"draw":6,"loss":9,"for":76,"against":44},

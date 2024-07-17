@@ -33,7 +33,7 @@
 {"country":"dnk","name":"Boldklubben af 1893","id":"Boldklubben_af_1893","win":4,"draw":3,"loss":11,"for":23,"against":35},
 {"country":"dnk","name":"Aalborg Boldspilklub","id":"AaB_Fodbold","win":4,"draw":1,"loss":13,"for":22,"against":51,"isRemoved":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":21,"draw":4,"loss":5,"for":76,"against":26,"isChampion":true,"isReturning":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":21,"draw":4,"loss":5,"for":76,"against":26,"isChampion":true,"isReturning":true},
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":19,"draw":6,"loss":5,"for":69,"against":33,"isReturning":true},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":16,"draw":7,"loss":7,"for":58,"against":41,"isReturning":true},
 {"country":"sco","name":"Hearts","id":"Heart_of_Midlothian_F.C.","win":16,"draw":6,"loss":8,"for":52,"against":43,"isReturning":true},

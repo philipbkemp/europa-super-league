@@ -3,7 +3,7 @@
 {"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":21,"draw":11,"loss":10,"for":57,"against":40},
 {"country":"eng","name":"Norwich City","id":"Norwich_City_F.C.","win":21,"draw":9,"loss":12,"for":61,"against":65},
 {"country":"eng","name":"Blackburn Rovers","id":"Blackburn_Rovers_F.C.","win":20,"draw":11,"loss":11,"for":68,"against":46,"isReturning":true},
-{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_Rangers_F.C.","win":17,"draw":12,"loss":13,"for":63,"against":55},
+{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_rangers_fc","win":17,"draw":12,"loss":13,"for":63,"against":55},
 {"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":16,"draw":11,"loss":15,"for":62,"against":55},
 {"country":"eng","name":"Sheffield Wednesday","id":"Sheffield_Wednesday_F.C.","win":15,"draw":14,"loss":13,"for":55,"against":51},
 {"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":16,"draw":11,"loss":15,"for":60,"against":66},
@@ -33,7 +33,7 @@
 {"country":"dnk","name":"BK Frem","id":"Boldklubben_Frem","win":3,"draw":8,"loss":7,"for":23,"against":39,"isRemoved":true},
 {"country":"dnk","name":"B 1909","id":"Boldklubben_1909","win":0,"draw":6,"loss":12,"for":15,"against":42,"isReturning":true,"isRemoved":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":33,"draw":7,"loss":4,"for":97,"against":35,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":33,"draw":7,"loss":4,"for":97,"against":35,"isChampion":true},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":27,"draw":10,"loss":7,"for":87,"against":36},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":24,"draw":12,"loss":8,"for":68,"against":41},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":19,"draw":9,"loss":16,"for":56,"against":49},

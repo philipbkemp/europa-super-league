@@ -33,7 +33,7 @@
 {"country":"dnk","name":"Aalborg Boldspilklub","id":"AaB_Fodbold","win":2,"draw":1,"loss":6,"for":17,"against":21},
 {"country":"dnk","name":"Fremad Amager","id":"Fremad_Amager","win":1,"draw":2,"loss":6,"for":7,"against":39,"isRemoved":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":25,"draw":5,"loss":8,"for":96,"against":46,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":25,"draw":5,"loss":8,"for":96,"against":46,"isChampion":true},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":24,"draw":4,"loss":10,"for":92,"against":45},
 {"country":"sco","name":"Hearts","id":"Heart_of_Midlothian_F.C.","win":20,"draw":10,"loss":8,"for":87,"against":51},
 {"country":"sco","name":"Hamilton Academical","id":"Hamilton_Academical_F.C.","win":19,"draw":10,"loss":9,"for":87,"against":67},

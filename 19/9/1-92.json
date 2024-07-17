@@ -9,7 +9,7 @@
 {"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":16,"draw":11,"loss":15,"for":60,"against":58},
 {"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":16,"draw":9,"loss":17,"for":65,"against":63},
 {"country":"eng","name":"Crystal Palace","id":"Crystal_Palace_F.C.","win":14,"draw":15,"loss":13,"for":53,"against":61},
-{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_Rangers_F.C.","win":12,"draw":18,"loss":12,"for":48,"against":47},
+{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_rangers_fc","win":12,"draw":18,"loss":12,"for":48,"against":47},
 {"country":"eng","name":"Everton","id":"Everton_F.C.","win":13,"draw":14,"loss":15,"for":52,"against":51},
 {"country":"eng","name":"Wimbledon","id":"Wimbledon_F.C.","win":13,"draw":14,"loss":15,"for":53,"against":53},
 {"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":13,"draw":14,"loss":15,"for":50,"against":60},
@@ -33,7 +33,7 @@
 {"country":"dnk","name":"Vejle BK","id":"Vejle_Boldklub","win":6,"draw":2,"loss":10,"for":24,"against":30,"isRemoved":true},
 {"country":"dnk","name":"OB","id":"Odense_Boldklub","win":4,"draw":3,"loss":11,"for":28,"against":49}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":33,"draw":6,"loss":5,"for":101,"against":31,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":33,"draw":6,"loss":5,"for":101,"against":31,"isChampion":true},
 {"country":"sco","name":"Hearts","id":"Heart_of_Midlothian_F.C.","win":27,"draw":9,"loss":8,"for":60,"against":37},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":26,"draw":10,"loss":8,"for":88,"against":42},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":19,"draw":13,"loss":12,"for":66,"against":50},

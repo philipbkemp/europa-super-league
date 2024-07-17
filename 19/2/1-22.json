@@ -25,7 +25,7 @@
 	//dnk
 ][
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":27,"draw":13,"loss":2,"for":83,"against":20,"isChampion":true},
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":28,"draw":10,"loss":4,"for":83,"against":26},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":28,"draw":10,"loss":4,"for":83,"against":26},
 {"country":"sco","name":"Raith Rovers","id":"Raith_Rovers_F.C.","win":19,"draw":13,"loss":10,"for":66,"against":43},
 {"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":19,"draw":11,"loss":12,"for":57,"against":40},
 {"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":16,"draw":17,"loss":9,"for":48,"against":38},

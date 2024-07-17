@@ -33,7 +33,7 @@
 {"country":"dnk","name":"Vejle","id":"Vejle_Boldklub","win":4,"draw":13,"loss":16,"for":30,"against":59,"isRemoved":true,"isReturning":true},
 {"country":"dnk","name":"Horsens","id":"AC_Horsens","win":5,"draw":9,"loss":19,"for":35,"against":58,"isRemoved":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":26,"draw":8,"loss":4,"for":77,"against":28,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":26,"draw":8,"loss":4,"for":77,"against":28,"isChampion":true},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":24,"draw":10,"loss":4,"for":80,"against":33},
 {"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":16,"draw":11,"loss":11,"for":40,"against":37},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":14,"draw":11,"loss":13,"for":41,"against":40},

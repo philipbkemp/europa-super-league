@@ -36,7 +36,7 @@
 {"country":"dnk","name":"Aarhus Gymnastikforening","id":"Aarhus_Gymnastikforening","win":1,"draw":4,"loss":17,"for":10,"against":51,"isRemoved":true}
 ][
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":30,"draw":3,"loss":1,"for":106,"against":24,"isChampion":true},
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":28,"draw":5,"loss":1,"for":93,"against":34},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":28,"draw":5,"loss":1,"for":93,"against":34},
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":20,"draw":5,"loss":9,"for":67,"against":49},
 {"country":"sco","name":"Dunfermline Athletic","id":"Dunfermline_Athletic_F.C.","win":17,"draw":5,"loss":12,"for":64,"against":41},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":16,"draw":5,"loss":13,"for":63,"against":48},

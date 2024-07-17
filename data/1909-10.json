@@ -35,7 +35,7 @@
 	{"country":"eir","name":"Shelbourne","id":"Shelbourne_F.C.","win":2,"draw":7,"loss":5,"for":15,"against":24},
 	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":24,"draw":6,"loss":4,"for":63,"against":22,"isChampion":true},
 	{"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":22,"draw":8,"loss":4,"for":71,"against":28},
-	{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":20,"draw":6,"loss":8,"for":70,"against":35},
+	{"country":"sco","name":"Rangers","id":"rangers_fc","win":20,"draw":6,"loss":8,"for":70,"against":35},
 	{"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":16,"draw":8,"loss":10,"for":44,"against":29},
 	{"country":"sco","name":"Clyde","id":"Clyde_F.C.","win":14,"draw":9,"loss":11,"for":47,"against":40},
 	{"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":14,"draw":8,"loss":12,"for":52,"against":44},

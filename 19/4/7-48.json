@@ -34,7 +34,7 @@
 {"country":"dnk","name":"Fremad Amager","id":"Fremad_Amager","win":1,"draw":3,"loss":14,"for":19,"against":55,"isRemoved":true}
 ][
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":22,"draw":4,"loss":4,"for":85,"against":26,"isChampion":true},
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":21,"draw":4,"loss":5,"for":92,"against":20},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":21,"draw":4,"loss":5,"for":92,"against":20},
 {"country":"sco","name":"Partick Thistle","id":"Partick_Thistle_F.C.","win":16,"draw":4,"loss":10,"for":61,"against":42},
 {"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":15,"draw":3,"loss":12,"for":67,"against":51,"isReturning":true},
 {"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":13,"draw":5,"loss":12,"for":54,"against":58},

@@ -28,7 +28,7 @@
 	{"country":"eir","name":"Celtic","id":"Belfast_Celtic_F.C.","win":1,"draw":2,"loss":7,"for":11,"against":25,"isNew":true},
 	{"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":13,"draw":2,"loss":3,"for":47,"against":22,"isChampion":true},
 	{"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":12,"draw":2,"loss":4,"for":50,"against":20},
-	{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":11,"draw":3,"loss":4,"for":64,"against":30},
+	{"country":"sco","name":"Rangers","id":"rangers_fc","win":11,"draw":3,"loss":4,"for":64,"against":30},
 	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":10,"draw":4,"loss":4,"for":42,"against":18},
 	{"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":10,"draw":2,"loss":6,"for":38,"against":30},
 	{"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":9,"draw":1,"loss":8,"for":38,"against":29},

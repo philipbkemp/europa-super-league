@@ -33,7 +33,7 @@
 {"country":"dnk","name":"Odense Boldklub","id":"Odense_Boldklub","win":1,"draw":2,"loss":6,"for":17,"against":33,"isNew":true},
 {"country":"dnk","name":"Korsør Boldklub","id":"Korsør_Boldklub","win":0,"draw":2,"loss":7,"for":14,"against":45,"isNew":true,"isRemoved":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":28,"draw":4,"loss":6,"for":94,"against":32,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":28,"draw":4,"loss":6,"for":94,"against":32,"isChampion":true},
 {"country":"sco","name":"Motherwell","id":"Motherwell_F.C.","win":25,"draw":5,"loss":8,"for":104,"against":48},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":23,"draw":7,"loss":8,"for":85,"against":61},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":22,"draw":5,"loss":11,"for":88,"against":46},

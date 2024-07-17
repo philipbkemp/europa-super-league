@@ -33,7 +33,7 @@
 {"country":"dnk","name":"Boldklubben 1903","id":"Boldklubben_1903","win":6,"draw":0,"loss":12,"for":26,"against":41},
 {"country":"dnk","name":"Boldklubben 1909","id":"Boldklubben_1909","win":2,"draw":5,"loss":11,"for":27,"against":45,"isRemoved":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":18,"draw":7,"loss":5,"for":80,"against":39,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":18,"draw":7,"loss":5,"for":80,"against":39,"isChampion":true},
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":19,"draw":5,"loss":6,"for":93,"against":51},
 {"country":"sco","name":"East Fife","id":"East_Fife_F.C.","win":16,"draw":7,"loss":7,"for":72,"against":48},
 {"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":12,"draw":6,"loss":12,"for":59,"against":50},

@@ -33,7 +33,7 @@
 {"country":"dnk","name":"Herfølge Boldklub","id":"Herfølge_Boldklub","win":6,"draw":7,"loss":20,"for":29,"against":71,"isRemoved":true},
 {"country":"dnk","name":"Randers","id":"Randers_FC","win":5,"draw":9,"loss":19,"for":30,"against":64,"isRemoved":true,"isNew":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":29,"draw":6,"loss":3,"for":78,"against":22,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":29,"draw":6,"loss":3,"for":78,"against":22,"isChampion":true},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":30,"draw":2,"loss":6,"for":85,"against":35},
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":18,"draw":7,"loss":13,"for":64,"against":57},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":18,"draw":7,"loss":13,"for":44,"against":39},

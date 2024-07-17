@@ -35,7 +35,7 @@
 {"country":"dnk","name":"Skovshoved IF","id":"Skovshoved_IF","win":5,"draw":5,"loss":12,"for":23,"against":43,"isRemoved":true},
 {"country":"dnk","name":"AIA","id":"Arbejdernes_Idrætsklub_Aarhus","win":4,"draw":2,"loss":16,"for":19,"against":56,"isReturning":true,"isRemoved":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":23,"draw":5,"loss":6,"for":88,"against":46,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":23,"draw":5,"loss":6,"for":88,"against":46,"isChampion":true},
 {"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":21,"draw":8,"loss":5,"for":77,"against":45},
 {"country":"sco","name":"Third Lanark","id":"Third_Lanark_A.C.","win":20,"draw":2,"loss":12,"for":100,"against":80},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":15,"draw":9,"loss":10,"for":64,"against":46},

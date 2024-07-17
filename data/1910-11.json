@@ -33,7 +33,7 @@
 	{"country":"eir","name":"Shelbourne","id":"Shelbourne_F.C.","win":3,"draw":4,"loss":7,"for":15,"against":31},
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":2,"draw":5,"loss":7,"for":13,"against":19},
 	{"country":"eir","name":"Bohemians","id":"Bohemian_F.C.","win":1,"draw":4,"loss":9,"for":14,"against":25,"isRemoved":true},
-	{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":23,"draw":6,"loss":5,"for":90,"against":34,"isChampion":true},
+	{"country":"sco","name":"Rangers","id":"rangers_fc","win":23,"draw":6,"loss":5,"for":90,"against":34,"isChampion":true},
 	{"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":19,"draw":10,"loss":5,"for":53,"against":28},
 	{"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":17,"draw":10,"loss":7,"for":65,"against":42},
 	{"country":"sco","name":"Partick Thistle","id":"Partick_Thistle_F.C.","win":17,"draw":8,"loss":9,"for":50,"against":41},

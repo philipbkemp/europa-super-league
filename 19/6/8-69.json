@@ -20,7 +20,7 @@
 {"country":"eng","name":"Stoke City","id":"Stoke_City_F.C.","win":9,"draw":15,"loss":18,"for":40,"against":63},
 {"country":"eng","name":"Coventry City","id":"Coventry_City_F.C.","win":10,"draw":11,"loss":21,"for":46,"against":64},
 {"country":"eng","name":"Leicester City","id":"Leicester_City_F.C.","win":9,"draw":12,"loss":21,"for":39,"against":68,"isRemoved":true},
-{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_Rangers_F.C.","win":4,"draw":10,"loss":28,"for":39,"against":95,"isRemoved":true,"isNew":true}
+{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_rangers_fc","win":4,"draw":10,"loss":28,"for":39,"against":95,"isRemoved":true,"isNew":true}
 ][
 {"country":"dnk","name":"Boldklubben 1903","id":"Boldklubben_1903","win":15,"draw":4,"loss":3,"for":58,"against":25,"isChampion":true,"isReturning":true},
 {"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":14,"draw":2,"loss":6,"for":58,"against":38},
@@ -36,7 +36,7 @@
 {"country":"dnk","name":"Esbjerg fB","id":"Esbjerg_fB","win":5,"draw":2,"loss":15,"for":30,"against":49,"isRemoved":true}
 ][
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":23,"draw":8,"loss":3,"for":89,"against":32,"isChampion":true},
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":21,"draw":7,"loss":6,"for":81,"against":32},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":21,"draw":7,"loss":6,"for":81,"against":32},
 {"country":"sco","name":"Dunfermline Athletic","id":"Dunfermline_Athletic_F.C.","win":19,"draw":7,"loss":8,"for":63,"against":45},
 {"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":15,"draw":14,"loss":5,"for":50,"against":32},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":17,"draw":9,"loss":8,"for":61,"against":49},

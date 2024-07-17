@@ -33,7 +33,7 @@
 {"country":"dnk","name":"Aarhus Fremad","id":"Aarhus_Fremad","win":7,"draw":8,"loss":18,"for":51,"against":73,"isRemoved":true},
 {"country":"dnk","name":"Boldklubben 1893","id":"Boldklubben_af_1893","win":3,"draw":3,"loss":27,"for":22,"against":80,"isRemoved":true,"isReturning":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":23,"draw":8,"loss":5,"for":78,"against":31,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":23,"draw":8,"loss":5,"for":78,"against":31,"isChampion":true},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":21,"draw":8,"loss":7,"for":84,"against":35},
 {"country":"sco","name":"St Johnstone","id":"St_Johnstone_F.C.","win":15,"draw":12,"loss":9,"for":39,"against":38},
 {"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":14,"draw":14,"loss":8,"for":47,"against":29},

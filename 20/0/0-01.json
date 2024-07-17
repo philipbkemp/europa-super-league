@@ -34,7 +34,7 @@
 {"country":"dnk","name":"Haderslev FK/HFK Sønderjylland","id":"Sønderjyske_Fodbold","win":1,"draw":8,"loss":24,"for":30,"against":88,"isRemoved":true,"isNew":true}
 ][
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":31,"draw":4,"loss":3,"for":90,"against":29,"isChampion":true},
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":26,"draw":4,"loss":8,"for":76,"against":36},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":26,"draw":4,"loss":8,"for":76,"against":36},
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":18,"draw":12,"loss":8,"for":57,"against":35},
 {"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":15,"draw":9,"loss":14,"for":44,"against":53},
 {"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":14,"draw":10,"loss":14,"for":56,"against":50},

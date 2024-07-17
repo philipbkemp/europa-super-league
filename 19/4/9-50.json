@@ -33,7 +33,7 @@
 {"country":"dnk","name":"Esbjerg fB","id":"Esbjerg_fB","win":5,"draw":2,"loss":11,"for":23,"against":37,"isReturning":true},
 {"country":"dnk","name":"Østerbros Boldklub","id":"Østerbros_Boldklub","win":2,"draw":4,"loss":12,"for":16,"against":42,"isRemoved":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":22,"draw":6,"loss":2,"for":58,"against":26,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":22,"draw":6,"loss":2,"for":58,"against":26,"isChampion":true},
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":22,"draw":5,"loss":3,"for":86,"against":34},
 {"country":"sco","name":"Hearts","id":"Heart_of_Midlothian_F.C.","win":20,"draw":3,"loss":7,"for":86,"against":40},
 {"country":"sco","name":"East Fife","id":"East_Fife_F.C.","win":15,"draw":7,"loss":8,"for":58,"against":43},

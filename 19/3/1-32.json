@@ -34,7 +34,7 @@
 {"country":"dnk","name":"Horsens fS","id":"AC_Horsens","win":1,"draw":1,"loss":7,"for":11,"against":49,"isRemoved":true}
 ][
 {"country":"sco","name":"Motherwell","id":"Motherwell_F.C.","win":30,"draw":6,"loss":2,"for":119,"against":31,"isChampion":true},
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":28,"draw":5,"loss":5,"for":118,"against":42},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":28,"draw":5,"loss":5,"for":118,"against":42},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":20,"draw":8,"loss":10,"for":94,"against":50},
 {"country":"sco","name":"Third Lanark","id":"Third_Lanark_A.C.","win":21,"draw":4,"loss":13,"for":92,"against":81,"isReturning":true},
 {"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":20,"draw":4,"loss":14,"for":77,"against":56},

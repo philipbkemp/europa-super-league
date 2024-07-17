@@ -1,6 +1,6 @@
 [
 {"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":23,"draw":14,"loss":5,"for":66,"against":31,"isChampion":true},
-{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_Rangers_F.C.","win":24,"draw":11,"loss":7,"for":67,"against":33},
+{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_rangers_fc","win":24,"draw":11,"loss":7,"for":67,"against":33},
 {"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":23,"draw":10,"loss":9,"for":68,"against":42,"isReturning":true},
 {"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":21,"draw":11,"loss":10,"for":75,"against":58},
 {"country":"eng","name":"Leeds United","id":"Leeds_United_F.C.","win":21,"draw":9,"loss":12,"for":65,"against":46},
@@ -39,7 +39,7 @@
 {"country":"dnk","name":"Fremad Amager","id":"Fremad_Amager","win":7,"draw":7,"loss":16,"for":34,"against":52,"isRemoved":true},
 {"country":"dnk","name":"Vanløse IF","id":"Vanløse_IF","win":6,"draw":5,"loss":19,"for":46,"against":87,"isRemoved":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":23,"draw":8,"loss":5,"for":60,"against":24,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":23,"draw":8,"loss":5,"for":60,"against":24,"isChampion":true},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":21,"draw":6,"loss":9,"for":71,"against":42},
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":18,"draw":7,"loss":11,"for":55,"against":43},
 {"country":"sco","name":"Motherwell","id":"Motherwell_F.C.","win":16,"draw":8,"loss":12,"for":57,"against":49},
@@ -174,7 +174,7 @@
 {"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":11,"draw":4,"loss":3,"for":35,"against":13,"isChampion":true},
 {"country":"mlt","name":"Floriana F.C.","id":"Floriana_F.C.","win":9,"draw":7,"loss":2,"for":27,"against":12},
 {"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":7,"draw":6,"loss":5,"for":17,"against":17},
-{"country":"mlt","name":"Zebbug Rangers","id":"Żebbuġ_Rangers_F.C.","win":7,"draw":6,"loss":5,"for":20,"against":25},
+{"country":"mlt","name":"Zebbug Rangers","id":"Żebbuġ_rangers_fc","win":7,"draw":6,"loss":5,"for":20,"against":25},
 {"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":6,"draw":6,"loss":6,"for":34,"against":26},
 {"country":"mlt","name":"Msida Saint-Joseph F.C.","id":"Msida_Saint-Joseph_F.C.","win":7,"draw":4,"loss":7,"for":21,"against":24,"isReturning":true},
 {"country":"mlt","name":"Senglea Athletics Football Club","id":"Senglea_Athletic_F.C.","win":4,"draw":8,"loss":6,"for":16,"against":22,"isReturning":true},

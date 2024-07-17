@@ -17,7 +17,7 @@
 {"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":13,"draw":12,"loss":17,"for":51,"against":68},
 {"country":"eng","name":"Ipswich Town","id":"Ipswich_Town_F.C.","win":13,"draw":11,"loss":18,"for":46,"against":57},
 {"country":"eng","name":"Coventry City","id":"Coventry_City_F.C.","win":15,"draw":5,"loss":22,"for":47,"against":64},
-{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_Rangers_F.C.","win":13,"draw":11,"loss":18,"for":53,"against":72},
+{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_rangers_fc","win":13,"draw":11,"loss":18,"for":53,"against":72},
 {"country":"eng","name":"Norwich City","id":"Norwich_City_F.C.","win":13,"draw":10,"loss":19,"for":46,"against":64,"isRemoved":true},
 {"country":"eng","name":"Sunderland","id":"Sunderland_A.F.C.","win":10,"draw":10,"loss":22,"for":40,"against":62,"isRemoved":true},
 {"country":"eng","name":"Stoke City","id":"Stoke_City_F.C.","win":3,"draw":8,"loss":31,"for":24,"against":91,"isRemoved":true}
@@ -42,7 +42,7 @@
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":27,"draw":5,"loss":4,"for":89,"against":26,"isChampion":true},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":22,"draw":8,"loss":6,"for":77,"against":30},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":20,"draw":7,"loss":9,"for":67,"against":33},
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":13,"draw":12,"loss":11,"for":47,"against":38},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":13,"draw":12,"loss":11,"for":47,"against":38},
 {"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":17,"draw":4,"loss":15,"for":51,"against":56},
 {"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":15,"draw":7,"loss":14,"for":48,"against":50},
 {"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":13,"draw":5,"loss":18,"for":47,"against":64},

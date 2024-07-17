@@ -18,7 +18,7 @@
 {"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":12,"draw":11,"loss":19,"for":54,"against":75,"isReturning":true},
 {"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":13,"draw":8,"loss":21,"for":44,"against":68},
 {"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":10,"draw":11,"loss":21,"for":44,"against":71},
-{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_Rangers_F.C.","win":6,"draw":13,"loss":23,"for":45,"against":73,"isRemoved":true},
+{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_rangers_fc","win":6,"draw":13,"loss":23,"for":45,"against":73,"isRemoved":true},
 {"country":"eng","name":"Birmingham City","id":"Birmingham_City_F.C.","win":6,"draw":10,"loss":26,"for":37,"against":64,"isRemoved":true},
 {"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":5,"draw":10,"loss":27,"for":44,"against":92,"isRemoved":true}
 ][
@@ -40,7 +40,7 @@
 {"country":"dnk","name":"Slagelse B&I","id":"Slagelse_B%26I","win":5,"draw":6,"loss":19,"for":34,"against":64,"isRemoved":true}
 ][
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":21,"draw":6,"loss":9,"for":61,"against":37,"isChampion":true},
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":18,"draw":9,"loss":9,"for":52,"against":35},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":18,"draw":9,"loss":9,"for":52,"against":35},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":18,"draw":8,"loss":10,"for":56,"against":37},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":13,"draw":14,"loss":9,"for":59,"against":36},
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":12,"draw":13,"loss":11,"for":44,"against":48},

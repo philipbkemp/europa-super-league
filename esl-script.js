@@ -18,7 +18,7 @@ const countries = {
 	"swe": "Sweden"
 };
 
-clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub"];
+clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc"];
 clubPages = [];
 
 if ( $("h1 .placeholder").length !== 0 ) {
@@ -245,7 +245,7 @@ if ( $("h1 .placeholder").length !== 0 ) {
 			countryFlag = country.attr("src").split("/").pop().split(".")[0].toLowerCase();
 			$(country.parent()).remove();
 			classes = $sr.attr("class") || "";
-			if ( $sr.html().indexOf("A1") === -1 ) {
+			if ( $sr.html().indexOf("<td>A1</td>") === -1 ) {
 				classes = classes.replace("champion","");
 			}
 			console.warn(v);

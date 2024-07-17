@@ -34,7 +34,7 @@
 {"country":"dnk","name":"Lyngby Boldklub","id":"Lyngby_Boldklub","win":3,"draw":9,"loss":21,"for":33,"against":69,"isRemoved":true,"isReturning":true}
 ][
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":28,"draw":5,"loss":5,"for":84,"against":26,"isChampion":true},
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":27,"draw":5,"loss":6,"for":84,"against":33},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":27,"draw":5,"loss":6,"for":84,"against":33},
 {"country":"sco","name":"Motherwell","id":"Motherwell_F.C.","win":18,"draw":6,"loss":14,"for":50,"against":46},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":15,"draw":8,"loss":15,"for":50,"against":58},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":14,"draw":10,"loss":14,"for":53,"against":47},

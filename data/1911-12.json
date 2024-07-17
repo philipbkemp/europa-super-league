@@ -33,7 +33,7 @@
 	{"country":"eir","name":"Shelbourne","id":"Shelbourne_F.C.","win":2,"draw":3,"loss":9,"for":12,"against":33},
 	{"country":"eir","name":"Cliftonville","id":"Cliftonville_F.C.","win":3,"draw":1,"loss":10,"for":14,"against":36},
 	{"country":"eir","name":"Glenavon","id":"Glenavon_F.C.","win":2,"draw":2,"loss":10,"for":17,"against":30,"isNew":true},
-	{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":24,"draw":3,"loss":7,"for":86,"against":34,"isChampion":true},
+	{"country":"sco","name":"Rangers","id":"rangers_fc","win":24,"draw":3,"loss":7,"for":86,"against":34,"isChampion":true},
 	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":17,"draw":11,"loss":6,"for":58,"against":33},
 	{"country":"sco","name":"Clyde","id":"Clyde_F.C.","win":19,"draw":4,"loss":11,"for":56,"against":32},
 	{"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":16,"draw":8,"loss":10,"for":54,"against":40},

@@ -9,7 +9,7 @@
 {"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":18,"draw":10,"loss":14,"for":54,"against":54},
 {"country":"eng","name":"Leeds United","id":"Leeds_United_F.C.","win":16,"draw":13,"loss":13,"for":57,"against":49},
 {"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":17,"draw":11,"loss":14,"for":68,"against":67},
-{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_Rangers_F.C.","win":16,"draw":10,"loss":16,"for":54,"against":54},
+{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_rangers_fc","win":16,"draw":10,"loss":16,"for":54,"against":54},
 {"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":14,"draw":11,"loss":17,"for":57,"against":54},
 {"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":13,"draw":13,"loss":16,"for":58,"against":59},
 {"country":"eng","name":"Coventry City","id":"Coventry_City_F.C.","win":12,"draw":15,"loss":15,"for":51,"against":62},
@@ -39,7 +39,7 @@
 {"country":"dnk","name":"Slagelse B&I","id":"Slagelse_B%26I","win":8,"draw":4,"loss":18,"for":35,"against":58,"isRemoved":true},
 {"country":"dnk","name":"Boldklubben 1909","id":"Boldklubben_1909","win":8,"draw":1,"loss":21,"for":47,"against":78,"isReturning":true,"isRemoved":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":25,"draw":6,"loss":3,"for":86,"against":33,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":25,"draw":6,"loss":3,"for":86,"against":33,"isChampion":true},
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":20,"draw":9,"loss":5,"for":69,"against":37},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":20,"draw":5,"loss":9,"for":81,"against":41},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":19,"draw":7,"loss":8,"for":72,"against":43},
@@ -186,7 +186,7 @@
 {"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":8,"draw":7,"loss":3,"for":21,"against":12,"isReturning":true},
 {"country":"mlt","name":"Birkirkara F.C.","id":"Birkirkara_F.C.","win":8,"draw":4,"loss":6,"for":17,"against":21},
 {"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":8,"draw":3,"loss":7,"for":21,"against":15},
-{"country":"mlt","name":"Zebbug Rangers","id":"Żebbuġ_Rangers_F.C.","win":4,"draw":8,"loss":6,"for":16,"against":16},
+{"country":"mlt","name":"Zebbug Rangers","id":"Żebbuġ_rangers_fc","win":4,"draw":8,"loss":6,"for":16,"against":16},
 {"country":"mlt","name":"Marsa F.C.","id":"Marsa_F.C.","win":6,"draw":3,"loss":9,"for":16,"against":17},
 {"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":5,"draw":5,"loss":8,"for":16,"against":19},
 {"country":"mlt","name":"Gzira United","id":"Gżira_United_F.C.","win":5,"draw":4,"loss":9,"for":14,"against":28,"isRemoved":true},

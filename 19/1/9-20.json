@@ -33,7 +33,7 @@
 {"country":"eir","name":"Cliftonville","id":"Cliftonville_F.C.","win":2,"draw":5,"loss":7,"for":11,"against":22,"isReturning":true},
 {"country":"eir","name":"Bohemians","id":"Bohemian_F.C.","win":2,"draw":2,"loss":10,"for":7,"against":38,"isRemoved":true,"isReturning":true}
 ][
-{"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":31,"draw":9,"loss":2,"for":106,"against":25,"isChampion":true},
+{"country":"sco","name":"Rangers","id":"rangers_fc","win":31,"draw":9,"loss":2,"for":106,"against":25,"isChampion":true},
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":29,"draw":10,"loss":3,"for":89,"against":31},
 {"country":"sco","name":"Motherwell","id":"Motherwell_F.C.","win":23,"draw":11,"loss":8,"for":74,"against":53},
 {"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":22,"draw":6,"loss":14,"for":79,"against":65,"isReturning":true},
