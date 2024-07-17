@@ -21,7 +21,7 @@
 	{"country":"dnk","name":"Fri","id":"Boldklubben_Fri","win":2,"draw":0,"loss":6,"for":7,"against":35,"isRemoved":true},
 	{"country":"dnk","name":"Arrow","id":"Boldklubben_Arrow","win":0,"draw":0,"loss":8,"for":6,"against":64,"isNew":true,"isRemoved":true},
 	{"country":"eir","name":"Glentoran","id":"Glentoran_F.C.","win":8,"draw":0,"loss":2,"for":31,"against":10,"isChampion":true},
-	{"country":"eir","name":"Linfield","id":"Linfield_F.C.","win":6,"draw":2,"loss":2,"for":36,"against":15},
+	{"country":"eir","name":"Linfield","id":"linfield_fc","win":6,"draw":2,"loss":2,"for":36,"against":15},
 	{"country":"eir","name":"Cliftonville","id":"Cliftonville_F.C.","win":4,"draw":2,"loss":4,"for":22,"against":25},
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":4,"draw":1,"loss":5,"for":23,"against":24},
 	{"country":"eir","name":"Ulster","id":"Ulster_F.C.","win":4,"draw":0,"loss":6,"for":23,"against":33,"isRemoved":true},

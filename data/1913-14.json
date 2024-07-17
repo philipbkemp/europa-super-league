@@ -19,7 +19,7 @@
 	{"country":"eng","name":"The Wednesday","id":"Sheffield_Wednesday_F.C.","win":13,"draw":8,"loss":17,"for":53,"against":70},
 	{"country":"eng","name":"Preston North End","id":"preston_north_end_fc","win":12,"draw":6,"loss":20,"for":52,"against":69,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":8,"draw":11,"loss":19,"for":55,"against":71,"isRemoved":true},
-	{"country":"eir","name":"Linfield","id":"Linfield_F.C.","win":11,"draw":2,"loss":1,"for":32,"against":13,"isChampion":true},
+	{"country":"eir","name":"Linfield","id":"linfield_fc","win":11,"draw":2,"loss":1,"for":32,"against":13,"isChampion":true},
 	{"country":"eir","name":"Glentoran","id":"Glentoran_F.C.","win":8,"draw":3,"loss":3,"for":32,"against":18},
 	{"country":"eir","name":"Belfast Celtic","id":"Belfast_Celtic_F.C.","win":8,"draw":1,"loss":5,"for":19,"against":18},
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":6,"draw":4,"loss":4,"for":14,"against":12},

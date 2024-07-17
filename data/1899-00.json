@@ -23,7 +23,7 @@
 	{"country":"dnk","name":"Boldklubben Frem","id":"Boldklubben_Frem","win":3,"draw":2,"loss":3,"for":15,"against":18},
 	{"country":"dnk","name":"Østerbros BK","id":"Østerbros_Boldklub","win":2,"draw":0,"loss":6,"for":3,"against":20},
 	{"country":"eir","name":"Celtic","id":"Belfast_Celtic_F.C.","win":6,"draw":1,"loss":2,"for":19,"against":11,"isChampion":true},
-	{"country":"eir","name":"Linfield","id":"Linfield_F.C.","win":4,"draw":4,"loss":1,"for":21,"against":10},
+	{"country":"eir","name":"Linfield","id":"linfield_fc","win":4,"draw":4,"loss":1,"for":21,"against":10},
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":4,"draw":4,"loss":2,"for":17,"against":13},
 	{"country":"eir","name":"Cliftonville","id":"Cliftonville_F.C.","win":3,"draw":4,"loss":3,"for":19,"against":22},
 	{"country":"eir","name":"Royal Scots","id":"Royal_Scots_F.C.","win":2,"draw":1,"loss":4,"for":10,"against":17,"isRemoved":true,"isNew":true},

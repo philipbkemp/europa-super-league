@@ -21,7 +21,7 @@
 	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":8,"draw":12,"loss":18,"for":57,"against":90,"isRemoved":true,"removedNote":"League suspended for WW1"},
 	{"country":"eir","name":"Belfast Celtic","id":"Belfast_Celtic_F.C.","win":10,"draw":3,"loss":1,"for":24,"against":7,"isChampion":true,"isRemoved":true,"removedNote":"League suspended due to WW1"},
 	{"country":"eir","name":"Glentoran","id":"Glentoran_F.C.","win":9,"draw":3,"loss":2,"for":27,"against":10,"isRemoved":true,"removedNote":"League suspended due to WW1"},
-	{"country":"eir","name":"Linfield","id":"Linfield_F.C.","win":6,"draw":5,"loss":3,"for":27,"against":18,"isRemoved":true,"removedNote":"League suspended due to WW1"},
+	{"country":"eir","name":"Linfield","id":"linfield_fc","win":6,"draw":5,"loss":3,"for":27,"against":18,"isRemoved":true,"removedNote":"League suspended due to WW1"},
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":7,"draw":1,"loss":6,"for":23,"against":16,"isRemoved":true,"removedNote":"League suspended due to WW1"},
 	{"country":"eir","name":"Shelbourne","id":"Shelbourne_F.C.","win":6,"draw":3,"loss":5,"for":17,"against":12,"isRemoved":true,"removedNote":"League suspended due to WW1"},
 	{"country":"eir","name":"Glenavon","id":"Glenavon_F.C.","win":3,"draw":5,"loss":6,"for":24,"against":28,"isRemoved":true,"removedNote":"League suspended due to WW1"},

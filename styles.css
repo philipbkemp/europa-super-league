@@ -41,6 +41,8 @@ h1 span { font-weight: normal; font-size: 2rem; }
 .newclubs tbody th img { height: 16px; float: right; position: relative; top: 3px; right: 5px; margin-left: 5px; cursor: help; width: 16px; }
 #club-winners tbody th,
 #country-winners tbody th { width: 500px; }
+#divisionsTables tbody th { font-weight: normal; }
+#divisionsTables tbody th a { font-weight: bold; }
 tbody th a { color: #2b5873 !important; width: 100%; display: block; }
 #divisionsTables tbody th a { display: inline-block; width: 75%; }
 tbody th a:hover { color: #0000d6 !important; }
