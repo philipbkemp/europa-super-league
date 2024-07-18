@@ -84,7 +84,7 @@
 {"country":"bel","name":"Beringen FC","id":"K._Beringen_F.C.","win":10,"draw":9,"loss":11,"for":32,"against":41},
 {"country":"bel","name":"R.F.C. de Liège","id":"RFC_Liège","win":12,"draw":4,"loss":14,"for":35,"against":44},
 {"country":"bel","name":"La Gantoise","id":"K.A.A._Gent","win":8,"draw":12,"loss":10,"for":33,"against":39,"isReturning":true},
-{"country":"bel","name":"Royale Union Saint-Gilloise","id":"Royale_Union_Saint-Gilloise","win":8,"draw":9,"loss":13,"for":30,"against":42,"isReturning":true},
+{"country":"bel","name":"Royale Union Saint-Gilloise","id":"royale_union_saint_gilloise","win":8,"draw":9,"loss":13,"for":30,"against":42,"isReturning":true},
 {"country":"bel","name":"Racing White","id":"R.W.D._Molenbeek_(1909)","win":8,"draw":9,"loss":13,"for":29,"against":43},
 {"country":"bel","name":"Beerschot","id":"K._Beerschot_V.A.C.","win":8,"draw":7,"loss":15,"for":39,"against":51},
 {"country":"bel","name":"KV Mechelen","id":"K.V._Mechelen","win":6,"draw":8,"loss":16,"for":32,"against":57,"isRemoved":true},

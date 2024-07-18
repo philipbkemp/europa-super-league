@@ -67,7 +67,7 @@
 {"country":"bel","name":"Tilleur FC","id":"R.F.C._Tilleur","win":8,"draw":9,"loss":13,"for":34,"against":46,"isReturning":true},
 {"country":"bel","name":"R.O.C. de Charleroi-Marchienne","id":"R._Olympic_Charleroi_Châtelet_Farciennes","win":9,"draw":7,"loss":14,"for":36,"against":49},
 {"country":"bel","name":"K Boom FC","id":"K._Boom_F.C.","win":7,"draw":9,"loss":14,"for":40,"against":60,"isRemoved":true},
-{"country":"bel","name":"Royale Union Saint-Gilloise","id":"Royale_Union_Saint-Gilloise","win":8,"draw":4,"loss":18,"for":49,"against":70,"isRemoved":true}
+{"country":"bel","name":"Royale Union Saint-Gilloise","id":"royale_union_saint_gilloise","win":8,"draw":4,"loss":18,"for":49,"against":70,"isRemoved":true}
 ]
 [
 {"country":"ita","name":"Torino","id":"Torino_FC","win":25,"draw":10,"loss":3,"for":78,"against":34,"isChampion":true},

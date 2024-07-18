@@ -45,7 +45,7 @@
 	{"country":"sco","name":"Queen's Park","id":"Queen%27s_Park_F.C.","win":6,"draw":8,"loss":12,"for":28,"against":45},
 	{"country":"sco","name":"Morton","id":"Greenock_Morton_F.C.","win":7,"draw":4,"loss":15,"for":27,"against":50},
 	{"country":"sco","name":"Motherwell","id":"Motherwell_F.C.","win":6,"draw":2,"loss":18,"for":28,"against":53},
-	{"country":"bel","name":"Union Saint-Gilloise","id":"Royale_Union_Saint-Gilloise","win":17,"draw":1,"loss":2,"for":83,"against":12,"isChampion":true,"isNew":true},
+	{"country":"bel","name":"Union Saint-Gilloise","id":"royale_union_saint_gilloise","win":17,"draw":1,"loss":2,"for":83,"against":12,"isChampion":true,"isNew":true},
 	{"country":"bel","name":"Racing Club de Bruxelles","id":"K.F.C._Rhodienne-De_Hoek","win":13,"draw":4,"loss":3,"for":76,"against":25,"isReturning":true},
 	{"country":"bel","name":"F.C. Brugeois","id":"Club_Brugge_KV","win":13,"draw":2,"loss":5,"for":63,"against":26,"isReturning":true},
 	{"country":"bel","name":"F.C. Liégeois","id":"RFC_Liège","win":13,"draw":1,"loss":6,"for":48,"against":29,"isReturning":true},

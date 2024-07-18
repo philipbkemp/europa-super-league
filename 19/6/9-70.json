@@ -86,7 +86,7 @@
 {"country":"bel","name":"R.F.C. de Liège","id":"RFC_Liège","win":8,"draw":7,"loss":15,"for":34,"against":44},
 {"country":"bel","name":"K. Sint-Truidense V.V.","id":"Sint-Truidense_V.V.","win":8,"draw":7,"loss":15,"for":36,"against":57},
 {"country":"bel","name":"Crossing Club Schaerbeek","id":"K.V.V._Crossing_Elewijt","win":8,"draw":7,"loss":15,"for":29,"against":50,"isNew":true},
-{"country":"bel","name":"Royale Union Saint-Gilloise","id":"Royale_Union_Saint-Gilloise","win":6,"draw":10,"loss":14,"for":26,"against":45},
+{"country":"bel","name":"Royale Union Saint-Gilloise","id":"royale_union_saint_gilloise","win":6,"draw":10,"loss":14,"for":26,"against":45},
 {"country":"bel","name":"Beringen FC","id":"K._Beringen_F.C.","win":4,"draw":10,"loss":16,"for":27,"against":49,"isRemoved":true},
 {"country":"bel","name":"A.S.V. Oostende K.M.","id":"A.S.V._Oostende_K.M.","win":4,"draw":7,"loss":19,"for":24,"against":66,"isRemoved":true,"isNew":true}
 ]

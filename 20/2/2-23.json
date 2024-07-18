@@ -66,7 +66,7 @@
 {"country":"nld","name":"Groningen","id":"FC_Groningen","win":4,"draw":6,"loss":24,"for":31,"against":75,"isRemoved":true}
 ][
 {"country":"bel","name":"Genk","id":"K.R.C._Genk","win":25,"draw":8,"loss":7,"for":88,"against":47},
-{"country":"bel","name":"Union SG","id":"Royale_Union_Saint-Gilloise","win":25,"draw":8,"loss":7,"for":78,"against":49},
+{"country":"bel","name":"Union SG","id":"royale_union_saint_gilloise","win":25,"draw":8,"loss":7,"for":78,"against":49},
 {"country":"bel","name":"Antwerp","id":"Royal_Antwerp_F.C.","win":25,"draw":8,"loss":7,"for":69,"against":34,"isChampion":true},
 {"country":"bel","name":"Club Brugge","id":"Club_Brugge_KV","win":18,"draw":11,"loss":11,"for":71,"against":48},
 {"country":"bel","name":"Gent","id":"K.A.A._Gent","win":21,"draw":9,"loss":10,"for":81,"against":44},
