@@ -54,7 +54,7 @@
 	{"country":"mlt","name":"Msida Rangers","id":"Msida_Saint-Joseph_F.C.","win":1,"draw":1,"loss":3,"for":4,"against":3,"isRemoved":true,"removedNote":"Maltese league not contested next season"},
 	{"country":"mlt","name":"Vittoriosa Melita","id":"Vittoriosa_Stars_F.C.","win":0,"draw":0,"loss":5,"for":0,"against":35,"isRemoved":true,"removedNote":"Maltese league not contested next season"},
 	{"country":"rou","name":"Româno-Americană București","id":"Româno-Americană_București","win":8,"draw":2,"loss":0,"for":31,"against":4,"isChampion":true,"isNew":true,"isRemoved":true},
-	{"country":"rou","name":"Colentina București","id":"Colentina_A.C._București","win":7,"draw":3,"loss":0,"for":50,"against":12},
+	{"country":"rou","name":"Colentina București","id":"colentina_ac_bucuresti","win":7,"draw":3,"loss":0,"for":50,"against":12},
 	{"country":"rou","name":"Bukarester FC","id":"Bukarester_FC","win":5,"draw":1,"loss":4,"for":15,"against":15},
 	{"country":"rou","name":"Prahova Ploiești","id":"FC_Prahova_Ploiești","win":4,"draw":0,"loss":6,"for":20,"against":29,"isReturning":true},
 	{"country":"rou","name":"Colțea București","id":"Colțea_București","win":2,"draw":0,"loss":8,"for":5,"against":35,"isNew":true},

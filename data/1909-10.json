@@ -87,6 +87,6 @@
 	{"country":"mlt","name":"Boys Empire League","id":"boys_empire_league","win":1,"draw":1,"loss":2,"for":7,"against":4,"isNew":true,"isRemoved":true,"removedNote":"Malta league not run next season"},
 	{"country":"mlt","name":"Malta University","id":"malta_university","win":0,"draw":0,"loss":4,"for":0,"against":12,"isNew":true,"isRemoved":true,"removedNote":"Malta league not run next season"},
 	{"country":"rou","name":"Olympia București","id":"Olympia_București","win":1,"draw":1,"loss":0,"for":5,"against":4,"isChampion":true,"isNew":true},
-	{"country":"rou","name":"Colentina București","id":"Colentina_A.C._București","win":1,"draw":0,"loss":1,"for":3,"against":2,"isNew":true},
+	{"country":"rou","name":"Colentina București","id":"colentina_ac_bucuresti","win":1,"draw":0,"loss":1,"for":3,"against":2,"isNew":true},
 	{"country":"rou","name":"United Ploiești","id":"FC_Prahova_Ploiești","win":0,"draw":1,"loss":1,"for":3,"against":5,"isNew":true}
 ]

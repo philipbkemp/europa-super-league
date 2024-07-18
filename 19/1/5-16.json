@@ -49,7 +49,7 @@
 {"country":"rou","name":"Prahova Ploiești","id":"FC_Prahova_Ploiești","win":5,"draw":0,"loss":1,"for":17,"against":2,"isChampion":true,"isRemoved":true,"removedNote":"Romanian league suspended due to WW1"},
 {"country":"rou","name":"Bukarester FC","id":"Bukarester_FC","win":3,"draw":2,"loss":1,"for":11,"against":8,"isRemoved":true,"removedNote":"Romanian league suspended due to WW1"},
 {"country":"rou","name":"Colțea București","id":"Colțea_București","win":0,"draw":3,"loss":3,"for":3,"against":13,"isRemoved":true,"removedNote":"Romanian league suspended due to WW1"},
-{"country":"rou","name":"Colentina București","id":"Colentina_A.C._București","win":0,"draw":1,"loss":5,"for":4,"against":15,"isRemoved":true,"removedNote":"Romanian league suspended due to WW1"}
+{"country":"rou","name":"Colentina București","id":"colentina_ac_bucuresti","win":0,"draw":1,"loss":5,"for":4,"against":15,"isRemoved":true,"removedNote":"Romanian league suspended due to WW1"}
 ][
 {"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":6,"draw":3,"loss":1,"for":27,"against":9,"isChampion":true},
 {"country":"swe","name":"AIK","id":"AIK_Fotboll","win":7,"draw":1,"loss":2,"for":33,"against":13},
