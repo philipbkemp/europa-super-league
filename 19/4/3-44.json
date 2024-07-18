@@ -76,7 +76,7 @@
 ][
 {"country":"aut-naz","name":"First Vienna FC","id":"First_Vienna_FC","win":13,"draw":1,"loss":2,"for":76,"against":27,"isChampion":true},
 {"country":"aut-naz","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":9,"draw":4,"loss":3,"for":43,"against":33},
-{"country":"aut-naz","name":"Wiener AC","id":"Wiener_AC","win":7,"draw":2,"loss":7,"for":35,"against":37},
+{"country":"aut-naz","name":"Wiener AC","id":"wiener_ac","win":7,"draw":2,"loss":7,"for":35,"against":37},
 {"country":"aut-naz","name":"FC Wien","id":"FC_Wien","win":6,"draw":4,"loss":6,"for":30,"against":34},
 {"country":"aut-naz","name":"FK Austria Wien","id":"FK_Austria_Wien","win":8,"draw":0,"loss":8,"for":35,"against":41},
 {"country":"aut-naz","name":"LSV Markersdorf an der Pielach","id":"LSV_Markersdorf_an_der_Pielach","win":6,"draw":3,"loss":7,"for":43,"against":45,"isRemoved":true,"isNew":true},

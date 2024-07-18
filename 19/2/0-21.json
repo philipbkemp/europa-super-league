@@ -138,7 +138,7 @@
 {"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":7,"draw":7,"loss":10,"for":33,"against":47},
 {"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":6,"draw":8,"loss":10,"for":27,"against":41},
 {"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":6,"draw":5,"loss":13,"for":40,"against":56},
-{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":6,"draw":5,"loss":13,"for":37,"against":67,"isRemoved":true}
+{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":6,"draw":5,"loss":13,"for":37,"against":67,"isRemoved":true}
 ][
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":2,"draw":0,"loss":0,"for":9,"against":5,"isChampion":true},
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":1,"draw":0,"loss":1,"for":5,"against":5},

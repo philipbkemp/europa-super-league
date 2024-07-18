@@ -110,7 +110,7 @@
 ][
 {"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":15,"draw":3,"loss":4,"for":57,"against":31,"isChampion":true},
 {"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":13,"draw":4,"loss":5,"for":63,"against":30},
-{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":11,"draw":8,"loss":3,"for":49,"against":28},
+{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":11,"draw":8,"loss":3,"for":49,"against":28},
 {"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":11,"draw":3,"loss":8,"for":50,"against":43},
 {"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":10,"draw":5,"loss":7,"for":51,"against":42},
 {"country":"aut","name":"SC Nicholson","id":"SC_Nicholson","win":11,"draw":1,"loss":10,"for":47,"against":45,"isNew":true},

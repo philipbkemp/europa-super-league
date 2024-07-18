@@ -109,7 +109,7 @@
 {"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":8,"draw":7,"loss":9,"for":36,"against":43},
 {"country":"aut","name":"Wiener AF","id":"Wiener_AF","win":8,"draw":5,"loss":11,"for":34,"against":53},
 {"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":6,"draw":6,"loss":12,"for":42,"against":54,"isRemoved":true},
-{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":5,"draw":7,"loss":12,"for":36,"against":58,"isRemoved":true,"isReturning":true},
+{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":5,"draw":7,"loss":12,"for":36,"against":58,"isRemoved":true,"isReturning":true},
 {"country":"aut","name":"SC Rudolfshügel","id":"SC_Rudolfshügel","win":6,"draw":3,"loss":15,"for":30,"against":56,"isRemoved":true}
 ][
 {"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":2,"draw":0,"loss":0,"for":7,"against":0,"isChampion":true},

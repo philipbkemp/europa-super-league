@@ -186,7 +186,7 @@
 {"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":8,"draw":4,"loss":8,"for":34,"against":36},
 {"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":8,"draw":3,"loss":9,"for":45,"against":36},
 {"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":7,"draw":5,"loss":8,"for":25,"against":39},
-{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":6,"draw":4,"loss":10,"for":31,"against":45},
+{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":6,"draw":4,"loss":10,"for":31,"against":45},
 {"country":"aut","name":"SCR Hochstädt","id":"SCR_Hochstädt","win":5,"draw":3,"loss":12,"for":29,"against":51,"isNew":true,"isRemoved":true},
 {"country":"aut","name":"Post SV","id":"Post_SV_Wien","win":2,"draw":1,"loss":17,"for":30,"against":83,"isReturning":true,"isRemoved":true}
 ][

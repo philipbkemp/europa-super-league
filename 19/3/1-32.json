@@ -139,7 +139,7 @@
 {"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":13,"draw":5,"loss":4,"for":57,"against":27},
 {"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":15,"draw":1,"loss":6,"for":70,"against":39},
 {"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":13,"draw":3,"loss":6,"for":64,"against":39},
-{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":9,"draw":6,"loss":7,"for":45,"against":40},
+{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":9,"draw":6,"loss":7,"for":45,"against":40},
 {"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":7,"draw":7,"loss":8,"for":32,"against":42},
 {"country":"aut","name":"Brigittenauer AC","id":"Brigittenauer_AC","win":8,"draw":5,"loss":9,"for":28,"against":43,"isReturning":true},
 {"country":"aut","name":"SC Nicholson","id":"SC_Nicholson","win":6,"draw":7,"loss":9,"for":36,"against":43,"isRemoved":true},

@@ -121,7 +121,7 @@
 {"country":"aut","name":"Hakoah Vienna","id":"Hakoah_Vienna","win":9,"draw":8,"loss":7,"for":56,"against":50},
 {"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":11,"draw":2,"loss":11,"for":45,"against":57},
 {"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":8,"draw":8,"loss":8,"for":51,"against":53},
-{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":8,"draw":5,"loss":11,"for":42,"against":47},
+{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":8,"draw":5,"loss":11,"for":42,"against":47},
 {"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":7,"draw":5,"loss":12,"for":43,"against":53,"isReturning":true},
 {"country":"aut","name":"SC Rudolfshügel","id":"SC_Rudolfshügel","win":3,"draw":6,"loss":15,"for":38,"against":68,"isReturning":true},
 {"country":"aut","name":"ASV Hertha","id":"ASV_Hertha","win":3,"draw":5,"loss":16,"for":35,"against":64,"isRemoved":true,"isReturning":true}

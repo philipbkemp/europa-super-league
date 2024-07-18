@@ -215,7 +215,7 @@
 {"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":11,"draw":5,"loss":10,"for":49,"against":42},
 {"country":"aut","name":"SK Admira Wien Energie","id":"SK_Admira_Wien","win":11,"draw":5,"loss":10,"for":52,"against":49},
 {"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":8,"draw":8,"loss":10,"for":38,"against":33},
-{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":7,"draw":10,"loss":9,"for":33,"against":38},
+{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":7,"draw":10,"loss":9,"for":33,"against":38},
 {"country":"aut","name":"1. Wiener Neustädter SC","id":"1._Wiener_Neustädter_SC","win":8,"draw":6,"loss":12,"for":33,"against":47,"isReturning":true},
 {"country":"aut","name":"Kapfenberger SV","id":"Kapfenberger_SV","win":8,"draw":2,"loss":16,"for":38,"against":56,"isReturning":true},
 {"country":"aut","name":"SVS Linz","id":"SVS_Linz","win":5,"draw":7,"loss":14,"for":42,"against":56,"isRemoved":true},

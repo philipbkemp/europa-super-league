@@ -173,7 +173,7 @@
 {"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":6,"draw":4,"loss":12,"for":44,"against":52},
 {"country":"aut","name":"SC Libertas Wien","id":"SC_Libertas","win":6,"draw":4,"loss":12,"for":37,"against":46},
 {"country":"aut","name":"Hakoah Vienna","id":"Hakoah_Vienna","win":6,"draw":3,"loss":13,"for":36,"against":58},
-{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":5,"draw":2,"loss":15,"for":37,"against":57,"isRemoved":true}
+{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":5,"draw":2,"loss":15,"for":37,"against":57,"isRemoved":true}
 ][
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":2,"draw":1,"loss":0,"for":6,"against":2,"isChampion":true},
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":2,"draw":0,"loss":1,"for":10,"against":2},

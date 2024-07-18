@@ -183,7 +183,7 @@
 {"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":9,"draw":4,"loss":13,"for":52,"against":57},
 {"country":"aut","name":"Kremser SC","id":"Kremser_SC","win":9,"draw":4,"loss":13,"for":53,"against":79,"isNew":true},
 {"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":9,"draw":3,"loss":14,"for":50,"against":46},
-{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":8,"draw":5,"loss":13,"for":58,"against":62,"isReturning":true},
+{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":8,"draw":5,"loss":13,"for":58,"against":62,"isReturning":true},
 {"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":9,"draw":3,"loss":14,"for":48,"against":66},
 {"country":"aut","name":"SV Austria Salzburg","id":"SV_Austria_Salzburg","win":6,"draw":3,"loss":17,"for":55,"against":83,"isRemoved":true},
 {"country":"aut","name":"FC Stadlau","id":"FC_Stadlau","win":2,"draw":4,"loss":20,"for":26,"against":98,"isRemoved":true}

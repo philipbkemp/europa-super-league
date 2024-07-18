@@ -182,7 +182,7 @@
 {"country":"aut","name":"SV Austria Salzburg","id":"SV_Austria_Salzburg","win":9,"draw":5,"loss":12,"for":43,"against":67,"isNew":true},
 {"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":7,"draw":8,"loss":11,"for":41,"against":43},
 {"country":"aut","name":"FC Wien","id":"FC_Wien","win":8,"draw":5,"loss":13,"for":40,"against":62},
-{"country":"aut","name":"Wiener AC","id":"Wiener_AC","win":9,"draw":0,"loss":17,"for":42,"against":69,"isReturning":true,"isRemoved":true},
+{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":9,"draw":0,"loss":17,"for":42,"against":69,"isReturning":true,"isRemoved":true},
 {"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":6,"draw":4,"loss":16,"for":48,"against":69,"isRemoved":true},
 {"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":2,"draw":3,"loss":21,"for":33,"against":108,"isRemoved":true}
 ][

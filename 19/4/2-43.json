@@ -90,7 +90,7 @@
 {"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":2,"draw":3,"loss":17,"for":31,"against":75,"isRemoved":true,"isReturning":true}
 ][
 {"country":"aut-naz","name":"First Vienna FC","id":"First_Vienna_FC","win":13,"draw":4,"loss":3,"for":87,"against":56,"isChampion":true},
-{"country":"aut-naz","name":"Wiener AC","id":"Wiener_AC","win":10,"draw":5,"loss":5,"for":45,"against":29,"isReturning":true},
+{"country":"aut-naz","name":"Wiener AC","id":"wiener_ac","win":10,"draw":5,"loss":5,"for":45,"against":29,"isReturning":true},
 {"country":"aut-naz","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":11,"draw":3,"loss":6,"for":61,"against":41},
 {"country":"aut-naz","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":10,"draw":5,"loss":5,"for":55,"against":44},
 {"country":"aut-naz","name":"FK Austria Wien","id":"FK_Austria_Wien","win":11,"draw":2,"loss":7,"for":53,"against":52},
