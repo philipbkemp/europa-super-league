@@ -543,7 +543,7 @@ if ( typeof(winners) !== "undefined" ) {
 
 $(document).ready(function(){
 	$('[data-bs-toggle="tooltip"]').tooltip({
-		container: '#divisionsTables, #winnersTables, #historyTables',
+		container: '#divisionsTables, #winnersTables, #historyTables, .club-list',
 		html: true
 	});
 });
