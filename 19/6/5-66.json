@@ -225,7 +225,7 @@
 {"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":4,"draw":3,"loss":3,"for":18,"against":15},
 {"country":"isl","name":"ÍBA","id":"Knattspyrnufélag_Akureyrar","win":5,"draw":1,"loss":4,"for":14,"against":19,"isReturning":true},
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":3,"draw":1,"loss":6,"for":19,"against":23},
-{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":2,"draw":1,"loss":7,"for":10,"against":19,"isRemoved":true}
+{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":2,"draw":1,"loss":7,"for":10,"against":19,"isRemoved":true}
 ][
 {"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":19,"draw":4,"loss":3,"for":62,"against":24,"isChampion":true},
 {"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":10,"draw":12,"loss":4,"for":29,"against":22,"isReturning":true},

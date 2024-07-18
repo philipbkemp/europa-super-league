@@ -223,7 +223,7 @@
 {"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":6,"draw":5,"loss":7,"for":29,"against":26},
 {"country":"isl","name":"FH","id":"FH_men%27s_football","win":5,"draw":7,"loss":6,"for":29,"against":30},
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":5,"draw":5,"loss":8,"for":23,"against":22},
-{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":5,"draw":5,"loss":8,"for":29,"against":33},
+{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":5,"draw":5,"loss":8,"for":29,"against":33},
 {"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":4,"draw":8,"loss":6,"for":25,"against":30,"isRemoved":true},
 {"country":"isl","name":"Þór","id":"Þór_Akureyri","win":3,"draw":4,"loss":11,"for":22,"against":43,"isRemoved":true,"isReturning":true}
 ][

@@ -233,7 +233,7 @@
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":9,"draw":11,"loss":7,"for":42,"against":40},
 {"country":"isl","name":"Stjarnan","id":"Stjarnan_men%27s_football","win":10,"draw":7,"loss":10,"for":44,"against":52},
 {"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":11,"draw":4,"loss":12,"for":56,"against":48},
-{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":7,"draw":10,"loss":10,"for":53,"against":63,"isReturning":true},
+{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":7,"draw":10,"loss":10,"for":53,"against":63,"isReturning":true},
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":8,"draw":8,"loss":11,"for":43,"against":50,"isReturning":true},
 {"country":"isl","name":"Leiknir","id":"Leiknir_Reykjavík","win":5,"draw":6,"loss":16,"for":28,"against":66,"isRemoved":true},
 {"country":"isl","name":"FH","id":"FH_men%27s_football","win":6,"draw":7,"loss":14,"for":36,"against":46},

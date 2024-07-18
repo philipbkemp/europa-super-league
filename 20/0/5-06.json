@@ -228,7 +228,7 @@
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":8,"draw":1,"loss":9,"for":22,"against":24},
 {"country":"isl","name":"Grindavík","id":"Grindavík_men%27s_football","win":5,"draw":3,"loss":10,"for":23,"against":41},
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":5,"draw":2,"loss":11,"for":18,"against":30},
-{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":5,"draw":2,"loss":11,"for":19,"against":32,"isRemoved":true},
+{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":5,"draw":2,"loss":11,"for":19,"against":32,"isRemoved":true},
 {"country":"isl","name":"Þróttur","id":"Knattspyrnufélagið_Þróttur","win":4,"draw":4,"loss":10,"for":21,"against":32,"isRemoved":true,"isReturning":true}
 ][
 {"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":20,"draw":6,"loss":4,"for":47,"against":17,"isChampion":true},

@@ -228,7 +228,7 @@
 ][
 {"country":"isl","name":"FH","id":"FH_men%27s_football","win":15,"draw":2,"loss":5,"for":50,"against":25,"isChampion":true},
 {"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":14,"draw":4,"loss":4,"for":54,"against":31},
-{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":13,"draw":1,"loss":8,"for":31,"against":21},
+{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":13,"draw":1,"loss":8,"for":31,"against":21},
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":12,"draw":3,"loss":7,"for":38,"against":23},
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":11,"draw":2,"loss":9,"for":34,"against":28},
 {"country":"isl","name":"Fjölnir","id":"Ungmennafélagið_Fjölnir","win":10,"draw":1,"loss":11,"for":39,"against":33,"isNew":true},

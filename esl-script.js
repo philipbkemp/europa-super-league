@@ -18,8 +18,8 @@ const countries = {
 	"swe": "Sweden"
 };
 
-clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac"];
-clubPages = [];
+clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram"];
+//clubPages = [];
 
 if ( $("h1 .placeholder").length !== 0 ) {
 
@@ -237,23 +237,24 @@ if ( $("h1 .placeholder").length !== 0 ) {
 		if ( saveRow.length !== 0 ) {
 			$sr = $(saveRow[0]);
 			original = $sr.html();
-			year = $("h1").text().replace("Europa Super League","").replace("Home","").trim();
-			year = $("<A></A>").attr("href","../../"+year[0]+""+year[1]+"/"+year[2]+"/"+year[3]+"-"+year.split("-").pop()+".html").html(year)
-			$sr.prepend( $("<TD></TD>").html( year ) );
-			$($sr.find("td")[1]).prepend( $($("#"+v).parent()).attr("id").split("_")[1].toUpperCase() );
-			country = $sr.find("img[src*='/flags/']");
-			countryFlag = country.attr("src").split("/").pop().split(".")[0].toLowerCase();
-			$(country.parent()).remove();
-			classes = $sr.attr("class") || "";
-			if ( $sr.html().indexOf("<td>A1</td>") === -1 ) {
-				classes = classes.replace("champion","");
+			if ( original.indexOf("<a ") === -1 ) {
+				year = $("h1").text().replace("Europa Super League","").replace("Home","").trim();
+				year = $("<A></A>").attr("href","../../"+year[0]+""+year[1]+"/"+year[2]+"/"+year[3]+"-"+year.split("-").pop()+".html").html(year)
+				$sr.prepend( $("<TD></TD>").html( year ) );
+				$($sr.find("td")[1]).prepend( $($("#"+v).parent()).attr("id").split("_")[1].toUpperCase() );
+				country = $sr.find("img[src*='/flags/']");
+				countryFlag = country.attr("src").split("/").pop().split(".")[0].toLowerCase();
+				$(country.parent()).remove();
+				classes = $sr.attr("class") || "";
+				if ( $sr.html().indexOf("<td>A1</td>") === -1 ) {
+					classes = classes.replace("champion","");
+				}
+				console.warn(v);
+				console.log("<tr class='"+classes+"'>"+$sr.html()+"</tr>");
+				$sr.html(original);
+				clubName = $($sr.find("th")[0]);
+				clubName.html( clubName.html().replace(clubName.text(),"<a href='../../clubs/"+countryFlag+"/"+$sr.attr("id")+".html'>"+clubName.text()+"</a>") );
 			}
-			console.warn(v);
-			console.log("<tr class='"+classes+"'>"+$sr.html()+"</tr>");
-			$sr.html(original);
-			clubName = $($sr.find("th")[0]);
-			clubName.html( clubName.html().replace(clubName.text(),"<a href='../../clubs/"+countryFlag+"/"+$sr.attr("id")+".html'>"+clubName.text()+"</a>") );
-			console.log($sr.find("th").html().split("</a>")[0]+"</a>");
 		}
 	});
 }

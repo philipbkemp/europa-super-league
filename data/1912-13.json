@@ -100,6 +100,6 @@
 	{"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":5,"draw":3,"loss":10,"for":25,"against":49},
 	{"country":"aut","name":"ASV Hertha","id":"ASV_Hertha","win":3,"draw":0,"loss":15,"for":31,"against":42},
 	{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":1,"draw":1,"loss":0,"for":4,"against":1,"isChampion":true,"isRemoved":true,"removedNote":"League not run next season","isNew":true},
-	{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":1,"draw":1,"loss":0,"for":1,"against":1,"isRemoved":true,"removedNote":"League not run next season","isNew":true},
+	{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":1,"draw":1,"loss":0,"for":1,"against":1,"isRemoved":true,"removedNote":"League not run next season","isNew":true},
 	{"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":0,"draw":0,"loss":1,"for":0,"against":3,"isRemoved":true,"removedNote":"Withdrew after first game","isNew":true}
 ]

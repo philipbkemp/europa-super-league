@@ -150,7 +150,7 @@
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":3,"draw":0,"loss":1,"for":14,"against":4,"isReturning":true},
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":2,"draw":0,"loss":2,"for":11,"against":10,"isReturning":true,"isRemoved":true},
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":0,"draw":1,"loss":3,"for":3,"against":13,"isReturning":true},
-{"country":"isl","name":"Fram","id":"Knattspyrnufélagið_Fram","win":0,"draw":1,"loss":3,"for":2,"against":19,"isReturning":true}
+{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":0,"draw":1,"loss":3,"for":2,"against":19,"isReturning":true}
 ][
 {"country":"pol","name":"Garbarnia Kraków","id":"Garbarnia_Kraków","win":13,"draw":4,"loss":5,"for":51,"against":22,"isChampion":true},
 {"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":13,"draw":3,"loss":6,"for":53,"against":30},

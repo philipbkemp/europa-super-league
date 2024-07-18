@@ -1,3 +1,4 @@
+- check there are no missing countries
 - format JSON file
 - move file to /data folder
 - delete original JSON file
@@ -13,10 +14,12 @@
 - PROMOTE AND RELEGATE?
 - run "newTeams()" and update "data-teams" attributes
 - reload, repaste JSON
-- run "checkRemoved()" pasting results from previous season
+- run "checkRemoved()" pasting results from previous season, making sure it gives a list of newly removed teams and no errors
 - copy HTML element and paste into HTML file
 - reload page and verify
+- paste existing team records into existing team pages
 - run "getWinner()" and paste into winners file
 - verify HTML version of winners file
 - add link to new season on homepage
+- does the champion have their own page? if not, make it
 - push to GIT
