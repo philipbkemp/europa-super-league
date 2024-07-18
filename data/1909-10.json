@@ -81,7 +81,7 @@
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":6,"draw":1,"loss":9,"for":27,"against":33},
 	{"country":"hun","name":"Törekvés SE","id":"Törekvés_SE","win":4,"draw":2,"loss":10,"for":19,"against":31},
 	{"country":"hun","name":"Magyar AC","id":"Magyar_AC","win":3,"draw":1,"loss":12,"for":26,"against":49},
-	{"country":"mlt","name":"Floriana","id":"Floriana_F.C.","win":4,"draw":0,"loss":0,"for":6,"against":0,"isChampion":true,"isNew":true,"isRemoved":true,"removedNote":"Malta league not run next season"},
+	{"country":"mlt","name":"Floriana","id":"floriana_fc","win":4,"draw":0,"loss":0,"for":6,"against":0,"isChampion":true,"isNew":true,"isRemoved":true,"removedNote":"Malta league not run next season"},
 	{"country":"mlt","name":"Sliema Wanderers","id":"Sliema_Wanderers_F.C.","win":2,"draw":1,"loss":1,"for":5,"against":2,"isNew":true,"isRemoved":true,"removedNote":"Malta league not run next season"},
 	{"country":"mlt","name":"St. Joseph's United","id":"st._joseph%27s_united","win":2,"draw":0,"loss":2,"for":4,"against":4,"isNew":true,"isRemoved":true,"removedNote":"Malta league not run next season"},
 	{"country":"mlt","name":"Boys Empire League","id":"boys_empire_league","win":1,"draw":1,"loss":2,"for":7,"against":4,"isNew":true,"isRemoved":true,"removedNote":"Malta league not run next season"},

@@ -178,7 +178,7 @@
 {"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":6,"draw":2,"loss":5,"for":18,"against":15},
 {"country":"mlt","name":"Żurrieq F.C.","id":"Żurrieq_F.C.","win":5,"draw":4,"loss":4,"for":18,"against":14},
 {"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":5,"draw":4,"loss":4,"for":14,"against":12},
-{"country":"mlt","name":"Floriana F.C.","id":"Floriana_F.C.","win":4,"draw":5,"loss":4,"for":11,"against":11,"isRemoved":true},
+{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":4,"draw":5,"loss":4,"for":11,"against":11,"isRemoved":true},
 {"country":"mlt","name":"Marsa F.C.","id":"Marsa_F.C.","win":0,"draw":1,"loss":12,"for":6,"against":35,"isRemoved":true,"isReturning":true}
 ][
 {"country":"rou","name":"Steaua București","id":"FCSB","win":23,"draw":8,"loss":3,"for":71,"against":24,"isChampion":true},
