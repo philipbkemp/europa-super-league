@@ -58,7 +58,7 @@
 {"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":11,"draw":3,"loss":12,"for":37,"against":29,"isReturning":true},
 {"country":"bel","name":"La Gantoise","id":"K.A.A._Gent","win":7,"draw":9,"loss":10,"for":24,"against":33},
 {"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":9,"draw":3,"loss":14,"for":33,"against":44},
-{"country":"bel","name":"R.R.C. Bruxelles","id":"K.F.C._Rhodienne-De_Hoek","win":7,"draw":6,"loss":13,"for":25,"against":37,"isRemoved":true},
+{"country":"bel","name":"R.R.C. Bruxelles","id":"kfc_rhodienne_de_hoek","win":7,"draw":6,"loss":13,"for":25,"against":37,"isRemoved":true},
 {"country":"bel","name":"KV Mechelen","id":"K.V._Mechelen","win":4,"draw":11,"loss":11,"for":34,"against":47,"isRemoved":true,"isReturning":true},
 {"country":"bel","name":"White Star Woluwé A.C.","id":"R.W.D._Molenbeek_(1909)","win":5,"draw":4,"loss":17,"for":17,"against":53,"isRemoved":true,"isNew":true}
 ]

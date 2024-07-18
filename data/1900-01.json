@@ -39,7 +39,7 @@
 	{"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":5,"draw":6,"loss":9,"for":33,"against":43},
 	{"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":5,"draw":4,"loss":11,"for":22,"against":30},
 	{"country":"sco","name":"Partick Thistle","id":"Partick_Thistle_F.C.","win":4,"draw":2,"loss":14,"for":28,"against":49,"isRemoved":true,"isReturning":true},
-	{"country":"bel","name":"Racing Club de Bruxelles","id":"K.F.C._Rhodienne-De_Hoek","win":10,"draw":6,"loss":0,"for":44,"against":11,"isChampion":true,"isRemoved":true,"removedNote":"League moved to a group format for next season","isReturning":true},
+	{"country":"bel","name":"Racing Club de Bruxelles","id":"kfc_rhodienne_de_hoek","win":10,"draw":6,"loss":0,"for":44,"against":11,"isChampion":true,"isRemoved":true,"removedNote":"League moved to a group format for next season","isReturning":true},
 	{"country":"bel","name":"Beerschot A.C.","id":"K._Beerschot_V.A.C.","win":11,"draw":3,"loss":2,"for":47,"against":21,"isRemoved":true,"removedNote":"League moved to a group format for next season","isNew":true},
 	{"country":"bel","name":"Léopold Club de Bruxelles","id":"Léopold_FC","win":10,"draw":3,"loss":3,"for":37,"against":20,"isRemoved":true,"removedNote":"League moved to a group format for next season","isReturning":true},
 	{"country":"bel","name":"Athletic and Running Club de Bruxelles","id":"Athletic_and_Running_Club_de_Bruxelles","win":7,"draw":4,"loss":5,"for":39,"against":26,"isRemoved":true,"removedNote":"League moved to a group format for next season","isReturning":true},

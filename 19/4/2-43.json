@@ -21,7 +21,7 @@
 {"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":10,"draw":4,"loss":16,"for":62,"against":66},
 {"country":"bel","name":"Eendracht Alost","id":"S.C._Eendracht_Aalst","win":10,"draw":4,"loss":16,"for":45,"against":75},
 {"country":"bel","name":"CS La Forestoise","id":"R.C.S._La_Forestoise","win":9,"draw":5,"loss":16,"for":40,"against":92,"isReturning":true},
-{"country":"bel","name":"R.R.C. Bruxelles","id":"K.F.C._Rhodienne-De_Hoek","win":10,"draw":3,"loss":17,"for":61,"against":78,"isRemoved":true,"isReturning":true},
+{"country":"bel","name":"R.R.C. Bruxelles","id":"kfc_rhodienne_de_hoek","win":10,"draw":3,"loss":17,"for":61,"against":78,"isRemoved":true,"isReturning":true},
 {"country":"bel","name":"K Boom FC","id":"K._Boom_F.C.","win":7,"draw":3,"loss":20,"for":36,"against":90,"isRemoved":true}
 ]
 [

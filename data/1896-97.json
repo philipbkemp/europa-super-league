@@ -43,7 +43,7 @@
 	{"country":"nld","name":"Rapiditas Rotterdam","id":"Rapiditas_Rotterdam","win":5,"draw":1,"loss":6,"for":28,"against":25,"isRemoved":true,"removedReason":"League moved to regional groups from next season"},
 	{"country":"nld","name":"Victoria Rotterdam","id":"HV_Victoria","win":3,"draw":2,"loss":7,"for":19,"against":43,"isRemoved":true,"removedReason":"League moved to regional groups from next season"},
 	{"country":"nld","name":"Koninklijke HFC","id":"Koninklijke_HFC","win":1,"draw":0,"loss":11,"for":10,"against":51,"isRemoved":true,"removedReason":"League moved to regional groups from next season"},
-	{"country":"bel","name":"Racing Club de Bruxelles","id":"K.F.C._Rhodienne-De_Hoek","win":8,"draw":2,"loss":0,"for":45,"against":10,"isChampion":true},
+	{"country":"bel","name":"Racing Club de Bruxelles","id":"kfc_rhodienne_de_hoek","win":8,"draw":2,"loss":0,"for":45,"against":10,"isChampion":true},
 	{"country":"bel","name":"F.C. Liégeois","id":"RFC_Liège","win":6,"draw":2,"loss":2,"for":31,"against":13},
 	{"country":"bel","name":"Antwerp F.C.","id":"Royal_Antwerp_F.C.","win":6,"draw":1,"loss":3,"for":27,"against":10},
 	{"country":"bel","name":"Léopold Club de Bruxelles","id":"Léopold_FC","win":4,"draw":0,"loss":6,"for":24,"against":33},

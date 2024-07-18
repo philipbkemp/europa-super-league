@@ -68,7 +68,7 @@
 {"country":"bel","name":"RC de Gand","id":"K.R.C._Gent","win":7,"draw":8,"loss":11,"for":53,"against":69},
 {"country":"bel","name":"K.R.C. Mechelen","id":"K.R.C._Mechelen","win":6,"draw":8,"loss":12,"for":40,"against":58},
 {"country":"bel","name":"Belgica FC Edegem","id":"K.V.V._Belgica_Edegem_Sport","win":8,"draw":4,"loss":14,"for":66,"against":76,"isNew":true},
-{"country":"bel","name":"R.R.C. Bruxelles","id":"K.F.C._Rhodienne-De_Hoek","win":7,"draw":3,"loss":16,"for":47,"against":97,"isRemoved":true},
+{"country":"bel","name":"R.R.C. Bruxelles","id":"kfc_rhodienne_de_hoek","win":7,"draw":3,"loss":16,"for":47,"against":97,"isRemoved":true},
 {"country":"bel","name":"Tilleur","id":"R.F.C._Tilleur","win":6,"draw":1,"loss":19,"for":43,"against":92,"isRemoved":true,"isReturning":true}
 ]
 [

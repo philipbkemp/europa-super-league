@@ -65,7 +65,7 @@
 {"country":"bel","name":"Beerschot","id":"K._Beerschot_V.A.C.","win":12,"draw":4,"loss":10,"for":51,"against":54},
 {"country":"bel","name":"Daring Club","id":"R._Daring_Club_Molenbeek","win":8,"draw":8,"loss":10,"for":43,"against":45},
 {"country":"bel","name":"KV Mechelen","id":"K.V._Mechelen","win":8,"draw":7,"loss":11,"for":49,"against":54},
-{"country":"bel","name":"R.R.C. Bruxelles","id":"K.F.C._Rhodienne-De_Hoek","win":7,"draw":6,"loss":13,"for":43,"against":58,"isReturning":true},
+{"country":"bel","name":"R.R.C. Bruxelles","id":"kfc_rhodienne_de_hoek","win":7,"draw":6,"loss":13,"for":43,"against":58,"isReturning":true},
 {"country":"bel","name":"K.R.C. Mechelen","id":"K.R.C._Mechelen","win":8,"draw":4,"loss":14,"for":43,"against":57},
 {"country":"bel","name":"RC de Gand","id":"K.R.C._Gent","win":7,"draw":3,"loss":16,"for":40,"against":78},
 {"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":6,"draw":4,"loss":16,"for":39,"against":73,"isRemoved":true},
