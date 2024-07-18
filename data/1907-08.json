@@ -65,7 +65,7 @@
 	{"country":"hun","name":"Magyar AC","id":"Magyar_AC","win":11,"draw":2,"loss":3,"for":83,"against":20},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":8,"draw":2,"loss":6,"for":20,"against":27},
 	{"country":"hun","name":"Törekvés SE","id":"Törekvés_SE","win":6,"draw":2,"loss":8,"for":25,"against":47,"isReturning":true},
-	{"country":"hun","name":"Budapesti TC","id":"Budapesti_TC","win":5,"draw":3,"loss":8,"for":48,"against":27,"isReturning":true},
+	{"country":"hun","name":"Budapesti TC","id":"budapesti_tc","win":5,"draw":3,"loss":8,"for":48,"against":27,"isReturning":true},
 	{"country":"hun","name":"Fővárosi TC","id":"Terézvárosi_TC","win":4,"draw":2,"loss":10,"for":26,"against":48},
 	{"country":"hun","name":"Budapesti AK","id":"Budapesti_AK","win":4,"draw":2,"loss":10,"for":24,"against":51},
 	{"country":"hun","name":"Typographia SC","id":"Typographia_SC","win":1,"draw":0,"loss":15,"for":11,"against":82}

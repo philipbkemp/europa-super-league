@@ -45,7 +45,7 @@
 	{"country":"sco","name":"Motherwell","id":"Motherwell_F.C.","win":6,"draw":3,"loss":17,"for":26,"against":61,"isNew":true},
 	{"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":4,"draw":5,"loss":17,"for":24,"against":63},
 	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":10,"draw":1,"loss":3,"for":51,"against":11,"isChampion":true},
-	{"country":"hun","name":"Budapesti TC","id":"Budapesti_TC","win":8,"draw":3,"loss":3,"for":34,"against":9},
+	{"country":"hun","name":"Budapesti TC","id":"budapesti_tc","win":8,"draw":3,"loss":3,"for":34,"against":9},
 	{"country":"hun","name":"MTK Budapest FC","id":"MTK_Budapest_FC","win":9,"draw":0,"loss":5,"for":41,"against":17,"isNew":true},
 	{"country":"hun","name":"Budapesti Postás SE","id":"Budapesti_Postás_SE","win":7,"draw":3,"loss":4,"for":28,"against":12,"isNew":true},
 	{"country":"hun","name":"33 FC","id":"33_FC","win":6,"draw":3,"loss":5,"for":23,"against":32},

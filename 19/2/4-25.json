@@ -80,7 +80,7 @@
 {"country":"hun","name":"Budapesti EAC","id":"Budapesti_EAC","win":7,"draw":4,"loss":11,"for":21,"against":45,"isNew":true},
 {"country":"hun","name":"Törekvés SE","id":"Törekvés_SE","win":4,"draw":8,"loss":10,"for":30,"against":34},
 {"country":"hun","name":"VII. Kerületi SC","id":"Zuglói_AC","win":4,"draw":7,"loss":11,"for":23,"against":42,"isRemoved":true},
-{"country":"hun","name":"Budapesti TC","id":"Budapesti_TC","win":3,"draw":6,"loss":13,"for":13,"against":26,"isRemoved":true}
+{"country":"hun","name":"Budapesti TC","id":"budapesti_tc","win":3,"draw":6,"loss":13,"for":13,"against":26,"isRemoved":true}
 ][
 {"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":9,"draw":3,"loss":2,"for":42,"against":14},
 {"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":9,"draw":3,"loss":2,"for":41,"against":14,"isChampion":true},

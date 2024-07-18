@@ -76,7 +76,7 @@
 	{"country":"hun","name":"MTK Budapest FC","id":"MTK_Budapest_FC","win":11,"draw":3,"loss":2,"for":42,"against":24},
 	{"country":"hun","name":"Nemzeti SC","id":"Nemzeti_SC","win":9,"draw":0,"loss":7,"for":33,"against":30,"isNew":true},
 	{"country":"hun","name":"Budapesti AK","id":"Budapesti_AK","win":8,"draw":0,"loss":8,"for":23,"against":28},
-	{"country":"hun","name":"Budapesti TC","id":"Budapesti_TC","win":6,"draw":2,"loss":8,"for":32,"against":34},
+	{"country":"hun","name":"Budapesti TC","id":"budapesti_tc","win":6,"draw":2,"loss":8,"for":32,"against":34},
 	{"country":"hun","name":"Terézvárosi TC","id":"Terézvárosi_TC","win":6,"draw":2,"loss":8,"for":22,"against":30},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":6,"draw":1,"loss":9,"for":27,"against":33},
 	{"country":"hun","name":"Törekvés SE","id":"Törekvés_SE","win":4,"draw":2,"loss":10,"for":19,"against":31},

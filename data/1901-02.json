@@ -40,7 +40,7 @@
 	{"country":"sco","name":"Queen's Park","id":"Queen%27s_Park_F.C.","win":5,"draw":4,"loss":9,"for":21,"against":32},
 	{"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":4,"draw":5,"loss":9,"for":16,"against":31},
 	{"country":"sco","name":"Morton","id":"Greenock_Morton_F.C.","win":1,"draw":5,"loss":12,"for":18,"against":40},
-	{"country":"hun","name":"Budapesti TC","id":"Budapesti_TC","win":8,"draw":0,"loss":0,"for":37,"against":5,"isChampion":true,"isNew":true},
+	{"country":"hun","name":"Budapesti TC","id":"budapesti_tc","win":8,"draw":0,"loss":0,"for":37,"against":5,"isChampion":true,"isNew":true},
 	{"country":"hun","name":"Magyar Úszó Egylet","id":"Magyar_Úszó_Egylet","win":5,"draw":0,"loss":3,"for":17,"against":20,"isNew":true},
 	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":3,"draw":1,"loss":4,"for":20,"against":28,"isNew":true},
 	{"country":"hun","name":"Műegyetemi AFC","id":"Műegyetemi_AFC","win":2,"draw":1,"loss":5,"for":11,"against":8,"isRemoved":true,"isNew":true,"removedNote":"Withdrew after game 4"},

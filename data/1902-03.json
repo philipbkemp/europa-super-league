@@ -42,7 +42,7 @@
 	{"country":"sco","name":"Queen's Park","id":"Queen%27s_Park_F.C.","win":5,"draw":5,"loss":12,"for":33,"against":48},
 	{"country":"sco","name":"Port Glasgow Athletic","id":"Port_Glasgow_Athletic_F.C.","win":3,"draw":5,"loss":14,"for":26,"against":49,"isNew":true},
 	{"country":"sco","name":"Morton","id":"Greenock_Morton_F.C.","win":2,"draw":5,"loss":15,"for":22,"against":55},
-	{"country":"hun","name":"Budapesti TC","id":"Budapesti_TC","win":7,"draw":1,"loss":0,"for":31,"against":4,"isChampion":true},
+	{"country":"hun","name":"Budapesti TC","id":"budapesti_tc","win":7,"draw":1,"loss":0,"for":31,"against":4,"isChampion":true},
 	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":4,"draw":1,"loss":3,"for":14,"against":13},
 	{"country":"hun","name":"33 FC","id":"33_FC","win":3,"draw":3,"loss":2,"for":11,"against":12,"isNew":true},
 	{"country":"hun","name":"Budapesti SC","id":"Budapesti_SC","win":2,"draw":0,"loss":6,"for":4,"against":33,"isRemoved":true},
