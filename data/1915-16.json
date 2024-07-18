@@ -19,7 +19,7 @@
 	{"country":"sco","name":"Queen's Park","id":"Queen%27s_Park_F.C.","win":11,"draw":6,"loss":21,"for":53,"against":100},
 	{"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":9,"draw":7,"loss":22,"for":44,"against":71},
 	{"country":"sco","name":"Raith Rovers","id":"Raith_Rovers_F.C.","win":9,"draw":5,"loss":24,"for":30,"against":65},
-	{"country":"lux","name":"US Hollerich Bonnevoie","id":"US_Hollerich_Bonnevoie","win":7,"draw":2,"loss":1,"for":35,"against":13,"isChampion":true,"isNew":true},
+	{"country":"lux","name":"US Hollerich Bonnevoie","id":"us_hollerich_bonnevoie","win":7,"draw":2,"loss":1,"for":35,"against":13,"isChampion":true,"isNew":true},
 	{"country":"lux","name":"Sporting Club Luxembourg","id":"SC_Luxembourg","win":6,"draw":2,"loss":2,"for":23,"against":16,"isNew":true},
 	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":3,"draw":4,"loss":3,"for":28,"against":23,"isNew":true},
 	{"country":"lux","name":"Racing Club Luxembourg","id":"Racing_Club_Luxembourg","win":4,"draw":2,"loss":4,"for":23,"against":19,"isNew":true},

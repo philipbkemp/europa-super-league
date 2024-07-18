@@ -97,7 +97,7 @@
 {"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":8,"draw":1,"loss":1,"for":32,"against":14,"isChampion":true},
 {"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":6,"draw":1,"loss":3,"for":24,"against":23,"isReturning":true},
 {"country":"lux","name":"Sporting Club Luxembourg","id":"SC_Luxembourg","win":4,"draw":2,"loss":4,"for":27,"against":22},
-{"country":"lux","name":"US Hollerich Bonnevoie","id":"US_Hollerich_Bonnevoie","win":4,"draw":1,"loss":5,"for":17,"against":18,"isRemoved":true},
+{"country":"lux","name":"US Hollerich Bonnevoie","id":"us_hollerich_bonnevoie","win":4,"draw":1,"loss":5,"for":17,"against":18,"isRemoved":true},
 {"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":3,"draw":1,"loss":6,"for":18,"against":22},
 {"country":"lux","name":"Racing Club Luxembourg","id":"Racing_Club_Luxembourg","win":2,"draw":0,"loss":8,"for":17,"against":36}
 ][
