@@ -150,4 +150,15 @@
 {"country":"nir","name":"Newry Town","id":"Newry_City_F.C.","win":5,"draw":5,"loss":12,"for":33,"against":53},
 {"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":4,"draw":6,"loss":12,"for":29,"against":39},
 {"country":"nir","name":"Barn","id":"Barn_F.C.","win":2,"draw":2,"loss":18,"for":25,"against":66}
+][
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":14,"draw":3,"loss":1,"for":65,"against":23,"isChampion":true},
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":13,"draw":3,"loss":2,"for":62,"against":21},
+{"country":"irl","name":"Fordsons","id":"Cork_F.C.","win":12,"draw":1,"loss":5,"for":58,"against":31,"bonusPoints":2,"bonusPointsReason":"Points given by Bohemians"},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":10,"draw":2,"loss":6,"for":50,"against":28,"deduct":-2,"deductReason":"Points given to Fordsons"},
+{"country":"irl","name":"Jacobs","id":"Jacobs_F.C.","win":7,"draw":4,"loss":7,"for":40,"against":48},
+{"country":"irl","name":"Brideville","id":"Brideville_F.C.","win":6,"draw":4,"loss":8,"for":36,"against":53,"isNew":true},
+{"country":"irl","name":"Athlone Town","id":"Athlone_Town_A.F.C.","win":7,"draw":1,"loss":10,"for":46,"against":56},
+{"country":"irl","name":"St. James's Gate","id":"St_James%27s_Gate_F.C.","win":4,"draw":3,"loss":11,"for":33,"against":48},
+{"country":"irl","name":"Bray Unknowns","id":"Bray_Unknowns_F.C.","win":4,"draw":3,"loss":11,"for":34,"against":55},
+{"country":"irl","name":"Pioneers","id":"Pioneers_F.C._(Dublin)","win":1,"draw":0,"loss":17,"for":21,"against":82,"isRemoved":true}
 ]

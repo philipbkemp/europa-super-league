@@ -252,4 +252,17 @@
 {"country":"nir","name":"Derry City","id":"Derry_City_F.C.","win":3,"draw":8,"loss":11,"for":22,"against":38},
 {"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":5,"draw":3,"loss":14,"for":31,"against":56},
 {"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":0,"draw":5,"loss":17,"for":17,"against":73}
+][
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":15,"draw":5,"loss":2,"for":55,"against":23,"isChampion":true},
+{"country":"irl","name":"Cork Celtic","id":"Cork_Celtic_F.C.","win":16,"draw":3,"loss":3,"for":71,"against":24},
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":14,"draw":3,"loss":5,"for":51,"against":32},
+{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":11,"draw":3,"loss":8,"for":48,"against":46},
+{"country":"irl","name":"Cork Hibernians","id":"Cork_Hibernians_F.C.","win":8,"draw":8,"loss":6,"for":37,"against":36,"bonusPoints":-1,"bonusPointsReason":"Due to a protest, points for a draw with Cork Hiberians were awarded to Cork Hibernians, and deducted from Limerick"},
+{"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":10,"draw":5,"loss":7,"for":41,"against":34,"deduct":-1,"deductReason":"Due to a protest, points for a draw with Cork Hiberians were awarded to Cork Hibernians, and deducted from Limerick"},
+{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":8,"draw":6,"loss":8,"for":45,"against":40},
+{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":8,"draw":5,"loss":9,"for":42,"against":36},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":6,"draw":5,"loss":11,"for":40,"against":46},
+{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":7,"draw":3,"loss":12,"for":39,"against":49},
+{"country":"irl","name":"Transport","id":"Transport_F.C.","win":2,"draw":3,"loss":17,"for":29,"against":76,"isRemoved":true},
+{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":1,"draw":3,"loss":18,"for":31,"against":87,"isRemoved":true}
 ]

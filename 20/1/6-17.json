@@ -282,4 +282,17 @@
 {"country":"nir","name":"Ballinamallard United","id":"Ballinamallard_United_F.C.","win":10,"draw":5,"loss":23,"for":45,"against":72},
 {"country":"nir","name":"Carrick Rangers","id":"Carrick_Rangers_F.C.","win":5,"draw":7,"loss":26,"for":31,"against":79},
 {"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":7,"draw":4,"loss":27,"for":28,"against":75,"isRemoved":true,"deduct":12,"deductReason":"Player registration rules breach"}
+][
+{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":25,"draw":2,"loss":6,"for":73,"against":28,"isChampion":true},
+{"country":"irl","name":"Cork City","id":"Cork_City_F.C.","win":21,"draw":7,"loss":5,"for":65,"against":23},
+{"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":17,"draw":11,"loss":5,"for":48,"against":29},
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":16,"draw":7,"loss":10,"for":46,"against":34},
+{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":13,"draw":10,"loss":10,"for":42,"against":35},
+{"country":"irl","name":"Bray Wanderers","id":"Bray_Wanderers_F.C.","win":13,"draw":7,"loss":13,"for":39,"against":40},
+{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":13,"draw":6,"loss":14,"for":45,"against":41},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":12,"draw":5,"loss":16,"for":30,"against":37},
+{"country":"irl","name":"Galway United","id":"Galway_United_F.C.","win":10,"draw":8,"loss":15,"for":44,"against":54},
+{"country":"irl","name":"Finn Harps","id":"Finn_Harps_F.C.","win":8,"draw":8,"loss":17,"for":23,"against":49,"isReturning":true},
+{"country":"irl","name":"Wexford Youths","id":"Wexford_F.C.","win":6,"draw":5,"loss":22,"for":31,"against":70,"isRemoved":true,"isNew":true},
+{"country":"irl","name":"Longford Town","id":"Longford_Town_F.C.","win":2,"draw":8,"loss":23,"for":25,"against":71,"isRemoved":true}
 ]

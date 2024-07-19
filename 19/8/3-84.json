@@ -299,4 +299,19 @@
 {"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":4,"draw":6,"loss":16,"for":24,"against":57},
 {"country":"nir","name":"Larne","id":"Larne_F.C.","win":7,"draw":1,"loss":18,"for":25,"against":58,"deduct":-2},
 {"country":"nir","name":"Carrick Rangers","id":"Carrick_Rangers_F.C.","win":3,"draw":3,"loss":20,"for":24,"against":57,"isNew":true}
+][
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":19,"draw":4,"loss":3,"for":64,"against":15,"isChampion":true},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":13,"draw":10,"loss":3,"for":39,"against":20},
+{"country":"irl","name":"Athlone Town","id":"Athlone_Town_A.F.C.","win":15,"draw":4,"loss":7,"for":44,"against":28},
+{"country":"irl","name":"Limerick City","id":"Limerick_F.C.","win":13,"draw":7,"loss":6,"for":38,"against":26,"isReturning":true},
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":9,"draw":10,"loss":7,"for":41,"against":34},
+{"country":"irl","name":"UCD","id":"University_College_Dublin_A.F.C.","win":9,"draw":10,"loss":7,"for":24,"against":23},
+{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":9,"draw":9,"loss":8,"for":38,"against":31},
+{"country":"irl","name":"Waterford United","id":"Waterford_F.C.","win":10,"draw":6,"loss":10,"for":34,"against":34},
+{"country":"irl","name":"Finn Harps","id":"Finn_Harps_F.C.","win":8,"draw":8,"loss":10,"for":36,"against":46},
+{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":8,"draw":7,"loss":11,"for":36,"against":37},
+{"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":10,"draw":2,"loss":14,"for":37,"against":54},
+{"country":"irl","name":"Galway United","id":"Galway_United_F.C.","win":6,"draw":9,"loss":11,"for":26,"against":33},
+{"country":"irl","name":"Home Farm","id":"Home_Farm_F.C.","win":4,"draw":4,"loss":18,"for":16,"against":54},
+{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":2,"draw":4,"loss":20,"for":20,"against":58}
 ]

@@ -156,4 +156,17 @@
 {"country":"nir","name":"Newry Town","id":"Newry_City_F.C.","win":5,"draw":5,"loss":16,"for":32,"against":86,"isRemoved":true,"removedNote":"League suspended due to WW2"},
 {"country":"nir","name":"Larne","id":"Larne_F.C.","win":4,"draw":5,"loss":17,"for":36,"against":83,"isRemoved":true,"removedNote":"League suspended due to WW2"},
 {"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":3,"draw":1,"loss":22,"for":40,"against":99,"isRemoved":true,"removedNote":"League suspended due to WW2"}
+][
+{"country":"irl","name":"St James's Gate","id":"St_James%27s_Gate_F.C.","win":17,"draw":2,"loss":3,"for":63,"against":27,"isChampion":true},
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":13,"draw":4,"loss":5,"for":51,"against":39},
+{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":12,"draw":4,"loss":6,"for":60,"against":44,"isRemoved":true},
+{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":11,"draw":3,"loss":8,"for":45,"against":36},
+{"country":"irl","name":"Cork United","id":"Cork_United_F.C._(1940–1948)","win":11,"draw":3,"loss":8,"for":40,"against":34,"isNew":true},
+{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":10,"draw":5,"loss":7,"for":49,"against":45},
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":6,"draw":8,"loss":8,"for":41,"against":39},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":7,"draw":4,"loss":11,"for":36,"against":46},
+{"country":"irl","name":"Bray Unknowns","id":"Bray_Unknowns_F.C.","win":8,"draw":1,"loss":13,"for":49,"against":52},
+{"country":"irl","name":"Brideville","id":"Brideville_F.C.","win":6,"draw":5,"loss":11,"for":39,"against":49},
+{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":6,"draw":4,"loss":12,"for":44,"against":54},
+{"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":1,"draw":5,"loss":16,"for":23,"against":75}
 ]

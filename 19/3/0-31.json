@@ -192,4 +192,17 @@
 {"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":6,"draw":6,"loss":14,"for":48,"against":56},
 {"country":"nir","name":"Larne","id":"Larne_F.C.","win":6,"draw":6,"loss":14,"for":44,"against":74},
 {"country":"nir","name":"Newry Town","id":"Newry_City_F.C.","win":4,"draw":2,"loss":20,"for":45,"against":100}
+][
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":13,"draw":5,"loss":4,"for":52,"against":22,"isChampion":true},
+{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":11,"draw":6,"loss":5,"for":64,"against":43},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":10,"draw":7,"loss":5,"for":45,"against":32},
+{"country":"irl","name":"Cork","id":"Cork_F.C.","win":12,"draw":3,"loss":7,"for":55,"against":45},
+{"country":"irl","name":"Dolphin","id":"Dolphin_F.C._(Ireland)","win":11,"draw":4,"loss":7,"for":51,"against":43,"isNew":true},
+{"country":"irl","name":"Brideville","id":"Brideville_F.C.","win":10,"draw":6,"loss":6,"for":49,"against":44},
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":9,"draw":5,"loss":8,"for":54,"against":49},
+{"country":"irl","name":"Bray Unknowns","id":"Bray_Unknowns_F.C.","win":8,"draw":4,"loss":10,"for":41,"against":45},
+{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":8,"draw":3,"loss":11,"for":43,"against":52,"isNew":true},
+{"country":"irl","name":"St James's Gate","id":"St_James%27s_Gate_F.C.","win":7,"draw":4,"loss":11,"for":36,"against":48},
+{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":5,"draw":5,"loss":12,"for":33,"against":49},
+{"country":"irl","name":"Jacobs","id":"Jacobs_F.C.","win":1,"draw":2,"loss":19,"for":21,"against":72}
 ]

@@ -274,4 +274,15 @@
 {"country":"nir","name":"Larne","id":"Larne_F.C.","win":7,"draw":8,"loss":15,"for":42,"against":51,"isReturning":true},
 {"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":6,"draw":8,"loss":16,"for":27,"against":45},
 {"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":4,"draw":4,"loss":22,"for":24,"against":67,"isRemoved":true}
+][
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":19,"draw":12,"loss":5,"for":52,"against":28,"isChampion":true},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":18,"draw":10,"loss":8,"for":58,"against":37},
+{"country":"irl","name":"Cork City","id":"Cork_City_F.C.","win":13,"draw":14,"loss":9,"for":43,"against":33},
+{"country":"irl","name":"Longford Town","id":"Longford_Town_F.C.","win":12,"draw":12,"loss":12,"for":46,"against":44},
+{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":10,"draw":16,"loss":10,"for":48,"against":48},
+{"country":"irl","name":"Waterford United","id":"Waterford_F.C.","win":11,"draw":12,"loss":13,"for":44,"against":58,"isReturning":true},
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":10,"draw":14,"loss":12,"for":45,"against":46},
+{"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":9,"draw":10,"loss":17,"for":38,"against":50},
+{"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":7,"draw":15,"loss":14,"for":33,"against":51},
+{"country":"irl","name":"UCD","id":"University_College_Dublin_A.F.C.","win":7,"draw":13,"loss":16,"for":27,"against":39,"isRemoved":true}
 ]

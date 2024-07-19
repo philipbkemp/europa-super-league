@@ -131,4 +131,13 @@
 {"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":3,"draw":2,"loss":5,"for":11,"against":14},
 {"country":"nir","name":"Queen's Island","id":"Queen%27s_Island_F.C.","win":3,"draw":2,"loss":5,"for":9,"against":16,"isNew":true},
 {"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":1,"draw":1,"loss":8,"for":3,"against":13}
+][
+{"country":"irl","name":"St. James's Gate","id":"St_James%27s_Gate_F.C.","win":11,"draw":1,"loss":2,"for":31,"against":8,"isChampion":true,"isNew":true},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":10,"draw":1,"loss":3,"for":35,"against":13,"isReturning":true},
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":8,"draw":2,"loss":4,"for":31,"against":21,"isReturning":true},
+{"country":"irl","name":"Olympia","id":"Olympia_F.C._(Dublin)","win":5,"draw":4,"loss":5,"for":20,"against":21,"isNew":true},
+{"country":"irl","name":"Jacobs","id":"Jacobs_F.C.","win":4,"draw":4,"loss":6,"for":23,"against":27,"isNew":true},
+{"country":"irl","name":"Frankfort","id":"Frankfort_F.C.","win":3,"draw":5,"loss":6,"for":22,"against":32,"isNew":true,"isRemoved":true},
+{"country":"irl","name":"Dublin United","id":"Dublin_United_F.C.","win":5,"draw":0,"loss":9,"for":25,"against":39,"isNew":true},
+{"country":"irl","name":"YMCA","id":"YMCA_F.C._(Dublin)","win":0,"draw":3,"loss":11,"for":17,"against":43,"isNew":true,"isRemoved":true}
 ]

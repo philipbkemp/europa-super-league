@@ -259,4 +259,17 @@
 {"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":6,"draw":2,"loss":14,"for":30,"against":47},
 {"country":"nir","name":"Derry City","id":"Derry_City_F.C.","win":6,"draw":2,"loss":14,"for":27,"against":55},
 {"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":2,"draw":1,"loss":19,"for":20,"against":92}
+][
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":15,"draw":4,"loss":3,"for":58,"against":29,"isChampion":true},
+{"country":"irl","name":"Evergreen United","id":"Cork_Celtic_F.C.","win":13,"draw":3,"loss":6,"for":49,"against":27},
+{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":14,"draw":1,"loss":7,"for":58,"against":36},
+{"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":11,"draw":5,"loss":6,"for":48,"against":31},
+{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":11,"draw":4,"loss":7,"for":30,"against":26},
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":7,"draw":8,"loss":7,"for":35,"against":33},
+{"country":"irl","name":"Transport","id":"Transport_F.C.","win":8,"draw":3,"loss":11,"for":30,"against":37},
+{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":9,"draw":0,"loss":13,"for":45,"against":59},
+{"country":"irl","name":"Cork Hibernians","id":"Cork_Hibernians_F.C.","win":5,"draw":5,"loss":12,"for":29,"against":43},
+{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":6,"draw":3,"loss":13,"for":34,"against":51},
+{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":6,"draw":3,"loss":13,"for":33,"against":52},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":6,"draw":3,"loss":13,"for":25,"against":50}
 ]

@@ -238,4 +238,15 @@
 {"country":"nir","name":"Ballymena United","id":"Ballymena_United_F.C.","win":6,"draw":7,"loss":9,"for":39,"against":58},
 {"country":"nir","name":"Ards","id":"Ards_F.C.","win":7,"draw":2,"loss":13,"for":46,"against":49},
 {"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":4,"draw":1,"loss":17,"for":25,"against":66}
+][
+{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":12,"draw":5,"loss":1,"for":34,"against":23,"isChampion":true},
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":9,"draw":5,"loss":4,"for":39,"against":23},
+{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":9,"draw":5,"loss":4,"for":33,"against":24},
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":6,"draw":8,"loss":4,"for":33,"against":25},
+{"country":"irl","name":"Transport","id":"Transport_F.C.","win":5,"draw":8,"loss":5,"for":35,"against":41,"isNew":true},
+{"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":6,"draw":5,"loss":7,"for":27,"against":35},
+{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":7,"draw":1,"loss":10,"for":39,"against":34},
+{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":4,"draw":5,"loss":9,"for":31,"against":37,"isReturning":true},
+{"country":"irl","name":"Cork Athletic","id":"Cork_Athletic_F.C.","win":6,"draw":1,"loss":11,"for":33,"against":41,"isNew":true},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":2,"draw":5,"loss":11,"for":28,"against":49}
 ]

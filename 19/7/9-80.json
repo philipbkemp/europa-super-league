@@ -298,4 +298,21 @@
 {"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":6,"draw":4,"loss":12,"for":27,"against":50},
 {"country":"nir","name":"Ards","id":"Ards_F.C.","win":4,"draw":5,"loss":13,"for":26,"against":39},
 {"country":"nir","name":"Larne","id":"Larne_F.C.","win":3,"draw":4,"loss":15,"for":17,"against":40}
+][
+{"country":"irl","name":"Limerick United","id":"Limerick_F.C.","win":20,"draw":7,"loss":3,"for":67,"against":24,"isChampion":true},
+{"country":"irl","name":"Dundalk F.C.","id":"Dundalk_F.C.","win":20,"draw":6,"loss":4,"for":59,"against":13},
+{"country":"irl","name":"Athlone Town A.F.C.","id":"Athlone_Town_A.F.C.","win":16,"draw":7,"loss":7,"for":60,"against":24},
+{"country":"irl","name":"Shamrock Rovers F.C.","id":"Shamrock_Rovers_F.C.","win":14,"draw":10,"loss":6,"for":61,"against":29},
+{"country":"irl","name":"Finn Harps F.C.","id":"Finn_Harps_F.C.","win":16,"draw":6,"loss":8,"for":49,"against":33},
+{"country":"irl","name":"Bohemian F.C.","id":"Bohemian_F.C.","win":12,"draw":8,"loss":10,"for":42,"against":30},
+{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":8,"draw":15,"loss":7,"for":38,"against":33},
+{"country":"irl","name":"Sligo Rovers F.C.","id":"Sligo_Rovers_F.C.","win":11,"draw":9,"loss":10,"for":40,"against":45},
+{"country":"irl","name":"Thurles Town F.C.","id":"Thurles_Town_F.C.","win":9,"draw":10,"loss":11,"for":43,"against":48},
+{"country":"irl","name":"Drogheda United F.C.","id":"Drogheda_United_F.C.","win":6,"draw":16,"loss":8,"for":36,"against":41},
+{"country":"irl","name":"Galway Rovers","id":"Galway_United_F.C.","win":11,"draw":6,"loss":13,"for":32,"against":47},
+{"country":"irl","name":"St Patrick's Athletic F.C.","id":"St_Patrick%27s_Athletic_F.C.","win":9,"draw":9,"loss":12,"for":39,"against":46},
+{"country":"irl","name":"Home Farm F.C.","id":"Home_Farm_F.C.","win":10,"draw":5,"loss":15,"for":27,"against":42},
+{"country":"irl","name":"Cork United","id":"Albert_Rovers_F.C.","win":6,"draw":4,"loss":20,"for":22,"against":56},
+{"country":"irl","name":"University College Dublin A.F.C.","id":"University_College_Dublin_A.F.C.","win":5,"draw":4,"loss":21,"for":24,"against":75,"isNew":true},
+{"country":"irl","name":"Shelbourne F.C.","id":"Shelbourne_F.C.","win":3,"draw":6,"loss":21,"for":30,"against":83}
 ]

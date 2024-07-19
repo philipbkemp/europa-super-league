@@ -132,4 +132,15 @@
 {"country":"nir","name":"Larne","id":"Larne_F.C.","win":6,"draw":4,"loss":8,"for":33,"against":44,"isNew":true},
 {"country":"nir","name":"Ards","id":"Ards_F.C.","win":5,"draw":4,"loss":9,"for":19,"against":30,"isNew":true},
 {"country":"nir","name":"Newry Town","id":"Newry_City_F.C.","win":2,"draw":5,"loss":11,"for":25,"against":39,"isNew":true}
+][
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":16,"draw":0,"loss":2,"for":56,"against":20,"isChampion":true},
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":13,"draw":2,"loss":3,"for":55,"against":21},
+{"country":"irl","name":"Jacobs","id":"Jacobs_F.C.","win":11,"draw":2,"loss":5,"for":36,"against":21},
+{"country":"irl","name":"Athlone Town","id":"Athlone_Town_A.F.C.","win":8,"draw":5,"loss":5,"for":34,"against":24},
+{"country":"irl","name":"St. James's Gate","id":"St_James%27s_Gate_F.C.","win":9,"draw":2,"loss":7,"for":38,"against":27},
+{"country":"irl","name":"Shelbourne United","id":"Shelbourne_United_F.C.","win":8,"draw":3,"loss":7,"for":30,"against":31,"isRemoved":true},
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":7,"draw":3,"loss":8,"for":35,"against":32},
+{"country":"irl","name":"Brooklyn","id":"Brooklyn_F.C._(Dublin)","win":4,"draw":2,"loss":12,"for":23,"against":37,"isNew":true},
+{"country":"irl","name":"Pioneers","id":"Pioneers_F.C._(Dublin)","win":2,"draw":1,"loss":15,"for":15,"against":60},
+{"country":"irl","name":"Midland Athletic","id":"Midland_Athletic_F.C.","win":2,"draw":0,"loss":16,"for":13,"against":62,"isRemoved":true}
 ]

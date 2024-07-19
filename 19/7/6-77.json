@@ -294,4 +294,19 @@
 {"country":"nir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":5,"draw":5,"loss":12,"for":25,"against":44},
 {"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":4,"draw":5,"loss":13,"for":23,"against":43},
 {"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":4,"draw":2,"loss":16,"for":20,"against":51}
+][
+{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":18,"draw":3,"loss":5,"for":48,"against":20,"isChampion":true},
+{"country":"irl","name":"Bohemian F.C.","id":"Bohemian_F.C.","win":17,"draw":4,"loss":5,"for":50,"against":29},
+{"country":"irl","name":"Drogheda United F.C.","id":"Drogheda_United_F.C.","win":12,"draw":10,"loss":4,"for":56,"against":34},
+{"country":"irl","name":"Waterford F.C.","id":"Waterford_F.C.","win":12,"draw":9,"loss":5,"for":42,"against":28},
+{"country":"irl","name":"Dundalk F.C.","id":"Dundalk_F.C.","win":12,"draw":5,"loss":9,"for":51,"against":42},
+{"country":"irl","name":"St Patrick's Athletic F.C.","id":"St_Patrick%27s_Athletic_F.C.","win":9,"draw":10,"loss":7,"for":30,"against":27},
+{"country":"irl","name":"Shelbourne F.C.","id":"Shelbourne_F.C.","win":10,"draw":8,"loss":8,"for":39,"against":40},
+{"country":"irl","name":"Finn Harps F.C.","id":"Finn_Harps_F.C.","win":9,"draw":8,"loss":9,"for":40,"against":45},
+{"country":"irl","name":"Cork Celtic F.C.","id":"Cork_Celtic_F.C.","win":10,"draw":5,"loss":11,"for":48,"against":44},
+{"country":"irl","name":"Athlone Town A.F.C.","id":"Athlone_Town_A.F.C.","win":8,"draw":7,"loss":11,"for":43,"against":46},
+{"country":"irl","name":"Shamrock Rovers F.C.","id":"Shamrock_Rovers_F.C.","win":7,"draw":3,"loss":16,"for":26,"against":46},
+{"country":"irl","name":"Limerick F.C.","id":"Limerick_F.C.","win":5,"draw":6,"loss":15,"for":29,"against":47},
+{"country":"irl","name":"Albert Rovers F.C.","id":"Albert_Rovers_F.C.","win":5,"draw":6,"loss":15,"for":21,"against":42,"isNew":true},
+{"country":"irl","name":"Home Farm F.C.","id":"Home_Farm_F.C.","win":4,"draw":4,"loss":18,"for":22,"against":55}
 ]

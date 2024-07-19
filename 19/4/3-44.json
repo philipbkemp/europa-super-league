@@ -104,4 +104,13 @@
 {"country":"lva","name":"Rigas Vilki","id":"Rigas_Vilki","win":2,"draw":0,"loss":4,"for":12,"against":15,"isReturning":true},
 {"country":"lva","name":"Jelgavas SB","id":"Jelgavas_SB","win":0,"draw":1,"loss":5,"for":8,"against":18,"isRemoved":true},
 {"country":"lva","name":"LDzB","id":"LDzB_Riga","win":0,"draw":1,"loss":5,"for":4,"against":23,"isRemoved":true}
+][
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":9,"draw":3,"loss":2,"for":32,"against":22,"isChampion":true},
+{"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":8,"draw":4,"loss":2,"for":34,"against":19},
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":5,"draw":5,"loss":4,"for":38,"against":27},
+{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":6,"draw":3,"loss":5,"for":21,"against":19},
+{"country":"irl","name":"Cork United","id":"Cork_United_F.C._(1940–1948)","win":6,"draw":2,"loss":6,"for":36,"against":28},
+{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":6,"draw":2,"loss":6,"for":24,"against":28},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":4,"draw":2,"loss":8,"for":25,"against":32},
+{"country":"irl","name":"St James's Gate","id":"St_James%27s_Gate_F.C.","win":1,"draw":1,"loss":12,"for":12,"against":47,"isRemoved":true}
 ]

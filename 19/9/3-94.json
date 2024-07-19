@@ -292,4 +292,17 @@
 {"country":"nir","name":"Newry Town","id":"Newry_City_F.C.","win":5,"draw":9,"loss":16,"for":26,"against":52},
 {"country":"nir","name":"Larne","id":"Larne_F.C.","win":5,"draw":7,"loss":18,"for":30,"against":62},
 {"country":"nir","name":"Omagh Town","id":"Omagh_Town_F.C.","win":6,"draw":5,"loss":19,"for":32,"against":58,"deduct":-9}
+][
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":21,"draw":3,"loss":8,"for":62,"against":30,"isChampion":true},
+{"country":"irl","name":"Cork City","id":"Cork_City_F.C.","win":17,"draw":8,"loss":7,"for":60,"against":36},
+{"country":"irl","name":"Galway United","id":"Galway_United_F.C.","win":14,"draw":8,"loss":10,"for":47,"against":42,"isReturning":true},
+{"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":12,"draw":10,"loss":10,"for":37,"against":35},
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":11,"draw":10,"loss":11,"for":42,"against":42},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":11,"draw":8,"loss":13,"for":34,"against":35},
+{"country":"irl","name":"Monaghan United","id":"Monaghan_United_F.C.","win":13,"draw":8,"loss":11,"for":41,"against":38,"isNew":true},
+{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":10,"draw":13,"loss":9,"for":37,"against":27},
+{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":9,"draw":12,"loss":11,"for":32,"against":38},
+{"country":"irl","name":"Cobh Ramblers","id":"Cobh_Ramblers_F.C.","win":8,"draw":8,"loss":16,"for":31,"against":41,"isReturning":true},
+{"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":6,"draw":11,"loss":15,"for":23,"against":50,"isRemoved":true},
+{"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":7,"draw":7,"loss":18,"for":26,"against":58,"isRemoved":true}
 ]

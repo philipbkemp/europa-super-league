@@ -294,4 +294,19 @@
 {"country":"nir","name":"Derry City","id":"Derry_City_F.C.","win":4,"draw":8,"loss":10,"for":41,"against":55,"isRemoved":true,"removedNote":"Withdrew"},
 {"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":2,"draw":5,"loss":15,"for":28,"against":62},
 {"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":2,"draw":4,"loss":16,"for":19,"against":64}
+][
+{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":21,"draw":2,"loss":3,"for":66,"against":35,"isChampion":true},
+{"country":"irl","name":"Cork Hibernians","id":"Cork_Hibernians_F.C.","win":19,"draw":2,"loss":5,"for":70,"against":17},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":16,"draw":5,"loss":5,"for":45,"against":24},
+{"country":"irl","name":"Finn Harps","id":"Finn_Harps_F.C.","win":18,"draw":0,"loss":8,"for":62,"against":34},
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":12,"draw":4,"loss":10,"for":52,"against":41},
+{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":9,"draw":7,"loss":10,"for":33,"against":36},
+{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":11,"draw":3,"loss":12,"for":39,"against":46},
+{"country":"irl","name":"Cork Celtic","id":"Cork_Celtic_F.C.","win":8,"draw":7,"loss":11,"for":36,"against":46},
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":6,"draw":8,"loss":12,"for":30,"against":37,"bonusPoints":3,"bonusPointsReason":"Points for Athlone Town beating Shelbourne were deducted from Athlone and awarded to Shelbourne"},
+{"country":"irl","name":"Athlone Town","id":"Athlone_Town_A.F.C.","win":8,"draw":7,"loss":11,"for":40,"against":56,"deductPoints":-3,"deductReason":"Points for Athlone Town beating Shelbourne were deducted from Athlone and awarded to Shelbourne"},
+{"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":6,"draw":6,"loss":14,"for":30,"against":42},
+{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":5,"draw":6,"loss":15,"for":24,"against":52,"isRemoved":true},
+{"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":5,"draw":5,"loss":16,"for":29,"against":53},
+{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":5,"draw":4,"loss":17,"for":34,"against":71}
 ]

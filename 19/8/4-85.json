@@ -298,4 +298,21 @@
 {"country":"nir","name":"Newry Town","id":"Newry_City_F.C.","win":7,"draw":6,"loss":13,"for":39,"against":57},
 {"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":5,"draw":9,"loss":12,"for":24,"against":39},
 {"country":"nir","name":"Carrick Rangers","id":"Carrick_Rangers_F.C.","win":3,"draw":6,"loss":17,"for":24,"against":62}
+][
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":22,"draw":5,"loss":3,"for":63,"against":21,"isChampion":true},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":19,"draw":5,"loss":6,"for":57,"against":29},
+{"country":"irl","name":"Athlone Town","id":"Athlone_Town_A.F.C.","win":17,"draw":6,"loss":7,"for":54,"against":28},
+{"country":"irl","name":"University College Dublin","id":"University_College_Dublin_A.F.C.","win":12,"draw":14,"loss":4,"for":41,"against":26},
+{"country":"irl","name":"Limerick City","id":"Limerick_F.C.","win":16,"draw":5,"loss":9,"for":61,"against":40},
+{"country":"irl","name":"Galway United","id":"Galway_United_F.C.","win":9,"draw":11,"loss":10,"for":49,"against":43},
+{"country":"irl","name":"Waterford United","id":"Waterford_F.C.","win":11,"draw":7,"loss":12,"for":44,"against":41},
+{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":9,"draw":10,"loss":11,"for":34,"against":39},
+{"country":"irl","name":"Cork City","id":"Cork_City_F.C.","win":10,"draw":8,"loss":12,"for":30,"against":39,"isNew":true},
+{"country":"irl","name":"Home Farm","id":"Home_Farm_F.C.","win":11,"draw":5,"loss":14,"for":43,"against":47},
+{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":10,"draw":7,"loss":13,"for":36,"against":45},
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":9,"draw":8,"loss":13,"for":39,"against":46},
+{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":7,"draw":12,"loss":11,"for":34,"against":47,"isRemoved":true},
+{"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":7,"draw":10,"loss":13,"for":43,"against":60,"isRemoved":true},
+{"country":"irl","name":"Finn Harps","id":"Finn_Harps_F.C.","win":6,"draw":7,"loss":17,"for":38,"against":71,"isRemoved":true},
+{"country":"irl","name":"Longford Town","id":"Longford_Town_F.C.","win":3,"draw":4,"loss":23,"for":27,"against":71,"isRemoved":true,"isNew":true}
 ]

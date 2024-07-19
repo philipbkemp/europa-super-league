@@ -121,7 +121,7 @@
 {"country":"aut","name":"SK Slovan HAC","id":"SK_Slovan_HAC","win":3,"draw":4,"loss":15,"for":37,"against":71,"isRemoved":true},
 {"country":"aut","name":"Brigittenauer AC","id":"Brigittenauer_AC","win":4,"draw":1,"loss":17,"for":26,"against":66,"isRemoved":true}
 ][
-{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":2,"draw":0,"loss":0,"for":6,"against":2,"isChampion":true},"isRemoved":true,"removedNote":"League changed to knockout format next season",
+{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":2,"draw":0,"loss":0,"for":6,"against":2,"isChampion":true,"isRemoved":true,"removedNote":"League changed to knockout format next season"},
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":1,"draw":0,"loss":1,"for":4,"against":4,"isRemoved":true,"removedNote":"League changed to knockout format next season"},
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":0,"draw":0,"loss":2,"for":5,"against":9,"isRemoved":true,"removedNote":"League changed to knockout format next season"}
 ][
@@ -159,4 +159,15 @@
 {"country":"nir","name":"Larne","id":"Larne_F.C.","win":8,"draw":4,"loss":14,"for":51,"against":72},
 {"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":3,"draw":4,"loss":19,"for":32,"against":73},
 {"country":"nir","name":"Queen's Island","id":"Queen%27s_Island_F.C.","win":2,"draw":3,"loss":21,"for":53,"against":130,"isRemoved":true}
+][
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":16,"draw":1,"loss":1,"for":49,"against":12,"isChampion":true},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":15,"draw":2,"loss":1,"for":61,"against":23},
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":10,"draw":4,"loss":4,"for":58,"against":28},
+{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":7,"draw":4,"loss":7,"for":28,"against":31,"isNew":true},
+{"country":"irl","name":"Dundalk GNR","id":"Dundalk_F.C.","win":7,"draw":3,"loss":8,"for":43,"against":44},
+{"country":"irl","name":"St James's Gate","id":"St_James%27s_Gate_F.C.","win":5,"draw":4,"loss":9,"for":37,"against":44},
+{"country":"irl","name":"Fordsons","id":"Cork_F.C.","win":5,"draw":3,"loss":10,"for":27,"against":36},
+{"country":"irl","name":"Brideville","id":"Brideville_F.C.","win":4,"draw":3,"loss":11,"for":28,"against":57},
+{"country":"irl","name":"Jacobs","id":"Jacobs_F.C.","win":2,"draw":6,"loss":10,"for":26,"against":48},
+{"country":"irl","name":"Bray Unknowns","id":"Bray_Unknowns_F.C.","win":2,"draw":4,"loss":12,"for":24,"against":58}
 ]

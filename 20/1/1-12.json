@@ -289,4 +289,15 @@
 {"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":8,"draw":10,"loss":20,"for":60,"against":71},
 {"country":"nir","name":"Lisburn Distillery","id":"Lisburn_Distillery_F.C.","win":8,"draw":8,"loss":22,"for":56,"against":84},
 {"country":"nir","name":"Carrick Rangers","id":"Carrick_Rangers_F.C.","win":7,"draw":10,"loss":21,"for":50,"against":91,"isRemoved":true,"isReturning":true}
+][
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":23,"draw":8,"loss":5,"for":69,"against":24,"isChampion":true},
+{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":22,"draw":7,"loss":7,"for":73,"against":19},
+{"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":18,"draw":14,"loss":4,"for":63,"against":23,"isReturning":true},
+{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":17,"draw":12,"loss":7,"for":62,"against":35},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":17,"draw":9,"loss":10,"for":39,"against":27},
+{"country":"irl","name":"Bray Wanderers","id":"Bray_Wanderers_F.C.","win":15,"draw":6,"loss":15,"for":53,"against":50},
+{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":11,"draw":11,"loss":14,"for":50,"against":53},
+{"country":"irl","name":"UCD","id":"University_College_Dublin_A.F.C.","win":10,"draw":4,"loss":22,"for":42,"against":80},
+{"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":7,"draw":4,"loss":25,"for":32,"against":77},
+{"country":"irl","name":"Galway United","id":"Galway_United_F.C.","win":1,"draw":3,"loss":32,"for":20,"against":115,"isRemoved":true}
 ]

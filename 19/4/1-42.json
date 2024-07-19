@@ -102,4 +102,15 @@
 {"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":1,"draw":1,"loss":2,"for":5,"against":5},
 {"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":1,"draw":1,"loss":2,"for":6,"against":12},
 {"country":"isl","name":"KA","id":"Knattspyrnufélag_Akureyrar","win":0,"draw":1,"loss":3,"for":6,"against":17,"isReturning":true,"isRemoved":true}
+][
+{"country":"irl","name":"Cork United","id":"Cork_United_F.C._(1940–1948)","win":13,"draw":4,"loss":1,"for":54,"against":20,"isChampion":true},
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":12,"draw":4,"loss":2,"for":52,"against":23},
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":8,"draw":5,"loss":5,"for":38,"against":29},
+{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":8,"draw":3,"loss":7,"for":45,"against":36},
+{"country":"irl","name":"St James's Gate","id":"St_James%27s_Gate_F.C.","win":6,"draw":5,"loss":7,"for":41,"against":35},
+{"country":"irl","name":"Brideville","id":"Brideville_F.C.","win":5,"draw":7,"loss":6,"for":29,"against":44},
+{"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":7,"draw":3,"loss":8,"for":32,"against":33},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":4,"draw":6,"loss":8,"for":29,"against":36},
+{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":4,"draw":6,"loss":8,"for":29,"against":49},
+{"country":"irl","name":"Bray Unknowns","id":"Bray_Unknowns_F.C.","win":0,"draw":3,"loss":15,"for":17,"against":61}
 ]

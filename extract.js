@@ -1,10 +1,10 @@
-country = "nir";
+country = "irl";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
 ISGROUPEDFIRST = false;
 FOUND = false;
-tbl = $("h2 span#League_table, h2 span#Final_table, h2 span#League_standings, h2 span#Table, h2 span#Standings, h3 span#League_standings, h2 span#Final_league_table, h2 span#Final_classification, h2#League_standings, h3#League_standings, h2#League_table");
+tbl = $("#Final_table, #Final_Table, #League_table, #League_Table");
 if ( tbl.length === 1 ) { FOUND = true; }
 //if ( !FOUND ) { tbl2 = $("h2 span#Regular_season, h2 span#Championship_play-offs, h2 span#Relegation_play-outs"); if ( tbl2.length === 3 ) { tbl = tbl2; ADD_TABLE_STATS = true; FOUND = true; } }
 //if ( !FOUND ) { tbl2 = $("h2 span#Regular_season, h2 span#Play-off_round, h2 span#Play-out_round"); if ( tbl2.length === 3 ) { tbl = tbl2; ADD_TABLE_STATS = true; FOUND = true; } }

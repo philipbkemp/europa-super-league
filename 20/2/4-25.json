@@ -261,4 +261,15 @@
 {"country":"lva","name":"Liepāja","id":"FK_Liepāja","win":3,"draw":6,"loss":13,"for":16,"against":41,"isCurrentSeason":true}
 ][
 	// NIR not yet created
+][
+{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":13,"draw":8,"loss":3,"for":28,"against":15,"isCurrentSeason":true},
+{"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":12,"draw":8,"loss":5,"for":40,"against":22,"isCurrentSeason":true},
+{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":11,"draw":4,"loss":9,"for":33,"against":26,"isCurrentSeason":true,"isReturning":true},
+{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":9,"draw":7,"loss":7,"for":31,"against":24,"isCurrentSeason":true},
+{"country":"irl","name":"Galway United","id":"Galway_United_F.C.","win":9,"draw":7,"loss":7,"for":19,"against":16,"isCurrentSeason":true,"isReturning":true},
+{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":9,"draw":7,"loss":8,"for":27,"against":28,"isCurrentSeason":true},
+{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":7,"draw":7,"loss":11,"for":24,"against":28,"isCurrentSeason":true},
+{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":7,"draw":5,"loss":10,"for":22,"against":26,"isCurrentSeason":true},
+{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":5,"draw":7,"loss":12,"for":17,"against":33,"isCurrentSeason":true},
+{"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":3,"draw":8,"loss":13,"for":24,"against":47,"isCurrentSeason":true}
 ]
