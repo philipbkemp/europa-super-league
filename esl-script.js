@@ -492,7 +492,11 @@ if ( typeof(winners) !== "undefined" ) {
 		teamRow.append(flag);
 
 		teamName = $("<TH></TH>");
-		teamNameLink = $("<A></A>").html( wc[0][4] ).attr("href","clubs/"+wc[0][2].toLowerCase()+"/"+c[0]+".html");
+		if ( wc[0].length === 5 ) {
+			teamNameLink = $("<A></A>").html( wc[0][4] ).attr("href","clubs/"+wc[0][2].toLowerCase()+"/"+c[0]+".html");
+		} else if ( wc[0].length === 6 ) {
+			teamNameLink = $("<A></A>").html( wc[0][4] ).attr("href","clubs/"+wc[0][5].toLowerCase()+"/"+c[0]+".html");
+		}
 		teamName.append(teamNameLink);
 		teamRow.append(teamName);
 
