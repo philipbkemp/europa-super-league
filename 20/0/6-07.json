@@ -271,4 +271,21 @@
 {"country":"lva","name":"Jūrmala","id":"FK_Daugava_(2003)","win":11,"draw":4,"loss":13,"for":36,"against":36},
 {"country":"lva","name":"Rīga","id":"FK_Rīga","win":6,"draw":4,"loss":18,"for":21,"against":57},
 {"country":"lva","name":"Dižvanagi","id":"RSK_Dižvanagi","win":0,"draw":2,"loss":26,"for":11,"against":77,"isRemoved":true,"isNew":true}
+][
+{"country":"nir","name":"Linfield","id":"linfield_fc","win":21,"draw":8,"loss":1,"for":73,"against":19,"isChampion":true},
+{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":20,"draw":3,"loss":7,"for":76,"against":33},
+{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":18,"draw":7,"loss":5,"for":47,"against":26},
+{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":17,"draw":7,"loss":6,"for":49,"against":26},
+{"country":"nir","name":"Lisburn Distillery","id":"Lisburn_Distillery_F.C.","win":14,"draw":6,"loss":10,"for":50,"against":39},
+{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":14,"draw":5,"loss":11,"for":50,"against":42,"isReturning":true},
+{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":13,"draw":6,"loss":11,"for":55,"against":50},
+{"country":"nir","name":"Dungannon Swifts","id":"Dungannon_Swifts_F.C.","win":13,"draw":5,"loss":12,"for":41,"against":41},
+{"country":"nir","name":"Ballymena United","id":"Ballymena_United_F.C.","win":12,"draw":7,"loss":11,"for":46,"against":40},
+{"country":"nir","name":"Limavady United","id":"Limavady_United_F.C.","win":10,"draw":5,"loss":15,"for":39,"against":54},
+{"country":"nir","name":"Armagh City","id":"Armagh_City_F.C.","win":11,"draw":2,"loss":17,"for":42,"against":68},
+{"country":"nir","name":"Newry City","id":"Newry_City_F.C.","win":8,"draw":7,"loss":15,"for":39,"against":52},
+{"country":"nir","name":"Donegal Celtic","id":"Donegal_Celtic_F.C.","win":6,"draw":9,"loss":15,"for":33,"against":51,"isNew":true},
+{"country":"nir","name":"Larne","id":"Larne_F.C.","win":7,"draw":5,"loss":18,"for":33,"against":60},
+{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":5,"draw":10,"loss":15,"for":40,"against":58},
+{"country":"nir","name":"Loughgall","id":"Loughgall_F.C.","win":1,"draw":8,"loss":21,"for":23,"against":77,"isRemoved":true}
 ]

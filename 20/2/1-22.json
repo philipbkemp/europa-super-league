@@ -276,4 +276,17 @@
 {"country":"lva","name":"Metta","id":"FK_Metta","win":5,"draw":5,"loss":18,"for":33,"against":55},
 {"country":"lva","name":"Noah Jurmala","id":"FC_Noah_Jurmala","win":1,"draw":0,"loss":27,"for":8,"against":96,"isRemoved":true,"removedNote":"Withdrew from the league","isNew":true},
 {"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew from the league; Record expunged"}
+][
+{"country":"nir","name":"Linfield","id":"linfield_fc","win":24,"draw":11,"loss":3,"for":67,"against":24,"isChampion":true},
+{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":24,"draw":10,"loss":4,"for":61,"against":29},
+{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":21,"draw":8,"loss":9,"for":68,"against":44},
+{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":21,"draw":5,"loss":12,"for":60,"against":36},
+{"country":"nir","name":"Larne","id":"Larne_F.C.","win":17,"draw":11,"loss":10,"for":61,"against":39},
+{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":14,"draw":9,"loss":15,"for":55,"against":45},
+{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":15,"draw":9,"loss":14,"for":54,"against":50},
+{"country":"nir","name":"Ballymena United","id":"Ballymena_United_F.C.","win":16,"draw":5,"loss":17,"for":46,"against":52},
+{"country":"nir","name":"Dungannon Swifts","id":"Dungannon_Swifts_F.C.","win":11,"draw":2,"loss":25,"for":46,"against":86},
+{"country":"nir","name":"Carrick Rangers","id":"Carrick_Rangers_F.C.","win":9,"draw":7,"loss":22,"for":41,"against":67},
+{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":5,"draw":10,"loss":23,"for":29,"against":72},
+{"country":"nir","name":"Warrenpoint Town","id":"Warrenpoint_Town_F.C.","win":6,"draw":3,"loss":29,"for":35,"against":79,"isRemoved":true}
 ]

@@ -257,4 +257,21 @@
 {"country":"lva","name":"Gauja","id":"Valmiera_FC","win":6,"draw":5,"loss":17,"for":27,"against":70,"isRemoved":true},
 {"country":"lva","name":"Auda","id":"FK_Auda","win":4,"draw":1,"loss":23,"for":21,"against":88},
 {"country":"lva","name":"RKB-Arma","id":"RKB-Arma","win":2,"draw":4,"loss":22,"for":23,"against":115,"isRemoved":true,"isNew":true}
+][
+{"country":"nir","name":"Linfield","id":"linfield_fc","win":22,"draw":7,"loss":1,"for":67,"against":16,"isChampion":true},
+{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":22,"draw":4,"loss":4,"for":71,"against":22},
+{"country":"nir","name":"Lisburn Distillery","id":"Lisburn_Distillery_F.C.","win":16,"draw":7,"loss":7,"for":45,"against":30},
+{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":14,"draw":9,"loss":7,"for":48,"against":36},
+{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":15,"draw":5,"loss":10,"for":48,"against":27},
+{"country":"nir","name":"Ballymena United","id":"Ballymena_United_F.C.","win":13,"draw":8,"loss":9,"for":41,"against":35,"isReturning":true},
+{"country":"nir","name":"Limavady United","id":"Limavady_United_F.C.","win":12,"draw":5,"loss":13,"for":41,"against":44,"isNew":true},
+{"country":"nir","name":"Ards","id":"Ards_F.C.","win":9,"draw":11,"loss":10,"for":36,"against":46},
+{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":10,"draw":6,"loss":14,"for":33,"against":38},
+{"country":"nir","name":"Dungannon Swifts","id":"Dungannon_Swifts_F.C.","win":10,"draw":6,"loss":14,"for":36,"against":48,"isNew":true},
+{"country":"nir","name":"Institute","id":"Institute_F.C.","win":9,"draw":7,"loss":14,"for":38,"against":53},
+{"country":"nir","name":"Newry Town","id":"Newry_City_F.C.","win":8,"draw":9,"loss":13,"for":35,"against":53},
+{"country":"nir","name":"Omagh Town","id":"Omagh_Town_F.C.","win":9,"draw":4,"loss":17,"for":37,"against":58},
+{"country":"nir","name":"Larne","id":"Larne_F.C.","win":7,"draw":8,"loss":15,"for":42,"against":51,"isReturning":true},
+{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":6,"draw":8,"loss":16,"for":27,"against":45},
+{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":4,"draw":4,"loss":22,"for":24,"against":67,"isRemoved":true}
 ]

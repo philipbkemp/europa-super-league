@@ -271,4 +271,13 @@
 {"country":"lva","name":"DAG-Liepāja","id":"FK_Liepājas_Metalurgs","win":7,"draw":7,"loss":10,"for":26,"against":34,"isReturning":true},
 {"country":"lva","name":"Olimpija Rīga","id":"Olimpija_Rīga","win":5,"draw":5,"loss":14,"for":29,"against":57,"isRemoved":true},
 {"country":"lva","name":"Kvadrāts","id":"FK_Kvadrāts","win":5,"draw":2,"loss":17,"for":22,"against":63,"isRemoved":true,"isNew":true}
+][
+{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":16,"draw":8,"loss":4,"for":61,"against":41,"isChampion":true},
+{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":15,"draw":7,"loss":6,"for":45,"against":32},
+{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":13,"draw":7,"loss":8,"for":56,"against":38},
+{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":13,"draw":5,"loss":10,"for":47,"against":32},
+{"country":"nir","name":"Linfield","id":"linfield_fc","win":11,"draw":8,"loss":9,"for":35,"against":36},
+{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":6,"draw":11,"loss":11,"for":28,"against":49},
+{"country":"nir","name":"Ards","id":"Ards_F.C.","win":6,"draw":7,"loss":15,"for":29,"against":43},
+{"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":3,"draw":5,"loss":20,"for":24,"against":54,"isRemoved":true}
 ]

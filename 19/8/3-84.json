@@ -284,4 +284,19 @@
 {"country":"lva-ssr","name":"Automobilists","id":"Automobilists","win":7,"draw":3,"loss":16,"for":22,"against":65,"isRemoved":true},
 {"country":"lva-ssr","name":"Ostinieks","id":"Ostinieks","win":6,"draw":2,"loss":18,"for":22,"against":47,"isRemoved":true},
 {"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":6,"draw":1,"loss":19,"for":29,"against":77,"isRemoved":true}
+][
+{"country":"nir","name":"Linfield","id":"linfield_fc","win":22,"draw":1,"loss":3,"for":76,"against":23,"isChampion":true},
+{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":18,"draw":6,"loss":2,"for":65,"against":19},
+{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":12,"draw":7,"loss":7,"for":28,"against":23},
+{"country":"nir","name":"Ards","id":"Ards_F.C.","win":9,"draw":11,"loss":6,"for":32,"against":26},
+{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":11,"draw":6,"loss":9,"for":44,"against":34},
+{"country":"nir","name":"Ballymena United","id":"Ballymena_United_F.C.","win":10,"draw":8,"loss":8,"for":32,"against":30},
+{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":10,"draw":7,"loss":9,"for":41,"against":33},
+{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":11,"draw":5,"loss":10,"for":38,"against":41},
+{"country":"nir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":11,"draw":4,"loss":11,"for":35,"against":42},
+{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":9,"draw":6,"loss":11,"for":28,"against":31},
+{"country":"nir","name":"Newry Town","id":"Newry_City_F.C.","win":8,"draw":3,"loss":15,"for":30,"against":48,"isReturning":true},
+{"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":4,"draw":6,"loss":16,"for":24,"against":57},
+{"country":"nir","name":"Larne","id":"Larne_F.C.","win":7,"draw":1,"loss":18,"for":25,"against":58,"deduct":-2},
+{"country":"nir","name":"Carrick Rangers","id":"Carrick_Rangers_F.C.","win":3,"draw":3,"loss":20,"for":24,"against":57,"isNew":true}
 ]

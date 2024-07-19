@@ -121,4 +121,15 @@
 {"country":"lva","name":"Amatieris","id":"amatieris","win":3,"draw":3,"loss":4,"for":13,"against":21,"isNew":true},
 {"country":"lva","name":"JKS","id":"jks","win":1,"draw":1,"loss":8,"for":13,"against":28},
 {"country":"lva","name":"Union","id":"union","win":1,"draw":1,"loss":8,"for":11,"against":47,"isRemoved":true}
+][
+{"country":"nir","name":"Queen's Island","id":"Queen%27s_Island_F.C.","win":12,"draw":4,"loss":2,"for":48,"against":18,"isChampion":true,"deduct":-2},
+{"country":"nir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":7,"draw":6,"loss":5,"for":32,"against":30},
+{"country":"nir","name":"Linfield","id":"linfield_fc","win":8,"draw":4,"loss":6,"for":31,"against":27},
+{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":5,"draw":10,"loss":3,"for":27,"against":30},
+{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":9,"draw":1,"loss":8,"for":32,"against":23},
+{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":6,"draw":6,"loss":6,"for":24,"against":24},
+{"country":"nir","name":"Barn","id":"Barn_F.C.","win":6,"draw":4,"loss":8,"for":23,"against":29,"isNew":true},
+{"country":"nir","name":"Larne","id":"Larne_F.C.","win":6,"draw":4,"loss":8,"for":33,"against":44,"isNew":true},
+{"country":"nir","name":"Ards","id":"Ards_F.C.","win":5,"draw":4,"loss":9,"for":19,"against":30,"isNew":true},
+{"country":"nir","name":"Newry Town","id":"Newry_City_F.C.","win":2,"draw":5,"loss":11,"for":25,"against":39,"isNew":true}
 ]

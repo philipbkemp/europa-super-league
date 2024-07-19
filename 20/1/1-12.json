@@ -276,4 +276,17 @@
 {"country":"lva","name":"FB Gulbene","id":"FB_Gulbene","win":7,"draw":7,"loss":18,"for":39,"against":67,"isNew":true},
 {"country":"lva","name":"Jūrmala-VV","id":"FK_Daugava_(2003)","win":5,"draw":6,"loss":21,"for":34,"against":75},
 {"country":"lva","name":"Olimps/RFS","id":"JFK_Olimps","win":1,"draw":3,"loss":28,"for":19,"against":117,"isRemoved":true}
+][
+{"country":"nir","name":"Linfield","id":"linfield_fc","win":27,"draw":4,"loss":7,"for":79,"against":29,"isChampion":true},
+{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":22,"draw":5,"loss":11,"for":72,"against":47},
+{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":21,"draw":6,"loss":11,"for":83,"against":62},
+{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":18,"draw":12,"loss":8,"for":61,"against":38},
+{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":18,"draw":10,"loss":10,"for":63,"against":47},
+{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":16,"draw":9,"loss":13,"for":67,"against":52},
+{"country":"nir","name":"Ballymena United","id":"Ballymena_United_F.C.","win":14,"draw":8,"loss":16,"for":66,"against":71},
+{"country":"nir","name":"Donegal Celtic","id":"Donegal_Celtic_F.C.","win":12,"draw":5,"loss":21,"for":44,"against":80},
+{"country":"nir","name":"Dungannon Swifts","id":"Dungannon_Swifts_F.C.","win":8,"draw":11,"loss":19,"for":42,"against":71},
+{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":8,"draw":10,"loss":20,"for":60,"against":71},
+{"country":"nir","name":"Lisburn Distillery","id":"Lisburn_Distillery_F.C.","win":8,"draw":8,"loss":22,"for":56,"against":84},
+{"country":"nir","name":"Carrick Rangers","id":"Carrick_Rangers_F.C.","win":7,"draw":10,"loss":21,"for":50,"against":91,"isRemoved":true,"isReturning":true}
 ]

@@ -271,4 +271,21 @@
 {"country":"lva","name":"Jūrmala","id":"FK_Daugava_(2003)","win":7,"draw":5,"loss":16,"for":28,"against":51},
 {"country":"lva","name":"Dinaburg","id":"Dinaburg_FC","win":6,"draw":2,"loss":20,"for":23,"against":58},
 {"country":"lva","name":"Olimps Rīga","id":"JFK_Olimps","win":2,"draw":2,"loss":24,"for":15,"against":63,"isReturning":true}
+][
+{"country":"nir","name":"Linfield","id":"linfield_fc","win":23,"draw":5,"loss":2,"for":71,"against":18,"isChampion":true},
+{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":22,"draw":5,"loss":3,"for":69,"against":24},
+{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":18,"draw":6,"loss":6,"for":55,"against":32},
+{"country":"nir","name":"Lisburn Distillery","id":"Lisburn_Distillery_F.C.","win":17,"draw":7,"loss":6,"for":50,"against":28},
+{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":15,"draw":2,"loss":13,"for":44,"against":39,"isRemoved":true},
+{"country":"nir","name":"Ballymena United","id":"Ballymena_United_F.C.","win":12,"draw":8,"loss":10,"for":42,"against":41},
+{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":12,"draw":7,"loss":11,"for":45,"against":47},
+{"country":"nir","name":"Newry City","id":"Newry_City_F.C.","win":13,"draw":4,"loss":13,"for":45,"against":52},
+{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":11,"draw":7,"loss":12,"for":41,"against":50},
+{"country":"nir","name":"Dungannon Swifts","id":"Dungannon_Swifts_F.C.","win":9,"draw":9,"loss":12,"for":38,"against":44},
+{"country":"nir","name":"Donegal Celtic","id":"Donegal_Celtic_F.C.","win":9,"draw":8,"loss":13,"for":39,"against":47,"isRemoved":true},
+{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":9,"draw":3,"loss":18,"for":37,"against":51},
+{"country":"nir","name":"Larne","id":"Larne_F.C.","win":7,"draw":4,"loss":19,"for":44,"against":71,"isRemoved":true},
+{"country":"nir","name":"Institute","id":"Institute_F.C.","win":5,"draw":8,"loss":17,"for":23,"against":41,"isReturning":true},
+{"country":"nir","name":"Limavady United","id":"Limavady_United_F.C.","win":6,"draw":5,"loss":19,"for":26,"against":57,"isRemoved":true},
+{"country":"nir","name":"Armagh City","id":"Armagh_City_F.C.","win":5,"draw":6,"loss":19,"for":29,"against":56,"isRemoved":true}
 ]

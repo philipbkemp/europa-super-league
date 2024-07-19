@@ -279,4 +279,17 @@
 {"country":"lva","name":"Jelgava","id":"FK_Jelgava","win":5,"draw":8,"loss":14,"for":26,"against":46},
 {"country":"lva","name":"METTA/LU","id":"FK_Metta","win":4,"draw":7,"loss":16,"for":15,"against":47},
 {"country":"lva","name":"Ilūkstes NSS","id":"Augšdaugavas_NSS","win":2,"draw":6,"loss":19,"for":26,"against":93,"isRemoved":true,"isReturning":true}
+][
+{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":26,"draw":7,"loss":5,"for":88,"against":39,"isChampion":true},
+{"country":"nir","name":"Linfield","id":"linfield_fc","win":24,"draw":7,"loss":7,"for":81,"against":46},
+{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":18,"draw":12,"loss":8,"for":67,"against":42},
+{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":18,"draw":8,"loss":12,"for":77,"against":53},
+{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":16,"draw":11,"loss":11,"for":54,"against":42},
+{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":15,"draw":6,"loss":17,"for":75,"against":79},
+{"country":"nir","name":"Ballymena United","id":"Ballymena_United_F.C.","win":13,"draw":8,"loss":17,"for":48,"against":59},
+{"country":"nir","name":"Dungannon Swifts","id":"Dungannon_Swifts_F.C.","win":12,"draw":8,"loss":18,"for":49,"against":66},
+{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":10,"draw":12,"loss":16,"for":51,"against":61},
+{"country":"nir","name":"Ballinamallard United","id":"Ballinamallard_United_F.C.","win":10,"draw":9,"loss":19,"for":35,"against":70},
+{"country":"nir","name":"Warrenpoint Town","id":"Warrenpoint_Town_F.C.","win":10,"draw":6,"loss":22,"for":43,"against":72,"isNew":true},
+{"country":"nir","name":"Ards","id":"Ards_F.C.","win":6,"draw":6,"loss":26,"for":44,"against":83,"isRemoved":true,"isReturning":true}
 ]

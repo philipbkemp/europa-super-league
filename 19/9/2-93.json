@@ -275,4 +275,21 @@
 {"country":"lva","name":"Gauja","id":"FK_Gauja","win":6,"draw":3,"loss":13,"for":26,"against":48},
 {"country":"lva","name":"Starts","id":"FK_Starts","win":2,"draw":0,"loss":20,"for":19,"against":76,"isRemoved":true},
 {"country":"lva","name":"Dilar","id":"Augšdaugavas_NSS","win":0,"draw":2,"loss":20,"for":10,"against":65,"isRemoved":true}
+][
+{"country":"nir","name":"Linfield","id":"linfield_fc","win":20,"draw":6,"loss":4,"for":49,"against":15,"isChampion":true},
+{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":21,"draw":3,"loss":6,"for":53,"against":27},
+{"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":20,"draw":4,"loss":6,"for":61,"against":32},
+{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":18,"draw":9,"loss":3,"for":70,"against":26},
+{"country":"nir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":20,"draw":2,"loss":8,"for":61,"against":36},
+{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":14,"draw":6,"loss":10,"for":48,"against":36},
+{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":13,"draw":8,"loss":9,"for":70,"against":40},
+{"country":"nir","name":"Ards","id":"Ards_F.C.","win":12,"draw":9,"loss":9,"for":45,"against":45},
+{"country":"nir","name":"Carrick Rangers","id":"Carrick_Rangers_F.C.","win":12,"draw":2,"loss":16,"for":50,"against":73},
+{"country":"nir","name":"Ballymena United","id":"Ballymena_United_F.C.","win":10,"draw":6,"loss":14,"for":41,"against":51},
+{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":10,"draw":3,"loss":17,"for":42,"against":48},
+{"country":"nir","name":"Omagh Town","id":"Omagh_Town_F.C.","win":9,"draw":5,"loss":16,"for":38,"against":57},
+{"country":"nir","name":"Larne","id":"Larne_F.C.","win":9,"draw":3,"loss":18,"for":41,"against":59},
+{"country":"nir","name":"Newry Town","id":"Newry_City_F.C.","win":5,"draw":5,"loss":20,"for":30,"against":72},
+{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":5,"draw":3,"loss":22,"for":28,"against":63},
+{"country":"nir","name":"Ballyclare Comrades","id":"Ballyclare_Comrades_F.C.","win":2,"draw":6,"loss":22,"for":28,"against":75}
 ]

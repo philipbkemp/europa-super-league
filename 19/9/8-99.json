@@ -269,4 +269,15 @@
 {"country":"lva","name":"LU-Daugava","id":"Torpedo_Rīga","win":7,"draw":9,"loss":12,"for":42,"against":42,"isRemoved":true},
 {"country":"lva","name":"Rēzekne","id":"SK_Blāzma","win":2,"draw":5,"loss":21,"for":22,"against":80},
 {"country":"lva","name":"Ranto-Miks","id":"Ranto-Miks","win":2,"draw":5,"loss":21,"for":25,"against":106,"isRemoved":true,"isNew":true}
+][
+{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":24,"draw":6,"loss":6,"for":74,"against":35,"isChampion":true},
+{"country":"nir","name":"Linfield","id":"linfield_fc","win":20,"draw":10,"loss":6,"for":68,"against":39},
+{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":18,"draw":8,"loss":10,"for":48,"against":39},
+{"country":"nir","name":"Newry Town","id":"Newry_City_F.C.","win":17,"draw":9,"loss":10,"for":52,"against":46,"isReturning":true},
+{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":13,"draw":12,"loss":11,"for":49,"against":35},
+{"country":"nir","name":"Ballymena United","id":"Ballymena_United_F.C.","win":11,"draw":8,"loss":17,"for":40,"against":42},
+{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":10,"draw":9,"loss":17,"for":34,"against":53},
+{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":9,"draw":10,"loss":17,"for":41,"against":47},
+{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":7,"draw":14,"loss":15,"for":31,"against":47},
+{"country":"nir","name":"Omagh Town","id":"Omagh_Town_F.C.","win":5,"draw":6,"loss":25,"for":25,"against":79,"isRemoved":true}
 ]

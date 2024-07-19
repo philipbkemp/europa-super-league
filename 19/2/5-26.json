@@ -137,4 +137,17 @@
 {"country":"lva","name":"Amatieris","id":"amatieris","win":2,"draw":1,"loss":2,"for":7,"against":7,"isRemoved":true,"removedNote":"League moved to regional format next season"},
 {"country":"lva","name":"Kaiserwald","id":"kaiserwald","win":1,"draw":0,"loss":4,"for":8,"against":19,"isReturning":true,"isRemoved":true,"removedNote":"League moved to regional format next season"},
 {"country":"lva","name":"ASK","id":"ask","win":0,"draw":0,"loss":5,"for":3,"against":14,"isRemoved":true,"removedNote":"League moved to regional format next season"}
+][
+{"country":"nir","name":"Belfast Celtic","id":"Belfast_Celtic_F.C.","win":16,"draw":1,"loss":5,"for":52,"against":38,"isChampion":true},
+{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":13,"draw":4,"loss":5,"for":53,"against":31},
+{"country":"nir","name":"Larne","id":"Larne_F.C.","win":11,"draw":5,"loss":6,"for":45,"against":33},
+{"country":"nir","name":"Ards","id":"Ards_F.C.","win":11,"draw":4,"loss":7,"for":56,"against":42},
+{"country":"nir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":10,"draw":5,"loss":7,"for":37,"against":35},
+{"country":"nir","name":"Queen's Island","id":"Queen%27s_Island_F.C.","win":9,"draw":5,"loss":8,"for":42,"against":37},
+{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":10,"draw":3,"loss":9,"for":36,"against":37},
+{"country":"nir","name":"Linfield","id":"linfield_fc","win":8,"draw":5,"loss":9,"for":47,"against":46},
+{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":7,"draw":7,"loss":8,"for":43,"against":41},
+{"country":"nir","name":"Newry Town","id":"Newry_City_F.C.","win":5,"draw":5,"loss":12,"for":33,"against":53},
+{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":4,"draw":6,"loss":12,"for":29,"against":39},
+{"country":"nir","name":"Barn","id":"Barn_F.C.","win":2,"draw":2,"loss":18,"for":25,"against":66}
 ]

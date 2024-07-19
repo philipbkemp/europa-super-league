@@ -69,3 +69,6 @@ p a:hover { color: darkblue; }
 .club-list img[src*='/icons/'] { height: 16px; position: relative; top: 4px; }
 .rules-list li { margin-bottom: 10px; }
 .club-list .tooltip-inner { background: #eee; color: black; border: 1px solid black;}
+h2 { font-size: 1.5rem; font-weight: normal; }
+h2 img { margin-right: 10px; position: relative; top: -2px; height: 24px; }
+.old-league { color: #c7c8c9; }

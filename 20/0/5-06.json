@@ -267,4 +267,21 @@
 {"country":"lva","name":"Jūrmala","id":"FK_Daugava_(2003)","win":9,"draw":5,"loss":14,"for":37,"against":38},
 {"country":"lva","name":"Olimps Rīga","id":"JFK_Olimps","win":5,"draw":4,"loss":19,"for":24,"against":68,"isRemoved":true,"isNew":true},
 {"country":"lva","name":"Venta","id":"FK_Venta","win":2,"draw":3,"loss":23,"for":18,"against":79,"isRemoved":true,"isReturning":true}
+][
+{"country":"nir","name":"Linfield","id":"linfield_fc","win":23,"draw":6,"loss":1,"for":88,"against":23,"isChampion":true},
+{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":19,"draw":6,"loss":5,"for":60,"against":28},
+{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":16,"draw":6,"loss":8,"for":56,"against":36},
+{"country":"nir","name":"Dungannon Swifts","id":"Dungannon_Swifts_F.C.","win":13,"draw":10,"loss":7,"for":61,"against":41},
+{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":13,"draw":8,"loss":9,"for":45,"against":35},
+{"country":"nir","name":"Newry City","id":"Newry_City_F.C.","win":12,"draw":9,"loss":9,"for":45,"against":35},
+{"country":"nir","name":"Ballymena United","id":"Ballymena_United_F.C.","win":13,"draw":6,"loss":11,"for":42,"against":48},
+{"country":"nir","name":"Lisburn Distillery","id":"Lisburn_Distillery_F.C.","win":12,"draw":8,"loss":10,"for":44,"against":38},
+{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":11,"draw":4,"loss":15,"for":40,"against":57},
+{"country":"nir","name":"Limavady United","id":"Limavady_United_F.C.","win":9,"draw":9,"loss":12,"for":42,"against":49},
+{"country":"nir","name":"Loughgall","id":"Loughgall_F.C.","win":9,"draw":7,"loss":14,"for":33,"against":38},
+{"country":"nir","name":"Larne","id":"Larne_F.C.","win":7,"draw":9,"loss":14,"for":42,"against":63},
+{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":7,"draw":9,"loss":14,"for":35,"against":59,"isReturning":true},
+{"country":"nir","name":"Armagh City","id":"Armagh_City_F.C.","win":9,"draw":3,"loss":18,"for":38,"against":69,"isNew":true},
+{"country":"nir","name":"Institute","id":"Institute_F.C.","win":6,"draw":8,"loss":16,"for":37,"against":58,"isRemoved":true},
+{"country":"nir","name":"Ards","id":"Ards_F.C.","win":6,"draw":2,"loss":22,"for":31,"against":62,"isRemoved":true}
 ]

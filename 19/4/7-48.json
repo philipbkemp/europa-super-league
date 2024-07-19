@@ -224,4 +224,17 @@
 {"country":"lva-ssr","name":"Dinamo Rīga","id":"Dinamo_Riga","win":4,"draw":2,"loss":6,"for":28,"against":31},
 {"country":"lva-ssr","name":"AVN","id":"FK_ASK#FK_AVN","win":2,"draw":3,"loss":7,"for":16,"against":27},
 {"country":"lva-ssr","name":"Spartak","id":"Spartak_Riga","win":1,"draw":3,"loss":8,"for":17,"against":30}
+][
+{"country":"nir","name":"Belfast Celtic","id":"Belfast_Celtic_F.C.","win":19,"draw":1,"loss":2,"for":84,"against":26,"isChampion":true,"isReturning":true},
+{"country":"nir","name":"Linfield","id":"linfield_fc","win":15,"draw":5,"loss":2,"for":55,"against":19,"isReturning":true},
+{"country":"nir","name":"Ballymena United","id":"Ballymena_United_F.C.","win":10,"draw":7,"loss":5,"for":52,"against":38,"isReturning":true},
+{"country":"nir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":12,"draw":2,"loss":8,"for":35,"against":32,"isReturning":true},
+{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":9,"draw":8,"loss":5,"for":44,"against":29,"isReturning":true},
+{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":8,"draw":6,"loss":8,"for":48,"against":46,"isReturning":true},
+{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":8,"draw":6,"loss":8,"for":45,"against":45,"isReturning":true},
+{"country":"nir","name":"Ards","id":"Ards_F.C.","win":7,"draw":4,"loss":11,"for":37,"against":54,"isReturning":true},
+{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":7,"draw":4,"loss":11,"for":36,"against":47,"isReturning":true},
+{"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":6,"draw":4,"loss":12,"for":36,"against":55,"isReturning":true},
+{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":3,"draw":3,"loss":16,"for":31,"against":60,"isReturning":true},
+{"country":"nir","name":"Derry City","id":"Derry_City_F.C.","win":2,"draw":2,"loss":18,"for":18,"against":70,"isReturning":true}
 ]
