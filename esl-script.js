@@ -19,7 +19,7 @@ const countries = {
 };
 
 clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram","us_hollerich_bonnevoie"];
-clubPages = ["us_hollerich_bonnevoie"];
+//clubPages = [];
 
 if ( $("h1 .placeholder").length !== 0 ) {
 
@@ -596,16 +596,24 @@ function checkRemoved() {
 }
 
 function listClubsForCountry() {
-	country = prompt("country code?");
 	data = JSON.parse(prompt("feed me data"));
 	teams = data.teams;
 	teams.sort();
+	thisSeason = data.previous;
 
 	btns = [];
+	thisSeasonBtns = [];
 
 	$.each(teams,function(k,v){
-		btns.push('<div class="col"><a class="btn btn-outline-dark w-100 mb-2 disabled" disabled href="'+country+'/'+v+'.html">'+v+'</a></div>');
+		if ( thisSeason.indexOf(v) === -1 ) {
+			btns.push('<div class="col"><a class="btn btn-outline-dark w-100 mb-2 disabled" disabled href="'+v+'.html">'+v+'</a></div>');
+		} else {
+			thisSeasonBtns.push('<div class="col"><a class="btn btn-outline-dark w-100 mb-2 disabled" disabled href="'+v+'.html">'+v+'</a></div>');
+		}
 	});
 
+	console.warn("This season");
+	console.log(thisSeasonBtns.join("\n"));
+	console.warn("Previous teams");
 	console.log(btns.join("\n"));
 }
