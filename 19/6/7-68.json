@@ -301,4 +301,20 @@
 {"country":"irl","name":"Cork Hibernians","id":"Cork_Hibernians_F.C.","win":6,"draw":5,"loss":11,"for":19,"against":28},
 {"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":6,"draw":4,"loss":12,"for":24,"against":48},
 {"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":2,"draw":4,"loss":16,"for":20,"against":48}
+][
+{"country":"ltu","name":"Saliutas Vilnius","id":"FK_Saliutas_Vilnius","win":17,"draw":9,"loss":2,"for":43,"against":11,"isChampion":true,"isRemoved":true},
+{"country":"ltu","name":"Inkaras Kaunas","id":"FK_Inkaras_Kaunas","win":16,"draw":8,"loss":4,"for":33,"against":14},
+{"country":"ltu","name":"Nevezis Kedainiai","id":"FK_Nevėžis","win":13,"draw":11,"loss":4,"for":34,"against":12},
+{"country":"ltu","name":"Statyba Panevėžys","id":"Statyba_Panevėžys","win":16,"draw":4,"loss":8,"for":42,"against":19},
+{"country":"ltu","name":"Minija Kretinga","id":"FK_Minija_Kretinga","win":11,"draw":11,"loss":6,"for":36,"against":25},
+{"country":"ltu","name":"Politechnika Kaunas","id":"Politechnika_Kaunas","win":11,"draw":8,"loss":9,"for":34,"against":26,"isNew":true},
+{"country":"ltu","name":"Statybininkas Siauliai","id":"FK_Kareda_Kaunas","win":9,"draw":11,"loss":8,"for":35,"against":26},
+{"country":"ltu","name":"Zalgiris N. Vilnia","id":"Zalgiris_N.Vilnia","win":7,"draw":12,"loss":9,"for":28,"against":27,"isReturning":true},
+{"country":"ltu","name":"Atletas Kaunas","id":"FK_Atletas_Kaunas","win":7,"draw":12,"loss":9,"for":19,"against":23},
+{"country":"ltu","name":"Lima Kaunas","id":"Lima_Kaunas","win":10,"draw":5,"loss":13,"for":26,"against":38},
+{"country":"ltu","name":"Linu audiniai Plunge","id":"Linu_audiniai_Plunge","win":9,"draw":4,"loss":15,"for":18,"against":39},
+{"country":"ltu","name":"Chemikas Klaipėda","id":"Chemikas_Klaipėda","win":7,"draw":6,"loss":15,"for":19,"against":39,"isNew":true,"isRemoved":true},
+{"country":"ltu","name":"Banga Kaunas","id":"FBK_Kaunas","win":5,"draw":8,"loss":15,"for":17,"against":39,"isNew":true},
+{"country":"ltu","name":"Baltija Klaipėda","id":"Baltija_Klaipėda","win":7,"draw":4,"loss":17,"for":16,"against":47,"isReturning":true,"isRemoved":true},
+{"country":"ltu","name":"Elnias Siauliai","id":"Elnias_Šiauliai","win":6,"draw":5,"loss":17,"for":22,"against":37}
 ]

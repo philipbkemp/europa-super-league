@@ -252,4 +252,20 @@
 {"country":"irl","name":"Transport","id":"Transport_F.C.","win":4,"draw":6,"loss":8,"for":23,"against":29},
 {"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":2,"draw":8,"loss":8,"for":26,"against":42},
 {"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":2,"draw":4,"loss":12,"for":16,"against":46}
+][
+{"country":"ltu","name":"Elnias Šiauliai","id":"Elnias_Šiauliai","win":12,"draw":0,"loss":2,"for":59,"against":19,"isChampion":true,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"ltu","name":"Inkaras Kaunas","id":"FK_Inkaras_Kaunas","win":12,"draw":0,"loss":2,"for":78,"against":9,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"ltu","name":"Vėliava Šiauliai","id":"Vėliava_Šiauliai","win":11,"draw":1,"loss":2,"for":40,"against":24,"isReturning":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"ltu","name":"Audiniai Kaunas","id":"Audiniai_Kaunas","win":10,"draw":1,"loss":3,"for":53,"against":28,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"ltu","name":"Audra Klaipėda","id":"Audra_Klaipėda","win":10,"draw":1,"loss":3,"for":40,"against":15,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"ltu","name":"ASK Kaunas","id":"ASK_Kaunas","win":7,"draw":0,"loss":7,"for":43,"against":36,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"ltu","name":"Žalgiris Marijampolė","id":"FK_Sūduva","win":6,"draw":1,"loss":7,"for":16,"against":23,"isReturning":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"ltu","name":"Spartakas Plungė","id":"Spartakas_Plungė","win":6,"draw":1,"loss":7,"for":22,"against":45,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"ltu","name":"Spartakas Vilnius","id":"Spartakas_Vilnius","win":5,"draw":2,"loss":7,"for":30,"against":37,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"ltu","name":"Dinamo Vilnius","id":"Dinamo_Vilnius","win":6,"draw":0,"loss":8,"for":26,"against":39,"isReturning":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"ltu","name":"Žalgiris Kybartai","id":"Žalgiris_Kybartai","win":6,"draw":0,"loss":8,"for":27,"against":41,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"ltu","name":"Spartakas Kaunas","id":"Spartakas_Kaunas","win":3,"draw":2,"loss":9,"for":18,"against":36,"isReturning":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"ltu","name":"Žalgiris Tauragė","id":"FK_Tauras_Tauragė","win":3,"draw":0,"loss":11,"for":28,"against":67,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"ltu","name":"Žalgiris Ukmergė","id":"Žalgiris_Ukmergė","win":2,"draw":1,"loss":11,"for":14,"against":45,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
+{"country":"ltu","name":"Žalgiris Panevėžys","id":"Statyba_Panevėžys","win":1,"draw":0,"loss":13,"for":17,"against":47,"isReturning":true,"isRemoved":true,"removedNote":"Next season is a grouped format"}
 ]

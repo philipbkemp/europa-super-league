@@ -246,4 +246,15 @@
 {"country":"irl","name":"Cork United","id":"Cork_United_F.C._(1940–1948)","win":3,"draw":6,"loss":5,"for":29,"against":30,"isRemoved":true},
 {"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":5,"draw":1,"loss":8,"for":18,"against":24},
 {"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":4,"draw":2,"loss":8,"for":19,"against":29}
+][
+{"country":"ltu","name":"Lokomotyvas Kaunas","id":"Lokomotyvas_Kaunas","win":14,"draw":0,"loss":3,"for":51,"against":23,"isChampion":true,"isRemoved":true,"removedNote":"Next season is a regionalised league"},
+{"country":"ltu","name":"Spartakas Šiauliai","id":"Spartakas_Šiauliai","win":11,"draw":1,"loss":5,"for":58,"against":30,"isRemoved":true,"removedNote":"Next season is a regionalised league"},
+{"country":"ltu","name":"Žalgiris Klaipėda","id":"Baltija_Klaipėda","win":10,"draw":3,"loss":4,"for":33,"against":29,"isNew":true,"isRemoved":true,"removedNote":"Next season is a regionalised league"},
+{"country":"ltu","name":"Spartakas Kaunas","id":"Spartakas_Kaunas","win":10,"draw":2,"loss":5,"for":55,"against":39,"isRemoved":true,"removedNote":"Next season is a regionalised league"},
+{"country":"ltu","name":"Dinamo Kaunas","id":"Dinamo_Kaunas","win":7,"draw":3,"loss":7,"for":43,"against":31,"isRemoved":true,"removedNote":"Next season is a regionalised league"},
+{"country":"ltu","name":"Vėliava Šiauliai","id":"Vėliava_Šiauliai","win":7,"draw":1,"loss":9,"for":51,"against":43,"isNew":true,"isRemoved":true,"removedNote":"Next season is a regionalised league"},
+{"country":"ltu","name":"Žalgiris Marijampolė","id":"FK_Sūduva","win":6,"draw":3,"loss":8,"for":33,"against":38,"isNew":true,"isRemoved":true,"removedNote":"Next season is a regionalised league"},
+{"country":"ltu","name":"Žalgiris Panevėžys","id":"Statyba_Panevėžys","win":7,"draw":1,"loss":9,"for":21,"against":33,"isRemoved":true,"removedNote":"Next season is a regionalised league"},
+{"country":"ltu","name":"Dinamo Vilnius","id":"Dinamo_Vilnius","win":2,"draw":0,"loss":15,"for":11,"against":49,"isRemoved":true,"removedNote":"Next season is a regionalised league"},
+{"country":"ltu","name":"Žalgiris Vilnius","id":"FK_Žalgiris","win":0,"draw":0,"loss":9,"for":3,"against":44,"isRemoved":true,"removedNote":"Next season is a regionalised league"}
 ]

@@ -222,4 +222,13 @@
 {"country":"irl","name":"Brideville","id":"Brideville_F.C.","win":6,"draw":6,"loss":10,"for":37,"against":49},
 {"country":"irl","name":"Cork City","id":"Cork_City_F.C._(1938–1940)","win":7,"draw":3,"loss":12,"for":39,"against":49,"isNew":true,"isRemoved":true},
 {"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":4,"draw":8,"loss":10,"for":36,"against":59}
+][
+{"country":"ltu","name":"LGSF Kaunas","id":"LGSF_Kaunas","win":8,"draw":1,"loss":4,"for":31,"against":20,"isChampion":true,"isRemoved":true,"removedNote":"Next season was split into two seasonal groups with regions"},
+{"country":"ltu","name":"Kovas Kaunas","id":"ŠŠ_Kovas_Kaunas","win":8,"draw":0,"loss":5,"for":28,"against":18,"isRemoved":true,"removedNote":"Next season was split into two seasonal groups with regions"},
+{"country":"ltu","name":"KSS Klaipėda/Telšiai","id":"KSS_Klaipėda","win":8,"draw":0,"loss":5,"for":34,"against":31,"isRemoved":true,"removedNote":"Next season was split into two seasonal groups with regions"},
+{"country":"ltu","name":"Tauras Kaunas","id":"Tauras_Kaunas","win":5,"draw":3,"loss":5,"for":21,"against":17,"isRemoved":true,"removedNote":"Next season was split into two seasonal groups with regions"},
+{"country":"ltu","name":"CJSO Kaunas","id":"CJSO_Kaunas","win":5,"draw":3,"loss":5,"for":23,"against":24,"isRemoved":true,"removedNote":"Next season was split into two seasonal groups with regions"},
+{"country":"ltu","name":"LFLS Kaunas","id":"LFLS_Kaunas","win":4,"draw":3,"loss":6,"for":20,"against":25,"isRemoved":true,"removedNote":"Next season was split into two seasonal groups with regions"},
+{"country":"ltu","name":"MSK Kaunas","id":"MSK_Kaunas","win":4,"draw":1,"loss":8,"for":15,"against":26,"isRemoved":true,"removedNote":"Next season was split into two seasonal groups with regions"},
+{"country":"ltu","name":"Švyturys Klaipėda","id":"Švyturys_Klaipėda","win":1,"draw":1,"loss":5,"for":9,"against":20,"isRemoved":true,"removedNote":"Next season was split into two seasonal groups with regions"}
 ]

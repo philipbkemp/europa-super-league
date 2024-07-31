@@ -195,4 +195,13 @@
 {"country":"irl","name":"Dolphin","id":"Dolphin_F.C._(Ireland)","win":5,"draw":4,"loss":9,"for":28,"against":39},
 {"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":4,"draw":5,"loss":9,"for":24,"against":40},
 {"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":1,"draw":4,"loss":13,"for":22,"against":43}
+][
+{"country":"ltu","name":"LFLS Kaunas","id":"LFLS_Kaunas","win":6,"draw":0,"loss":1,"for":20,"against":6,"isChampion":true},
+{"country":"ltu","name":"KSS Klaipėda","id":"KSS_Klaipėda","win":5,"draw":2,"loss":0,"for":29,"against":7},
+{"country":"ltu","name":"LGSF Kaunas","id":"LGSF_Kaunas","win":3,"draw":2,"loss":2,"for":18,"against":9},
+{"country":"ltu","name":"Sveikata Kybartai","id":"Sveikata_Kybartai","win":4,"draw":0,"loss":3,"for":12,"against":3},
+{"country":"ltu","name":"Kovas Kaunas","id":"ŠŠ_Kovas_Kaunas","win":2,"draw":3,"loss":2,"for":18,"against":9},
+{"country":"ltu","name":"Makabi Kaunas","id":"Makabi_Kaunas","win":2,"draw":1,"loss":4,"for":9,"against":29,"isReturning":true},
+{"country":"ltu","name":"Freya VfR Klaipėda","id":"Freya_Klaipėda","win":1,"draw":1,"loss":5,"for":5,"against":10,"isNew":true,"isRemoved":true},
+{"country":"ltu","name":"Makabi Šiauliai","id":"Makabi_Šiauliai","win":0,"draw":1,"loss":6,"for":2,"against":34,"isNew":true,"isRemoved":true}
 ]

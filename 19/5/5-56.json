@@ -254,4 +254,16 @@
 {"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":6,"draw":5,"loss":11,"for":37,"against":54},
 {"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":6,"draw":5,"loss":11,"for":35,"against":54},
 {"country":"irl","name":"Transport","id":"Transport_F.C.","win":5,"draw":3,"loss":14,"for":33,"against":59}
+][
+{"country":"ltu","name":"Lima Kaunas","id":"Lima_Kaunas","win":11,"draw":7,"loss":2,"for":38,"against":16,"isChampion":true},
+{"country":"ltu","name":"Raudonasis Spalis Kaunas","id":"Raudonasis_Spalis_Kaunas","win":14,"draw":1,"loss":5,"for":49,"against":23},
+{"country":"ltu","name":"Elfa Vilnius","id":"Elfa_Vilnius","win":12,"draw":4,"loss":4,"for":35,"against":26},
+{"country":"ltu","name":"Inkaras Kaunas","id":"FK_Inkaras_Kaunas","win":9,"draw":6,"loss":5,"for":39,"against":31},
+{"country":"ltu","name":"KPI Kaunas","id":"KPI_Kaunas","win":10,"draw":4,"loss":6,"for":33,"against":30},
+{"country":"ltu","name":"Spartakas Vilnius","id":"Spartakas_Vilnius","win":11,"draw":1,"loss":8,"for":50,"against":38},
+{"country":"ltu","name":"MSK Panevėžys","id":"Statyba_Panevėžys","win":8,"draw":4,"loss":8,"for":44,"against":38,"isReturning":true},
+{"country":"ltu","name":"Elnias Šiauliai","id":"Elnias_Šiauliai","win":5,"draw":5,"loss":10,"for":34,"against":44},
+{"country":"ltu","name":"Trinyčiai Klaipėda","id":"Trinyčiai_Klaipeda","win":5,"draw":3,"loss":12,"for":29,"against":25,"isRemoved":true},
+{"country":"ltu","name":"Gubernija Šiauliai","id":"Gubernija_Šiauliai","win":4,"draw":2,"loss":14,"for":20,"against":62},
+{"country":"ltu","name":"JJPF Kaunas","id":"JJPF_Kaunas","win":2,"draw":1,"loss":17,"for":18,"against":56,"isRemoved":true}
 ]

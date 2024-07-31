@@ -305,4 +305,19 @@
 {"country":"irl","name":"Waterford United","id":"Waterford_F.C.","win":10,"draw":7,"loss":15,"for":34,"against":59,"isRemoved":true,"isReturning":true},
 {"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":6,"draw":14,"loss":12,"for":16,"against":32,"isRemoved":true},
 {"country":"irl","name":"Bray Wanderers","id":"Bray_Wanderers_F.C.","win":5,"draw":13,"loss":14,"for":19,"against":40,"isRemoved":true}
+][
+{"country":"ltu","name":"Ekranas","id":"FK_Ekranas","win":20,"draw":6,"loss":1,"for":50,"against":8,"isChampion":true},
+{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":18,"draw":7,"loss":2,"for":54,"against":13},
+{"country":"ltu","name":"Panerys","id":"FK_Panerys_Vilnius","win":16,"draw":4,"loss":7,"for":53,"against":29},
+{"country":"ltu","name":"Sirijus","id":"FK_Sirijus_Klaipėda","win":11,"draw":9,"loss":7,"for":36,"against":29},
+{"country":"ltu","name":"Banga Kaunas","id":"FBK_Kaunas","win":11,"draw":5,"loss":11,"for":36,"against":29},
+{"country":"ltu","name":"ROMAR","id":"ROMAR_Mažeikiai","win":11,"draw":4,"loss":12,"for":27,"against":27,"isNew":true},
+{"country":"ltu","name":"Aras","id":"FK_Atlantas","win":8,"draw":8,"loss":11,"for":26,"against":33},
+{"country":"ltu","name":"Geležinis Vilkas","id":"FK_Geležinis_Vilkas","win":5,"draw":8,"loss":14,"for":25,"against":43,"isNew":true},
+{"country":"ltu","name":"Inkaras","id":"FK_Inkaras_Kaunas","win":8,"draw":6,"loss":9,"for":28,"against":28},
+{"country":"ltu","name":"Neris","id":"FK_Neris_Vilnius","win":7,"draw":5,"loss":11,"for":27,"against":31,"isRemoved":true},
+{"country":"ltu","name":"Snaigė","id":"FK_Dainava_Alytus","win":6,"draw":3,"loss":14,"for":14,"against":36,"isRemoved":true},
+{"country":"ltu","name":"Sakalas","id":"FK_Kareda_Kaunas","win":9,"draw":3,"loss":11,"for":23,"against":30},
+{"country":"ltu","name":"Tauras-Karšuva","id":"FK_Tauras_Tauragė","win":6,"draw":6,"loss":11,"for":14,"against":33},
+{"country":"ltu","name":"Minija","id":"FK_Minija_Kretinga","win":2,"draw":4,"loss":17,"for":12,"against":56,"isReturning":true,"isRemoved":true}
 ]

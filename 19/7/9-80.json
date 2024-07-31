@@ -315,4 +315,22 @@
 {"country":"irl","name":"Cork United","id":"Albert_Rovers_F.C.","win":6,"draw":4,"loss":20,"for":22,"against":56},
 {"country":"irl","name":"University College Dublin A.F.C.","id":"University_College_Dublin_A.F.C.","win":5,"draw":4,"loss":21,"for":24,"against":75,"isNew":true},
 {"country":"irl","name":"Shelbourne F.C.","id":"Shelbourne_F.C.","win":3,"draw":6,"loss":21,"for":30,"against":83}
+][
+{"country":"ltu","name":"Atmosfera Mazeikiai","id":"FK_Mažeikiai","win":22,"draw":6,"loss":4,"for":46,"against":15,"isChampion":true},
+{"country":"ltu","name":"Kelininkas Kaunas","id":"Kelininkas_Kaunas","win":20,"draw":9,"loss":3,"for":74,"against":35},
+{"country":"ltu","name":"Nevezis Kedainiai","id":"FK_Nevėžis","win":15,"draw":10,"loss":7,"for":49,"against":28},
+{"country":"ltu","name":"Tauras Siauliai","id":"Tauras_Siauliai","win":15,"draw":8,"loss":9,"for":47,"against":32},
+{"country":"ltu","name":"Statybininkas Siauliai","id":"FK_Kareda_Kaunas","win":13,"draw":11,"loss":8,"for":37,"against":23},
+{"country":"ltu","name":"Atletas Kaunas","id":"FK_Atletas_Kaunas","win":11,"draw":13,"loss":8,"for":33,"against":28},
+{"country":"ltu","name":"Dainava Alytus","id":"DFK_Dainava","win":12,"draw":10,"loss":10,"for":39,"against":38},
+{"country":"ltu","name":"Politechnika Kaunas","id":"Politechnika_Kaunas","win":11,"draw":10,"loss":11,"for":43,"against":42},
+{"country":"ltu","name":"Pazanga Vilnius","id":"Pazanga_Vilnius","win":10,"draw":11,"loss":11,"for":38,"against":38},
+{"country":"ltu","name":"Vienybe Ukmerge","id":"Vienybe_Ukmerge","win":10,"draw":11,"loss":11,"for":30,"against":34},
+{"country":"ltu","name":"Granitas Klaipėda","id":"FK_Atlantas","win":9,"draw":9,"loss":14,"for":43,"against":43},
+{"country":"ltu","name":"Utenis Utena","id":"FK_Utenis_Utena","win":9,"draw":9,"loss":14,"for":35,"against":45,"isNew":true},
+{"country":"ltu","name":"Ausra Vilnius","id":"Ausra_Vilnius","win":9,"draw":9,"loss":14,"for":22,"against":33,"isNew":true},
+{"country":"ltu","name":"Banga Kaunas","id":"FBK_Kaunas","win":9,"draw":9,"loss":14,"for":29,"against":46},
+{"country":"ltu","name":"Ekranas Panevezys","id":"FK_Ekranas","win":6,"draw":10,"loss":16,"for":29,"against":56},
+{"country":"ltu","name":"Sviesa Vilnius","id":"FC_Vilnius","win":7,"draw":7,"loss":18,"for":33,"against":52,"isRemoved":true},
+{"country":"ltu","name":"Kooperatininkas Plunge","id":"Kooperatininkas_Plunge","win":5,"draw":6,"loss":21,"for":30,"against":69,"isRemoved":true}
 ]

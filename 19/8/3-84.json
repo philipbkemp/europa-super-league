@@ -314,4 +314,21 @@
 {"country":"irl","name":"Galway United","id":"Galway_United_F.C.","win":6,"draw":9,"loss":11,"for":26,"against":33},
 {"country":"irl","name":"Home Farm","id":"Home_Farm_F.C.","win":4,"draw":4,"loss":18,"for":16,"against":54},
 {"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":2,"draw":4,"loss":20,"for":20,"against":58}
+][
+{"country":"ltu","name":"Pazanga Vilnius","id":"Pazanga_Vilnius","win":18,"draw":8,"loss":4,"for":54,"against":28,"isChampion":true},
+{"country":"ltu","name":"Granitas Klaipėda","id":"FK_Atlantas","win":18,"draw":5,"loss":7,"for":51,"against":30},
+{"country":"ltu","name":"Tauras Siauliai","id":"Tauras_Siauliai","win":15,"draw":10,"loss":5,"for":51,"against":32},
+{"country":"ltu","name":"Atmosfera Mazeikiai","id":"FK_Mažeikiai","win":14,"draw":12,"loss":4,"for":39,"against":30},
+{"country":"ltu","name":"Banga Kaunas","id":"FBK_Kaunas","win":14,"draw":10,"loss":6,"for":50,"against":33},
+{"country":"ltu","name":"Kelininkas Kaunas","id":"Kelininkas_Kaunas","win":13,"draw":10,"loss":7,"for":32,"against":27},
+{"country":"ltu","name":"Nevezis Kedainiai","id":"FK_Nevėžis","win":14,"draw":7,"loss":9,"for":34,"against":40,"isReturning":true},
+{"country":"ltu","name":"Ekranas Panevezys","id":"FK_Ekranas","win":10,"draw":9,"loss":11,"for":38,"against":32},
+{"country":"ltu","name":"Statyba Jonava","id":"BC_Jonava","win":10,"draw":9,"loss":11,"for":39,"against":30},
+{"country":"ltu","name":"Atletas Kaunas","id":"FK_Atletas_Kaunas","win":10,"draw":7,"loss":13,"for":29,"against":34},
+{"country":"ltu","name":"Politechnika Kaunas","id":"Politechnika_Kaunas","win":8,"draw":11,"loss":11,"for":25,"against":34},
+{"country":"ltu","name":"Vienybe Ukmerge","id":"Vienybe_Ukmerge","win":7,"draw":12,"loss":11,"for":30,"against":35},
+{"country":"ltu","name":"Statybininkas Siauliai","id":"FK_Kareda_Kaunas","win":10,"draw":5,"loss":15,"for":28,"against":37},
+{"country":"ltu","name":"Inkaras Kaunas","id":"FK_Inkaras_Kaunas","win":9,"draw":5,"loss":16,"for":32,"against":41},
+{"country":"ltu","name":"Mokslas Vilnius","id":"Mokslas_Vilnius","win":3,"draw":10,"loss":17,"for":16,"against":43,"isNew":true,"isRemoved":true},
+{"country":"ltu","name":"Ausra Vilnius","id":"Ausra_Vilnius","win":0,"draw":4,"loss":26,"for":26,"against":68,"isRemoved":true}
 ]

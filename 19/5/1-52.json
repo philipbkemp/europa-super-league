@@ -233,4 +233,17 @@
 {"country":"irl","name":"Cork Athletic","id":"Cork_Athletic_F.C.","win":6,"draw":3,"loss":13,"for":36,"against":44},
 {"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":4,"draw":7,"loss":11,"for":37,"against":50},
 {"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":2,"draw":5,"loss":15,"for":20,"against":65}
+][
+{"country":"ltu","name":"Inkaras Kaunas","id":"FK_Inkaras_Kaunas","win":19,"draw":1,"loss":1,"for":90,"against":13,"isChampion":true,"isReturning":true},
+{"country":"ltu","name":"Elnias Šiauliai","id":"Elnias_Šiauliai","win":13,"draw":3,"loss":5,"for":51,"against":20,"isReturning":true},
+{"country":"ltu","name":"Kauno audiniai","id":"Kauno_audiniai","win":13,"draw":2,"loss":6,"for":55,"against":29,"isNew":true,"isRemoved":true},
+{"country":"ltu","name":"Lituanika Kaunas","id":"Lituanika_Kaunas","win":12,"draw":3,"loss":6,"for":61,"against":35,"isNew":true},
+{"country":"ltu","name":"Dinamo Vilnius","id":"Dinamo_Vilnius","win":10,"draw":2,"loss":9,"for":68,"against":33,"isReturning":true},
+{"country":"ltu","name":"Audra Klaipėda","id":"Audra_Klaipėda","win":10,"draw":1,"loss":10,"for":36,"against":34,"isReturning":true,"isRemoved":true},
+{"country":"ltu","name":"ASK Kaunas","id":"ASK_Kaunas","win":8,"draw":5,"loss":8,"for":32,"against":36,"isReturning":true,"isRemoved":true},
+{"country":"ltu","name":"Saliutas Vilnius","id":"FK_Saliutas_Vilnius","win":6,"draw":4,"loss":1,"for":36,"against":17,"isNew":true},
+{"country":"ltu","name":"Žalgiris Panevėžys","id":"Statyba_Panevėžys","win":4,"draw":5,"loss":12,"for":28,"against":64,"isReturning":true},
+{"country":"ltu","name":"Žalgiris Kybartai","id":"Žalgiris_Kybartai","win":4,"draw":3,"loss":14,"for":30,"against":59,"isReturning":true,"isRemoved":true},
+{"country":"ltu","name":"Dinamo Utena","id":"Dinamo_Utena","win":3,"draw":2,"loss":16,"for":22,"against":94,"isNew":true,"isRemoved":true},
+{"country":"ltu","name":"Žalgiris Ukmergė","id":"Žalgiris_Ukmergė","win":3,"draw":1,"loss":17,"for":20,"against":95,"isReturning":true,"isRemoved":true}
 ]

@@ -314,4 +314,19 @@
 {"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":6,"draw":13,"loss":14,"for":23,"against":46,"deduct":-1,"deductReason":"Player registration irregularities","isReturning":true},
 {"country":"irl","name":"Athlone Town","id":"Athlone_Town_A.F.C.","win":6,"draw":11,"loss":16,"for":31,"against":50,"isRemoved":true},
 {"country":"irl","name":"Galway United","id":"Galway_United_F.C.","win":7,"draw":8,"loss":18,"for":37,"against":58,"isRemoved":true}
+][
+{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":17,"draw":5,"loss":3,"for":39,"against":11,"isChampion":true,"isReturning":true},
+{"country":"ltu","name":"Panerys","id":"FK_Panerys_Vilnius","win":16,"draw":6,"loss":3,"for":47,"against":10},
+{"country":"ltu","name":"Sirijus","id":"FK_Sirijus_Klaipėda","win":11,"draw":11,"loss":3,"for":32,"against":14,"isNew":true},
+{"country":"ltu","name":"Banga Kaunas","id":"FBK_Kaunas","win":11,"draw":10,"loss":4,"for":26,"against":15,"isReturning":true},
+{"country":"ltu","name":"Ekranas","id":"FK_Ekranas","win":12,"draw":8,"loss":5,"for":45,"against":21,"isReturning":true},
+{"country":"ltu","name":"Lietuvos Makabi","id":"FK_Neris_Vilnius","win":10,"draw":11,"loss":4,"for":31,"against":18,"isReturning":true},
+{"country":"ltu","name":"Granitas Klaipėda","id":"FK_Atlantas","win":11,"draw":8,"loss":6,"for":37,"against":23},
+{"country":"ltu","name":"Sakalas","id":"FK_Kareda_Kaunas","win":7,"draw":9,"loss":9,"for":26,"against":31,"isReturning":true},
+{"country":"ltu","name":"Mažeikiai","id":"FK_Mažeikiai","win":8,"draw":5,"loss":12,"for":23,"against":32,"isReturning":true,"isRemoved":true},
+{"country":"ltu","name":"Inkaras","id":"FK_Inkaras_Kaunas","win":6,"draw":6,"loss":13,"for":23,"against":38,"isReturning":true},
+{"country":"ltu","name":"Snaigė","id":"FK_Dainava_Alytus","win":6,"draw":5,"loss":14,"for":17,"against":47,"isNew":true},
+{"country":"ltu","name":"Elektronas","id":"FK_Tauras_Tauragė","win":3,"draw":6,"loss":16,"for":10,"against":42,"isReturning":true},
+{"country":"ltu","name":"Tauras Šiauliai","id":"FC_Šiauliai","win":3,"draw":1,"loss":21,"for":14,"against":49,"isRemoved":true},
+{"country":"ltu","name":"Vienybė","id":"FK_Vienybė","win":1,"draw":3,"loss":9,"for":8,"against":27,"isRemoved":true,"isNew":true}
 ]

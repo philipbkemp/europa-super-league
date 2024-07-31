@@ -303,4 +303,13 @@
 {"country":"irl","name":"Finn Harps","id":"Finn_Harps_F.C.","win":9,"draw":4,"loss":20,"for":26,"against":53,"isRemoved":true,"isReturning":true},
 {"country":"irl","name":"Cobh Ramblers","id":"Cobh_Ramblers_F.C.","win":6,"draw":8,"loss":19,"for":27,"against":55,"isRemoved":true,"isReturning":true},
 {"country":"irl","name":"UCD","id":"University_College_Dublin_A.F.C.","win":4,"draw":9,"loss":20,"for":19,"against":46,"isRemoved":true}
+][
+{"country":"ltu","name":"Ekranas","id":"FK_Ekranas","win":20,"draw":5,"loss":3,"for":46,"against":12,"isChampion":true},
+{"country":"ltu","name":"FBK Kaunas","id":"FBK_Kaunas","win":16,"draw":7,"loss":5,"for":51,"against":17,"isRemoved":true},
+{"country":"ltu","name":"Vėtra","id":"FK_Vėtra","win":14,"draw":6,"loss":8,"for":33,"against":24},
+{"country":"ltu","name":"Sūduva","id":"FK_Sūduva","win":14,"draw":6,"loss":8,"for":35,"against":25},
+{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":6,"draw":10,"loss":12,"for":27,"against":41,"isRemoved":true},
+{"country":"ltu","name":"Atlantas","id":"FK_Atlantas","win":7,"draw":7,"loss":14,"for":31,"against":44,"isRemoved":true},
+{"country":"ltu","name":"Šiauliai","id":"FC_Šiauliai","win":5,"draw":9,"loss":14,"for":24,"against":41},
+{"country":"ltu","name":"Šilutė","id":"FK_Šilutė","win":3,"draw":4,"loss":21,"for":19,"against":62,"isRemoved":true}
 ]

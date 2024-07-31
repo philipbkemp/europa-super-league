@@ -300,4 +300,15 @@
 {"country":"irl","name":"Finn Harps","id":"Finn_Harps_F.C.","win":11,"draw":11,"loss":14,"for":44,"against":52},
 {"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":12,"draw":6,"loss":18,"for":36,"against":56,"isRemoved":true},
 {"country":"irl","name":"Longford Town","id":"Longford_Town_F.C.","win":2,"draw":9,"loss":25,"for":22,"against":71,"isRemoved":true,"isReturning":true}
+][
+{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":23,"draw":10,"loss":3,"for":76,"against":28,"isChampion":true},
+{"country":"ltu","name":"Sūduva","id":"FK_Sūduva","win":21,"draw":7,"loss":8,"for":64,"against":33},
+{"country":"ltu","name":"Kauno Žalgiris","id":"FK_Kauno_Žalgiris","win":18,"draw":9,"loss":9,"for":55,"against":39},
+{"country":"ltu","name":"Panevėžys","id":"FK_Panevėžys","win":16,"draw":12,"loss":8,"for":55,"against":40},
+{"country":"ltu","name":"Hegelmann Litauen","id":"FC_Hegelmann","win":14,"draw":11,"loss":11,"for":53,"against":38,"isNew":true},
+{"country":"ltu","name":"Riteriai","id":"FK_Riteriai","win":10,"draw":16,"loss":10,"for":49,"against":37},
+{"country":"ltu","name":"Banga","id":"FK_Banga_Gargždai","win":10,"draw":6,"loss":20,"for":40,"against":71},
+{"country":"ltu","name":"Džiugas","id":"FC_Džiugas_Telšiai","win":8,"draw":12,"loss":16,"for":47,"against":60,"isNew":true},
+{"country":"ltu","name":"Dainava","id":"DFK_Dainava","win":9,"draw":11,"loss":16,"for":39,"against":56,"isRemoved":true,"deduct":-3,"deductReason":"Failing to meet licensing criterai","isReturning":true},
+{"country":"ltu","name":"Nevėžis","id":"FK_Nevėžis","win":2,"draw":4,"loss":30,"for":15,"against":91,"isRemoved":true,"isReturning":true}
 ]

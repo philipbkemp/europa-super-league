@@ -272,4 +272,15 @@
 {"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":7,"draw":5,"loss":10,"for":22,"against":26,"isCurrentSeason":true},
 {"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":5,"draw":7,"loss":12,"for":17,"against":33,"isCurrentSeason":true},
 {"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":3,"draw":8,"loss":13,"for":24,"against":47,"isCurrentSeason":true}
+][
+{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":15,"draw":4,"loss":3,"for":46,"against":19,"isCurrentSeason":true},
+{"country":"ltu","name":"Hegelmann","id":"FC_Hegelmann","win":13,"draw":6,"loss":4,"for":39,"against":25,"isCurrentSeason":true},
+{"country":"ltu","name":"Kauno Žalgiris","id":"FK_Kauno_Žalgiris","win":11,"draw":5,"loss":8,"for":29,"against":23,"isCurrentSeason":true},
+{"country":"ltu","name":"Džiugas","id":"FC_Džiugas_Telšiai","win":8,"draw":7,"loss":8,"for":22,"against":30,"isCurrentSeason":true},
+{"country":"ltu","name":"Dainava","id":"DFK_Dainava","win":7,"draw":7,"loss":9,"for":20,"against":22,"isCurrentSeason":true},
+{"country":"ltu","name":"Šiauliai","id":"FA_Šiauliai","win":6,"draw":10,"loss":7,"for":21,"against":24,"isCurrentSeason":true},
+{"country":"ltu","name":"Banga","id":"FK_Banga_Gargždai","win":6,"draw":10,"loss":8,"for":23,"against":29,"isCurrentSeason":true},
+{"country":"ltu","name":"Sūduva","id":"FK_Sūduva","win":5,"draw":8,"loss":11,"for":18,"against":27,"isCurrentSeason":true},
+{"country":"ltu","name":"TransINVEST","id":"FK_TransINVEST","win":7,"draw":2,"loss":14,"for":23,"against":34,"isCurrentSeason":true,"isNew":true},
+{"country":"ltu","name":"Panevėžys","id":"FK_Panevėžys","win":5,"draw":7,"loss":11,"for":19,"against":27,"isCurrentSeason":true}
 ]

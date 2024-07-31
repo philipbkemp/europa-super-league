@@ -285,4 +285,14 @@
 {"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":8,"draw":7,"loss":12,"for":31,"against":37},
 {"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":8,"draw":6,"loss":13,"for":26,"against":40,"isReturning":true},
 {"country":"irl","name":"Bray Wanderers","id":"Bray_Wanderers_F.C.","win":4,"draw":8,"loss":15,"for":31,"against":53,"isRemoved":true}
+][
+{"country":"ltu","name":"FBK Kaunas","id":"FBK_Kaunas","win":24,"draw":6,"loss":2,"for":85,"against":20,"isChampion":true},
+{"country":"ltu","name":"Atlantas","id":"FK_Atlantas","win":20,"draw":7,"loss":5,"for":58,"against":23},
+{"country":"ltu","name":"Ekranas","id":"FK_Ekranas","win":16,"draw":7,"loss":9,"for":43,"against":25},
+{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":12,"draw":11,"loss":9,"for":46,"against":37},
+{"country":"ltu","name":"Inkaras","id":"FK_Inkaras_Kaunas","win":13,"draw":7,"loss":12,"for":34,"against":29,"isRemoved":true},
+{"country":"ltu","name":"Sūduva","id":"FK_Sūduva","win":11,"draw":8,"loss":13,"for":44,"against":50,"isReturning":true},
+{"country":"ltu","name":"Sakalas","id":"FC_Šiauliai","win":8,"draw":10,"loss":14,"for":30,"against":56},
+{"country":"ltu","name":"Geležinis Vilkas","id":"FK_Geležinis_Vilkas","win":4,"draw":6,"loss":22,"for":26,"against":75,"isRemoved":true},
+{"country":"ltu","name":"Nevėžis","id":"FK_Nevėžis","win":2,"draw":6,"loss":24,"for":19,"against":70,"isRemoved":true}
 ]

@@ -240,4 +240,17 @@
 {"country":"irl","name":"Evergreen United","id":"Cork_Celtic_F.C.","win":8,"draw":4,"loss":10,"for":36,"against":35},
 {"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":5,"draw":5,"loss":12,"for":35,"against":58},
 {"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":4,"draw":3,"loss":15,"for":27,"against":58}
+][
+{"country":"ltu","name":"KN Vilnius","id":"FK_Saliutas_Vilnius","win":15,"draw":5,"loss":2,"for":54,"against":14,"isChampion":true},
+{"country":"ltu","name":"Inkaras Kaunas","id":"FK_Inkaras_Kaunas","win":16,"draw":1,"loss":5,"for":66,"against":27},
+{"country":"ltu","name":"Elnias Šiauliai","id":"Elnias_Šiauliai","win":13,"draw":3,"loss":6,"for":50,"against":26},
+{"country":"ltu","name":"Lima Kaunas","id":"Lima_Kaunas","win":12,"draw":3,"loss":7,"for":48,"against":27,"isNew":true},
+{"country":"ltu","name":"Lituanika Kaunas","id":"Lituanika_Kaunas","win":10,"draw":6,"loss":6,"for":35,"against":40},
+{"country":"ltu","name":"Dinamo Vilnius","id":"Dinamo_Vilnius","win":8,"draw":7,"loss":7,"for":31,"against":20},
+{"country":"ltu","name":"Audiniai Kaunas","id":"Audiniai_Kaunas","win":8,"draw":5,"loss":9,"for":32,"against":33,"isReturning":true},
+{"country":"ltu","name":"Gubernija Šiauliai","id":"Gubernija_Šiauliai","win":7,"draw":6,"loss":9,"for":28,"against":50,"isNew":true},
+{"country":"ltu","name":"KPI Kaunas","id":"KPI_Kaunas","win":8,"draw":3,"loss":11,"for":21,"against":34,"isNew":true},
+{"country":"ltu","name":"Trinyčiai Klaipeda","id":"Trinyčiai_Klaipeda","win":4,"draw":8,"loss":10,"for":34,"against":36,"isNew":true},
+{"country":"ltu","name":"Žalgiris Panevėžys","id":"Statyba_Panevėžys","win":3,"draw":3,"loss":16,"for":29,"against":65,"isRemoved":true},
+{"country":"ltu","name":"GSK Kybartai","id":"GSK_Kybartai","win":1,"draw":4,"loss":17,"for":21,"against":77,"isNew":true,"isRemoved":true}
 ]

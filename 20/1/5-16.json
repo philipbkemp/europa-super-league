@@ -293,4 +293,15 @@
 {"country":"irl","name":"Galway United","id":"Galway_United_F.C.","win":9,"draw":4,"loss":20,"for":39,"against":61,"isReturning":true},
 {"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":7,"draw":8,"loss":18,"for":46,"against":73,"isRemoved":true},
 {"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":7,"draw":7,"loss":19,"for":32,"against":62,"isRemoved":true}
+][
+{"country":"ltu","name":"Žalgiris Vilnius","id":"FK_Žalgiris","win":31,"draw":1,"loss":4,"for":104,"against":25,"isChampion":true},
+{"country":"ltu","name":"Trakai","id":"FK_Riteriai","win":27,"draw":3,"loss":6,"for":92,"against":33},
+{"country":"ltu","name":"Atlantas","id":"FK_Atlantas","win":21,"draw":7,"loss":8,"for":65,"against":34},
+{"country":"ltu","name":"Sūduva Marijampolė","id":"FK_Sūduva","win":21,"draw":4,"loss":11,"for":76,"against":34},
+{"country":"ltu","name":"Spyris Kaunas","id":"FK_Kauno_Žalgiris","win":13,"draw":6,"loss":17,"for":47,"against":74,"isNew":true},
+{"country":"ltu","name":"Utenis Utena","id":"FK_Utenis_Utena","win":11,"draw":9,"loss":16,"for":41,"against":50,"isReturning":true},
+{"country":"ltu","name":"Stumbras Kaunas","id":"FC_Stumbras","win":11,"draw":8,"loss":17,"for":51,"against":74,"isNew":true},
+{"country":"ltu","name":"Klaipėdos Granitas","id":"FK_Klaipėdos_Granitas","win":6,"draw":9,"loss":21,"for":37,"against":83,"isRemoved":true,"removedNote":"Disqualified mid-season for breach of fair play regulations"},
+{"country":"ltu","name":"Šiauliai","id":"FC_Šiauliai","win":5,"draw":5,"loss":26,"for":37,"against":94,"isRemoved":true},
+{"country":"ltu","name":"Kruoja Pakruojis","id":"FK_Kruoja_Pakruojis","win":4,"draw":8,"loss":24,"for":23,"against":72,"isRemoved":true,"removedNote":"Withdrew mid-season for breach of fair play regulations and repeated match-fixing allegations"}
 ]

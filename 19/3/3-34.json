@@ -220,4 +220,12 @@
 {"country":"irl","name":"St James's Gate","id":"St_James%27s_Gate_F.C.","win":5,"draw":3,"loss":10,"for":26,"against":32},
 {"country":"irl","name":"Bray Unknowns","id":"Bray_Unknowns_F.C.","win":6,"draw":1,"loss":11,"for":26,"against":44},
 {"country":"irl","name":"Cork Bohemians","id":"Cork_Bohemians_F.C.","win":2,"draw":4,"loss":12,"for":18,"against":41,"isRemoved":true}
+][
+{"country":"ltu","name":"Kovas Kaunas","id":"ŠŠ_Kovas_Kaunas","win":8,"draw":3,"loss":1,"for":33,"against":13,"isChampion":true},
+{"country":"ltu","name":"LFLS Kaunas","id":"LFLS_Kaunas","win":7,"draw":4,"loss":1,"for":23,"against":16},
+{"country":"ltu","name":"LGSF Kaunas","id":"LGSF_Kaunas","win":5,"draw":2,"loss":5,"for":37,"against":27},
+{"country":"ltu","name":"KSS Klaipėda","id":"KSS_Klaipėda","win":5,"draw":1,"loss":6,"for":28,"against":24},
+{"country":"ltu","name":"Spielvereiningung Klaipėda","id":"Spielvereiningung_Klaipėda","win":5,"draw":1,"loss":6,"for":11,"against":15,"isNew":true,"isRemoved"':true'},
+{"country":"ltu","name":"Makabi Kaunas","id":"Makabi_Kaunas","win":1,"draw":4,"loss":7,"for":13,"against":36,"isRemoved"':true'},
+{"country":"ltu","name":"Sveikata Kybartai","id":"Sveikata_Kybartai","win":0,"draw":5,"loss":7,"for":10,"against":24}
 ]

@@ -303,4 +303,15 @@
 {"country":"irl","name":"Bray Wanderers","id":"Bray_Wanderers_F.C.","win":5,"draw":10,"loss":15,"for":33,"against":54},
 {"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":4,"draw":8,"loss":18,"for":23,"against":63},
 {"country":"irl","name":"Monaghan United","id":"Monaghan_United_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew mid-season; Record expunged","isReturning":true}
+][
+{"country":"ltu","name":"Ekranas","id":"FK_Ekranas","win":27,"draw":7,"loss":2,"for":83,"against":25,"isChampion":true},
+{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":27,"draw":6,"loss":3,"for":80,"against":22},
+{"country":"ltu","name":"Sūduva","id":"FK_Sūduva","win":21,"draw":7,"loss":8,"for":77,"against":37},
+{"country":"ltu","name":"Kruoja","id":"FK_Kruoja_Pakruojis","win":20,"draw":5,"loss":11,"for":56,"against":31},
+{"country":"ltu","name":"Šiauliai","id":"FC_Šiauliai","win":17,"draw":4,"loss":15,"for":79,"against":57},
+{"country":"ltu","name":"Banga","id":"FK_Banga_Gargždai","win":13,"draw":8,"loss":15,"for":43,"against":41},
+{"country":"ltu","name":"Dainava","id":"FK_Dainava_Alytus","win":9,"draw":5,"loss":22,"for":42,"against":71},
+{"country":"ltu","name":"Atlantas","id":"FK_Atlantas","win":7,"draw":6,"loss":23,"for":33,"against":92},
+{"country":"ltu","name":"Tauras","id":"FK_Tauras_Tauragė","win":7,"draw":2,"loss":27,"for":35,"against":97},
+{"country":"ltu","name":"REO","id":"FK_REO_Vilnius","win":5,"draw":4,"loss":27,"for":26,"against":81,"isRemoved":true,"isNew":true}
 ]

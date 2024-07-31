@@ -142,4 +142,11 @@
 {"country":"irl","name":"Dublin United","id":"Dublin_United_F.C.","win":4,"draw":3,"loss":15,"for":30,"against":70,"isRemoved":true},
 {"country":"irl","name":"Olympia","id":"Olympia_F.C._(Dublin)","win":2,"draw":7,"loss":13,"for":13,"against":57,"isRemoved":true},
 {"country":"irl","name":"Rathmines Athletic","id":"Rathmines_Athletic_F.C.","win":2,"draw":1,"loss":19,"for":21,"against":74,"isNew":true,"isRemoved":true}
+][
+{"country":"ltu","name":"LFLS Kaunas I","id":"LFLS_Kaunas","win":9,"draw":0,"loss":0,"for":48,"against":4,"isChampion":true,"isNew":true},
+{"country":"ltu","name":"LFLS Šančiai","id":"ŠŠ_Kovas_Kaunas","win":4,"draw":2,"loss":3,"for":20,"against":7,"isNew":true},
+{"country":"ltu","name":"LFLS Kaunas II","id":"LFLS_Kaunas_II","win":4,"draw":0,"loss":5,"for":3,"against":29,"isNew":true,"isRemoved":true},
+{"country":"ltu","name":"Aviacija Kaunas","id":"Aviacija_Kaunas","win":3,"draw":1,"loss":1,"for":7,"against":5,"isNew":true,"isRemoved":true},
+{"country":"ltu","name":"Makabi Kaunas","id":"Makabi_Kaunas","win":3,"draw":1,"loss":5,"for":5,"against":10,"isNew":true},
+{"country":"ltu","name":"BAB","id":"BAB_(football_club)","win":0,"draw":0,"loss":9,"for":1,"against":29,"isNew":true,"isRemoved":true}
 ]

@@ -303,4 +303,17 @@
 {"country":"irl","name":"Athlone Town","id":"Athlone_Town_A.F.C.","win":6,"draw":14,"loss":13,"for":31,"against":44,"isReturning":true},
 {"country":"irl","name":"Cobh Ramblers","id":"Cobh_Ramblers_F.C.","win":5,"draw":11,"loss":17,"for":29,"against":51,"isRemoved":true},
 {"country":"irl","name":"Monaghan United","id":"Monaghan_United_F.C.","win":5,"draw":4,"loss":24,"for":22,"against":75,"isRemoved":true}
+][
+{"country":"ltu","name":"Inkaras-Grifas","id":"FK_Inkaras_Kaunas","win":16,"draw":4,"loss":2,"for":50,"against":12,"isChampion":true},
+{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":17,"draw":2,"loss":3,"for":61,"against":14},
+{"country":"ltu","name":"ROMAR","id":"ROMAR_Mažeikiai","win":15,"draw":4,"loss":3,"for":51,"against":14,"isRemoved":true},
+{"country":"ltu","name":"Panerys","id":"FK_Panerys_Vilnius","win":11,"draw":6,"loss":5,"for":35,"against":25},
+{"country":"ltu","name":"Aras","id":"FK_Atlantas","win":13,"draw":1,"loss":8,"for":41,"against":28},
+{"country":"ltu","name":"FBK Kaunas","id":"FBK_Kaunas","win":8,"draw":8,"loss":6,"for":25,"against":22},
+{"country":"ltu","name":"Sakalas","id":"FK_Kareda_Kaunas","win":9,"draw":4,"loss":9,"for":37,"against":23},
+{"country":"ltu","name":"Ekranas","id":"FK_Ekranas","win":7,"draw":8,"loss":7,"for":21,"against":18},
+{"country":"ltu","name":"Banga","id":"FK_Banga_Gargždai","win":3,"draw":6,"loss":13,"for":19,"against":56,"isNew":true},
+{"country":"ltu","name":"Ukmergė","id":"FK_Ukmergė","win":3,"draw":5,"loss":14,"for":12,"against":58,"isNew":true},
+{"country":"ltu","name":"Sirijus","id":"FK_Sirijus_Klaipėda","win":2,"draw":3,"loss":17,"for":12,"against":39},
+{"country":"ltu","name":"Interas-AE","id":"FK_Interas_Visaginas","win":1,"draw":3,"loss":18,"for":8,"against":63,"isRemoved":true,"isNew":true}
 ]

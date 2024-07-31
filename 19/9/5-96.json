@@ -293,4 +293,20 @@
 {"country":"irl","name":"Athlone Town","id":"Athlone_Town_A.F.C.","win":8,"draw":7,"loss":18,"for":38,"against":59,"isRemoved":true},
 {"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":7,"draw":9,"loss":17,"for":39,"against":51,"isRemoved":true,"isReturning":true},
 {"country":"irl","name":"Galway United","id":"Galway_United_F.C.","win":5,"draw":6,"loss":22,"for":26,"against":67,"isRemoved":true}
+][
+{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":22,"draw":4,"loss":2,"for":106,"against":22,"isRemoved":true,"removedNote":"Next season the league is in a grouped format"},
+{"country":"ltu","name":"Inkaras-Grifas","id":"FK_Inkaras_Kaunas","win":24,"draw":3,"loss":1,"for":67,"against":9,"isChampion":true,"isRemoved":true,"removedNote":"Next season the league is in a grouped format"},
+{"country":"ltu","name":"Kareda-Sakalas","id":"FK_Kareda_Kaunas","win":22,"draw":2,"loss":4,"for":67,"against":17,"isRemoved":true,"removedNote":"Next season the league is in a grouped format"},
+{"country":"ltu","name":"Aras","id":"FK_Atlantas","win":12,"draw":4,"loss":12,"for":42,"against":34,"isRemoved":true,"removedNote":"Next season the league is in a grouped format"},
+{"country":"ltu","name":"FBK Kaunas","id":"FBK_Kaunas","win":14,"draw":3,"loss":11,"for":48,"against":35,"isRemoved":true,"removedNote":"Next season the league is in a grouped format"},
+{"country":"ltu","name":"Panerys","id":"FK_Panerys_Vilnius","win":13,"draw":2,"loss":13,"for":40,"against":47,"isRemoved":true,"removedNote":"Next season the league is in a grouped format"},
+{"country":"ltu","name":"Ekranas","id":"FK_Ekranas","win":7,"draw":8,"loss":13,"for":39,"against":46,"isRemoved":true,"removedNote":"Next season the league is in a grouped format"},
+{"country":"ltu","name":"Žalgiris-2","id":"Žalgiris-2_Vilnius","win":5,"draw":6,"loss":17,"for":28,"against":60,"isNew":true,"isRemoved":true,"removedNote":"Next season the league is in a grouped format"},
+{"country":"ltu","name":"JR Klaipėda","id":"FK_Sirijus_Klaipėda","win":5,"draw":4,"loss":17,"for":15,"against":54,"isRemoved":true,"isRemoved":true,"removedNote":"Next season the league is in a grouped format"},
+{"country":"ltu","name":"Banga","id":"FK_Banga_Gargždai","win":11,"draw":5,"loss":10,"for":31,"against":44,"isRemoved":true,"removedNote":"Next season the league is in a grouped format"},
+{"country":"ltu","name":"Lokomotyvas","id":"Lokomotyvas_Vilnius","win":11,"draw":3,"loss":12,"for":37,"against":36,"isNew":true,"isRemoved":true,"removedNote":"Next season the league is in a grouped format"},
+{"country":"ltu","name":"Tauras","id":"FK_Tauras_Tauragė","win":8,"draw":7,"loss":11,"for":17,"against":48,"isReturning":true,"isRemoved":true,"removedNote":"Next season the league is in a grouped format"},
+{"country":"ltu","name":"Mastis","id":"FK_Mastis_Telšiai","win":4,"draw":8,"loss":14,"for":28,"against":54,"isReturning":true,"isRemoved":true,"removedNote":"Next season the league is in a grouped format"},
+{"country":"ltu","name":"Ukmergė","id":"FK_Ukmergė","win":7,"draw":5,"loss":14,"for":25,"against":49,"isRemoved":true,"removedNote":"Next season the league is in a grouped format"},
+{"country":"ltu","name":"Alsa-Panerys","id":"JR_Alsa_Vilnius","win":3,"draw":6,"loss":17,"for":13,"against":48,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"Next season the league is in a grouped format"}
 ]

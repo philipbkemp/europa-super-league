@@ -236,4 +236,13 @@
 {"country":"irl","name":"Dolphin","id":"Dolphin_F.C._(Ireland)","win":7,"draw":4,"loss":11,"for":33,"against":59,"isRemoved":true},
 {"country":"irl","name":"Cork","id":"Cork_F.C.","win":7,"draw":3,"loss":12,"for":51,"against":60},
 {"country":"irl","name":"Brideville","id":"Brideville_F.C.","win":6,"draw":3,"loss":13,"for":32,"against":51}
+][
+{"country":"ltu","name":"Kovas Kaunas","id":"ŠŠ_Kovas_Kaunas","win":7,"draw":0,"loss":0,"for":25,"against":3,"isChampion":true,"isReturning":true},
+{"country":"ltu","name":"LFLS Kaunas","id":"LFLS_Kaunas","win":5,"draw":0,"loss":2,"for":15,"against":13,"isReturning":true},
+{"country":"ltu","name":"LGSF Kaunas","id":"LGSF_Kaunas","win":4,"draw":0,"loss":3,"for":12,"against":12,"isReturning":true},
+{"country":"ltu","name":"MSK Kaunas","id":"MSK_Kaunas","win":3,"draw":1,"loss":3,"for":13,"against":7,"isReturning":true},
+{"country":"ltu","name":"Tauras Kaunas","id":"Tauras_Kaunas","win":3,"draw":0,"loss":4,"for":11,"against":16,"isReturning":true},
+{"country":"ltu","name":"CJSO Kaunas","id":"CJSO_Kaunas","win":3,"draw":0,"loss":4,"for":7,"against":15,"isNew":true},
+{"country":"ltu","name":"KSS Klaipėda","id":"KSS_Klaipėda","win":2,"draw":1,"loss":4,"for":18,"against":15,"isReturning":true},
+{"country":"ltu","name":"Šaulys Klaipėda","id":"Šaulys_Klaipėda","win":0,"draw":0,"loss":7,"for":5,"against":25,"isNew":true,"isRemoved":true}
 ]

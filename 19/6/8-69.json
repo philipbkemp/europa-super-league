@@ -304,4 +304,21 @@
 {"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":2,"draw":8,"loss":12,"for":30,"against":69},
 {"country":"irl","name":"Cork Celtic","id":"Cork_Celtic_F.C.","win":3,"draw":5,"loss":14,"for":28,"against":52},
 {"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":3,"draw":4,"loss":15,"for":21,"against":50}
+][
+{"country":"ltu","name":"Statyba Panevezys","id":"Statyba_Panevėžys","win":22,"draw":8,"loss":0,"for":69,"against":19,"isChampion":true},
+{"country":"ltu","name":"Nevezis Kedainiai","id":"FK_Nevėžis","win":22,"draw":7,"loss":1,"for":64,"against":15},
+{"country":"ltu","name":"Statybininkas Siauliai","id":"FK_Kareda_Kaunas","win":18,"draw":6,"loss":6,"for":62,"against":19},
+{"country":"ltu","name":"Inkaras Kaunas","id":"FK_Inkaras_Kaunas","win":16,"draw":6,"loss":8,"for":54,"against":36},
+{"country":"ltu","name":"Atletas Kaunas","id":"FK_Atletas_Kaunas","win":11,"draw":11,"loss":8,"for":26,"against":21},
+{"country":"ltu","name":"Zalgiris N. Vilnia","id":"Zalgiris_N.Vilnia","win":13,"draw":6,"loss":11,"for":33,"against":42},
+{"country":"ltu","name":"Politechnika Kaunas","id":"Politechnika_Kaunas","win":12,"draw":6,"loss":12,"for":45,"against":38},
+{"country":"ltu","name":"Elnias Siauliai","id":"Elnias_Šiauliai","win":11,"draw":8,"loss":11,"for":30,"against":38},
+{"country":"ltu","name":"Saliutas/Pazanga Vilnius","id":"Saliutas/Pazanga_Vilnius","win":9,"draw":9,"loss":12,"for":30,"against":32,"isNew":true,"isRemoved":true},
+{"country":"ltu","name":"Banga Kaunas","id":"FBK_Kaunas","win":11,"draw":5,"loss":14,"for":29,"against":35},
+{"country":"ltu","name":"Granitas Klaipėda","id":"FK_Atlantas","win":8,"draw":10,"loss":12,"for":22,"against":28,"isReturning":true},
+{"country":"ltu","name":"Suduva Kapsukas","id":"Suduva_Kapsukas","win":9,"draw":8,"loss":13,"for":37,"against":45,"isNew":true},
+{"country":"ltu","name":"Lima Kaunas","id":"Lima_Kaunas","win":7,"draw":8,"loss":15,"for":34,"against":60},
+{"country":"ltu","name":"Minija Kretinga","id":"FK_Minija_Kretinga","win":6,"draw":8,"loss":16,"for":33,"against":50},
+{"country":"ltu","name":"Linu audiniai Plunge","id":"Linu_audiniai_Plunge","win":5,"draw":3,"loss":22,"for":30,"against":59,"isRemoved":true},
+{"country":"ltu","name":"Autoparkas Kaunas","id":"Autoparkas_Kaunas","win":3,"draw":5,"loss":22,"for":21,"against":82,"isNew":true,"isRemoved":true}
 ]

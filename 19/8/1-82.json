@@ -317,4 +317,23 @@
 {"country":"irl","name":"Finn Harps F.C.","id":"Finn_Harps_F.C.","win":7,"draw":4,"loss":19,"for":42,"against":61},
 {"country":"irl","name":"Galway United F.C.","id":"Galway_United_F.C.","win":5,"draw":8,"loss":17,"for":30,"against":62},
 {"country":"irl","name":"Thurles Town F.C.","id":"Thurles_Town_F.C.","win":3,"draw":5,"loss":22,"for":29,"against":96,"isRemoved":true}
+][
+{"country":"ltu","name":"Granitas Klaipeda","id":"FK_Atlantas","win":20,"draw":10,"loss":4,"for":55,"against":22,"isChampion":true},
+{"country":"ltu","name":"Kelininkas Kaunas","id":"Kelininkas_Kaunas","win":20,"draw":7,"loss":7,"for":44,"against":20},
+{"country":"ltu","name":"Pazanga Vilnius","id":"Pazanga_Vilnius","win":18,"draw":9,"loss":7,"for":35,"against":25},
+{"country":"ltu","name":"Tauras Siauliai","id":"Tauras_Siauliai","win":17,"draw":8,"loss":9,"for":51,"against":28},
+{"country":"ltu","name":"Statybininkas Siauliai","id":"FK_Kareda_Kaunas","win":15,"draw":12,"loss":7,"for":41,"against":19},
+{"country":"ltu","name":"Atmosfera Mazeikiai","id":"FK_Mažeikiai","win":13,"draw":13,"loss":8,"for":34,"against":24},
+{"country":"ltu","name":"Vienybe Ukmerge","id":"Vienybe_Ukmerge","win":14,"draw":11,"loss":9,"for":33,"against":25},
+{"country":"ltu","name":"Ekranas Panevezys","id":"FK_Ekranas","win":14,"draw":9,"loss":11,"for":39,"against":34},
+{"country":"ltu","name":"Politechnika Kaunas","id":"Politechnika_Kaunas","win":10,"draw":15,"loss":9,"for":27,"against":26},
+{"country":"ltu","name":"Banga Kaunas","id":"FBK_Kaunas","win":12,"draw":9,"loss":13,"for":41,"against":40},
+{"country":"ltu","name":"Inkaras Kaunas","id":"FK_Inkaras_Kaunas","win":12,"draw":9,"loss":13,"for":41,"against":49,"isReturning":true},
+{"country":"ltu","name":"Ausra Vilnius","id":"Ausra_Vilnius","win":10,"draw":12,"loss":12,"for":39,"against":38},
+{"country":"ltu","name":"Statyba Jonava","id":"BC_Jonava","win":11,"draw":10,"loss":13,"for":35,"against":41},
+{"country":"ltu","name":"Nevezis Kedainiai","id":"FK_Nevėžis","win":10,"draw":9,"loss":15,"for":42,"against":47,"isRemoved":true},
+{"country":"ltu","name":"Sviesa Vilnius","id":"FC_Vilnius","win":10,"draw":7,"loss":17,"for":36,"against":48,"isReturning":true,"isRemoved":true},
+{"country":"ltu","name":"Dainava Alytus","id":"DFK_Dainava","win":7,"draw":7,"loss":20,"for":21,"against":55,"isRemoved":true},
+{"country":"ltu","name":"Utenis Utena","id":"FK_Utenis_Utena","win":7,"draw":4,"loss":23,"for":25,"against":42,"isRemoved":true},
+{"country":"ltu","name":"Sveikata Kybartai","id":"Sveikata_Kybartai","win":3,"draw":6,"loss":25,"for":30,"against":86,"isReturning":true,"isRemoved":true}
 ]

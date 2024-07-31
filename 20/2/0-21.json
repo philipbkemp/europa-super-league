@@ -303,4 +303,11 @@
 {"country":"irl","name":"Finn Harps","id":"Finn_Harps_F.C.","win":5,"draw":5,"loss":8,"for":15,"against":24},
 {"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":5,"draw":4,"loss":9,"for":13,"against":22,"isRemoved":true,"isReturning":true},
 {"country":"irl","name":"Cork City","id":"Cork_City_F.C.","win":2,"draw":5,"loss":11,"for":10,"against":30,"isRemoved":true}
+][
+{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":14,"draw":3,"loss":3,"for":42,"against":14,"isChampion":true},
+{"country":"ltu","name":"Sūduva","id":"FK_Sūduva","win":13,"draw":4,"loss":3,"for":32,"against":18},
+{"country":"ltu","name":"Kauno Žalgiris","id":"FK_Kauno_Žalgiris","win":12,"draw":2,"loss":6,"for":30,"against":18},
+{"country":"ltu","name":"Banga","id":"FK_Banga_Gargždai","win":3,"draw":7,"loss":10,"for":16,"against":30,"isReturning":true},
+{"country":"ltu","name":"Panevėžys","id":"FK_Panevėžys","win":2,"draw":6,"loss":12,"for":19,"against":38},
+{"country":"ltu","name":"Riteriai","id":"FK_Riteriai","win":2,"draw":6,"loss":12,"for":17,"against":38}
 ]

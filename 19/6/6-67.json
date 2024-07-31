@@ -295,4 +295,20 @@
 {"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":7,"draw":5,"loss":10,"for":31,"against":42},
 {"country":"irl","name":"Cork Celtic","id":"Cork_Celtic_F.C.","win":8,"draw":3,"loss":11,"for":30,"against":52},
 {"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":4,"draw":3,"loss":15,"for":32,"against":54}
+][
+{"country":"ltu","name":"Nevezis Kedainiai","id":"FK_Nevėžis","win":16,"draw":9,"loss":3,"for":57,"against":22,"isChampion":true},
+{"country":"ltu","name":"Statybininkas Siauliai","id":"FK_Kareda_Kaunas","win":16,"draw":8,"loss":4,"for":39,"against":20},
+{"country":"ltu","name":"Saliutas Vilnius","id":"FK_Saliutas_Vilnius","win":16,"draw":6,"loss":6,"for":41,"against":17},
+{"country":"ltu","name":"Inkaras Kaunas","id":"FK_Inkaras_Kaunas","win":15,"draw":3,"loss":10,"for":49,"against":31},
+{"country":"ltu","name":"Lima Kaunas","id":"Lima_Kaunas","win":12,"draw":9,"loss":7,"for":42,"against":34},
+{"country":"ltu","name":"Statyba Panevėžys","id":"Statyba_Panevėžys","win":14,"draw":4,"loss":10,"for":41,"against":32},
+{"country":"ltu","name":"Elnias Siauliai","id":"Elnias_Šiauliai","win":9,"draw":11,"loss":8,"for":30,"against":30},
+{"country":"ltu","name":"Linu audiniai Plunge","id":"Linu_audiniai_Plunge","win":11,"draw":7,"loss":10,"for":32,"against":38},
+{"country":"ltu","name":"Vimpelas Kaunas","id":"Vimpelas_Kaunas","win":8,"draw":11,"loss":9,"for":31,"against":25,"isNew":true,"isRemoved":true},
+{"country":"ltu","name":"Poli Kaunas","id":"Poli_Kaunas","win":9,"draw":9,"loss":10,"for":28,"against":26,"isRemoved":true},
+{"country":"ltu","name":"Atletas Kaunas","id":"FK_Atletas_Kaunas","win":7,"draw":11,"loss":10,"for":36,"against":42},
+{"country":"ltu","name":"Cementininkas N.Akmene","id":"Cementininkas_N.Akmene","win":7,"draw":10,"loss":11,"for":26,"against":48,"isNew":true,"isRemoved":true},
+{"country":"ltu","name":"Minija Kretinga","id":"FK_Minija_Kretinga","win":7,"draw":6,"loss":15,"for":30,"against":40},
+{"country":"ltu","name":"Baltija Klaipeda","id":"Baltija_Klaipėda","win":5,"draw":9,"loss":14,"for":31,"against":37,"isRemoved":true},
+{"country":"ltu","name":"Elektra Mazeikiai","id":"Elektra_Mazeikiai","win":1,"draw":1,"loss":26,"for":9,"against":80,"isRemoved":true}
 ]
