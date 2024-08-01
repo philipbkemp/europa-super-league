@@ -268,4 +268,15 @@
 {"country":"ltu","name":"Žalgiris Tauragė","id":"FK_Tauras_Tauragė","win":3,"draw":0,"loss":11,"for":28,"against":67,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
 {"country":"ltu","name":"Žalgiris Ukmergė","id":"Žalgiris_Ukmergė","win":2,"draw":1,"loss":11,"for":14,"against":45,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
 {"country":"ltu","name":"Žalgiris Panevėžys","id":"Statyba_Panevėžys","win":1,"draw":0,"loss":13,"for":17,"against":47,"isReturning":true,"isRemoved":true,"removedNote":"Next season is a grouped format"}
+][
+{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":10,"draw":8,"loss":0,"for":28,"against":13,"isChampion":true},
+{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":12,"draw":2,"loss":4,"for":44,"against":18},
+{"country":"yug","name":"Partizan","id":"FK_Partizan","win":12,"draw":2,"loss":4,"for":46,"against":19},
+{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":9,"draw":4,"loss":5,"for":23,"against":17},
+{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":7,"draw":3,"loss":8,"for":30,"against":27,"isReturning":true},
+{"country":"yug","name":"Naša Krila","id":"FK_Naša_Krila_Zemun","win":5,"draw":4,"loss":9,"for":18,"against":29,"isRemoved":true},
+{"country":"yug","name":"BSK Belgrade","id":"OFK_Beograd","win":4,"draw":6,"loss":8,"for":19,"against":32},
+{"country":"yug","name":"Lokomotiva","id":"NK_Lokomotiva_Zagreb","win":4,"draw":5,"loss":9,"for":18,"against":28},
+{"country":"yug","name":"Spartak Subotica","id":"FK_Spartak_Subotica","win":3,"draw":4,"loss":11,"for":15,"against":29,"isReturning":true},
+{"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":3,"draw":4,"loss":11,"for":15,"against":44,"isRemoved":true}
 ]

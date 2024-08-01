@@ -306,4 +306,23 @@
 {"country":"irl","name":"Home Farm","id":"Home_Farm_F.C.","win":4,"draw":9,"loss":13,"for":35,"against":54},
 {"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":6,"draw":4,"loss":16,"for":37,"against":49},
 {"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":4,"draw":7,"loss":15,"for":27,"against":49}
+][
+{"country":"yug","name":"Partizan","id":"FK_Partizan","win":22,"draw":6,"loss":6,"for":60,"against":30,"isChampion":true},
+{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":19,"draw":11,"loss":4,"for":57,"against":22},
+{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":17,"draw":10,"loss":7,"for":38,"against":23},
+{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":16,"draw":8,"loss":10,"for":53,"against":31},
+{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":11,"draw":12,"loss":11,"for":41,"against":42},
+{"country":"yug","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":11,"draw":11,"loss":12,"for":46,"against":42},
+{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":12,"draw":9,"loss":13,"for":45,"against":51},
+{"country":"yug","name":"OFK Belgrade","id":"OFK_Beograd","win":13,"draw":7,"loss":14,"for":40,"against":48},
+{"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":10,"draw":12,"loss":12,"for":39,"against":37},
+{"country":"yug","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":9,"draw":14,"loss":11,"for":34,"against":40,"isReturning":true},
+{"country":"yug","name":"Rijeka","id":"HNK_Rijeka","win":9,"draw":13,"loss":12,"for":35,"against":37},
+{"country":"yug","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":11,"draw":9,"loss":14,"for":40,"against":47},
+{"country":"yug","name":"Čelik","id":"NK_Čelik_Zenica","win":10,"draw":10,"loss":14,"for":29,"against":35},
+{"country":"yug","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":10,"draw":10,"loss":14,"for":37,"against":44},
+{"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":11,"draw":8,"loss":15,"for":25,"against":42,"isReturning":true},
+{"country":"yug","name":"Radnički Niš","id":"FK_Radnički_Niš","win":7,"draw":15,"loss":12,"for":30,"against":41},
+{"country":"yug","name":"Vardar","id":"FK_Vardar","win":8,"draw":12,"loss":14,"for":27,"against":36,"isRemoved":true},
+{"country":"yug","name":"Radnički Kragujevac","id":"FK_Radnički_1923","win":8,"draw":7,"loss":19,"for":29,"against":57,"isRemoved":true}
 ]

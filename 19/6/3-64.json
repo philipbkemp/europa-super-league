@@ -295,4 +295,19 @@
 {"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":5,"draw":6,"loss":11,"for":31,"against":44,"isNew":true},
 {"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":4,"draw":1,"loss":17,"for":27,"against":64},
 {"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":1,"draw":5,"loss":16,"for":19,"against":52}
+][
+{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":14,"draw":8,"loss":4,"for":45,"against":22,"isChampion":true},
+{"country":"yug","name":"OFK Belgrade","id":"OFK_Beograd","win":11,"draw":11,"loss":4,"for":49,"against":32},
+{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":12,"draw":9,"loss":5,"for":40,"against":29},
+{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":11,"draw":7,"loss":8,"for":47,"against":37},
+{"country":"yug","name":"Partizan","id":"FK_Partizan","win":9,"draw":8,"loss":9,"for":34,"against":26},
+{"country":"yug","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":8,"draw":10,"loss":8,"for":37,"against":43},
+{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":9,"draw":6,"loss":11,"for":34,"against":31},
+{"country":"yug","name":"Radnički Niš","id":"FK_Radnički_Niš","win":10,"draw":4,"loss":12,"for":33,"against":34},
+{"country":"yug","name":"Rijeka","id":"HNK_Rijeka","win":7,"draw":10,"loss":9,"for":37,"against":42},
+{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":9,"draw":5,"loss":12,"for":44,"against":44},
+{"country":"yug","name":"Trešnjevka","id":"NK_Trešnjevka","win":9,"draw":5,"loss":12,"for":34,"against":54,"isNew":true},
+{"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":5,"draw":12,"loss":9,"for":30,"against":41},
+{"country":"yug","name":"Novi Sad","id":"RFK_Novi_Sad_1921","win":7,"draw":7,"loss":12,"for":30,"against":52,"isRemoved":true},
+{"country":"yug","name":"Vardar","id":"FK_Vardar","win":6,"draw":8,"loss":12,"for":28,"against":35,"isReturning":true}
 ]

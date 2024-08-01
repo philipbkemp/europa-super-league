@@ -249,4 +249,15 @@
 {"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":4,"draw":5,"loss":9,"for":31,"against":37,"isReturning":true},
 {"country":"irl","name":"Cork Athletic","id":"Cork_Athletic_F.C.","win":6,"draw":1,"loss":11,"for":33,"against":41,"isNew":true},
 {"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":2,"draw":5,"loss":11,"for":28,"against":49}
+][
+{"country":"yug","name":"Partizan","id":"FK_Partizan","win":14,"draw":1,"loss":3,"for":39,"against":14,"isChampion":true},
+{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":11,"draw":4,"loss":3,"for":37,"against":19},
+{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":10,"draw":5,"loss":3,"for":41,"against":20},
+{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":7,"draw":5,"loss":6,"for":29,"against":25},
+{"country":"yug","name":"Naša Krila","id":"FK_Naša_Krila_Zemun","win":6,"draw":4,"loss":8,"for":32,"against":28,"isNew":true},
+{"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":6,"draw":4,"loss":8,"for":29,"against":36,"isReturning":true},
+{"country":"yug","name":"Metalac Belgrade","id":"OFK_Beograd","win":5,"draw":4,"loss":9,"for":31,"against":34},
+{"country":"yug","name":"Lokomotiva","id":"NK_Lokomotiva_Zagreb","win":6,"draw":1,"loss":11,"for":23,"against":38},
+{"country":"yug","name":"Sloga Novi Sad","id":"FK_Vojvodina","win":5,"draw":2,"loss":11,"for":17,"against":31,"isRemoved":true,"isReturning":true},
+{"country":"yug","name":"Ponziana","id":"ASD_Ponziana","win":3,"draw":4,"loss":11,"for":12,"against":45,"isRemoved":true}
 ]

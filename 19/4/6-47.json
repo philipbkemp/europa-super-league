@@ -230,4 +230,19 @@
 {"country":"ltu","name":"Žalgiris Vilnius","id":"FK_Žalgiris","win":1,"draw":2,"loss":4,"for":9,"against":21,"isNew":true},
 {"country":"ltu","name":"Audra Klaipėda","id":"FK_Baltija_Klaipėda","win":2,"draw":0,"loss":5,"for":12,"against":30,"isNew":true,"isRemoved":true},
 {"country":"ltu","name":"Dinamo Vilnius","id":"Dinamo_Vilnius","win":0,"draw":1,"loss":6,"for":15,"against":30,"isNew":true}
+][
+{"country":"yug","name":"Partizan Belgrade","id":"FK_Partizan","win":23,"draw":1,"loss":2,"for":77,"against":17,"isChampion":true,"isNew":true},
+{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":19,"draw":4,"loss":3,"for":81,"against":26,"isNew":true},
+{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":18,"draw":2,"loss":6,"for":66,"against":23,"isNew":true},
+{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":16,"draw":4,"loss":6,"for":57,"against":21,"isReturning":true},
+{"country":"yug","name":"Metalac Belgrade","id":"OFK_Beograd","win":13,"draw":3,"loss":10,"for":40,"against":35,"isReturning":true},
+{"country":"yug","name":"Spartak Subotica","id":"FK_Spartak_Subotica","win":11,"draw":6,"loss":9,"for":40,"against":34,"isNew":true},
+{"country":"yug","name":"Lokomotiva Zagreb","id":"NK_Lokomotiva_Zagreb","win":10,"draw":4,"loss":12,"for":34,"against":43,"isNew":true},
+{"country":"yug","name":"Pobeda Skopje","id":"FK_Vardar","win":8,"draw":6,"loss":12,"for":41,"against":49,"isNew":true},
+{"country":"yug","name":"Kvarner Rijeka","id":"HNK_Rijeka","win":7,"draw":7,"loss":12,"for":27,"against":42,"isRemoved":true,"isNew":true},
+{"country":"yug","name":"Budućnost Titograd","id":"FK_Budućnost_Podgorica","win":7,"draw":6,"loss":13,"for":44,"against":54,"isRemoved":true,"isNew":true},
+{"country":"yug","name":"Ponziana Trieste","id":"ASD_Ponziana","win":9,"draw":2,"loss":15,"for":35,"against":50,"isNew":true},
+{"country":"yug","name":"Željezničar Sarajevo","id":"FK_Željezničar_Sarajevo","win":7,"draw":4,"loss":15,"for":31,"against":54,"isRemoved":true,"isNew":true},
+{"country":"yug","name":"14. Oktobar Niš","id":"FK_Železničar_Niš","win":4,"draw":5,"loss":17,"for":26,"against":76,"isRemoved":true,"isNew":true},
+{"country":"yug","name":"Nafta Lendava","id":"NK_Nafta_Lendava","win":3,"draw":0,"loss":23,"for":13,"against":88,"isRemoved":true,"isNew":true}
 ]

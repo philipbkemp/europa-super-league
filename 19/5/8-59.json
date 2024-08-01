@@ -285,4 +285,17 @@
 {"country":"ltu","name":"Lima Kaunas","id":"Lima_Kaunas","win":2,"draw":4,"loss":5,"for":7,"against":19},
 {"country":"ltu","name":"CF Kapsukas","id":"FK_Sūduva","win":3,"draw":1,"loss":7,"for":14,"against":26,"isReturning":true},
 {"country":"ltu","name":"Elfa Vilnius","id":"Elfa_Vilnius","win":0,"draw":2,"loss":9,"for":6,"against":24,"isRemoved":true}
-]/*Lithunia moved to 2 year season, so this is for 1958. Season 1958-59 is ignored */
+]/*Lithunia moved to 2 year season, so this is for 1958. Season 1958-59 is ignored */[
+{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":14,"draw":3,"loss":5,"for":50,"against":19,"isChampion":true},
+{"country":"yug","name":"Partizan","id":"FK_Partizan","win":14,"draw":3,"loss":5,"for":39,"against":29},
+{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":13,"draw":4,"loss":5,"for":47,"against":22},
+{"country":"yug","name":"Radnički Beograd","id":"FK_Radnički_Beograd","win":9,"draw":4,"loss":9,"for":35,"against":27},
+{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":9,"draw":4,"loss":9,"for":35,"against":28},
+{"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":10,"draw":2,"loss":10,"for":35,"against":38},
+{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":7,"draw":7,"loss":8,"for":33,"against":35},
+{"country":"yug","name":"Rijeka","id":"HNK_Rijeka","win":8,"draw":4,"loss":10,"for":29,"against":44,"isReturning":true},
+{"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":7,"draw":5,"loss":10,"for":25,"against":41},
+{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":7,"draw":4,"loss":11,"for":25,"against":36,"isReturning":true},
+{"country":"yug","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":7,"draw":3,"loss":12,"for":26,"against":35,"isRemoved":true},
+{"country":"yug","name":"Vardar","id":"FK_Vardar","win":4,"draw":3,"loss":15,"for":23,"against":47,"isRemoved":true}
+]

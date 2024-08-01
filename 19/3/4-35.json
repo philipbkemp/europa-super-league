@@ -242,4 +242,15 @@
 {"country":"ltu","name":"KSS Klaipėda","id":"KSS_Klaipėda","win":4,"draw":2,"loss":5,"for":22,"against":33,"isRemoved":true,"removedNote":"Next season the league moved to a regional format"},
 {"country":"ltu","name":"Sveikata Kybartai","id":"Sveikata_Kybartai","win":2,"draw":3,"loss":6,"for":19,"against":36,"isRemoved":true,"removedNote":"Next season the league moved to a regional format"},
 {"country":"ltu","name":"Makabi Panevėžys","id":"Makabi_Panevėžys","win":0,"draw":0,"loss":6,"for":2,"against":38,"isNew":true,"isRemoved":true,"removedNote":"Next season the league moved to a regional format"}
+][
+{"country":"yug","name":"BSK","id":"OFK_Beograd","win":11,"draw":2,"loss":5,"for":48,"against":22,"isChampion":true,"isReturning":true,"isRemoved":true,"removedNote":"League contests next season in knockout format"},
+{"country":"yug","name":"SK Jugoslavija","id":"SK_Jugoslavija","win":10,"draw":2,"loss":6,"for":40,"against":26,"isReturning":true,"isRemoved":true,"removedNote":"League contests next season in knockout format"},
+{"country":"yug","name":"Građanski","id":"HŠK_Građanski_Zagreb","win":10,"draw":2,"loss":6,"for":31,"against":29,"isReturning":true,"isRemoved":true,"removedNote":"League contests next season in knockout format"},
+{"country":"yug","name":"Concordia Zagreb","id":"HŠK_Concordia","win":7,"draw":7,"loss":4,"for":31,"against":20,"isReturning":true,"isRemoved":true,"removedNote":"League contests next season in knockout format"},
+{"country":"yug","name":"HAŠK","id":"HAŠK","win":8,"draw":4,"loss":6,"for":33,"against":33,"isReturning":true,"isRemoved":true,"removedNote":"League contests next season in knockout format"},
+{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":7,"draw":4,"loss":7,"for":47,"against":32,"isReturning":true,"isRemoved":true,"removedNote":"League contests next season in knockout format"},
+{"country":"yug","name":"BASK","id":"FK_BASK","win":6,"draw":3,"loss":9,"for":41,"against":46,"isReturning":true,"isRemoved":true,"removedNote":"League contests next season in knockout format"},
+{"country":"yug","name":"Slavija Sarajevo","id":"FK_Slavija_Sarajevo","win":7,"draw":1,"loss":10,"for":26,"against":34,"isReturning":true,"isRemoved":true,"removedNote":"League contests next season in knockout format"},
+{"country":"yug","name":"Primorje","id":"ASK_Primorje","win":4,"draw":5,"loss":9,"for":21,"against":43,"isReturning":true,"isRemoved":true,"removedNote":"League contests next season in knockout format"},
+{"country":"yug","name":"Slavija Osijek","id":"JŠK_Slavija_Osijek","win":3,"draw":4,"loss":11,"for":21,"against":54,"isReturning":true,"isRemoved":true,"removedNote":"League contests next season in knockout format"}
 ]

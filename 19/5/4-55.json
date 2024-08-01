@@ -265,4 +265,19 @@
 {"country":"ltu","name":"KN Vilnius","id":"FK_Saliutas_Vilnius","win":4,"draw":3,"loss":4,"for":13,"against":11,"isRemoved":true},
 {"country":"ltu","name":"Gubernija Šiauliai","id":"Gubernija_Šiauliai","win":2,"draw":3,"loss":14,"for":18,"against":44},
 {"country":"ltu","name":"Dinamo Vilnius","id":"Dinamo_Vilnius","win":null,"draw":null,"loss":null,"for":null,"against":null,"note":"Record expunged","isRemoved":true}
+][
+{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":16,"draw":6,"loss":4,"for":69,"against":27,"isChampion":true},
+{"country":"yug","name":"BSK Belgrade","id":"OFK_Beograd","win":15,"draw":6,"loss":5,"for":61,"against":43},
+{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":14,"draw":6,"loss":6,"for":54,"against":49},
+{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":14,"draw":5,"loss":7,"for":57,"against":36},
+{"country":"yug","name":"Partizan","id":"FK_Partizan","win":12,"draw":6,"loss":8,"for":58,"against":36},
+{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":10,"draw":9,"loss":7,"for":48,"against":36},
+{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":11,"draw":6,"loss":9,"for":50,"against":36},
+{"country":"yug","name":"Spartak Subotica","id":"FK_Spartak_Subotica","win":10,"draw":5,"loss":11,"for":54,"against":57},
+{"country":"yug","name":"NK Zagreb","id":"Borac_Zagreb","win":9,"draw":6,"loss":11,"for":34,"against":44,"isReturning":true},
+{"country":"yug","name":"Radnički Beograd","id":"FK_Radnički_Beograd","win":9,"draw":4,"loss":13,"for":34,"against":42},
+{"country":"yug","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":8,"draw":3,"loss":15,"for":34,"against":52,"isReturning":true},
+{"country":"yug","name":"Proleter Osijek","id":"NK_Osijek","win":6,"draw":7,"loss":13,"for":29,"against":51},
+{"country":"yug","name":"Vardar","id":"FK_Vardar","win":5,"draw":8,"loss":13,"for":24,"against":41,"isRemoved":true},
+{"country":"yug","name":"Lokomotiva","id":"NK_Lokomotiva_Zagreb","win":3,"draw":3,"loss":20,"for":25,"against":81,"isRemoved":true}
 ]

@@ -318,4 +318,25 @@
 {"country":"ltu","name":"Geležinis Vilkas","id":"FK_Geležinis_Vilkas","win":3,"draw":7,"loss":12,"for":14,"against":50,"isRemoved":true},
 {"country":"ltu","name":"Žydrius","id":"FK_Žydrius_Marijampolė","win":1,"draw":7,"loss":14,"for":12,"against":46,"isRemoved":true,"isNew":true},
 {"country":"ltu","name":"Tauras-Karšuva","id":"FK_Tauras_Tauragė","win":2,"draw":4,"loss":16,"for":13,"against":55,"isRemoved":true}
+][
+{"country":"yug","name":"Partizan","id":"FK_Partizan","win":13,"draw":3,"loss":2,"for":44,"against":10,"isChampion":true,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":12,"draw":2,"loss":4,"for":40,"against":18,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":8,"draw":5,"loss":5,"for":29,"against":19,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"OFK Beograd","id":"OFK_Beograd","win":7,"draw":3,"loss":8,"for":21,"against":26,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Spartak Subotica","id":"FK_Spartak_Subotica","win":6,"draw":5,"loss":7,"for":22,"against":26,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Zemun","id":"FK_Zemun","win":6,"draw":3,"loss":9,"for":19,"against":25,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Budućnost Podgorica","id":"FK_Budućnost_Podgorica","win":7,"draw":2,"loss":9,"for":21,"against":33,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Radnički Beograd","id":"FK_Radnički_Beograd","win":5,"draw":5,"loss":8,"for":15,"against":28,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Proleter Zrenjanin","id":"FK_Proleter_Zrenjanin","win":4,"draw":3,"loss":11,"for":8,"against":28,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Bečej","id":"OFK_Bečej_1918","win":6,"draw":1,"loss":11,"for":22,"against":28,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Rad","id":"FK_Rad","win":9,"draw":7,"loss":2,"for":28,"against":10,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Rudar Pljevlja","id":"FK_Rudar_Pljevlja","win":8,"draw":6,"loss":4,"for":23,"against":10,"isNew":true,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Napredak Kruševac","id":"FK_Napredak_Kruševac","win":11,"draw":3,"loss":4,"for":24,"against":16,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Radnički Niš","id":"FK_Radnički_Niš","win":8,"draw":5,"loss":5,"for":27,"against":12,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Hajduk Kula","id":"FK_Hajduk_Kula","win":8,"draw":6,"loss":4,"for":22,"against":16,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Sloboda Užice","id":"FK_Sloboda_Užice","win":6,"draw":3,"loss":9,"for":16,"against":22,"isNew":true,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Kikinda","id":"OFK_Kikinda","win":4,"draw":7,"loss":7,"for":16,"against":26,"isRemoved":true,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Sutjeska","id":"FK_Sutjeska_Nikšić","win":4,"draw":5,"loss":9,"for":17,"against":34,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Mogren","id":"FK_Mogren","win":4,"draw":3,"loss":11,"for":12,"against":25,"isRemoved":true,"isRemoved":true,"removedNote":"League moved to group format next season"},
+{"country":"yug","name":"Jastrebac","id":"FK_Jastrebac_Niš","win":4,"draw":3,"loss":11,"for":14,"against":18,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"League moved to group format next season"}
 ]

@@ -1,12 +1,13 @@
-country = "ltu";
+country = "yug";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
 ISGROUPEDFIRST = false;
 FOUND = false;
-tbl = $("#Final_table, #Final_Table, #League_table, #League_Table, #League_standings");
+tbl = $("#League, #Final_table, #Final_Table, #League_table, #League_Table, #League_standings");
 if ( tbl.length === 1 ) { FOUND = true; }
 
+/*
 if ( !FOUND ) {
 	tbl2 = $("#Regular_season, #Championship_round, #Relegation_round");
 	if ( tbl2.length === 3 ) { tbl = tbl2; FOUND = true; ADD_TABLE_STATS = [true,true]; }
@@ -14,16 +15,7 @@ if ( !FOUND ) {
 if ( !FOUND ) {
 	tbl2 = $("#Regular_season, #Championship_round");
 	if ( tbl2.length === 2 ) { tbl = tbl2; FOUND = true; ADD_TABLE_STATS = [false]; }
-}
-//if ( !FOUND ) { tbl2 = $("h2 span#Regular_season, h2 span#Championship_play-offs, h2 span#Relegation_play-outs"); if ( tbl2.length === 3 ) { tbl = tbl2; ADD_TABLE_STATS = true; FOUND = true; } }
-//if ( !FOUND ) { tbl2 = $("h2 span#Regular_season, h2 span#Play-off_round, h2 span#Play-out_round"); if ( tbl2.length === 3 ) { tbl = tbl2; ADD_TABLE_STATS = true; FOUND = true; } }
-//if ( !FOUND ) { tbl2 = $("h2 span#Standings"); if ( tbl2.length === 1 ) { tbl = tbl2; FOUND = true; } }
-//if ( !FOUND) { tbl2 = $("h2 span#Regular_season"); if ( tbl2.length === 1 ) { tbl = tbl2; FOUND = true; } }
-
-//tbl3 = $("h2 span#Autumn_season, h3 span#Championship_playoff, h3 span[id='Promotion/relegation_playoff']"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,true]; }
-//tbl3 = $("h2 span#League_table, h2 span#Championship_round, h2 span#Relegation_round"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,false]; }
-//tbl3 = $("h2 span#Regular_season, h3 span#Championship_round, h3 span#Relegation_round"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,false]; }
-//tbl3 = $("h2 span#First_round, h3 span#Championship_round, h3 span#Relegation_round"); if ( tbl3.length === 3 ) { FOUND = true; tbl = tbl3; ADD_TABLE_STATS = [false,false]; }
+}*/
 
 if ( FOUND ) {
 	tblTotal = tbl.length;

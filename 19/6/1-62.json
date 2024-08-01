@@ -265,4 +265,17 @@
 {"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":7,"draw":3,"loss":12,"for":39,"against":49},
 {"country":"irl","name":"Transport","id":"Transport_F.C.","win":2,"draw":3,"loss":17,"for":29,"against":76,"isRemoved":true},
 {"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":1,"draw":3,"loss":18,"for":31,"against":87,"isRemoved":true}
+][
+{"country":"yug","name":"Partizan","id":"FK_Partizan","win":13,"draw":5,"loss":4,"for":42,"against":22,"isChampion":true},
+{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":9,"draw":8,"loss":5,"for":30,"against":25},
+{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":10,"draw":5,"loss":7,"for":36,"against":23},
+{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":9,"draw":6,"loss":7,"for":35,"against":25},
+{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":8,"draw":8,"loss":6,"for":30,"against":30},
+{"country":"yug","name":"OFK Belgrade","id":"OFK_Beograd","win":7,"draw":8,"loss":7,"for":37,"against":28},
+{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":6,"draw":10,"loss":6,"for":37,"against":40},
+{"country":"yug","name":"Rijeka","id":"HNK_Rijeka","win":5,"draw":12,"loss":5,"for":17,"against":21},
+{"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":7,"draw":6,"loss":9,"for":29,"against":35},
+{"country":"yug","name":"Novi Sad","id":"RFK_Novi_Sad_1921","win":7,"draw":5,"loss":10,"for":27,"against":40,"isNew":true},
+{"country":"yug","name":"Vardar","id":"FK_Vardar","win":7,"draw":4,"loss":11,"for":30,"against":37,"isRemoved":true},
+{"country":"yug","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":3,"draw":5,"loss":14,"for":26,"against":50,"isRemoved":true,"isNew":true}
 ]
