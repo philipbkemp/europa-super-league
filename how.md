@@ -15,11 +15,11 @@
 - run "newTeams()" and update "data-teams" attributes
 - reload, repaste JSON
 - run "checkRemoved()" pasting results from previous season, making sure it gives a list of newly removed teams and no errors
-- run "verify()"
+- run "verify()" - should return undefined, or list or failures
 - copy HTML element and paste into HTML file
 - reload page
 - paste existing team records into existing team pages
-- copy HTML element into season page
+- copy updated HTML element into season page
 - run "getWinner()" and paste into winners file
 - verify HTML version of winners file
 - add link to new season on homepage
