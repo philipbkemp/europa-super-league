@@ -300,4 +300,21 @@
 {"country":"ltu","name":"Šilutė","id":"FK_Šilutė","win":6,"draw":7,"loss":15,"for":34,"against":44,"isNew":true},
 {"country":"ltu","name":"Sūduva","id":"FK_Sūduva","win":5,"draw":7,"loss":16,"for":31,"against":55},
 {"country":"ltu","name":"Vilnius","id":"FC_Vilnius","win":4,"draw":5,"loss":19,"for":19,"against":49}
+][
+{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":25,"draw":4,"loss":1,"for":81,"against":16,"isChampion":true},
+{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":24,"draw":4,"loss":2,"for":76,"against":19},
+{"country":"bgr","name":"Lokomotiv Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":18,"draw":4,"loss":8,"for":65,"against":34},
+{"country":"bgr","name":"Litex Lovech","id":"FC_Lovech","win":16,"draw":4,"loss":10,"for":45,"against":27},
+{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":13,"draw":9,"loss":8,"for":43,"against":33},
+{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":14,"draw":7,"loss":9,"for":43,"against":35,"deduct":-3,"deductReason":"Failure to pay former player"},
+{"country":"bgr","name":"Naftex Burgas","id":"PFC_Naftex_Burgas","win":10,"draw":5,"loss":15,"for":24,"against":38},
+{"country":"bgr","name":"Cherno More","id":"PFC_Cherno_More_Varna","win":10,"draw":5,"loss":15,"for":30,"against":38},
+{"country":"bgr","name":"Marek","id":"FC_Marek_Dupnitsa","win":9,"draw":8,"loss":13,"for":34,"against":44},
+{"country":"bgr","name":"Beroe","id":"PFC_Beroe_Stara_Zagora","win":9,"draw":8,"loss":13,"for":32,"against":36,"isReturning":true},
+{"country":"bgr","name":"Belasitsa Petrich","id":"OFC_Belasitsa_Petrich","win":9,"draw":7,"loss":14,"for":25,"against":48},
+{"country":"bgr","name":"Rodopa Smolyan","id":"FC_Rodopa_Smolyan","win":9,"draw":6,"loss":15,"for":33,"against":43},
+{"country":"bgr","name":"Pirin Blagoevgrad","id":"OFC_Pirin_Blagoevgrad","win":7,"draw":12,"loss":11,"for":31,"against":40},
+{"country":"bgr","name":"Vidima-Rakovski","id":"PFC_Vidima-Rakovski_Sevlievo","win":9,"draw":5,"loss":16,"for":32,"against":51,"isRemoved":true},
+{"country":"bgr","name":"Nesebar","id":"OFC_Nesebar","win":5,"draw":5,"loss":20,"for":26,"against":63,"isRemoved":true,"isNew":true},
+{"country":"bgr","name":"Spartak Varna","id":"FC_Spartak_Varna","win":5,"draw":3,"loss":22,"for":18,"against":73,"isRemoved":true}
 ]

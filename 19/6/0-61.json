@@ -308,4 +308,19 @@
 {"country":"yug","name":"Vardar","id":"FK_Vardar","win":6,"draw":5,"loss":11,"for":21,"against":36,"isReturning":true},
 {"country":"yug","name":"RNK Split","id":"RNK_Split","win":5,"draw":6,"loss":11,"for":29,"against":38,"isRemoved":true,"isReturning":true},
 {"country":"yug","name":"Radnički Beograd","id":"FK_Radnički_Beograd","win":4,"draw":0,"loss":18,"for":33,"against":58,"isRemoved":true}
+][
+{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":18,"draw":4,"loss":4,"for":56,"against":17,"isChampion":true},
+{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":10,"draw":10,"loss":6,"for":45,"against":33},
+{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":10,"draw":9,"loss":7,"for":50,"against":41},
+{"country":"bgr","name":"Minyor Pernik","id":"FC_Minyor_Pernik","win":9,"draw":10,"loss":7,"for":36,"against":39},
+{"country":"bgr","name":"Marek Dupnitsa","id":"FC_Marek_Dupnitsa","win":9,"draw":9,"loss":8,"for":33,"against":45,"isReturning":true},
+{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":9,"draw":8,"loss":9,"for":33,"against":29},
+{"country":"bgr","name":"Spartak Varna","id":"FC_Spartak_Varna","win":11,"draw":4,"loss":11,"for":29,"against":37},
+{"country":"bgr","name":"Dunav Ruse","id":"FC_Dunav_Ruse","win":10,"draw":5,"loss":11,"for":38,"against":46},
+{"country":"bgr","name":"Spartak Plovdiv","id":"PFC_Spartak_Plovdiv","win":7,"draw":10,"loss":9,"for":39,"against":37},
+{"country":"bgr","name":"Beroe Stara Zagora","id":"PFC_Beroe_Stara_Zagora","win":7,"draw":10,"loss":9,"for":30,"against":38,"isReturning":true},
+{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":8,"draw":7,"loss":11,"for":33,"against":37},
+{"country":"bgr","name":"Cherno More Varna","id":"PFC_Cherno_More_Varna","win":8,"draw":7,"loss":11,"for":33,"against":37,"isReturning":true},
+{"country":"bgr","name":"Spartak Sofia","id":"FC_Spartak_Sofia","win":8,"draw":6,"loss":12,"for":39,"against":35,"isRemoved":true},
+{"country":"bgr","name":"Septemvri Sofia","id":"PFC_Septemvri_Sofia","win":5,"draw":7,"loss":14,"for":33,"against":56,"isRemoved":true}
 ]

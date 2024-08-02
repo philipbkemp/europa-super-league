@@ -353,4 +353,21 @@
 {"country":"yug","name":"Osijek","id":"NK_Osijek","win":11,"draw":7,"loss":16,"for":48,"against":51},
 {"country":"yug","name":"OFK Belgrade","id":"OFK_Beograd","win":9,"draw":10,"loss":15,"for":38,"against":45,"isRemoved":true},
 {"country":"yug","name":"Galenika Zemun","id":"FK_Zemun","win":4,"draw":12,"loss":18,"for":31,"against":56,"isRemoved":true,"isNew":true}
+][
+{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":18,"draw":9,"loss":3,"for":52,"against":26,"isChampion":true},
+{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":18,"draw":6,"loss":6,"for":50,"against":21},
+{"country":"bgr","name":"Trakia Plovdiv","id":"Botev_Plovdiv","win":16,"draw":6,"loss":8,"for":62,"against":40},
+{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":12,"draw":8,"loss":10,"for":39,"against":40},
+{"country":"bgr","name":"Spartak Pleven","id":"OFC_Spartak_Pleven","win":13,"draw":5,"loss":12,"for":46,"against":40,"isRemoved":true,"removedNote":"Relegated due to allegations of bribery and match fixing"},
+{"country":"bgr","name":"Sliven","id":"FC_Sliven","win":13,"draw":4,"loss":13,"for":46,"against":45},
+{"country":"bgr","name":"Spartak Varna","id":"FC_Spartak_Varna","win":12,"draw":5,"loss":13,"for":36,"against":38,"isReturning":true},
+{"country":"bgr","name":"Etar Veliko Tarnovo","id":"FC_Etar_(Veliko_Tarnovo)","win":13,"draw":3,"loss":14,"for":38,"against":41},
+{"country":"bgr","name":"Cherno More Varna","id":"PFC_Cherno_More_Varna","win":9,"draw":11,"loss":10,"for":24,"against":28},
+{"country":"bgr","name":"Belasitsa Petrich","id":"OFC_Belasitsa_Petrich","win":12,"draw":5,"loss":13,"for":43,"against":54},
+{"country":"bgr","name":"Botev Vratsa","id":"POFC_Botev_Vratsa","win":13,"draw":4,"loss":13,"for":38,"against":35,"deduct":-2},
+{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":11,"draw":6,"loss":13,"for":35,"against":37},
+{"country":"bgr","name":"Chernomorets Burgas","id":"FC_Chernomorets_Burgas","win":12,"draw":4,"loss":14,"for":41,"against":47},
+{"country":"bgr","name":"Haskovo","id":"FC_Haskovo","win":9,"draw":4,"loss":17,"for":34,"against":41},
+{"country":"bgr","name":"Rozova Dolina Kazanlak","id":"FC_Rozova_Dolina_Kazanlak","win":7,"draw":5,"loss":18,"for":30,"against":53,"isRemoved":true,"isNew":true},
+{"country":"bgr","name":"Pirin Blagoevgrad","id":"OFC_Pirin_Blagoevgrad","win":7,"draw":5,"loss":18,"for":26,"against":54,"isRemoved":true,"isReturning":true}
 ]

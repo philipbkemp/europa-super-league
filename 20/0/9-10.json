@@ -307,4 +307,21 @@
 {"country":"ltu","name":"Banga","id":"FK_Banga_Gargždai","win":7,"draw":6,"loss":15,"for":25,"against":49,"isReturning":true},
 {"country":"ltu","name":"LKKA ir Teledema","id":"FK_Atletas_Kaunas","win":4,"draw":3,"loss":21,"for":19,"against":63,"isReturning":true},
 {"country":"ltu","name":"Kruoja","id":"FK_Kruoja_Pakruojis","win":2,"draw":7,"loss":19,"for":24,"against":70,"isNew":true}
+][
+{"country":"bgr","name":"Litex Lovech","id":"FC_Lovech","win":22,"draw":4,"loss":4,"for":59,"against":17,"isChampion":true},
+{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":16,"draw":10,"loss":4,"for":51,"against":25},
+{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":17,"draw":6,"loss":7,"for":57,"against":26},
+{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":15,"draw":7,"loss":8,"for":47,"against":33},
+{"country":"bgr","name":"Chernomorets Burgas","id":"PSFC_Chernomorets_Burgas","win":15,"draw":6,"loss":9,"for":44,"against":29},
+{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":14,"draw":8,"loss":8,"for":34,"against":28},
+{"country":"bgr","name":"Cherno More","id":"PFC_Cherno_More_Varna","win":13,"draw":9,"loss":8,"for":40,"against":28},
+{"country":"bgr","name":"Minyor Pernik","id":"FC_Minyor_Pernik","win":13,"draw":6,"loss":11,"for":38,"against":26},
+{"country":"bgr","name":"Pirin Blagoevgrad","id":"OFC_Pirin_Blagoevgrad","win":11,"draw":10,"loss":9,"for":34,"against":32},
+{"country":"bgr","name":"Beroe","id":"PFC_Beroe_Stara_Zagora","win":10,"draw":8,"loss":12,"for":30,"against":36,"isReturning":true},
+{"country":"bgr","name":"Montana","id":"FC_Montana","win":9,"draw":9,"loss":12,"for":30,"against":37,"isReturning":true},
+{"country":"bgr","name":"Lokomotiv Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":9,"draw":6,"loss":15,"for":36,"against":52},
+{"country":"bgr","name":"Sliven","id":"FC_Sliven","win":9,"draw":5,"loss":16,"for":29,"against":40},
+{"country":"bgr","name":"Lokomotiv Mezdra","id":"FC_Lokomotiv_Mezdra","win":7,"draw":6,"loss":17,"for":30,"against":48,"isRemoved":true},
+{"country":"bgr","name":"Sportist Svoge","id":"FC_Sportist_Svoge","win":5,"draw":4,"loss":21,"for":23,"against":59,"isRemoved":true,"isNew":true},
+{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":1,"draw":4,"loss":25,"for":12,"against":78,"isRemoved":true,"removedNote":"Expelled during the winter break for failing to meet criteria to continue the season","deduct":-6,"deductReason":"Administrative irregularities"}
 ]

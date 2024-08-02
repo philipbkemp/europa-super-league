@@ -310,4 +310,19 @@
 {"country":"ltu","name":"Banga","id":"FK_Banga_Gargždai","win":3,"draw":7,"loss":10,"for":16,"against":30,"isReturning":true},
 {"country":"ltu","name":"Panevėžys","id":"FK_Panevėžys","win":2,"draw":6,"loss":12,"for":19,"against":38},
 {"country":"ltu","name":"Riteriai","id":"FK_Riteriai","win":2,"draw":6,"loss":12,"for":17,"against":38}
+][
+{"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":22,"draw":4,"loss":5,"for":69,"against":29,"isChampion":true},
+{"country":"bgr","name":"Lokomotiv Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":17,"draw":10,"loss":4,"for":48,"against":23},
+{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":17,"draw":8,"loss":6,"for":46,"against":24},
+{"country":"bgr","name":"Arda","id":"FC_Arda_Kardzhali","win":13,"draw":11,"loss":7,"for":42,"against":37},
+{"country":"bgr","name":"CSKA 1948","id":"FC_CSKA_1948_Sofia","win":12,"draw":11,"loss":8,"for":41,"against":34,"isNew":true},
+{"country":"bgr","name":"Beroe","id":"PFC_Beroe_Stara_Zagora","win":10,"draw":9,"loss":12,"for":42,"against":38},
+{"country":"bgr","name":"Cherno More","id":"PFC_Cherno_More_Varna","win":12,"draw":9,"loss":11,"for":37,"against":34},
+{"country":"bgr","name":"Tsarsko Selo","id":"FC_Tsarsko_Selo_Sofia","win":9,"draw":10,"loss":13,"for":33,"against":39},
+{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":11,"draw":8,"loss":13,"for":34,"against":32},
+{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":7,"draw":11,"loss":14,"for":34,"against":52},
+{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":9,"draw":7,"loss":16,"for":28,"against":44},
+{"country":"bgr","name":"Botev Vratsa","id":"POFC_Botev_Vratsa","win":8,"draw":6,"loss":18,"for":31,"against":45},
+{"country":"bgr","name":"Etar","id":"SFC_Etar_Veliko_Tarnovo","win":6,"draw":10,"loss":16,"for":25,"against":53,"isRemoved":true},
+{"country":"bgr","name":"Montana","id":"FC_Montana","win":6,"draw":10,"loss":16,"for":26,"against":52,"isRemoved":true,"isReturning":true}
 ]

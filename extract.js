@@ -1,4 +1,4 @@
-country = "yug";
+country = "bgr";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
@@ -7,15 +7,22 @@ FOUND = false;
 tbl = $("#League, #Final_table, #Final_Table, #League_table, #League_Table, #League_standings");
 if ( tbl.length === 1 ) { FOUND = true; }
 
-/*
-if ( !FOUND ) {
+
+/*if ( !FOUND ) {*/
 	tbl2 = $("#Regular_season, #Championship_round, #Relegation_round");
-	if ( tbl2.length === 3 ) { tbl = tbl2; FOUND = true; ADD_TABLE_STATS = [true,true]; }
+	if ( tbl2.length === 3 ) { tbl = tbl2; FOUND = true; ADD_TABLE_STATS = [false,false]; }
+/*
 }
 if ( !FOUND ) {
 	tbl2 = $("#Regular_season, #Championship_round");
 	if ( tbl2.length === 2 ) { tbl = tbl2; FOUND = true; ADD_TABLE_STATS = [false]; }
 }*/
+
+	tbl2 = $("#Regular_season, #Championship_round, #Group_A, #Group_B");
+	if ( tbl2.length === 4 ) { tbl = tbl2; FOUND = true; ADD_TABLE_STATS = [false,false,false]; }
+
+	tbl2 = $("#Regular_season, #Championship_round, #Conference_League_round, #Relegation_round");
+	if ( tbl2.length === 4 ) { tbl = tbl2; FOUND = true; ADD_TABLE_STATS = [false,false,false]; alert("reg/cham/conf/rel"); }
 
 if ( FOUND ) {
 	tblTotal = tbl.length;
@@ -30,6 +37,7 @@ if ( FOUND ) {
 		TYPE_NODRAWS = ["Pos","Team","Pld","W","L","GF","GA"]; IS_NODRAWS = 0;
 		TYPE_PENALTYDRAW = ["Pos","Team","Pld","W","PKW","PKL","L","GF","GA"]; IS_PENDRAW = 0;
 		TYPE_WINBYTHREE = ["Pos","Team","Pld","W","3W","D","3L","L","GF","GA"]; IS_WINBYTHREE = 0;
+		TYPE_GOALESS_DRAW = ["Pos","Team","Pld","W","D","0–0","L","GF","GA"]; IS_GOALESS_DRAW = 0;
 		for ( i=0; i!=TYPE_STANDARD.length; i++ ) {
 			if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_STANDARD[i] ) { IS_STANDARD++ }
 		}
@@ -49,6 +57,11 @@ if ( FOUND ) {
 						for ( i=0; i!=TYPE_WINBYTHREE.length; i++ ) {
 							if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_WINBYTHREE[i] ) { IS_WINBYTHREE++ }
 						}
+						if ( IS_WINBYTHREE !== TYPE_WINBYTHREE.length) {
+							for ( i=0; i!=TYPE_GOALESS_DRAW.length; i++ ) {
+								if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_GOALESS_DRAW[i] ) { IS_GOALESS_DRAW++ }
+							}
+						}
 					}
 				}
 			}
@@ -57,7 +70,8 @@ if ( FOUND ) {
 			IS_HOMEAWAY === TYPE_HOMEAWAY.length ||
 			IS_NODRAWS === TYPE_NODRAWS.length ||
 			IS_PENDRAW === TYPE_PENALTYDRAW.length ||
-			IS_WINBYTHREE === TYPE_WINBYTHREE.length
+			IS_WINBYTHREE === TYPE_WINBYTHREE.length ||
+			IS_GOALESS_DRAW === TYPE_GOALESS_DRAW.length
 		) {
 			for ( r=1; r!==rows.length; r++ ) {
 				cols = Array.from($($(rows)[r]).find("th, td"));
@@ -134,6 +148,17 @@ if ( FOUND ) {
 							against: parseInt($(cols[9]).text().trim()),
 							winByThree: parseInt($(cols[4]).text().trim()), // POL, 1986-87 to 1989-90, +1 for win by 3+ goals
 							lossByThree: parseInt($(cols[6]).text().trim()) // POL, 1986-87 to 1989-90, -1 for loss by 3+ goals
+						};
+					} else if ( IS_GOALESS_DRAW === TYPE_GOALESS_DRAW.length ) {
+						thisClub ={
+							country: country,
+							name: theClubName,
+							id: theClubId,
+							win: parseInt($(cols[3]).text().trim()),
+							draw: parseInt($(cols[4]).text().trim()) + parseInt($(cols[5]).text().trim()),
+							loss: parseInt($(cols[6]).text().trim()),
+							for: parseInt($(cols[7]).text().trim()),
+							against: parseInt($(cols[8]).text().trim())
 						};
 					}
 					if ( current_season ) {

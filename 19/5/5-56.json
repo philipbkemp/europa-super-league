@@ -281,4 +281,17 @@
 {"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":9,"draw":5,"loss":12,"for":52,"against":39},
 {"country":"yug","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":7,"draw":7,"loss":12,"for":33,"against":54,"isRemoved":true},
 {"country":"yug","name":"Proleter Osijek","id":"NK_Osijek","win":5,"draw":1,"loss":20,"for":30,"against":94,"isRemoved":true}
+][
+{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":11,"draw":9,"loss":2,"for":46,"against":25,"isChampion":true},
+{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":8,"draw":10,"loss":4,"for":30,"against":24},
+{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":9,"draw":7,"loss":6,"for":27,"against":20},
+{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":8,"draw":7,"loss":7,"for":37,"against":31},
+{"country":"bgr","name":"Minyor Pernik","id":"FC_Minyor_Pernik","win":8,"draw":6,"loss":8,"for":40,"against":34},
+{"country":"bgr","name":"Spartak Plovdiv","id":"PFC_Spartak_Plovdiv","win":7,"draw":7,"loss":8,"for":28,"against":29},
+{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":5,"draw":11,"loss":6,"for":20,"against":22},
+{"country":"bgr","name":"Spartak Pleven","id":"OFC_Spartak_Pleven","win":6,"draw":9,"loss":7,"for":19,"against":26},
+{"country":"bgr","name":"Spartak Sofia","id":"FC_Spartak_Sofia","win":5,"draw":9,"loss":8,"for":25,"against":30,"isReturning":true},
+{"country":"bgr","name":"Spartak Varna","id":"FC_Spartak_Varna","win":5,"draw":9,"loss":8,"for":22,"against":28},
+{"country":"bgr","name":"Zavod 12 Sofia","id":"FC_Zavod_12_Sofia","win":5,"draw":9,"loss":8,"for":20,"against":29,"isRemoved":true},
+{"country":"bgr","name":"Dunav Ruse","id":"FC_Dunav_Ruse","win":2,"draw":13,"loss":7,"for":16,"against":32,"isRemoved":true,"isReturning":true}
 ]

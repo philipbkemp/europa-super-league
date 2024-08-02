@@ -296,4 +296,19 @@
 {"country":"yug","name":"Zvezdara","id":"FK_Zvezdara","win":7,"draw":8,"loss":19,"for":35,"against":64,"isRemoved":true,"isNew":true},
 {"country":"yug","name":"Mladost Apatin","id":"FK_Mladost_Apatin","win":4,"draw":12,"loss":18,"for":26,"against":64,"isRemoved":true,"isNew":true},
 {"country":"yug","name":"Radnički Kragujevac","id":"FK_Radnički_1923","win":6,"draw":5,"loss":23,"for":25,"against":64,"isRemoved":true}
+][
+{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":27,"draw":7,"loss":2,"for":77,"against":27,"isChampion":true},
+{"country":"bgr","name":"Litex Lovech","id":"FC_Lovech","win":23,"draw":8,"loss":5,"for":66,"against":34},
+{"country":"bgr","name":"Lokomotiv Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":18,"draw":6,"loss":12,"for":48,"against":41,"isReturning":true},
+{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":19,"draw":7,"loss":10,"for":60,"against":29},
+{"country":"bgr","name":"Naftex Burgas","id":"PFC_Naftex_Burgas","win":14,"draw":9,"loss":13,"for":44,"against":40},
+{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":14,"draw":8,"loss":14,"for":42,"against":48},
+{"country":"bgr","name":"Spartak Pleven","id":"OFC_Spartak_Pleven","win":15,"draw":4,"loss":21,"for":58,"against":66,"isRemoved":true,"isReturning":true},
+{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":14,"draw":9,"loss":17,"for":49,"against":48},
+{"country":"bgr","name":"Spartak Varna","id":"FC_Spartak_Varna","win":12,"draw":13,"loss":15,"for":50,"against":51},
+{"country":"bgr","name":"Chernomorets Burgas","id":"FC_Chernomorets_Burgas","win":13,"draw":9,"loss":18,"for":41,"against":69},
+{"country":"bgr","name":"Marek","id":"FC_Marek_Dupnitsa","win":14,"draw":8,"loss":18,"for":46,"against":57,"isReturning":true},
+{"country":"bgr","name":"Cherno More","id":"PFC_Cherno_More_Varna","win":12,"draw":11,"loss":17,"for":47,"against":51},
+{"country":"bgr","name":"Belasitsa Petrich","id":"OFC_Belasitsa_Petrich","win":12,"draw":7,"loss":21,"for":34,"against":50,"isRemoved":true,"isReturning":true},
+{"country":"bgr","name":"Beroe","id":"PFC_Beroe_Stara_Zagora","win":4,"draw":8,"loss":28,"for":19,"against":70,"isRemoved":true}
 ]

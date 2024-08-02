@@ -306,4 +306,19 @@
 {"country":"ltu","name":"Jonava","id":"FK_Jonava","win":10,"draw":8,"loss":15,"for":40,"against":53},
 {"country":"ltu","name":"Stumbras","id":"FC_Stumbras","win":4,"draw":10,"loss":14,"for":23,"against":42},
 {"country":"ltu","name":"Kauno Žalgiris","id":"FK_Kauno_Žalgiris","win":3,"draw":6,"loss":19,"for":19,"against":56,"isRemoved":true,"isReturning":true}
+][
+{"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":27,"draw":7,"loss":2,"for":91,"against":22,"isChampion":true},
+{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":24,"draw":9,"loss":3,"for":80,"against":26},
+{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":18,"draw":10,"loss":8,"for":55,"against":27},
+{"country":"bgr","name":"Beroe","id":"PFC_Beroe_Stara_Zagora","win":16,"draw":11,"loss":9,"for":45,"against":43},
+{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":15,"draw":11,"loss":10,"for":62,"against":49},
+{"country":"bgr","name":"Vereya","id":"FC_Vereya","win":10,"draw":6,"loss":20,"for":27,"against":61},
+{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":11,"draw":10,"loss":11,"for":44,"against":44},
+{"country":"bgr","name":"Septemvri Sofia","id":"PFC_Septemvri_Sofia","win":12,"draw":5,"loss":15,"for":32,"against":48,"isReturning":true},
+{"country":"bgr","name":"Lokomotiv Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":9,"draw":10,"loss":13,"for":26,"against":43},
+{"country":"bgr","name":"Cherno More","id":"PFC_Cherno_More_Varna","win":11,"draw":7,"loss":14,"for":33,"against":35},
+{"country":"bgr","name":"Pirin Blagoevgrad","id":"OFC_Pirin_Blagoevgrad","win":7,"draw":9,"loss":16,"for":29,"against":42,"isRemoved":true},
+{"country":"bgr","name":"Dunav Ruse","id":"FC_Dunav_Ruse","win":8,"draw":7,"loss":17,"for":24,"against":44},
+{"country":"bgr","name":"Etar","id":"SFC_Etar_Veliko_Tarnovo","win":6,"draw":10,"loss":16,"for":31,"against":52,"isNew":true},
+{"country":"bgr","name":"Vitosha Bistritsa","id":"FC_Vitosha_Bistritsa","win":1,"draw":10,"loss":21,"for":17,"against":60,"isNew":true}
 ]

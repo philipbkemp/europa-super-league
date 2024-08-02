@@ -308,4 +308,21 @@
 {"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":11,"draw":8,"loss":17,"for":40,"against":52},
 {"country":"ltu","name":"Šiauliai","id":"FC_Šiauliai","win":8,"draw":9,"loss":19,"for":40,"against":61,"isReturning":true},
 {"country":"ltu","name":"Nevėžis","id":"FK_Nevėžis","win":0,"draw":5,"loss":31,"for":18,"against":115,"isReturning":true}
+][
+{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":21,"draw":5,"loss":2,"for":71,"against":23,"isChampion":true},
+{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":20,"draw":5,"loss":3,"for":73,"against":22},
+{"country":"bgr","name":"Litex Lovech","id":"FC_Lovech","win":18,"draw":6,"loss":4,"for":51,"against":22},
+{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":18,"draw":0,"loss":10,"for":49,"against":29},
+{"country":"bgr","name":"Lokomotiv Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":11,"draw":7,"loss":10,"for":43,"against":42},
+{"country":"bgr","name":"Belasitsa Petrich","id":"OFC_Belasitsa_Petrich","win":11,"draw":6,"loss":11,"for":33,"against":33},
+{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":12,"draw":3,"loss":13,"for":33,"against":34},
+{"country":"bgr","name":"Cherno More","id":"PFC_Cherno_More_Varna","win":10,"draw":7,"loss":11,"for":29,"against":27},
+{"country":"bgr","name":"Vihren","id":"OFC_Vihren_Sandanski","win":10,"draw":2,"loss":16,"for":35,"against":55,"isNew":true},
+{"country":"bgr","name":"Beroe","id":"PFC_Beroe_Stara_Zagora","win":8,"draw":8,"loss":12,"for":36,"against":53},
+{"country":"bgr","name":"Marek","id":"FC_Marek_Dupnitsa","win":8,"draw":7,"loss":13,"for":23,"against":37},
+{"country":"bgr","name":"Rodopa Smolyan","id":"FC_Rodopa_Smolyan","win":7,"draw":4,"loss":17,"for":23,"against":52},
+{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":4,"draw":12,"loss":12,"for":20,"against":38,"isReturning":true},
+{"country":"bgr","name":"Pirin 1922 Blagoevgrad","id":"Prinn_1922","win":5,"draw":8,"loss":15,"for":23,"against":46,"isRemoved":true,"isNew":true},
+{"country":"bgr","name":"Naftex Burgas","id":"PFC_Naftex_Burgas","win":4,"draw":6,"loss":18,"for":14,"against":43,"isRemoved":true},
+{"country":"bgr","name":"FC Pirin Blagoevgrad","id":"OFC_Pirin_Blagoevgrad","win":0,"draw":0,"loss":2,"for":0,"against":3,"isRemoved":true,"removedNote":"Disqualified after 2 games and relegated for failing to arrange their debts"}
 ]

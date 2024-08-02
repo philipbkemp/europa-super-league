@@ -314,4 +314,21 @@
 {"country":"ltu","name":"Dainava","id":"DFK_Dainava","win":7,"draw":10,"loss":19,"for":25,"against":40,"isReturning":true},
 {"country":"ltu","name":"Džiugas","id":"FC_Džiugas_Telšiai","win":4,"draw":13,"loss":19,"for":25,"against":57},
 {"country":"ltu","name":"Riteriai","id":"FK_Riteriai","win":5,"draw":10,"loss":21,"for":26,"against":62,"isRemoved":true}
+][
+{"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":26,"draw":4,"loss":5,"for":87,"against":24,"isChampion":true},
+{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":20,"draw":7,"loss":8,"for":56,"against":27},
+{"country":"bgr","name":"Cherno More","id":"PFC_Cherno_More_Varna","win":22,"draw":9,"loss":4,"for":56,"against":26},
+{"country":"bgr","name":"Lokomotiv Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":17,"draw":7,"loss":11,"for":53,"against":44},
+{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":19,"draw":7,"loss":9,"for":50,"against":30},
+{"country":"bgr","name":"Krumovgrad","id":"FC_Krumovgrad","win":13,"draw":10,"loss":12,"for":45,"against":45,"isNew":true},
+{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":12,"draw":9,"loss":15,"for":50,"against":42},
+{"country":"bgr","name":"CSKA 1948","id":"FC_CSKA_1948_Sofia","win":13,"draw":13,"loss":10,"for":35,"against":30},
+{"country":"bgr","name":"Arda","id":"FC_Arda_Kardzhali","win":14,"draw":9,"loss":13,"for":39,"against":35},
+{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":12,"draw":7,"loss":17,"for":35,"against":51},
+{"country":"bgr","name":"Beroe","id":"PFC_Beroe_Stara_Zagora","win":12,"draw":6,"loss":17,"for":30,"against":46},
+{"country":"bgr","name":"Pirin Blagoevgrad","id":"OFC_Pirin_Blagoevgrad","win":7,"draw":11,"loss":17,"for":26,"against":48,"isRemoved":true},
+{"country":"bgr","name":"Hebar","id":"FC_Hebar_Pazardzhik","win":9,"draw":7,"loss":19,"for":35,"against":49},
+{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":11,"draw":6,"loss":18,"for":30,"against":58},
+{"country":"bgr","name":"Botev Vratsa","id":"POFC_Botev_Vratsa","win":9,"draw":6,"loss":20,"for":28,"against":56},
+{"country":"bgr","name":"Etar","id":"SFC_Etar_Veliko_Tarnovo","win":3,"draw":8,"loss":24,"for":22,"against":66,"isRemoved":true,"isReturning":true}
 ]

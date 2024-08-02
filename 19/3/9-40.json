@@ -176,4 +176,15 @@
 {"country":"yug","name":"SK Jugoslavija","id":"SK_Jugoslavija","win":3,"draw":2,"loss":5,"for":16,"against":18,"isRemoved":true,"removedNote":"Removed due to WW2 and restructuring of Yugoslavia"},
 {"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":1,"draw":3,"loss":6,"for":14,"against":29,"isRemoved":true,"removedNote":"Removed due to WW2 and restructuring of Yugoslavia"},
 {"country":"yug","name":"HAŠK","id":"NK_HAŠK","win":1,"draw":0,"loss":9,"for":12,"against":32,"isNew":true,"isRemoved":true,"removedNote":"Removed due to WW2 and restructuring of Yugoslavia"}
+][
+{"country":"bgr","name":"ZhSK Sofia","id":"FC_Lokomotiv_1929_Sofia","win":10,"draw":3,"loss":5,"for":31,"against":27,"isChampion":true,"isNew":true,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},
+{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":9,"draw":4,"loss":5,"for":29,"against":18,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},
+{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":9,"draw":4,"loss":5,"for":30,"against":20,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},
+{"country":"bgr","name":"AS 23 Sofia","id":"OSK_AS-23","win":9,"draw":2,"loss":7,"for":41,"against":27,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},
+{"country":"bgr","name":"FC 13 Sofia","id":"FK_13_Sofia","win":6,"draw":7,"loss":5,"for":37,"against":29,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},
+{"country":"bgr","name":"Shipka Sofia","id":"FC_Shipka_Sofia","win":7,"draw":3,"loss":8,"for":25,"against":27,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},
+{"country":"bgr","name":"Ticha Varna","id":"SK_Ticha","win":6,"draw":5,"loss":7,"for":17,"against":24,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},
+{"country":"bgr","name":"Sportclub Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":4,"draw":9,"loss":5,"for":17,"against":24,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},
+{"country":"bgr","name":"Levski Ruse","id":"FC_Dunav_Ruse","win":4,"draw":4,"loss":10,"for":13,"against":27,"isRemoved":true,"isReturning":true,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},
+{"country":"bgr","name":"Vladislav Varna","id":"SK_Vladislav","win":3,"draw":5,"loss":10,"for":14,"against":31,"isRemoved":true,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"}
 ]

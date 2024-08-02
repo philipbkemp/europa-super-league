@@ -355,4 +355,21 @@
 {"country":"yug","name":"Osijek","id":"NK_Osijek","win":9,"draw":11,"loss":14,"for":36,"against":37,"isReturning":true},
 {"country":"yug","name":"Teteks","id":"FK_Teteks","win":8,"draw":7,"loss":19,"for":31,"against":68,"isRemoved":true,"isNew":true},
 {"country":"yug","name":"NK Zagreb","id":"Borac_Zagreb","win":7,"draw":5,"loss":22,"for":27,"against":68,"isRemoved":true}
+][
+{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":22,"draw":3,"loss":5,"for":73,"against":27,"isChampion":true},
+{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":20,"draw":6,"loss":4,"for":71,"against":32},
+{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":15,"draw":5,"loss":10,"for":35,"against":33},
+{"country":"bgr","name":"Cherno More Varna","id":"PFC_Cherno_More_Varna","win":14,"draw":5,"loss":11,"for":41,"against":37},
+{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":13,"draw":6,"loss":11,"for":41,"against":37},
+{"country":"bgr","name":"Chernomorets Burgas","id":"FC_Chernomorets_Burgas","win":14,"draw":4,"loss":12,"for":48,"against":44},
+{"country":"bgr","name":"Trakia Plovdiv","id":"Botev_Plovdiv","win":13,"draw":4,"loss":13,"for":46,"against":42},
+{"country":"bgr","name":"Haskovo","id":"FC_Haskovo","win":12,"draw":6,"loss":12,"for":34,"against":37,"isReturning":true},
+{"country":"bgr","name":"Spartak Pleven","id":"OFC_Spartak_Pleven","win":13,"draw":3,"loss":14,"for":40,"against":40},
+{"country":"bgr","name":"Etar Veliko Tarnovo","id":"FC_Etar_(Veliko_Tarnovo)","win":9,"draw":10,"loss":11,"for":46,"against":48,"isReturning":true},
+{"country":"bgr","name":"Sliven","id":"FC_Sliven","win":10,"draw":7,"loss":13,"for":38,"against":40},
+{"country":"bgr","name":"Belasitsa Petrich","id":"OFC_Belasitsa_Petrich","win":11,"draw":5,"loss":14,"for":32,"against":43},
+{"country":"bgr","name":"Marek Dupnitsa","id":"FC_Marek_Dupnitsa","win":9,"draw":8,"loss":13,"for":23,"against":40,"isRemoved":true},
+{"country":"bgr","name":"Botev Vratsa","id":"POFC_Botev_Vratsa","win":7,"draw":8,"loss":15,"for":23,"against":41},
+{"country":"bgr","name":"Beroe Stara Zagora","id":"PFC_Beroe_Stara_Zagora","win":7,"draw":5,"loss":18,"for":33,"against":51,"isRemoved":true},
+{"country":"bgr","name":"Akademik Sofia","id":"PFC_Akademik_Sofia","win":6,"draw":5,"loss":19,"for":23,"against":55,"isRemoved":true}
 ]

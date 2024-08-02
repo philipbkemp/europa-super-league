@@ -353,4 +353,21 @@
 {"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":9,"draw":11,"loss":14,"for":36,"against":47},
 {"country":"yug","name":"Iskra","id":"NK_Iskra_Bugojno","win":8,"draw":11,"loss":15,"for":32,"against":50,"isRemoved":true,"isNew":true},
 {"country":"yug","name":"Radnički Niš","id":"FK_Radnički_Niš","win":8,"draw":11,"loss":15,"for":27,"against":46,"isRemoved":true}
+][
+{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":18,"draw":6,"loss":6,"for":66,"against":37,"isChampion":true},
+{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":15,"draw":7,"loss":8,"for":66,"against":36},
+{"country":"bgr","name":"Trakia Plovdiv","id":"Botev_Plovdiv","win":15,"draw":5,"loss":10,"for":68,"against":32},
+{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":13,"draw":8,"loss":9,"for":45,"against":41},
+{"country":"bgr","name":"Pirin Blagoevgrad","id":"OFC_Pirin_Blagoevgrad","win":12,"draw":7,"loss":11,"for":42,"against":43,"isReturning":true},
+{"country":"bgr","name":"Botev Vratsa","id":"POFC_Botev_Vratsa","win":13,"draw":3,"loss":14,"for":48,"against":42},
+{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":14,"draw":2,"loss":14,"for":49,"against":48},
+{"country":"bgr","name":"Etar Veliko Tarnovo","id":"FC_Etar_(Veliko_Tarnovo)","win":14,"draw":1,"loss":15,"for":49,"against":50},
+{"country":"bgr","name":"Spartak Pleven","id":"OFC_Spartak_Pleven","win":11,"draw":7,"loss":12,"for":47,"against":52,"isReturning":true},
+{"country":"bgr","name":"Cherno More Varna","id":"PFC_Cherno_More_Varna","win":11,"draw":7,"loss":12,"for":41,"against":45},
+{"country":"bgr","name":"Sliven","id":"FC_Sliven","win":11,"draw":5,"loss":14,"for":41,"against":45},
+{"country":"bgr","name":"Beroe Stara Zagora","id":"PFC_Beroe_Stara_Zagora","win":11,"draw":5,"loss":14,"for":41,"against":51},
+{"country":"bgr","name":"Dunav Ruse","id":"FC_Dunav_Ruse","win":10,"draw":7,"loss":13,"for":39,"against":51,"isReturning":true},
+{"country":"bgr","name":"Spartak Varna","id":"FC_Spartak_Varna","win":11,"draw":4,"loss":15,"for":35,"against":49},
+{"country":"bgr","name":"Minyor Pernik","id":"FC_Minyor_Pernik","win":11,"draw":5,"loss":14,"for":32,"against":65,"isRemoved":true,"isReturning":true},
+{"country":"bgr","name":"Chernomorets Burgas","id":"FC_Chernomorets_Burgas","win":8,"draw":5,"loss":17,"for":35,"against":57,"isRemoved":true}
 ]
