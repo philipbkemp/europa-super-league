@@ -310,4 +310,23 @@
 {"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":6,"draw":3,"loss":17,"for":26,"against":61,"isReturning":true},
 {"country":"bgr","name":"Dobrudzha Dobrich","id":"FC_Dobrudzha_Dobrich","win":4,"draw":2,"loss":20,"for":19,"against":73,"isRemoved":true,"isReturning":true},
 {"country":"bgr","name":"Rilski Sportist","id":"FC_Rilski_Sportist_Samokov","win":1,"draw":6,"loss":19,"for":20,"against":63,"isRemoved":true,"isNew":true}
+][
+{"country":"tur","name":"Beşiktaş","id":"Beşiktaş_J.K.","win":26,"draw":7,"loss":1,"for":63,"against":21,"isChampion":true},
+{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":24,"draw":5,"loss":5,"for":61,"against":27},
+{"country":"tur","name":"Gençlerbirliği","id":"Gençlerbirliği_S.K.","win":19,"draw":9,"loss":6,"for":76,"against":40},
+{"country":"tur","name":"Gaziantepspor","id":"Gaziantepspor","win":16,"draw":9,"loss":9,"for":61,"against":41},
+{"country":"tur","name":"Malatyaspor","id":"Malatyaspor","win":14,"draw":10,"loss":10,"for":56,"against":45},
+{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":13,"draw":12,"loss":9,"for":55,"against":42},
+{"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":13,"draw":12,"loss":9,"for":44,"against":33},
+{"country":"tur","name":"MKE Ankaragücü","id":"MKE_Ankaragücü","win":15,"draw":4,"loss":15,"for":44,"against":42},
+{"country":"tur","name":"İstanbulspor","id":"İstanbulspor","win":12,"draw":7,"loss":15,"for":42,"against":48},
+{"country":"tur","name":"Denizlispor","id":"Denizlispor","win":10,"draw":10,"loss":14,"for":37,"against":42},
+{"country":"tur","name":"Adanaspor","id":"Adanaspor","win":10,"draw":10,"loss":14,"for":44,"against":54,"isReturning":true},
+{"country":"tur","name":"Samsunspor","id":"Samsunspor","win":10,"draw":9,"loss":15,"for":42,"against":59},
+{"country":"tur","name":"Elazığspor","id":"Elazığspor","win":10,"draw":7,"loss":17,"for":40,"against":59,"isNew":true},
+{"country":"tur","name":"Diyarbakırspor","id":"Diyarbakırspor","win":9,"draw":9,"loss":16,"for":34,"against":47},
+{"country":"tur","name":"Bursaspor","id":"Bursaspor","win":9,"draw":9,"loss":16,"for":42,"against":62},
+{"country":"tur","name":"Altay","id":"Altay_S.K.","win":9,"draw":8,"loss":17,"for":48,"against":69,"isRemoved":true,"isReturning":true},
+{"country":"tur","name":"Göztepe A.Ş.","id":"Göztepe_S.K.","win":5,"draw":11,"loss":18,"for":32,"against":57,"isRemoved":true},
+{"country":"tur","name":"Kocaelispor","id":"Kocaelispor","win":6,"draw":4,"loss":24,"for":32,"against":66,"isRemoved":true}
 ]

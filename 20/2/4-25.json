@@ -300,4 +300,24 @@
 {"country":"bgr","name":"Septemvri Sofia","id":"PFC_Septemvri_Sofia","win":0,"draw":0,"loss":2,"for":0,"against":3,"isCurrentSeason":true,"isReturning":true},
 {"country":"bgr","name":"Hebar","id":"FC_Hebar_Pazardzhik","win":0,"draw":0,"loss":2,"for":1,"against":5,"isCurrentSeason":true},
 {"country":"bgr","name":"Botev Vratsa","id":"POFC_Botev_Vratsa","win":0,"draw":0,"loss":2,"for":1,"against":7,"isCurrentSeason":true}
+][
+{"country":"tur","name":"Adana Demirspor","id":"Adana_Demirspor","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"tur","name":"Alanyaspor","id":"Alanyaspor","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"tur","name":"Antalyaspor","id":"Antalyaspor","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"tur","name":"Başakşehir","id":"İstanbul_Başakşehir_F.K.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"tur","name":"Beşiktaş","id":"Beşiktaş_J.K.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"tur","name":"Bodrum","id":"Bodrum_F.K.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isNew":true},
+{"country":"tur","name":"Eyüpspor","id":"Eyüpspor","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isNew":true},
+{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"tur","name":"Gaziantep","id":"Gaziantep_F.K.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"tur","name":"Göztepe","id":"Göztepe_S.K.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
+{"country":"tur","name":"Hatayspor","id":"Hatayspor","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"tur","name":"Kasımpaşa","id":"Kasımpaşa_S.K.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"tur","name":"Kayserispor","id":"Kayserispor","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"tur","name":"Konyaspor","id":"Konyaspor","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"tur","name":"Rizespor","id":"Çaykur_Rizespor","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"tur","name":"Samsunspor","id":"Samsunspor","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"tur","name":"Sivasspor","id":"Sivasspor","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
 ]

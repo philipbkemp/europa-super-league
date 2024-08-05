@@ -284,4 +284,13 @@
 {"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":6,"draw":5,"loss":11,"for":26,"against":32,"isReturning":true},
 {"country":"bgr","name":"Spartak Pleven","id":"OFC_Spartak_Pleven","win":1,"draw":3,"loss":18,"for":16,"against":59,"isRemoved":true},
 {"country":"bgr","name":"Dunav Ruse","id":"FC_Dunav_Ruse","win":0,"draw":4,"loss":18,"for":8,"against":83,"isRemoved":true,"isReturning":true}
+][
+{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":8,"draw":5,"loss":1,"for":35,"against":9,"isChampion":true,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":7,"draw":7,"loss":0,"for":19,"against":5,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"tur","name":"Beşiktaş","id":"Beşiktaş_J.K.","win":8,"draw":4,"loss":2,"for":31,"against":16,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"tur","name":"Vefa","id":"Vefa_S.K.","win":7,"draw":4,"loss":3,"for":29,"against":16,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"tur","name":"Ankara Demirspor","id":"Ankara_Demirspor","win":4,"draw":5,"loss":5,"for":28,"against":27,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"tur","name":"Gençlerbirliği","id":"Gençlerbirliği_S.K.","win":3,"draw":4,"loss":7,"for":18,"against":35,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"tur","name":"Altay","id":"Altay_S.K.","win":2,"draw":2,"loss":10,"for":16,"against":33,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"tur","name":"Göztepe","id":"Göztepe_S.K.","win":1,"draw":1,"loss":12,"for":11,"against":46,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"}
 ]

@@ -324,4 +324,23 @@
 {"country":"bgr","name":"Lokomotiv Mezdra","id":"FC_Lokomotiv_Mezdra","win":7,"draw":6,"loss":17,"for":30,"against":48,"isRemoved":true},
 {"country":"bgr","name":"Sportist Svoge","id":"FC_Sportist_Svoge","win":5,"draw":4,"loss":21,"for":23,"against":59,"isRemoved":true,"isNew":true},
 {"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":1,"draw":4,"loss":25,"for":12,"against":78,"isRemoved":true,"removedNote":"Expelled during the winter break for failing to meet criteria to continue the season","deduct":-6,"deductReason":"Administrative irregularities"}
+][
+{"country":"tur","name":"Bursaspor","id":"Bursaspor","win":23,"draw":6,"loss":5,"for":65,"against":26,"isChampion":true},
+{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":23,"draw":5,"loss":6,"for":61,"against":28},
+{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":19,"draw":7,"loss":8,"for":61,"against":35},
+{"country":"tur","name":"Beşiktaş","id":"Beşiktaş_J.K.","win":18,"draw":10,"loss":6,"for":47,"against":25},
+{"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":16,"draw":9,"loss":9,"for":53,"against":32},
+{"country":"tur","name":"İstanbul B.B.","id":"İstanbul_Başakşehir_F.K.","win":16,"draw":8,"loss":10,"for":47,"against":44},
+{"country":"tur","name":"Eskişehirspor","id":"Eskişehirspor","win":15,"draw":10,"loss":9,"for":44,"against":34},
+{"country":"tur","name":"Kayserispor","id":"Kayserispor","win":14,"draw":9,"loss":11,"for":45,"against":37},
+{"country":"tur","name":"Antalyaspor","id":"Antalyaspor","win":14,"draw":7,"loss":13,"for":49,"against":38},
+{"country":"tur","name":"Gençlerbirliği","id":"Gençlerbirliği_S.K.","win":12,"draw":11,"loss":11,"for":38,"against":35},
+{"country":"tur","name":"Kasımpaşa","id":"Kasımpaşa_S.K.","win":10,"draw":11,"loss":13,"for":50,"against":53,"isReturning":true},
+{"country":"tur","name":"MKE Ankaragücü","id":"MKE_Ankaragücü","win":9,"draw":14,"loss":11,"for":39,"against":40},
+{"country":"tur","name":"Gaziantepspor","id":"Gaziantepspor","win":9,"draw":13,"loss":12,"for":38,"against":39},
+{"country":"tur","name":"Manisaspor","id":"Manisaspor","win":8,"draw":13,"loss":13,"for":27,"against":34,"isReturning":true},
+{"country":"tur","name":"Sivasspor","id":"Sivasspor","win":8,"draw":10,"loss":16,"for":42,"against":59},
+{"country":"tur","name":"Diyarbakırspor","id":"Diyarbakırspor","win":6,"draw":9,"loss":19,"for":28,"against":54,"isRemoved":true,"isReturning":true},
+{"country":"tur","name":"Denizlispor","id":"Denizlispor","win":6,"draw":8,"loss":20,"for":30,"against":49,"isRemoved":true},
+{"country":"tur","name":"Ankaraspor","id":"Ankaraspor","win":0,"draw":0,"loss":34,"for":0,"against":102,"isRemoved":true,"note":"All games awarded to opposition after Turkish FA deemed the owners could not own two clubs in the same division"}
 ]

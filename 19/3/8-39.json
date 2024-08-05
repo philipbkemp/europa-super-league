@@ -255,4 +255,13 @@
 {"country":"bgr","name":"FK 13 Sofia","id":"FK_13_Sofia","win":6,"draw":5,"loss":7,"for":28,"against":27},
 {"country":"bgr","name":"Shipka Sofia","id":"FC_Shipka_Sofia","win":6,"draw":3,"loss":9,"for":28,"against":28},
 {"country":"bgr","name":"Chernomorets Burgas","id":"FC_Chernomorets_Burgas","win":0,"draw":4,"loss":14,"for":17,"against":61,"isRemoved":true}
+][
+{"country":"tur","name":"Güneş","id":"Güneş_S.K.","win":13,"draw":1,"loss":0,"for":42,"against":9,"isChampion":true,"isRemoved":true},
+{"country":"tur","name":"Beşiktaş","id":"Beşiktaş_J.K.","win":9,"draw":2,"loss":3,"for":37,"against":14},
+{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":8,"draw":0,"loss":6,"for":28,"against":29},
+{"country":"tur","name":"Üçok","id":"üçok","win":7,"draw":0,"loss":7,"for":34,"against":34,"isRemoved":true},
+{"country":"tur","name":"Muhafızgücü","id":"Muhafızgücü","win":5,"draw":2,"loss":7,"for":23,"against":30,"isNew":true,"isRemoved":true},
+{"country":"tur","name":"Harp Okulu","id":"harp_okulu","win":5,"draw":1,"loss":8,"for":22,"against":24,"isNew":true,"isRemoved":true},
+{"country":"tur","name":"Alsancak","id":"Altay_S.K.","win":4,"draw":0,"loss":10,"for":19,"against":37,"deduct":-1,"isNew":true,"isRemoved":true},
+{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":1,"draw":2,"loss":11,"for":12,"against":7}
 ]

@@ -1,28 +1,12 @@
-country = "bgr";
+country = "tur";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
 ISGROUPEDFIRST = false;
 FOUND = false;
-tbl = $("#League, #Final_table, #Final_Table, #League_table, #League_Table, #League_standings");
+tbl = $("#League, #Final_table, #Final_Table, #League_table, #League_Table, #League_standings, #Final_league_table, #Standings");
 if ( tbl.length === 1 ) { FOUND = true; }
 
-
-/*if ( !FOUND ) {*/
-	tbl2 = $("#Regular_season, #Championship_round, #Relegation_round");
-	if ( tbl2.length === 3 ) { tbl = tbl2; FOUND = true; ADD_TABLE_STATS = [false,false]; }
-/*
-}
-if ( !FOUND ) {
-	tbl2 = $("#Regular_season, #Championship_round");
-	if ( tbl2.length === 2 ) { tbl = tbl2; FOUND = true; ADD_TABLE_STATS = [false]; }
-}*/
-
-	tbl2 = $("#Regular_season, #Championship_round, #Group_A, #Group_B");
-	if ( tbl2.length === 4 ) { tbl = tbl2; FOUND = true; ADD_TABLE_STATS = [false,false,false]; }
-
-	tbl2 = $("#Regular_season, #Championship_round, #Conference_League_round, #Relegation_round");
-	if ( tbl2.length === 4 ) { tbl = tbl2; FOUND = true; ADD_TABLE_STATS = [false,false,false]; alert("reg/cham/conf/rel"); }
 
 if ( FOUND ) {
 	tblTotal = tbl.length;

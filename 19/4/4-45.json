@@ -93,4 +93,13 @@
 {"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":4,"draw":3,"loss":7,"for":22,"against":33},
 {"country":"irl","name":"Brideville","id":"Brideville_F.C.","win":2,"draw":5,"loss":7,"for":20,"against":44,"isReturning":true,"isRemoved":true},
 {"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":2,"draw":4,"loss":8,"for":17,"against":30}
+][
+{"country":"tur","name":"Beşiktaş","id":"Beşiktaş_J.K.","win":12,"draw":1,"loss":1,"for":52,"against":11,"isChampion":true},
+{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":10,"draw":1,"loss":3,"for":26,"against":11},
+{"country":"tur","name":"UDV Göztepe","id":"Göztepe_S.K.","win":5,"draw":5,"loss":4,"for":23,"against":22,"isRemoved":true},
+{"country":"tur","name":"Harp Okulu","id":"harp_okulu","win":6,"draw":1,"loss":7,"for":22,"against":26,"isReturning":true,"isRemoved":true},
+{"country":"tur","name":"AS-FA Ankaragücü","id":"MKE_Ankaragücü","win":6,"draw":0,"loss":8,"for":23,"against":24,"isReturning":true,"isRemoved":true},
+{"country":"tur","name":"Vefa","id":"Vefa_S.K.","win":5,"draw":2,"loss":7,"for":16,"against":27,"isRemoved":true},
+{"country":"tur","name":"İstanbulspor","id":"İstanbulspor","win":2,"draw":3,"loss":9,"for":16,"against":35,"isReturning":true,"isRemoved":true},
+{"country":"tur","name":"Karşıyaka","id":"Karşıyaka_S.K.","win":3,"draw":1,"loss":10,"for":13,"against":35,"isNew":true}
 ]
