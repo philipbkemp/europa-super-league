@@ -129,7 +129,7 @@
 {"country":"hun","name":"Paks","id":"Paksi_FC","win":9,"draw":12,"loss":12,"for":33,"against":46},
 {"country":"hun","name":"Kisvárda","id":"Kisvárda_FC","win":10,"draw":8,"loss":15,"for":36,"against":48,"isNew":true},
 {"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":10,"draw":8,"loss":15,"for":36,"against":57},
-{"country":"hun","name":"MTK","id":"MTK_Budapest_FC","win":10,"draw":4,"loss":19,"for":42,"against":56,"isRemoved":true,"isReturning":true},
+{"country":"hun","name":"MTK","id":"mtk_budapest_fc","win":10,"draw":4,"loss":19,"for":42,"against":56,"isRemoved":true,"isReturning":true},
 {"country":"hun","name":"Szombathelyi Haladás","id":"Szombathelyi_Haladás","win":8,"draw":6,"loss":19,"for":31,"against":51,"isRemoved":true}
 ][
 {"country":"grc","name":"PAOK","id":"PAOK_FC","win":26,"draw":4,"loss":0,"for":66,"against":14,"isChampion":true,"deduct":-2},

@@ -69,7 +69,7 @@
 	//che
 ]
 [
-{"country":"hun","name":"MTK Budapest FC","id":"MTK_Budapest_FC","win":18,"draw":2,"loss":2,"for":65,"against":16,"isChampion":true},
+{"country":"hun","name":"MTK Budapest FC","id":"mtk_budapest_fc","win":18,"draw":2,"loss":2,"for":65,"against":16,"isChampion":true},
 {"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":11,"draw":8,"loss":3,"for":37,"against":24},
 {"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":10,"draw":7,"loss":5,"for":38,"against":25},
 {"country":"hun","name":"III. Kerületi TUE","id":"III._Kerületi_TVE","win":7,"draw":9,"loss":6,"for":24,"against":25},

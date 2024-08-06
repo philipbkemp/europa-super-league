@@ -124,7 +124,7 @@
 {"country":"hun","name":"Siófoki Bányász","id":"BFC_Siófok","win":10,"draw":11,"loss":9,"for":25,"against":28},
 {"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":11,"draw":8,"loss":11,"for":39,"against":41},
 {"country":"hun","name":"Újpest","id":"Újpest_FC","win":13,"draw":4,"loss":13,"for":36,"against":39},
-{"country":"hun","name":"MTK-VM","id":"MTK_Budapest_FC","win":10,"draw":6,"loss":14,"for":38,"against":39},
+{"country":"hun","name":"MTK-VM","id":"mtk_budapest_fc","win":10,"draw":6,"loss":14,"for":38,"against":39},
 {"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":8,"draw":10,"loss":12,"for":35,"against":41},
 {"country":"hun","name":"Vasas","id":"Vasas_SC","win":8,"draw":8,"loss":14,"for":32,"against":43},
 {"country":"hun","name":"Szeged SC","id":"Szegedi_EAC","win":9,"draw":6,"loss":15,"for":26,"against":37,"isRemoved":true,"isReturning":true},

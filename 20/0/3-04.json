@@ -120,7 +120,7 @@
 {"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":16,"draw":9,"loss":7,"for":44,"against":30,"isChampion":true},
 {"country":"hun","name":"Siófok","id":"BFC_Siófok","win":14,"draw":8,"loss":10,"for":34,"against":24,"isRemoved":true},
 {"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":16,"draw":8,"loss":8,"for":51,"against":32},
-{"country":"hun","name":"MTK Hungária","id":"MTK_Budapest_FC","win":11,"draw":11,"loss":10,"for":42,"against":40},
+{"country":"hun","name":"MTK Hungária","id":"mtk_budapest_fc","win":11,"draw":11,"loss":10,"for":42,"against":40},
 {"country":"hun","name":"Újpest","id":"Újpest_FC","win":15,"draw":11,"loss":6,"for":48,"against":29},
 {"country":"hun","name":"Sopron","id":"FC_Sopron","win":13,"draw":9,"loss":10,"for":53,"against":42},
 {"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":9,"draw":13,"loss":10,"for":36,"against":37,"isReturning":true},

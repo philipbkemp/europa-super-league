@@ -71,7 +71,7 @@
 [
 {"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":13,"draw":4,"loss":1,"for":51,"against":18,"isChampion":true},
 {"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":10,"draw":3,"loss":5,"for":33,"against":20},
-{"country":"hun","name":"MTK Hungária FC","id":"MTK_Budapest_FC","win":8,"draw":3,"loss":7,"for":30,"against":24},
+{"country":"hun","name":"MTK Hungária FC","id":"mtk_budapest_fc","win":8,"draw":3,"loss":7,"for":30,"against":24},
 {"country":"hun","name":"Sabaria FC","id":"Sabaria_FC","win":8,"draw":3,"loss":7,"for":30,"against":33,"isNew":true},
 {"country":"hun","name":"III. Kerületi TUE","id":"III._Kerületi_TVE","win":8,"draw":2,"loss":8,"for":35,"against":39},
 {"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":7,"draw":4,"loss":7,"for":27,"against":32},

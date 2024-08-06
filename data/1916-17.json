@@ -19,7 +19,7 @@
 	{"country":"sco","name":"Queen's Park","id":"Queen%27s_Park_F.C.","win":11,"draw":7,"loss":20,"for":56,"against":81},
 	{"country":"sco","name":"Raith Rovers","id":"Raith_Rovers_F.C.","win":8,"draw":7,"loss":23,"for":42,"against":91,"isRemoved":true},
 	{"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":7,"draw":7,"loss":24,"for":36,"against":68,"isRemoved":true},
-	{"country":"hun","name":"MTK Budapest FC","id":"MTK_Budapest_FC","win":21,"draw":0,"loss":1,"for":113,"against":16,"isChampion":true,"isReturning":true},
+	{"country":"hun","name":"MTK Budapest FC","id":"mtk_budapest_fc","win":21,"draw":0,"loss":1,"for":113,"against":16,"isChampion":true,"isReturning":true},
 	{"country":"hun","name":"Törekvés SE","id":"Törekvés_SE","win":16,"draw":2,"loss":4,"for":71,"against":20,"isReturning":true},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":11,"draw":5,"loss":6,"for":28,"against":28,"isReturning":true},
 	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":11,"draw":4,"loss":7,"for":29,"against":23,"isReturning":true},

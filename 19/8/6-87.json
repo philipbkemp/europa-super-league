@@ -125,7 +125,7 @@
 {"country":"che","name":"FC La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":1,"draw":4,"loss":25,"for":22,"against":97,"isRemoved":true}
 ]
 [
-{"country":"hun","name":"MTK-VM","id":"MTK_Budapest_FC","win":17,"draw":9,"loss":4,"for":52,"against":24,"isChampion":true},
+{"country":"hun","name":"MTK-VM","id":"mtk_budapest_fc","win":17,"draw":9,"loss":4,"for":52,"against":24,"isChampion":true},
 {"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":16,"draw":8,"loss":6,"for":47,"against":23},
 {"country":"hun","name":"Tatabányai Bányász","id":"Tatabányai_SC","win":15,"draw":5,"loss":10,"for":44,"against":31},
 {"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":15,"draw":5,"loss":10,"for":47,"against":39},

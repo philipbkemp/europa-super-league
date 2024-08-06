@@ -106,7 +106,7 @@
 {"country":"che","name":"FC Biel-Bienne","id":"FC_Biel-Bienne","win":5,"draw":2,"loss":19,"for":36,"against":78,"isRemoved":true,"isReturning":true}
 ]
 [
-{"country":"hun","name":"Vörös Lobogó","id":"MTK_Budapest_FC","win":22,"draw":2,"loss":2,"for":92,"against":28,"isChampion":true,"isNew":true},
+{"country":"hun","name":"Vörös Lobogó","id":"mtk_budapest_fc","win":22,"draw":2,"loss":2,"for":92,"against":28,"isChampion":true,"isNew":true},
 {"country":"hun","name":"Budapest Honvéd FC","id":"Budapest_Honvéd_FC","win":19,"draw":5,"loss":2,"for":86,"against":27},
 {"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":14,"draw":4,"loss":8,"for":62,"against":37},
 {"country":"hun","name":"Budapesti Dózsa","id":"Újpest_FC","win":11,"draw":8,"loss":7,"for":54,"against":42},

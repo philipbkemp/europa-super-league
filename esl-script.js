@@ -18,7 +18,7 @@ const countries = {
 	"swe": "Sweden"
 };
 
-clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram","us_hollerich_bonnevoie"];
+clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc"];
 //clubPages = [];
 
 if ( $("h1 .placeholder").length !== 0 ) {
@@ -232,31 +232,7 @@ if ( $("h1 .placeholder").length !== 0 ) {
 		console.error("Something's wrong...");
 	}
 } else {
-	$.each(clubPages,function(k,v){
-		saveRow = $("tr[id='"+v+"']");
-		if ( saveRow.length !== 0 ) {
-			$sr = $(saveRow[0]);
-			original = $sr.html();
-			if ( original.indexOf("<a ") === -1 ) {
-				year = $("h1").text().replace("Europa Super League","").replace("Home","").trim();
-				year = $("<A></A>").attr("href","../../"+year[0]+""+year[1]+"/"+year[2]+"/"+year[3]+"-"+year.split("-").pop()+".html").html(year)
-				$sr.prepend( $("<TD></TD>").html( year ) );
-				$($sr.find("td")[1]).prepend( $($("#"+v).parent()).attr("id").split("_")[1].toUpperCase() );
-				country = $sr.find("img[src*='/flags/']");
-				countryFlag = country.attr("src").split("/").pop().split(".")[0].toLowerCase();
-				$(country.parent()).remove();
-				classes = $sr.attr("class") || "";
-				if ( $sr.html().indexOf("<td>A1</td>") === -1 ) {
-					classes = classes.replace("champion","");
-				}
-				console.warn(v);
-				console.log("<tr class='"+classes+"'>"+$sr.html()+"</tr>");
-				$sr.html(original);
-				clubName = $($sr.find("th")[0]);
-				clubName.html( clubName.html().replace(clubName.text(),"<a href='../../clubs/"+countryFlag+"/"+$sr.attr("id")+".html'>"+clubName.text()+"</a>") );
-			}
-		}
-	});
+	saveClubs();
 }
 
 function nextSeason() {
@@ -554,6 +530,30 @@ $(document).ready(function(){
 });
 
 
+function relegate(fromDivision,number) {
+	newDivision = "?";
+	target = "league_" + fromDivision.toLowerCase();
+	if ( fromDivision === "a" ) { newDivision = "B"; }
+	if ( fromDivision === "b" ) { newDivision = "C"; }
+	if ( fromDivision === "c" ) { newDivision = "D"; }
+	if ( fromDivision === "d" ) { newDivision = "E"; }
+	if ( fromDivision === "e" ) { newDivision = "F"; }
+	if ( fromDivision === "f" ) { newDivision = "G"; }
+	if ( fromDivision === "g" ) { newDivision = "H"; }
+	toRelegate = number - $("#"+target+ " .removed").length;
+	toRelegate = toRelegate - $("#"+target+ " .relegated").length;
+	var reversedRows = $("#"+target+" tr").toArray().reverse();
+	reversedRows.forEach(function(row) {
+		if ( toRelegate !== 0 && ! $(row).hasClass("removed") && ! $(row).hasClass("relegated") ) {
+			$(row).addClass("relegated");
+			icon = $("<IMG />").attr("src","../../icons/relegated.png").attr("alt","Relegated").attr("data-bs-toggle","tooltip").attr("data-bs-title","Relegated to Division "+newDivision);
+			$($(row).find("th")[0]).append(icon);
+			toRelegate = toRelegate - 1;
+		}
+	});
+	saveClubs(true);
+}
+
 function promote(fromDivision,number) {
 	promoted = 0;
 	newDivision = "?";
@@ -577,6 +577,7 @@ function promote(fromDivision,number) {
 		container: '#divisionsTables, #winnersTables',
 		html: true
 	});
+	saveClubs(true);
 }
 
 function checkRemoved() {
@@ -616,4 +617,39 @@ function listClubsForCountry() {
 	console.log(thisSeasonBtns.join("\n"));
 	console.warn("Previous teams");
 	console.log(btns.join("\n"));
+}
+
+function saveClubs(refresh=false) {
+	console.clear();
+	$.each(clubPages,function(k,v){
+		saveRow = $("tr[id='"+v+"']");
+		if ( saveRow.length !== 0 ) {
+			$sr = $(saveRow[0]);
+			if ( refresh ) {
+				teamName = $sr.find("A")[0].innerHTML;
+				$sr.find("A")[0].remove();
+				$sr.find("TH")[0].prepend(teamName);
+				$sr = $(saveRow[0]);
+			}
+			original = $sr.html();
+			if ( original.indexOf("<a ") === -1) {
+				year = $("h1").text().replace("Europa Super League","").replace("Home","").trim();
+				year = $("<A></A>").attr("href","../../"+year[0]+""+year[1]+"/"+year[2]+"/"+year[3]+"-"+year.split("-").pop()+".html").html(year)
+				$sr.prepend( $("<TD></TD>").html( year ) );
+				$($sr.find("td")[1]).prepend( $($("#"+v).parent()).attr("id").split("_")[1].toUpperCase() );
+				country = $sr.find("img[src*='/flags/']");
+				countryFlag = country.attr("src").split("/").pop().split(".")[0].toLowerCase();
+				$(country.parent()).remove();
+				classes = $sr.attr("class") || "";
+				if ( $sr.html().indexOf("<td>A1</td>") === -1 ) {
+					classes = classes.replace("champion","");
+				}
+				console.warn(v);
+				console.log("<tr class='"+classes+"'>"+$sr.html()+"</tr>");
+				$sr.html(original);
+				clubName = $($sr.find("th")[0]);
+				clubName.html( clubName.html().replace(clubName.text(),"<a href='../../clubs/"+countryFlag+"/"+$sr.attr("id")+".html'>"+clubName.text()+"</a>") );
+			}
+		}
+	});
 }

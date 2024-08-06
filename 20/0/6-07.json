@@ -120,7 +120,7 @@
 ]
 [
 {"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":22,"draw":3,"loss":5,"for":63,"against":21,"isChampion":true},
-{"country":"hun","name":"MTK Budapest","id":"MTK_Budapest_FC","win":19,"draw":4,"loss":7,"for":61,"against":33},
+{"country":"hun","name":"MTK Budapest","id":"mtk_budapest_fc","win":19,"draw":4,"loss":7,"for":61,"against":33},
 {"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":17,"draw":4,"loss":9,"for":54,"against":38},
 {"country":"hun","name":"Újpest","id":"Újpest_FC","win":15,"draw":4,"loss":11,"for":39,"against":32,"deduct":-3},
 {"country":"hun","name":"Vasas","id":"Vasas_SC","win":13,"draw":6,"loss":11,"for":43,"against":41},

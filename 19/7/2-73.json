@@ -133,7 +133,7 @@
 {"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":13,"draw":7,"loss":10,"for":42,"against":37,"isNew":true},
 {"country":"hun","name":"Csepel","id":"Csepel_SC","win":9,"draw":13,"loss":8,"for":45,"against":38},
 {"country":"hun","name":"Rába ETO Győr","id":"Győri_ETO_FC","win":14,"draw":2,"loss":14,"for":46,"against":51},
-{"country":"hun","name":"MTK Budapest","id":"MTK_Budapest_FC","win":8,"draw":11,"loss":11,"for":36,"against":49},
+{"country":"hun","name":"MTK Budapest","id":"mtk_budapest_fc","win":8,"draw":11,"loss":11,"for":36,"against":49},
 {"country":"hun","name":"Salgótarján","id":"Salgótarjáni_BTC","win":9,"draw":7,"loss":14,"for":40,"against":50},
 {"country":"hun","name":"Tatabányai Bányász","id":"Tatabányai_SC","win":8,"draw":9,"loss":13,"for":28,"against":39},
 {"country":"hun","name":"Pécsi Dózsa","id":"Pécsi_MFC","win":7,"draw":11,"loss":12,"for":27,"against":41},

@@ -132,7 +132,7 @@
 {"country":"hun","name":"Tatabányai Bányász","id":"Tatabányai_SC","win":13,"draw":9,"loss":8,"for":40,"against":37},
 {"country":"hun","name":"Vasas","id":"Vasas_SC","win":14,"draw":5,"loss":11,"for":46,"against":40},
 {"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":11,"draw":8,"loss":11,"for":38,"against":37},
-{"country":"hun","name":"MTK-VM","id":"MTK_Budapest_FC","win":10,"draw":9,"loss":11,"for":39,"against":44},
+{"country":"hun","name":"MTK-VM","id":"mtk_budapest_fc","win":10,"draw":9,"loss":11,"for":39,"against":44},
 {"country":"hun","name":"Szeged","id":"Szegedi_EAC","win":10,"draw":9,"loss":11,"for":42,"against":44,"isReturning":true},
 {"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":8,"draw":12,"loss":10,"for":36,"against":38},
 {"country":"hun","name":"Csepel","id":"Csepel_SC","win":9,"draw":9,"loss":12,"for":36,"against":43},

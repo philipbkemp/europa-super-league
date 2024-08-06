@@ -119,7 +119,7 @@
 {"country":"che","name":"Luzern","id":"FC_Luzern","win":5,"draw":9,"loss":22,"for":49,"against":87}
 ]
 [
-{"country":"hun","name":"MTK Hungária","id":"MTK_Budapest_FC","win":21,"draw":4,"loss":13,"for":62,"against":47},
+{"country":"hun","name":"MTK Hungária","id":"mtk_budapest_fc","win":21,"draw":4,"loss":13,"for":62,"against":47},
 {"country":"hun","name":"Zalaegerszeg","id":"Zalaegerszegi_TE","win":21,"draw":8,"loss":9,"for":76,"against":47},
 {"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":21,"draw":6,"loss":11,"for":66,"against":39,"isChampion":true},
 {"country":"hun","name":"Dunaferr","id":"Dunaújváros_FC","win":17,"draw":8,"loss":13,"for":71,"against":47},

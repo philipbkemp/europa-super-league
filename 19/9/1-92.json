@@ -123,7 +123,7 @@
 {"country":"hun","name":"Vác","id":"Vác_FC","win":19,"draw":7,"loss":4,"for":54,"against":27},
 {"country":"hun","name":"Kispest Honvéd","id":"Budapest_Honvéd_FC","win":19,"draw":4,"loss":7,"for":61,"against":27},
 {"country":"hun","name":"Siófoki Bányász","id":"BFC_Siófok","win":15,"draw":6,"loss":9,"for":46,"against":34},
-{"country":"hun","name":"MTK Hungária","id":"MTK_Budapest_FC","win":14,"draw":7,"loss":9,"for":44,"against":34},
+{"country":"hun","name":"MTK Hungária","id":"mtk_budapest_fc","win":14,"draw":7,"loss":9,"for":44,"against":34},
 {"country":"hun","name":"Vasas","id":"Vasas_SC","win":10,"draw":13,"loss":7,"for":40,"against":29},
 {"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":10,"draw":12,"loss":8,"for":45,"against":40},
 {"country":"hun","name":"Újpest","id":"Újpest_FC","win":8,"draw":13,"loss":9,"for":41,"against":38},

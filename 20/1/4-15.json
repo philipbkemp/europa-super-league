@@ -119,7 +119,7 @@
 [
 {"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":22,"draw":5,"loss":3,"for":64,"against":14,"isChampion":true},
 {"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":19,"draw":7,"loss":4,"for":49,"against":19},
-{"country":"hun","name":"MTK","id":"MTK_Budapest_FC","win":18,"draw":3,"loss":9,"for":39,"against":25},
+{"country":"hun","name":"MTK","id":"mtk_budapest_fc","win":18,"draw":3,"loss":9,"for":39,"against":25},
 {"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":15,"draw":9,"loss":6,"for":44,"against":19},
 {"country":"hun","name":"Paks","id":"Paksi_FC","win":14,"draw":9,"loss":7,"for":44,"against":27},
 {"country":"hun","name":"Újpest","id":"Újpest_FC","win":14,"draw":9,"loss":7,"for":40,"against":28},

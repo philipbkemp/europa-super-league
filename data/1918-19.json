@@ -17,7 +17,7 @@
 	{"country":"sco","name":"Clyde","id":"Clyde_F.C.","win":7,"draw":6,"loss":21,"for":45,"against":75},
 	{"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":6,"draw":8,"loss":20,"for":46,"against":73},
 	{"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":5,"draw":3,"loss":26,"for":30,"against":91},
-	{"country":"hun","name":"MTK Budapest FC","id":"MTK_Budapest_FC","win":18,"draw":3,"loss":1,"for":116,"against":20,"isChampion":true},
+	{"country":"hun","name":"MTK Budapest FC","id":"mtk_budapest_fc","win":18,"draw":3,"loss":1,"for":116,"against":20,"isChampion":true},
 	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":15,"draw":5,"loss":1,"for":43,"against":8},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":12,"draw":6,"loss":4,"for":39,"against":19},
 	{"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":9,"draw":6,"loss":6,"for":20,"against":19},

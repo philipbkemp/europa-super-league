@@ -73,7 +73,7 @@
 	{"country":"ita","name":"Andrea Doria","id":"UC_Sampdoria","win":5,"draw":1,"loss":10,"for":18,"against":39,"isNew":true},
 	{"country":"ita","name":"Ausonia Milano","id":"Ausonia_Milano","win":0,"draw":5,"loss":11,"for":16,"against":52,"isRemoved":true,"isNew":true},
 	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":13,"draw":1,"loss":2,"for":52,"against":17,"isChampion":true},
-	{"country":"hun","name":"MTK Budapest FC","id":"MTK_Budapest_FC","win":11,"draw":3,"loss":2,"for":42,"against":24},
+	{"country":"hun","name":"MTK Budapest FC","id":"mtk_budapest_fc","win":11,"draw":3,"loss":2,"for":42,"against":24},
 	{"country":"hun","name":"Nemzeti SC","id":"Nemzeti_SC","win":9,"draw":0,"loss":7,"for":33,"against":30,"isNew":true},
 	{"country":"hun","name":"Budapesti AK","id":"Budapesti_AK","win":8,"draw":0,"loss":8,"for":23,"against":28},
 	{"country":"hun","name":"Budapesti TC","id":"budapesti_tc","win":6,"draw":2,"loss":8,"for":32,"against":34},

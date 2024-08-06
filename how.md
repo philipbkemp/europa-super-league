@@ -11,17 +11,17 @@
 - paste contents of JSON file into prompt
 - check no "new"/"returning" in existing leagues
 - check all new teams are "new"/"returning"
-- PROMOTE AND RELEGATE?
 - run "newTeams()" and update "data-teams" attributes
 - reload, repaste JSON
 - run "checkRemoved()" pasting results from previous season, making sure it gives a list of newly removed teams and no errors
 - run "verify()" - should return undefined, or list or failures
 - copy HTML element and paste into HTML file
-- reload page
+- promte and relegate using promote() and relegate() as needed, making sure the save club rows are reloaded
 - paste existing team records into existing team pages
-- copy updated HTML element into season page
+- copy HTML element and paste into HTML file
 - run "getWinner()" and paste into winners file
 - verify HTML version of winners file
 - add link to new season on homepage
 - does the champion have their own page? if not, make it
+
 - push to GIT

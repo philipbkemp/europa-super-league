@@ -137,7 +137,7 @@
 {"country":"hun","name":"Rába ETO Győr","id":"Győri_ETO_FC","win":7,"draw":12,"loss":11,"for":36,"against":51},
 {"country":"hun","name":"Pécsi Dózsa","id":"Pécsi_MFC","win":6,"draw":13,"loss":11,"for":22,"against":28},
 {"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":9,"draw":6,"loss":15,"for":32,"against":46},
-{"country":"hun","name":"MTK Budapest","id":"MTK_Budapest_FC","win":8,"draw":8,"loss":14,"for":37,"against":41,"deduct":-2},
+{"country":"hun","name":"MTK Budapest","id":"mtk_budapest_fc","win":8,"draw":8,"loss":14,"for":37,"against":41,"deduct":-2},
 {"country":"hun","name":"Egyetértés VM","id":"Vörös_Meteor_Egyetértés_SK","win":5,"draw":13,"loss":12,"for":26,"against":35,"deduct":-2,"isReturning":true},
 {"country":"hun","name":"Egri Dózsa","id":"Egri_FC","win":6,"draw":8,"loss":16,"for":32,"against":65,"isRemoved":true,"isReturning":true},
 {"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":4,"draw":5,"loss":21,"for":27,"against":63,"isRemoved":true}

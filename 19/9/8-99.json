@@ -117,7 +117,7 @@
 {"country":"che","name":"Aarau","id":"FC_Aarau","win":9,"draw":9,"loss":18,"for":52,"against":65}
 ]
 [
-{"country":"hun","name":"MTK Hungária","id":"MTK_Budapest_FC","win":27,"draw":2,"loss":5,"for":77,"against":26,"isChampion":true},
+{"country":"hun","name":"MTK Hungária","id":"mtk_budapest_fc","win":27,"draw":2,"loss":5,"for":77,"against":26,"isChampion":true},
 {"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":19,"draw":7,"loss":8,"for":61,"against":40},
 {"country":"hun","name":"Újpest","id":"Újpest_FC","win":20,"draw":3,"loss":11,"for":58,"against":40},
 {"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":16,"draw":11,"loss":7,"for":53,"against":39},

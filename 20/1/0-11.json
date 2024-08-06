@@ -131,7 +131,7 @@
 {"country":"hun","name":"Kecskemét","id":"Kecskeméti_TE","win":11,"draw":3,"loss":16,"for":51,"against":56},
 {"country":"hun","name":"Pápa","id":"Pápai_FC","win":10,"draw":5,"loss":15,"for":39,"against":52},
 {"country":"hun","name":"Siófok","id":"BFC_Siófok","win":8,"draw":10,"loss":12,"for":29,"against":41,"isReturning":true},
-{"country":"hun","name":"MTK","id":"MTK_Budapest_FC","win":8,"draw":6,"loss":16,"for":35,"against":49,"isRemoved":true},
+{"country":"hun","name":"MTK","id":"mtk_budapest_fc","win":8,"draw":6,"loss":16,"for":35,"against":49,"isRemoved":true},
 {"country":"hun","name":"Szolnok","id":"Szolnoki_MÁV_FC","win":5,"draw":6,"loss":19,"for":26,"against":56,"isRemoved":true,"isReturning":true}
 ][
 {"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":24,"draw":1,"loss":5,"for":65,"against":18,"isChampion":true},

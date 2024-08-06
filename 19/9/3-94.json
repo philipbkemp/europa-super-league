@@ -134,7 +134,7 @@
 {"country":"hun","name":"Siófoki Bányász","id":"BFC_Siófok","win":6,"draw":10,"loss":14,"for":33,"against":49,"isRemoved":true},
 {"country":"hun","name":"EMDSZ Sopron","id":"Anger_réti_SFAC_1900_SE","win":8,"draw":6,"loss":16,"for":31,"against":52,"isNew":true},
 {"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":5,"draw":9,"loss":16,"for":28,"against":48,"isRemoved":true,"isReturning":true},
-{"country":"hun","name":"MTK Hungária","id":"MTK_Budapest_FC","win":4,"draw":9,"loss":17,"for":30,"against":58,"isRemoved":true}
+{"country":"hun","name":"MTK Hungária","id":"mtk_budapest_fc","win":4,"draw":9,"loss":17,"for":30,"against":58,"isRemoved":true}
 ][
 {"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":25,"draw":4,"loss":5,"for":63,"against":28,"isChampion":true},
 {"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":22,"draw":6,"loss":6,"for":82,"against":32},

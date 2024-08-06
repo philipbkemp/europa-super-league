@@ -114,7 +114,7 @@
 {"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":23,"draw":4,"loss":5,"for":77,"against":39},
 {"country":"hun","name":"Kispest AC","id":"Budapest_Honvéd_FC","win":21,"draw":6,"loss":5,"for":82,"against":42},
 {"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":18,"draw":8,"loss":6,"for":83,"against":43},
-{"country":"hun","name":"MTK Budapest FC","id":"MTK_Budapest_FC","win":19,"draw":4,"loss":9,"for":75,"against":36},
+{"country":"hun","name":"MTK Budapest FC","id":"mtk_budapest_fc","win":19,"draw":4,"loss":9,"for":75,"against":36},
 {"country":"hun","name":"Szombathelyi Haladás","id":"Szombathelyi_Haladás","win":13,"draw":7,"loss":12,"for":49,"against":48},
 {"country":"hun","name":"MATEOSZ","id":"Gamma_FC","win":11,"draw":9,"loss":12,"for":42,"against":42,"isReturning":true},
 {"country":"hun","name":"Salgótarjáni BTC","id":"Salgótarjáni_BTC","win":10,"draw":6,"loss":16,"for":32,"against":55,"isReturning":true},

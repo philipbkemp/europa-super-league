@@ -108,7 +108,7 @@
 [
 {"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":15,"draw":5,"loss":2,"for":66,"against":17,"isChampion":true},
 {"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":14,"draw":5,"loss":3,"for":72,"against":32},
-{"country":"hun","name":"Hungária","id":"MTK_Budapest_FC","win":13,"draw":3,"loss":6,"for":63,"against":32},
+{"country":"hun","name":"Hungária","id":"mtk_budapest_fc","win":13,"draw":3,"loss":6,"for":63,"against":32},
 {"country":"hun","name":"Szeged FC","id":"Szegedi_AK","win":11,"draw":5,"loss":6,"for":44,"against":44},
 {"country":"hun","name":"Kispest","id":"Budapest_Honvéd_FC","win":8,"draw":7,"loss":7,"for":41,"against":50},
 {"country":"hun","name":"Phöbus","id":"Phöbus_FC","win":8,"draw":5,"loss":9,"for":48,"against":46},

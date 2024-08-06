@@ -139,7 +139,7 @@
 {"country":"hun","name":"Volán","id":"Volán_FC","win":8,"draw":11,"loss":15,"for":39,"against":57},
 {"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":5,"draw":15,"loss":14,"for":28,"against":50},
 {"country":"hun","name":"Kaposvár","id":"Kaposvári_Rákóczi_FC","win":6,"draw":12,"loss":16,"for":34,"against":67,"isRemoved":true,"isReturning":true},
-{"country":"hun","name":"MTK-VM","id":"MTK_Budapest_FC","win":4,"draw":14,"loss":16,"for":34,"against":60,"isRemoved":true},
+{"country":"hun","name":"MTK-VM","id":"mtk_budapest_fc","win":4,"draw":14,"loss":16,"for":34,"against":60,"isRemoved":true},
 {"country":"hun","name":"Dunaújvárosi Kohász","id":"Dunaújváros_FC","win":4,"draw":11,"loss":19,"for":34,"against":72,"isRemoved":true}
 ][
 {"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":20,"draw":9,"loss":5,"for":47,"against":18,"isChampion":true},

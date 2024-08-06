@@ -107,7 +107,7 @@
 ]
 [
 {"country":"hun","name":"Budapest Honvéd FC","id":"Budapest_Honvéd_FC","win":21,"draw":5,"loss":0,"for":88,"against":21,"isChampion":true},
-{"country":"hun","name":"Bp Bástya","id":"MTK_Budapest_FC","win":20,"draw":5,"loss":1,"for":96,"against":33},
+{"country":"hun","name":"Bp Bástya","id":"mtk_budapest_fc","win":20,"draw":5,"loss":1,"for":96,"against":33},
 {"country":"hun","name":"Bp. Dózsa","id":"Újpest_FC","win":14,"draw":8,"loss":4,"for":67,"against":43},
 {"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":13,"draw":7,"loss":6,"for":54,"against":40},
 {"country":"hun","name":"Csepel SC","id":"Csepel_SC","win":11,"draw":3,"loss":12,"for":52,"against":53},

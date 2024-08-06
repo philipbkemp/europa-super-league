@@ -118,7 +118,7 @@
 ]
 [
 {"country":"hun","name":"Dunaferr","id":"Dunaújváros_FC","win":24,"draw":7,"loss":1,"for":79,"against":23,"isChampion":true},
-{"country":"hun","name":"MTK Hungária","id":"MTK_Budapest_FC","win":18,"draw":9,"loss":5,"for":64,"against":28},
+{"country":"hun","name":"MTK Hungária","id":"mtk_budapest_fc","win":18,"draw":9,"loss":5,"for":64,"against":28},
 {"country":"hun","name":"Vasas","id":"Vasas_SC","win":19,"draw":4,"loss":9,"for":58,"against":32},
 {"country":"hun","name":"Tatabánya","id":"Tatabányai_SC","win":14,"draw":13,"loss":5,"for":37,"against":34,"isReturning":true},
 {"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":14,"draw":8,"loss":10,"for":61,"against":39},

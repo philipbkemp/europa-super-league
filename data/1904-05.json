@@ -56,7 +56,7 @@
 	{"country":"bel","name":"Léopold Club de Bruxelles","id":"Léopold_FC","win":5,"draw":2,"loss":12,"for":35,"against":60,"isReturning":true},
 	{"country":"bel","name":"Antwerp F.C.","id":"Royal_Antwerp_F.C.","win":4,"draw":1,"loss":13,"for":28,"against":56,"isReturning":true},
 	{"country":"bel","name":"Athletic and Running Club de Bruxelles","id":"Athletic_and_Running_Club_de_Bruxelles","win":0,"draw":0,"loss":20,"for":5,"against":116,"isRemoved":true,"isReturning":true},
-	{"country":"hun","name":"MTK Budapest FC","id":"MTK_Budapest_FC","win":11,"draw":3,"loss":2,"for":28,"against":13,"isChampion":true},
+	{"country":"hun","name":"MTK Budapest FC","id":"mtk_budapest_fc","win":11,"draw":3,"loss":2,"for":28,"against":13,"isChampion":true},
 	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":11,"draw":2,"loss":3,"for":48,"against":16},
 	{"country":"hun","name":"Budapesti TC","id":"budapesti_tc","win":9,"draw":4,"loss":3,"for":28,"against":13,"isRemoved":true},
 	{"country":"hun","name":"Magyar Úszó Egylet","id":"Magyar_Úszó_Egylet","win":6,"draw":4,"loss":6,"for":21,"against":30},
