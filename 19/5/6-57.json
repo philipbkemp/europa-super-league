@@ -193,7 +193,7 @@
 {"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":3,"draw":1,"loss":1,"for":17,"against":6},
 {"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":2,"draw":0,"loss":3,"for":10,"against":12},
 {"country":"isl","name":"ÍBA","id":"ÍB_Akureyri","win":1,"draw":0,"loss":4,"for":3,"against":13,"isReturning":true},
-{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":0,"draw":0,"loss":5,"for":6,"against":19,"isRemoved":true}
+{"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":0,"draw":0,"loss":5,"for":6,"against":19,"isRemoved":true}
 ][
 {"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":15,"draw":3,"loss":4,"for":58,"against":24,"isChampion":true},
 {"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":15,"draw":2,"loss":5,"for":53,"against":26},

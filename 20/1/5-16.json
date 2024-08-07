@@ -226,7 +226,7 @@
 {"country":"isl","name":"Fjölnir","id":"Ungmennafélagið_Fjölnir","win":9,"draw":6,"loss":7,"for":36,"against":35},
 {"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":7,"draw":8,"loss":7,"for":31,"against":31,"isReturning":true},
 {"country":"isl","name":"Fylkir","id":"Fylkir","win":7,"draw":8,"loss":7,"for":26,"against":31},
-{"country":"isl","name":"Víkingur Reykjavík","id":"Knattspyrnufélagið_Víkingur","win":5,"draw":8,"loss":9,"for":32,"against":36},
+{"country":"isl","name":"Víkingur Reykjavík","id":"knattspyrnufelagio_vikingur","win":5,"draw":8,"loss":9,"for":32,"against":36},
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":5,"draw":4,"loss":13,"for":26,"against":37},
 {"country":"isl","name":"Leiknir Reykjavík","id":"Leiknir_Reykjavík","win":3,"draw":6,"loss":13,"for":20,"against":34,"isRemoved":true,"isNew":true},
 {"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":2,"draw":4,"loss":16,"for":22,"against":61,"isRemoved":true}

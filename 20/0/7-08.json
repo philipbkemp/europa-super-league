@@ -233,7 +233,7 @@
 {"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":3,"draw":7,"loss":8,"for":25,"against":31,"isReturning":true},
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":3,"draw":6,"loss":9,"for":17,"against":30},
 {"country":"isl","name":"HK","id":"Handknattleiksfélag_Kópavogs","win":4,"draw":4,"loss":10,"for":17,"against":35,"isNew":true},
-{"country":"isl","name":"Vikingur","id":"Knattspyrnufélagið_Víkingur","win":3,"draw":5,"loss":10,"for":15,"against":30,"isRemoved":true}
+{"country":"isl","name":"Vikingur","id":"knattspyrnufelagio_vikingur","win":3,"draw":5,"loss":10,"for":15,"against":30,"isRemoved":true}
 ][
 {"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":24,"draw":5,"loss":1,"for":68,"against":18,"isChampion":true},
 {"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":20,"draw":3,"loss":7,"for":48,"against":17},

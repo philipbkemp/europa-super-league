@@ -231,7 +231,7 @@
 {"country":"isl","name":"Þór","id":"Þór_Akureyri","win":5,"draw":5,"loss":8,"for":20,"against":30},
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":5,"draw":4,"loss":9,"for":31,"against":41},
 {"country":"isl","name":"Fylkir","id":"Fylkir","win":6,"draw":1,"loss":11,"for":22,"against":35,"isRemoved":true,"isReturning":true},
-{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":3,"draw":2,"loss":13,"for":23,"against":59,"isRemoved":true}
+{"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":3,"draw":2,"loss":13,"for":23,"against":59,"isRemoved":true}
 ][
 {"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":19,"draw":13,"loss":2,"for":72,"against":24,"isChampion":true,"deduct":-3},
 {"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":17,"draw":13,"loss":4,"for":52,"against":28},

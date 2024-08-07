@@ -233,7 +233,7 @@
 {"country":"isl","name":"FH","id":"FH_men%27s_football","win":5,"draw":2,"loss":11,"for":23,"against":41,"isReturning":true},
 {"country":"isl","name":"Víðir","id":"Knattspyrnufélagið_Víðir","win":4,"draw":4,"loss":10,"for":21,"against":38,"isNew":true},
 {"country":"isl","name":"Þróttur","id":"Knattspyrnufélagið_Þróttur","win":3,"draw":4,"loss":11,"for":18,"against":32,"isRemoved":true},
-{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":2,"draw":1,"loss":15,"for":17,"against":38,"isRemoved":true}
+{"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":2,"draw":1,"loss":15,"for":17,"against":38,"isRemoved":true}
 ][
 {"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":21,"draw":4,"loss":5,"for":70,"against":17,"isChampion":true},
 {"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":17,"draw":8,"loss":5,"for":55,"against":29},

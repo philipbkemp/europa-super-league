@@ -178,7 +178,7 @@
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":2,"draw":1,"loss":0,"for":10,"against":5,"isChampion":true},
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":1,"draw":2,"loss":0,"for":10,"against":4},
 {"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":1,"draw":1,"loss":1,"for":8,"against":3},
-{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":0,"draw":0,"loss":3,"for":1,"against":17,"isRemoved":true}
+{"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":0,"draw":0,"loss":3,"for":1,"against":17,"isRemoved":true}
 ][
 {"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":8,"draw":6,"loss":2,"for":37,"against":16,"isChampion":true,"isReturning":true},
 {"country":"pol","name":"AKS Chorzów","id":"AKS_Chorzów","win":8,"draw":4,"loss":4,"for":31,"against":22,"isNew":true},

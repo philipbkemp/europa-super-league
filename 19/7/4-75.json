@@ -243,7 +243,7 @@
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":3,"draw":7,"loss":4,"for":20,"against":20},
 {"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":4,"draw":5,"loss":5,"for":16,"against":19},
 {"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":3,"draw":6,"loss":5,"for":19,"against":20},
-{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":2,"draw":5,"loss":7,"for":14,"against":19,"isReturning":true},
+{"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":2,"draw":5,"loss":7,"for":14,"against":19,"isReturning":true},
 {"country":"isl","name":"ÍBA","id":"ÍB_Akureyri","win":3,"draw":3,"loss":8,"for":16,"against":33,"isRemoved":true}
 ][
 {"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":20,"draw":4,"loss":6,"for":61,"against":27,"isChampion":true},

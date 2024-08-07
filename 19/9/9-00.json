@@ -233,7 +233,7 @@
 {"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":4,"draw":7,"loss":7,"for":23,"against":27},
 {"country":"isl","name":"Keflavík","id":"Knattspyrnudeild_Keflavík","win":5,"draw":4,"loss":9,"for":28,"against":34},
 {"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":4,"draw":6,"loss":8,"for":28,"against":38,"isRemoved":true},
-{"country":"isl","name":"Víkingur","id":"Knattspyrnufélagið_Víkingur","win":3,"draw":5,"loss":10,"for":21,"against":38,"isRemoved":true,"isReturning":true}
+{"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":3,"draw":5,"loss":10,"for":21,"against":38,"isRemoved":true,"isReturning":true}
 ][
 {"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":20,"draw":5,"loss":5,"for":56,"against":26,"isChampion":true},
 {"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":16,"draw":8,"loss":6,"for":64,"against":38},
