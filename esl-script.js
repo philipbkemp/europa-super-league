@@ -1,21 +1,18 @@
 const countries = {
 	"aut": "Austria",
-	"aut-naz": "Nazi occupied Austria",
 	"bel": "Belgium",
-	"che": "Switzerland",
-	"dnk": "Denmark",
 	"eir": "Ireland",
 	"eng": "England",
-	"grc": "Greece",
+	"dnk": "Denmark",
 	"hun": "Hungary",
+	"irl": "Republic of Ireland",
 	"isl": "Iceland",
-	"ita": "Italy",
 	"lux": "Luxembourg",
+	"lva": "Latvia",
 	"mlt": "Malta",
-	"nld": "Netherlands",
+	"nir": "Northern Ireland",
 	"rou": "Romania",
-	"sco": "Scotland",
-	"swe": "Sweden"
+	"sco": "Scotland"
 };
 
 clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc","knattspyrnufelagio_vikingur"];
@@ -123,7 +120,7 @@ if ( $("h1 .placeholder").length !== 0 ) {
 
 	data.forEach(team=>{
 		keys = Object.keys(team);
-		tbody = $('tbody[data-teams*="'+team.id+'"]');
+		tbody = $('tbody[data-teams*="|'+team.id+'|"]');
 		if ( tbody.length === 0 ) {
 			tbody = $("tbody#league_new");
 		} else if ( tbody.children().length !== 0 ) {
@@ -146,7 +143,8 @@ if ( $("h1 .placeholder").length !== 0 ) {
 			teamRow.append(rFlag);
 			keys.splice(keys.indexOf("country"),1);
 		} else {
-			teamRow.append("<TD></TD>");
+			teamRow.append("<TD>"+team.country+"</TD>");
+			console.error("deal with country / " + team.country);
 		}
 
 		rName = $("<TH></TH>").attr("scope","row").html(team.name);
@@ -316,14 +314,14 @@ function nextSeason() {
 		}
 	});
 
-	if ( diva.length !== 0 ) { console.log("A",diva.length,diva.join("|")); }
-	if ( divb.length !== 0 ) { console.log("B",divb.length,divb.join("|")); }
-	if ( divc.length !== 0 ) { console.log("C",divc.length,divc.join("|")); }
-	if ( divd.length !== 0 ) { console.log("D",divd.length,divd.join("|")); }
-	if ( dive.length !== 0 ) { console.log("E",dive.length,dive.join("|")); }
-	if ( divf.length !== 0 ) { console.log("F",divf.length,divf.join("|")); }
-	if ( divg.length !== 0 ) { console.log("G",divg.length,divg.join("|")); }
-	if ( divh.length !== 0 ) { console.log("H",divh.length,divh.join("|")); }
+	if ( diva.length !== 0 ) { console.log("A",diva.length,("|"+diva.join("|")+"|").replace(/\|\|/g,"|")); }
+	if ( divb.length !== 0 ) { console.log("B",divb.length,("|"+divb.join("|")+"|").replace(/\|\|/g,"|")); }
+	if ( divc.length !== 0 ) { console.log("C",divc.length,("|"+divc.join("|")+"|").replace(/\|\|/g,"|")); }
+	if ( divd.length !== 0 ) { console.log("D",divd.length,("|"+divd.join("|")+"|").replace(/\|\|/g,"|")); }
+	if ( dive.length !== 0 ) { console.log("E",dive.length,("|"+dive.join("|")+"|").replace(/\|\|/g,"|")); }
+	if ( divf.length !== 0 ) { console.log("F",divf.length,("|"+divf.join("|")+"|").replace(/\|\|/g,"|")); }
+	if ( divg.length !== 0 ) { console.log("G",divg.length,("|"+divg.join("|")+"|").replace(/\|\|/g,"|")); }
+	if ( divh.length !== 0 ) { console.log("H",divh.length,("|"+divh.join("|")+"|").replace(/\|\|/g,"|")); }
 }
 
 function newTeams() {
@@ -346,63 +344,79 @@ function newTeams() {
 			console.error("TOO Many Teams!");
 		}
 	});
-	if ( addedA ) { console.log("A",diva.length,diva.join("|")); }
-	if ( addedB ) { console.log("B",divb.length,divb.join("|")); }
-	if ( addedC ) { console.log("C",divc.length,divc.join("|")); }
-	if ( addedD ) { console.log("D",divd.length,divd.join("|")); }
-	if ( addedE ) { console.log("E",dive.length,dive.join("|")); }
-	if ( addedF ) { console.log("F",divf.length,divf.join("|")); }
-	if ( addedG ) { console.log("G",divg.length,divg.join("|")); }
-	if ( addedH ) { console.log("H",divh.length,divh.join("|")); }
+	if ( addedA ) { console.log("A",diva.length,("|"+diva.join("|")+"|").replace(/\|\|/g,"|")); }
+	if ( addedB ) { console.log("B",divb.length,("|"+divb.join("|")+"|").replace(/\|\|/g,"|")); }
+	if ( addedC ) { console.log("C",divc.length,("|"+divc.join("|")+"|").replace(/\|\|/g,"|")); }
+	if ( addedD ) { console.log("D",divd.length,("|"+divd.join("|")+"|").replace(/\|\|/g,"|")); }
+	if ( addedE ) { console.log("E",dive.length,("|"+dive.join("|")+"|").replace(/\|\|/g,"|")); }
+	if ( addedF ) { console.log("F",divf.length,("|"+divf.join("|")+"|").replace(/\|\|/g,"|")); }
+	if ( addedG ) { console.log("G",divg.length,("|"+divg.join("|")+"|").replace(/\|\|/g,"|")); }
+	if ( addedH ) { console.log("H",divh.length,("|"+divh.join("|")+"|").replace(/\|\|/g,"|")); }
 }
 
 function verify() {
 	teams = $("#league_a").attr("data-teams")?.split("|") || [];
 	teams.forEach(t=>{
-		if ( $("#league_a tr[id='"+t+"'").length === 0 ) {
-			console.error("Expected to find "+t+" in Division A");
+		if ( t !== "" ) {
+			if ( $("#league_a tr[id='"+t+"'").length === 0 ) {
+				console.error("Expected to find "+t+" in Division A");
+			}
 		}
 	});
 	teams = $("#league_b").attr("data-teams")?.split("|") || [];
 	teams.forEach(t=>{
-		if ( $("#league_b tr[id='"+t+"'").length === 0 ) {
-			console.error("Expected to find "+t+" in Division B");
+		if ( t !== "" ) {
+			if ( $("#league_b tr[id='"+t+"'").length === 0 ) {
+				console.error("Expected to find "+t+" in Division B");
+			}
 		}
 	});
 	teams = $("#league_c").attr("data-teams")?.split("|") || [];
 	teams.forEach(t=>{
-		if ( $("#league_c tr[id='"+t+"'").length === 0 ) {
-			console.error("Expected to find "+t+" in Division C");
+		if ( t !== "" ) {
+			if ( $("#league_c tr[id='"+t+"'").length === 0 ) {
+				console.error("Expected to find "+t+" in Division C");
+			}
 		}
 	});
 	teams = $("#league_d").attr("data-teams")?.split("|") || [];
 	teams.forEach(t=>{
-		if ( $("#league_d tr[id='"+t+"'").length === 0 ) {
-			console.error("Expected to find "+t+" in Division D");
+		if ( t !== "" ) {
+			if ( $("#league_d tr[id='"+t+"'").length === 0 ) {
+				console.error("Expected to find "+t+" in Division D");
+			}
 		}
 	});
 	teams = $("#league_e").attr("data-teams")?.split("|") || [];
 	teams.forEach(t=>{
-		if ( $("#league_e tr[id='"+t+"'").length === 0 ) {
-			console.error("Expected to find "+t+" in Division E");
+		if ( t !== "" ) {
+			if ( $("#league_e tr[id='"+t+"'").length === 0 ) {
+				console.error("Expected to find "+t+" in Division E");
+			}
 		}
 	});
 	teams = $("#league_f").attr("data-teams")?.split("|") || [];
 	teams.forEach(t=>{
-		if ( $("#league_f tr[id='"+t+"'").length === 0 ) {
-			console.error("Expected to find "+t+" in Division F");
+		if ( t !== "" ) {
+			if ( $("#league_f tr[id='"+t+"'").length === 0 ) {
+				console.error("Expected to find "+t+" in Division F");
+			}
 		}
 	});
 	teams = $("#league_g").attr("data-teams")?.split("|") || [];
 	teams.forEach(t=>{
-		if ( $("#league_g tr[id='"+t+"'").length === 0 ) {
-			console.error("Expected to find "+t+" in Division G");
+		if ( t !== "" ) {
+			if ( $("#league_g tr[id='"+t+"'").length === 0 ) {
+				console.error("Expected to find "+t+" in Division G");
+			}
 		}
 	});
 	teams = $("#league_h").attr("data-teams")?.split("|") || [];
 	teams.forEach(t=>{
-		if ( $("#league_h tr[id='"+t+"'").length === 0 ) {
-			console.error("Expected to find "+t+" in Division H");
+		if ( t !== "" ) {
+			if ( $("#league_h tr[id='"+t+"'").length === 0 ) {
+				console.error("Expected to find "+t+" in Division H");
+			}
 		}
 	});
 }
@@ -540,8 +554,7 @@ function relegate(fromDivision,number) {
 	if ( fromDivision === "e" ) { newDivision = "F"; }
 	if ( fromDivision === "f" ) { newDivision = "G"; }
 	if ( fromDivision === "g" ) { newDivision = "H"; }
-	toRelegate = number - $("#"+target+ " .removed").length;
-	toRelegate = toRelegate - $("#"+target+ " .relegated").length;
+	toRelegate = number;
 	var reversedRows = $("#"+target+" tr").toArray().reverse();
 	reversedRows.forEach(function(row) {
 		if ( toRelegate !== 0 && ! $(row).hasClass("removed") && ! $(row).hasClass("relegated") ) {
@@ -549,9 +562,9 @@ function relegate(fromDivision,number) {
 			icon = $("<IMG />").attr("src","../../icons/relegated.png").attr("alt","Relegated").attr("data-bs-toggle","tooltip").attr("data-bs-title","Relegated to Division "+newDivision);
 			$($(row).find("th")[0]).append(icon);
 			toRelegate = toRelegate - 1;
+			console.log(toRelegate);
 		}
 	});
-	saveClubs(true);
 }
 
 function promote(fromDivision,number) {
@@ -577,7 +590,6 @@ function promote(fromDivision,number) {
 		container: '#divisionsTables, #winnersTables',
 		html: true
 	});
-	saveClubs(true);
 }
 
 function checkRemoved() {
