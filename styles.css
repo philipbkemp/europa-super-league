@@ -24,6 +24,9 @@ h1 span { font-weight: normal; font-size: 2rem; }
 .newclubs tbody td:nth-of-type(2) img,
 #club-winners tbody td:nth-of-type(2) img,
 #country-winners tbody td:nth-of-type(2) img { height: 20px; }
+#divisionsTables tbody tr.champion,
+#historyTables tbody tr.champion,
+.newclubs tbody tr.champion { background-color: #ffffe0; }
 #divisionsTables tbody tr.removed,
 #historyTables tbody tr.removed,
 .newclubs tbody tr.removed { background-color: #fd9292; }
@@ -33,9 +36,6 @@ h1 span { font-weight: normal; font-size: 2rem; }
 #divisionsTables tbody tr.relegated,
 #historyTables tbody tr.relegated,
 .newclubs tbody tr.relegated { background-color: #ffc9c9; }
-#divisionsTables tbody tr.champion,
-#historyTables tbody tr.champion,
-.newclubs tbody tr.champion { background-color: #ffffe0; }
 #divisionsTables tbody th img,
 #historyTables tbody th img,
 .newclubs tbody th img { height: 16px; float: right; position: relative; top: 3px; right: 5px; margin-left: 5px; cursor: help; width: 16px; }
