@@ -245,7 +245,9 @@ function nextSeason() {
 
 	$.each( $("#diva-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
-			if ( ! $(this).hasClass("removed") ) {
+			if ( $(this).hasClass("relegated") ) {
+				divb.push( $(this).attr("id") );
+			} else if ( ! $(this).hasClass("removed") ) {
 				diva.push( $(this).attr("id") );
 			}
 		}
