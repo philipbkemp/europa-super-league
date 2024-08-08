@@ -7,6 +7,7 @@ const countries = {
 	"hun": "Hungary",
 	"irl": "Republic of Ireland",
 	"isl": "Iceland",
+	"ltu": "Lithuania",
 	"lux": "Luxembourg",
 	"lva": "Latvia",
 	"mlt": "Malta",
