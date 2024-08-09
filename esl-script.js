@@ -84,6 +84,9 @@ if ( $("h1 .placeholder").length !== 0 ) {
 			if ( typeof(team.deduct) !== "undefined" ) {
 				team.points = team.points + team.deduct;
 			}
+			if ( typeof(team.bonusPoints) !== "undefined" ) {
+				team.points = team.points + team.bonusPoints;
+			}
 			team.goalDifference = team.for - team.against;
 			team.forPerGame = (team.for / team.played).toFixed(2);
 			team.againstPerGame = (team.against / team.played).toFixed(2);
@@ -190,6 +193,18 @@ if ( $("h1 .placeholder").length !== 0 ) {
 				$("<IMG />").attr("src","../../icons/deduction.png").attr("alt",deduct).attr("data-bs-toggle","tooltip").attr("data-bs-title",deduct)
 			);
 			keys.splice(keys.indexOf("deduct"),1);
+		}
+
+		if ( typeof(team.bonusPoints) !== "undefined" ) {
+			bonusPoints = "Awarded " + Math.abs(team.bonusPoints) + " bonus point" + (Math.abs(team.bonusPoints) !== 1 ? "s" : "");
+			if ( typeof(team.bonusPointsReason) !== "undefined" ) {
+				bonusPoints += "<br />" + team.bonusPointsReason;
+				keys.splice(keys.indexOf("bonusPointsReason"),1);
+			}
+			rName.append(
+				$("<IMG />").attr("src","../../icons/bonus.png").attr("alt",bonusPoints).attr("data-bs-toggle","tooltip").attr("data-bs-title",bonusPoints)
+			);
+			keys.splice(keys.indexOf("bonusPoints"),1);
 		}
 
 		if ( typeof(team.isRemoved) !== "undefined" ) {
