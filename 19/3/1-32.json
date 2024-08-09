@@ -218,7 +218,7 @@
 {"country":"ltu","name":"LFLS Kaunas","id":"LFLS_Kaunas","win":2,"draw":1,"loss":3,"for":11,"against":10,"isReturning":true},
 {"country":"ltu","name":"Tauras Kaunas","id":"Tauras_Kaunas","win":0,"draw":0,"loss":6,"for":1,"against":18,"isNew":true,"isRemoved":true}
 ][
-{"country":"csk","name":"Sparta Prague","id":"AC_Sparta_Prague","win":12,"draw":3,"loss":1,"for":54,"against":21,"isChampion":true},
+{"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":12,"draw":3,"loss":1,"for":54,"against":21,"isChampion":true},
 {"country":"csk","name":"Slavia Prague","id":"SK_Slavia_Prague","win":10,"draw":2,"loss":4,"for":44,"against":25},
 {"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":7,"draw":4,"loss":5,"for":41,"against":31},
 {"country":"csk","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":5,"draw":7,"loss":4,"for":27,"against":22,"isNew":true},

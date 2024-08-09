@@ -214,7 +214,7 @@
 {"country":"yug","name":"Slavija Osijek","id":"JŠK_Slavija_Osijek","win":0,"draw":1,"loss":9,"for":6,"against":32,"isNew":true,"isRemoved":true,"removedNote":"League moved to knockout format"}
 ]/* this is 1930 - the 1930-31 season is ignored */[
 {"country":"csk","name":"Slavia Prague","id":"SK_Slavia_Prague","win":12,"draw":0,"loss":2,"for":48,"against":14,"isChampion":true},
-{"country":"csk","name":"Sparta Prague","id":"AC_Sparta_Prague","win":10,"draw":1,"loss":3,"for":59,"against":22},
+{"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":10,"draw":1,"loss":3,"for":59,"against":22},
 {"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":7,"draw":4,"loss":3,"for":46,"against":26},
 {"country":"csk","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":7,"draw":0,"loss":7,"for":34,"against":20},
 {"country":"csk","name":"SK Kladno","id":"SK_Kladno","win":4,"draw":5,"loss":5,"for":28,"against":34},
