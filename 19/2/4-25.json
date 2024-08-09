@@ -159,4 +159,15 @@
 {"country":"irl","name":"Brooklyn","id":"Brooklyn_F.C._(Dublin)","win":4,"draw":3,"loss":11,"for":24,"against":57,"isRemoved":true},
 {"country":"irl","name":"Bray Unknowns","id":"Bray_Unknowns_F.C.","win":3,"draw":3,"loss":12,"for":21,"against":44,"isNew":true},
 {"country":"irl","name":"Pioneers","id":"Pioneers_F.C._(Dublin)","win":2,"draw":1,"loss":15,"for":21,"against":65}
+][
+{"country":"csk","name":"Slavia Prague","id":"SK_Slavia_Prague","win":7,"draw":1,"loss":1,"for":38,"against":10,"isChampion":true,"isNew":true},
+{"country":"csk","name":"Sparta Prague","id":"AC_Sparta_Prague","win":7,"draw":1,"loss":1,"for":28,"against":8,"isNew":true},
+{"country":"csk","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":4,"draw":3,"loss":2,"for":21,"against":16,"isNew":true},
+{"country":"csk","name":"DFC Prag","id":"DFC_Prag","win":4,"draw":2,"loss":3,"for":20,"against":12,"isNew":true,"isRemoved":true},
+{"country":"csk","name":"ČAFC Vinohrady","id":"ČAFC_Prague","win":4,"draw":1,"loss":4,"for":7,"against":17,"isNew":true},
+{"country":"csk","name":"Čechie Karlín","id":"Čechie_Karlín","win":2,"draw":4,"loss":3,"for":13,"against":19,"isNew":true},
+{"country":"csk","name":"SK Libeň","id":"SK_Libeň","win":3,"draw":1,"loss":5,"for":20,"against":32,"isNew":true},
+{"country":"csk","name":"AFK Vršovice","id":"Bohemians_1905","win":3,"draw":0,"loss":6,"for":19,"against":28,"isNew":true},
+{"country":"csk","name":"Nuselský SK","id":"Nuselský_SK","win":2,"draw":1,"loss":6,"for":16,"against":30,"isNew":true},
+{"country":"csk","name":"Meteor Prague VIII","id":"FK_Meteor_Prague_VIII","win":1,"draw":2,"loss":6,"for":14,"against":24,"isNew":true}
 ]

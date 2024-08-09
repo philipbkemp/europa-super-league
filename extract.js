@@ -1,4 +1,4 @@
-country = "tur";
+country = "csk";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];

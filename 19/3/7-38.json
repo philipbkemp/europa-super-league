@@ -259,4 +259,17 @@
 {"country":"tur","name":"MKE Ankaragücü","id":"MKE_Ankaragücü","win":5,"draw":2,"loss":7,"for":30,"against":34,"isNew":true,"isRemoved":true},
 {"country":"tur","name":"Doğanspor","id":"doğanspor","win":4,"draw":2,"loss":8,"for":28,"against":48,"isNew":true,"isRemoved":true},
 {"country":"tur","name":"Üçok","id":"üçok","win":2,"draw":3,"loss":9,"for":26,"against":41,"isNew":true}
+][
+{"country":"csk","name":"Sparta Prague","id":"AC_Sparta_Prague","win":17,"draw":2,"loss":3,"for":66,"against":34,"isChampion":true},
+{"country":"csk","name":"Slavia Prague","id":"SK_Slavia_Prague","win":14,"draw":1,"loss":7,"for":72,"against":33},
+{"country":"csk","name":"SK Židenice","id":"FC_Zbrojovka_Brno","win":11,"draw":4,"loss":7,"for":46,"against":27},
+{"country":"csk","name":"SK Kladno","id":"SK_Kladno","win":11,"draw":2,"loss":9,"for":38,"against":37},
+{"country":"csk","name":"1. ČsŠK Bratislava","id":"ŠK_Slovan_Bratislava","win":10,"draw":1,"loss":11,"for":46,"against":53},
+{"country":"csk","name":"SK Náchod","id":"FK_Náchod","win":9,"draw":3,"loss":10,"for":37,"against":53},
+{"country":"csk","name":"SK Plzeň","id":"SK_Plzeň","win":8,"draw":4,"loss":10,"for":47,"against":51},
+{"country":"csk","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":9,"draw":2,"loss":11,"for":36,"against":42},
+{"country":"csk","name":"SK Pardubice","id":"SK_Pardubice","win":6,"draw":7,"loss":9,"for":34,"against":39,"isNew":true},
+{"country":"csk","name":"Slezská Ostrava","id":"FC_Baník_Ostrava","win":8,"draw":2,"loss":12,"for":43,"against":52,"isNew":true},
+{"country":"csk","name":"SK Prostějov","id":"1._SK_Prostějov","win":5,"draw":6,"loss":11,"for":39,"against":65,"isRemoved":true},
+{"country":"csk","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":4,"draw":6,"loss":12,"for":33,"against":51,"isRemoved":true}
 ]

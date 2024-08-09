@@ -256,4 +256,17 @@
 {"country":"yug","name":"SK Ljubljana","id":"SK_Ljubljana","win":6,"draw":3,"loss":9,"for":21,"against":40,"isNew":true},
 {"country":"yug","name":"HŠK Concordia","id":"HŠK_Concordia","win":5,"draw":3,"loss":10,"for":26,"against":48,"isReturning":true},
 {"country":"yug","name":"Slavija Osijek","id":"JŠK_Slavija_Osijek","win":5,"draw":2,"loss":11,"for":23,"against":47,"isReturning":true,"isRemoved":true}
+][
+{"country":"csk","name":"Slavia Prague","id":"SK_Slavia_Prague","win":17,"draw":4,"loss":1,"for":86,"against":23,"isChampion":true},
+{"country":"csk","name":"Sparta Prague","id":"AC_Sparta_Prague","win":14,"draw":3,"loss":5,"for":74,"against":29},
+{"country":"csk","name":"SK Prostějov","id":"1._SK_Prostějov","win":14,"draw":1,"loss":7,"for":56,"against":37},
+{"country":"csk","name":"1. ČsŠK Bratislava","id":"ŠK_Slovan_Bratislava","win":11,"draw":5,"loss":6,"for":44,"against":36},
+{"country":"csk","name":"SK Kladno","id":"SK_Kladno","win":11,"draw":3,"loss":8,"for":53,"against":46},
+{"country":"csk","name":"SK Plzeň","id":"SK_Plzeň","win":10,"draw":4,"loss":8,"for":56,"against":44},
+{"country":"csk","name":"SK Židenice","id":"FC_Zbrojovka_Brno","win":11,"draw":2,"loss":9,"for":41,"against":52},
+{"country":"csk","name":"SK Náchod","id":"FK_Náchod","win":8,"draw":5,"loss":9,"for":48,"against":49},
+{"country":"csk","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":6,"draw":8,"loss":8,"for":47,"against":40,"isReturning":true},
+{"country":"csk","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":5,"draw":4,"loss":13,"for":29,"against":48},
+{"country":"csk","name":"Rusj Užhorod","id":"SC_Rusj_Užhorod","win":3,"draw":2,"loss":17,"for":24,"against":79,"isRemoved":true,"isNew":true},
+{"country":"csk","name":"Moravská Slavia Brno","id":"SK_Moravská_Slavia_Brno","win":1,"draw":1,"loss":20,"for":19,"against":94,"isRemoved":true}
 ]

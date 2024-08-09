@@ -165,4 +165,13 @@
 {"country":"irl","name":"Dundalk GNR","id":"Dundalk_F.C.","win":3,"draw":6,"loss":9,"for":30,"against":40,"isNew":true},
 {"country":"irl","name":"St. James's Gate","id":"St_James%27s_Gate_F.C.","win":5,"draw":2,"loss":11,"for":30,"against":49},
 {"country":"irl","name":"Brideville","id":"Brideville_F.C.","win":2,"draw":6,"loss":10,"for":22,"against":39}
+][
+{"country":"csk","name":"Sparta Prague","id":"AC_Sparta_Prague","win":6,"draw":1,"loss":0,"for":33,"against":6,"isChampion":true},
+{"country":"csk","name":"Slavia Prague","id":"SK_Slavia_Prague","win":5,"draw":1,"loss":1,"for":30,"against":12},
+{"country":"csk","name":"AFK Vršovice","id":"Bohemians_1905","win":3,"draw":2,"loss":2,"for":14,"against":15},
+{"country":"csk","name":"SK Kladno","id":"SK_Kladno","win":3,"draw":1,"loss":3,"for":18,"against":26},
+{"country":"csk","name":"ČAFC Vinohrady","id":"ČAFC_Prague","win":2,"draw":2,"loss":3,"for":13,"against":14},
+{"country":"csk","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":2,"draw":2,"loss":3,"for":17,"against":22},
+{"country":"csk","name":"Nuselský SK","id":"Nuselský_SK","win":1,"draw":2,"loss":4,"for":14,"against":22,"isRemoved":true},
+{"country":"csk","name":"Meteor Prague VIII","id":"FK_Meteor_Prague_VIII","win":0,"draw":1,"loss":6,"for":9,"against":31,"isRemoved":true}
 ]
