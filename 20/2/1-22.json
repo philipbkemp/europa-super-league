@@ -175,7 +175,7 @@
 {"country":"mlt","name":"Mosta","id":"Mosta_F.C.","win":8,"draw":8,"loss":11,"for":41,"against":50},
 {"country":"mlt","name":"Balzan","id":"Balzan_F.C.","win":9,"draw":3,"loss":15,"for":37,"against":42},
 {"country":"mlt","name":"Santa Lucia","id":"St._Lucia_F.C.","win":5,"draw":12,"loss":10,"for":36,"against":45},
-{"country":"mlt","name":"Sliema Wanderers","id":"Sliema_Wanderers_F.C.","win":4,"draw":6,"loss":17,"for":16,"against":43,"isRemoved":true}
+{"country":"mlt","name":"Sliema Wanderers","id":"sliema_wanderers_fc","win":4,"draw":6,"loss":17,"for":16,"against":43,"isRemoved":true}
 ][
 {"country":"rou","name":"CFR Cluj","id":"CFR_Cluj","win":30,"draw":5,"loss":5,"for":66,"against":25,"isChampion":true},
 {"country":"rou","name":"FCSB","id":"FCSB","win":26,"draw":9,"loss":5,"for":78,"against":35},

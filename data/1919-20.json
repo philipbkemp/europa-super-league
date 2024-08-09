@@ -84,7 +84,7 @@
 	{"country":"lux","name":"US Hollerich Bonnevoie","id":"us_hollerich_bonnevoie","win":4,"draw":1,"loss":5,"for":17,"against":18,"isRemoved":true},
 	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":3,"draw":1,"loss":6,"for":18,"against":22},
 	{"country":"lux","name":"Racing Club Luxembourg","id":"Racing_Club_Luxembourg","win":2,"draw":0,"loss":8,"for":17,"against":36},
-	{"country":"mlt","name":"Sliema Wanderers","id":"Sliema_Wanderers_F.C.","win":3,"draw":2,"loss":0,"for":10,"against":2,"isChampion":true},
+	{"country":"mlt","name":"Sliema Wanderers","id":"sliema_wanderers_fc","win":3,"draw":2,"loss":0,"for":10,"against":2,"isChampion":true},
 	{"country":"mlt","name":"Ħamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":3,"draw":1,"loss":1,"for":10,"against":5},
 	{"country":"mlt","name":"Valletta United","id":"Valletta_F.C.","win":2,"draw":2,"loss":1,"for":9,"against":3,"isReturning":true},
 	{"country":"mlt","name":"Cottonera United","id":"cottonera_united","win":1,"draw":3,"loss":1,"for":5,"against":8,"isNew":true},

@@ -87,7 +87,7 @@
 	{"country":"mlt","name":"Ħamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":1,"draw":2,"loss":1,"for":4,"against":3,"isNew":true},
 	{"country":"mlt","name":"St. George's","id":"St._George%27s_F.C.","win":1,"draw":1,"loss":2,"for":2,"against":3,"isNew":true},
 	{"country":"mlt","name":"Valletta United","id":"Valletta_F.C.","win":1,"draw":1,"loss":2,"for":2,"against":4,"isNew":true},
-	{"country":"mlt","name":"Sliema Wanderers","id":"Sliema_Wanderers_F.C.","win":0,"draw":2,"loss":2,"for":1,"against":6,"isReturning":true},
+	{"country":"mlt","name":"Sliema Wanderers","id":"sliema_wanderers_fc","win":0,"draw":2,"loss":2,"for":1,"against":6,"isReturning":true},
 	{"country":"rou","name":"United Ploiești","id":"FC_Prahova_Ploiești","win":3,"draw":1,"loss":0,"for":14,"against":8,"isChampion":true},
 	{"country":"rou","name":"Olympia București","id":"Olympia_București","win":1,"draw":1,"loss":2,"for":10,"against":13},
 	{"country":"rou","name":"Colentina București","id":"colentina_ac_bucuresti","win":0,"draw":2,"loss":2,"for":10,"against":13},

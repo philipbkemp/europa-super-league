@@ -160,7 +160,7 @@
 {"country":"lux","name":"Mondercange","id":"FC_Mondercange","win":7,"draw":6,"loss":15,"for":32,"against":58,"isRemoved":true},
 {"country":"lux","name":"Wiltz 71","id":"FC_Wiltz_71","win":7,"draw":7,"loss":14,"for":31,"against":54}
 ][
-{"country":"mlt","name":"Sliema Wanderers","id":"Sliema_Wanderers_F.C.","win":20,"draw":3,"loss":5,"for":61,"against":27,"isChampion":true},
+{"country":"mlt","name":"Sliema Wanderers","id":"sliema_wanderers_fc","win":20,"draw":3,"loss":5,"for":61,"against":27,"isChampion":true},
 {"country":"mlt","name":"Birkirkara","id":"Birkirkara_F.C.","win":17,"draw":5,"loss":6,"for":59,"against":30},
 {"country":"mlt","name":"Hibernians","id":"Hibernians_F.C.","win":16,"draw":4,"loss":8,"for":47,"against":38},
 {"country":"mlt","name":"Marsaxlokk","id":"Marsaxlokk_F.C.","win":12,"draw":6,"loss":10,"for":46,"against":39},

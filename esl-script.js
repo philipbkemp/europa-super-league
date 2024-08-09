@@ -18,7 +18,7 @@ const countries = {
 	"swe": "Sweden"
 };
 
-clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc","knattspyrnufelagio_vikingur"];
+clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc","knattspyrnufelagio_vikingur","sliema_wanderers_fc"];
 //clubPages = [];
 
 if ( $("h1 .placeholder").length !== 0 ) {
@@ -676,7 +676,11 @@ function saveClubs(refresh=false) {
 				if ( $sr.html().indexOf("<td>A1</td>") === -1 ) {
 					classes = classes.replace("champion","");
 				}
-				console.warn(v);
+				if ( original.indexOf("new.png") === -1 ) {
+					console.warn(v);
+				} else {
+					console.error(v);
+				}
 				console.log("<tr class='"+classes+"'>"+$sr.html()+"</tr>");
 				$sr.html(original);
 				clubName = $($sr.find("th")[0]);
