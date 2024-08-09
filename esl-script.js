@@ -13,6 +13,7 @@ const countries = {
 	"lva": "Latvia",
 	"mlt": "Malta",
 	"nir": "Northern Ireland",
+	"pol": "Poland",
 	"rou": "Romania",
 	"sco": "Scotland",
 	"swe": "Sweden"
