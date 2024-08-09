@@ -172,7 +172,7 @@
 {"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":7,"draw":5,"loss":10,"for":32,"against":41},
 {"country":"lux","name":"National Schifflange","id":"National_Schifflange","win":5,"draw":6,"loss":11,"for":29,"against":39},
 {"country":"lux","name":"SC Tétange","id":"SC_Tétange","win":4,"draw":5,"loss":13,"for":26,"against":52,"isReturning":true,"isRemoved":true},
-{"country":"lux","name":"Sporting Club Bettembourg","id":"Sporting_Club_Bettembourg","win":2,"draw":2,"loss":18,"for":21,"against":85,"isReturning":true,"isRemoved":true}
+{"country":"lux","name":"Sporting Club Bettembourg","id":"SC_Bettembourg","win":2,"draw":2,"loss":18,"for":21,"against":85,"isReturning":true,"isRemoved":true}
 ][
 {"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":12,"draw":2,"loss":4,"for":31,"against":10,"isChampion":true},
 {"country":"mlt","name":"Sliema Wanderers F.C.","id":"Sliema_Wanderers_F.C.","win":10,"draw":5,"loss":3,"for":34,"against":14},
