@@ -1,6 +1,7 @@
 const countries = {
 	"aut": "Austria",
 	"bel": "Belgium",
+	"csk": "Czechoslovakia",
 	"eir": "Ireland",
 	"eng": "England",
 	"dnk": "Denmark",
@@ -13,7 +14,8 @@ const countries = {
 	"mlt": "Malta",
 	"nir": "Northern Ireland",
 	"rou": "Romania",
-	"sco": "Scotland"
+	"sco": "Scotland",
+	"swe": "Sweden"
 };
 
 clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc","knattspyrnufelagio_vikingur"];
