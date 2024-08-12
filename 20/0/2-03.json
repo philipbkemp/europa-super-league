@@ -216,7 +216,7 @@
 {"country":"aut","name":"Bregenz","id":"Schwarz-Weiß_Bregenz","win":9,"draw":12,"loss":15,"for":48,"against":58},
 {"country":"aut","name":"Ried","id":"SV_Ried","win":10,"draw":8,"loss":18,"for":41,"against":56,"isRemoved":true}
 ][
-{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":10,"draw":6,"loss":2,"for":32,"against":18,"isChampion":true},
+{"country":"isl","name":"KR","id":"knattspyrnufelag_reykjavikur","win":10,"draw":6,"loss":2,"for":32,"against":18,"isChampion":true},
 {"country":"isl","name":"Fylkir","id":"Fylkir","win":10,"draw":4,"loss":4,"for":30,"against":22},
 {"country":"isl","name":"Grindavík","id":"Grindavík_men%27s_football","win":8,"draw":5,"loss":5,"for":32,"against":26},
 {"country":"isl","name":"KA","id":"Knattspyrnufélag_Akureyrar","win":6,"draw":7,"loss":5,"for":18,"against":19,"isReturning":true},

@@ -107,7 +107,7 @@
 	{"country":"aut","name":"Brigittenauer AC","id":"Brigittenauer_AC","win":5,"draw":8,"loss":11,"for":37,"against":71},
 	{"country":"aut","name":"Hakoah Vienna","id":"Hakoah_Vienna","win":5,"draw":6,"loss":13,"for":24,"against":54,"isRemoved":true},
 	{"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":5,"draw":3,"loss":16,"for":42,"against":67,"isRemoved":true},
-	{"country":"isl","name":"KR","id":"Knattspyrnufélag_Reykjavíkur","win":3,"draw":0,"loss":0,"for":12,"against":2,"isChampion":true},
+	{"country":"isl","name":"KR","id":"knattspyrnufelag_reykjavikur","win":3,"draw":0,"loss":0,"for":12,"against":2,"isChampion":true},
 	{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":2,"draw":0,"loss":1,"for":5,"against":3},
 	{"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":1,"draw":0,"loss":2,"for":4,"against":6},
 	{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":0,"draw":0,"loss":3,"for":0,"against":10,"isRemoved":true},
