@@ -369,4 +369,21 @@
 {"country":"tur","name":"Hacettepe Spor","id":"Hacettepe_S.K.","win":9,"draw":10,"loss":13,"for":32,"against":45,"isRemoved":true},
 {"country":"tur","name":"MKE Ankaragücü","id":"MKE_Ankaragücü","win":8,"draw":6,"loss":18,"for":30,"against":47,"isRemoved":true},
 {"country":"tur","name":"Feriköy","id":"Feriköy_S.K.","win":8,"draw":6,"loss":18,"for":27,"against":48,"isRemoved":true}
+][
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":16,"draw":10,"loss":4,"for":55,"against":26,"isChampion":true},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":15,"draw":9,"loss":6,"for":48,"against":29},
+{"country":"esp","name":"Las Palmas","id":"UD_Las_Palmas","win":17,"draw":4,"loss":9,"for":56,"against":41},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":13,"draw":8,"loss":9,"for":52,"against":38},
+{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":13,"draw":7,"loss":10,"for":43,"against":34},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":12,"draw":9,"loss":9,"for":38,"against":32},
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":11,"draw":10,"loss":9,"for":51,"against":28},
+{"country":"esp","name":"Pontevedra","id":"Pontevedra_CF","win":12,"draw":7,"loss":11,"for":36,"against":41},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":12,"draw":5,"loss":13,"for":48,"against":44},
+{"country":"esp","name":"Elche","id":"Elche_CF","win":9,"draw":9,"loss":12,"for":29,"against":37},
+{"country":"esp","name":"Málaga","id":"Málaga_CF","win":11,"draw":5,"loss":14,"for":30,"against":39,"isNew":true},
+{"country":"esp","name":"Sabadell","id":"CE_Sabadell_FC","win":10,"draw":6,"loss":14,"for":34,"against":51},
+{"country":"esp","name":"Córdoba","id":"Córdoba_CF","win":11,"draw":3,"loss":16,"for":35,"against":57},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":9,"draw":6,"loss":15,"for":38,"against":43,"isReturning":true},
+{"country":"esp","name":"Real Betis","id":"Real_Betis","win":8,"draw":4,"loss":18,"for":30,"against":58,"isRemoved":true,"isReturning":true},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":6,"draw":8,"loss":16,"for":31,"against":56,"isRemoved":true}
 ]

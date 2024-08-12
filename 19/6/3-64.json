@@ -346,4 +346,21 @@
 {"country":"tur","name":"Karşıyaka","id":"Karşıyaka_S.K.","win":11,"draw":6,"loss":17,"for":32,"against":50,"isRemoved":true},
 {"country":"tur","name":"Beyoğluspor","id":"Beyoğluspor","win":5,"draw":14,"loss":15,"for":26,"against":40,"isRemoved":true},
 {"country":"tur","name":"Kasımpaşa","id":"Kasımpaşa_S.K.","win":6,"draw":9,"loss":19,"for":16,"against":61,"isRemoved":true}
+][
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":22,"draw":2,"loss":6,"for":61,"against":23,"isChampion":true},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":19,"draw":4,"loss":7,"for":74,"against":38},
+{"country":"esp","name":"Real Betis","id":"Real_Betis","win":15,"draw":7,"loss":8,"for":47,"against":36},
+{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":14,"draw":6,"loss":10,"for":52,"against":42},
+{"country":"esp","name":"Elche","id":"Elche_CF","win":13,"draw":7,"loss":10,"for":35,"against":31},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":16,"draw":0,"loss":14,"for":53,"against":47},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":10,"draw":9,"loss":11,"for":37,"against":34},
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":12,"draw":5,"loss":13,"for":43,"against":40},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":9,"draw":11,"loss":10,"for":33,"against":38},
+{"country":"esp","name":"Levante","id":"Levante_UD","win":10,"draw":7,"loss":13,"for":43,"against":56,"isNew":true},
+{"country":"esp","name":"Córdoba","id":"Córdoba_CF","win":10,"draw":6,"loss":14,"for":32,"against":38},
+{"country":"esp","name":"Murcia","id":"Real_Murcia_CF","win":11,"draw":4,"loss":15,"for":41,"against":54,"isReturning":true},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":10,"draw":5,"loss":15,"for":34,"against":47,"isReturning":true},
+{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":10,"draw":5,"loss":15,"for":27,"against":42},
+{"country":"esp","name":"Pontevedra","id":"Pontevedra_CF","win":8,"draw":5,"loss":17,"for":30,"against":45,"isRemoved":true,"isNew":true},
+{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":7,"draw":5,"loss":18,"for":27,"against":58,"isRemoved":true}
 ]

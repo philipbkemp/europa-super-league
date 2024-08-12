@@ -314,4 +314,21 @@
 {"country":"tur","name":"Vefa","id":"Vefa_S.K.","win":11,"draw":9,"loss":18,"for":29,"against":48,"isRemoved":true},
 {"country":"tur","name":"Ankara Demirspor","id":"Ankara_Demirspor","win":9,"draw":12,"loss":17,"for":42,"against":52,"isRemoved":true},
 {"country":"tur","name":"Şeker Hilal","id":"Turanspor","win":6,"draw":11,"loss":21,"for":27,"against":55,"isRemoved":true}
+][
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":19,"draw":5,"loss":6,"for":58,"against":24,"isChampion":true},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":18,"draw":4,"loss":8,"for":81,"against":46},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":15,"draw":6,"loss":9,"for":50,"against":36},
+{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":15,"draw":5,"loss":10,"for":70,"against":51},
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":12,"draw":8,"loss":10,"for":52,"against":38},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":12,"draw":7,"loss":11,"for":48,"against":45},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":12,"draw":7,"loss":11,"for":50,"against":50},
+{"country":"esp","name":"Elche","id":"Elche_CF","win":10,"draw":9,"loss":11,"for":52,"against":52},
+{"country":"esp","name":"Real Betis","id":"Real_Betis","win":10,"draw":8,"loss":12,"for":39,"against":51},
+{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":10,"draw":7,"loss":13,"for":27,"against":47},
+{"country":"esp","name":"Osasuna","id":"CA_Osasuna","win":11,"draw":5,"loss":14,"for":30,"against":47,"isReturning":true},
+{"country":"esp","name":"Mallorca","id":"RCD_Mallorca","win":10,"draw":7,"loss":13,"for":54,"against":59},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":8,"draw":10,"loss":12,"for":45,"against":55,"isRemoved":true},
+{"country":"esp","name":"Real Santander","id":"Racing_de_Santander","win":11,"draw":4,"loss":15,"for":35,"against":54,"isRemoved":true},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":9,"draw":5,"loss":16,"for":37,"against":49,"isRemoved":true},
+{"country":"esp","name":"Tenerife","id":"CD_Tenerife","win":6,"draw":7,"loss":17,"for":33,"against":57,"isRemoved":true,"isNew":true}
 ]

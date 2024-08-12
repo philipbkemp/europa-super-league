@@ -130,4 +130,19 @@
 {"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":6,"draw":4,"loss":8,"for":28,"against":34},
 {"country":"irl","name":"Brideville","id":"Brideville_F.C.","win":3,"draw":5,"loss":10,"for":25,"against":39,"isRemoved":true},
 {"country":"irl","name":"Bray Unknowns","id":"Bray_Unknowns_F.C.","win":1,"draw":1,"loss":16,"for":14,"against":72,"isRemoved":true}
+][
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":16,"draw":4,"loss":6,"for":73,"against":38,"isChampion":true},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":15,"draw":3,"loss":8,"for":63,"against":47},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":14,"draw":4,"loss":8,"for":77,"against":50},
+{"country":"esp","name":"Castellón","id":"CD_Castellón","win":13,"draw":5,"loss":8,"for":41,"against":43},
+{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":14,"draw":2,"loss":10,"for":52,"against":50},
+{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":12,"draw":4,"loss":10,"for":53,"against":63},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":10,"draw":7,"loss":9,"for":58,"against":45},
+{"country":"esp","name":"Atlético Aviación","id":"Atlético_Madrid","win":11,"draw":5,"loss":10,"for":54,"against":44},
+{"country":"esp","name":"Deportivo de La Coruña","id":"Deportivo_de_La_Coruña","win":7,"draw":12,"loss":7,"for":35,"against":32},
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":10,"draw":5,"loss":11,"for":52,"against":50},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":9,"draw":6,"loss":11,"for":45,"against":51},
+{"country":"esp","name":"Granada","id":"Granada_CF","win":9,"draw":4,"loss":13,"for":56,"against":68},
+{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":2,"draw":9,"loss":15,"for":25,"against":57,"isRemoved":true,"isReturning":true},
+{"country":"esp","name":"Real Betis","id":"Real_Betis","win":2,"draw":6,"loss":18,"for":28,"against":74,"isRemoved":true,"isReturning":true}
 ]

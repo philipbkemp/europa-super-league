@@ -227,4 +227,15 @@
 {"country":"csk","name":"Teplitzer FK","id":"Teplitzer_FK","win":7,"draw":3,"loss":8,"for":39,"against":38},
 {"country":"csk","name":"SK Libeň","id":"SK_Libeň","win":3,"draw":2,"loss":13,"for":31,"against":68,"isRemoved":true,"isReturning":true},
 {"country":"csk","name":"SK Plzeň","id":"SK_Plzeň","win":2,"draw":4,"loss":12,"for":18,"against":58,"isRemoved":true,"isNew":true}
+][
+{"country":"esp","name":"Madrid FC","id":"Real_Madrid_CF","win":13,"draw":2,"loss":3,"for":49,"against":17,"isChampion":true},
+{"country":"esp","name":"Athletic Bilbao","id":"Athletic_Bilbao","win":13,"draw":0,"loss":5,"for":63,"against":30},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":10,"draw":2,"loss":6,"for":33,"against":30},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":7,"draw":5,"loss":6,"for":42,"against":34},
+{"country":"esp","name":"Betis","id":"Real_Betis","win":6,"draw":5,"loss":7,"for":31,"against":45,"isNew":true},
+{"country":"esp","name":"Donostia","id":"Real_Sociedad","win":6,"draw":3,"loss":9,"for":41,"against":47},
+{"country":"esp","name":"Arenas","id":"Arenas_Club_de_Getxo","win":5,"draw":4,"loss":9,"for":39,"against":44},
+{"country":"esp","name":"Racing Santander","id":"Racing_de_Santander","win":6,"draw":2,"loss":10,"for":47,"against":58},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":4,"draw":5,"loss":9,"for":34,"against":53},
+{"country":"esp","name":"Alavés","id":"Deportivo_Alavés","win":5,"draw":2,"loss":11,"for":21,"against":42,"isRemoved":true}
 ]

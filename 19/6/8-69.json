@@ -374,4 +374,21 @@
 {"country":"tur","name":"Altınordu","id":"Altınordu_F.K.","win":6,"draw":12,"loss":12,"for":20,"against":40},
 {"country":"tur","name":"Beypazarı Şekerspor","id":"Turanspor","win":6,"draw":9,"loss":15,"for":24,"against":44,"isRemoved":true},
 {"country":"tur","name":"İzmirspor","id":"İzmirspor","win":4,"draw":12,"loss":14,"for":19,"against":39,"isRemoved":true,"isReturning":true}
+][
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":18,"draw":11,"loss":1,"for":46,"against":21,"isChampion":true},
+{"country":"esp","name":"Las Palmas","id":"UD_Las_Palmas","win":15,"draw":8,"loss":7,"for":45,"against":34},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":13,"draw":10,"loss":7,"for":40,"against":18},
+{"country":"esp","name":"Sabadell","id":"CE_Sabadell_FC","win":10,"draw":12,"loss":8,"for":33,"against":34},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":10,"draw":11,"loss":9,"for":36,"against":39},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":10,"draw":10,"loss":10,"for":40,"against":37},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":10,"draw":9,"loss":11,"for":36,"against":33},
+{"country":"esp","name":"Granada","id":"Granada_CF","win":11,"draw":7,"loss":12,"for":26,"against":38,"isReturning":true},
+{"country":"esp","name":"Elche","id":"Elche_CF","win":7,"draw":15,"loss":8,"for":25,"against":23},
+{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":11,"draw":6,"loss":13,"for":39,"against":44,"isReturning":true},
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":10,"draw":8,"loss":12,"for":42,"against":46},
+{"country":"esp","name":"Pontevedra","id":"Pontevedra_CF","win":7,"draw":13,"loss":10,"for":20,"against":23},
+{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":8,"draw":10,"loss":12,"for":36,"against":36},
+{"country":"esp","name":"Málaga","id":"Málaga_CF","win":9,"draw":7,"loss":14,"for":37,"against":42,"isRemoved":true},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":8,"draw":8,"loss":14,"for":29,"against":36,"isRemoved":true},
+{"country":"esp","name":"Córdoba","id":"Córdoba_CF","win":5,"draw":11,"loss":14,"for":31,"against":57,"isRemoved":true}
 ]

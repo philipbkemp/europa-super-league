@@ -293,4 +293,21 @@
 {"country":"tur","name":"Gençlerbirliği","id":"Gençlerbirliği_S.K.","win":3,"draw":4,"loss":7,"for":18,"against":35,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 {"country":"tur","name":"Altay","id":"Altay_S.K.","win":2,"draw":2,"loss":10,"for":16,"against":33,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 {"country":"tur","name":"Göztepe","id":"Göztepe_S.K.","win":1,"draw":1,"loss":12,"for":11,"against":46,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"}
+][
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":17,"draw":6,"loss":7,"for":87,"against":50,"isChampion":true},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":17,"draw":4,"loss":9,"for":79,"against":46},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":17,"draw":3,"loss":10,"for":64,"against":48},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":16,"draw":3,"loss":11,"for":83,"against":61},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":15,"draw":5,"loss":10,"for":77,"against":56},
+{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":14,"draw":5,"loss":11,"for":51,"against":51},
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":15,"draw":3,"loss":12,"for":88,"against":56},
+{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":15,"draw":3,"loss":12,"for":62,"against":56},
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":13,"draw":5,"loss":12,"for":80,"against":71},
+{"country":"esp","name":"Real Santander","id":"Racing_de_Santander","win":12,"draw":6,"loss":12,"for":49,"against":60,"isReturning":true},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":13,"draw":4,"loss":13,"for":82,"against":72},
+{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":13,"draw":4,"loss":13,"for":64,"against":47},
+{"country":"esp","name":"Málaga","id":"CD_Málaga","win":12,"draw":5,"loss":13,"for":55,"against":52,"isRemoved":true},
+{"country":"esp","name":"Murcia","id":"Real_Murcia_CF","win":8,"draw":3,"loss":19,"for":40,"against":86,"isRemoved":true,"isReturning":true},
+{"country":"esp","name":"Alcoyano","id":"CD_Alcoyano","win":6,"draw":2,"loss":22,"for":36,"against":92,"isRemoved":true,"isReturning":true},
+{"country":"esp","name":"Lérida","id":"UE_Lleida","win":6,"draw":1,"loss":23,"for":41,"against":134,"isRemoved":true,"isNew":true}
 ]

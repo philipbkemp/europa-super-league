@@ -245,4 +245,19 @@
 {"country":"yug","name":"Željezničar Sarajevo","id":"FK_Željezničar_Sarajevo","win":7,"draw":4,"loss":15,"for":31,"against":54,"isRemoved":true,"isNew":true},
 {"country":"yug","name":"14. Oktobar Niš","id":"FK_Železničar_Niš","win":4,"draw":5,"loss":17,"for":26,"against":76,"isRemoved":true,"isNew":true},
 {"country":"yug","name":"Nafta Lendava","id":"NK_Nafta_Lendava","win":3,"draw":0,"loss":23,"for":13,"against":88,"isRemoved":true,"isNew":true}
+][
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":16,"draw":2,"loss":8,"for":54,"against":34,"isChampion":true},
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":15,"draw":4,"loss":7,"for":72,"against":38},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":13,"draw":6,"loss":7,"for":58,"against":44},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":14,"draw":3,"loss":9,"for":59,"against":42},
+{"country":"esp","name":"Sabadell","id":"CE_Sabadell_FC","win":11,"draw":8,"loss":7,"for":42,"against":36,"isReturning":true},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":12,"draw":5,"loss":9,"for":54,"against":48},
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":11,"draw":5,"loss":10,"for":62,"against":56},
+{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":10,"draw":7,"loss":9,"for":52,"against":42},
+{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":11,"draw":4,"loss":11,"for":53,"against":48},
+{"country":"esp","name":"Real Gijón","id":"Sporting_de_Gijón","win":10,"draw":5,"loss":11,"for":51,"against":59},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":9,"draw":1,"loss":16,"for":46,"against":59},
+{"country":"esp","name":"Murcia","id":"Real_Murcia_CF","win":6,"draw":7,"loss":13,"for":30,"against":58,"isRemoved":true},
+{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":5,"draw":8,"loss":13,"for":32,"against":60,"isRemoved":true,"isReturning":true},
+{"country":"esp","name":"Castellón","id":"CD_Castellón","win":4,"draw":5,"loss":17,"for":39,"against":80,"isRemoved":true}
 ]

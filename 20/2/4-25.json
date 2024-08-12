@@ -346,4 +346,25 @@
 {"country":"tur","name":"Samsunspor","id":"Samsunspor","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"tur","name":"Sivasspor","id":"Sivasspor","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
+][
+{"country":"esp","name":"Alavés","id":"Deportivo_Alavés","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Athletic Bilbao","id":"Athletic_Bilbao","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Celta Vigo","id":"RC_Celta_de_Vigo","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Espanyol","id":"RCD_Espanyol","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
+{"country":"esp","name":"Getafe","id":"Getafe_CF","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Girona","id":"Girona_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Las Palmas","id":"UD_Las_Palmas","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Leganés","id":"CD_Leganés","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
+{"country":"esp","name":"Mallorca","id":"RCD_Mallorca","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Osasuna","id":"CA_Osasuna","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Rayo Vallecano","id":"Rayo_Vallecano","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Real Betis","id":"Real_Betis","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
+{"country":"esp","name":"Villarreal","id":"Villarreal_CF","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
 ]

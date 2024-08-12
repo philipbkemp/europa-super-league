@@ -277,4 +277,19 @@
 {"country":"tur","name":"Gençlerbirliği","id":"Gençlerbirliği_S.K.","win":2,"draw":5,"loss":7,"for":19,"against":32,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 {"country":"tur","name":"Altınordu","id":"Altınordu_F.K.","win":2,"draw":2,"loss":10,"for":18,"against":38,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 {"country":"tur","name":"Altay","id":"Altay_S.K.","win":2,"draw":1,"loss":11,"for":18,"against":53,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"}
+][
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":15,"draw":7,"loss":4,"for":65,"against":31,"isChampion":true},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":15,"draw":4,"loss":7,"for":59,"against":34},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":13,"draw":7,"loss":6,"for":73,"against":45},
+{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":14,"draw":3,"loss":9,"for":59,"against":48},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":12,"draw":5,"loss":9,"for":50,"against":40},
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":12,"draw":4,"loss":10,"for":56,"against":44},
+{"country":"esp","name":"Gimnástico","id":"Gimnàstic_de_Tarragona","win":10,"draw":4,"loss":12,"for":49,"against":55,"isNew":true},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":9,"draw":6,"loss":11,"for":39,"against":47},
+{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":9,"draw":5,"loss":12,"for":49,"against":57},
+{"country":"esp","name":"Alcoyano","id":"CD_Alcoyano","win":9,"draw":4,"loss":13,"for":40,"against":52,"isReturning":true},
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":7,"draw":7,"loss":12,"for":41,"against":56},
+{"country":"esp","name":"Sabadell","id":"CE_Sabadell_FC","win":9,"draw":3,"loss":14,"for":41,"against":62},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":8,"draw":3,"loss":15,"for":38,"against":56,"isRemoved":true,"isReturning":true},
+{"country":"esp","name":"Real Gijón","id":"Sporting_de_Gijón","win":7,"draw":4,"loss":15,"for":37,"against":69,"isRemoved":true}
 ]

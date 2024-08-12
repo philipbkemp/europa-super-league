@@ -328,4 +328,21 @@
 {"country":"tur","name":"MKE Ankaragücü","id":"MKE_Ankaragücü","win":4,"draw":1,"loss":5,"for":12,"against":14},
 {"country":"tur","name":"PTT","id":"Türk_Telekom_GSK","win":4,"draw":0,"loss":6,"for":12,"against":22},
 {"country":"tur","name":"Beyoğluspor","id":"Beyoğluspor","win":2,"draw":3,"loss":5,"for":10,"against":18,"isNew":true}
+][
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":23,"draw":3,"loss":4,"for":83,"against":33,"isChampion":true},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":14,"draw":9,"loss":7,"for":61,"against":36},
+{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":15,"draw":3,"loss":12,"for":52,"against":46},
+{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":15,"draw":3,"loss":12,"for":51,"against":53,"isReturning":true},
+{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":14,"draw":4,"loss":12,"for":54,"against":39},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":11,"draw":9,"loss":10,"for":45,"against":36},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":14,"draw":3,"loss":13,"for":49,"against":36},
+{"country":"esp","name":"Elche","id":"Elche_CF","win":11,"draw":7,"loss":12,"for":48,"against":59},
+{"country":"esp","name":"Real Betis","id":"Real_Betis","win":12,"draw":4,"loss":14,"for":41,"against":47},
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":10,"draw":8,"loss":12,"for":41,"against":40},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":11,"draw":5,"loss":14,"for":40,"against":55},
+{"country":"esp","name":"Córdoba","id":"Córdoba_CF","win":12,"draw":3,"loss":15,"for":35,"against":39,"isNew":true},
+{"country":"esp","name":"Mallorca","id":"RCD_Mallorca","win":11,"draw":4,"loss":15,"for":47,"against":57,"isRemoved":true},
+{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":11,"draw":3,"loss":16,"for":33,"against":48,"isRemoved":true,"isReturning":true},
+{"country":"esp","name":"Osasuna","id":"CA_Osasuna","win":9,"draw":6,"loss":15,"for":39,"against":50,"isRemoved":true},
+{"country":"esp","name":"Málaga","id":"CD_Málaga","win":8,"draw":4,"loss":18,"for":25,"against":70,"isRemoved":true,"isReturning":true}
 ]

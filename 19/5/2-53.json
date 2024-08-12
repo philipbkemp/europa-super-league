@@ -283,4 +283,21 @@
 {"country":"bgr","name":"VVS Sofia","id":"VVS_Sofia","win":6,"draw":9,"loss":13,"for":26,"against":35,"isRemoved":true,"isNew":true},
 {"country":"bgr","name":"Marek Dupnitsa","id":"FC_Marek_Dupnitsa","win":3,"draw":7,"loss":18,"for":23,"against":60,"isRemoved":true,"isReturning":true},
 {"country":"bgr","name":"Unified team of VSO","id":"Bulgaria_national_football_team","win":11,"draw":0,"loss":2,"for":37,"against":8,"isRemoved":true,"note":"Results after game 13 were annulled and not recorded","isNew":true}
+][
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":19,"draw":4,"loss":7,"for":82,"against":43,"isChampion":true},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":16,"draw":8,"loss":6,"for":66,"against":42},
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":18,"draw":3,"loss":9,"for":67,"against":49},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":16,"draw":4,"loss":10,"for":64,"against":40},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":16,"draw":2,"loss":12,"for":70,"against":57},
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":14,"draw":4,"loss":12,"for":83,"against":52},
+{"country":"esp","name":"Real Gijón","id":"Sporting_de_Gijón","win":11,"draw":8,"loss":11,"for":39,"against":54},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":13,"draw":4,"loss":13,"for":65,"against":70},
+{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":12,"draw":5,"loss":13,"for":63,"against":62,"isReturning":true},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":10,"draw":8,"loss":12,"for":54,"against":61},
+{"country":"esp","name":"Real Santander","id":"Racing_de_Santander","win":11,"draw":5,"loss":14,"for":46,"against":61},
+{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":10,"draw":5,"loss":15,"for":48,"against":54},
+{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":10,"draw":5,"loss":15,"for":54,"against":69},
+{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":9,"draw":6,"loss":15,"for":49,"against":78},
+{"country":"esp","name":"Málaga","id":"CD_Málaga","win":10,"draw":2,"loss":18,"for":47,"against":69,"isRemoved":true,"isReturning":true},
+{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":6,"draw":5,"loss":19,"for":38,"against":74,"isRemoved":true}
 ]

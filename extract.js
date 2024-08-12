@@ -1,11 +1,14 @@
-country = "csk";
+country = "esp";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
 ISGROUPEDFIRST = false;
 FOUND = false;
-tbl = $("#League, #Final_table, #Final_Table, #League_table, #League_Table, #League_standings, #Final_league_table, #Standings");
+tbl = $("#League, #Final_table, #Final_Table, #League_table, #League_Table, #League_standings, #Final_league_table");
 if ( tbl.length === 1 ) { FOUND = true; }
+
+tbl2 = $("#League_table, #Championship_group, #Intermediate_group, #Relegation_group");
+if ( tbl2.length === 4 ) { FOUND = true; ADD_TABLE_STATS = [false,false,false]; console.warn("CIR"); tbl=tbl2;}
 
 
 if ( FOUND ) {

@@ -259,4 +259,21 @@
 {"country":"bgr","name":"Minyor Pernik","id":"FC_Minyor_Pernik","win":7,"draw":4,"loss":11,"for":26,"against":34},
 {"country":"bgr","name":"Akademik Sofia","id":"PFC_Akademik_Sofia","win":6,"draw":6,"loss":10,"for":19,"against":32,"isRemoved":true},
 {"country":"bgr","name":"Spartak Varna","id":"FC_Spartak_Varna","win":4,"draw":6,"loss":12,"for":16,"against":37,"isRemoved":true}
+][
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":19,"draw":5,"loss":6,"for":92,"against":43,"isChampion":true},
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":17,"draw":6,"loss":7,"for":78,"against":46},
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":16,"draw":6,"loss":8,"for":79,"against":50},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":16,"draw":5,"loss":9,"for":80,"against":57},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":15,"draw":5,"loss":10,"for":68,"against":51},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":14,"draw":4,"loss":12,"for":69,"against":57},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":14,"draw":4,"loss":12,"for":69,"against":62},
+{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":9,"draw":11,"loss":10,"for":47,"against":43},
+{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":12,"draw":3,"loss":15,"for":64,"against":66},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":11,"draw":4,"loss":15,"for":60,"against":59},
+{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":10,"draw":5,"loss":15,"for":46,"against":70},
+{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":10,"draw":5,"loss":15,"for":54,"against":73,"isReturning":true},
+{"country":"esp","name":"Real Gijón","id":"Sporting_de_Gijón","win":10,"draw":5,"loss":15,"for":49,"against":75,"isReturning":true},
+{"country":"esp","name":"Real Santander","id":"Racing_de_Santander","win":9,"draw":7,"loss":14,"for":45,"against":65},
+{"country":"esp","name":"Las Palmas","id":"UD_Las_Palmas","win":9,"draw":4,"loss":17,"for":36,"against":85,"isRemoved":true,"isNew":true},
+{"country":"esp","name":"Atlético Tetuán","id":"Atlético_Tetuán","win":7,"draw":5,"loss":18,"for":51,"against":85,"isRemoved":true,"isNew":true}
 ]

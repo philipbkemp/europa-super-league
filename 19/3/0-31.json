@@ -221,4 +221,15 @@
 {"country":"csk","name":"SK Náchod","id":"FK_Náchod","win":5,"draw":3,"loss":6,"for":24,"against":41,"isNew":true},
 {"country":"csk","name":"Teplitzer FK","id":"Teplitzer_FK","win":3,"draw":2,"loss":9,"for":36,"against":53},
 {"country":"csk","name":"Meteor Prague VIII","id":"FK_Meteor_Prague_VIII","win":0,"draw":1,"loss":13,"for":14,"against":79,"isRemoved":true,"isReturning":true}
+][
+{"country":"esp","name":"Athletic Bilbao","id":"Athletic_Bilbao","win":11,"draw":0,"loss":7,"for":73,"against":33,"isChampion":true},
+{"country":"esp","name":"Racing Santander","id":"Racing_de_Santander","win":10,"draw":2,"loss":6,"for":49,"against":37},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":10,"draw":2,"loss":6,"for":42,"against":39},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":7,"draw":7,"loss":4,"for":40,"against":43},
+{"country":"esp","name":"Arenas","id":"Arenas_Club_de_Getxo","win":8,"draw":2,"loss":8,"for":35,"against":38},
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":7,"draw":4,"loss":7,"for":24,"against":32},
+{"country":"esp","name":"Real Unión","id":"Real_Unión","win":6,"draw":4,"loss":8,"for":41,"against":45},
+{"country":"esp","name":"Alavés","id":"Deportivo_Alavés","win":5,"draw":4,"loss":9,"for":25,"against":39,"isNew":true},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":6,"draw":2,"loss":10,"for":32,"against":45},
+{"country":"esp","name":"Europa","id":"CE_Europa","win":6,"draw":1,"loss":11,"for":23,"against":38,"isRemoved":true}
 ]

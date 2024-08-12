@@ -381,4 +381,23 @@
 {"country":"tur","name":"Boluspor","id":"Boluspor","win":8,"draw":8,"loss":14,"for":23,"against":33},
 {"country":"tur","name":"İstanbulspor","id":"İstanbulspor","win":6,"draw":9,"loss":15,"for":22,"against":35,"isRemoved":true},
 {"country":"tur","name":"Karşıyaka","id":"Karşıyaka_S.K.","win":5,"draw":10,"loss":15,"for":19,"against":40,"isRemoved":true}
+][
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":19,"draw":9,"loss":6,"for":51,"against":27,"isChampion":true},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":19,"draw":7,"loss":8,"for":53,"against":30},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":17,"draw":9,"loss":8,"for":40,"against":26},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":14,"draw":11,"loss":9,"for":45,"against":28},
+{"country":"esp","name":"Las Palmas","id":"UD_Las_Palmas","win":15,"draw":8,"loss":11,"for":40,"against":36},
+{"country":"esp","name":"Granada","id":"Granada_CF","win":14,"draw":8,"loss":12,"for":40,"against":34},
+{"country":"esp","name":"Málaga","id":"CD_Málaga","win":9,"draw":17,"loss":8,"for":27,"against":31},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":14,"draw":6,"loss":14,"for":38,"against":36},
+{"country":"esp","name":"Athletic Bilbao","id":"Athletic_Bilbao","win":15,"draw":4,"loss":15,"for":39,"against":32},
+{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":10,"draw":13,"loss":11,"for":37,"against":42},
+{"country":"esp","name":"Sporting Gijón","id":"Sporting_de_Gijón","win":12,"draw":8,"loss":14,"for":41,"against":37},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":12,"draw":8,"loss":14,"for":43,"against":43},
+{"country":"esp","name":"Real Betis","id":"Real_Betis","win":10,"draw":10,"loss":14,"for":25,"against":45,"isReturning":true},
+{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":11,"draw":8,"loss":15,"for":28,"against":38,"isReturning":true},
+{"country":"esp","name":"Burgos","id":"Burgos_CF_(1936)","win":11,"draw":7,"loss":16,"for":34,"against":42,"isNew":true},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":9,"draw":9,"loss":16,"for":35,"against":45,"isRemoved":true},
+{"country":"esp","name":"Sabadell","id":"CE_Sabadell_FC","win":6,"draw":13,"loss":15,"for":32,"against":51,"isRemoved":true},
+{"country":"esp","name":"Córdoba","id":"Córdoba_CF","win":7,"draw":9,"loss":18,"for":27,"against":52,"isRemoved":true,"isReturning":true}
 ]

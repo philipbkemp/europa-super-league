@@ -315,4 +315,21 @@
 {"country":"bgr","name":"Beroe Stara Zagora","id":"PFC_Beroe_Stara_Zagora","win":3,"draw":2,"loss":6,"for":13,"against":19,"isReturning":true},
 {"country":"bgr","name":"Dunav Ruse","id":"FC_Dunav_Ruse","win":2,"draw":4,"loss":5,"for":11,"against":19,"isReturning":true},
 {"country":"bgr","name":"Cherno More Varna","id":"PFC_Cherno_More_Varna","win":3,"draw":0,"loss":8,"for":8,"against":22}
+][
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":20,"draw":5,"loss":5,"for":71,"against":26,"isChampion":true},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":16,"draw":10,"loss":4,"for":78,"against":43},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":17,"draw":4,"loss":9,"for":69,"against":38},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":13,"draw":10,"loss":7,"for":56,"against":40},
+{"country":"esp","name":"Osasuna","id":"CA_Osasuna","win":15,"draw":5,"loss":10,"for":53,"against":43},
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":14,"draw":4,"loss":12,"for":56,"against":48},
+{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":13,"draw":6,"loss":11,"for":50,"against":51},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":11,"draw":6,"loss":13,"for":48,"against":46},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":10,"draw":7,"loss":13,"for":38,"against":44},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":9,"draw":7,"loss":14,"for":45,"against":55},
+{"country":"esp","name":"Las Palmas","id":"UD_Las_Palmas","win":9,"draw":7,"loss":14,"for":34,"against":65},
+{"country":"esp","name":"Real Gijón","id":"Sporting_de_Gijón","win":10,"draw":4,"loss":16,"for":46,"against":57,"isReturning":true},
+{"country":"esp","name":"Granada","id":"Granada_CF","win":11,"draw":2,"loss":17,"for":35,"against":53,"isReturning":true},
+{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":8,"draw":8,"loss":14,"for":39,"against":52},
+{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":9,"draw":5,"loss":16,"for":45,"against":73,"isRemoved":true},
+{"country":"esp","name":"Jaén","id":"Real_Jaén","win":9,"draw":2,"loss":19,"for":29,"against":58,"isRemoved":true}
 ]

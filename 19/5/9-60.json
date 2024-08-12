@@ -349,4 +349,21 @@
 {"country":"tur","name":"Adalet","id":"Alibeyköy_S.K.","win":9,"draw":8,"loss":21,"for":26,"against":48,"isRemoved":true,"isNew":true},
 {"country":"tur","name":"Hacettepe","id":"Ankara_Keçiörengücü_S.K.","win":8,"draw":8,"loss":22,"for":42,"against":68,"isRemoved":true,"isNew":true},
 {"country":"tur","name":"Altınordu","id":"Altınordu_F.K.","win":6,"draw":8,"loss":24,"for":38,"against":69,"isRemoved":true,"isReturning":true}
+][
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":22,"draw":2,"loss":6,"for":86,"against":28,"isChampion":true},
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":21,"draw":4,"loss":5,"for":92,"against":36},
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":19,"draw":1,"loss":10,"for":74,"against":45},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":16,"draw":4,"loss":10,"for":63,"against":44},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":15,"draw":3,"loss":12,"for":59,"against":40},
+{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":13,"draw":7,"loss":10,"for":38,"against":51},
+{"country":"esp","name":"Real Betis","id":"Real_Betis","win":15,"draw":3,"loss":12,"for":42,"against":53},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":11,"draw":8,"loss":11,"for":33,"against":29},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":11,"draw":6,"loss":13,"for":37,"against":33},
+{"country":"esp","name":"Elche","id":"Elche_CF","win":11,"draw":5,"loss":14,"for":41,"against":64,"isNew":true},
+{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":10,"draw":5,"loss":15,"for":49,"against":58},
+{"country":"esp","name":"Granada","id":"Granada_CF","win":10,"draw":5,"loss":15,"for":38,"against":52},
+{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":11,"draw":3,"loss":16,"for":48,"against":61,"isReturning":true},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":10,"draw":3,"loss":17,"for":41,"against":61},
+{"country":"esp","name":"Las Palmas","id":"UD_Las_Palmas","win":8,"draw":2,"loss":20,"for":42,"against":75,"isRemoved":true},
+{"country":"esp","name":"Osasuna","id":"CA_Osasuna","win":5,"draw":3,"loss":22,"for":24,"against":77,"isRemoved":true}
 ]

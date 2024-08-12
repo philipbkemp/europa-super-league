@@ -362,4 +362,25 @@
 {"country":"tur","name":"Altay","id":"Altay_S.K.","win":10,"draw":7,"loss":17,"for":34,"against":43,"isRemoved":true},
 {"country":"tur","name":"Göztepe","id":"Göztepe_S.K.","win":7,"draw":5,"loss":22,"for":26,"against":54,"isRemoved":true,"isReturning":true},
 {"country":"tur","name":"Vanspor","id":"Vanspor","win":4,"draw":6,"loss":24,"for":38,"against":78,"isRemoved":true,"isReturning":true}
+][
+{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":21,"draw":6,"loss":11,"for":66,"against":44,"isChampion":true},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":19,"draw":7,"loss":12,"for":70,"against":46},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":18,"draw":10,"loss":10,"for":59,"against":39},
+{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":16,"draw":15,"loss":7,"for":60,"against":40},
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":16,"draw":14,"loss":8,"for":58,"against":48},
+{"country":"esp","name":"Alavés","id":"Deportivo_Alavés","win":17,"draw":10,"loss":11,"for":41,"against":37},
+{"country":"esp","name":"Celta de Vigo","id":"RC_Celta_de_Vigo","win":15,"draw":8,"loss":15,"for":45,"against":43},
+{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":14,"draw":11,"loss":13,"for":36,"against":44},
+{"country":"esp","name":"Rayo Vallecano","id":"Rayo_Vallecano","win":15,"draw":7,"loss":16,"for":51,"against":53,"isReturning":true},
+{"country":"esp","name":"Mallorca","id":"RCD_Mallorca","win":14,"draw":9,"loss":15,"for":52,"against":45},
+{"country":"esp","name":"Athletic Bilbao","id":"Athletic_Bilbao","win":12,"draw":14,"loss":12,"for":47,"against":57},
+{"country":"esp","name":"Málaga","id":"Málaga_CF","win":11,"draw":15,"loss":12,"for":55,"against":50,"isReturning":true},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":11,"draw":14,"loss":13,"for":42,"against":49},
+{"country":"esp","name":"Espanyol","id":"RCD_Espanyol","win":12,"draw":11,"loss":15,"for":51,"against":48},
+{"country":"esp","name":"Racing Santander","id":"Racing_de_Santander","win":10,"draw":16,"loss":12,"for":52,"against":50},
+{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":11,"draw":12,"loss":15,"for":44,"against":60},
+{"country":"esp","name":"Numancia","id":"CD_Numancia","win":11,"draw":12,"loss":15,"for":47,"against":59,"isNew":true},
+{"country":"esp","name":"Betis","id":"Real_Betis","win":11,"draw":9,"loss":18,"for":33,"against":56,"isRemoved":true},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":9,"draw":11,"loss":18,"for":48,"against":64,"isRemoved":true},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":5,"draw":13,"loss":20,"for":42,"against":67,"isRemoved":true,"isReturning":true}
 ]

@@ -122,4 +122,19 @@
 {"country":"tur","name":"Gençlerbirliği","id":"Gençlerbirliği_S.K.","win":4,"draw":1,"loss":9,"for":23,"against":31,"isReturning":true,"isRemoved":true},
 {"country":"tur","name":"UDV Göztepe","id":"Göztepe_S.K.","win":3,"draw":3,"loss":8,"for":12,"against":35,"isNew":true},
 {"country":"tur","name":"Altınordu","id":"Altınordu_F.K.","win":1,"draw":0,"loss":13,"for":16,"against":49,"isReturning":true,"isRemoved":true}
+][
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":18,"draw":4,"loss":4,"for":73,"against":32,"isChampion":true},
+{"country":"esp","name":"Atlético Aviación","id":"Atlético_Madrid","win":15,"draw":4,"loss":7,"for":66,"against":49},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":12,"draw":8,"loss":6,"for":60,"against":46},
+{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":12,"draw":5,"loss":9,"for":71,"against":47},
+{"country":"esp","name":"Castellón","id":"CD_Castellón","win":13,"draw":3,"loss":10,"for":42,"against":36},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":10,"draw":8,"loss":8,"for":59,"against":46},
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":11,"draw":6,"loss":9,"for":48,"against":38},
+{"country":"esp","name":"Granada","id":"Granada_CF","win":9,"draw":8,"loss":9,"for":41,"against":46},
+{"country":"esp","name":"Sabadell","id":"CE_Sabadell_FC","win":11,"draw":3,"loss":12,"for":53,"against":60,"isNew":true},
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":10,"draw":5,"loss":11,"for":47,"against":51},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":9,"draw":5,"loss":12,"for":42,"against":50},
+{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":6,"draw":7,"loss":13,"for":35,"against":64},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":5,"draw":7,"loss":14,"for":34,"against":54,"isRemoved":true,"isReturning":true},
+{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":2,"draw":5,"loss":19,"for":23,"against":75,"isRemoved":true}
 ]

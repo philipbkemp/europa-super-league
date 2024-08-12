@@ -141,4 +141,19 @@
 {"country":"tur","name":"Altınordu","id":"Altınordu_F.K.","win":3,"draw":1,"loss":10,"for":16,"against":28,"isReturning":true,"isRemoved":true,"removedNote":"League used a regional format as part of next season"},
 {"country":"tur","name":"Karşıyaka","id":"Karşıyaka_S.K.","win":1,"draw":4,"loss":9,"for":14,"against":33,"isRemoved":true,"removedNote":"League used a regional format as part of next season"},
 {"country":"tur","name":"Beykoz 1908","id":"Beykoz_S.K.D.","win":1,"draw":4,"loss":9,"for":13,"against":41,"isNew":true,"isRemoved":true,"removedNote":"League used a regional format as part of next season"}
+][
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":14,"draw":8,"loss":4,"for":53,"against":37,"isChampion":true},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":14,"draw":7,"loss":5,"for":48,"against":31},
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":14,"draw":5,"loss":7,"for":63,"against":38},
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":11,"draw":9,"loss":6,"for":46,"against":30},
+{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":10,"draw":10,"loss":6,"for":44,"against":37},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":9,"draw":10,"loss":7,"for":44,"against":36},
+{"country":"esp","name":"Atlético Aviación","id":"Atlético_Madrid","win":10,"draw":6,"loss":10,"for":50,"against":48},
+{"country":"esp","name":"Castellón","id":"CD_Castellón","win":11,"draw":4,"loss":11,"for":38,"against":54},
+{"country":"esp","name":"Real Gijón","id":"Sporting_de_Gijón","win":9,"draw":7,"loss":10,"for":37,"against":39},
+{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":9,"draw":3,"loss":14,"for":57,"against":56,"isReturning":true},
+{"country":"esp","name":"Murcia","id":"Real_Murcia_CF","win":5,"draw":10,"loss":11,"for":21,"against":39},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":6,"draw":7,"loss":13,"for":41,"against":53},
+{"country":"esp","name":"Alcoyano","id":"CD_Alcoyano","win":7,"draw":5,"loss":14,"for":39,"against":54,"isRemoved":true,"isNew":true},
+{"country":"esp","name":"Hércules","id":"Hércules_CF","win":5,"draw":5,"loss":16,"for":30,"against":59,"isRemoved":true,"isReturning":true}
 ]

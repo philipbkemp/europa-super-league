@@ -343,4 +343,25 @@
 {"country":"tur","name":"Diyarbakırspor","id":"Diyarbakırspor","win":6,"draw":9,"loss":19,"for":28,"against":54,"isRemoved":true,"isReturning":true},
 {"country":"tur","name":"Denizlispor","id":"Denizlispor","win":6,"draw":8,"loss":20,"for":30,"against":49,"isRemoved":true},
 {"country":"tur","name":"Ankaraspor","id":"Ankaraspor","win":0,"draw":0,"loss":34,"for":0,"against":102,"isRemoved":true,"note":"All games awarded to opposition after Turkish FA deemed the owners could not own two clubs in the same division"}
+][
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":31,"draw":6,"loss":1,"for":98,"against":24,"isChampion":true},
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":31,"draw":3,"loss":4,"for":102,"against":35},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":21,"draw":8,"loss":9,"for":59,"against":40},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":19,"draw":6,"loss":13,"for":65,"against":49},
+{"country":"esp","name":"Mallorca","id":"RCD_Mallorca","win":18,"draw":8,"loss":12,"for":59,"against":44},
+{"country":"esp","name":"Getafe","id":"Getafe_CF","win":17,"draw":7,"loss":14,"for":58,"against":48},
+{"country":"esp","name":"Villarreal","id":"Villarreal_CF","win":16,"draw":8,"loss":14,"for":58,"against":57},
+{"country":"esp","name":"Athletic Bilbao","id":"Athletic_Bilbao","win":15,"draw":9,"loss":14,"for":50,"against":53},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":13,"draw":8,"loss":17,"for":57,"against":61},
+{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":13,"draw":8,"loss":17,"for":35,"against":49},
+{"country":"esp","name":"Espanyol","id":"RCD_Espanyol","win":11,"draw":11,"loss":16,"for":29,"against":46},
+{"country":"esp","name":"Osasuna","id":"CA_Osasuna","win":11,"draw":10,"loss":17,"for":37,"against":46},
+{"country":"esp","name":"Almería","id":"UD_Almería","win":10,"draw":12,"loss":16,"for":43,"against":55},
+{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":10,"draw":11,"loss":17,"for":46,"against":64,"isReturning":true},
+{"country":"esp","name":"Sporting Gijón","id":"Sporting_de_Gijón","win":9,"draw":13,"loss":16,"for":36,"against":51},
+{"country":"esp","name":"Racing Santander","id":"Racing_de_Santander","win":9,"draw":12,"loss":17,"for":42,"against":59},
+{"country":"esp","name":"Málaga","id":"Málaga_CF","win":7,"draw":16,"loss":15,"for":42,"against":48},
+{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":7,"draw":15,"loss":16,"for":37,"against":62,"isRemoved":true},
+{"country":"esp","name":"Tenerife","id":"CD_Tenerife","win":9,"draw":9,"loss":20,"for":40,"against":74,"isRemoved":true,"isReturning":true},
+{"country":"esp","name":"Xerez","id":"Xerez_CD","win":8,"draw":10,"loss":20,"for":38,"against":66,"isRemoved":true,"isNew":true}
 ]

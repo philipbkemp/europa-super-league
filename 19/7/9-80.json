@@ -386,4 +386,23 @@
 {"country":"tur","name":"Göztepe A.Ş.","id":"Göztepe_S.K.","win":8,"draw":11,"loss":11,"for":27,"against":33,"isRemoved":true},
 {"country":"tur","name":"Kayserispor","id":"Kayserispor","win":6,"draw":13,"loss":11,"for":19,"against":28,"isRemoved":true,"isReturning":true},
 {"country":"tur","name":"Diyarbakırspor","id":"Diyarbakırspor","win":8,"draw":7,"loss":15,"for":21,"against":36,"isRemoved":true}
+][
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":22,"draw":9,"loss":3,"for":70,"against":33,"isChampion":true},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":19,"draw":14,"loss":1,"for":54,"against":20},
+{"country":"esp","name":"Sporting Gijón","id":"Sporting_de_Gijón","win":16,"draw":7,"loss":11,"for":47,"against":34},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":13,"draw":12,"loss":9,"for":42,"against":33},
+{"country":"esp","name":"Real Betis","id":"Real_Betis","win":12,"draw":12,"loss":10,"for":42,"against":40,"isReturning":true},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":12,"draw":12,"loss":10,"for":50,"against":42},
+{"country":"esp","name":"Athletic Bilbao","id":"Athletic_Bilbao","win":15,"draw":5,"loss":14,"for":52,"against":44},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":14,"draw":6,"loss":14,"for":50,"against":47},
+{"country":"esp","name":"Salamanca","id":"UD_Salamanca","win":13,"draw":8,"loss":13,"for":37,"against":37},
+{"country":"esp","name":"Almería","id":"AD_Almería","win":11,"draw":11,"loss":12,"for":41,"against":50,"isNew":true},
+{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":13,"draw":7,"loss":14,"for":43,"against":40},
+{"country":"esp","name":"Las Palmas","id":"UD_Las_Palmas","win":13,"draw":6,"loss":15,"for":36,"against":49},
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":10,"draw":11,"loss":13,"for":38,"against":44},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":9,"draw":12,"loss":13,"for":28,"against":37},
+{"country":"esp","name":"Hércules","id":"Hércules_CF","win":8,"draw":12,"loss":14,"for":36,"against":39},
+{"country":"esp","name":"Rayo Vallecano","id":"Rayo_Vallecano","win":9,"draw":8,"loss":17,"for":46,"against":61,"isRemoved":true},
+{"country":"esp","name":"Burgos","id":"Burgos_CF_(1936)","win":5,"draw":10,"loss":19,"for":29,"against":61,"isRemoved":true},
+{"country":"esp","name":"Málaga","id":"CD_Málaga","win":8,"draw":6,"loss":20,"for":28,"against":58,"isRemoved":true,"deduct":-3,"deductReason":"Failure to attend a match","isReturning":true}
 ]

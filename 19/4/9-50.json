@@ -290,4 +290,19 @@
 {"country":"bgr","name":"Spartak Pleven","id":"OFC_Spartak_Pleven","win":3,"draw":6,"loss":9,"for":19,"against":27,"isNew":true},
 {"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":4,"draw":2,"loss":12,"for":16,"against":29,"isRemoved":true},
 {"country":"bgr","name":"Marek Dupnitsa","id":"FC_Marek_Dupnitsa","win":2,"draw":2,"loss":14,"for":9,"against":47,"isRemoved":true}
+][
+{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":15,"draw":3,"loss":8,"for":71,"against":51,"isChampion":true},
+{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":12,"draw":8,"loss":6,"for":48,"against":38},
+{"country":"esp","name":"Valencia","id":"Valencia_CF","win":12,"draw":7,"loss":7,"for":71,"against":43},
+{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":11,"draw":9,"loss":6,"for":60,"against":49},
+{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":13,"draw":3,"loss":10,"for":67,"against":47},
+{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":12,"draw":5,"loss":9,"for":72,"against":66},
+{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":13,"draw":2,"loss":11,"for":63,"against":50},
+{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":9,"draw":9,"loss":8,"for":57,"against":43,"isReturning":true},
+{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":8,"draw":9,"loss":9,"for":49,"against":46},
+{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":11,"draw":3,"loss":12,"for":60,"against":61},
+{"country":"esp","name":"Español","id":"RCD_Espanyol","win":8,"draw":6,"loss":12,"for":42,"against":64},
+{"country":"esp","name":"Málaga","id":"CD_Málaga","win":8,"draw":5,"loss":13,"for":44,"against":51,"isNew":true},
+{"country":"esp","name":"Gimnástico","id":"Gimnàstic_de_Tarragona","win":7,"draw":2,"loss":17,"for":39,"against":99,"isRemoved":true},
+{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":4,"draw":7,"loss":15,"for":30,"against":65,"isRemoved":true}
 ]
