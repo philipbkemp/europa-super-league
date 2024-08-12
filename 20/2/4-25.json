@@ -275,7 +275,18 @@
 {"country":"lva","name":"Jelgava","id":"FS_Jelgava","win":4,"draw":4,"loss":14,"for":14,"against":47,"isCurrentSeason":true},
 {"country":"lva","name":"Liepāja","id":"FK_Liepāja","win":3,"draw":6,"loss":13,"for":16,"against":41,"isCurrentSeason":true}
 ][
-	// NIR not yet created
+{"country":"nir","name":"Carrick Rangers","id":"Carrick_Rangers_F.C.","win":1,"draw":0,"loss":0,"for":2,"against":0,"isCurrentSeason":true},
+{"country":"nir","name":"Linfield","id":"Linfield_F.C.","win":1,"draw":0,"loss":0,"for":2,"against":0,"isCurrentSeason":true},
+{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":1,"draw":0,"loss":0,"for":1,"against":0,"isCurrentSeason":true},
+{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":1,"draw":0,"loss":0,"for":1,"against":0,"isCurrentSeason":true},
+{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":0,"draw":1,"loss":0,"for":1,"against":1,"isCurrentSeason":true},
+{"country":"nir","name":"Dungannon Swifts","id":"Dungannon_Swifts_F.C.","win":0,"draw":1,"loss":0,"for":1,"against":1,"isCurrentSeason":true},
+{"country":"nir","name":"Larne","id":"Larne_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"nir","name":"Loughgall","id":"Loughgall_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":0,"draw":0,"loss":1,"for":0,"against":1,"isCurrentSeason":true},
+{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":0,"draw":0,"loss":1,"for":0,"against":1,"isCurrentSeason":true,"isReturning":true},
+{"country":"nir","name":"Ballymena United","id":"Ballymena_United_F.C.","win":0,"draw":0,"loss":1,"for":0,"against":2,"isCurrentSeason":true},
+{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":0,"draw":0,"loss":1,"for":0,"against":2,"isCurrentSeason":true}
 ][
 {"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":13,"draw":8,"loss":3,"for":28,"against":15,"isCurrentSeason":true},
 {"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":12,"draw":8,"loss":5,"for":40,"against":22,"isCurrentSeason":true},
