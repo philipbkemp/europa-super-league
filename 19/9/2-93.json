@@ -395,4 +395,21 @@
 {"country":"esp","name":"Español","id":"RCD_Espanyol","win":9,"draw":11,"loss":18,"for":40,"against":56,"isRemoved":true},
 {"country":"esp","name":"Cádiz","id":"Cádiz_CF","win":5,"draw":12,"loss":21,"for":30,"against":70,"isRemoved":true},
 {"country":"esp","name":"Real Burgos","id":"Real_Burgos_CF","win":4,"draw":14,"loss":20,"for":29,"against":69,"isRemoved":true}
+][
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":17,"draw":9,"loss":4,"for":53,"against":22,"isChampion":true},
+{"country":"alb","name":"Teuta","id":"KF_Teuta","win":15,"draw":8,"loss":7,"for":32,"against":21},
+{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":14,"draw":9,"loss":7,"for":42,"against":22},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":15,"draw":7,"loss":8,"for":44,"against":26},
+{"country":"alb","name":"Elbasani","id":"KF_Elbasani","win":12,"draw":7,"loss":11,"for":36,"against":32},
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":10,"draw":9,"loss":11,"for":32,"against":33},
+{"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":9,"draw":10,"loss":11,"for":41,"against":43},
+{"country":"alb","name":"Lushnja","id":"KF_Lushnja","win":10,"draw":8,"loss":12,"for":30,"against":35},
+{"country":"alb","name":"Albpetrol","id":"KF_Albpetrol_Patos","win":10,"draw":8,"loss":12,"for":38,"against":48,"isReturning":true},
+{"country":"alb","name":"Laçi","id":"KF_Laçi","win":11,"draw":6,"loss":13,"for":26,"against":37},
+{"country":"alb","name":"Tirana","id":"KF_Tirana","win":7,"draw":13,"loss":10,"for":24,"against":28},
+{"country":"alb","name":"Sopoti","id":"KF_Sopoti_Librazhd","win":9,"draw":9,"loss":12,"for":36,"against":41,"isNew":true},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":8,"draw":11,"loss":11,"for":28,"against":34},
+{"country":"alb","name":"Kastrioti","id":"KF_Kastrioti_Krujë","win":8,"draw":10,"loss":12,"for":29,"against":32,"isRemoved":true},
+{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":11,"draw":3,"loss":16,"for":28,"against":53,"isRemoved":true},
+{"country":"alb","name":"Pogradeci","id":"KS_Pogradeci","win":8,"draw":5,"loss":17,"for":26,"against":38,"isRemoved":true}
 ]

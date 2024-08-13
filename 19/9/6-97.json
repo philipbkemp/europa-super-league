@@ -354,4 +354,23 @@
 {"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":12,"draw":7,"loss":23,"for":50,"against":69,"isRemoved":true},
 {"country":"esp","name":"Hércules","id":"Hércules_CF","win":12,"draw":5,"loss":25,"for":40,"against":77,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Logroñés","id":"CD_Logroñés","win":9,"draw":6,"loss":27,"for":33,"against":85,"isRemoved":true,"isReturning":true}
+][
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":14,"draw":3,"loss":5,"for":42,"against":23,"deduct":-4,"deductReason":"Crowd trouble"},
+{"country":"alb","name":"Tirana","id":"KF_Tirana","win":14,"draw":4,"loss":4,"for":40,"against":9,"isChampion":true},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":14,"draw":1,"loss":7,"for":30,"against":20},
+{"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":9,"draw":4,"loss":9,"for":25,"against":26},
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":12,"draw":4,"loss":6,"for":28,"against":20},
+{"country":"alb","name":"Shkumbini","id":"KF_Shkumbini_Peqin","win":9,"draw":3,"loss":10,"for":23,"against":27},
+{"country":"alb","name":"Laçi","id":"KF_Laçi","win":7,"draw":6,"loss":9,"for":22,"against":29},
+{"country":"alb","name":"Lushnja","id":"KF_Lushnja","win":10,"draw":6,"loss":6,"for":32,"against":20,"isReturning":true},
+{"country":"alb","name":"Bylis","id":"KF_Bylis","win":7,"draw":4,"loss":10,"for":23,"against":26,"isNew":true},
+{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":7,"draw":4,"loss":11,"for":18,"against":21},
+{"country":"alb","name":"Teuta","id":"KF_Teuta","win":10,"draw":3,"loss":9,"for":23,"against":16},
+{"country":"alb","name":"Albania Tabak","id":"KF_Sopoti_Librazhd","win":10,"draw":1,"loss":11,"for":17,"against":23},
+{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":6,"draw":6,"loss":10,"for":15,"against":28},
+{"country":"alb","name":"Elbasani","id":"KF_Elbasani","win":9,"draw":2,"loss":10,"for":27,"against":28},
+{"country":"alb","name":"Shqiponja","id":"KF_Luftëtari","win":5,"draw":4,"loss":8,"for":13,"against":20},
+{"country":"alb","name":"Olimpik","id":"FC_Dinamo_City","win":7,"draw":2,"loss":12,"for":27,"against":28},
+{"country":"alb","name":"Albpetrol","id":"KF_Albpetrol_Patos","win":4,"draw":4,"loss":13,"for":15,"against":39},
+{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":7,"draw":3,"loss":11,"for":21,"against":38,"note":"Withdrew before the final phase of the season"}
 ]

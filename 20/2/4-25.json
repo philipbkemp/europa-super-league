@@ -367,4 +367,15 @@
 {"country":"esp","name":"Valencia","id":"Valencia_CF","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
 {"country":"esp","name":"Villarreal","id":"Villarreal_CF","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
+][
+{"country":"alb","name":"Bylis","id":"KF_Bylis","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
+{"country":"alb","name":"Dinamo City","id":"FC_Dinamo_City","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"alb","name":"Egnatia","id":"KF_Egnatia","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"alb","name":"Elbasani","id":"AF_Elbasani","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isNew":true},
+{"country":"alb","name":"Laçi","id":"KF_Laçi","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"alb","name":"Teuta","id":"KF_Teuta","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"alb","name":"Tirana","id":"KF_Tirana","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
 ]

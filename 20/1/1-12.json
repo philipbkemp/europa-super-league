@@ -370,4 +370,19 @@
 {"country":"esp","name":"Villarreal","id":"Villarreal_CF","win":9,"draw":14,"loss":15,"for":39,"against":53,"isRemoved":true},
 {"country":"esp","name":"Sporting Gijón","id":"Sporting_de_Gijón","win":10,"draw":7,"loss":21,"for":42,"against":69,"isRemoved":true},
 {"country":"esp","name":"Racing Santander","id":"Racing_de_Santander","win":4,"draw":15,"loss":19,"for":28,"against":63,"isRemoved":true}
+][
+{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":17,"draw":6,"loss":3,"for":45,"against":16,"isChampion":true},
+{"country":"alb","name":"Teuta","id":"KF_Teuta","win":17,"draw":5,"loss":4,"for":33,"against":18},
+{"country":"alb","name":"Tirana","id":"KF_Tirana","win":16,"draw":5,"loss":5,"for":33,"against":21},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":13,"draw":7,"loss":6,"for":42,"against":20},
+{"country":"alb","name":"Kastrioti","id":"KF_Kastrioti_Krujë","win":11,"draw":5,"loss":10,"for":37,"against":30},
+{"country":"alb","name":"Bylis","id":"KF_Bylis","win":9,"draw":8,"loss":9,"for":40,"against":37},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":10,"draw":5,"loss":11,"for":39,"against":33},
+{"country":"alb","name":"Laçi","id":"KF_Laçi","win":11,"draw":7,"loss":8,"for":26,"against":28,"deduct":-6,"deductReason":"Crowd trouble"},
+{"country":"alb","name":"Shkumbini","id":"KF_Shkumbini_Peqin","win":8,"draw":7,"loss":11,"for":37,"against":45},
+{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":8,"draw":4,"loss":14,"for":36,"against":47,"isReturning":true},
+{"country":"alb","name":"Kamza","id":"FC_Kamza","win":7,"draw":6,"loss":13,"for":22,"against":32,"isRemoved":true,"isNew":true},
+{"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":5,"draw":6,"loss":15,"for":27,"against":46,"isReturning":true},
+{"country":"alb","name":"Pogradeci","id":"KS_Pogradeci","win":6,"draw":4,"loss":16,"for":25,"against":47,"isRemoved":true,"deduct":-3,"deductReason":"Crowd trouble","isReturning":true},
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":3,"draw":7,"loss":16,"for":19,"against":41,"isRemoved":true,"deduct":-3,"deductReason":"Failing to pay wages to player"}
 ]

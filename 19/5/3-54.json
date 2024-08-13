@@ -304,4 +304,15 @@
 {"country":"esp","name":"Jaén","id":"Real_Jaén","win":11,"draw":6,"loss":13,"for":55,"against":70,"isRemoved":true,"isNew":true},
 {"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":8,"draw":6,"loss":16,"for":31,"against":53,"isRemoved":true},
 {"country":"esp","name":"Real Gijón","id":"Sporting_de_Gijón","win":7,"draw":2,"loss":21,"for":44,"against":81,"isRemoved":true}
+][
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":14,"draw":2,"loss":2,"for":41,"against":10,"isChampion":true,"isReturning":true},
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":14,"draw":1,"loss":3,"for":51,"against":16,"isReturning":true},
+{"country":"alb","name":"Puna Tiranë","id":"KF_Tirana","win":14,"draw":1,"loss":3,"for":47,"against":16,"isReturning":true},
+{"country":"alb","name":"Puna Shkodër","id":"KF_Vllaznia_Shkodër","win":11,"draw":2,"loss":5,"for":32,"against":19,"isReturning":true},
+{"country":"alb","name":"Puna Vlorë","id":"Flamurtari_FC","win":6,"draw":4,"loss":8,"for":22,"against":27,"isReturning":true},
+{"country":"alb","name":"Puna Durrës","id":"KF_Teuta","win":3,"draw":8,"loss":7,"for":13,"against":18,"isReturning":true},
+{"country":"alb","name":"Luftëtari Sh.B.O. \"Enver Hoxha\"","id":"Luftëtari_i_Sh.B.O._\"Enver_Hoxha\"","win":5,"draw":2,"loss":11,"for":18,"against":27,"isNew":true},
+{"country":"alb","name":"Puna Korçë","id":"KF_Skënderbeu_Korçë","win":5,"draw":2,"loss":11,"for":14,"against":36,"isReturning":true},
+{"country":"alb","name":"Dinamo Durrësi","id":"Dinamo_Durrësi","win":1,"draw":7,"loss":10,"for":8,"against":33,"isNew":true},
+{"country":"alb","name":"Spartaku Pogradec","id":"KS_Pogradeci","win":1,"draw":3,"loss":14,"for":13,"against":57,"isRemoved":true,"isReturning":true}
 ]

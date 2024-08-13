@@ -408,4 +408,19 @@
 {"country":"esp","name":"Las Palmas","id":"UD_Las_Palmas","win":7,"draw":11,"loss":16,"for":32,"against":55,"isRemoved":true},
 {"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":9,"draw":6,"loss":19,"for":27,"against":56,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Racing Santander","id":"Racing_de_Santander","win":9,"draw":5,"loss":20,"for":44,"against":63,"isRemoved":true}
+][
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":12,"draw":10,"loss":4,"for":39,"against":19,"isChampion":true},
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":13,"draw":8,"loss":5,"for":32,"against":17},
+{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":12,"draw":8,"loss":6,"for":38,"against":26},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":11,"draw":8,"loss":7,"for":28,"against":23},
+{"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":11,"draw":7,"loss":8,"for":25,"against":21},
+{"country":"alb","name":"Lokomotiva Durrës","id":"KF_Teuta","win":10,"draw":8,"loss":8,"for":27,"against":24},
+{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":8,"draw":9,"loss":9,"for":24,"against":21,"isReturning":true},
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":8,"draw":9,"loss":9,"for":29,"against":30},
+{"country":"alb","name":"Labinoti","id":"KF_Elbasani","win":7,"draw":10,"loss":9,"for":19,"against":28},
+{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":6,"draw":10,"loss":10,"for":15,"against":24},
+{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":6,"draw":9,"loss":11,"for":28,"against":35},
+{"country":"alb","name":"Traktori","id":"KF_Lushnja","win":6,"draw":9,"loss":11,"for":23,"against":38,"isReturning":true},
+{"country":"alb","name":"Naftëtari","id":"KF_Naftëtari","win":6,"draw":8,"loss":12,"for":23,"against":38},
+{"country":"alb","name":"Besëlidhja","id":"KF_Besëlidhja_Lezhë","win":5,"draw":9,"loss":12,"for":16,"against":22,"isRemoved":true}
 ]

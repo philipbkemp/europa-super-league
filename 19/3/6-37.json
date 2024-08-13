@@ -269,4 +269,13 @@
 {"country":"csk","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":5,"draw":4,"loss":13,"for":29,"against":48},
 {"country":"csk","name":"Rusj Užhorod","id":"SC_Rusj_Užhorod","win":3,"draw":2,"loss":17,"for":24,"against":79,"isRemoved":true,"isNew":true},
 {"country":"csk","name":"Moravská Slavia Brno","id":"SK_Moravská_Slavia_Brno","win":1,"draw":1,"loss":20,"for":19,"against":94,"isRemoved":true}
+][
+{"country":"alb","name":"Tirana","id":"KF_Tirana","win":11,"draw":3,"loss":0,"for":50,"against":8,"isChampion":true,"isReturning":true},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":10,"draw":3,"loss":1,"for":27,"against":12,"isReturning":true},
+{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":4,"draw":5,"loss":5,"for":21,"against":22,"isReturning":true},
+{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":5,"draw":4,"loss":5,"for":20,"against":18,"isReturning":true},
+{"country":"alb","name":"Durrësi","id":"KF_Teuta","win":3,"draw":5,"loss":6,"for":14,"against":19,"isReturning":true},
+{"country":"alb","name":"Dragoj","id":"KS_Pogradeci","win":4,"draw":1,"loss":9,"for":11,"against":31,"isNew":true,"isReturning":true},
+{"country":"alb","name":"Ismail Qemali","id":"Flamurtari_FC","win":3,"draw":3,"loss":8,"for":14,"against":35,"isReturning":true},
+{"country":"alb","name":"Bashkimi Elbasanas","id":"KF_Elbasani","win":3,"draw":2,"loss":9,"for":12,"against":24,"isReturning":true}
 ]

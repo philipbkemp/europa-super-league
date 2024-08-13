@@ -368,4 +368,17 @@
 {"country":"esp","name":"Deportivo de La Coruña","id":"Deportivo_de_La_Coruña","win":10,"draw":13,"loss":15,"for":31,"against":47,"isRemoved":true},
 {"country":"esp","name":"Hércules","id":"Hércules_CF","win":9,"draw":8,"loss":21,"for":36,"against":60,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Almería","id":"UD_Almería","win":6,"draw":12,"loss":20,"for":36,"against":70,"isRemoved":true}
+][
+{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":23,"draw":4,"loss":6,"for":52,"against":23,"isChampion":true},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":22,"draw":3,"loss":8,"for":62,"against":27,"deduct":-3,"deductReason":"Leaving a match before completion"},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":17,"draw":8,"loss":8,"for":41,"against":27},
+{"country":"alb","name":"Laçi","id":"KF_Laçi","win":14,"draw":5,"loss":14,"for":44,"against":44},
+{"country":"alb","name":"Tirana","id":"KF_Tirana","win":11,"draw":11,"loss":11,"for":42,"against":31},
+{"country":"alb","name":"Bylis","id":"KF_Bylis","win":13,"draw":4,"loss":16,"for":44,"against":48,"isReturning":true},
+{"country":"alb","name":"Teuta","id":"KF_Teuta","win":11,"draw":9,"loss":13,"for":38,"against":40},
+{"country":"alb","name":"Kastrioti","id":"KF_Kastrioti_Krujë","win":11,"draw":9,"loss":13,"for":40,"against":47},
+{"country":"alb","name":"Shkumbini","id":"KF_Shkumbini_Peqin","win":12,"draw":6,"loss":15,"for":43,"against":54},
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":10,"draw":9,"loss":14,"for":46,"against":50},
+{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":10,"draw":9,"loss":14,"for":35,"against":47,"isRemoved":true},
+{"country":"alb","name":"Elbasani","id":"KF_Elbasani","win":4,"draw":3,"loss":26,"for":30,"against":79,"isRemoved":true,"deduct":-3,"deductReason":"Unpaid salaries to player","isReturning":true}
 ]

@@ -397,4 +397,19 @@
 {"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":8,"draw":9,"loss":13,"for":25,"against":32,"isRemoved":true},
 {"country":"esp","name":"Mallorca","id":"RCD_Mallorca","win":7,"draw":8,"loss":15,"for":33,"against":52,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Pontevedra","id":"Pontevedra_CF","win":4,"draw":5,"loss":21,"for":20,"against":46,"isRemoved":true}
+][
+{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":19,"draw":6,"loss":1,"for":56,"against":10,"isChampion":true},
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":14,"draw":10,"loss":2,"for":51,"against":19},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":13,"draw":9,"loss":4,"for":34,"against":10},
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":14,"draw":7,"loss":5,"for":38,"against":23},
+{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":10,"draw":12,"loss":4,"for":32,"against":19},
+{"country":"alb","name":"Labinoti","id":"KF_Elbasani","win":10,"draw":7,"loss":9,"for":30,"against":25},
+{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":7,"draw":13,"loss":6,"for":21,"against":20},
+{"country":"alb","name":"Traktori","id":"KF_Lushnja","win":8,"draw":11,"loss":7,"for":23,"against":27},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":7,"draw":9,"loss":10,"for":26,"against":25},
+{"country":"alb","name":"Lokomotiva Durrës","id":"KF_Teuta","win":5,"draw":10,"loss":11,"for":17,"against":28},
+{"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":5,"draw":8,"loss":13,"for":22,"against":41},
+{"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":5,"draw":7,"loss":14,"for":24,"against":42},
+{"country":"alb","name":"Tekstilisti","id":"KF_Tekstilisti_Stalin","win":3,"draw":8,"loss":15,"for":24,"against":44,"isRemoved":true,"isReturning":true},
+{"country":"alb","name":"Naftëtari","id":"KF_Naftëtari","win":2,"draw":3,"loss":21,"for":9,"against":74,"isRemoved":true,"isReturning":true}
 ]

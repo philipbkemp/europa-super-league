@@ -401,4 +401,19 @@
 {"country":"esp","name":"Valencia","id":"Valencia_CF","win":8,"draw":9,"loss":17,"for":38,"against":62,"isRemoved":true},
 {"country":"esp","name":"Hércules","id":"Hércules_CF","win":8,"draw":6,"loss":20,"for":35,"against":62,"isRemoved":true},
 {"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":5,"draw":4,"loss":25,"for":32,"against":72,"isRemoved":true,"isReturning":true}
+][
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":16,"draw":7,"loss":3,"for":50,"against":20,"isChampion":true},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":15,"draw":8,"loss":3,"for":42,"against":20},
+{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":16,"draw":5,"loss":5,"for":57,"against":29},
+{"country":"alb","name":"Lokomotiva Durrës","id":"KF_Teuta","win":9,"draw":12,"loss":5,"for":31,"against":22},
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":11,"draw":8,"loss":7,"for":34,"against":29},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":11,"draw":7,"loss":8,"for":42,"against":29},
+{"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":9,"draw":8,"loss":9,"for":35,"against":40,"isReturning":true},
+{"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":7,"draw":8,"loss":11,"for":22,"against":34},
+{"country":"alb","name":"Traktori","id":"KF_Lushnja","win":7,"draw":8,"loss":11,"for":24,"against":43},
+{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":8,"draw":5,"loss":13,"for":31,"against":37},
+{"country":"alb","name":"Labinoti","id":"KF_Elbasani","win":8,"draw":5,"loss":13,"for":26,"against":36},
+{"country":"alb","name":"Naftëtari","id":"KF_Naftëtari","win":7,"draw":6,"loss":13,"for":32,"against":46},
+{"country":"alb","name":"Besëlidhja","id":"KF_Besëlidhja_Lezhë","win":5,"draw":9,"loss":12,"for":19,"against":26,"isRemoved":true},
+{"country":"alb","name":"Shkëndija Tiranë","id":"Shkëndija_Tiranë","win":2,"draw":6,"loss":18,"for":16,"against":49,"isRemoved":true,"isReturning":true}
 ]

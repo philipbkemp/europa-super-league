@@ -403,4 +403,21 @@
 {"country":"esp","name":"Cádiz","id":"Cádiz_CF","win":7,"draw":14,"loss":17,"for":32,"against":55},
 {"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":7,"draw":13,"loss":18,"for":31,"against":53,"isRemoved":true},
 {"country":"esp","name":"Mallorca","id":"RCD_Mallorca","win":10,"draw":7,"loss":21,"for":30,"against":49,"isRemoved":true}
+][
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":19,"draw":6,"loss":5,"for":63,"against":23,"isChampion":true},
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":14,"draw":10,"loss":6,"for":41,"against":25},
+{"country":"alb","name":"Teuta","id":"KF_Teuta","win":12,"draw":9,"loss":9,"for":30,"against":20},
+{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":13,"draw":7,"loss":10,"for":42,"against":36},
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":9,"draw":13,"loss":8,"for":32,"against":22},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":13,"draw":9,"loss":8,"for":37,"against":31,"deduct":-6},
+{"country":"alb","name":"Lushnja","id":"KF_Lushnja","win":8,"draw":13,"loss":9,"for":22,"against":26},
+{"country":"alb","name":"Tirana","id":"KF_Tirana","win":11,"draw":6,"loss":13,"for":38,"against":32},
+{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":8,"draw":12,"loss":10,"for":34,"against":31},
+{"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":11,"draw":8,"loss":11,"for":33,"against":34,"deduct":-2},
+{"country":"alb","name":"Elbasani","id":"KF_Elbasani","win":10,"draw":8,"loss":12,"for":28,"against":29},
+{"country":"alb","name":"Laçi","id":"KF_Laçi","win":8,"draw":12,"loss":10,"for":22,"against":27,"isNew":true},
+{"country":"alb","name":"Pogradeci","id":"KS_Pogradeci","win":7,"draw":13,"loss":10,"for":28,"against":39,"isReturning":true},
+{"country":"alb","name":"Kastrioti","id":"KF_Kastrioti_Krujë","win":11,"draw":5,"loss":14,"for":37,"against":56},
+{"country":"alb","name":"Selenica","id":"KF_Selenica","win":10,"draw":7,"loss":13,"for":33,"against":54,"isRemoved":true,"isNew":true},
+{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":3,"draw":8,"loss":19,"for":15,"against":50,"isRemoved":true}
 ]

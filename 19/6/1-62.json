@@ -331,4 +331,15 @@
 {"country":"esp","name":"Real Santander","id":"Racing_de_Santander","win":11,"draw":4,"loss":15,"for":35,"against":54,"isRemoved":true},
 {"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":9,"draw":5,"loss":16,"for":37,"against":49,"isRemoved":true},
 {"country":"esp","name":"Tenerife","id":"CD_Tenerife","win":6,"draw":7,"loss":17,"for":33,"against":57,"isRemoved":true,"isNew":true}
+][
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":14,"draw":2,"loss":2,"for":46,"against":13,"isChampion":true},
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":14,"draw":2,"loss":2,"for":41,"against":12},
+{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":9,"draw":5,"loss":4,"for":27,"against":18},
+{"country":"alb","name":"Labinoti","id":"KF_Elbasani","win":8,"draw":2,"loss":8,"for":23,"against":26},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":5,"draw":6,"loss":7,"for":21,"against":26},
+{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":6,"draw":3,"loss":9,"for":24,"against":26},
+{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":6,"draw":3,"loss":9,"for":17,"against":24},
+{"country":"alb","name":"Traktori","id":"KF_Lushnja","win":3,"draw":6,"loss":9,"for":16,"against":26,"isNew":true},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":4,"draw":3,"loss":11,"for":10,"against":26},
+{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":3,"draw":4,"loss":11,"for":15,"against":43}
 ]

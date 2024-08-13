@@ -380,4 +380,17 @@
 {"country":"esp","name":"Granada","id":"Granada_CF","win":8,"draw":7,"loss":15,"for":32,"against":46,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Hércules","id":"Hércules_CF","win":6,"draw":8,"loss":16,"for":32,"against":60,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":7,"draw":4,"loss":19,"for":25,"against":57,"isRemoved":true,"isReturning":true}
+][
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":17,"draw":4,"loss":1,"for":59,"against":19,"isChampion":true,"isRemoved":true,"removeNote":"League not contested next season"},
+{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":15,"draw":3,"loss":1,"for":42,"against":14,"isRemoved":true,"removeNote":"League not contested next season"},
+{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":9,"draw":8,"loss":5,"for":23,"against":15,"isRemoved":true,"removeNote":"League not contested next season"},
+{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":9,"draw":7,"loss":6,"for":24,"against":13,"isRemoved":true,"removeNote":"League not contested next season"},
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":9,"draw":7,"loss":3,"for":36,"against":18,"isRemoved":true,"removeNote":"League not contested next season"},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":10,"draw":5,"loss":7,"for":33,"against":29,"isRemoved":true,"removeNote":"League not contested next season"},
+{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":7,"draw":5,"loss":10,"for":20,"against":27,"isRemoved":true,"removeNote":"League not contested next season"},
+{"country":"alb","name":"Labinoti","id":"KF_Elbasani","win":6,"draw":5,"loss":11,"for":18,"against":30,"isRemoved":true,"removeNote":"League not contested next season"},
+{"country":"alb","name":"Lokomotiva Durrës","id":"KF_Teuta","win":3,"draw":10,"loss":9,"for":13,"against":24,"isRemoved":true,"removeNote":"League not contested next season"},
+{"country":"alb","name":"Traktori","id":"KF_Lushnja","win":4,"draw":8,"loss":10,"for":19,"against":34,"isRemoved":true,"removeNote":"League not contested next season"},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":2,"draw":8,"loss":12,"for":19,"against":38,"isRemoved":true,"removeNote":"League not contested next season"},
+{"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":2,"draw":6,"loss":14,"for":13,"against":46,"isRemoved":true,"removeNote":"League not contested next season","isReturning":true}
 ]

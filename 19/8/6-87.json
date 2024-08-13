@@ -401,4 +401,19 @@
 {"country":"esp","name":"Racing Santander","id":"Racing_de_Santander","win":12,"draw":9,"loss":23,"for":46,"against":66,"isRemoved":true},
 {"country":"esp","name":"Sabadell","id":"CE_Sabadell_FC","win":12,"draw":14,"loss":18,"for":38,"against":59,"isReturning":true},
 {"country":"esp","name":"Cádiz","id":"Cádiz_CF","win":10,"draw":9,"loss":25,"for":31,"against":59}
+][
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":15,"draw":6,"loss":5,"for":43,"against":18,"isChampion":true},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":14,"draw":8,"loss":4,"for":40,"against":21,"deduct":-3},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":12,"draw":8,"loss":6,"for":31,"against":22},
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":13,"draw":8,"loss":5,"for":36,"against":23,"deduct":-3},
+{"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":9,"draw":8,"loss":9,"for":26,"against":24},
+{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":9,"draw":10,"loss":7,"for":43,"against":29,"deduct":-3},
+{"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":7,"draw":15,"loss":4,"for":24,"against":27,"deduct":-6},
+{"country":"alb","name":"Labinoti","id":"KF_Elbasani","win":7,"draw":9,"loss":10,"for":24,"against":28},
+{"country":"alb","name":"Lokomotiva Durrës","id":"KF_Teuta","win":6,"draw":10,"loss":10,"for":22,"against":30},
+{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":4,"draw":14,"loss":8,"for":21,"against":31,"isReturning":true},
+{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":6,"draw":10,"loss":10,"for":28,"against":39},
+{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":6,"draw":9,"loss":11,"for":25,"against":28,"isReturning":true},
+{"country":"alb","name":"Naftëtari","id":"KF_Naftëtari","win":7,"draw":7,"loss":12,"for":17,"against":32,"isRemoved":true},
+{"country":"alb","name":"Traktori","id":"KF_Lushnja","win":4,"draw":4,"loss":18,"for":13,"against":41,"isRemoved":true}
 ]

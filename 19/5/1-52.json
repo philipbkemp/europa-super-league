@@ -276,4 +276,19 @@
 {"country":"esp","name":"Real Santander","id":"Racing_de_Santander","win":9,"draw":7,"loss":14,"for":45,"against":65},
 {"country":"esp","name":"Las Palmas","id":"UD_Las_Palmas","win":9,"draw":4,"loss":17,"for":36,"against":85,"isRemoved":true,"isNew":true},
 {"country":"esp","name":"Atlético Tetuán","id":"Atlético_Tetuán","win":7,"draw":5,"loss":18,"for":51,"against":85,"isRemoved":true,"isNew":true}
+][
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":24,"draw":2,"loss":0,"for":108,"against":7,"isChampion":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":24,"draw":0,"loss":2,"for":136,"against":10,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Puna Tiranë","id":"KF_Tirana","win":16,"draw":3,"loss":7,"for":61,"against":45,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Puna Shkodër","id":"KF_Vllaznia_Shkodër","win":13,"draw":8,"loss":5,"for":59,"against":23,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Puna Korçë","id":"KF_Skënderbeu_Korçë","win":12,"draw":7,"loss":7,"for":39,"against":26,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Puna Kavajë","id":"KF_Besa_Kavajë","win":14,"draw":1,"loss":11,"for":54,"against":38,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Puna Durrës","id":"KF_Teuta","win":10,"draw":6,"loss":10,"for":41,"against":55,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Puna Elbasan","id":"KF_Elbasani","win":10,"draw":4,"loss":12,"for":30,"against":31,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Puna Berat","id":"FK_Tomori_Berat","win":9,"draw":4,"loss":13,"for":34,"against":60,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Spartaku Shkodër","id":"Spartaku_Shkodër","win":7,"draw":7,"loss":12,"for":29,"against":64,"isNew":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Puna Vlorë","id":"Flamurtari_FC","win":6,"draw":3,"loss":17,"for":20,"against":59,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Puna Gjirokastër","id":"KF_Luftëtari","win":5,"draw":3,"loss":18,"for":29,"against":73,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Puna Fier","id":"FK_Apolonia_Fier","win":4,"draw":3,"loss":19,"for":18,"against":73,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Puna Qyteti Stalin","id":"KF_Naftëtari","win":2,"draw":1,"loss":23,"for":10,"against":104,"isNew":true,"isRemoved":true,"removedNote":"League contested in a group format next season"}
 ]

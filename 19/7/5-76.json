@@ -378,4 +378,17 @@
 {"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":11,"draw":5,"loss":18,"for":41,"against":45,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Granada","id":"Granada_CF","win":8,"draw":10,"loss":16,"for":29,"against":50,"isRemoved":true},
 {"country":"esp","name":"Sporting Gijón","id":"Sporting_de_Gijón","win":7,"draw":10,"loss":17,"for":41,"against":46,"isRemoved":true}
+][
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":11,"draw":6,"loss":5,"for":44,"against":22,"isChampion":true},
+{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":8,"draw":10,"loss":4,"for":29,"against":18},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":10,"draw":5,"loss":7,"for":34,"against":27},
+{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":5,"draw":13,"loss":4,"for":20,"against":18},
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":6,"draw":11,"loss":5,"for":15,"against":16},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":8,"draw":6,"loss":8,"for":17,"against":20},
+{"country":"alb","name":"Shkëndija Tiranë","id":"Shkëndija_Tiranë","win":6,"draw":8,"loss":8,"for":18,"against":18},
+{"country":"alb","name":"Labinoti","id":"KF_Elbasani","win":5,"draw":10,"loss":7,"for":17,"against":22},
+{"country":"alb","name":"Lokomotiva Durrës","id":"KF_Teuta","win":7,"draw":6,"loss":9,"for":13,"against":24},
+{"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":7,"draw":5,"loss":10,"for":19,"against":23,"isReturning":true},
+{"country":"alb","name":"Traktori","id":"KF_Lushnja","win":7,"draw":5,"loss":10,"for":17,"against":24},
+{"country":"alb","name":"Naftëtari","id":"KF_Naftëtari","win":5,"draw":9,"loss":8,"for":17,"against":28,"isRemoved":true}
 ]

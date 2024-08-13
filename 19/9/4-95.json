@@ -373,4 +373,21 @@
 {"country":"esp","name":"Sporting Gijón","id":"Sporting_de_Gijón","win":8,"draw":12,"loss":18,"for":42,"against":67},
 {"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":8,"draw":9,"loss":21,"for":25,"against":63},
 {"country":"esp","name":"Logroñés","id":"CD_Logroñés","win":2,"draw":9,"loss":27,"for":15,"against":79,"isRemoved":true}
+][
+{"country":"alb","name":"Tirana","id":"KF_Tirana","win":19,"draw":6,"loss":5,"for":57,"against":27,"isChampion":true},
+{"country":"alb","name":"Teuta","id":"KF_Teuta","win":13,"draw":6,"loss":11,"for":37,"against":27},
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":12,"draw":8,"loss":10,"for":36,"against":30},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":11,"draw":10,"loss":9,"for":34,"against":29},
+{"country":"alb","name":"Shqiponja","id":"KF_Luftëtari","win":11,"draw":9,"loss":10,"for":38,"against":33,"isReturning":true},
+{"country":"alb","name":"Albpetrol","id":"KF_Albpetrol_Patos","win":13,"draw":5,"loss":12,"for":37,"against":43},
+{"country":"alb","name":"Shkumbini","id":"KF_Shkumbini_Peqin","win":11,"draw":8,"loss":11,"for":32,"against":20,"isNew":true},
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":10,"draw":10,"loss":10,"for":37,"against":27},
+{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":12,"draw":6,"loss":12,"for":21,"against":25,"isReturning":true},
+{"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":12,"draw":6,"loss":12,"for":33,"against":38},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":12,"draw":5,"loss":13,"for":31,"against":28},
+{"country":"alb","name":"Elbasani","id":"KF_Elbasani","win":10,"draw":9,"loss":11,"for":22,"against":20},
+{"country":"alb","name":"Besëlidhja","id":"KF_Besëlidhja_Lezhë","win":11,"draw":7,"loss":12,"for":29,"against":34},
+{"country":"alb","name":"Laçi","id":"KF_Laçi","win":13,"draw":3,"loss":14,"for":30,"against":40},
+{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":12,"draw":2,"loss":16,"for":29,"against":40},
+{"country":"alb","name":"Iliria","id":"KF_Iliria_Fushë-Krujë","win":7,"draw":2,"loss":21,"for":22,"against":64,"isRemoved":true,"isNew":true}
 ]

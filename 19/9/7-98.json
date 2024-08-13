@@ -370,4 +370,23 @@
 {"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":9,"draw":13,"loss":16,"for":36,"against":51},
 {"country":"esp","name":"Mérida","id":"CP_Mérida","win":9,"draw":12,"loss":17,"for":33,"against":53,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Sporting Gijón","id":"Sporting_de_Gijón","win":2,"draw":7,"loss":29,"for":31,"against":80,"isRemoved":true}
+][
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":22,"draw":6,"loss":6,"for":42,"against":24,"isChampion":true},
+{"country":"alb","name":"Tirana","id":"KF_Tirana","win":19,"draw":8,"loss":7,"for":54,"against":19},
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":20,"draw":4,"loss":10,"for":62,"against":27},
+{"country":"alb","name":"Shkumbini","id":"KF_Shkumbini_Peqin","win":17,"draw":3,"loss":14,"for":56,"against":49},
+{"country":"alb","name":"Teuta","id":"KF_Teuta","win":17,"draw":3,"loss":14,"for":39,"against":39},
+{"country":"alb","name":"Elbasani","id":"KF_Elbasani","win":16,"draw":4,"loss":14,"for":48,"against":31},
+{"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":15,"draw":7,"loss":12,"for":38,"against":34},
+{"country":"alb","name":"Laçi","id":"KF_Laçi","win":15,"draw":3,"loss":16,"for":47,"against":49},
+{"country":"alb","name":"Lushnja","id":"KF_Lushnja","win":14,"draw":5,"loss":15,"for":54,"against":38},
+{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":15,"draw":2,"loss":17,"for":37,"against":45},
+{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":13,"draw":7,"loss":14,"for":40,"against":50},
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":12,"draw":9,"loss":13,"for":42,"against":36},
+{"country":"alb","name":"Bylis","id":"KF_Bylis","win":13,"draw":6,"loss":15,"for":41,"against":39},
+{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":13,"draw":5,"loss":16,"for":48,"against":47},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":12,"draw":7,"loss":15,"for":38,"against":41},
+{"country":"alb","name":"Shqiponja","id":"KF_Luftëtari","win":12,"draw":4,"loss":18,"for":34,"against":58,"isRemoved":true},
+{"country":"alb","name":"Sopoti","id":"KF_Sopoti_Librazhd","win":10,"draw":5,"loss":19,"for":39,"against":64,"isRemoved":true},
+{"country":"alb","name":"Albpetrol","id":"KF_Albpetrol_Patos","win":5,"draw":4,"loss":25,"for":24,"against":93,"isRemoved":true}
 ]

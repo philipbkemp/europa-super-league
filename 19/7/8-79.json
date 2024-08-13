@@ -392,4 +392,19 @@
 {"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":9,"draw":10,"loss":15,"for":35,"against":55,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Racing Santander","id":"Racing_de_Santander","win":9,"draw":4,"loss":21,"for":37,"against":63,"isRemoved":true},
 {"country":"esp","name":"Recreativo","id":"Recreativo_de_Huelva","win":8,"draw":5,"loss":21,"for":39,"against":66,"isRemoved":true,"isNew":true}
+][
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":14,"draw":8,"loss":4,"for":38,"against":20,"isChampion":true},
+{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":13,"draw":9,"loss":4,"for":41,"against":27},
+{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":11,"draw":9,"loss":6,"for":36,"against":25,"isReturning":true},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":11,"draw":8,"loss":7,"for":25,"against":20},
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":8,"draw":13,"loss":5,"for":35,"against":24},
+{"country":"alb","name":"Labinoti","id":"KF_Elbasani","win":10,"draw":8,"loss":8,"for":25,"against":22},
+{"country":"alb","name":"Lokomotiva Durrës","id":"KF_Teuta","win":6,"draw":13,"loss":7,"for":30,"against":29},
+{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":7,"draw":11,"loss":8,"for":21,"against":21},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":8,"draw":7,"loss":11,"for":37,"against":33},
+{"country":"alb","name":"Naftëtari","id":"KF_Naftëtari","win":6,"draw":11,"loss":9,"for":21,"against":36,"isReturning":true},
+{"country":"alb","name":"Shkëndija Tiranë","id":"Shkëndija_Tiranë","win":5,"draw":11,"loss":10,"for":20,"against":29},
+{"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":8,"draw":5,"loss":13,"for":21,"against":32},
+{"country":"alb","name":"Besëlidhja","id":"KF_Besëlidhja_Lezhë","win":10,"draw":0,"loss":16,"for":19,"against":38,"isRemoved":true,"isReturning":true},
+{"country":"alb","name":"Traktori","id":"KF_Lushnja","win":3,"draw":11,"loss":12,"for":19,"against":32,"isRemoved":true}
 ]

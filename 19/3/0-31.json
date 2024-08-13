@@ -232,4 +232,11 @@
 {"country":"esp","name":"Alavés","id":"Deportivo_Alavés","win":5,"draw":4,"loss":9,"for":25,"against":39,"isNew":true},
 {"country":"esp","name":"Español","id":"RCD_Espanyol","win":6,"draw":2,"loss":10,"for":32,"against":45},
 {"country":"esp","name":"Europa","id":"CE_Europa","win":6,"draw":1,"loss":11,"for":23,"against":38,"isRemoved":true}
+][
+{"country":"alb","name":"Tirana","id":"KF_Tirana","win":5,"draw":4,"loss":1,"for":17,"against":7,"isChampion":true,"isNew":true,"isRemoved":true,"removedNote":"Next season was contested in a grouped format"},
+{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":5,"draw":4,"loss":1,"for":14,"against":5,"isNew":true,"isRemoved":true,"removedNote":"Next season was contested in a grouped format"},
+{"country":"alb","name":"Bashkimi Shkodran","id":"KF_Vllaznia_Shkodër","win":4,"draw":5,"loss":1,"for":20,"against":14,"isNew":true,"isRemoved":true,"removedNote":"Next season was contested in a grouped format"},
+{"country":"alb","name":"Teuta","id":"KF_Teuta","win":3,"draw":2,"loss":5,"for":12,"against":17,"isNew":true,"isRemoved":true,"removedNote":"Next season was contested in a grouped format"},
+{"country":"alb","name":"Urani","id":"KF_Elbasani","win":3,"draw":1,"loss":6,"for":9,"against":20,"isNew":true,"isRemoved":true,"removedNote":"Next season was contested in a grouped format"},
+{"country":"alb","name":"Sportklub Vlora","id":"Flamurtari_FC","win":1,"draw":2,"loss":7,"for":4,"against":13,"isNew":true,"isRemoved":true,"removedNote":"Next season was contested in a grouped format"}
 ]

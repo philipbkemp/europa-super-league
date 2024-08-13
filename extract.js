@@ -1,4 +1,4 @@
-country = "esp";
+country = "alb";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
@@ -7,9 +7,11 @@ FOUND = false;
 tbl = $("#League, #Final_table, #Final_Table, #League_table, #League_Table, #League_standings, #Final_league_table");
 if ( tbl.length === 1 ) { FOUND = true; }
 
-tbl2 = $("#League_table, #Championship_group, #Intermediate_group, #Relegation_group");
-if ( tbl2.length === 4 ) { FOUND = true; ADD_TABLE_STATS = [false,false,false]; console.warn("CIR"); tbl=tbl2;}
+tbl2 = $("#League_table, #Championship_round, #Relegation_round");
+if ( tbl2.length === 3 ) { FOUND = true; ADD_TABLE_STATS = [false,false]; console.warn("CR"); tbl=tbl2;}
 
+tbl2 = $("#League_table, #Group_1, #Group_2, #Group_3");
+if ( tbl2.length === 4 ) { FOUND = true; ADD_TABLE_STATS = [false,false,false]; console.warn("G123"); tbl=tbl2;}
 
 if ( FOUND ) {
 	tblTotal = tbl.length;
@@ -23,7 +25,7 @@ if ( FOUND ) {
 		TYPE_HOMEAWAY = ["Pos","Team","Pld","HW","HD","HL","HGF","HGA","AW","AD","AL","AGF","AGA"]; IS_HOMEAWAY = 0;
 		TYPE_NODRAWS = ["Pos","Team","Pld","W","L","GF","GA"]; IS_NODRAWS = 0;
 		TYPE_PENALTYDRAW = ["Pos","Team","Pld","W","PKW","PKL","L","GF","GA"]; IS_PENDRAW = 0;
-		TYPE_WINBYTHREE = ["Pos","Team","Pld","W","3W","D","3L","L","GF","GA"]; IS_WINBYTHREE = 0;
+		TYPE_WINBYTHREE = ["Pos","Team","Pld","W","W3","D","L3","L","GF","GA"]; IS_WINBYTHREE = 0;
 		TYPE_GOALESS_DRAW = ["Pos","Team","Pld","W","D","0–0","L","GF","GA"]; IS_GOALESS_DRAW = 0;
 		for ( i=0; i!=TYPE_STANDARD.length; i++ ) {
 			if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_STANDARD[i] ) { IS_STANDARD++ }
@@ -133,8 +135,8 @@ if ( FOUND ) {
 							loss: parseInt($(cols[7]).text().trim()),
 							for: parseInt($(cols[8]).text().trim()),
 							against: parseInt($(cols[9]).text().trim()),
-							winByThree: parseInt($(cols[4]).text().trim()), // POL, 1986-87 to 1989-90, +1 for win by 3+ goals
-							lossByThree: parseInt($(cols[6]).text().trim()) // POL, 1986-87 to 1989-90, -1 for loss by 3+ goals
+							winByThree: parseInt($(cols[4]).text().trim()), // POL, 1986-87 to 1989-90, +1 for win by 3+ goals // Albania also used this in 89/90 2pts for win, 3pts for win+3, -1pts for loss by 3+
+							lossByThree: parseInt($(cols[6]).text().trim()) // POL, 1986-87 to 1989-90, -1 for loss by 3+ goals // Albania also used this in 89/90 2pts for win, 3pts for win+3, -1pts for loss by 3+
 						};
 					} else if ( IS_GOALESS_DRAW === TYPE_GOALESS_DRAW.length ) {
 						thisClub ={

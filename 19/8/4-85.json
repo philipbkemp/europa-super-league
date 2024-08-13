@@ -408,4 +408,19 @@
 {"country":"esp","name":"Málaga","id":"CD_Málaga","win":7,"draw":15,"loss":12,"for":23,"against":36,"isRemoved":true},
 {"country":"esp","name":"Elche","id":"Elche_CF","win":6,"draw":14,"loss":14,"for":18,"against":37,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Murcia","id":"Real_Murcia_CF","win":6,"draw":10,"loss":18,"for":24,"against":52,"isRemoved":true}
+][
+{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":15,"draw":9,"loss":2,"for":45,"against":22,"isChampion":true},
+{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":13,"draw":7,"loss":6,"for":42,"against":22},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":13,"draw":3,"loss":10,"for":33,"against":23},
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":12,"draw":5,"loss":9,"for":26,"against":19},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":8,"draw":11,"loss":7,"for":22,"against":20},
+{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":9,"draw":9,"loss":8,"for":20,"against":23},
+{"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":8,"draw":10,"loss":8,"for":24,"against":24},
+{"country":"alb","name":"Traktori","id":"KF_Lushnja","win":7,"draw":10,"loss":9,"for":15,"against":28},
+{"country":"alb","name":"Besëlidhja","id":"KF_Besëlidhja_Lezhë","win":8,"draw":8,"loss":10,"for":18,"against":32,"isReturning":true},
+{"country":"alb","name":"Lokomotiva Durrës","id":"KF_Teuta","win":7,"draw":9,"loss":10,"for":25,"against":26},
+{"country":"alb","name":"Labinoti","id":"KF_Elbasani","win":7,"draw":9,"loss":10,"for":28,"against":32},
+{"country":"alb","name":"Naftëtari","id":"KF_Naftëtari","win":6,"draw":11,"loss":9,"for":23,"against":29},
+{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":7,"draw":8,"loss":11,"for":28,"against":32,"isRemoved":true},
+{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":3,"draw":9,"loss":14,"for":15,"against":32,"isRemoved":true}
 ]

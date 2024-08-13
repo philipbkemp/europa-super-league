@@ -292,4 +292,14 @@
 {"country":"esp","name":"Sabadell","id":"CE_Sabadell_FC","win":9,"draw":3,"loss":14,"for":41,"against":62},
 {"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":8,"draw":3,"loss":15,"for":38,"against":56,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Real Gijón","id":"Sporting_de_Gijón","win":7,"draw":4,"loss":15,"for":37,"against":69,"isRemoved":true}
+][
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":14,"draw":1,"loss":1,"for":56,"against":15,"isChampion":true,"isNew":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":13,"draw":2,"loss":1,"for":63,"against":9,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Dinamo Korça","id":"KF_Skënderbeu_Korçë","win":9,"draw":6,"loss":1,"for":48,"against":16,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Ylli i Kuq Durrës","id":"KF_Teuta","win":6,"draw":3,"loss":7,"for":30,"against":25,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":5,"draw":4,"loss":7,"for":26,"against":51,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":4,"draw":2,"loss":10,"for":27,"against":48,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":3,"draw":3,"loss":10,"for":20,"against":42,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Bashkimi Elbasanas","id":"KF_Elbasani","win":2,"draw":4,"loss":10,"for":16,"against":37,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+{"country":"alb","name":"Shqiponja","id":"KF_Luftëtari","win":3,"draw":1,"loss":12,"for":12,"against":55,"isNew":true,"isRemoved":true,"removedNote":"League contested in a group format next season"}
 ]

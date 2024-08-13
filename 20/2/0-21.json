@@ -368,4 +368,15 @@
 {"country":"esp","name":"Huesca","id":"SD_Huesca","win":7,"draw":13,"loss":18,"for":34,"against":53,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":5,"draw":16,"loss":17,"for":34,"against":57,"isRemoved":true},
 {"country":"esp","name":"Eibar","id":"SD_Eibar","win":6,"draw":12,"loss":20,"for":29,"against":52,"isRemoved":true}
+][
+{"country":"alb","name":"Teuta","id":"KF_Teuta","win":17,"draw":15,"loss":4,"for":42,"against":16,"isChampion":true},
+{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":19,"draw":9,"loss":8,"for":44,"against":22},
+{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":17,"draw":14,"loss":5,"for":53,"against":23},
+{"country":"alb","name":"Laçi","id":"KF_Laçi","win":16,"draw":13,"loss":7,"for":41,"against":26},
+{"country":"alb","name":"Tirana","id":"KF_Tirana","win":15,"draw":13,"loss":8,"for":41,"against":26},
+{"country":"alb","name":"Kukësi","id":"FK_Kukësi","win":13,"draw":6,"loss":17,"for":47,"against":48},
+{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":9,"draw":10,"loss":17,"for":34,"against":55},
+{"country":"alb","name":"Kastrioti","id":"KF_Kastrioti_Krujë","win":8,"draw":11,"loss":17,"for":26,"against":44,"isReturning":true},
+{"country":"alb","name":"Bylis","id":"KF_Bylis","win":7,"draw":10,"loss":19,"for":28,"against":51,"isRemoved":true},
+{"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":4,"draw":9,"loss":23,"for":22,"against":67,"isRemoved":true,"isReturning":true}
 ]
