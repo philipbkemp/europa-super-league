@@ -4,6 +4,7 @@ const countries = {
 	"csk": "Czechoslovakia",
 	"eir": "Ireland",
 	"eng": "England",
+	"esp": "Spain",
 	"dnk": "Denmark",
 	"hun": "Hungary",
 	"irl": "Republic of Ireland",
@@ -20,8 +21,8 @@ const countries = {
 	"yug": "Yugoslavia"
 };
 
-clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc","knattspyrnufelagio_vikingur","sliema_wanderers_fc","ac_sparta_prague"];
-clubPages = ["knattspyrnufelag_reykjavikur"];
+clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc","knattspyrnufelagio_vikingur","sliema_wanderers_fc","ac_sparta_prague","knattspyrnufelag_reykjavikur"];
+//clubPages = ["knattspyrnufelag_reykjavikur"];
 
 if ( $("h1 .placeholder").length !== 0 ) {
 

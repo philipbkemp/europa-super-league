@@ -39,15 +39,19 @@ h1 span { font-weight: normal; font-size: 2rem; }
 #divisionsTables tbody th img,
 #historyTables tbody th img,
 .newclubs tbody th img { height: 16px; float: right; position: relative; top: 3px; right: 5px; margin-left: 5px; cursor: help; width: 16px; }
-#club-winners tbody th,
-#country-winners tbody th { width: 500px; }
+#club-winners thead tr th,
+#country-winners thead tr th { width: 50px; }
+#club-winners thead tr th:nth-of-type(3),
+#country-winners thead tr th:nth-of-type(3) { width: calc( 100% - 50px - 50px - 50px - 670px); }
+#club-winners tbody tr td:last-of-type a,
+#country-winners tbody tr td:last-of-type a { display: inline-block; white-space: nowrap; }
+#club-winners thead tr th:last-of-type,
+#country-winners thead tr th:last-of-type { width: 670px; }
 #divisionsTables tbody th { font-weight: normal; }
 #divisionsTables tbody th a { font-weight: bold; }
 tbody th a { color: #2b5873 !important; width: 100%; display: block; }
 #divisionsTables tbody th a { display: inline-block; width: 75%; }
 tbody th a:hover { color: #0000d6 !important; }
-#club-winners tbody td:nth-of-type(4),
-#country-winners tbody td:nth-of-type(4) { width: calc( 100% - 500px - 50px - 50px - 50px); }
 .tab-pane { margin-bottom: 50px; }
 em { font-style: normal; color: #680202; }
 .league-flags .defunct { opacity: 0.25; }
