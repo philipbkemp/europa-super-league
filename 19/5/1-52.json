@@ -291,4 +291,15 @@
 {"country":"alb","name":"Puna Gjirokastër","id":"KF_Luftëtari","win":5,"draw":3,"loss":18,"for":29,"against":73,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
 {"country":"alb","name":"Puna Fier","id":"FK_Apolonia_Fier","win":4,"draw":3,"loss":19,"for":18,"against":73,"isRemoved":true,"removedNote":"League contested in a group format next season"},
 {"country":"alb","name":"Puna Qyteti Stalin","id":"KF_Naftëtari","win":2,"draw":1,"loss":23,"for":10,"against":104,"isNew":true,"isRemoved":true,"removedNote":"League contested in a group format next season"}
+][
+{"country":"fin","name":"KTP Kotka","id":"Kotkan_Työväen_Palloilijat","win":10,"draw":7,"loss":1,"for":44,"against":26,"isChampion":true},
+{"country":"fin","name":"VIFK Vaasa","id":"Vasa_IFK","win":10,"draw":6,"loss":2,"for":45,"against":24},
+{"country":"fin","name":"TPK Turku","id":"Turun_Pallokerho","win":8,"draw":7,"loss":3,"for":40,"against":25,"isNew":true},
+{"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":7,"draw":5,"loss":6,"for":38,"against":32},
+{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":8,"draw":2,"loss":8,"for":38,"against":35},
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":7,"draw":4,"loss":7,"for":41,"against":41},
+{"country":"fin","name":"KIF Helsinki","id":"FC_Kiffen_08","win":8,"draw":2,"loss":8,"for":40,"against":42},
+{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":5,"draw":7,"loss":6,"for":34,"against":31},
+{"country":"fin","name":"Sudet Helsinki","id":"Sudet","win":3,"draw":3,"loss":12,"for":18,"against":52,"isRemoved":true,"isReturning":true},
+{"country":"fin","name":"IKissat Tampere","id":"Ilves_(football)","win":1,"draw":3,"loss":14,"for":17,"against":47,"isRemoved":true}
 ]

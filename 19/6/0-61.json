@@ -372,4 +372,17 @@
 {"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":4,"draw":4,"loss":10,"for":18,"against":34,"isReturning":true},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":4,"draw":4,"loss":10,"for":11,"against":30},
 {"country":"alb","name":"Lokomotiva Durrës","id":"KF_Teuta","win":3,"draw":4,"loss":11,"for":11,"against":26,"isRemoved":true,"isReturning":true}
+][
+{"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":20,"draw":1,"loss":1,"for":78,"against":23,"isChampion":true},
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":13,"draw":2,"loss":7,"for":72,"against":43},
+{"country":"fin","name":"KIF Helsinki","id":"FC_Kiffen_08","win":12,"draw":3,"loss":7,"for":51,"against":41,"isReturning":true},
+{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":10,"draw":6,"loss":6,"for":51,"against":38},
+{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":9,"draw":5,"loss":8,"for":57,"against":43},
+{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":8,"draw":7,"loss":7,"for":47,"against":47},
+{"country":"fin","name":"PPojat Helsinki","id":"Pallo-Pojat_Juniorit","win":10,"draw":3,"loss":9,"for":41,"against":47},
+{"country":"fin","name":"VIFK Vaasa","id":"Vasa_IFK","win":7,"draw":5,"loss":10,"for":41,"against":49},
+{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":5,"draw":8,"loss":9,"for":44,"against":51},
+{"country":"fin","name":"RU-38 Pori","id":"RU-38_(football)","win":6,"draw":5,"loss":11,"for":31,"against":45,"isRemoved":true},
+{"country":"fin","name":"TKT Tampere","id":"TKT_Tampere","win":4,"draw":2,"loss":16,"for":35,"against":82,"isRemoved":true,"isNew":true},
+{"country":"fin","name":"Drott Pietarsaari","id":"IF_Drott","win":2,"draw":5,"loss":15,"for":26,"against":65,"isRemoved":true,"isReturning":true}
 ]

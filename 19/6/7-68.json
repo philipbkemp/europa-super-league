@@ -386,4 +386,17 @@
 {"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":9,"draw":6,"loss":15,"for":38,"against":43,"isReturning":true},
 {"country":"esp","name":"Real Betis","id":"Real_Betis","win":8,"draw":4,"loss":18,"for":30,"against":58,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":6,"draw":8,"loss":16,"for":31,"against":56,"isRemoved":true}
+][
+{"country":"fin","name":"Reipas Lahti","id":"Reipas_Lahti","win":14,"draw":4,"loss":4,"for":55,"against":27,"isChampion":true},
+{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":12,"draw":6,"loss":4,"for":28,"against":17},
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":13,"draw":2,"loss":7,"for":51,"against":28},
+{"country":"fin","name":"Upon Pallo Lahti","id":"FC_Kuusysi","win":10,"draw":6,"loss":6,"for":29,"against":19,"isReturning":true},
+{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":11,"draw":3,"loss":8,"for":59,"against":38},
+{"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":9,"draw":6,"loss":7,"for":37,"against":23},
+{"country":"fin","name":"KTP Kotka","id":"Kotkan_Työväen_Palloilijat","win":7,"draw":6,"loss":9,"for":32,"against":34},
+{"country":"fin","name":"KPV Kokkola","id":"Kokkolan_Palloveikot","win":5,"draw":9,"loss":8,"for":19,"against":25,"isNew":true},
+{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":5,"draw":9,"loss":8,"for":27,"against":43},
+{"country":"fin","name":"MP Mikkeli","id":"Mikkelin_Palloilijat","win":5,"draw":7,"loss":10,"for":24,"against":42},
+{"country":"fin","name":"ÅIFK Turku","id":"Åbo_IFK","win":5,"draw":5,"loss":12,"for":32,"against":43,"isRemoved":true,"isReturning":true},
+{"country":"fin","name":"Ilves-Kissat Tampere","id":"Tampereen-Viipurin_Ilves-Kissat","win":4,"draw":1,"loss":17,"for":19,"against":73,"isRemoved":true}
 ]

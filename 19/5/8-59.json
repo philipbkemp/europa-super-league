@@ -337,4 +337,15 @@
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":3,"draw":5,"loss":6,"for":14,"against":22,"isReturning":true},
 {"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":3,"draw":4,"loss":7,"for":11,"against":21},
 {"country":"alb","name":"Lokomotiva Durrës","id":"KF_Teuta","win":3,"draw":3,"loss":8,"for":11,"against":20,"isRemoved":true}
+][
+{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":13,"draw":0,"loss":5,"for":40,"against":22,"isChampion":true},
+{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":11,"draw":4,"loss":3,"for":38,"against":26},
+{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":10,"draw":1,"loss":7,"for":36,"against":32,"isReturning":true},
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":9,"draw":2,"loss":7,"for":47,"against":34},
+{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":9,"draw":2,"loss":7,"for":45,"against":34},
+{"country":"fin","name":"VIFK Vaasa","id":"Vasa_IFK","win":7,"draw":3,"loss":8,"for":36,"against":35,"isReturning":true},
+{"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":6,"draw":4,"loss":8,"for":28,"against":27},
+{"country":"fin","name":"IKissat Tampere","id":"Ilves_(football)","win":7,"draw":2,"loss":9,"for":33,"against":41,"isRemoved":true},
+{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":3,"draw":4,"loss":11,"for":24,"against":48,"isRemoved":true},
+{"country":"fin","name":"KTP Kotka","id":"Kotkan_Työväen_Palloilijat","win":3,"draw":2,"loss":13,"for":27,"against":55,"isRemoved":true}
 ]

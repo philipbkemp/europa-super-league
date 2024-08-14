@@ -370,4 +370,17 @@
 {"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":12,"draw":10,"loss":14,"for":42,"against":34,"deduct":-6,"deductReason":"Failing to fulfil financial obligations"},
 {"country":"alb","name":"Tirana","id":"KF_Tirana","win":8,"draw":15,"loss":13,"for":29,"against":32,"isRemoved":true},
 {"country":"alb","name":"Korabi","id":"KF_Korabi_Peshkopi","win":2,"draw":7,"loss":27,"for":11,"against":68,"isRemoved":true,"isReturning":true}
+][
+{"country":"fin","name":"IFK Mariehamn","id":"IFK_Mariehamn","win":17,"draw":10,"loss":6,"for":40,"against":25,"isChampion":true},
+{"country":"fin","name":"HJK","id":"Helsingin_Jalkapalloklubi","win":16,"draw":10,"loss":7,"for":52,"against":36},
+{"country":"fin","name":"SJK","id":"Seinäjoen_Jalkapallokerho","win":17,"draw":6,"loss":10,"for":49,"against":36},
+{"country":"fin","name":"VPS","id":"Vaasan_Palloseura","win":15,"draw":8,"loss":10,"for":36,"against":27},
+{"country":"fin","name":"Ilves","id":"Ilves_(football)","win":15,"draw":7,"loss":11,"for":36,"against":35},
+{"country":"fin","name":"RoPS","id":"Rovaniemen_Palloseura","win":13,"draw":11,"loss":9,"for":43,"against":33},
+{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":14,"draw":7,"loss":12,"for":37,"against":31},
+{"country":"fin","name":"Lahti","id":"FC_Lahti","win":10,"draw":12,"loss":11,"for":42,"against":43},
+{"country":"fin","name":"PS Kemi Kings","id":"Kemi_City_F.C.","win":10,"draw":5,"loss":18,"for":29,"against":48,"isReturning":true},
+{"country":"fin","name":"HIFK","id":"HIFK_Fotboll","win":8,"draw":10,"loss":15,"for":35,"against":39},
+{"country":"fin","name":"Inter Turku","id":"FC_Inter_Turku","win":7,"draw":11,"loss":15,"for":28,"against":41},
+{"country":"fin","name":"PK-35 Vantaa","id":"PK-35_Vantaa_(men)","win":4,"draw":7,"loss":22,"for":32,"against":65,"isRemoved":true,"deduct":-6,"deductReason":"Overdue debts","isReturning":true}
 ]

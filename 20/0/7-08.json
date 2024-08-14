@@ -382,4 +382,19 @@
 {"country":"alb","name":"Kastrioti","id":"KF_Kastrioti_Krujë","win":10,"draw":5,"loss":18,"for":24,"against":43,"isRemoved":true},
 {"country":"alb","name":"Besëlidhja","id":"KF_Besëlidhja_Lezhë","win":9,"draw":7,"loss":17,"for":31,"against":52,"isRemoved":true,"isReturning":true},
 {"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":3,"draw":2,"loss":28,"for":26,"against":80,"isRemoved":true,"isReturning":true}
+][
+{"country":"fin","name":"Tampere United","id":"Tampere_United","win":16,"draw":6,"loss":4,"for":45,"against":27,"isChampion":true},
+{"country":"fin","name":"FC Haka","id":"FC_Haka","win":13,"draw":7,"loss":6,"for":39,"against":23},
+{"country":"fin","name":"TPS","id":"Turun_Palloseura","win":13,"draw":4,"loss":9,"for":43,"against":33},
+{"country":"fin","name":"FC Honka","id":"FC_Honka","win":10,"draw":11,"loss":5,"for":34,"against":25},
+{"country":"fin","name":"MyPa","id":"Myllykosken_Pallo_−47","win":11,"draw":7,"loss":8,"for":29,"against":26},
+{"country":"fin","name":"IFK Mariehamn","id":"IFK_Mariehamn","win":9,"draw":10,"loss":7,"for":31,"against":30},
+{"country":"fin","name":"HJK","id":"Helsingin_Jalkapalloklubi","win":7,"draw":13,"loss":6,"for":31,"against":25},
+{"country":"fin","name":"FC Lahti","id":"FC_Lahti","win":9,"draw":6,"loss":11,"for":38,"against":34},
+{"country":"fin","name":"FC Inter","id":"FC_Inter_Turku","win":9,"draw":6,"loss":11,"for":32,"against":28},
+{"country":"fin","name":"VPS","id":"Vaasan_Palloseura","win":7,"draw":11,"loss":8,"for":26,"against":35},
+{"country":"fin","name":"FF Jaro","id":"FF_Jaro","win":7,"draw":7,"loss":12,"for":30,"against":41},
+{"country":"fin","name":"FC KooTeePee","id":"FC_KooTeePee","win":7,"draw":5,"loss":14,"for":27,"against":38},
+{"country":"fin","name":"FC Viikingit","id":"FC_Viikingit","win":5,"draw":8,"loss":13,"for":25,"against":44,"isRemoved":true,"isNew":true},
+{"country":"fin","name":"AC Oulu","id":"AC_Oulu","win":5,"draw":7,"loss":14,"for":28,"against":49,"isRemoved":true,"isNew":true}
 ]

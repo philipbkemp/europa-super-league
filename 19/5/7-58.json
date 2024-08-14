@@ -341,4 +341,15 @@
 {"country":"alb","name":"Puna Durrës","id":"KF_Teuta","win":5,"draw":1,"loss":8,"for":25,"against":23},
 {"country":"alb","name":"Puna Kavajë","id":"KF_Besa_Kavajë","win":3,"draw":2,"loss":9,"for":16,"against":35},
 {"country":"alb","name":"Spartaku Tiranë","id":"KF_Spartak_Tirana","win":0,"draw":2,"loss":12,"for":6,"against":34,"isRemoved":true,"isReturning":true}
+][
+{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":11,"draw":4,"loss":3,"for":49,"against":27,"isChampion":true},
+{"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":11,"draw":3,"loss":4,"for":46,"against":20},
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":7,"draw":7,"loss":4,"for":45,"against":37,"isReturning":true},
+{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":8,"draw":3,"loss":7,"for":28,"against":34},
+{"country":"fin","name":"IKissat Tampere","id":"Ilves_(football)","win":7,"draw":4,"loss":7,"for":50,"against":34},
+{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":5,"draw":8,"loss":5,"for":26,"against":26},
+{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":6,"draw":4,"loss":8,"for":21,"against":30},
+{"country":"fin","name":"KTP Kotka","id":"Kotkan_Työväen_Palloilijat","win":5,"draw":5,"loss":8,"for":28,"against":31},
+{"country":"fin","name":"KIF Helsinki","id":"FC_Kiffen_08","win":5,"draw":4,"loss":9,"for":28,"against":36,"isRemoved":true},
+{"country":"fin","name":"KoRe Kotka","id":"Kotkan_Reipas","win":2,"draw":4,"loss":12,"for":21,"against":67,"isRemoved":true,"isReturning":true}
 ]

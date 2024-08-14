@@ -287,4 +287,13 @@
 {"country":"alb","name":"Kavaja","id":"KF_Besa_Kavajë","win":3,"draw":3,"loss":6,"for":14,"against":20,"isRemoved":true,"removedNote":"League not contested next season"},
 {"country":"alb","name":"Bashkimi Elbasanas","id":"KF_Elbasani","win":2,"draw":2,"loss":8,"for":12,"against":36,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 {"country":"alb","name":"Sportklub Vlora","id":"Flamurtari_FC","win":0,"draw":1,"loss":11,"for":4,"against":48,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"}
+][
+{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":10,"draw":4,"loss":0,"for":40,"against":9,"isChampion":true},
+{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":11,"draw":1,"loss":2,"for":53,"against":21},
+{"country":"fin","name":"HT Helsinki","id":"Toverit_Helsinki","win":6,"draw":3,"loss":5,"for":27,"against":19,"isReturning":true},
+{"country":"fin","name":"Sudet Viipuri","id":"Sudet","win":6,"draw":3,"loss":5,"for":25,"against":25},
+{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":5,"draw":4,"loss":5,"for":23,"against":18},
+{"country":"fin","name":"ÅIFK Turku","id":"Åbo_IFK","win":4,"draw":3,"loss":7,"for":20,"against":41},
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":4,"draw":2,"loss":8,"for":32,"against":49,"isRemoved":true},
+{"country":"fin","name":"UL Turku","id":"Turun_Urheiluliitto","win":0,"draw":0,"loss":14,"for":9,"against":47,"isRemoved":true,"isNew":true}
 ]

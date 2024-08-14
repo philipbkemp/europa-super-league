@@ -244,4 +244,13 @@
 {"country":"alb","name":"Teuta","id":"KF_Teuta","win":5,"draw":1,"loss":2,"for":25,"against":11,"isReturning":true},
 {"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":2,"draw":1,"loss":5,"for":14,"against":13,"isReturning":true},
 {"country":"alb","name":"Elbasani","id":"KF_Elbasani","win":0,"draw":0,"loss":8,"for":4,"against":51,"isReturning":true,"isRemoved":true}
+][
+{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":8,"draw":4,"loss":2,"for":49,"against":26,"isChampion":true},
+{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":8,"draw":3,"loss":3,"for":51,"against":35},
+{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":7,"draw":3,"loss":4,"for":44,"against":26},
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":6,"draw":3,"loss":5,"for":37,"against":29},
+{"country":"fin","name":"Sudet Viipuri","id":"Sudet","win":6,"draw":1,"loss":7,"for":32,"against":36},
+{"country":"fin","name":"ÅIFK Turku","id":"Åbo_IFK","win":5,"draw":0,"loss":9,"for":20,"against":45,"isReturning":true},
+{"country":"fin","name":"Toverit Helsinki","id":"Toverit_Helsinki","win":4,"draw":1,"loss":9,"for":27,"against":44,"isRemoved":true,"isNew":true},
+{"country":"fin","name":"KIF Helsinki","id":"FC_Kiffen_08","win":4,"draw":1,"loss":9,"for":22,"against":41,"isRemoved":true}
 ]

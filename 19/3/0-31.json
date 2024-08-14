@@ -239,4 +239,13 @@
 {"country":"alb","name":"Teuta","id":"KF_Teuta","win":3,"draw":2,"loss":5,"for":12,"against":17,"isNew":true,"isRemoved":true,"removedNote":"Next season was contested in a grouped format"},
 {"country":"alb","name":"Urani","id":"KF_Elbasani","win":3,"draw":1,"loss":6,"for":9,"against":20,"isNew":true,"isRemoved":true,"removedNote":"Next season was contested in a grouped format"},
 {"country":"alb","name":"Sportklub Vlora","id":"Flamurtari_FC","win":1,"draw":2,"loss":7,"for":4,"against":13,"isNew":true,"isRemoved":true,"removedNote":"Next season was contested in a grouped format"}
+][
+{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":5,"draw":2,"loss":0,"for":22,"against":7,"isChampion":true,"isNew":true},
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":5,"draw":2,"loss":0,"for":25,"against":12,"isNew":true},
+{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":4,"draw":1,"loss":2,"for":26,"against":17,"isNew":true},
+{"country":"fin","name":"ViPS Viipuri","id":"ViPS_Viipuri","win":3,"draw":1,"loss":3,"for":20,"against":16,"isNew":true},
+{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":2,"draw":3,"loss":2,"for":23,"against":27,"isNew":true},
+{"country":"fin","name":"KIF Helsinki","id":"FC_Kiffen_08","win":2,"draw":2,"loss":3,"for":17,"against":18,"isNew":true},
+{"country":"fin","name":"Stjärnan Helsinki","id":"Makkabi_Helsinki","win":0,"draw":2,"loss":5,"for":9,"against":35,"isRemoved":true,"isNew":true},
+{"country":"fin","name":"ÅIFK Turku","id":"Åbo_IFK","win":0,"draw":1,"loss":6,"for":9,"against":19,"isRemoved":true,"isNew":true}
 ]

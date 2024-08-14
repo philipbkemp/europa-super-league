@@ -378,4 +378,17 @@
 {"country":"alb","name":"Teuta","id":"KF_Teuta","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"alb","name":"Tirana","id":"KF_Tirana","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
+][
+{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":11,"draw":5,"loss":3,"for":34,"against":20,"isCurrentSeason":true},
+{"country":"fin","name":"Ilves","id":"Ilves_(football)","win":10,"draw":5,"loss":4,"for":39,"against":23,"isCurrentSeason":true},
+{"country":"fin","name":"SJK","id":"Seinäjoen_Jalkapallokerho","win":10,"draw":5,"loss":4,"for":39,"against":28,"isCurrentSeason":true},
+{"country":"fin","name":"HJK","id":"Helsingin_Jalkapalloklubi","win":10,"draw":4,"loss":5,"for":34,"against":20,"isCurrentSeason":true},
+{"country":"fin","name":"Haka","id":"FC_Haka","win":9,"draw":4,"loss":6,"for":31,"against":28,"isCurrentSeason":true},
+{"country":"fin","name":"VPS","id":"Vaasan_Palloseura","win":8,"draw":4,"loss":7,"for":30,"against":31,"isCurrentSeason":true},
+{"country":"fin","name":"Inter Turku","id":"FC_Inter_Turku","win":7,"draw":4,"loss":8,"for":33,"against":27,"isCurrentSeason":true},
+{"country":"fin","name":"Oulu","id":"AC_Oulu","win":5,"draw":6,"loss":8,"for":25,"against":31,"isCurrentSeason":true},
+{"country":"fin","name":"Gnistan","id":"IF_Gnistan","win":5,"draw":5,"loss":8,"for":26,"against":32,"isCurrentSeason":true,"isNew":true},
+{"country":"fin","name":"Lahti","id":"FC_Lahti","win":3,"draw":7,"loss":9,"for":25,"against":37,"isCurrentSeason":true},
+{"country":"fin","name":"Mariehamn","id":"IFK_Mariehamn","win":4,"draw":4,"loss":10,"for":17,"against":32,"isCurrentSeason":true},
+{"country":"fin","name":"EIF","id":"Ekenäs_IF","win":3,"draw":3,"loss":13,"for":18,"against":42,"isCurrentSeason":true,"isReturning":true}
 ]

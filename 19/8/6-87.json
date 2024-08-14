@@ -416,4 +416,17 @@
 {"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":6,"draw":9,"loss":11,"for":25,"against":28,"isReturning":true},
 {"country":"alb","name":"Naftëtari","id":"KF_Naftëtari","win":7,"draw":7,"loss":12,"for":17,"against":32,"isRemoved":true},
 {"country":"alb","name":"Traktori","id":"KF_Lushnja","win":4,"draw":4,"loss":18,"for":13,"against":41,"isRemoved":true}
+][
+{"country":"fin","name":"Kuusysi Lahti","id":"FC_Kuusysi","win":13,"draw":6,"loss":3,"for":40,"against":20,"isChampion":true},
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":12,"draw":6,"loss":4,"for":35,"against":15},
+{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":10,"draw":10,"loss":2,"for":42,"against":23},
+{"country":"fin","name":"RoPS Rovaniemi","id":"Rovaniemen_Palloseura","win":12,"draw":6,"loss":4,"for":32,"against":14},
+{"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":8,"draw":6,"loss":8,"for":32,"against":27},
+{"country":"fin","name":"Ilves Tampere","id":"Ilves_(football)","win":9,"draw":4,"loss":9,"for":39,"against":36},
+{"country":"fin","name":"MP Mikkeli","id":"Mikkelin_Palloilijat","win":6,"draw":6,"loss":10,"for":27,"against":37,"isReturning":true},
+{"country":"fin","name":"PPT Pori","id":"FC_Jazz","win":5,"draw":8,"loss":9,"for":27,"against":40},
+{"country":"fin","name":"Koparit Kuopio","id":"Koparit","win":4,"draw":10,"loss":8,"for":18,"against":32},
+{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":7,"draw":4,"loss":11,"for":23,"against":38},
+{"country":"fin","name":"KePS Kemi","id":"Kemi_City_F.C.","win":4,"draw":7,"loss":11,"for":23,"against":31},
+{"country":"fin","name":"OTP Oulu","id":"Oulun_Työväen_Palloilijat","win":4,"draw":3,"loss":15,"for":16,"against":41,"isRemoved":true}
 ]

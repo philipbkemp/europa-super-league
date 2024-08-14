@@ -264,4 +264,13 @@
 {"country":"tur","name":"Harp Okulu","id":"harp_okulu","win":5,"draw":1,"loss":8,"for":22,"against":24,"isNew":true,"isRemoved":true},
 {"country":"tur","name":"Alsancak","id":"Altay_S.K.","win":4,"draw":0,"loss":10,"for":19,"against":37,"deduct":-1,"isNew":true,"isRemoved":true},
 {"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":1,"draw":2,"loss":11,"for":12,"against":7}
+][
+{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":8,"draw":4,"loss":2,"for":43,"against":24,"isChampion":true},
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":7,"draw":2,"loss":5,"for":37,"against":25},
+{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":7,"draw":2,"loss":5,"for":30,"against":22,"isReturning":true},
+{"country":"fin","name":"HT Helsinki","id":"Toverit_Helsinki","win":7,"draw":2,"loss":5,"for":28,"against":28},
+{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":6,"draw":2,"loss":6,"for":22,"against":33},
+{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":4,"draw":3,"loss":7,"for":27,"against":31},
+{"country":"fin","name":"KPT Kuopio","id":"Koparit","win":4,"draw":3,"loss":7,"for":21,"against":41,"isNew":true},
+{"country":"fin","name":"Sudet Viipuri","id":"Sudet","win":4,"draw":0,"loss":10,"for":26,"against":30,"isRemoved":true}
 ]

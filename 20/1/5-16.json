@@ -366,4 +366,17 @@
 {"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":9,"draw":11,"loss":16,"for":34,"against":44,"deduct":-3},
 {"country":"alb","name":"Bylis","id":"KF_Bylis","win":8,"draw":8,"loss":20,"for":27,"against":53,"isRemoved":true,"isReturning":true},
 {"country":"alb","name":"Tërbuni","id":"KF_Tërbuni_Pukë","win":4,"draw":6,"loss":26,"for":22,"against":81,"isRemoved":true,"isNew":true}
+][
+{"country":"fin","name":"SJK","id":"Seinäjoen_Jalkapallokerho","win":18,"draw":6,"loss":9,"for":50,"against":22,"isChampion":true},
+{"country":"fin","name":"RoPS","id":"Rovaniemen_Palloseura","win":17,"draw":8,"loss":8,"for":44,"against":29},
+{"country":"fin","name":"HJK","id":"Helsingin_Jalkapalloklubi","win":16,"draw":10,"loss":7,"for":45,"against":30},
+{"country":"fin","name":"Inter Turku","id":"FC_Inter_Turku","win":13,"draw":10,"loss":10,"for":45,"against":34},
+{"country":"fin","name":"Lahti","id":"FC_Lahti","win":12,"draw":12,"loss":9,"for":38,"against":36},
+{"country":"fin","name":"IFK Mariehamn","id":"IFK_Mariehamn","win":11,"draw":12,"loss":10,"for":30,"against":36},
+{"country":"fin","name":"HIFK","id":"HIFK_Fotboll","win":10,"draw":13,"loss":10,"for":42,"against":42,"isReturning":true},
+{"country":"fin","name":"Ilves","id":"Ilves_(football)","win":11,"draw":7,"loss":15,"for":32,"against":48,"isReturning":true},
+{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":9,"draw":11,"loss":13,"for":32,"against":40},
+{"country":"fin","name":"VPS","id":"Vaasan_Palloseura","win":8,"draw":9,"loss":16,"for":36,"against":43},
+{"country":"fin","name":"KTP","id":"Kotkan_Työväen_Palloilijat","win":7,"draw":11,"loss":15,"for":27,"against":44,"isRemoved":true,"isReturning":true},
+{"country":"fin","name":"Jaro","id":"FF_Jaro","win":6,"draw":11,"loss":16,"for":27,"against":43,"isRemoved":true}
 ]

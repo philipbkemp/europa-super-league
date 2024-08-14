@@ -390,4 +390,19 @@
 {"country":"alb","name":"Laçi","id":"KF_Laçi","win":13,"draw":3,"loss":14,"for":30,"against":40},
 {"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":12,"draw":2,"loss":16,"for":29,"against":40},
 {"country":"alb","name":"Iliria","id":"KF_Iliria_Fushë-Krujë","win":7,"draw":2,"loss":21,"for":22,"against":64,"isRemoved":true,"isNew":true}
+][
+{"country":"fin","name":"TPV Tampere","id":"Tampereen_Pallo-Veikot","win":16,"draw":4,"loss":6,"for":46,"against":27,"isChampion":true},
+{"country":"fin","name":"MyPa Anjalankoski","id":"Myllykosken_Pallo_−47","win":15,"draw":5,"loss":6,"for":49,"against":21},
+{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":12,"draw":7,"loss":7,"for":40,"against":29},
+{"country":"fin","name":"FC Jazz Pori","id":"FC_Jazz","win":13,"draw":3,"loss":10,"for":49,"against":36},
+{"country":"fin","name":"RoPS Rovaniemi","id":"Rovaniemen_Palloseura","win":10,"draw":8,"loss":8,"for":32,"against":32},
+{"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":11,"draw":4,"loss":11,"for":37,"against":30},
+{"country":"fin","name":"Jaro Jakobstad","id":"FF_Jaro","win":10,"draw":7,"loss":9,"for":35,"against":39},
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":9,"draw":7,"loss":10,"for":38,"against":34},
+{"country":"fin","name":"Kuusysi Lahti","id":"FC_Kuusysi","win":10,"draw":4,"loss":12,"for":42,"against":49},
+{"country":"fin","name":"FinnPa Helsinki","id":"FinnPa","win":8,"draw":9,"loss":9,"for":25,"against":35},
+{"country":"fin","name":"MP Mikkeli","id":"Mikkelin_Palloilijat","win":7,"draw":8,"loss":11,"for":25,"against":31},
+{"country":"fin","name":"Ilves Tampere","id":"Ilves_(football)","win":7,"draw":7,"loss":12,"for":35,"against":45},
+{"country":"fin","name":"FC Oulu","id":"FC_Oulu","win":6,"draw":9,"loss":11,"for":32,"against":42,"isRemoved":true,"isReturning":true},
+{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":6,"draw":2,"loss":18,"for":24,"against":59,"isRemoved":true,"isReturning":true}
 ]

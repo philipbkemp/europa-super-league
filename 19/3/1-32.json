@@ -238,4 +238,13 @@
 {"country":"esp","name":"Donostia","id":"Real_Sociedad","win":7,"draw":0,"loss":11,"for":38,"against":35},
 {"country":"esp","name":"Alavés","id":"Deportivo_Alavés","win":5,"draw":1,"loss":12,"for":22,"against":44},
 {"country":"esp","name":"Unión Club","id":"Real_Unión","win":4,"draw":3,"loss":11,"for":24,"against":45,"isRemoved":true}
+][
+{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":7,"draw":0,"loss":0,"for":29,"against":9,"isChampion":true},
+{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":4,"draw":2,"loss":1,"for":22,"against":12},
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":3,"draw":2,"loss":2,"for":14,"against":13},
+{"country":"fin","name":"KIF Helsinki","id":"FC_Kiffen_08","win":3,"draw":1,"loss":3,"for":16,"against":20},
+{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":2,"draw":3,"loss":2,"for":22,"against":19},
+{"country":"fin","name":"Sudet Viipuri","id":"Sudet","win":1,"draw":2,"loss":4,"for":14,"against":22,"isNew":true},
+{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":0,"draw":3,"loss":4,"for":12,"against":16,"isRemoved":true,"isNew":true},
+{"country":"fin","name":"ViPS Viipuri","id":"ViPS_Viipuri","win":0,"draw":3,"loss":4,"for":7,"against":25,"isRemoved":true}
 ]

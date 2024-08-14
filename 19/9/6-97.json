@@ -373,4 +373,17 @@
 {"country":"alb","name":"Olimpik","id":"FC_Dinamo_City","win":7,"draw":2,"loss":12,"for":27,"against":28},
 {"country":"alb","name":"Albpetrol","id":"KF_Albpetrol_Patos","win":4,"draw":4,"loss":13,"for":15,"against":39},
 {"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":7,"draw":3,"loss":11,"for":21,"against":38,"note":"Withdrew before the final phase of the season"}
+][
+{"country":"fin","name":"FF Jaro","id":"FF_Jaro","win":11,"draw":6,"loss":10,"for":34,"against":25},
+{"country":"fin","name":"Jazz","id":"FC_Jazz","win":13,"draw":8,"loss":6,"for":47,"against":33,"isChampion":true},
+{"country":"fin","name":"TPS","id":"Turun_Palloseura","win":13,"draw":5,"loss":9,"for":40,"against":35},
+{"country":"fin","name":"FinnPa","id":"FinnPa","win":11,"draw":9,"loss":7,"for":32,"against":25},
+{"country":"fin","name":"Inter Turku","id":"FC_Inter_Turku","win":11,"draw":6,"loss":10,"for":28,"against":30,"isNew":true},
+{"country":"fin","name":"MyPa","id":"Myllykosken_Pallo_−47","win":14,"draw":3,"loss":10,"for":48,"against":38},
+{"country":"fin","name":"VPS","id":"Vaasan_Palloseura","win":12,"draw":5,"loss":10,"for":33,"against":25},
+{"country":"fin","name":"HJK","id":"Helsingin_Jalkapalloklubi","win":11,"draw":5,"loss":11,"for":36,"against":37},
+{"country":"fin","name":"RoPS","id":"Rovaniemen_Palloseura","win":11,"draw":6,"loss":10,"for":35,"against":29},
+{"country":"fin","name":"Ilves","id":"Ilves_(football)","win":8,"draw":6,"loss":13,"for":26,"against":43,"isRemoved":true},
+{"country":"fin","name":"Haka","id":"FC_Haka","win":7,"draw":6,"loss":14,"for":35,"against":42,"isRemoved":true},
+{"country":"fin","name":"MP","id":"Mikkelin_Palloilijat","win":5,"draw":5,"loss":17,"for":18,"against":50,"isRemoved":true}
 ]

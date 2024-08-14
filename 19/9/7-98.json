@@ -389,4 +389,15 @@
 {"country":"alb","name":"Shqiponja","id":"KF_Luftëtari","win":12,"draw":4,"loss":18,"for":34,"against":58,"isRemoved":true},
 {"country":"alb","name":"Sopoti","id":"KF_Sopoti_Librazhd","win":10,"draw":5,"loss":19,"for":39,"against":64,"isRemoved":true},
 {"country":"alb","name":"Albpetrol","id":"KF_Albpetrol_Patos","win":5,"draw":4,"loss":25,"for":24,"against":93,"isRemoved":true}
+][
+{"country":"fin","name":"HJK","id":"Helsingin_Jalkapalloklubi","win":18,"draw":4,"loss":5,"for":53,"against":18,"isChampion":true},
+{"country":"fin","name":"VPS","id":"Vaasan_Palloseura","win":13,"draw":9,"loss":5,"for":40,"against":20},
+{"country":"fin","name":"FinnPa","id":"FinnPa","win":10,"draw":9,"loss":8,"for":27,"against":36},
+{"country":"fin","name":"TPS","id":"Turun_Palloseura","win":10,"draw":8,"loss":9,"for":43,"against":41},
+{"country":"fin","name":"MyPa","id":"Myllykosken_Pallo_−47","win":8,"draw":13,"loss":6,"for":31,"against":23},
+{"country":"fin","name":"RoPS","id":"Rovaniemen_Palloseura","win":9,"draw":6,"loss":12,"for":31,"against":30},
+{"country":"fin","name":"Jazz","id":"FC_Jazz","win":8,"draw":7,"loss":12,"for":31,"against":42},
+{"country":"fin","name":"FF Jaro","id":"FF_Jaro","win":8,"draw":4,"loss":15,"for":33,"against":48},
+{"country":"fin","name":"TP-Seinäjoki","id":"TP-Seinäjoki","win":5,"draw":12,"loss":10,"for":22,"against":34,"isRemoved":true,"isNew":true},
+{"country":"fin","name":"Inter Turku","id":"FC_Inter_Turku","win":6,"draw":8,"loss":13,"for":23,"against":42,"isRemoved":true}
 ]

@@ -409,4 +409,17 @@
 {"country":"alb","name":"Kastrioti","id":"KF_Kastrioti_Krujë","win":12,"draw":10,"loss":17,"for":41,"against":62,"isNew":true},
 {"country":"alb","name":"Traktori","id":"KF_Lushnja","win":10,"draw":12,"loss":17,"for":39,"against":60,"isReturning":true},
 {"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":12,"draw":6,"loss":21,"for":31,"against":55,"isRemoved":true}
+][
+{"country":"fin","name":"Kuusysi Lahti","id":"FC_Kuusysi","win":14,"draw":5,"loss":3,"for":34,"against":12},
+{"country":"fin","name":"RoPS Rovaniemi","id":"Rovaniemen_Palloseura","win":12,"draw":5,"loss":5,"for":29,"against":17},
+{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":11,"draw":6,"loss":5,"for":40,"against":29,"isChampion":true},
+{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":8,"draw":8,"loss":6,"for":24,"against":22},
+{"country":"fin","name":"Reipas Lahti","id":"Reipas_Lahti","win":7,"draw":9,"loss":6,"for":35,"against":21},
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":7,"draw":9,"loss":6,"for":27,"against":20},
+{"country":"fin","name":"MP Mikkeli","id":"Mikkelin_Palloilijat","win":6,"draw":11,"loss":5,"for":20,"against":22},
+{"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":8,"draw":6,"loss":8,"for":27,"against":34},
+{"country":"fin","name":"Ilves Tampere","id":"Ilves_(football)","win":6,"draw":8,"loss":8,"for":37,"against":33},
+{"country":"fin","name":"OTP Oulu","id":"Oulun_Työväen_Palloilijat","win":4,"draw":7,"loss":11,"for":16,"against":32},
+{"country":"fin","name":"KPV Kokkola","id":"Kokkolan_Palloveikot","win":6,"draw":3,"loss":13,"for":15,"against":32,"isRemoved":true,"isReturning":true},
+{"country":"fin","name":"Kumu Kuusankoski","id":"Kuusankosken_Kumu","win":1,"draw":7,"loss":14,"for":13,"against":43,"isRemoved":true,"isNew":true}
 ]

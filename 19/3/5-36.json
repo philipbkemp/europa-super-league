@@ -264,4 +264,13 @@
 {"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":6,"draw":4,"loss":12,"for":27,"against":48,"isRemoved":true,"removedNote":"League suspended during Spanish Civil War"},
 {"country":"esp","name":"Athletic Madrid","id":"Atlético_Madrid","win":6,"draw":3,"loss":13,"for":34,"against":50,"isRemoved":true,"removedNote":"League suspended during Spanish Civil War"},
 {"country":"esp","name":"Osasuna","id":"CA_Osasuna","win":7,"draw":0,"loss":15,"for":46,"against":55,"isRemoved":true,"removedNote":"League suspended during Spanish Civil War","isNew":true}
+][
+{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":11,"draw":0,"loss":3,"for":38,"against":15,"isChampion":true},
+{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":8,"draw":1,"loss":5,"for":41,"against":28},
+{"country":"fin","name":"HT Helsinki","id":"Toverit_Helsinki","win":7,"draw":1,"loss":6,"for":28,"against":26},
+{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":6,"draw":2,"loss":6,"for":32,"against":26},
+{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":6,"draw":2,"loss":6,"for":27,"against":27,"isReturning":true},
+{"country":"fin","name":"Sudet Viipuri","id":"Sudet","win":7,"draw":0,"loss":7,"for":31,"against":34},
+{"country":"fin","name":"VIFK Vaasa","id":"Vasa_IFK","win":3,"draw":3,"loss":8,"for":29,"against":37,"isRemoved":true,"isNew":true},
+{"country":"fin","name":"ÅIFK Turku","id":"Åbo_IFK","win":3,"draw":1,"loss":10,"for":12,"against":45,"isRemoved":true}
 ]

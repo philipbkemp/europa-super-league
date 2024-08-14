@@ -381,4 +381,19 @@
 {"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":10,"draw":9,"loss":14,"for":46,"against":50},
 {"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":10,"draw":9,"loss":14,"for":35,"against":47,"isRemoved":true},
 {"country":"alb","name":"Elbasani","id":"KF_Elbasani","win":4,"draw":3,"loss":26,"for":30,"against":79,"isRemoved":true,"deduct":-3,"deductReason":"Unpaid salaries to player","isReturning":true}
+][
+{"country":"fin","name":"HJK","id":"Helsingin_Jalkapalloklubi","win":15,"draw":7,"loss":4,"for":43,"against":19,"isChampion":true},
+{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":15,"draw":3,"loss":8,"for":45,"against":36},
+{"country":"fin","name":"TPS","id":"Turun_Palloseura","win":13,"draw":6,"loss":7,"for":46,"against":30},
+{"country":"fin","name":"FC Honka","id":"FC_Honka","win":12,"draw":5,"loss":9,"for":42,"against":34},
+{"country":"fin","name":"FF Jaro","id":"FF_Jaro","win":11,"draw":5,"loss":10,"for":42,"against":34},
+{"country":"fin","name":"FC Inter","id":"FC_Inter_Turku","win":10,"draw":7,"loss":9,"for":34,"against":32},
+{"country":"fin","name":"Tampere United","id":"Tampere_United","win":10,"draw":4,"loss":12,"for":37,"against":46,"isRemoved":true},
+{"country":"fin","name":"Haka","id":"FC_Haka","win":9,"draw":6,"loss":11,"for":30,"against":38},
+{"country":"fin","name":"MYPA","id":"Myllykosken_Pallo_−47","win":7,"draw":11,"loss":8,"for":36,"against":39},
+{"country":"fin","name":"VPS","id":"Vaasan_Palloseura","win":8,"draw":7,"loss":11,"for":29,"against":40},
+{"country":"fin","name":"AC Oulu","id":"AC_Oulu","win":8,"draw":6,"loss":12,"for":31,"against":44,"isReturning":true,"isRemoved":true},
+{"country":"fin","name":"IFK Mariehamn","id":"IFK_Mariehamn","win":7,"draw":7,"loss":12,"for":38,"against":43},
+{"country":"fin","name":"JJK","id":"JJK_Jyväskylä","win":8,"draw":3,"loss":15,"for":34,"against":41},
+{"country":"fin","name":"FC Lahti","id":"FC_Lahti","win":5,"draw":11,"loss":10,"for":26,"against":37,"isRemoved":true}
 ]

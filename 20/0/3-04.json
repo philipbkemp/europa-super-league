@@ -362,4 +362,19 @@
 {"country":"alb","name":"Elbasani","id":"KF_Elbasani","win":10,"draw":10,"loss":16,"for":47,"against":55},
 {"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":8,"draw":5,"loss":23,"for":36,"against":81,"isRemoved":true},
 {"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":3,"draw":5,"loss":28,"for":24,"against":80,"isRemoved":true}
+][
+{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":17,"draw":6,"loss":3,"for":51,"against":15,"isChampion":true},
+{"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":16,"draw":5,"loss":5,"for":54,"against":16},
+{"country":"fin","name":"Tampere United","id":"Tampere_United","win":14,"draw":5,"loss":7,"for":39,"against":21},
+{"country":"fin","name":"MyPa Anjalankoski","id":"Myllykosken_Pallo_−47","win":13,"draw":4,"loss":9,"for":46,"against":29},
+{"country":"fin","name":"FC Lahti","id":"FC_Lahti","win":11,"draw":8,"loss":7,"for":40,"against":31},
+{"country":"fin","name":"Allianssi Vantaa","id":"AC_Allianssi","win":10,"draw":6,"loss":10,"for":43,"against":44},
+{"country":"fin","name":"FC Inter Turku","id":"FC_Inter_Turku","win":10,"draw":5,"loss":11,"for":43,"against":41},
+{"country":"fin","name":"Jaro Jakobstad","id":"FF_Jaro","win":9,"draw":8,"loss":9,"for":36,"against":38},
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":8,"draw":8,"loss":10,"for":30,"against":35,"isReturning":true},
+{"country":"fin","name":"FC Jokerit","id":"FC_Jokerit","win":7,"draw":7,"loss":12,"for":29,"against":37,"isReturning":true,"isRemoved":true},
+{"country":"fin","name":"FC Hämeenlinna","id":"FC_Hämeenlinna","win":7,"draw":7,"loss":12,"for":25,"against":48},
+{"country":"fin","name":"FC Jazz Pori","id":"FC_Jazz","win":7,"draw":7,"loss":12,"for":31,"against":55},
+{"country":"fin","name":"FC KooTeePee","id":"FC_KooTeePee","win":6,"draw":4,"loss":16,"for":28,"against":53,"isRemoved":true,"isNew":true},
+{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":4,"draw":6,"loss":16,"for":25,"against":57,"isRemoved":true}
 ]

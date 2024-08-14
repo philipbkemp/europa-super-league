@@ -209,4 +209,13 @@
 {"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":9,"draw":1,"loss":12,"for":45,"against":50,"isNew":true},
 {"country":"esp","name":"Betis","id":"Real_Betis","win":6,"draw":4,"loss":12,"for":26,"against":51,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Racing Santander","id":"Racing_de_Santander","win":6,"draw":1,"loss":15,"for":37,"against":57,"isRemoved":true,"isReturning":true}
+][
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":9,"draw":2,"loss":1,"for":38,"against":17,"isChampion":true,"isRemoved":true,"removedNote":"Next season the league is contested as a knockout competition"},
+{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":7,"draw":4,"loss":2,"for":40,"against":18,"isRemoved":true,"removedNote":"Next season the league is contested as a knockout competition"},
+{"country":"fin","name":"HT Helsinki","id":"Toverit_Helsinki","win":6,"draw":1,"loss":5,"for":27,"against":21,"isRemoved":true,"removedNote":"Next season the league is contested as a knockout competition"},
+{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":5,"draw":3,"loss":5,"for":31,"against":32,"isRemoved":true,"removedNote":"Next season the league is contested as a knockout competition"},
+{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":5,"draw":3,"loss":5,"for":20,"against":22,"isRemoved":true,"removedNote":"Next season the league is contested as a knockout competition"},
+{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":3,"draw":4,"loss":5,"for":20,"against":21,"isRemoved":true,"removedNote":"Next season the league is contested as a knockout competition"},
+{"country":"fin","name":"KPT Kuopio","id":"Koparit","win":2,"draw":3,"loss":7,"for":17,"against":29,"isRemoved":true,"isRemoved":true,"removedNote":"Next season the league is contested as a knockout competition"},
+{"country":"fin","name":"Viipurin Reipas","id":"Viipurin_Reipas","win":2,"draw":0,"loss":9,"for":18,"against":51,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"Next season the league is contested as a knockout competition"}
 ]

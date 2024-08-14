@@ -286,4 +286,21 @@
 {"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":10,"draw":2,"loss":14,"for":38,"against":59,"isNew":true},
 {"country":"esp","name":"Alcoyano","id":"CD_Alcoyano","win":8,"draw":5,"loss":13,"for":30,"against":54,"isRemoved":true},
 {"country":"esp","name":"Sabadell","id":"CE_Sabadell_FC","win":5,"draw":3,"loss":18,"for":43,"against":81,"isRemoved":true}
+][
+{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":11,"draw":2,"loss":2,"for":41,"against":12,"isChampion":true,"isReturning":true},
+{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":11,"draw":2,"loss":2,"for":37,"against":18,"isReturning":true},
+{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":9,"draw":3,"loss":3,"for":21,"against":13,"isReturning":true},
+{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":6,"draw":6,"loss":3,"for":32,"against":20,"isReturning":true},
+{"country":"fin","name":"VIFK Vaasa","id":"Vasa_IFK","win":7,"draw":4,"loss":4,"for":30,"against":19,"isReturning":true},
+{"country":"fin","name":"KIF Helsinki","id":"FC_Kiffen_08","win":8,"draw":2,"loss":5,"for":38,"against":30,"isReturning":true},
+{"country":"fin","name":"TuWe Turku","id":"Turun_Weikot","win":6,"draw":5,"loss":4,"for":20,"against":25,"isNew":true},
+{"country":"fin","name":"TuTo Turku","id":"Turun_Toverit","win":6,"draw":4,"loss":5,"for":23,"against":22,"isNew":true},
+{"country":"fin","name":"KTP Kotka","id":"Kotkan_Työväen_Palloilijat","win":6,"draw":4,"loss":5,"for":24,"against":26,"isNew":true},
+{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":6,"draw":3,"loss":6,"for":38,"against":29,"isReturning":true},
+{"country":"fin","name":"RTU Rauma","id":"RTU_Rauma","win":4,"draw":5,"loss":6,"for":32,"against":38,"isRemoved":true,"isNew":true},
+{"country":"fin","name":"Sudet Helsinki","id":"Sudet","win":4,"draw":3,"loss":8,"for":29,"against":38,"isRemoved":true,"isReturning":true},
+{"country":"fin","name":"Kullervo Helsinki","id":"Kullervo_Helsinki","win":4,"draw":1,"loss":10,"for":19,"against":30,"isRemoved":true,"isNew":true},
+{"country":"fin","name":"TuKV Turku","id":"TuKV_Turku","win":2,"draw":5,"loss":8,"for":14,"against":27,"isRemoved":true,"isNew":true},
+{"country":"fin","name":"Kiri Kotka","id":"Kiri_Kotka","win":2,"draw":2,"loss":11,"for":14,"against":41,"isRemoved":true,"isNew":true},
+{"country":"fin","name":"Ponnistus Helsinki","id":"Helsingin_Ponnistus","win":1,"draw":3,"loss":11,"for":12,"against":36,"isRemoved":true,"isNew":true}
 ]
