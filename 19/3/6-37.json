@@ -257,7 +257,7 @@
 {"country":"yug","name":"HŠK Concordia","id":"HŠK_Concordia","win":5,"draw":3,"loss":10,"for":26,"against":48,"isReturning":true},
 {"country":"yug","name":"Slavija Osijek","id":"JŠK_Slavija_Osijek","win":5,"draw":2,"loss":11,"for":23,"against":47,"isReturning":true,"isRemoved":true}
 ][
-{"country":"csk","name":"Slavia Prague","id":"SK_Slavia_Prague","win":17,"draw":4,"loss":1,"for":86,"against":23,"isChampion":true},
+{"country":"csk","name":"Slavia Prague","id":"sk_slavia_prague","win":17,"draw":4,"loss":1,"for":86,"against":23,"isChampion":true},
 {"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":14,"draw":3,"loss":5,"for":74,"against":29},
 {"country":"csk","name":"SK Prostějov","id":"1._SK_Prostějov","win":14,"draw":1,"loss":7,"for":56,"against":37},
 {"country":"csk","name":"1. ČsŠK Bratislava","id":"ŠK_Slovan_Bratislava","win":11,"draw":5,"loss":6,"for":44,"against":36},

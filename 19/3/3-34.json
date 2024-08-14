@@ -229,7 +229,7 @@
 {"country":"ltu","name":"Makabi Kaunas","id":"Makabi_Kaunas","win":1,"draw":4,"loss":7,"for":13,"against":36,"isRemoved":true},
 {"country":"ltu","name":"Sveikata Kybartai","id":"Sveikata_Kybartai","win":0,"draw":5,"loss":7,"for":10,"against":24}
 ][
-{"country":"csk","name":"Slavia Prague","id":"SK_Slavia_Prague","win":14,"draw":2,"loss":2,"for":63,"against":26,"isChampion":true},
+{"country":"csk","name":"Slavia Prague","id":"sk_slavia_prague","win":14,"draw":2,"loss":2,"for":63,"against":26,"isChampion":true},
 {"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":10,"draw":5,"loss":3,"for":59,"against":32},
 {"country":"csk","name":"SK Kladno","id":"SK_Kladno","win":9,"draw":3,"loss":6,"for":41,"against":35},
 {"country":"csk","name":"Teplitzer FK","id":"Teplitzer_FK","win":6,"draw":6,"loss":6,"for":33,"against":27},

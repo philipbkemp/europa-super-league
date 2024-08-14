@@ -153,7 +153,7 @@
 	{"country":"yug","name":"SAŠK","id":"NK_SAŠK_Napredak","win":2,"draw":1,"loss":2,"for":13,"against":8,"isRemoved":true},
 	{"country":"yug","name":"HAŠK","id":"HAŠK","win":1,"draw":0,"loss":4,"for":9,"against":13},
 	{"country":"yug","name":"SK Jugoslavija","id":"SK_Jugoslavija","win":0,"draw":2,"loss":3,"for":5,"against":14,"isNew":true},
-	{"country":"csk","name":"Slavia Prague","id":"SK_Slavia_Prague","win":10,"draw":1,"loss":1,"for":47,"against":15,"isChampion":true},
+	{"country":"csk","name":"Slavia Prague","id":"sk_slavia_prague","win":10,"draw":1,"loss":1,"for":47,"against":15,"isChampion":true},
 	{"country":"csk","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":8,"draw":2,"loss":2,"for":37,"against":17},
 	{"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":5,"draw":3,"loss":4,"for":32,"against":21},
 	{"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":6,"draw":0,"loss":6,"for":33,"against":31},
