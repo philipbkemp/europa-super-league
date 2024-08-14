@@ -5,10 +5,12 @@ const countries = {
 	"eir": "Ireland",
 	"eng": "England",
 	"esp": "Spain",
+	"est": "Estonia",
 	"dnk": "Denmark",
 	"hun": "Hungary",
 	"irl": "Republic of Ireland",
 	"isl": "Iceland",
+	"ita": "Italy",
 	"ltu": "Lithuania",
 	"lux": "Luxembourg",
 	"lva": "Latvia",
@@ -363,6 +365,24 @@ function newTeams() {
 		} else if ( divb.length < 100 ) {
 			divb.push( $(this).attr("id") );
 			addedB = true;
+		} else if ( divc.length < 100 ) {
+			divc.push( $(this).attr("id") );
+			addedC = true;
+		} else if ( divd.length < 100 ) {
+			divd.push( $(this).attr("id") );
+			addedD = true;
+		} else if ( dive.length < 100 ) {
+			dive.push( $(this).attr("id") );
+			addedE = true;
+		} else if ( divf.length < 100 ) {
+			divf.push( $(this).attr("id") );
+			addedF = true;
+		} else if ( divg.length < 100 ) {
+			divg.push( $(this).attr("id") );
+			addedG = true;
+		} else if ( divh.length < 100 ) {
+			divh.push( $(this).attr("id") );
+			addedH = true;
 		} else {
 			console.error("TOO Many Teams!");
 		}
@@ -585,7 +605,6 @@ function relegate(fromDivision,number) {
 			icon = $("<IMG />").attr("src","../../icons/relegated.png").attr("alt","Relegated").attr("data-bs-toggle","tooltip").attr("data-bs-title","Relegated to Division "+newDivision);
 			$($(row).find("th")[0]).append(icon);
 			toRelegate = toRelegate - 1;
-			console.log(toRelegate);
 		}
 	});
 }
