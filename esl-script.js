@@ -1,4 +1,5 @@
 const countries = {
+	"alb": "Albania",
 	"aut": "Austria",
 	"bel": "Belgium",
 	"csk": "Czechoslovakia",
@@ -7,6 +8,7 @@ const countries = {
 	"esp": "Spain",
 	"est": "Estonia",
 	"dnk": "Denmark",
+	"fin": "Finland",
 	"hun": "Hungary",
 	"irl": "Republic of Ireland",
 	"isl": "Iceland",
@@ -349,14 +351,14 @@ function nextSeason() {
 }
 
 function newTeams() {
-	diva = $("#league_a").data("teams")?.split("|") || []; addedA = false;
-	divb = $("#league_b").data("teams")?.split("|") || []; addedB = false;
-	divc = $("#league_c").data("teams")?.split("|") || []; addedC = false;
-	divd = $("#league_d").data("teams")?.split("|") || []; addedD = false;
-	dive = $("#league_e").data("teams")?.split("|") || []; addedE = false;
-	divf = $("#league_f").data("teams")?.split("|") || []; addedF = false;
-	divg = $("#league_g").data("teams")?.split("|") || []; addedG = false;
-	divh = $("#league_h").data("teams")?.split("|") || []; addedH = false;
+	diva = $("#league_a").data("teams")?.split("|").filter(n=>n!=="") || []; addedA = false;
+	divb = $("#league_b").data("teams")?.split("|").filter(n=>n!=="") || []; addedB = false;
+	divc = $("#league_c").data("teams")?.split("|").filter(n=>n!=="") || []; addedC = false;
+	divd = $("#league_d").data("teams")?.split("|").filter(n=>n!=="") || []; addedD = false;
+	dive = $("#league_e").data("teams")?.split("|").filter(n=>n!=="") || []; addedE = false;
+	divf = $("#league_f").data("teams")?.split("|").filter(n=>n!=="") || []; addedF = false;
+	divg = $("#league_g").data("teams")?.split("|").filter(n=>n!=="") || []; addedG = false;
+	divh = $("#league_h").data("teams")?.split("|").filter(n=>n!=="") || []; addedH = false;
 	$.each( $("#league_new tr") , function() {
 		if ( diva.length < 100 ) {
 			diva.push( $(this).attr("id") );
