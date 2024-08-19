@@ -21,7 +21,7 @@
 	{"country":"eng","name":"Bury","id":"Bury_F.C.","win":6,"draw":9,"loss":23,"for":32,"against":59,"isRemoved":true},
 	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":4,"draw":1,"loss":0,"for":16,"against":4,"isChampion":true,"isRemoved":true,"removedNote":"League run in different format from next season"},
 	{"country":"dnk","name":"Boldklubben af 1893","id":"Boldklubben_af_1893","win":4,"draw":0,"loss":1,"for":18,"against":6,"isRemoved":true,"removedNote":"League run in different format from next season"},
-	{"country":"dnk","name":"Boldklubben Frem","id":"Boldklubben_Frem","win":3,"draw":1,"loss":1,"for":14,"against":10,"isRemoved":true,"removedNote":"League run in different format from next season"},
+	{"country":"dnk","name":"Boldklubben Frem","id":"boldklubben_frem","win":3,"draw":1,"loss":1,"for":14,"against":10,"isRemoved":true,"removedNote":"League run in different format from next season"},
 	{"country":"dnk","name":"Boldklubben 1903","id":"Boldklubben_1903","win":2,"draw":0,"loss":3,"for":11,"against":19,"isRemoved":true,"removedNote":"League run in different format from next season"},
 	{"country":"dnk","name":"Velo Hellerup","id":"Velo_Hellerup","win":0,"draw":1,"loss":4,"for":4,"against":16,"isNew":true,"isRemoved":true,"removedNote":"League run in different format from next season"},
 	{"country":"dnk","name":"Akademisk Boldklub","id":"akademisk_boldklub","win":0,"draw":1,"loss":4,"for":7,"against":15,"isRemoved":true,"removedNote":"League run in different format from next season"},

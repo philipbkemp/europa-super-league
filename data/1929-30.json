@@ -22,7 +22,7 @@
 	{"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":14,"draw":8,"loss":20,"for":79,"against":97,"isRemoved":true},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":12,"draw":11,"loss":19,"for":80,"against":92,"isRemoved":true},
 	{"country":"dnk","name":"Boldklubben af 1893","id":"Boldklubben_af_1893","win":8,"draw":1,"loss":0,"for":37,"against":8,"isChampion":true,"isReturning":true},
-	{"country":"dnk","name":"Boldklubben Frem","id":"Boldklubben_Frem","win":6,"draw":3,"loss":0,"for":39,"against":8,"isReturning":true},
+	{"country":"dnk","name":"Boldklubben Frem","id":"boldklubben_frem","win":6,"draw":3,"loss":0,"for":39,"against":8,"isReturning":true},
 	{"country":"dnk","name":"Boldklubben 1903","id":"Boldklubben_1903","win":7,"draw":0,"loss":2,"for":27,"against":11,"isReturning":true},
 	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":4,"draw":2,"loss":3,"for":22,"against":10,"isReturning":true},
 	{"country":"dnk","name":"Akademisk Boldklub","id":"akademisk_boldklub","win":4,"draw":1,"loss":4,"for":30,"against":21,"isReturning":true},

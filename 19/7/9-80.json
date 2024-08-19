@@ -36,7 +36,7 @@
 {"country":"dnk","name":"Lyngby BK","id":"Lyngby_Boldklub","win":11,"draw":5,"loss":14,"for":52,"against":48,"isNew":true},
 {"country":"dnk","name":"Kastrup BK","id":"Kastrup_Boldklub","win":9,"draw":9,"loss":12,"for":34,"against":35},
 {"country":"dnk","name":"Fremad Amager","id":"Fremad_Amager","win":9,"draw":8,"loss":13,"for":36,"against":53,"isRemoved":true,"isReturning":true},
-{"country":"dnk","name":"BK Frem","id":"Boldklubben_Frem","win":4,"draw":4,"loss":22,"for":25,"against":69,"isRemoved":true},
+{"country":"dnk","name":"BK Frem","id":"boldklubben_frem","win":4,"draw":4,"loss":22,"for":25,"against":69,"isRemoved":true},
 {"country":"dnk","name":"Aalborg BK","id":"AaB_Fodbold","win":2,"draw":2,"loss":26,"for":27,"against":85,"isRemoved":true}
 ][
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":19,"draw":10,"loss":7,"for":68,"against":36,"isChampion":true},

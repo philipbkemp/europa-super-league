@@ -30,7 +30,7 @@
 {"country":"dnk","name":"Aarhus GF","id":"Aarhus_Gymnastikforening","win":10,"draw":10,"loss":12,"for":48,"against":50},
 {"country":"dnk","name":"Lyngby BK","id":"Lyngby_Boldklub","win":8,"draw":10,"loss":14,"for":42,"against":44},
 {"country":"dnk","name":"Næstved IF","id":"Næstved_Boldklub","win":5,"draw":11,"loss":16,"for":41,"against":71},
-{"country":"dnk","name":"BK Frem","id":"Boldklubben_Frem","win":3,"draw":8,"loss":7,"for":23,"against":39,"isRemoved":true},
+{"country":"dnk","name":"BK Frem","id":"boldklubben_frem","win":3,"draw":8,"loss":7,"for":23,"against":39,"isRemoved":true},
 {"country":"dnk","name":"B 1909","id":"Boldklubben_1909","win":0,"draw":6,"loss":12,"for":15,"against":42,"isReturning":true,"isRemoved":true}
 ][
 {"country":"sco","name":"Rangers","id":"rangers_fc","win":33,"draw":7,"loss":4,"for":97,"against":35,"isChampion":true},

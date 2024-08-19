@@ -17,7 +17,7 @@
 	{"country":"eng","name":"Stoke","id":"Stoke_City_F.C.","win":11,"draw":9,"loss":14,"for":45,"against":55},
 	{"country":"eng","name":"Small Heath","id":"Birmingham_City_F.C.","win":11,"draw":8,"loss":15,"for":47,"against":45,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":11,"draw":6,"loss":17,"for":42,"against":58,"isRemoved":true},
-	{"country":"dnk","name":"Boldklubben Frem","id":"Boldklubben_Frem","win":7,"draw":0,"loss":1,"for":25,"against":14,"isChampion":true},
+	{"country":"dnk","name":"Boldklubben Frem","id":"boldklubben_frem","win":7,"draw":0,"loss":1,"for":25,"against":14,"isChampion":true},
 	{"country":"dnk","name":"Boldklubben af 1893","id":"Boldklubben_af_1893","win":6,"draw":0,"loss":2,"for":25,"against":15},
 	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":4,"draw":0,"loss":4,"for":15,"against":17},
 	{"country":"dnk","name":"Akademisk Boldklub","id":"akademisk_boldklub","win":2,"draw":0,"loss":6,"for":13,"against":18},

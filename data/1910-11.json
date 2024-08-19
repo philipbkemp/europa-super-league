@@ -20,7 +20,7 @@
 	{"country":"eng","name":"Bristol City","id":"Bristol_City_F.C.","win":11,"draw":5,"loss":22,"for":43,"against":66,"isRemoved":true},
 	{"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":9,"draw":7,"loss":22,"for":55,"against":75,"isRemoved":true},
 	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":10,"draw":0,"loss":0,"for":63,"against":7,"isChampion":true},
-	{"country":"dnk","name":"Boldklubben Frem","id":"Boldklubben_Frem","win":6,"draw":1,"loss":3,"for":28,"against":15},
+	{"country":"dnk","name":"Boldklubben Frem","id":"boldklubben_frem","win":6,"draw":1,"loss":3,"for":28,"against":15},
 	{"country":"dnk","name":"Boldklubben af 1893","id":"Boldklubben_af_1893","win":4,"draw":2,"loss":4,"for":33,"against":24},
 	{"country":"dnk","name":"Akademisk Boldklub","id":"akademisk_boldklub","win":5,"draw":0,"loss":5,"for":29,"against":25},
 	{"country":"dnk","name":"Boldklubben 1903","id":"Boldklubben_1903","win":2,"draw":1,"loss":7,"for":16,"against":56,"isNew":true},
