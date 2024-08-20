@@ -19,6 +19,7 @@ const countries = {
 	"mlt": "Malta",
 	"nir": "Northern Ireland",
 	"pol": "Poland",
+	"pse": "Palestine",
 	"rou": "Romania",
 	"sco": "Scotland",
 	"swe": "Sweden",
