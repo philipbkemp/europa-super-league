@@ -296,4 +296,21 @@
 {"country":"fin","name":"ÅIFK Turku","id":"Åbo_IFK","win":4,"draw":3,"loss":7,"for":20,"against":41},
 {"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":4,"draw":2,"loss":8,"for":32,"against":49,"isRemoved":true},
 {"country":"fin","name":"UL Turku","id":"Turun_Urheiluliitto","win":0,"draw":0,"loss":14,"for":9,"against":47,"isRemoved":true,"isNew":true}
+][
+{"country":"fra","name":"Sochaux","id":"FC_Sochaux-Montbéliard","win":22,"draw":4,"loss":4,"for":94,"against":36,"isChampion":true},
+{"country":"fra","name":"Strasbourg","id":"RC_Strasbourg_Alsace","win":21,"draw":5,"loss":4,"for":73,"against":33,"isNew":true},
+{"country":"fra","name":"RC Paris","id":"Racing_Club_de_France_Football","win":16,"draw":5,"loss":9,"for":77,"against":57},
+{"country":"fra","name":"FC Sète","id":"FC_Sète_34","win":13,"draw":10,"loss":7,"for":52,"against":45},
+{"country":"fra","name":"Cannes","id":"AS_Cannes","win":14,"draw":5,"loss":11,"for":62,"against":48},
+{"country":"fra","name":"FC Mulhouse","id":"FC_Mulhouse","win":14,"draw":5,"loss":11,"for":66,"against":67,"isNew":true},
+{"country":"fra","name":"Olympique Lillois","id":"Olympique_Lillois","win":14,"draw":3,"loss":13,"for":56,"against":46},
+{"country":"fra","name":"Excelsior AC Roubaix","id":"Excelsior_AC_(France)","win":13,"draw":5,"loss":12,"for":51,"against":48},
+{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":13,"draw":5,"loss":12,"for":76,"against":72},
+{"country":"fra","name":"Rennes","id":"Stade_Rennais_F.C.","win":11,"draw":5,"loss":14,"for":57,"against":49},
+{"country":"fra","name":"SC Fives","id":"SC_Fives","win":12,"draw":1,"loss":17,"for":45,"against":61},
+{"country":"fra","name":"Red Star","id":"Red_Star_F.C.","win":8,"draw":7,"loss":15,"for":58,"against":72,"isNew":true},
+{"country":"fra","name":"Olympique Alès","id":"Olympique_Alès","win":10,"draw":3,"loss":17,"for":52,"against":73,"isNew":true},
+{"country":"fra","name":"FC Antibes","id":"FC_Antibes","win":8,"draw":7,"loss":15,"for":49,"against":80},
+{"country":"fra","name":"SO Montpellier","id":"Montpellier_HSC","win":7,"draw":3,"loss":20,"for":37,"against":86,"isRemoved":true},
+{"country":"fra","name":"Nîmes","id":"Nîmes_Olympique","win":5,"draw":5,"loss":20,"for":35,"against":67,"isRemoved":true}
 ]

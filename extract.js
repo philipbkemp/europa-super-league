@@ -1,4 +1,4 @@
-country = "pse";
+country = "fra";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];

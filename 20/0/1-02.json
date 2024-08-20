@@ -379,4 +379,23 @@
 {"country":"fin","name":"FC Jazz Pori","id":"FC_Jazz","win":7,"draw":11,"loss":15,"for":36,"against":52},
 {"country":"fin","name":"FC Jokerit","id":"FC_Jokerit","win":7,"draw":7,"loss":19,"for":31,"against":56,"isRemoved":true},
 {"country":"fin","name":"RoPS Rovaniemi","id":"Rovaniemen_Palloseura","win":5,"draw":9,"loss":19,"for":25,"against":56,"isRemoved":true}
+][
+{"country":"fra","name":"Lyon","id":"Olympique_Lyonnais","win":20,"draw":6,"loss":8,"for":62,"against":32,"isChampion":true},
+{"country":"fra","name":"Lens","id":"RC_Lens","win":18,"draw":10,"loss":6,"for":55,"against":30},
+{"country":"fra","name":"Auxerre","id":"AJ_Auxerre","win":16,"draw":11,"loss":7,"for":48,"against":38},
+{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":15,"draw":13,"loss":6,"for":43,"against":24},
+{"country":"fra","name":"Lille","id":"Lille_OSC","win":15,"draw":11,"loss":8,"for":39,"against":32},
+{"country":"fra","name":"Bordeaux","id":"FC_Girondins_de_Bordeaux","win":14,"draw":8,"loss":12,"for":34,"against":31},
+{"country":"fra","name":"Troyes","id":"ES_Troyes_AC","win":13,"draw":8,"loss":13,"for":40,"against":35},
+{"country":"fra","name":"Sochaux","id":"FC_Sochaux-Montbéliard","win":12,"draw":10,"loss":12,"for":41,"against":40,"isReturning":true},
+{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":11,"draw":11,"loss":12,"for":34,"against":39},
+{"country":"fra","name":"Nantes","id":"FC_Nantes","win":12,"draw":7,"loss":15,"for":35,"against":41},
+{"country":"fra","name":"Bastia","id":"SC_Bastia","win":12,"draw":5,"loss":17,"for":38,"against":44},
+{"country":"fra","name":"Rennes","id":"Stade_Rennais_F.C.","win":11,"draw":8,"loss":15,"for":40,"against":51},
+{"country":"fra","name":"Montpellier","id":"Montpellier_HSC","win":9,"draw":13,"loss":12,"for":28,"against":31,"isReturning":true},
+{"country":"fra","name":"Sedan","id":"CS_Sedan_Ardennes","win":8,"draw":15,"loss":11,"for":35,"against":39},
+{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":9,"draw":12,"loss":13,"for":36,"against":41},
+{"country":"fra","name":"Guingamp","id":"En_Avant_Guingamp","win":9,"draw":8,"loss":17,"for":34,"against":57},
+{"country":"fra","name":"Metz","id":"FC_Metz","win":9,"draw":6,"loss":19,"for":31,"against":47,"isRemoved":true},
+{"country":"fra","name":"Lorient","id":"FC_Lorient","win":7,"draw":10,"loss":17,"for":43,"against":64,"isRemoved":true,"isReturning":true}
 ]

@@ -287,4 +287,21 @@
 {"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":7,"draw":0,"loss":7,"for":30,"against":36,"isReturning":true},
 {"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":5,"draw":2,"loss":7,"for":36,"against":31,"isRemoved":true},
 {"country":"fin","name":"Drott Pietarsaari","id":"IF_Drott","win":2,"draw":1,"loss":11,"for":14,"against":50,"isRemoved":true,"isNew":true}
+][
+{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":17,"draw":4,"loss":9,"for":69,"against":39,"isChampion":true},
+{"country":"fra","name":"Sochaux","id":"FC_Sochaux-Montbéliard","win":16,"draw":6,"loss":8,"for":56,"against":42},
+{"country":"fra","name":"RC Paris","id":"Racing_Club_de_France_Football","win":17,"draw":3,"loss":10,"for":57,"against":47},
+{"country":"fra","name":"Rouen","id":"FC_Rouen","win":15,"draw":5,"loss":10,"for":62,"against":48,"isNew":true},
+{"country":"fra","name":"Olympique Lillois","id":"Olympique_Lillois","win":14,"draw":6,"loss":10,"for":51,"against":43},
+{"country":"fra","name":"Strasbourg","id":"RC_Strasbourg_Alsace","win":12,"draw":9,"loss":9,"for":62,"against":39},
+{"country":"fra","name":"Metz","id":"FC_Metz","win":13,"draw":6,"loss":11,"for":60,"against":61},
+{"country":"fra","name":"Excelsior AC Roubaix","id":"Excelsior_AC_(France)","win":13,"draw":5,"loss":12,"for":72,"against":60},
+{"country":"fra","name":"Red Star","id":"Red_Star_F.C.","win":12,"draw":7,"loss":11,"for":47,"against":58},
+{"country":"fra","name":"FC Sète","id":"FC_Sète_34","win":11,"draw":8,"loss":11,"for":46,"against":48},
+{"country":"fra","name":"SC Fives","id":"SC_Fives","win":12,"draw":4,"loss":14,"for":54,"against":45},
+{"country":"fra","name":"RC Roubaix","id":"RC_Roubaix","win":11,"draw":5,"loss":14,"for":50,"against":61,"isNew":true},
+{"country":"fra","name":"FC Antibes","id":"FC_Antibes","win":11,"draw":4,"loss":15,"for":50,"against":64},
+{"country":"fra","name":"Cannes","id":"AS_Cannes","win":8,"draw":9,"loss":13,"for":48,"against":55},
+{"country":"fra","name":"Rennes","id":"Stade_Rennais_F.C.","win":8,"draw":4,"loss":18,"for":38,"against":58,"isRemoved":true},
+{"country":"fra","name":"FC Mulhouse","id":"FC_Mulhouse","win":6,"draw":3,"loss":21,"for":48,"against":102,"isRemoved":true}
 ]

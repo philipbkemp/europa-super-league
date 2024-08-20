@@ -302,4 +302,23 @@
 {"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":3,"draw":3,"loss":10,"for":20,"against":42,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
 {"country":"alb","name":"Bashkimi Elbasanas","id":"KF_Elbasani","win":2,"draw":4,"loss":10,"for":16,"against":37,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
 {"country":"alb","name":"Shqiponja","id":"KF_Luftëtari","win":3,"draw":1,"loss":12,"for":12,"against":55,"isNew":true,"isRemoved":true,"removedNote":"League contested in a group format next season"}
+][
+{"country":"fra","name":"Olympique de Marseille","id":"Olympique_de_Marseille","win":20,"draw":8,"loss":6,"for":83,"against":43,"isChampion":true},
+{"country":"fra","name":"Lille OSC","id":"Lille_OSC","win":20,"draw":7,"loss":7,"for":82,"against":51},
+{"country":"fra","name":"Stade de Reims","id":"Stade_de_Reims","win":20,"draw":6,"loss":8,"for":73,"against":34},
+{"country":"fra","name":"AS Saint-Étienne","id":"AS_Saint-Étienne","win":16,"draw":9,"loss":9,"for":72,"against":58},
+{"country":"fra","name":"Stade Français FC","id":"Stade_Français_(association_football)","win":15,"draw":8,"loss":11,"for":68,"against":58},
+{"country":"fra","name":"RC Strasbourg","id":"RC_Strasbourg_Alsace","win":13,"draw":11,"loss":10,"for":82,"against":58},
+{"country":"fra","name":"RC Paris","id":"Racing_Club_de_France_Football","win":16,"draw":5,"loss":13,"for":79,"against":64},
+{"country":"fra","name":"CO Roubaix-Tourcoing","id":"CO_Roubaix-Tourcoing","win":15,"draw":7,"loss":12,"for":62,"against":60},
+{"country":"fra","name":"FC Sochaux-Montbéliard","id":"FC_Sochaux-Montbéliard","win":13,"draw":8,"loss":13,"for":63,"against":59,"isReturning":true},
+{"country":"fra","name":"Stade Rennais UC","id":"Stade_Rennais_F.C.","win":13,"draw":8,"loss":13,"for":56,"against":59},
+{"country":"fra","name":"FC Metz","id":"FC_Metz","win":13,"draw":4,"loss":17,"for":70,"against":82},
+{"country":"fra","name":"FC Nancy","id":"FC_Nancy","win":11,"draw":8,"loss":15,"for":49,"against":64},
+{"country":"fra","name":"Toulouse FC","id":"Toulouse_FC_(1937)","win":13,"draw":3,"loss":18,"for":50,"against":62},
+{"country":"fra","name":"AS Cannes","id":"AS_Cannes","win":10,"draw":9,"loss":15,"for":47,"against":66},
+{"country":"fra","name":"SO Montpellier","id":"Montpellier_HSC","win":10,"draw":8,"loss":16,"for":52,"against":67},
+{"country":"fra","name":"FC Sète","id":"FC_Sète_34","win":11,"draw":4,"loss":19,"for":59,"against":85},
+{"country":"fra","name":"Olympique Alès","id":"Olympique_Alès","win":7,"draw":11,"loss":16,"for":49,"against":79,"isRemoved":true,"isReturning":true},
+{"country":"fra","name":"Red Star Olympique","id":"Red_Star_F.C.","win":6,"draw":4,"loss":24,"for":30,"against":77,"isRemoved":true}
 ]

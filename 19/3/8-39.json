@@ -273,4 +273,21 @@
 {"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":4,"draw":3,"loss":7,"for":27,"against":31},
 {"country":"fin","name":"KPT Kuopio","id":"Koparit","win":4,"draw":3,"loss":7,"for":21,"against":41,"isNew":true},
 {"country":"fin","name":"Sudet Viipuri","id":"Sudet","win":4,"draw":0,"loss":10,"for":26,"against":30,"isRemoved":true}
+][
+{"country":"fra","name":"FC Sète","id":"FC_Sète_34","win":19,"draw":4,"loss":7,"for":65,"against":36,"isChampion":true,"isRemoved":true,"removedNote":"League suspended during WW2"},
+{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":18,"draw":4,"loss":8,"for":56,"against":34,"isRemoved":true,"removedNote":"League suspended during WW2"},
+{"country":"fra","name":"RC Paris","id":"Racing_Club_de_France_Football","win":15,"draw":8,"loss":7,"for":58,"against":43,"isRemoved":true,"removedNote":"League suspended during WW2"},
+{"country":"fra","name":"Saint-Étienne","id":"AS_Saint-Étienne","win":14,"draw":7,"loss":9,"for":46,"against":30,"isNew":true,"isRemoved":true,"removedNote":"League suspended during WW2"},
+{"country":"fra","name":"Olympique Lillois","id":"Olympique_Lillois","win":14,"draw":6,"loss":10,"for":42,"against":38,"isRemoved":true,"removedNote":"League suspended during WW2"},
+{"country":"fra","name":"Sochaux","id":"FC_Sochaux-Montbéliard","win":14,"draw":4,"loss":12,"for":65,"against":39,"isRemoved":true,"removedNote":"League suspended during WW2"},
+{"country":"fra","name":"Lens","id":"RC_Lens","win":11,"draw":9,"loss":10,"for":51,"against":42,"isRemoved":true,"removedNote":"League suspended during WW2"},
+{"country":"fra","name":"Metz","id":"FC_Metz","win":12,"draw":7,"loss":11,"for":49,"against":46,"isRemoved":true,"removedNote":"League suspended during WW2"},
+{"country":"fra","name":"SC Fives","id":"SC_Fives","win":13,"draw":5,"loss":12,"for":57,"against":54,"isRemoved":true,"removedNote":"League suspended during WW2"},
+{"country":"fra","name":"RC Strasbourg","id":"RC_Strasbourg_Alsace","win":10,"draw":8,"loss":12,"for":39,"against":43,"isRemoved":true,"removedNote":"League suspended during WW2"},
+{"country":"fra","name":"Le Havre","id":"Le_Havre_AC","win":11,"draw":6,"loss":13,"for":48,"against":59,"isNew":true,"isRemoved":true,"removedNote":"League suspended during WW2"},
+{"country":"fra","name":"Cannes","id":"AS_Cannes","win":11,"draw":5,"loss":14,"for":47,"against":62,"isRemoved":true,"removedNote":"League suspended during WW2"},
+{"country":"fra","name":"Excelsior AC Roubaix","id":"Excelsior_AC_(France)","win":8,"draw":8,"loss":14,"for":60,"against":71,"isRemoved":true,"removedNote":"League suspended during WW2"},
+{"country":"fra","name":"Rouen","id":"FC_Rouen","win":6,"draw":9,"loss":15,"for":31,"against":48,"isRemoved":true,"removedNote":"League suspended during WW2"},
+{"country":"fra","name":"FC Antibes","id":"FC_Antibes","win":6,"draw":9,"loss":15,"for":21,"against":54,"isRemoved":true,"isRemoved":true,"removedNote":"League suspended during WW2"},
+{"country":"fra","name":"RC Roubaix","id":"RC_Roubaix","win":4,"draw":9,"loss":17,"for":31,"against":67,"isRemoved":true,"isRemoved":true,"removedNote":"League suspended during WW2"}
 ]

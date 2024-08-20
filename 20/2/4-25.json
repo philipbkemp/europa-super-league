@@ -391,4 +391,23 @@
 {"country":"fin","name":"Lahti","id":"FC_Lahti","win":3,"draw":7,"loss":9,"for":25,"against":37,"isCurrentSeason":true},
 {"country":"fin","name":"Mariehamn","id":"IFK_Mariehamn","win":4,"draw":4,"loss":10,"for":17,"against":32,"isCurrentSeason":true},
 {"country":"fin","name":"EIF","id":"Ekenäs_IF","win":3,"draw":3,"loss":13,"for":18,"against":42,"isCurrentSeason":true,"isReturning":true}
+][
+{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":1,"draw":0,"loss":0,"for":5,"against":1,"isCurrentSeason":true},
+{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":1,"draw":0,"loss":0,"for":4,"against":1,"isCurrentSeason":true},
+{"country":"fra","name":"Rennes","id":"Stade_Rennais_F.C.","win":1,"draw":0,"loss":0,"for":3,"against":0,"isCurrentSeason":true},
+{"country":"fra","name":"Lille","id":"Lille_OSC","win":1,"draw":0,"loss":0,"for":2,"against":0,"isCurrentSeason":true},
+{"country":"fra","name":"Auxerre","id":"AJ_Auxerre","win":1,"draw":0,"loss":0,"for":2,"against":1,"isCurrentSeason":true,"isReturning":true},
+{"country":"fra","name":"Lens","id":"RC_Lens","win":1,"draw":0,"loss":0,"for":1,"against":0,"isCurrentSeason":true},
+{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":1,"draw":0,"loss":0,"for":1,"against":0,"isCurrentSeason":true},
+{"country":"fra","name":"Montpellier","id":"Montpellier_HSC","win":0,"draw":1,"loss":0,"for":1,"against":1,"isCurrentSeason":true},
+{"country":"fra","name":"Strasbourg","id":"RC_Strasbourg_Alsace","win":0,"draw":1,"loss":0,"for":1,"against":1,"isCurrentSeason":true},
+{"country":"fra","name":"Nantes","id":"FC_Nantes","win":0,"draw":1,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"fra","name":"Toulouse","id":"Toulouse_FC","win":0,"draw":1,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"fra","name":"Nice","id":"OGC_Nice","win":0,"draw":0,"loss":1,"for":1,"against":2,"isCurrentSeason":true},
+{"country":"fra","name":"Angers","id":"Angers_SCO","win":0,"draw":0,"loss":1,"for":0,"against":1,"isCurrentSeason":true,"isReturning":true},
+{"country":"fra","name":"Saint-Étienne","id":"AS_Saint-Étienne","win":0,"draw":0,"loss":1,"for":0,"against":1,"isCurrentSeason":true,"isReturning":true},
+{"country":"fra","name":"Reims","id":"Stade_de_Reims","win":0,"draw":0,"loss":1,"for":0,"against":2,"isCurrentSeason":true},
+{"country":"fra","name":"Le Havre","id":"Le_Havre_AC","win":0,"draw":0,"loss":1,"for":1,"against":4,"isCurrentSeason":true},
+{"country":"fra","name":"Lyon","id":"Olympique_Lyonnais","win":0,"draw":0,"loss":1,"for":0,"against":3,"isCurrentSeason":true},
+{"country":"fra","name":"Brest","id":"Stade_Brestois_29","win":0,"draw":0,"loss":1,"for":1,"against":5,"isCurrentSeason":true}
 ]

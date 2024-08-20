@@ -385,4 +385,25 @@
 {"country":"fin","name":"IFK Mariehamn","id":"IFK_Mariehamn","win":8,"draw":7,"loss":18,"for":37,"against":59},
 {"country":"fin","name":"TPS","id":"Turun_Palloseura","win":7,"draw":8,"loss":18,"for":37,"against":55,"isRemoved":true,"isReturning":true},
 {"country":"fin","name":"PS Kemi Kings","id":"Kemi_City_F.C.","win":6,"draw":6,"loss":21,"for":29,"against":59,"isRemoved":true}
+][
+{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":29,"draw":4,"loss":5,"for":105,"against":35,"isChampion":true},
+{"country":"fra","name":"Lille","id":"Lille_OSC","win":22,"draw":9,"loss":7,"for":68,"against":33},
+{"country":"fra","name":"Lyon","id":"Olympique_Lyonnais","win":21,"draw":9,"loss":8,"for":70,"against":47},
+{"country":"fra","name":"Saint-Étienne","id":"AS_Saint-Étienne","win":19,"draw":9,"loss":10,"for":59,"against":41},
+{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":18,"draw":7,"loss":13,"for":60,"against":52},
+{"country":"fra","name":"Montpellier","id":"Montpellier_HSC","win":15,"draw":14,"loss":9,"for":53,"against":42},
+{"country":"fra","name":"Nice","id":"OGC_Nice","win":15,"draw":11,"loss":12,"for":30,"against":35},
+{"country":"fra","name":"Reims","id":"Stade_de_Reims","win":13,"draw":16,"loss":9,"for":39,"against":42,"isReturning":true},
+{"country":"fra","name":"Nîmes","id":"Nîmes_Olympique","win":15,"draw":8,"loss":15,"for":57,"against":58,"isReturning":true},
+{"country":"fra","name":"Rennes","id":"Stade_Rennais_F.C.","win":13,"draw":13,"loss":12,"for":55,"against":52},
+{"country":"fra","name":"Strasbourg","id":"RC_Strasbourg_Alsace","win":11,"draw":16,"loss":11,"for":58,"against":48},
+{"country":"fra","name":"Nantes","id":"FC_Nantes","win":13,"draw":9,"loss":16,"for":48,"against":48},
+{"country":"fra","name":"Angers","id":"Angers_SCO","win":10,"draw":16,"loss":12,"for":44,"against":49},
+{"country":"fra","name":"Bordeaux","id":"FC_Girondins_de_Bordeaux","win":10,"draw":11,"loss":17,"for":34,"against":42},
+{"country":"fra","name":"Amiens","id":"Amiens_SC","win":9,"draw":11,"loss":18,"for":31,"against":52},
+{"country":"fra","name":"Toulouse","id":"Toulouse_FC","win":8,"draw":14,"loss":16,"for":35,"against":57},
+{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":8,"draw":12,"loss":18,"for":38,"against":57},
+{"country":"fra","name":"Dijon","id":"Dijon_FCO","win":9,"draw":7,"loss":22,"for":31,"against":60},
+{"country":"fra","name":"Caen","id":"Stade_Malherbe_Caen","win":7,"draw":12,"loss":19,"for":29,"against":54,"isRemoved":true},
+{"country":"fra","name":"Guingamp","id":"En_Avant_Guingamp","win":5,"draw":12,"loss":21,"for":28,"against":68,"isRemoved":true}
 ]

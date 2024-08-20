@@ -386,4 +386,25 @@
 {"country":"fin","name":"Ilves","id":"Ilves_(football)","win":8,"draw":6,"loss":13,"for":26,"against":43,"isRemoved":true},
 {"country":"fin","name":"Haka","id":"FC_Haka","win":7,"draw":6,"loss":14,"for":35,"against":42,"isRemoved":true},
 {"country":"fin","name":"MP","id":"Mikkelin_Palloilijat","win":5,"draw":5,"loss":17,"for":18,"against":50,"isRemoved":true}
+][
+{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":23,"draw":10,"loss":5,"for":69,"against":30,"isChampion":true},
+{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":18,"draw":13,"loss":7,"for":57,"against":31},
+{"country":"fra","name":"Nantes","id":"FC_Nantes","win":16,"draw":16,"loss":6,"for":61,"against":32},
+{"country":"fra","name":"Bordeaux","id":"FC_Girondins_de_Bordeaux","win":16,"draw":15,"loss":7,"for":59,"against":42},
+{"country":"fra","name":"Metz","id":"FC_Metz","win":17,"draw":11,"loss":10,"for":40,"against":30},
+{"country":"fra","name":"Auxerre","id":"AJ_Auxerre","win":17,"draw":10,"loss":11,"for":49,"against":32},
+{"country":"fra","name":"Bastia","id":"SC_Bastia","win":17,"draw":10,"loss":11,"for":54,"against":47},
+{"country":"fra","name":"Lyon","id":"Olympique_Lyonnais","win":16,"draw":12,"loss":10,"for":59,"against":50},
+{"country":"fra","name":"Strasbourg","id":"RC_Strasbourg_Alsace","win":19,"draw":3,"loss":16,"for":52,"against":49},
+{"country":"fra","name":"Montpellier","id":"Montpellier_HSC","win":12,"draw":15,"loss":11,"for":40,"against":40},
+{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":12,"draw":13,"loss":13,"for":43,"against":48,"isReturning":true},
+{"country":"fra","name":"Guingamp","id":"En_Avant_Guingamp","win":11,"draw":13,"loss":14,"for":32,"against":36},
+{"country":"fra","name":"Lens","id":"RC_Lens","win":12,"draw":9,"loss":17,"for":40,"against":52},
+{"country":"fra","name":"Le Havre","id":"Le_Havre_AC","win":10,"draw":13,"loss":15,"for":34,"against":43},
+{"country":"fra","name":"Cannes","id":"AS_Cannes","win":9,"draw":14,"loss":15,"for":25,"against":41},
+{"country":"fra","name":"Rennes","id":"Stade_Rennais_F.C.","win":10,"draw":10,"loss":18,"for":40,"against":58},
+{"country":"fra","name":"Caen","id":"Stade_Malherbe_Caen","win":7,"draw":16,"loss":15,"for":35,"against":46,"isRemoved":true,"isReturning":true},
+{"country":"fra","name":"Nancy","id":"AS_Nancy_Lorraine","win":9,"draw":10,"loss":19,"for":33,"against":51,"isRemoved":true,"isReturning":true},
+{"country":"fra","name":"Lille","id":"Lille_OSC","win":8,"draw":11,"loss":19,"for":32,"against":58,"isRemoved":true},
+{"country":"fra","name":"Nice","id":"OGC_Nice","win":5,"draw":8,"loss":25,"for":30,"against":68,"isRemoved":true}
 ]

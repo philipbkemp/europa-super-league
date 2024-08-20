@@ -298,4 +298,21 @@
 {"country":"pse","name":"Hakoah Tel Aviv","id":"Hakoah_Tel_Aviv_F.C.","win":2,"draw":3,"loss":3,"for":13,"against":18,"isReturning":true,"removed":true,"removedNote":"Next season not completed due to Arab Revolt"},
 {"country":"pse","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":2,"draw":1,"loss":5,"for":13,"against":22,"isReturning":true,"removed":true,"removedNote":"Next season not completed due to Arab Revolt"},
 {"country":"pse","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":1,"draw":1,"loss":6,"for":9,"against":24,"isReturning":true,"removed":true,"removedNote":"Next season not completed due to Arab Revolt"}
+][
+{"country":"fra","name":"Sochaux","id":"FC_Sochaux-Montbéliard","win":18,"draw":8,"loss":4,"for":69,"against":26,"isChampion":true},
+{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":15,"draw":12,"loss":3,"for":61,"against":35},
+{"country":"fra","name":"FC Sète","id":"FC_Sète_34","win":16,"draw":9,"loss":5,"for":52,"against":28},
+{"country":"fra","name":"Rouen","id":"FC_Rouen","win":14,"draw":8,"loss":8,"for":57,"against":44},
+{"country":"fra","name":"Strasbourg","id":"RC_Strasbourg_Alsace","win":12,"draw":9,"loss":9,"for":66,"against":54},
+{"country":"fra","name":"Excelsior AC Roubaix","id":"Excelsior_AC_(France)","win":10,"draw":11,"loss":9,"for":59,"against":57},
+{"country":"fra","name":"Olympique Lillois","id":"Olympique_Lillois","win":10,"draw":9,"loss":11,"for":39,"against":33},
+{"country":"fra","name":"RC Roubaix","id":"RC_Roubaix","win":11,"draw":6,"loss":13,"for":39,"against":60},
+{"country":"fra","name":"Cannes","id":"AS_Cannes","win":8,"draw":11,"loss":11,"for":56,"against":47},
+{"country":"fra","name":"FC Antibes","id":"FC_Antibes","win":9,"draw":9,"loss":12,"for":38,"against":40},
+{"country":"fra","name":"Metz","id":"FC_Metz","win":8,"draw":11,"loss":11,"for":45,"against":56},
+{"country":"fra","name":"SC Fives","id":"SC_Fives","win":7,"draw":12,"loss":11,"for":42,"against":43},
+{"country":"fra","name":"RC Paris","id":"Racing_Club_de_France_Football","win":9,"draw":8,"loss":13,"for":48,"against":59},
+{"country":"fra","name":"Lens","id":"RC_Lens","win":9,"draw":8,"loss":13,"for":45,"against":63,"isNew":true},
+{"country":"fra","name":"Red Star","id":"Red_Star_F.C.","win":6,"draw":7,"loss":17,"for":47,"against":71,"isRemoved":true},
+{"country":"fra","name":"Valenciennes","id":"Valenciennes_FC","win":6,"draw":6,"loss":18,"for":30,"against":77,"isRemoved":true,"isReturning":true}
 ]

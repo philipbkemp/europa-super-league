@@ -391,4 +391,23 @@
 {"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":5,"draw":3,"loss":14,"for":31,"against":45,"isRemoved":true},
 {"country":"fin","name":"MiPK Mikkeli","id":"Mikkelin_Pallo-Kissat","win":4,"draw":4,"loss":14,"for":38,"against":64,"isRemoved":true},
 {"country":"fin","name":"KIF Helsinki","id":"FC_Kiffen_08","win":3,"draw":6,"loss":13,"for":19,"against":50,"isRemoved":true}
+][
+{"country":"fra","name":"Nantes","id":"FC_Nantes","win":16,"draw":11,"loss":7,"for":66,"against":45,"isChampion":true},
+{"country":"fra","name":"Bordeaux","id":"FC_Girondins_de_Bordeaux","win":16,"draw":9,"loss":9,"for":43,"against":32},
+{"country":"fra","name":"Valenciennes","id":"Valenciennes_FC","win":14,"draw":12,"loss":8,"for":52,"against":30},
+{"country":"fra","name":"Rennes","id":"Stade_Rennais_F.C.","win":15,"draw":8,"loss":11,"for":67,"against":48},
+{"country":"fra","name":"Strasbourg","id":"RC_Strasbourg_Alsace","win":13,"draw":12,"loss":9,"for":56,"against":46},
+{"country":"fra","name":"Lyon","id":"Olympique_Lyonnais","win":13,"draw":10,"loss":11,"for":46,"against":50},
+{"country":"fra","name":"Saint-Étienne","id":"AS_Saint-Étienne","win":13,"draw":9,"loss":12,"for":48,"against":43},
+{"country":"fra","name":"Lens","id":"RC_Lens","win":12,"draw":11,"loss":11,"for":55,"against":61},
+{"country":"fra","name":"Lille","id":"Lille_OSC","win":10,"draw":14,"loss":10,"for":57,"against":48,"isReturning":true},
+{"country":"fra","name":"Sochaux","id":"FC_Sochaux-Montbéliard","win":13,"draw":8,"loss":13,"for":49,"against":45,"isReturning":true},
+{"country":"fra","name":"Toulouse FC","id":"Toulouse_FC_(1937)","win":12,"draw":9,"loss":13,"for":50,"against":52},
+{"country":"fra","name":"AS Monaco","id":"AS_Monaco_FC","win":13,"draw":7,"loss":14,"for":41,"against":45},
+{"country":"fra","name":"Angers","id":"Angers_SCO","win":12,"draw":7,"loss":15,"for":44,"against":51},
+{"country":"fra","name":"Sedan","id":"CS_Sedan_Ardennes","win":11,"draw":8,"loss":15,"for":51,"against":58},
+{"country":"fra","name":"Stade Français","id":"Stade_Français_(association_football)","win":9,"draw":12,"loss":13,"for":40,"against":52},
+{"country":"fra","name":"Rouen","id":"FC_Rouen","win":12,"draw":6,"loss":16,"for":31,"against":48},
+{"country":"fra","name":"Nîmes","id":"Nîmes_Olympique","win":13,"draw":3,"loss":18,"for":42,"against":58},
+{"country":"fra","name":"SC Toulon","id":"SC_Toulon","win":9,"draw":4,"loss":21,"for":31,"against":57,"isRemoved":true,"isReturning":true}
 ]

@@ -275,4 +275,19 @@
 {"country":"pse","name":"Maccabi Rehovot","id":"Maccabi_Rehovot_F.C.","win":2,"draw":2,"loss":9,"for":11,"against":30,"isNew":true,"isRemoved":true,"removedNote":"Next season was abandoned mid-season"},
 {"country":"pse","name":"Hapoel Jerusalem","id":"Hapoel_Jerusalem_F.C.","win":0,"draw":3,"loss":10,"for":10,"against":35,"isReturning":true,"isRemoved":true,"removedNote":"Next season was abandoned mid-season"},
 {"country":"pse","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew after 2 matches; Record expunged","isReturning":true}
+][
+{"country":"fra","name":"FC Sète","id":"FC_Sète_34","win":14,"draw":6,"loss":6,"for":69,"against":52,"isChampion":true,"isNew":true},
+{"country":"fra","name":"SC Fives","id":"SC_Fives","win":13,"draw":7,"loss":6,"for":57,"against":31,"isNew":true},
+{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":15,"draw":3,"loss":8,"for":69,"against":46,"isNew":true},
+{"country":"fra","name":"Olympique Lillois","id":"Olympique_Lillois","win":14,"draw":4,"loss":8,"for":70,"against":40,"isNew":true},
+{"country":"fra","name":"Excelsior AC Roubaix","id":"Excelsior_AC_(France)","win":13,"draw":4,"loss":9,"for":65,"against":59,"isNew":true},
+{"country":"fra","name":"Rennes","id":"Stade_Rennais_F.C.","win":11,"draw":5,"loss":10,"for":67,"against":75,"isNew":true},
+{"country":"fra","name":"FC Antibes","id":"FC_Antibes","win":11,"draw":5,"loss":10,"for":52,"against":60,"isNew":true},
+{"country":"fra","name":"SO Montpellier","id":"Montpellier_HSC","win":10,"draw":6,"loss":10,"for":53,"against":55,"isNew":true},
+{"country":"fra","name":"Nîmes","id":"Nîmes_Olympique","win":11,"draw":3,"loss":12,"for":68,"against":72,"isNew":true},
+{"country":"fra","name":"Cannes","id":"AS_Cannes","win":9,"draw":7,"loss":10,"for":42,"against":52,"isNew":true},
+{"country":"fra","name":"RC Paris","id":"Racing_Club_de_France_Football","win":9,"draw":5,"loss":12,"for":51,"against":49,"isNew":true},
+{"country":"fra","name":"Sochaux","id":"FC_Sochaux-Montbéliard","win":9,"draw":4,"loss":13,"for":60,"against":70,"isNew":true},
+{"country":"fra","name":"Nice","id":"OGC_Nice","win":6,"draw":5,"loss":15,"for":42,"against":69,"isRemoved":true,"isNew":true},
+{"country":"fra","name":"CA Paris","id":"CA_Paris-Charenton","win":5,"draw":0,"loss":21,"for":55,"against":90,"isRemoved":true,"isNew":true}
 ]
