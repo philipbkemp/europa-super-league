@@ -1,4 +1,4 @@
-country = "fin";
+country = "pse";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
@@ -7,9 +7,9 @@ FOUND = false;
 tbl = $("#League, #Final_table, #Final_Table, #League_table, #League_Table, #League_standings, #Final_league_table, #Preliminary_stage, #Table");
 if ( tbl.length === 1 ) { FOUND = true; }
 
+/*
 tbl2 = $("#Regular_season, #Championship_Round, *[id='Relegation_Round']");
 if ( tbl2.length === 3 ) { FOUND = true; ADD_TABLE_STATS = [false,false]; console.warn("C+R"); tbl=tbl2;}
-/*
 tbl2 = $("#Preliminary_stage, #Championship_playfoo");
 if ( tbl2.length === 4 ) { FOUND = true; ADD_TABLE_STATS = [false,false,false]; console.warn("G123"); tbl=tbl2;}
 */

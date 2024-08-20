@@ -265,4 +265,14 @@
 {"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":5,"draw":3,"loss":6,"for":27,"against":19},
 {"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":5,"draw":1,"loss":8,"for":34,"against":40,"isRemoved":true},
 {"country":"fin","name":"EIF Tammisaari","id":"Ekenäs_IF","win":0,"draw":0,"loss":14,"for":11,"against":83,"isRemoved":true,"isNew":true}
+][
+{"country":"pse","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":14,"draw":0,"loss":0,"for":45,"against":7,"isChampion":true,"isReturning":true,"isRemoved":true,"removedNote":"Next season was abandoned mid-season"},
+{"country":"pse","name":"Maccabi Hashmonai","id":"Maccabi_Jerusalem_F.C.","win":7,"draw":2,"loss":4,"for":27,"against":17,"isReturning":true,"isRemoved":true,"removedNote":"Next season was abandoned mid-season"},
+{"country":"pse","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":5,"draw":4,"loss":2,"for":25,"against":18,"isReturning":true,"isRemoved":true,"removedNote":"Next season was abandoned mid-season"},
+{"country":"pse","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":5,"draw":2,"loss":4,"for":13,"against":15,"isReturning":true,"isRemoved":true,"removedNote":"Next season was abandoned mid-season"},
+{"country":"pse","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":4,"draw":3,"loss":5,"for":25,"against":20,"isReturning":true,"isRemoved":true,"removedNote":"Next season was abandoned mid-season"},
+{"country":"pse","name":"Maccabi Nes Tziona","id":"Maccabi_Nes_Tziona_F.C.","win":4,"draw":2,"loss":7,"for":10,"against":24,"isReturning":true,"isRemoved":true,"removedNote":"Next season was abandoned mid-season"},
+{"country":"pse","name":"Maccabi Rehovot","id":"Maccabi_Rehovot_F.C.","win":2,"draw":2,"loss":9,"for":11,"against":30,"isNew":true,"isRemoved":true,"removedNote":"Next season was abandoned mid-season"},
+{"country":"pse","name":"Hapoel Jerusalem","id":"Hapoel_Jerusalem_F.C.","win":0,"draw":3,"loss":10,"for":10,"against":35,"isReturning":true,"isRemoved":true,"removedNote":"Next season was abandoned mid-season"},
+{"country":"pse","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew after 2 matches; Record expunged","isReturning":true}
 ]

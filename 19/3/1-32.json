@@ -247,4 +247,14 @@
 {"country":"fin","name":"Sudet Viipuri","id":"Sudet","win":1,"draw":2,"loss":4,"for":14,"against":22,"isNew":true},
 {"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":0,"draw":3,"loss":4,"for":12,"against":16,"isRemoved":true,"isNew":true},
 {"country":"fin","name":"ViPS Viipuri","id":"ViPS_Viipuri","win":0,"draw":3,"loss":4,"for":7,"against":25,"isRemoved":true}
+][
+{"country":"pse","name":"British Police","id":"Palestine_Police_Force","win":12,"draw":3,"loss":0,"for":62,"against":18,"isChampion":true,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"pse","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":11,"draw":2,"loss":2,"for":52,"against":13,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"pse","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":8,"draw":2,"loss":2,"for":33,"against":15,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"pse","name":"Maccabi Hashmonai","id":"Maccabi_Jerusalem_F.C.","win":8,"draw":2,"loss":5,"for":35,"against":32,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"pse","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":7,"draw":2,"loss":6,"for":37,"against":38,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"pse","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":4,"draw":1,"loss":11,"for":30,"against":45,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"pse","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":3,"draw":2,"loss":9,"for":22,"against":42,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"pse","name":"Maccabi Nes Tziona","id":"Maccabi_Nes_Tziona_F.C.","win":2,"draw":3,"loss":10,"for":16,"against":35,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"pse","name":"Hapoel Jerusalem","id":"Hapoel_Jerusalem_F.C.","win":1,"draw":1,"loss":11,"for":11,"against":60,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season"}
 ]

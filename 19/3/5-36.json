@@ -273,4 +273,11 @@
 {"country":"fin","name":"Sudet Viipuri","id":"Sudet","win":7,"draw":0,"loss":7,"for":31,"against":34},
 {"country":"fin","name":"VIFK Vaasa","id":"Vasa_IFK","win":3,"draw":3,"loss":8,"for":29,"against":37,"isRemoved":true,"isNew":true},
 {"country":"fin","name":"ÅIFK Turku","id":"Åbo_IFK","win":3,"draw":1,"loss":10,"for":12,"against":45,"isRemoved":true}
+][
+{"country":"pse","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":7,"draw":2,"loss":1,"for":21,"against":9,"isChampion":true,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"pse","name":"Hakoah Tel Aviv","id":"Hakoah_Tel_Aviv_F.C.","win":6,"draw":3,"loss":1,"for":18,"against":8,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"pse","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":4,"draw":4,"loss":2,"for":24,"against":12,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"pse","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":4,"draw":2,"loss":4,"for":16,"against":13,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"pse","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":2,"draw":3,"loss":5,"for":10,"against":20,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"pse","name":"Maccabi Nes Tziona","id":"Maccabi_Nes_Tziona_F.C.","win":0,"draw":0,"loss":10,"for":2,"against":29,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"}
 ]

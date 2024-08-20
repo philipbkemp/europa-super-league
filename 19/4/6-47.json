@@ -260,4 +260,19 @@
 {"country":"esp","name":"Murcia","id":"Real_Murcia_CF","win":6,"draw":7,"loss":13,"for":30,"against":58,"isRemoved":true},
 {"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":5,"draw":8,"loss":13,"for":32,"against":60,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Castellón","id":"CD_Castellón","win":4,"draw":5,"loss":17,"for":39,"against":80,"isRemoved":true}
+][
+{"country":"pse","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":22,"draw":2,"loss":2,"for":116,"against":30,"isChampion":true,"isReturning":true,"isRemoved":true,"removedNote":"League not contested again"},
+{"country":"pse","name":"Beitar Tel Aviv","id":"Beitar_Tel_Aviv_F.C.","win":20,"draw":3,"loss":3,"for":90,"against":32,"isReturning":true,"isRemoved":true,"removedNote":"League not contested again"},
+{"country":"pse","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":17,"draw":3,"loss":6,"for":84,"against":45,"isReturning":true,"isRemoved":true,"removedNote":"League not contested again"},
+{"country":"pse","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":14,"draw":6,"loss":6,"for":55,"against":28,"isReturning":true,"isRemoved":true,"removedNote":"League not contested again"},
+{"country":"pse","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":13,"draw":4,"loss":9,"for":55,"against":30,"isReturning":true,"isRemoved":true,"removedNote":"League not contested again"},
+{"country":"pse","name":"Hapoel Ramat Gan","id":"Hapoel_Ramat_Gan_Givatayim_F.C.","win":12,"draw":6,"loss":8,"for":62,"against":56,"isReturning":true,"isRemoved":true,"removedNote":"League not contested again"},
+{"country":"pse","name":"Maccabi Rehovot","id":"Maccabi_Rehovot_F.C.","win":10,"draw":7,"loss":9,"for":55,"against":58,"isReturning":true,"isRemoved":true,"removedNote":"League not contested again"},
+{"country":"pse","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":9,"draw":7,"loss":10,"for":57,"against":44,"isReturning":true,"isRemoved":true,"removedNote":"League not contested again"},
+{"country":"pse","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":9,"draw":6,"loss":11,"for":47,"against":62,"isReturning":true,"isRemoved":true,"removedNote":"League not contested again"},
+{"country":"pse","name":"Maccabi Rishon LeZion","id":"Maccabi_Rishon_LeZion_F.C.","win":6,"draw":7,"loss":13,"for":39,"against":67,"isReturning":true,"isRemoved":true,"removedNote":"League not contested again"},
+{"country":"pse","name":"Maccabi Nes Tziona","id":"Maccabi_Nes_Tziona_F.C.","win":7,"draw":4,"loss":15,"for":52,"against":68,"isReturning":true,"isRemoved":true,"removedNote":"League not contested again"},
+{"country":"pse","name":"Hapoel Rishon LeZion","id":"Hapoel_Rishon_LeZion_F.C.","win":5,"draw":6,"loss":15,"for":27,"against":67,"isReturning":true,"isRemoved":true,"removedNote":"League not contested again"},
+{"country":"pse","name":"Hapoel Rehovot","id":"Hapoel_Rehovot_F.C.","win":4,"draw":4,"loss":18,"for":23,"against":67,"isReturning":true,"isRemoved":true,"removedNote":"League not contested again"},
+{"country":"pse","name":"Hapoel Herzliya","id":"Hapoel_Herzliya_F.C.","win":0,"draw":1,"loss":25,"for":12,"against":100,"isReturning":true,"isRemoved":true,"removedNote":"League not contested again"}
 ]
