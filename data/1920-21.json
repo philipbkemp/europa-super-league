@@ -77,7 +77,7 @@
 	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":9,"draw":1,"loss":4,"for":47,"against":15},
 	{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":8,"draw":2,"loss":4,"for":26,"against":16,"isNew":true},
 	{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":8,"draw":1,"loss":5,"for":28,"against":24},
-	{"country":"lux","name":"FA Red Boys Differdange","id":"FA_Red_Boys_Differdange","win":6,"draw":2,"loss":6,"for":42,"against":31,"isNew":true},
+	{"country":"lux","name":"FA Red Boys Differdange","id":"fa_red_boys_differdange","win":6,"draw":2,"loss":6,"for":42,"against":31,"isNew":true},
 	{"country":"lux","name":"Sporting Club Luxembourg","id":"SC_Luxembourg","win":6,"draw":2,"loss":6,"for":35,"against":29},
 	{"country":"lux","name":"Racing Club Luxembourg","id":"Racing_Club_Luxembourg","win":4,"draw":2,"loss":8,"for":23,"against":28,"isRemoved":true},
 	{"country":"lux","name":"US Rumelange","id":"US_Rumelange","win":0,"draw":0,"loss":14,"for":11,"against":86,"isNew":true,"isRemoved":true},

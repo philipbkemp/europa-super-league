@@ -69,7 +69,7 @@
 	{"country":"hun","name":"Újpesti Törekvés SE","id":"Újpesti_Törekvés_SE","win":5,"draw":4,"loss":13,"for":26,"against":48,"isReturning":true,"isRemoved":true},
 	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":11,"draw":1,"loss":2,"for":45,"against":14,"isChampion":true},
 	{"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":9,"draw":2,"loss":3,"for":41,"against":24,"isNew":true},
-	{"country":"lux","name":"FA Red Boys Differdange","id":"FA_Red_Boys_Differdange","win":8,"draw":2,"loss":4,"for":28,"against":13},
+	{"country":"lux","name":"FA Red Boys Differdange","id":"fa_red_boys_differdange","win":8,"draw":2,"loss":4,"for":28,"against":13},
 	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":6,"draw":3,"loss":5,"for":27,"against":25},
 	{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":6,"draw":2,"loss":6,"for":26,"against":28},
 	{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":3,"draw":3,"loss":8,"for":21,"against":27},

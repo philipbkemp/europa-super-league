@@ -67,7 +67,7 @@
 	{"country":"hun","name":"Kispest AC","id":"Budapest_Honvéd_FC","win":3,"draw":9,"loss":10,"for":15,"against":28},
 	{"country":"hun","name":"Magyar AC","id":"Magyar_AC","win":3,"draw":2,"loss":17,"for":10,"against":37,"isRemoved":true},
 	{"country":"hun","name":"Műegyetemi AFC","id":"Műegyetemi_AFC","win":2,"draw":4,"loss":16,"for":10,"against":41,"isReturning":true,"isRemoved":true},
-	{"country":"lux","name":"FA Red Boys Differdange","id":"FA_Red_Boys_Differdange","win":10,"draw":3,"loss":1,"for":52,"against":20,"isChampion":true},
+	{"country":"lux","name":"FA Red Boys Differdange","id":"fa_red_boys_differdange","win":10,"draw":3,"loss":1,"for":52,"against":20,"isChampion":true},
 	{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":9,"draw":4,"loss":1,"for":36,"against":17},
 	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":7,"draw":2,"loss":5,"for":44,"against":27},
 	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":6,"draw":2,"loss":6,"for":32,"against":36},

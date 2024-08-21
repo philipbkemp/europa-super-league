@@ -167,7 +167,7 @@
 {"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":8,"draw":3,"loss":11,"for":34,"against":49},
 {"country":"lux","name":"CS Pétange","id":"CS_Pétange","win":7,"draw":5,"loss":10,"for":32,"against":49,"isReturning":true},
 {"country":"lux","name":"Jeunesse Wasserbillig","id":"Jeunesse_Wasserbillig","win":8,"draw":2,"loss":12,"for":36,"against":48},
-{"country":"lux","name":"FA Red Boys Differdange","id":"FA_Red_Boys_Differdange","win":8,"draw":1,"loss":13,"for":38,"against":44,"isRemoved":true},
+{"country":"lux","name":"FA Red Boys Differdange","id":"fa_red_boys_differdange","win":8,"draw":1,"loss":13,"for":38,"against":44,"isRemoved":true},
 {"country":"lux","name":"Alliance Dudelange","id":"Alliance_Dudelange","win":3,"draw":4,"loss":15,"for":32,"against":65,"isRemoved":true}
 ][
 {"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":7,"draw":3,"loss":0,"for":24,"against":7,"isChampion":true},

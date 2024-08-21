@@ -164,7 +164,7 @@
 {"country":"lux","name":"Wiltz 71","id":"FC_Wiltz_71","win":7,"draw":3,"loss":12,"for":25,"against":41},
 {"country":"lux","name":"Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":5,"draw":6,"loss":11,"for":32,"against":52},
 {"country":"lux","name":"Pétange","id":"CS_Pétange","win":6,"draw":1,"loss":15,"for":20,"against":46,"isRemoved":true},
-{"country":"lux","name":"Red Boys Differdange","id":"FA_Red_Boys_Differdange","win":3,"draw":4,"loss":15,"for":29,"against":72,"isRemoved":true}
+{"country":"lux","name":"Red Boys Differdange","id":"fa_red_boys_differdange","win":3,"draw":4,"loss":15,"for":29,"against":72,"isRemoved":true}
 ][
 {"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":15,"draw":1,"loss":2,"for":55,"against":16,"isChampion":true},
 {"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":13,"draw":3,"loss":2,"for":49,"against":11},

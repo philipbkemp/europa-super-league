@@ -166,7 +166,7 @@
 {"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":9,"draw":5,"loss":8,"for":43,"against":34},
 {"country":"lux","name":"FC Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":10,"draw":1,"loss":11,"for":42,"against":45},
 {"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":7,"draw":6,"loss":9,"for":39,"against":47},
-{"country":"lux","name":"FA Red Boys Differdange","id":"FA_Red_Boys_Differdange","win":7,"draw":6,"loss":9,"for":31,"against":41},
+{"country":"lux","name":"FA Red Boys Differdange","id":"fa_red_boys_differdange","win":7,"draw":6,"loss":9,"for":31,"against":41},
 {"country":"lux","name":"US Dudelange","id":"US_Dudelange","win":6,"draw":6,"loss":10,"for":38,"against":59,"isReturning":true},
 {"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":6,"draw":5,"loss":11,"for":41,"against":57},
 {"country":"lux","name":"CS Grevenmacher","id":"CS_Grevenmacher","win":7,"draw":3,"loss":12,"for":29,"against":44,"isRemoved":true},
