@@ -175,4 +175,11 @@
 {"country":"fra","name":"Le Havre AC","id":"Le_Havre_AC","win":13,"draw":4,"loss":17,"for":48,"against":68,"isReturning":true},
 {"country":"fra","name":"FC Metz","id":"FC_Metz","win":10,"draw":5,"loss":19,"for":40,"against":77,"isReturning":true},
 {"country":"fra","name":"FC Sochaux-Montbéliard","id":"FC_Sochaux-Montbéliard","win":4,"draw":7,"loss":23,"for":35,"against":79,"isRemoved":true,"isReturning":true}
+][
+{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":8,"draw":1,"loss":1,"for":34,"against":14,"isChampion":true},
+{"country":"cyp","name":"APOEL F.C.","id":"APOEL_FC","win":7,"draw":1,"loss":2,"for":37,"against":12},
+{"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":3,"draw":3,"loss":4,"for":20,"against":23},
+{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":3,"draw":2,"loss":5,"for":16,"against":22},
+{"country":"cyp","name":"Lefkoşa Türk Spor Kulübü","id":"Çetinkaya_Türk_S.K.","win":3,"draw":0,"loss":7,"for":17,"against":35},
+{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":1,"draw":3,"loss":6,"for":12,"against":30}
 ]

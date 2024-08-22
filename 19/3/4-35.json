@@ -313,4 +313,13 @@
 {"country":"fra","name":"FC Antibes","id":"FC_Antibes","win":8,"draw":7,"loss":15,"for":49,"against":80},
 {"country":"fra","name":"SO Montpellier","id":"Montpellier_HSC","win":7,"draw":3,"loss":20,"for":37,"against":86,"isRemoved":true},
 {"country":"fra","name":"Nîmes","id":"Nîmes_Olympique","win":5,"draw":5,"loss":20,"for":35,"against":67,"isRemoved":true}
+][
+{"country":"cyp","name":"Enosis Neon Trust","id":"Enosis_Neon_Trust","win":11,"draw":2,"loss":1,"for":45,"against":15,"isChampion":true,"isNew":true},
+{"country":"cyp","name":"Lefkoşa Türk Spor Kulübü","id":"Çetinkaya_Türk_S.K.","win":6,"draw":4,"loss":3,"for":31,"against":12,"isNew":true},
+{"country":"cyp","name":"APOEL FC","id":"APOEL_FC","win":7,"draw":1,"loss":6,"for":25,"against":20,"isNew":true},
+{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":6,"draw":2,"loss":6,"for":37,"against":26,"isNew":true},
+{"country":"cyp","name":"Anorthosis Famagusta FC","id":"Anorthosis_Famagusta_FC","win":4,"draw":5,"loss":5,"for":27,"against":38,"isNew":true},
+{"country":"cyp","name":"Aris Limassol FC","id":"Aris_Limassol_FC","win":4,"draw":2,"loss":7,"for":30,"against":30,"isNew":true},
+{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":5,"draw":0,"loss":7,"for":17,"against":34,"isNew":true},
+{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":1,"draw":2,"loss":9,"for":11,"against":48,"isNew":true}
 ]

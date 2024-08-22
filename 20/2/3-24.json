@@ -416,4 +416,19 @@
 {"country":"fra","name":"Metz","id":"FC_Metz","win":8,"draw":5,"loss":21,"for":35,"against":58,"isRemoved":true,"isReturning":true},
 {"country":"fra","name":"Lorient","id":"FC_Lorient","win":7,"draw":8,"loss":19,"for":43,"against":66,"isRemoved":true},
 {"country":"fra","name":"Clermont","id":"Clermont_Foot","win":5,"draw":10,"loss":19,"for":26,"against":60,"isRemoved":true}
+][
+{"country":"cyp","name":"APOEL","id":"APOEL_FC","win":22,"draw":7,"loss":7,"for":63,"against":24,"isChampion":true},
+{"country":"cyp","name":"Aris Limassol","id":"Aris_Limassol_FC","win":20,"draw":5,"loss":11,"for":63,"against":34},
+{"country":"cyp","name":"AEK Larnaca","id":"AEK_Larnaca_FC","win":21,"draw":10,"loss":5,"for":57,"against":31},
+{"country":"cyp","name":"Pafos","id":"Pafos_FC","win":18,"draw":8,"loss":10,"for":60,"against":33},
+{"country":"cyp","name":"Omonia","id":"AC_Omonia","win":20,"draw":9,"loss":7,"for":62,"against":37},
+{"country":"cyp","name":"Anorthosis Famagusta","id":"Anorthosis_Famagusta_FC","win":15,"draw":8,"loss":13,"for":46,"against":42},
+{"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":18,"draw":12,"loss":10,"for":64,"against":38},
+{"country":"cyp","name":"Nea Salamis Famagusta","id":"Nea_Salamis_Famagusta_FC","win":14,"draw":9,"loss":17,"for":52,"against":61},
+{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":15,"draw":9,"loss":16,"for":61,"against":68},
+{"country":"cyp","name":"Ethnikos Achna","id":"Ethnikos_Achna_FC","win":13,"draw":11,"loss":16,"for":70,"against":79,"isReturning":true},
+{"country":"cyp","name":"Karmiotissa","id":"Karmiotissa_FC","win":10,"draw":10,"loss":20,"for":58,"against":77},
+{"country":"cyp","name":"AEZ Zakakiou","id":"AEZ_Zakakiou","win":2,"draw":12,"loss":26,"for":40,"against":100,"isRemoved":true,"isReturning":true},
+{"country":"cyp","name":"Othellos Athienou","id":"Othellos_Athienou_FC","win":8,"draw":9,"loss":23,"for":48,"against":77,"isRemoved":true,"isReturning":true},
+{"country":"cyp","name":"Doxa Katokopias","id":"Doxa_Katokopias_FC","win":10,"draw":5,"loss":25,"for":34,"against":77,"isRemoved":true}
 ]

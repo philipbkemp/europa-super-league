@@ -142,4 +142,10 @@
 {"country":"pse","name":"Hakoah Tel Aviv","id":"Hakoah_Tel_Aviv_F.C.","win":4,"draw":4,"loss":6,"for":12,"against":25,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 {"country":"pse","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":5,"draw":0,"loss":9,"for":32,"against":42,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 {"country":"pse","name":"Hapoel Herzliya","id":"Hapoel_Herzliya_F.C.","win":0,"draw":2,"loss":12,"for":6,"against":53,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season"}
+][
+{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":6,"draw":0,"loss":1,"for":43,"against":11,"isChampion":true,"isRemoved":true,"removedNote":"League suspended"},
+{"country":"cyp","name":"APOEL F.C.","id":"APOEL_FC","win":6,"draw":0,"loss":1,"for":41,"against":8,"isRemoved":true,"removedNote":"League suspended"},
+{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":2,"draw":0,"loss":5,"for":17,"against":26,"isRemoved":true,"removedNote":"League suspended"},
+{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":2,"draw":0,"loss":5,"for":16,"against":50,"isRemoved":true,"removedNote":"League suspended"},
+{"country":"cyp","name":"Lefkoşa Türk Spor Kulübü","id":"Çetinkaya_Türk_S.K.","win":0,"draw":0,"loss":4,"for":4,"against":26,"isRemoved":true,"removedNote":"League suspended"}
 ]

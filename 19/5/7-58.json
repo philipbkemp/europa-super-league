@@ -371,4 +371,15 @@
 {"country":"fra","name":"Olympique de Marseille","id":"Olympique_de_Marseille","win":8,"draw":10,"loss":16,"for":46,"against":65},
 {"country":"fra","name":"FC Metz","id":"FC_Metz","win":9,"draw":8,"loss":17,"for":45,"against":68,"isRemoved":true},
 {"country":"fra","name":"AS Béziers","id":"AS_Béziers_Hérault_(football)","win":9,"draw":6,"loss":19,"for":38,"against":77,"isRemoved":true,"isNew":true}
+][
+{"country":"cyp","name":"Anorthosis Famagusta FC","id":"Anorthosis_Famagusta_FC","win":12,"draw":3,"loss":2,"for":55,"against":22,"isChampion":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":8,"draw":5,"loss":3,"for":35,"against":22,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":9,"draw":2,"loss":7,"for":31,"against":34,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":7,"draw":5,"loss":6,"for":30,"against":25,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"cyp","name":"AC Omonia","id":"AC_Omonia","win":6,"draw":4,"loss":6,"for":20,"against":21,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"cyp","name":"APOEL F.C.","id":"APOEL_FC","win":5,"draw":5,"loss":6,"for":20,"against":23,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"cyp","name":"Nea Salamis FC","id":"Nea_Salamis_Famagusta_FC","win":6,"draw":3,"loss":9,"for":30,"against":40,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"cyp","name":"Aris Limassol F.C.","id":"Aris_Limassol_FC","win":5,"draw":5,"loss":7,"for":22,"against":32,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":2,"draw":9,"loss":6,"for":28,"against":38,"isRemoved":true,"removedNote":"League not contested next season","isNew":true},
+{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":1,"draw":7,"loss":9,"for":21,"against":35,"isRemoved":true,"removedNote":"League not contested next season"}
 ]

@@ -376,4 +376,18 @@
 {"country":"fra","name":"Sochaux","id":"FC_Sochaux-Montbéliard","win":8,"draw":12,"loss":18,"for":55,"against":69,"isRemoved":true,"isReturning":true},
 {"country":"fra","name":"Le Havre","id":"Le_Havre_AC","win":7,"draw":14,"loss":17,"for":34,"against":57,"isRemoved":true},
 {"country":"fra","name":"Metz","id":"FC_Metz","win":9,"draw":9,"loss":20,"for":49,"against":79,"isRemoved":true,"isReturning":true}
+][
+{"country":"cyp","name":"Anorthosis Famagusta FC","id":"Anorthosis_Famagusta_FC","win":16,"draw":3,"loss":5,"for":49,"against":26,"isChampion":true},
+{"country":"cyp","name":"AC Omonia","id":"AC_Omonia","win":13,"draw":5,"loss":6,"for":51,"against":23},
+{"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":13,"draw":4,"loss":7,"for":58,"against":38},
+{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":11,"draw":6,"loss":7,"for":53,"against":36},
+{"country":"cyp","name":"Nea Salamis FC","id":"Nea_Salamis_Famagusta_FC","win":11,"draw":6,"loss":7,"for":48,"against":36},
+{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":12,"draw":3,"loss":9,"for":56,"against":38,"deduct":-1},
+{"country":"cyp","name":"Orfeas Nicosia","id":"Orfeas_Nicosia","win":9,"draw":6,"loss":9,"for":43,"against":46},
+{"country":"cyp","name":"Aris Limassol F.C.","id":"Aris_Limassol_FC","win":9,"draw":6,"loss":9,"for":39,"against":46},
+{"country":"cyp","name":"APOEL F.C.","id":"APOEL_FC","win":8,"draw":6,"loss":10,"for":48,"against":46},
+{"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":9,"draw":4,"loss":11,"for":41,"against":49},
+{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":7,"draw":7,"loss":10,"for":41,"against":48},
+{"country":"cyp","name":"Alki Larnaca FC","id":"Alki_Larnaca_FC","win":8,"draw":3,"loss":13,"for":37,"against":45},
+{"country":"cyp","name":"AYMA","id":"Armenian_Young_Men%27s_Association","win":0,"draw":1,"loss":23,"for":15,"against":102,"isRemoved":true}
 ]

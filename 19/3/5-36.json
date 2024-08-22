@@ -297,4 +297,13 @@
 {"country":"fra","name":"Red Star","id":"Red_Star_F.C.","win":8,"draw":3,"loss":19,"for":49,"against":68},
 {"country":"fra","name":"Valenciennes","id":"Valenciennes_FC","win":7,"draw":5,"loss":18,"for":57,"against":87,"isRemoved":true,"isNew":true},
 {"country":"fra","name":"Olympique Alès","id":"Olympique_Alès","win":5,"draw":9,"loss":16,"for":39,"against":72,"isRemoved":true}
+][
+{"country":"cyp","name":"APOEL","id":"APOEL_FC","win":12,"draw":0,"loss":2,"for":52,"against":15,"isChampion":true},
+{"country":"cyp","name":"Trust","id":"Enosis_Neon_Trust","win":9,"draw":2,"loss":3,"for":39,"against":21},
+{"country":"cyp","name":"Lefkoşa Türk Spor Kulübü","id":"Çetinkaya_Türk_S.K.","win":9,"draw":1,"loss":4,"for":28,"against":21},
+{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":8,"draw":1,"loss":5,"for":35,"against":17},
+{"country":"cyp","name":"Aris Limassol F.C.","id":"Aris_Limassol_FC","win":8,"draw":0,"loss":6,"for":37,"against":33},
+{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":4,"draw":1,"loss":9,"for":23,"against":56},
+{"country":"cyp","name":"Anorthosis Famagusta FC","id":"Anorthosis_Famagusta_FC","win":2,"draw":1,"loss":11,"for":14,"against":38},
+{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":0,"draw":2,"loss":12,"for":8,"against":35,"isRemoved":true}
 ]

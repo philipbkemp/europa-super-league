@@ -414,4 +414,17 @@
 {"country":"fra","name":"Evian","id":"Thonon_Evian_Grand_Genève_FC","win":11,"draw":4,"loss":23,"for":41,"against":62,"isRemoved":true},
 {"country":"fra","name":"Metz","id":"FC_Metz","win":7,"draw":9,"loss":22,"for":31,"against":61,"isRemoved":true,"isReturning":true},
 {"country":"fra","name":"Lens","id":"RC_Lens","win":7,"draw":8,"loss":23,"for":32,"against":61,"isRemoved":true,"isReturning":true}
+][
+{"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":18,"draw":5,"loss":9,"for":59,"against":41},
+{"country":"cyp","name":"APOEL","id":"APOEL_FC","win":17,"draw":11,"loss":4,"for":52,"against":26,"isChampion":true},
+{"country":"cyp","name":"Omonia Nicosia","id":"AC_Omonia","win":17,"draw":5,"loss":10,"for":52,"against":34},
+{"country":"cyp","name":"AEK Larnaca","id":"AEK_Larnaca_FC","win":17,"draw":8,"loss":7,"for":56,"against":31},
+{"country":"cyp","name":"Anorthosis Famagusta","id":"Anorthosis_Famagusta_FC","win":16,"draw":4,"loss":12,"for":50,"against":37},
+{"country":"cyp","name":"Ermis Aradippou","id":"Ermis_Aradippou_FC","win":11,"draw":7,"loss":14,"for":38,"against":55},
+{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":9,"draw":12,"loss":11,"for":42,"against":42},
+{"country":"cyp","name":"Ethnikos Achna","id":"Ethnikos_Achna_FC","win":11,"draw":8,"loss":13,"for":36,"against":49},
+{"country":"cyp","name":"Nea Salamis Famagusta","id":"Nea_Salamis_Famagusta_FC","win":9,"draw":9,"loss":14,"for":31,"against":37},
+{"country":"cyp","name":"Ayia Napa","id":"Ayia_Napa_FC","win":6,"draw":12,"loss":14,"for":32,"against":54,"isReturning":true},
+{"country":"cyp","name":"Othellos Athienou","id":"Othellos_Athienou_FC","win":5,"draw":10,"loss":17,"for":26,"against":42,"isRemoved":true,"isNew":true},
+{"country":"cyp","name":"Doxa Katokopias","id":"Doxa_Katokopias_FC","win":7,"draw":7,"loss":18,"for":29,"against":55}
 ]

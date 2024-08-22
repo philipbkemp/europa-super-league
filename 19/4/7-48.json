@@ -321,4 +321,10 @@
 {"country":"fra","name":"FC Sète","id":"FC_Sète_34","win":11,"draw":4,"loss":19,"for":59,"against":85},
 {"country":"fra","name":"Olympique Alès","id":"Olympique_Alès","win":7,"draw":11,"loss":16,"for":49,"against":79,"isRemoved":true,"isReturning":true},
 {"country":"fra","name":"Red Star Olympique","id":"Red_Star_F.C.","win":6,"draw":4,"loss":24,"for":30,"against":77,"isRemoved":true}
+][
+{"country":"cyp","name":"APOEL F.C.","id":"APOEL_FC","win":7,"draw":1,"loss":0,"for":37,"against":7,"isChampion":true},
+{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":5,"draw":1,"loss":2,"for":20,"against":10},
+{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":4,"draw":0,"loss":4,"for":25,"against":23},
+{"country":"cyp","name":"AYMA","id":"Armenian_Young_Men%27s_Association","win":2,"draw":1,"loss":5,"for":12,"against":26,"isNew":true},
+{"country":"cyp","name":"Lefkoşa Türk Spor Kulübü","id":"Çetinkaya_Türk_S.K.","win":0,"draw":1,"loss":7,"for":6,"against":34}
 ]

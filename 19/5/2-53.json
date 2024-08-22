@@ -330,4 +330,13 @@
 {"country":"fra","name":"Stade Rennais UC","id":"Stade_Rennais_F.C.","win":10,"draw":8,"loss":16,"for":37,"against":56,"isRemoved":true},
 {"country":"fra","name":"RC Paris","id":"Racing_Club_de_France_Football","win":11,"draw":6,"loss":17,"for":40,"against":64,"isRemoved":true},
 {"country":"fra","name":"SO Montpellier","id":"Montpellier_HSC","win":8,"draw":9,"loss":17,"for":43,"against":67,"isRemoved":true,"isReturning":true}
+][
+{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":11,"draw":1,"loss":2,"for":43,"against":23,"isChampion":true},
+{"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":9,"draw":3,"loss":2,"for":33,"against":16},
+{"country":"cyp","name":"APOEL F.C.","id":"APOEL_FC","win":6,"draw":5,"loss":3,"for":33,"against":25},
+{"country":"cyp","name":"Çetinkaya Türk S.K.","id":"Çetinkaya_Türk_S.K.","win":6,"draw":3,"loss":5,"for":27,"against":23},
+{"country":"cyp","name":"Anorthosis Famagusta FC","id":"Anorthosis_Famagusta_FC","win":4,"draw":4,"loss":6,"for":30,"against":31},
+{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":5,"draw":2,"loss":7,"for":21,"against":25},
+{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":3,"draw":2,"loss":9,"for":20,"against":40},
+{"country":"cyp","name":"AYMA","id":"Armenian_Young_Men%27s_Association","win":0,"draw":4,"loss":10,"for":20,"against":44}
 ]

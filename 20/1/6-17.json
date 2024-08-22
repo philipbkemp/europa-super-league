@@ -404,4 +404,19 @@
 {"country":"fra","name":"Lorient","id":"FC_Lorient","win":10,"draw":6,"loss":22,"for":44,"against":70,"isRemoved":true},
 {"country":"fra","name":"Nancy","id":"AS_Nancy_Lorraine","win":9,"draw":8,"loss":21,"for":29,"against":52,"isRemoved":true,"isReturning":true},
 {"country":"fra","name":"Bastia","id":"SC_Bastia","win":8,"draw":10,"loss":20,"for":29,"against":54,"isRemoved":true}
+][
+{"country":"cyp","name":"APOEL","id":"APOEL_FC","win":24,"draw":8,"loss":4,"for":77,"against":24,"isChampion":true},
+{"country":"cyp","name":"AEK Larnaca","id":"AEK_Larnaca_FC","win":22,"draw":10,"loss":4,"for":66,"against":28},
+{"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":21,"draw":10,"loss":5,"for":71,"against":30},
+{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":19,"draw":9,"loss":8,"for":53,"against":36},
+{"country":"cyp","name":"Omonia","id":"AC_Omonia","win":17,"draw":6,"loss":13,"for":68,"against":57},
+{"country":"cyp","name":"Anorthosis Famagusta","id":"Anorthosis_Famagusta_FC","win":12,"draw":11,"loss":13,"for":48,"against":41},
+{"country":"cyp","name":"Ermis Aradippou","id":"Ermis_Aradippou_FC","win":14,"draw":6,"loss":16,"for":51,"against":61,"deduct":-6,"deductReason":"Suspicious betting activity"},
+{"country":"cyp","name":"Nea Salamis Famagusta","id":"Nea_Salamis_Famagusta_FC","win":12,"draw":9,"loss":15,"for":33,"against":44},
+{"country":"cyp","name":"Ethnikos Achna","id":"Ethnikos_Achna_FC","win":11,"draw":10,"loss":15,"for":57,"against":66},
+{"country":"cyp","name":"Karmiotissa Pano Polemidion","id":"Karmiotissa_FC","win":10,"draw":7,"loss":19,"for":47,"against":71,"isRemoved":true,"isNew":true},
+{"country":"cyp","name":"Aris Limassol","id":"Aris_Limassol_FC","win":11,"draw":8,"loss":17,"for":47,"against":65},
+{"country":"cyp","name":"Doxa Katokopias","id":"Doxa_Katokopias_FC","win":10,"draw":7,"loss":19,"for":40,"against":52},
+{"country":"cyp","name":"Anagennisi Deryneia","id":"Anagennisi_Deryneia_FC","win":0,"draw":7,"loss":19,"for":18,"against":58,"isRemoved":true,"isReturning":true},
+{"country":"cyp","name":"AEZ Zakakiou","id":"AEZ_Zakakiou","win":1,"draw":8,"loss":17,"for":20,"against":63,"isRemoved":true,"deduct":-6,"deductReason":"Suspicious betting activity","isNew":true}
 ]
