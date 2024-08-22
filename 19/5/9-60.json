@@ -419,4 +419,19 @@
 {"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":5,"draw":4,"loss":11,"for":31,"against":50,"isReturning":true},
 {"country":"cyp","name":"Orfeas Nicosia","id":"Orfeas_Nicosia","win":5,"draw":4,"loss":11,"for":17,"against":32,"isNew":true},
 {"country":"cyp","name":"Aris Limassol F.C.","id":"Aris_Limassol_FC","win":4,"draw":4,"loss":12,"for":27,"against":51,"isReturning":true}
+][
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":20,"draw":5,"loss":1,"for":75,"against":27,"isChampion":true},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":19,"draw":5,"loss":2,"for":82,"against":20},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":15,"draw":6,"loss":5,"for":58,"against":25},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":13,"draw":4,"loss":9,"for":48,"against":36},
+{"country":"prt","name":"CUF Barreiro","id":"G.D._Fabril","win":10,"draw":5,"loss":11,"for":36,"against":39},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":8,"draw":9,"loss":9,"for":40,"against":41},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":8,"draw":7,"loss":11,"for":47,"against":43},
+{"country":"prt","name":"Leixões","id":"Leixões_S.C.","win":8,"draw":7,"loss":11,"for":48,"against":56,"isReturning":true},
+{"country":"prt","name":"Sporting da Covilhã","id":"S.C._Covilhã","win":8,"draw":6,"loss":12,"for":32,"against":49},
+{"country":"prt","name":"Lusitano de Évora","id":"Lusitano_G.C.","win":6,"draw":9,"loss":11,"for":32,"against":55},
+{"country":"prt","name":"Atlético","id":"Atlético_Clube_de_Portugal","win":7,"draw":7,"loss":12,"for":34,"against":46,"isReturning":true},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":6,"draw":8,"loss":12,"for":24,"against":39},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":5,"draw":8,"loss":13,"for":26,"against":52,"isRemoved":true},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":4,"draw":4,"loss":18,"for":27,"against":81,"isRemoved":true,"isReturning":true}
 ]

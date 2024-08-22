@@ -331,4 +331,19 @@
 {"country":"cyp","name":"AYMA","id":"Armenian_Young_Men%27s_Association","win":2,"draw":5,"loss":7,"for":32,"against":36},
 {"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":2,"draw":2,"loss":10,"for":22,"against":41},
 {"country":"cyp","name":"Lefkoşa Türk Spor Kulübü","id":"Çetinkaya_Türk_S.K.","win":2,"draw":1,"loss":11,"for":21,"against":58}
+][
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":20,"draw":2,"loss":4,"for":100,"against":35,"isChampion":true},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":17,"draw":3,"loss":6,"for":72,"against":34},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":16,"draw":3,"loss":7,"for":68,"against":36},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":16,"draw":1,"loss":9,"for":55,"against":37},
+{"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":12,"draw":5,"loss":9,"for":76,"against":54},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":11,"draw":4,"loss":11,"for":47,"against":50},
+{"country":"prt","name":"Olhanense","id":"S.C._Olhanense","win":10,"draw":4,"loss":12,"for":51,"against":55},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":11,"draw":2,"loss":13,"for":39,"against":54},
+{"country":"prt","name":"O Elvas","id":"O_Elvas_C.A.D.","win":7,"draw":7,"loss":12,"for":46,"against":61},
+{"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":8,"draw":5,"loss":13,"for":44,"against":68},
+{"country":"prt","name":"Sporting da Covilhã","id":"S.C._Covilhã","win":9,"draw":2,"loss":15,"for":50,"against":59,"isNew":true},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":8,"draw":4,"loss":14,"for":39,"against":61},
+{"country":"prt","name":"Lusitano VRSA","id":"Lusitano_F.C._(Portugal)","win":7,"draw":4,"loss":15,"for":23,"against":52},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":4,"draw":6,"loss":16,"for":35,"against":89,"isRemoved":true}
 ]

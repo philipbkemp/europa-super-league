@@ -452,4 +452,21 @@
 {"country":"cyp","name":"ASIL Lysi","id":"ASIL_Lysi","win":7,"draw":3,"loss":16,"for":34,"against":81,"isReturning":true},
 {"country":"cyp","name":"Digenis Akritas Morphou","id":"Digenis_Akritas_Morphou_FC","win":3,"draw":8,"loss":15,"for":21,"against":56},
 {"country":"cyp","name":"Evagoras Paphos","id":"Evagoras_Paphos","win":2,"draw":9,"loss":15,"for":17,"against":50}
+][
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":21,"draw":7,"loss":2,"for":62,"against":12,"isChampion":true},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":19,"draw":6,"loss":5,"for":62,"against":30},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":17,"draw":9,"loss":4,"for":59,"against":25},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":16,"draw":6,"loss":8,"for":58,"against":32},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":16,"draw":6,"loss":8,"for":64,"against":36},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":14,"draw":7,"loss":9,"for":45,"against":37},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":11,"draw":7,"loss":12,"for":48,"against":36},
+{"country":"prt","name":"CUF Barreiro","id":"G.D._Fabril","win":10,"draw":9,"loss":11,"for":41,"against":41},
+{"country":"prt","name":"Leixões","id":"Leixões_S.C.","win":10,"draw":9,"loss":11,"for":29,"against":42},
+{"country":"prt","name":"Atlético","id":"Atlético_Clube_de_Portugal","win":10,"draw":6,"loss":14,"for":38,"against":69,"isReturning":true},
+{"country":"prt","name":"Farense","id":"S.C._Farense","win":11,"draw":3,"loss":16,"for":38,"against":52},
+{"country":"prt","name":"União de Tomar","id":"U.F.C.I._Tomar","win":9,"draw":5,"loss":16,"for":39,"against":59,"isReturning":true},
+{"country":"prt","name":"Oriental","id":"Clube_Oriental_de_Lisboa","win":5,"draw":10,"loss":15,"for":21,"against":51,"isRemoved":true},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":7,"draw":6,"loss":17,"for":33,"against":47},
+{"country":"prt","name":"Olhanense","id":"S.C._Olhanense","win":6,"draw":5,"loss":19,"for":41,"against":70,"isRemoved":true},
+{"country":"prt","name":"Espinho","id":"S.C._Espinho","win":4,"draw":7,"loss":19,"for":25,"against":64,"isRemoved":true,"isNew":true}
 ]

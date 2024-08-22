@@ -427,4 +427,23 @@
 {"country":"cyp","name":"Ayia Napa","id":"Ayia_Napa_FC","win":6,"draw":12,"loss":14,"for":32,"against":54,"isReturning":true},
 {"country":"cyp","name":"Othellos Athienou","id":"Othellos_Athienou_FC","win":5,"draw":10,"loss":17,"for":26,"against":42,"isRemoved":true,"isNew":true},
 {"country":"cyp","name":"Doxa Katokopias","id":"Doxa_Katokopias_FC","win":7,"draw":7,"loss":18,"for":29,"against":55}
+][
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":27,"draw":4,"loss":3,"for":86,"against":16,"isChampion":true},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":25,"draw":7,"loss":2,"for":74,"against":13},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":22,"draw":10,"loss":2,"for":67,"against":29},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":17,"draw":7,"loss":10,"for":55,"against":28},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":15,"draw":10,"loss":9,"for":50,"against":35},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":12,"draw":12,"loss":10,"for":34,"against":35},
+{"country":"prt","name":"Nacional","id":"C.D._Nacional","win":13,"draw":8,"loss":13,"for":45,"against":46},
+{"country":"prt","name":"Paços de Ferreira","id":"F.C._Paços_de_Ferreira","win":12,"draw":11,"loss":11,"for":40,"against":45},
+{"country":"prt","name":"Marítimo","id":"C.S._Marítimo","win":12,"draw":8,"loss":14,"for":46,"against":45},
+{"country":"prt","name":"Rio Ave","id":"Rio_Ave_F.C.","win":10,"draw":13,"loss":11,"for":38,"against":42},
+{"country":"prt","name":"Moreirense","id":"Moreirense_F.C.","win":11,"draw":10,"loss":13,"for":33,"against":42,"isReturning":true},
+{"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":9,"draw":13,"loss":12,"for":38,"against":56},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":9,"draw":7,"loss":18,"for":27,"against":50,"isReturning":true},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":7,"draw":8,"loss":19,"for":24,"against":56},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":4,"draw":17,"loss":13,"for":26,"against":46},
+{"country":"prt","name":"Arouca","id":"F.C._Arouca","win":7,"draw":7,"loss":20,"for":26,"against":50},
+{"country":"prt","name":"Gil Vicente","id":"Gil_Vicente_F.C.","win":4,"draw":11,"loss":19,"for":25,"against":60,"isRemoved":true},
+{"country":"prt","name":"Penafiel","id":"F.C._Penafiel","win":5,"draw":7,"loss":22,"for":29,"against":69,"isRemoved":true,"isReturning":true}
 ]

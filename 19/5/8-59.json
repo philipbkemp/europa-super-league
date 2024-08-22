@@ -369,4 +369,19 @@
 {"country":"fra","name":"Lille OSC","id":"Lille_OSC","win":9,"draw":11,"loss":18,"for":56,"against":78,"isRemoved":true},
 {"country":"fra","name":"Olympique Alès","id":"Olympique_Alès","win":8,"draw":8,"loss":22,"for":45,"against":83,"isRemoved":true},
 {"country":"fra","name":"Olympique de Marseille","id":"Olympique_de_Marseille","win":6,"draw":11,"loss":21,"for":50,"against":84,"isRemoved":true}
+][
+{"country":"prt","name":"Porto","id":"FC_Porto","win":17,"draw":7,"loss":2,"for":81,"against":22,"isChampion":true},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":17,"draw":7,"loss":2,"for":78,"against":20},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":16,"draw":6,"loss":4,"for":65,"against":27},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":12,"draw":7,"loss":7,"for":50,"against":28},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":13,"draw":3,"loss":10,"for":59,"against":55,"isReturning":true},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":11,"draw":5,"loss":10,"for":53,"against":64},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":9,"draw":6,"loss":11,"for":48,"against":51},
+{"country":"prt","name":"Sporting da Covilhã","id":"S.C._Covilhã","win":9,"draw":4,"loss":13,"for":43,"against":65,"isReturning":true},
+{"country":"prt","name":"Lusitano de Évora","id":"Lusitano_G.C.","win":8,"draw":5,"loss":13,"for":40,"against":49},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":8,"draw":5,"loss":13,"for":45,"against":46},
+{"country":"prt","name":"CUF Barreiro","id":"G.D._Fabril","win":8,"draw":5,"loss":13,"for":34,"against":55},
+{"country":"prt","name":"Barreirense","id":"F.C._Barreirense","win":7,"draw":3,"loss":16,"for":39,"against":62,"isRemoved":true},
+{"country":"prt","name":"Caldas","id":"Caldas_S.C.","win":5,"draw":6,"loss":15,"for":33,"against":76,"isRemoved":true},
+{"country":"prt","name":"Torreense","id":"S.C.U._Torreense","win":5,"draw":5,"loss":16,"for":23,"against":71,"isRemoved":true}
 ]

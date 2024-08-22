@@ -327,4 +327,19 @@
 {"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":4,"draw":0,"loss":4,"for":25,"against":23},
 {"country":"cyp","name":"AYMA","id":"Armenian_Young_Men%27s_Association","win":2,"draw":1,"loss":5,"for":12,"against":26,"isNew":true},
 {"country":"cyp","name":"Lefkoşa Türk Spor Kulübü","id":"Çetinkaya_Türk_S.K.","win":0,"draw":1,"loss":7,"for":6,"against":34}
+][
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":20,"draw":1,"loss":5,"for":92,"against":40,"isChampion":true},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":19,"draw":3,"loss":4,"for":84,"against":35},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":16,"draw":5,"loss":5,"for":76,"against":30},
+{"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":16,"draw":4,"loss":6,"for":91,"against":49},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":17,"draw":2,"loss":7,"for":73,"against":42},
+{"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":11,"draw":3,"loss":12,"for":56,"against":61},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":10,"draw":4,"loss":12,"for":44,"against":56},
+{"country":"prt","name":"O Elvas","id":"O_Elvas_C.A.D.","win":11,"draw":2,"loss":13,"for":66,"against":63},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":9,"draw":2,"loss":15,"for":40,"against":65},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":8,"draw":3,"loss":15,"for":38,"against":64},
+{"country":"prt","name":"Olhanense","id":"S.C._Olhanense","win":5,"draw":7,"loss":14,"for":48,"against":66},
+{"country":"prt","name":"Lusitano VRSA","id":"Lusitano_F.C._(Portugal)","win":7,"draw":3,"loss":16,"for":29,"against":78,"isNew":true},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":6,"draw":4,"loss":16,"for":47,"against":69,"isNew":true},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":4,"draw":2,"loss":20,"for":35,"against":113,"isRemoved":true}
 ]

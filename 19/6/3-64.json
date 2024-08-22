@@ -420,4 +420,19 @@
 {"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":1,"draw":2,"loss":3,"for":10,"against":14},
 {"country":"cyp","name":"Alki Larnaca F.C.","id":"Alki_Larnaca_FC","win":1,"draw":1,"loss":5,"for":13,"against":18},
 {"country":"cyp","name":"Aris Limassol F.C.","id":"Aris_Limassol_FC","win":1,"draw":1,"loss":5,"for":2,"against":10}
+][
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":21,"draw":4,"loss":1,"for":103,"against":26,"isChampion":true},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":16,"draw":8,"loss":2,"for":51,"against":20},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":13,"draw":8,"loss":5,"for":49,"against":26},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":16,"draw":2,"loss":8,"for":62,"against":42},
+{"country":"prt","name":"CUF Barreiro","id":"G.D._Fabril","win":12,"draw":6,"loss":8,"for":46,"against":33},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":12,"draw":6,"loss":8,"for":46,"against":36},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":12,"draw":5,"loss":9,"for":46,"against":41},
+{"country":"prt","name":"Leixões","id":"Leixões_S.C.","win":8,"draw":9,"loss":9,"for":34,"against":44},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":11,"draw":3,"loss":12,"for":43,"against":48},
+{"country":"prt","name":"Varzim","id":"Varzim_S.C.","win":8,"draw":4,"loss":14,"for":37,"against":57,"isNew":true},
+{"country":"prt","name":"Lusitano de Évora","id":"Lusitano_G.C.","win":5,"draw":4,"loss":17,"for":22,"against":51},
+{"country":"prt","name":"Seixal","id":"Seixal_F.C.","win":4,"draw":6,"loss":16,"for":28,"against":66,"isNew":true},
+{"country":"prt","name":"Olhanense","id":"S.C._Olhanense","win":2,"draw":8,"loss":16,"for":20,"against":57,"isRemoved":true},
+{"country":"prt","name":"Barreirense","id":"F.C._Barreirense","win":4,"draw":3,"loss":19,"for":22,"against":62,"isRemoved":true}
 ]

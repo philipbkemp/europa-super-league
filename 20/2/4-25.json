@@ -412,4 +412,23 @@
 {"country":"fra","name":"Brest","id":"Stade_Brestois_29","win":0,"draw":0,"loss":1,"for":1,"against":5,"isCurrentSeason":true}
 ][
 	/* CYP not yet started */
+][
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":2,"draw":0,"loss":0,"for":9,"against":2,"isCurrentSeason":true},
+{"country":"prt","name":"Famalicão","id":"F.C._Famalicão","win":2,"draw":0,"loss":0,"for":5,"against":0,"isCurrentSeason":true},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":2,"draw":0,"loss":0,"for":5,"against":0,"isCurrentSeason":true},
+{"country":"prt","name":"Moreirense","id":"Moreirense_F.C.","win":2,"draw":0,"loss":0,"for":5,"against":2,"isCurrentSeason":true},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":2,"draw":0,"loss":0,"for":2,"against":0,"isCurrentSeason":true},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":1,"draw":1,"loss":0,"for":2,"against":1,"isCurrentSeason":true},
+{"country":"prt","name":"Santa Clara","id":"C.D._Santa_Clara","win":1,"draw":0,"loss":1,"for":4,"against":3,"isCurrentSeason":true,"isReturning":true},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":1,"draw":0,"loss":1,"for":3,"against":2,"isCurrentSeason":true},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":1,"draw":0,"loss":1,"for":1,"against":1,"isCurrentSeason":true},
+{"country":"prt","name":"Gil Vicente","id":"Gil_Vicente_F.C.","win":1,"draw":0,"loss":1,"for":4,"against":5,"isCurrentSeason":true},
+{"country":"prt","name":"Rio Ave","id":"Rio_Ave_F.C.","win":1,"draw":0,"loss":1,"for":2,"against":3,"isCurrentSeason":true},
+{"country":"prt","name":"AVS","id":"AVS_Futebol_SAD","win":0,"draw":1,"loss":1,"for":3,"against":5,"isCurrentSeason":true,"isNew":true},
+{"country":"prt","name":"Estrela da Amadora","id":"C.F._Estrela_da_Amadora","win":0,"draw":1,"loss":1,"for":1,"against":4,"isCurrentSeason":true},
+{"country":"prt","name":"Nacional","id":"C.D._Nacional","win":0,"draw":1,"loss":1,"for":2,"against":7,"isCurrentSeason":true,"isReturning":true},
+{"country":"prt","name":"Farense","id":"S.C._Farense","win":0,"draw":0,"loss":2,"for":1,"against":3,"isCurrentSeason":true},
+{"country":"prt","name":"Arouca","id":"F.C._Arouca","win":0,"draw":0,"loss":2,"for":1,"against":4,"isCurrentSeason":true},
+{"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":0,"draw":0,"loss":2,"for":1,"against":5,"isCurrentSeason":true},
+{"country":"prt","name":"Casa Pia","id":"Casa_Pia_A.C.","win":0,"draw":0,"loss":2,"for":0,"against":4,"isCurrentSeason":true}
 ]

@@ -356,4 +356,19 @@
 {"country":"cyp","name":"Çetinkaya Türk S.K.","id":"Çetinkaya_Türk_S.K.","win":4,"draw":3,"loss":7,"for":38,"against":41},
 {"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":1,"draw":4,"loss":9,"for":22,"against":46},
 {"country":"cyp","name":"AYMA","id":"Armenian_Young_Men%27s_Association","win":1,"draw":1,"loss":12,"for":19,"against":70}
+][
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":21,"draw":3,"loss":2,"for":86,"against":33,"isChampion":true},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":19,"draw":1,"loss":6,"for":91,"against":35},
+{"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":11,"draw":8,"loss":7,"for":53,"against":42},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":10,"draw":7,"loss":9,"for":36,"against":41},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":12,"draw":2,"loss":12,"for":61,"against":52},
+{"country":"prt","name":"Sporting da Covilhã","id":"S.C._Covilhã","win":10,"draw":5,"loss":11,"for":55,"against":70},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":8,"draw":8,"loss":10,"for":56,"against":57,"isReturning":true},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":11,"draw":2,"loss":13,"for":52,"against":53},
+{"country":"prt","name":"Olhanense","id":"S.C._Olhanense","win":8,"draw":8,"loss":10,"for":48,"against":57},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":10,"draw":3,"loss":13,"for":50,"against":70},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":7,"draw":7,"loss":12,"for":45,"against":59},
+{"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":7,"draw":7,"loss":12,"for":50,"against":59},
+{"country":"prt","name":"O Elvas","id":"O_Elvas_C.A.D.","win":8,"draw":3,"loss":15,"for":48,"against":65,"isRemoved":true},
+{"country":"prt","name":"Lusitano VRSA","id":"Lusitano_F.C._(Portugal)","win":7,"draw":2,"loss":17,"for":42,"against":80,"isRemoved":true}
 ]

@@ -330,4 +330,19 @@
 {"country":"cyp","name":"Anorthosis Famagusta FC","id":"Anorthosis_Famagusta_FC","win":3,"draw":3,"loss":8,"for":20,"against":32},
 {"country":"cyp","name":"AYMA","id":"Armenian_Young_Men%27s_Association","win":3,"draw":2,"loss":9,"for":21,"against":55},
 {"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":3,"draw":2,"loss":9,"for":25,"against":48}
+][
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":19,"draw":3,"loss":4,"for":91,"against":32,"isChampion":true},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":18,"draw":4,"loss":4,"for":76,"against":26},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":15,"draw":6,"loss":5,"for":68,"against":33},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":14,"draw":8,"loss":4,"for":60,"against":28},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":12,"draw":1,"loss":13,"for":47,"against":55},
+{"country":"prt","name":"Sporting da Covilhã","id":"S.C._Covilhã","win":10,"draw":5,"loss":11,"for":35,"against":52},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":8,"draw":6,"loss":12,"for":39,"against":47},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":8,"draw":5,"loss":13,"for":32,"against":49},
+{"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":8,"draw":5,"loss":13,"for":49,"against":61},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":9,"draw":3,"loss":14,"for":28,"against":47},
+{"country":"prt","name":"Barreirense","id":"F.C._Barreirense","win":8,"draw":5,"loss":13,"for":47,"against":65,"isReturning":true},
+{"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":7,"draw":6,"loss":13,"for":53,"against":48},
+{"country":"prt","name":"Oriental","id":"Clube_Oriental_de_Lisboa","win":8,"draw":2,"loss":16,"for":48,"against":72,"isRemoved":true},
+{"country":"prt","name":"Salgueiros","id":"S.C._Salgueiros","win":8,"draw":1,"loss":17,"for":33,"against":91,"isRemoved":true,"isReturning":true}
 ]

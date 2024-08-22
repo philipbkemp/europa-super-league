@@ -439,4 +439,23 @@
 {"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":12,"draw":5,"loss":16,"for":44,"against":57},
 {"country":"cyp","name":"Aris Limassol","id":"Aris_Limassol_FC","win":10,"draw":7,"loss":16,"for":44,"against":49,"isReturning":true},
 {"country":"cyp","name":"Omonia Aradippou","id":"Omonia_Aradippou","win":3,"draw":4,"loss":26,"for":37,"against":94}
+][
+{"country":"prt","name":"Porto","id":"FC_Porto","win":29,"draw":4,"loss":1,"for":73,"against":15,"isChampion":true},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":23,"draw":9,"loss":2,"for":59,"against":21},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":21,"draw":5,"loss":8,"for":61,"against":28},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":16,"draw":10,"loss":8,"for":54,"against":43},
+{"country":"prt","name":"Farense","id":"S.C._Farense","win":16,"draw":5,"loss":13,"for":44,"against":38},
+{"country":"prt","name":"União de Leiria","id":"U.D._Leiria","win":13,"draw":10,"loss":11,"for":41,"against":44,"isReturning":true},
+{"country":"prt","name":"Marítimo","id":"C.S._Marítimo","win":12,"draw":11,"loss":11,"for":41,"against":45},
+{"country":"prt","name":"Tirsense","id":"F.C._Tirsense","win":14,"draw":6,"loss":14,"for":35,"against":34,"isReturning":true},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":12,"draw":8,"loss":14,"for":40,"against":49},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":11,"draw":10,"loss":13,"for":34,"against":42},
+{"country":"prt","name":"Salgueiros","id":"S.C._Salgueiros","win":11,"draw":7,"loss":16,"for":43,"against":50},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":10,"draw":7,"loss":17,"for":30,"against":39},
+{"country":"prt","name":"Gil Vicente","id":"Gil_Vicente_F.C.","win":7,"draw":13,"loss":14,"for":30,"against":40},
+{"country":"prt","name":"Chaves","id":"G.D._Chaves","win":10,"draw":7,"loss":17,"for":33,"against":49,"isReturning":true},
+{"country":"prt","name":"Estrela da Amadora","id":"C.F._Estrela_da_Amadora_(1932)","win":6,"draw":14,"loss":14,"for":27,"against":40},
+{"country":"prt","name":"União da Madeira","id":"C.F._União","win":7,"draw":10,"loss":17,"for":30,"against":54,"isRemoved":true},
+{"country":"prt","name":"Beira-Mar","id":"S.C._Beira-Mar","win":8,"draw":5,"loss":21,"for":33,"against":54,"isRemoved":true},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":3,"draw":13,"loss":18,"for":25,"against":45,"isRemoved":true}
 ]

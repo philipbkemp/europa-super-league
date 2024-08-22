@@ -321,4 +321,13 @@
 {"country":"cyp","name":"Lefkoşa Türk Spor Kulübü","id":"Çetinkaya_Türk_S.K.","win":2,"draw":1,"loss":1,"for":8,"against":10},
 {"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":1,"draw":1,"loss":3,"for":15,"against":14},
 {"country":"cyp","name":"Aris Limassol F.C.","id":"Aris_Limassol_FC","win":0,"draw":0,"loss":5,"for":5,"against":25}
+][
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":10,"draw":3,"loss":1,"for":34,"against":16,"isChampion":true},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":11,"draw":1,"loss":2,"for":43,"against":22},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":10,"draw":2,"loss":2,"for":67,"against":23},
+{"country":"prt","name":"Carcavelinhos","id":"Atlético_Clube_de_Portugal","win":5,"draw":1,"loss":8,"for":18,"against":36,"isRemoved":true},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":5,"draw":0,"loss":9,"for":29,"against":28},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":5,"draw":0,"loss":9,"for":23,"against":37},
+{"country":"prt","name":"Barreirense","id":"F.C._Barreirense","win":2,"draw":4,"loss":8,"for":18,"against":34,"isNew":true},
+{"country":"prt","name":"Académico","id":"Académico_F.C.","win":2,"draw":1,"loss":11,"for":15,"against":51,"isReturning":true}
 ]

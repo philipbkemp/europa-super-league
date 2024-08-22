@@ -462,4 +462,23 @@
 {"country":"cyp","name":"Alki","id":"Alki_Larnaca_FC","win":6,"draw":9,"loss":11,"for":27,"against":36,"isReturning":true},
 {"country":"cyp","name":"Evagoras","id":"Evagoras_Paphos","win":5,"draw":9,"loss":12,"for":24,"against":41,"isRemoved":true,"isReturning":true},
 {"country":"cyp","name":"Ethnikos","id":"Ethnikos_Achna_FC","win":3,"draw":4,"loss":19,"for":15,"against":53,"isRemoved":true}
+][
+{"country":"prt","name":"Porto","id":"FC_Porto","win":27,"draw":5,"loss":2,"for":72,"against":16,"isChampion":true},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":23,"draw":9,"loss":2,"for":76,"against":18},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":17,"draw":12,"loss":5,"for":42,"against":24},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":17,"draw":11,"loss":6,"for":46,"against":28},
+{"country":"prt","name":"Chaves","id":"G.D._Chaves","win":12,"draw":14,"loss":8,"for":38,"against":38},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":16,"draw":4,"loss":14,"for":32,"against":33},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":14,"draw":8,"loss":12,"for":39,"against":34},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":13,"draw":8,"loss":13,"for":49,"against":36},
+{"country":"prt","name":"Tirsense","id":"F.C._Tirsense","win":7,"draw":16,"loss":11,"for":21,"against":32,"isReturning":true},
+{"country":"prt","name":"Marítimo","id":"C.S._Marítimo","win":7,"draw":15,"loss":12,"for":25,"against":38},
+{"country":"prt","name":"Beira-Mar","id":"S.C._Beira-Mar","win":10,"draw":9,"loss":15,"for":22,"against":39},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":8,"draw":12,"loss":14,"for":32,"against":41},
+{"country":"prt","name":"Estrela da Amadora","id":"C.F._Estrela_da_Amadora_(1932)","win":10,"draw":8,"loss":16,"for":35,"against":34},
+{"country":"prt","name":"Nacional","id":"C.D._Nacional","win":7,"draw":14,"loss":13,"for":34,"against":46},
+{"country":"prt","name":"Penafiel","id":"F.C._Penafiel","win":9,"draw":8,"loss":17,"for":24,"against":50},
+{"country":"prt","name":"União da Madeira","id":"C.F._União","win":5,"draw":14,"loss":15,"for":24,"against":45,"isNew":true},
+{"country":"prt","name":"Portimonense","id":"Portimonense_S.C.","win":7,"draw":7,"loss":20,"for":30,"against":57,"isRemoved":true},
+{"country":"prt","name":"Feirense","id":"C.D._Feirense","win":5,"draw":10,"loss":19,"for":25,"against":57,"isRemoved":true,"isReturning":true}
 ]

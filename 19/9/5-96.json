@@ -438,4 +438,23 @@
 {"country":"cyp","name":"AEL","id":"AEL_Limassol","win":6,"draw":6,"loss":14,"for":37,"against":49,"isRemoved":true},
 {"country":"cyp","name":"Evagoras","id":"Evagoras_Paphos","win":2,"draw":7,"loss":17,"for":21,"against":59,"isRemoved":true,"isReturning":true},
 {"country":"cyp","name":"Omonia Ar.","id":"Omonia_Aradippou","win":0,"draw":2,"loss":24,"for":18,"against":86,"isRemoved":true}
+][
+{"country":"prt","name":"Porto","id":"FC_Porto","win":26,"draw":6,"loss":2,"for":84,"against":20,"isChampion":true},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":22,"draw":7,"loss":5,"for":56,"against":25},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":19,"draw":10,"loss":5,"for":69,"against":27},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":19,"draw":8,"loss":7,"for":59,"against":28},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":19,"draw":5,"loss":10,"for":55,"against":39},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":14,"draw":9,"loss":11,"for":53,"against":33},
+{"country":"prt","name":"União de Leiria","id":"U.D._Leiria","win":14,"draw":5,"loss":15,"for":38,"against":50},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":12,"draw":9,"loss":13,"for":44,"against":47},
+{"country":"prt","name":"Marítimo","id":"C.S._Marítimo","win":12,"draw":7,"loss":15,"for":39,"against":53},
+{"country":"prt","name":"Farense","id":"S.C._Farense","win":10,"draw":6,"loss":18,"for":36,"against":45},
+{"country":"prt","name":"Gil Vicente","id":"Gil_Vicente_F.C.","win":9,"draw":9,"loss":16,"for":31,"against":49},
+{"country":"prt","name":"Salgueiros","id":"S.C._Salgueiros","win":7,"draw":15,"loss":12,"for":39,"against":49},
+{"country":"prt","name":"Estrela da Amadora","id":"C.F._Estrela_da_Amadora_(1932)","win":7,"draw":14,"loss":13,"for":35,"against":50},
+{"country":"prt","name":"Leça","id":"Leça_F.C.","win":9,"draw":7,"loss":18,"for":29,"against":55,"isReturning":true},
+{"country":"prt","name":"Chaves","id":"G.D._Chaves","win":9,"draw":7,"loss":18,"for":38,"against":56},
+{"country":"prt","name":"Felgueiras","id":"F.C._Felgueiras","win":8,"draw":9,"loss":17,"for":29,"against":47,"isRemoved":true,"isNew":true},
+{"country":"prt","name":"Campomaiorense","id":"S.C._Campomaiorense","win":10,"draw":3,"loss":21,"for":32,"against":69,"isRemoved":true,"isNew":true},
+{"country":"prt","name":"Tirsense","id":"F.C._Tirsense","win":7,"draw":10,"loss":17,"for":30,"against":53,"isRemoved":true}
 ]

@@ -148,4 +148,13 @@
 {"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":2,"draw":0,"loss":5,"for":17,"against":26,"isRemoved":true,"removedNote":"League suspended"},
 {"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":2,"draw":0,"loss":5,"for":16,"against":50,"isRemoved":true,"removedNote":"League suspended"},
 {"country":"cyp","name":"Lefkoşa Türk Spor Kulübü","id":"Çetinkaya_Türk_S.K.","win":0,"draw":0,"loss":4,"for":4,"against":26,"isRemoved":true,"removedNote":"League suspended"}
+][
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":11,"draw":1,"loss":2,"for":58,"against":23,"isChampion":true},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":8,"draw":4,"loss":2,"for":47,"against":27},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":9,"draw":1,"loss":4,"for":59,"against":22},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":8,"draw":2,"loss":4,"for":39,"against":28},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":4,"draw":3,"loss":7,"for":32,"against":41},
+{"country":"prt","name":"Barreirense","id":"F.C._Barreirense","win":5,"draw":0,"loss":9,"for":17,"against":38},
+{"country":"prt","name":"Unidos de Lisboa","id":"C.F._Os_Unidos","win":2,"draw":2,"loss":10,"for":28,"against":50,"isNew":true},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":2,"draw":1,"loss":11,"for":12,"against":63,"isReturning":true,"isRemoved":true}
 ]

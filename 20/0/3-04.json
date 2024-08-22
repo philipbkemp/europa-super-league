@@ -413,4 +413,23 @@
 {"country":"cyp","name":"Anagennisi Deryneia","id":"Anagennisi_Deryneia_FC","win":4,"draw":5,"loss":17,"for":15,"against":44,"isRemoved":true,"isReturning":true},
 {"country":"cyp","name":"Onisilos Sotira","id":"Onisilos_Sotira","win":4,"draw":3,"loss":19,"for":22,"against":61,"isRemoved":true,"isNew":true},
 {"country":"cyp","name":"Doxa Katokopias","id":"Doxa_Katokopias_FC","win":1,"draw":4,"loss":21,"for":18,"against":111,"isRemoved":true,"isReturning":true}
+][
+{"country":"prt","name":"Porto","id":"FC_Porto","win":25,"draw":7,"loss":2,"for":63,"against":19,"isChampion":true},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":22,"draw":8,"loss":4,"for":62,"against":28},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":23,"draw":4,"loss":7,"for":60,"against":33},
+{"country":"prt","name":"Nacional","id":"C.D._Nacional","win":17,"draw":5,"loss":12,"for":56,"against":35},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":15,"draw":9,"loss":10,"for":36,"against":38},
+{"country":"prt","name":"Marítimo","id":"C.S._Marítimo","win":12,"draw":12,"loss":10,"for":35,"against":33},
+{"country":"prt","name":"Rio Ave","id":"Rio_Ave_F.C.","win":12,"draw":12,"loss":10,"for":42,"against":37,"isReturning":true},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":12,"draw":11,"loss":11,"for":32,"against":31},
+{"country":"prt","name":"Moreirense","id":"Moreirense_F.C.","win":12,"draw":10,"loss":12,"for":33,"against":33},
+{"country":"prt","name":"União de Leiria","id":"U.D._Leiria","win":11,"draw":12,"loss":11,"for":43,"against":45},
+{"country":"prt","name":"Beira-Mar","id":"S.C._Beira-Mar","win":11,"draw":8,"loss":15,"for":36,"against":45},
+{"country":"prt","name":"Gil Vicente","id":"Gil_Vicente_F.C.","win":10,"draw":10,"loss":14,"for":43,"against":40},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":11,"draw":5,"loss":18,"for":40,"against":42},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":9,"draw":10,"loss":15,"for":31,"against":40},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":8,"draw":11,"loss":15,"for":35,"against":54},
+{"country":"prt","name":"Alverca","id":"F.C._Alverca","win":10,"draw":5,"loss":19,"for":33,"against":49,"isRemoved":true,"isReturning":true},
+{"country":"prt","name":"Paços de Ferreira","id":"F.C._Paços_de_Ferreira","win":8,"draw":4,"loss":22,"for":27,"against":53,"isRemoved":true},
+{"country":"prt","name":"Estrela da Amadora","id":"C.F._Estrela_da_Amadora_(1932)","win":4,"draw":5,"loss":25,"for":22,"against":74,"isRemoved":true,"isReturning":true}
 ]

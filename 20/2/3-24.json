@@ -431,4 +431,23 @@
 {"country":"cyp","name":"AEZ Zakakiou","id":"AEZ_Zakakiou","win":2,"draw":12,"loss":26,"for":40,"against":100,"isRemoved":true,"isReturning":true},
 {"country":"cyp","name":"Othellos Athienou","id":"Othellos_Athienou_FC","win":8,"draw":9,"loss":23,"for":48,"against":77,"isRemoved":true,"isReturning":true},
 {"country":"cyp","name":"Doxa Katokopias","id":"Doxa_Katokopias_FC","win":10,"draw":5,"loss":25,"for":34,"against":77,"isRemoved":true}
+][
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":29,"draw":3,"loss":2,"for":96,"against":29,"isChampion":true},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":25,"draw":5,"loss":4,"for":77,"against":28},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":22,"draw":6,"loss":6,"for":63,"against":27},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":21,"draw":5,"loss":8,"for":71,"against":50},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":19,"draw":6,"loss":9,"for":52,"against":38},
+{"country":"prt","name":"Moreirense","id":"Moreirense_F.C.","win":16,"draw":7,"loss":11,"for":36,"against":35,"isReturning":true},
+{"country":"prt","name":"Arouca","id":"F.C._Arouca","win":13,"draw":7,"loss":14,"for":54,"against":50},
+{"country":"prt","name":"Famalicão","id":"F.C._Famalicão","win":10,"draw":12,"loss":12,"for":37,"against":41},
+{"country":"prt","name":"Casa Pia","id":"Casa_Pia_A.C.","win":10,"draw":8,"loss":16,"for":38,"against":50},
+{"country":"prt","name":"Farense","id":"S.C._Farense","win":10,"draw":7,"loss":17,"for":46,"against":51,"isReturning":true},
+{"country":"prt","name":"Rio Ave","id":"Rio_Ave_F.C.","win":6,"draw":19,"loss":9,"for":38,"against":43},
+{"country":"prt","name":"Gil Vicente","id":"Gil_Vicente_F.C.","win":9,"draw":9,"loss":16,"for":42,"against":52},
+{"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":9,"draw":6,"loss":19,"for":49,"against":58},
+{"country":"prt","name":"Estrela da Amadora","id":"C.F._Estrela_da_Amadora","win":7,"draw":12,"loss":15,"for":33,"against":53,"isNew":true},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":7,"draw":11,"loss":16,"for":39,"against":62},
+{"country":"prt","name":"Portimonense","id":"Portimonense_S.C.","win":8,"draw":8,"loss":18,"for":39,"against":72,"isRemoved":true},
+{"country":"prt","name":"Vizela","id":"F.C._Vizela","win":5,"draw":11,"loss":18,"for":36,"against":66,"isRemoved":true},
+{"country":"prt","name":"Chaves","id":"G.D._Chaves","win":5,"draw":8,"loss":21,"for":31,"against":72,"isRemoved":true}
 ]

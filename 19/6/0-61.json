@@ -420,4 +420,19 @@
 {"country":"cyp","name":"Orfeas Nicosia","id":"Orfeas_Nicosia","win":5,"draw":3,"loss":16,"for":24,"against":57},
 {"country":"cyp","name":"Alki Larnaca FC","id":"Alki_Larnaca_FC","win":4,"draw":3,"loss":17,"for":24,"against":70,"isNew":true},
 {"country":"cyp","name":"AYMA","id":"Armenian_Young_Men%27s_Association","win":1,"draw":4,"loss":19,"for":24,"against":99,"isReturning":true}
+][
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":22,"draw":2,"loss":2,"for":92,"against":21,"isChampion":true},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":19,"draw":4,"loss":3,"for":61,"against":19},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":14,"draw":5,"loss":7,"for":51,"against":28},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":14,"draw":2,"loss":10,"for":48,"against":44},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":12,"draw":4,"loss":10,"for":45,"against":37},
+{"country":"prt","name":"CUF Barreiro","id":"G.D._Fabril","win":10,"draw":6,"loss":10,"for":38,"against":28},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":10,"draw":6,"loss":10,"for":31,"against":29},
+{"country":"prt","name":"Leixões","id":"Leixões_S.C.","win":10,"draw":3,"loss":13,"for":38,"against":44},
+{"country":"prt","name":"Sporting da Covilhã","id":"S.C._Covilhã","win":8,"draw":5,"loss":13,"for":27,"against":55},
+{"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":8,"draw":5,"loss":13,"for":35,"against":54},
+{"country":"prt","name":"Lusitano de Évora","id":"Lusitano_G.C.","win":9,"draw":3,"loss":14,"for":29,"against":51},
+{"country":"prt","name":"Salgueiros","id":"S.C._Salgueiros","win":8,"draw":4,"loss":14,"for":34,"against":64,"isReturning":true},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":8,"draw":3,"loss":15,"for":41,"against":62,"isRemoved":true},
+{"country":"prt","name":"Barreirense","id":"F.C._Barreirense","win":3,"draw":2,"loss":21,"for":26,"against":60,"isRemoved":true,"isReturning":true}
 ]

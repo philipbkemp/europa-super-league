@@ -405,4 +405,19 @@
 {"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":4,"draw":5,"loss":13,"for":35,"against":42},
 {"country":"cyp","name":"Orfeas Nicosia","id":"Orfeas_Nicosia","win":5,"draw":3,"loss":14,"for":26,"against":45,"isRemoved":true,"deduct":-1},
 {"country":"cyp","name":"Alki Larnaca FC","id":"Alki_Larnaca_FC","win":5,"draw":2,"loss":15,"for":33,"against":58}
+][
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":23,"draw":2,"loss":1,"for":81,"against":25,"isChampion":true},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":19,"draw":4,"loss":3,"for":61,"against":24},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":18,"draw":2,"loss":6,"for":71,"against":31},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":16,"draw":4,"loss":6,"for":47,"against":30},
+{"country":"prt","name":"Leixões","id":"Leixões_S.C.","win":10,"draw":10,"loss":6,"for":34,"against":33},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":12,"draw":3,"loss":11,"for":47,"against":43},
+{"country":"prt","name":"Lusitano de Évora","id":"Lusitano_G.C.","win":9,"draw":5,"loss":12,"for":33,"against":41},
+{"country":"prt","name":"Olhanense","id":"S.C._Olhanense","win":7,"draw":7,"loss":12,"for":29,"against":38},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":6,"draw":8,"loss":12,"for":33,"against":39,"isReturning":true},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":8,"draw":3,"loss":15,"for":49,"against":50},
+{"country":"prt","name":"Barreirense","id":"F.C._Barreirense","win":5,"draw":8,"loss":13,"for":20,"against":56,"isReturning":true},
+{"country":"prt","name":"CUF Barreiro","id":"G.D._Fabril","win":6,"draw":6,"loss":14,"for":37,"against":40},
+{"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":8,"draw":1,"loss":17,"for":33,"against":65,"isRemoved":true},
+{"country":"prt","name":"Feirense","id":"C.D._Feirense","win":3,"draw":1,"loss":22,"for":21,"against":81,"isRemoved":true,"isNew":true}
 ]

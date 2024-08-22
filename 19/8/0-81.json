@@ -470,4 +470,21 @@
 {"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":7,"draw":7,"loss":12,"for":19,"against":31},
 {"country":"cyp","name":"Alki Larnaca","id":"Alki_Larnaca_FC","win":7,"draw":7,"loss":12,"for":25,"against":40,"isRemoved":true},
 {"country":"cyp","name":"Aris Limassol","id":"Aris_Limassol_FC","win":7,"draw":3,"loss":16,"for":29,"against":52,"isRemoved":true}
+][
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":22,"draw":6,"loss":2,"for":72,"against":15,"isChampion":true},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":21,"draw":6,"loss":3,"for":53,"against":18},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":14,"draw":9,"loss":7,"for":48,"against":28},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":14,"draw":8,"loss":8,"for":36,"against":25},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":11,"draw":9,"loss":10,"for":38,"against":30},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":10,"draw":10,"loss":10,"for":34,"against":39},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":9,"draw":11,"loss":10,"for":30,"against":30},
+{"country":"prt","name":"Portimonense","id":"Portimonense_S.C.","win":11,"draw":6,"loss":13,"for":34,"against":37},
+{"country":"prt","name":"Espinho","id":"S.C._Espinho","win":9,"draw":9,"loss":12,"for":26,"against":35},
+{"country":"prt","name":"Penafiel","id":"F.C._Penafiel","win":11,"draw":5,"loss":14,"for":27,"against":38,"isNew":true},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":8,"draw":10,"loss":12,"for":24,"against":39},
+{"country":"prt","name":"Amora","id":"Amora_F.C.","win":10,"draw":5,"loss":15,"for":38,"against":51,"isNew":true},
+{"country":"prt","name":"Académico de Viseu","id":"Académico_de_Viseu_F.C.","win":8,"draw":9,"loss":13,"for":24,"against":40,"isReturning":true},
+{"country":"prt","name":"Varzim","id":"Varzim_S.C.","win":8,"draw":8,"loss":14,"for":27,"against":31,"isRemoved":true},
+{"country":"prt","name":"Marítimo","id":"C.S._Marítimo","win":7,"draw":9,"loss":14,"for":33,"against":46,"isRemoved":true},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":4,"draw":6,"loss":20,"for":16,"against":58,"isRemoved":true,"isReturning":true}
 ]

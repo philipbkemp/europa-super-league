@@ -382,4 +382,19 @@
 {"country":"cyp","name":"Aris Limassol F.C.","id":"Aris_Limassol_FC","win":5,"draw":5,"loss":7,"for":22,"against":32,"isRemoved":true,"removedNote":"League not contested next season"},
 {"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":2,"draw":9,"loss":6,"for":28,"against":38,"isRemoved":true,"removedNote":"League not contested next season","isNew":true},
 {"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":1,"draw":7,"loss":9,"for":21,"against":35,"isRemoved":true,"removedNote":"League not contested next season"}
+][
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":19,"draw":5,"loss":2,"for":79,"against":21,"isChampion":true},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":21,"draw":1,"loss":4,"for":64,"against":25},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":17,"draw":2,"loss":7,"for":59,"against":23},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":12,"draw":4,"loss":10,"for":54,"against":42},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":9,"draw":7,"loss":10,"for":51,"against":52,"isReturning":true},
+{"country":"prt","name":"Lusitano de Évora","id":"Lusitano_G.C.","win":10,"draw":4,"loss":12,"for":37,"against":36},
+{"country":"prt","name":"Barreirense","id":"F.C._Barreirense","win":10,"draw":4,"loss":12,"for":42,"against":52},
+{"country":"prt","name":"Torreense","id":"S.C.U._Torreense","win":11,"draw":2,"loss":13,"for":30,"against":46},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":10,"draw":4,"loss":12,"for":45,"against":40},
+{"country":"prt","name":"Caldas","id":"Caldas_S.C.","win":9,"draw":5,"loss":12,"for":30,"against":46},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":9,"draw":4,"loss":13,"for":37,"against":59},
+{"country":"prt","name":"CUF Barreiro","id":"G.D._Fabril","win":8,"draw":3,"loss":15,"for":40,"against":59},
+{"country":"prt","name":"Salgueiros","id":"S.C._Salgueiros","win":7,"draw":2,"loss":17,"for":45,"against":65,"isRemoved":true,"isReturning":true},
+{"country":"prt","name":"Oriental","id":"Clube_Oriental_de_Lisboa","win":4,"draw":5,"loss":17,"for":21,"against":68,"isRemoved":true}
 ]

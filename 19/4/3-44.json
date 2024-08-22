@@ -152,4 +152,15 @@
 {"country":"pse","name":"Hakoah Tel Aviv","id":"Hakoah_Tel_Aviv_F.C.","win":5,"draw":5,"loss":12,"for":25,"against":45,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 {"country":"pse","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":5,"draw":2,"loss":16,"for":32,"against":73,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 {"country":"pse","name":"Hapoel Herzliya","id":"Hapoel_Herzliya_F.C.","win":1,"draw":1,"loss":20,"for":16,"against":100,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"}
+][
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":14,"draw":3,"loss":1,"for":61,"against":22,"isChampion":true},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":11,"draw":4,"loss":3,"for":57,"against":34},
+{"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":9,"draw":6,"loss":3,"for":51,"against":28,"isReturning":true,"isRemoved":true},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":10,"draw":3,"loss":5,"for":46,"against":36},
+{"country":"prt","name":"Olhanense","id":"S.C._Olhanense","win":10,"draw":2,"loss":6,"for":65,"against":34},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":9,"draw":3,"loss":6,"for":41,"against":32},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":7,"draw":3,"loss":8,"for":52,"against":50,"isReturning":true},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":2,"draw":3,"loss":13,"for":25,"against":68},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":3,"draw":0,"loss":15,"for":35,"against":68},
+{"country":"prt","name":"Salgueiros","id":"S.C._Salgueiros","win":1,"draw":1,"loss":16,"for":23,"against":84,"isNew":true}
 ]

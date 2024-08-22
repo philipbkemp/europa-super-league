@@ -479,4 +479,21 @@
 {"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":5,"draw":9,"loss":8,"for":14,"against":18},
 {"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":4,"draw":7,"loss":11,"for":12,"against":28},
 {"country":"cyp","name":"APOP Paphos","id":"APOP_Paphos_FC","win":5,"draw":3,"loss":14,"for":20,"against":34,"isRemoved":true,"isReturning":true}
+][
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":26,"draw":3,"loss":1,"for":81,"against":16,"isChampion":true},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":17,"draw":11,"loss":2,"for":62,"against":16},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":17,"draw":9,"loss":4,"for":51,"against":26},
+{"country":"prt","name":"CUF Barreiro","id":"G.D._Fabril","win":12,"draw":13,"loss":5,"for":43,"against":28},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":13,"draw":7,"loss":10,"for":51,"against":32},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":11,"draw":8,"loss":11,"for":49,"against":47},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":11,"draw":7,"loss":12,"for":35,"against":33},
+{"country":"prt","name":"Barreirense","id":"F.C._Barreirense","win":11,"draw":5,"loss":14,"for":34,"against":46},
+{"country":"prt","name":"Farense","id":"S.C._Farense","win":9,"draw":7,"loss":14,"for":34,"against":48},
+{"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":8,"draw":9,"loss":13,"for":35,"against":52,"isReturning":true},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":7,"draw":10,"loss":13,"for":28,"against":46},
+{"country":"prt","name":"União de Tomar","id":"U.F.C.I._Tomar","win":9,"draw":5,"loss":16,"for":25,"against":42,"isReturning":true},
+{"country":"prt","name":"Beira-Mar","id":"S.C._Beira-Mar","win":7,"draw":9,"loss":14,"for":29,"against":51,"isReturning":true},
+{"country":"prt","name":"Leixões","id":"Leixões_S.C.","win":7,"draw":7,"loss":16,"for":26,"against":51},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":7,"draw":7,"loss":16,"for":29,"against":38,"isRemoved":true},
+{"country":"prt","name":"Tirsense","id":"F.C._Tirsense","win":6,"draw":7,"loss":17,"for":26,"against":66,"isRemoved":true}
 ]

@@ -426,4 +426,23 @@
 {"country":"cyp","name":"Doxa Katokopias","id":"Doxa_Katokopias_FC","win":7,"draw":11,"loss":14,"for":27,"against":41},
 {"country":"cyp","name":"PAEEK","id":"PAEEK","win":3,"draw":8,"loss":21,"for":25,"against":61,"isRemoved":true,"isNew":true},
 {"country":"cyp","name":"Ethnikos Achna","id":"Ethnikos_Achna_FC","win":5,"draw":8,"loss":19,"for":21,"against":41,"isRemoved":true}
+][
+{"country":"prt","name":"Porto","id":"FC_Porto","win":29,"draw":4,"loss":1,"for":86,"against":22,"isChampion":true},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":27,"draw":4,"loss":3,"for":73,"against":23},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":23,"draw":5,"loss":6,"for":78,"against":30},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":19,"draw":8,"loss":7,"for":52,"against":31},
+{"country":"prt","name":"Gil Vicente","id":"Gil_Vicente_F.C.","win":13,"draw":12,"loss":9,"for":47,"against":42},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":13,"draw":9,"loss":12,"for":50,"against":41},
+{"country":"prt","name":"Santa Clara","id":"C.D._Santa_Clara","win":9,"draw":13,"loss":12,"for":38,"against":54},
+{"country":"prt","name":"Famalicão","id":"F.C._Famalicão","win":9,"draw":12,"loss":13,"for":45,"against":51},
+{"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":9,"draw":12,"loss":13,"for":36,"against":43,"isReturning":true},
+{"country":"prt","name":"Marítimo","id":"C.S._Marítimo","win":9,"draw":11,"loss":14,"for":39,"against":44},
+{"country":"prt","name":"Paços de Ferreira","id":"F.C._Paços_de_Ferreira","win":9,"draw":11,"loss":14,"for":29,"against":44},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":7,"draw":17,"loss":10,"for":39,"against":52},
+{"country":"prt","name":"Portimonense","id":"Portimonense_S.C.","win":10,"draw":8,"loss":16,"for":31,"against":45},
+{"country":"prt","name":"Vizela","id":"F.C._Vizela","win":7,"draw":12,"loss":15,"for":37,"against":58,"isReturning":true},
+{"country":"prt","name":"Arouca","id":"F.C._Arouca","win":7,"draw":10,"loss":17,"for":30,"against":54,"isReturning":true},
+{"country":"prt","name":"Moreirense","id":"Moreirense_F.C.","win":7,"draw":8,"loss":19,"for":33,"against":51,"isRemoved":true},
+{"country":"prt","name":"Tondela","id":"C.D._Tondela","win":7,"draw":7,"loss":20,"for":41,"against":67,"isRemoved":true},
+{"country":"prt","name":"Belenenses SAD","id":"B-SAD","win":5,"draw":11,"loss":18,"for":23,"against":55,"isRemoved":true}
 ]

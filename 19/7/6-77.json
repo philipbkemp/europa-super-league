@@ -445,4 +445,21 @@
 {"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":7,"draw":8,"loss":15,"for":32,"against":49},
 {"country":"cyp","name":"Digenis Akritas Morphou","id":"Digenis_Akritas_Morphou_FC","win":3,"draw":8,"loss":19,"for":17,"against":71},
 {"country":"cyp","name":"ASIL Lysi","id":"ASIL_Lysi","win":1,"draw":5,"loss":24,"for":25,"against":89,"isRemoved":true}
+][
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":23,"draw":5,"loss":2,"for":67,"against":24,"isChampion":true},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":17,"draw":8,"loss":5,"for":59,"against":26},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":18,"draw":5,"loss":7,"for":72,"against":27},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":13,"draw":8,"loss":9,"for":41,"against":33},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":14,"draw":6,"loss":10,"for":29,"against":25},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":13,"draw":6,"loss":11,"for":47,"against":46},
+{"country":"prt","name":"Varzim","id":"Varzim_S.C.","win":10,"draw":11,"loss":9,"for":36,"against":36,"isReturning":true},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":10,"draw":9,"loss":11,"for":36,"against":36},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":10,"draw":6,"loss":14,"for":39,"against":38},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":7,"draw":12,"loss":11,"for":29,"against":40},
+{"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":6,"draw":13,"loss":11,"for":26,"against":36},
+{"country":"prt","name":"Portimonense","id":"Portimonense_S.C.","win":8,"draw":9,"loss":13,"for":34,"against":46,"isNew":true},
+{"country":"prt","name":"Beira-Mar","id":"S.C._Beira-Mar","win":7,"draw":9,"loss":14,"for":33,"against":57,"isRemoved":true},
+{"country":"prt","name":"Montijo","id":"C.D._Montijo","win":7,"draw":9,"loss":14,"for":30,"against":47,"isRemoved":true,"isReturning":true},
+{"country":"prt","name":"Leixões","id":"Leixões_S.C.","win":4,"draw":15,"loss":11,"for":15,"against":31,"isRemoved":true},
+{"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":3,"draw":9,"loss":18,"for":23,"against":68,"isRemoved":true}
 ]

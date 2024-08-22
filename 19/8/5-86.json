@@ -465,4 +465,21 @@
 {"country":"cyp","name":"APOP Paphos","id":"APOP_Paphos_FC","win":6,"draw":9,"loss":11,"for":26,"against":44,"isReturning":true},
 {"country":"cyp","name":"Aris Limassol","id":"Aris_Limassol_FC","win":5,"draw":9,"loss":12,"for":32,"against":42},
 {"country":"cyp","name":"Ermis Aradippou","id":"Ermis_Aradippou_FC","win":0,"draw":6,"loss":20,"for":21,"against":77,"isReturning":true}
+][
+{"country":"prt","name":"Porto","id":"FC_Porto","win":22,"draw":5,"loss":3,"for":64,"against":20,"isChampion":true},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":21,"draw":5,"loss":4,"for":54,"against":13},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":20,"draw":6,"loss":4,"for":64,"against":20},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":16,"draw":8,"loss":6,"for":51,"against":29},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":14,"draw":8,"loss":8,"for":44,"against":29},
+{"country":"prt","name":"Chaves","id":"G.D._Chaves","win":11,"draw":7,"loss":12,"for":28,"against":38,"isNew":true},
+{"country":"prt","name":"Portimonense","id":"Portimonense_S.C.","win":11,"draw":6,"loss":13,"for":29,"against":32},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":7,"draw":14,"loss":9,"for":27,"against":30},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":9,"draw":8,"loss":13,"for":34,"against":47},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":9,"draw":7,"loss":14,"for":28,"against":38},
+{"country":"prt","name":"Salgueiros","id":"S.C._Salgueiros","win":9,"draw":7,"loss":14,"for":21,"against":37},
+{"country":"prt","name":"Marítimo","id":"C.S._Marítimo","win":8,"draw":6,"loss":16,"for":26,"against":50,"isReturning":true},
+{"country":"prt","name":"Desportivo das Aves","id":"C.D._Aves","win":7,"draw":8,"loss":15,"for":25,"against":42,"isRemoved":true,"isNew":true},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":7,"draw":8,"loss":15,"for":32,"against":42,"isRemoved":true},
+{"country":"prt","name":"Penafiel","id":"F.C._Penafiel","win":4,"draw":10,"loss":16,"for":16,"against":38,"isRemoved":true},
+{"country":"prt","name":"Sporting da Covilhã","id":"S.C._Covilhã","win":5,"draw":7,"loss":18,"for":23,"against":61,"isRemoved":true,"isReturning":true}
 ]

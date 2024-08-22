@@ -306,4 +306,13 @@
 {"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":4,"draw":1,"loss":9,"for":23,"against":56},
 {"country":"cyp","name":"Anorthosis Famagusta FC","id":"Anorthosis_Famagusta_FC","win":2,"draw":1,"loss":11,"for":14,"against":38},
 {"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":0,"draw":2,"loss":12,"for":8,"against":35,"isRemoved":true}
+][
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":8,"draw":5,"loss":1,"for":44,"against":23,"isChampion":true},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":9,"draw":2,"loss":3,"for":50,"against":18},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":8,"draw":2,"loss":4,"for":41,"against":31},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":7,"draw":3,"loss":4,"for":28,"against":22},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":7,"draw":2,"loss":5,"for":32,"against":26},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":4,"draw":3,"loss":7,"for":24,"against":39,"isNew":true,"isRemoved":true},
+{"country":"prt","name":"Carcavelinhos","id":"Atlético_Clube_de_Portugal","win":1,"draw":4,"loss":9,"for":8,"against":30},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":1,"draw":1,"loss":12,"for":13,"against":51}
 ]

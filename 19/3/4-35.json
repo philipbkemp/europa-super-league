@@ -322,4 +322,13 @@
 {"country":"cyp","name":"Aris Limassol FC","id":"Aris_Limassol_FC","win":4,"draw":2,"loss":7,"for":30,"against":30,"isNew":true},
 {"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":5,"draw":0,"loss":7,"for":17,"against":34,"isNew":true},
 {"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":1,"draw":2,"loss":9,"for":11,"against":48,"isNew":true}
+][
+{"country":"prt","name":"Porto","id":"FC_Porto","win":10,"draw":2,"loss":2,"for":43,"against":19,"isChampion":true,"isNew":true},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":8,"draw":4,"loss":2,"for":39,"against":20,"isNew":true},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":8,"draw":3,"loss":3,"for":41,"against":23,"isNew":true},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":8,"draw":2,"loss":4,"for":45,"against":20,"isNew":true},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":7,"draw":2,"loss":5,"for":26,"against":24,"isNew":true},
+{"country":"prt","name":"União Lisboa","id":"Atlético_Clube_de_Portugal","win":3,"draw":2,"loss":9,"for":30,"against":49,"isNew":true},
+{"country":"prt","name":"Académico","id":"Académico_F.C.","win":2,"draw":2,"loss":10,"for":20,"against":54,"isNew":true,"isRemoved":true},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":1,"draw":1,"loss":12,"for":14,"against":49,"isNew":true}
 ]

@@ -468,4 +468,21 @@
 {"country":"cyp","name":"Evagoras Paphos","id":"Evagoras_Paphos","win":4,"draw":12,"loss":14,"for":32,"against":59},
 {"country":"cyp","name":"Digenis Akritas Morphou","id":"Digenis_Akritas_Morphou_FC","win":5,"draw":9,"loss":16,"for":30,"against":61},
 {"country":"cyp","name":"Chalkanoras Idaliou","id":"Chalkanoras_Idaliou","win":6,"draw":6,"loss":18,"for":22,"against":62,"isRemoved":true}
+][
+{"country":"prt","name":"Porto","id":"FC_Porto","win":22,"draw":7,"loss":1,"for":81,"against":21,"isChampion":true},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":21,"draw":9,"loss":0,"for":56,"against":11},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":19,"draw":4,"loss":7,"for":63,"against":30},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":16,"draw":6,"loss":8,"for":42,"against":27},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":14,"draw":8,"loss":8,"for":25,"against":21},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":12,"draw":7,"loss":11,"for":33,"against":28},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":10,"draw":8,"loss":12,"for":36,"against":38},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":11,"draw":4,"loss":15,"for":41,"against":49},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":8,"draw":10,"loss":12,"for":29,"against":40},
+{"country":"prt","name":"Varzim","id":"Varzim_S.C.","win":9,"draw":7,"loss":14,"for":26,"against":38},
+{"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":8,"draw":9,"loss":13,"for":25,"against":36},
+{"country":"prt","name":"Marítimo","id":"C.S._Marítimo","win":8,"draw":7,"loss":15,"for":22,"against":45,"isNew":true},
+{"country":"prt","name":"Portimonense","id":"Portimonense_S.C.","win":8,"draw":7,"loss":15,"for":29,"against":39,"isRemoved":true},
+{"country":"prt","name":"Espinho","id":"S.C._Espinho","win":8,"draw":6,"loss":16,"for":30,"against":52,"isRemoved":true,"isReturning":true},
+{"country":"prt","name":"Riopele","id":"G.D._Riopele","win":6,"draw":9,"loss":15,"for":23,"against":51,"isRemoved":true,"isNew":true},
+{"country":"prt","name":"Feirense","id":"C.D._Feirense","win":5,"draw":2,"loss":23,"for":24,"against":59,"isRemoved":true,"isReturning":true}
 ]

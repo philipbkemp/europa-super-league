@@ -472,4 +472,21 @@
 {"country":"cyp","name":"Nea Salamis","id":"Nea_Salamis_Famagusta_FC","win":6,"draw":8,"loss":12,"for":28,"against":39},
 {"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":5,"draw":10,"loss":11,"for":26,"against":45,"isRemoved":true},
 {"country":"cyp","name":"APOP Paphos","id":"APOP_Paphos_FC","win":5,"draw":4,"loss":17,"for":14,"against":41,"isRemoved":true}
+][
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":22,"draw":7,"loss":1,"for":67,"against":13,"isChampion":true},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":20,"draw":7,"loss":3,"for":73,"against":18},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":18,"draw":6,"loss":6,"for":48,"against":25},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":11,"draw":10,"loss":9,"for":35,"against":24},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":12,"draw":6,"loss":12,"for":32,"against":38},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":13,"draw":3,"loss":14,"for":41,"against":43},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":12,"draw":5,"loss":13,"for":29,"against":33},
+{"country":"prt","name":"Rio Ave","id":"Rio_Ave_F.C.","win":13,"draw":3,"loss":14,"for":43,"against":45},
+{"country":"prt","name":"Portimonense","id":"Portimonense_S.C.","win":11,"draw":7,"loss":12,"for":35,"against":31},
+{"country":"prt","name":"Salgueiros","id":"S.C._Salgueiros","win":9,"draw":9,"loss":12,"for":26,"against":36,"isReturning":true},
+{"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":9,"draw":8,"loss":13,"for":26,"against":39},
+{"country":"prt","name":"Varzim","id":"Varzim_S.C.","win":8,"draw":10,"loss":12,"for":23,"against":39,"isReturning":true},
+{"country":"prt","name":"Espinho","id":"S.C._Espinho","win":9,"draw":7,"loss":14,"for":23,"against":37},
+{"country":"prt","name":"Marítimo","id":"C.S._Marítimo","win":8,"draw":9,"loss":13,"for":26,"against":38,"isRemoved":true,"isReturning":true},
+{"country":"prt","name":"Amora","id":"Amora_F.C.","win":6,"draw":6,"loss":18,"for":23,"against":55,"isRemoved":true},
+{"country":"prt","name":"Alcobaça","id":"G.C._Alcobaça","win":4,"draw":7,"loss":19,"for":20,"against":56,"isRemoved":true,"isNew":true}
 ]

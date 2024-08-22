@@ -470,4 +470,21 @@
 {"country":"cyp","name":"Omonia Aradippou","id":"Omonia_Aradippou","win":6,"draw":9,"loss":13,"for":18,"against":35},
 {"country":"cyp","name":"APOP Paphos","id":"APOP_Paphos_FC","win":5,"draw":9,"loss":14,"for":23,"against":53,"isRemoved":true},
 {"country":"cyp","name":"Evagoras Paphos","id":"Evagoras_Paphos","win":4,"draw":11,"loss":13,"for":16,"against":47,"isRemoved":true}
+][
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":24,"draw":4,"loss":2,"for":67,"against":17,"isChampion":true},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":22,"draw":6,"loss":2,"for":59,"against":9},
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":19,"draw":7,"loss":4,"for":79,"against":21},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":15,"draw":7,"loss":8,"for":44,"against":30},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":13,"draw":8,"loss":9,"for":33,"against":38},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":11,"draw":10,"loss":9,"for":42,"against":38},
+{"country":"prt","name":"Espinho","id":"S.C._Espinho","win":11,"draw":6,"loss":13,"for":29,"against":42,"isReturning":true},
+{"country":"prt","name":"Portimonense","id":"Portimonense_S.C.","win":10,"draw":6,"loss":14,"for":32,"against":49,"isReturning":true},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":10,"draw":6,"loss":14,"for":34,"against":40},
+{"country":"prt","name":"Varzim","id":"Varzim_S.C.","win":8,"draw":10,"loss":12,"for":37,"against":45},
+{"country":"prt","name":"Marítimo","id":"C.S._Marítimo","win":9,"draw":8,"loss":13,"for":25,"against":37},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":9,"draw":5,"loss":16,"for":29,"against":41},
+{"country":"prt","name":"União de Leiria","id":"U.D._Leiria","win":6,"draw":9,"loss":15,"for":26,"against":49,"isRemoved":true,"isNew":true},
+{"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":5,"draw":11,"loss":14,"for":18,"against":37,"isRemoved":true},
+{"country":"prt","name":"Beira-Mar","id":"S.C._Beira-Mar","win":5,"draw":10,"loss":15,"for":24,"against":46,"isRemoved":true},
+{"country":"prt","name":"Rio Ave","id":"Rio_Ave_F.C.","win":5,"draw":3,"loss":22,"for":22,"against":61,"isRemoved":true,"isNew":true}
 ]

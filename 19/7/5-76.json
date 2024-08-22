@@ -441,4 +441,21 @@
 {"country":"cyp","name":"Digenis Akritas Morphou","id":"Digenis_Akritas_Morphou_FC","win":5,"draw":7,"loss":16,"for":31,"against":65},
 {"country":"cyp","name":"Aris Limassol F.C.","id":"Aris_Limassol_FC","win":4,"draw":7,"loss":17,"for":30,"against":70},
 {"country":"cyp","name":"ASIL Lysi","id":"ASIL_Lysi","win":1,"draw":4,"loss":23,"for":17,"against":71}
+][
+{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":23,"draw":4,"loss":3,"for":94,"against":20,"isChampion":true},
+{"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":21,"draw":6,"loss":3,"for":65,"against":23},
+{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":16,"draw":8,"loss":6,"for":45,"against":28},
+{"country":"prt","name":"Porto","id":"FC_Porto","win":16,"draw":7,"loss":7,"for":73,"against":33},
+{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":16,"draw":6,"loss":8,"for":54,"against":31},
+{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":13,"draw":10,"loss":7,"for":49,"against":32},
+{"country":"prt","name":"Braga","id":"S.C._Braga","win":9,"draw":10,"loss":11,"for":35,"against":43,"isReturning":true},
+{"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":10,"draw":8,"loss":12,"for":31,"against":45,"isReturning":true},
+{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":8,"draw":10,"loss":12,"for":39,"against":42},
+{"country":"prt","name":"Atlético","id":"Atlético_Clube_de_Portugal","win":9,"draw":5,"loss":16,"for":26,"against":49},
+{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":7,"draw":9,"loss":14,"for":32,"against":47},
+{"country":"prt","name":"Leixões","id":"Leixões_S.C.","win":8,"draw":6,"loss":16,"for":30,"against":65},
+{"country":"prt","name":"Beira-Mar","id":"S.C._Beira-Mar","win":6,"draw":9,"loss":15,"for":28,"against":47,"isReturning":true},
+{"country":"prt","name":"União de Tomar","id":"U.F.C.I._Tomar","win":7,"draw":7,"loss":16,"for":32,"against":61,"isRemoved":true},
+{"country":"prt","name":"Farense","id":"S.C._Farense","win":8,"draw":3,"loss":19,"for":33,"against":65,"isRemoved":true},
+{"country":"prt","name":"CUF Barreiro","id":"G.D._Fabril","win":4,"draw":10,"loss":16,"for":15,"against":50,"isRemoved":true}
 ]
