@@ -457,4 +457,19 @@
 {"country":"prt","name":"Felgueiras","id":"F.C._Felgueiras","win":8,"draw":9,"loss":17,"for":29,"against":47,"isRemoved":true,"isNew":true},
 {"country":"prt","name":"Campomaiorense","id":"S.C._Campomaiorense","win":10,"draw":3,"loss":21,"for":32,"against":69,"isRemoved":true,"isNew":true},
 {"country":"prt","name":"Tirsense","id":"F.C._Tirsense","win":7,"draw":10,"loss":17,"for":30,"against":53,"isRemoved":true}
+][
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":19,"draw":5,"loss":2,"for":78,"against":29,"isChampion":true},
+{"country":"nor","name":"Molde","id":"Molde_FK","win":14,"draw":5,"loss":7,"for":60,"against":47,"isReturning":true},
+{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":12,"draw":7,"loss":7,"for":65,"against":43},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":11,"draw":8,"loss":7,"for":50,"against":36},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":12,"draw":4,"loss":10,"for":55,"against":42},
+{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":11,"draw":5,"loss":10,"for":53,"against":42},
+{"country":"nor","name":"VIF Fotball","id":"Vålerenga_Fotball","win":11,"draw":6,"loss":9,"for":47,"against":44,"deduct":-2,"deductReason":"Financial issues"},
+{"country":"nor","name":"Start","id":"IK_Start","win":11,"draw":1,"loss":14,"for":51,"against":52},
+{"country":"nor","name":"Stabæk","id":"Stabæk_Fotball","win":9,"draw":6,"loss":11,"for":36,"against":40,"isNew":true},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":9,"draw":5,"loss":12,"for":40,"against":50},
+{"country":"nor","name":"Kongsvinger","id":"Kongsvinger_IL_Toppfotball","win":7,"draw":8,"loss":11,"for":37,"against":54},
+{"country":"nor","name":"Hødd","id":"IL_Hødd","win":8,"draw":4,"loss":14,"for":38,"against":57,"isRemoved":true,"isReturning":true},
+{"country":"nor","name":"Ham-Kam","id":"Hamarkameratene","win":8,"draw":3,"loss":15,"for":33,"against":66,"isRemoved":true},
+{"country":"nor","name":"Strindheim","id":"Strindheim_IL","win":4,"draw":5,"loss":17,"for":36,"against":77,"isRemoved":true,"isReturning":true}
 ]

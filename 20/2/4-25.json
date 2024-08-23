@@ -431,4 +431,21 @@
 {"country":"prt","name":"Arouca","id":"F.C._Arouca","win":0,"draw":0,"loss":2,"for":1,"against":4,"isCurrentSeason":true},
 {"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":0,"draw":0,"loss":2,"for":1,"against":5,"isCurrentSeason":true},
 {"country":"prt","name":"Casa Pia","id":"Casa_Pia_A.C.","win":0,"draw":0,"loss":2,"for":0,"against":4,"isCurrentSeason":true}
+][
+{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":12,"draw":5,"loss":2,"for":42,"against":17,"isCurrentSeason":true},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":10,"draw":6,"loss":3,"for":32,"against":22,"isCurrentSeason":true},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":9,"draw":6,"loss":4,"for":32,"against":23,"isCurrentSeason":true},
+{"country":"nor","name":"Molde","id":"Molde_FK","win":9,"draw":4,"loss":5,"for":34,"against":21,"isCurrentSeason":true},
+{"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":8,"draw":7,"loss":4,"for":25,"against":20,"isCurrentSeason":true,"isReturning":true},
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":8,"draw":3,"loss":8,"for":29,"against":31,"isCurrentSeason":true},
+{"country":"nor","name":"KFUM Oslo","id":"KFUM-Kameratene_Oslo","win":6,"draw":8,"loss":5,"for":24,"against":24,"isCurrentSeason":true,"isNew":true},
+{"country":"nor","name":"HamKam","id":"Hamarkameratene","win":6,"draw":6,"loss":7,"for":23,"against":21,"isCurrentSeason":true},
+{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":6,"draw":5,"loss":8,"for":23,"against":29,"isCurrentSeason":true},
+{"country":"nor","name":"Sarpsborg","id":"Sarpsborg_08_FF","win":6,"draw":5,"loss":8,"for":29,"against":36,"isCurrentSeason":true},
+{"country":"nor","name":"Kristiansund","id":"Kristiansund_BK","win":5,"draw":6,"loss":6,"for":23,"against":25,"isCurrentSeason":true,"isReturning":true},
+{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":6,"draw":3,"loss":10,"for":19,"against":25,"isCurrentSeason":true},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":6,"draw":2,"loss":11,"for":24,"against":37,"isCurrentSeason":true},
+{"country":"nor","name":"Haugesund","id":"FK_Haugesund","win":5,"draw":3,"loss":11,"for":20,"against":30,"isCurrentSeason":true},
+{"country":"nor","name":"Odd","id":"Odds_BK","win":4,"draw":6,"loss":9,"for":19,"against":32,"isCurrentSeason":true},
+{"country":"nor","name":"Sandefjord","id":"Sandefjord_Fotball","win":4,"draw":5,"loss":9,"for":27,"against":32,"isCurrentSeason":true}
 ]

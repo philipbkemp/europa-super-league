@@ -451,4 +451,21 @@
 {"country":"prt","name":"Marítimo","id":"C.S._Marítimo","win":7,"draw":5,"loss":22,"for":32,"against":63,"isRemoved":true},
 {"country":"prt","name":"Paços de Ferreira","id":"F.C._Paços_de_Ferreira","win":6,"draw":5,"loss":23,"for":26,"against":62,"isRemoved":true},
 {"country":"prt","name":"Santa Clara","id":"C.D._Santa_Clara","win":5,"draw":7,"loss":22,"for":26,"against":58,"isRemoved":true}
+][
+{"country":"nor","name":"Molde","id":"Molde_FK","win":25,"draw":3,"loss":2,"for":71,"against":25,"isChampion":true},
+{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":18,"draw":6,"loss":6,"for":86,"against":41},
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":16,"draw":8,"loss":6,"for":69,"against":44},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":16,"draw":5,"loss":9,"for":49,"against":34},
+{"country":"nor","name":"Odd","id":"Odds_BK","win":13,"draw":6,"loss":11,"for":43,"against":45},
+{"country":"nor","name":"Vålerenga","id":"Vålerenga_Fotball","win":13,"draw":5,"loss":12,"for":52,"against":49},
+{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":10,"draw":13,"loss":7,"for":46,"against":49},
+{"country":"nor","name":"Sarpsborg 08","id":"Sarpsborg_08_FF","win":12,"draw":5,"loss":13,"for":57,"against":54},
+{"country":"nor","name":"Aalesund","id":"Aalesunds_FK","win":10,"draw":9,"loss":11,"for":32,"against":45,"isReturning":true},
+{"country":"nor","name":"Haugesund","id":"FK_Haugesund","win":10,"draw":8,"loss":12,"for":42,"against":46},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":9,"draw":8,"loss":13,"for":48,"against":54},
+{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":9,"draw":6,"loss":15,"for":44,"against":55},
+{"country":"nor","name":"HamKam","id":"Hamarkameratene","win":6,"draw":13,"loss":11,"for":33,"against":43,"isReturning":true},
+{"country":"nor","name":"Sandefjord","id":"Sandefjord_Fotball","win":6,"draw":6,"loss":18,"for":42,"against":68},
+{"country":"nor","name":"Kristiansund","id":"Kristiansund_BK","win":5,"draw":8,"loss":17,"for":37,"against":60,"isRemoved":true},
+{"country":"nor","name":"Jerv","id":"FK_Jerv","win":5,"draw":5,"loss":20,"for":30,"against":69,"isRemoved":true,"isNew":true}
 ]

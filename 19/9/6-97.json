@@ -441,4 +441,19 @@
 {"country":"prt","name":"Espinho","id":"S.C._Espinho","win":9,"draw":6,"loss":19,"for":27,"against":56,"isRemoved":true,"isReturning":true},
 {"country":"prt","name":"União de Leiria","id":"U.D._Leiria","win":8,"draw":6,"loss":20,"for":25,"against":53,"isRemoved":true},
 {"country":"prt","name":"Gil Vicente","id":"Gil_Vicente_F.C.","win":4,"draw":7,"loss":23,"for":29,"against":74,"isRemoved":true}
+][
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":18,"draw":5,"loss":3,"for":82,"against":26,"isChampion":true},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":13,"draw":7,"loss":6,"for":54,"against":36},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":12,"draw":7,"loss":7,"for":50,"against":32},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":11,"draw":9,"loss":6,"for":64,"against":50},
+{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":11,"draw":8,"loss":7,"for":46,"against":41},
+{"country":"nor","name":"Stabæk","id":"Stabæk_Fotball","win":9,"draw":9,"loss":8,"for":47,"against":45},
+{"country":"nor","name":"Kongsvinger","id":"Kongsvinger_IL_Toppfotball","win":9,"draw":7,"loss":10,"for":38,"against":48},
+{"country":"nor","name":"Molde","id":"Molde_FK","win":9,"draw":6,"loss":11,"for":45,"against":38},
+{"country":"nor","name":"Skeid","id":"Skeid_Fotball","win":10,"draw":2,"loss":14,"for":33,"against":59,"isReturning":true},
+{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":9,"draw":4,"loss":13,"for":44,"against":49},
+{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":8,"draw":5,"loss":13,"for":40,"against":59,"isReturning":true},
+{"country":"nor","name":"Moss","id":"Moss_FK","win":7,"draw":8,"loss":11,"for":28,"against":47,"isRemoved":true,"isReturning":true},
+{"country":"nor","name":"Vålerenga","id":"Vålerenga_Fotball","win":6,"draw":10,"loss":10,"for":30,"against":40,"isRemoved":true},
+{"country":"nor","name":"Start","id":"IK_Start","win":5,"draw":3,"loss":18,"for":37,"against":71,"isRemoved":true}
 ]

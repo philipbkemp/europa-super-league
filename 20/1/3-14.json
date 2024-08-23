@@ -449,4 +449,21 @@
 {"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":6,"draw":10,"loss":14,"for":19,"against":33,"isReturning":true},
 {"country":"prt","name":"Paços de Ferreira","id":"F.C._Paços_de_Ferreira","win":6,"draw":6,"loss":18,"for":28,"against":59},
 {"country":"prt","name":"Olhanense","id":"S.C._Olhanense","win":6,"draw":6,"loss":18,"for":21,"against":49,"isRemoved":true}
+][
+{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":19,"draw":6,"loss":5,"for":66,"against":26,"isChampion":true},
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":18,"draw":8,"loss":4,"for":50,"against":25},
+{"country":"nor","name":"Haugesund","id":"FK_Haugesund","win":15,"draw":6,"loss":9,"for":41,"against":39},
+{"country":"nor","name":"Aalesund","id":"Aalesunds_FK","win":14,"draw":7,"loss":9,"for":55,"against":44},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":12,"draw":10,"loss":8,"for":41,"against":36},
+{"country":"nor","name":"Molde","id":"Molde_FK","win":12,"draw":8,"loss":10,"for":47,"against":38},
+{"country":"nor","name":"Odd","id":"Odds_BK","win":11,"draw":7,"loss":12,"for":43,"against":39},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":11,"draw":6,"loss":13,"for":46,"against":46},
+{"country":"nor","name":"Start","id":"IK_Start","win":10,"draw":8,"loss":12,"for":43,"against":46,"isReturning":true},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":9,"draw":9,"loss":12,"for":37,"against":44},
+{"country":"nor","name":"Vålerenga","id":"Vålerenga_Fotball","win":10,"draw":6,"loss":14,"for":41,"against":50},
+{"country":"nor","name":"Sogndal","id":"Sogndal_Fotball","win":8,"draw":9,"loss":13,"for":33,"against":48},
+{"country":"nor","name":"Sandnes Ulf","id":"Sandnes_Ulf","win":9,"draw":6,"loss":15,"for":36,"against":58},
+{"country":"nor","name":"Sarpsborg 08","id":"Sarpsborg_08_FF","win":8,"draw":7,"loss":15,"for":40,"against":58,"isReturning":true},
+{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":7,"draw":8,"loss":15,"for":41,"against":50,"isRemoved":true},
+{"country":"nor","name":"Hønefoss","id":"Hønefoss_BK","win":6,"draw":11,"loss":13,"for":34,"against":47,"isRemoved":true}
 ]

@@ -445,4 +445,21 @@
 {"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":5,"draw":10,"loss":15,"for":29,"against":57},
 {"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":4,"draw":11,"loss":15,"for":23,"against":44,"isRemoved":true},
 {"country":"prt","name":"Leixões","id":"Leixões_S.C.","win":5,"draw":6,"loss":19,"for":25,"against":51,"isRemoved":true}
+][
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":20,"draw":9,"loss":1,"for":60,"against":22,"isChampion":true},
+{"country":"nor","name":"Molde","id":"Molde_FK","win":17,"draw":5,"loss":8,"for":62,"against":35},
+{"country":"nor","name":"Stabæk","id":"Stabæk_Fotball","win":15,"draw":8,"loss":7,"for":52,"against":34},
+{"country":"nor","name":"Odd Grenland","id":"Odds_BK","win":12,"draw":10,"loss":8,"for":53,"against":44,"isReturning":true},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":12,"draw":8,"loss":10,"for":51,"against":49},
+{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":10,"draw":10,"loss":10,"for":35,"against":36},
+{"country":"nor","name":"Vålerenga","id":"Vålerenga_Fotball","win":12,"draw":4,"loss":14,"for":47,"against":50},
+{"country":"nor","name":"Sandefjord","id":"Sandefjord_Fotball","win":10,"draw":10,"loss":10,"for":39,"against":44,"isReturning":true},
+{"country":"nor","name":"Start","id":"IK_Start","win":10,"draw":10,"loss":10,"for":46,"against":52,"isReturning":true},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":9,"draw":11,"loss":10,"for":38,"against":40},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":9,"draw":10,"loss":11,"for":43,"against":50},
+{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":10,"draw":6,"loss":14,"for":40,"against":42},
+{"country":"nor","name":"Aalesund","id":"Aalesunds_FK","win":9,"draw":9,"loss":12,"for":34,"against":43},
+{"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":10,"draw":4,"loss":16,"for":39,"against":44,"isRemoved":true},
+{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":6,"draw":10,"loss":14,"for":29,"against":53,"isRemoved":true},
+{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":2,"draw":10,"loss":18,"for":29,"against":59,"isRemoved":true}
 ]

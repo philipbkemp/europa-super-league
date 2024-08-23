@@ -490,4 +490,17 @@
 {"country":"prt","name":"Académico de Viseu","id":"Académico_de_Viseu_F.C.","win":9,"draw":5,"loss":16,"for":24,"against":52,"isRemoved":true},
 {"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":5,"draw":10,"loss":15,"for":28,"against":48,"isRemoved":true},
 {"country":"prt","name":"União de Leiria","id":"U.D._Leiria","win":8,"draw":4,"loss":18,"for":25,"against":50,"isRemoved":true,"isReturning":true}
+][
+{"country":"nor","name":"Vålerengen","id":"Vålerenga_Fotball","win":9,"draw":11,"loss":2,"for":44,"against":27,"isChampion":true},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":11,"draw":6,"loss":5,"for":32,"against":30},
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":9,"draw":8,"loss":5,"for":35,"against":24},
+{"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":9,"draw":7,"loss":6,"for":45,"against":26},
+{"country":"nor","name":"Moss","id":"Moss_FK","win":8,"draw":8,"loss":6,"for":27,"against":27},
+{"country":"nor","name":"Hamarkameratene","id":"Hamarkameratene","win":8,"draw":6,"loss":8,"for":25,"against":21,"isReturning":true},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":6,"draw":10,"loss":6,"for":26,"against":25},
+{"country":"nor","name":"Start","id":"IK_Start","win":8,"draw":5,"loss":9,"for":36,"against":38},
+{"country":"nor","name":"Bryne","id":"Bryne_FK","win":6,"draw":9,"loss":7,"for":29,"against":34},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":5,"draw":7,"loss":10,"for":26,"against":40,"isRemoved":true,"isReturning":true},
+{"country":"nor","name":"Haugar","id":"SK_Haugar","win":2,"draw":12,"loss":8,"for":20,"against":38,"isRemoved":true,"isNew":true},
+{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":4,"draw":5,"loss":13,"for":22,"against":37,"isRemoved":true}
 ]

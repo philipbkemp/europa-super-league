@@ -479,4 +479,17 @@
 {"country":"prt","name":"Estrela da Amadora","id":"C.F._Estrela_da_Amadora_(1932)","win":9,"draw":14,"loss":15,"for":37,"against":46,"isRemoved":true},
 {"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":10,"draw":9,"loss":19,"for":27,"against":38,"isRemoved":true},
 {"country":"prt","name":"Nacional","id":"C.D._Nacional","win":8,"draw":11,"loss":19,"for":33,"against":60,"isRemoved":true}
+][
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":13,"draw":5,"loss":4,"for":60,"against":24,"isChampion":true},
+{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":12,"draw":6,"loss":4,"for":36,"against":21},
+{"country":"nor","name":"Molde","id":"Molde_FK","win":12,"draw":4,"loss":6,"for":34,"against":29},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":11,"draw":6,"loss":5,"for":34,"against":25},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":10,"draw":5,"loss":7,"for":41,"against":30},
+{"country":"nor","name":"Start","id":"IK_Start","win":9,"draw":4,"loss":9,"for":39,"against":34},
+{"country":"nor","name":"Fyllingen","id":"Fyllingen_Fotball","win":7,"draw":7,"loss":8,"for":23,"against":30,"isNew":true},
+{"country":"nor","name":"Kongsvinger","id":"Kongsvinger_IL_Toppfotball","win":7,"draw":6,"loss":9,"for":24,"against":32},
+{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":8,"draw":3,"loss":11,"for":29,"against":45,"isReturning":true},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":7,"draw":4,"loss":11,"for":30,"against":30},
+{"country":"nor","name":"VIF Fotball","id":"Vålerenga_Fotball","win":4,"draw":4,"loss":14,"for":26,"against":53,"isRemoved":true},
+{"country":"nor","name":"Moss","id":"Moss_FK","win":3,"draw":4,"loss":15,"for":24,"against":47,"isRemoved":true}
 ]

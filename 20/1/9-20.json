@@ -437,4 +437,21 @@
 {"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":7,"draw":13,"loss":14,"for":27,"against":43,"isRemoved":true},
 {"country":"prt","name":"Portimonense","id":"Portimonense_S.C.","win":7,"draw":12,"loss":15,"for":30,"against":45},
 {"country":"prt","name":"Aves","id":"C.D._Aves","win":5,"draw":2,"loss":27,"for":24,"against":68,"isRemoved":true}
+][
+{"country":"nor","name":"Molde","id":"Molde_FK","win":21,"draw":5,"loss":4,"for":72,"against":31,"isChampion":true},
+{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":15,"draw":9,"loss":6,"for":64,"against":44},
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":14,"draw":10,"loss":6,"for":53,"against":41},
+{"country":"nor","name":"Odd","id":"Odds_BK","win":15,"draw":7,"loss":8,"for":45,"against":40},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":13,"draw":8,"loss":9,"for":55,"against":42,"isReturning":true},
+{"country":"nor","name":"Kristiansund","id":"Kristiansund_BK","win":11,"draw":8,"loss":11,"for":41,"against":41},
+{"country":"nor","name":"Haugesund","id":"FK_Haugesund","win":9,"draw":13,"loss":8,"for":44,"against":37},
+{"country":"nor","name":"Stabæk","id":"Stabæk_Fotball","win":10,"draw":10,"loss":10,"for":38,"against":36},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":10,"draw":10,"loss":10,"for":32,"against":37},
+{"country":"nor","name":"Vålerenga","id":"Vålerenga_Fotball","win":8,"draw":10,"loss":12,"for":39,"against":44},
+{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":8,"draw":8,"loss":14,"for":41,"against":54},
+{"country":"nor","name":"Sarpsborg 08","id":"Sarpsborg_08_FF","win":5,"draw":15,"loss":10,"for":30,"against":40},
+{"country":"nor","name":"Mjøndalen","id":"Mjøndalen_IF_Fotball","win":6,"draw":12,"loss":12,"for":38,"against":52,"isReturning":true},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":7,"draw":9,"loss":14,"for":32,"against":47,"isRemoved":true},
+{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":8,"draw":6,"loss":16,"for":39,"against":58,"isRemoved":true},
+{"country":"nor","name":"Ranheim","id":"Ranheim_Fotball","win":7,"draw":6,"loss":17,"for":36,"against":55,"isRemoved":true}
 ]

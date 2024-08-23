@@ -481,4 +481,17 @@
 {"country":"prt","name":"União de Coimbra","id":"C.F._União_de_Coimbra","win":5,"draw":7,"loss":18,"for":22,"against":54,"isRemoved":true,"isNew":true},
 {"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":4,"draw":9,"loss":17,"for":27,"against":52,"isRemoved":true},
 {"country":"prt","name":"União de Tomar","id":"U.F.C.I._Tomar","win":6,"draw":5,"loss":19,"for":35,"against":69,"isRemoved":true}
+][
+{"country":"nor","name":"Viking","id":"Viking_FK","win":16,"draw":2,"loss":4,"for":42,"against":15,"isChampion":true},
+{"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":16,"draw":2,"loss":4,"for":31,"against":16},
+{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":10,"draw":7,"loss":5,"for":40,"against":29},
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":6,"draw":10,"loss":6,"for":22,"against":19},
+{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":7,"draw":7,"loss":8,"for":29,"against":22},
+{"country":"nor","name":"Skeid","id":"Skeid_Fotball","win":8,"draw":5,"loss":9,"for":26,"against":26,"isReturning":true},
+{"country":"nor","name":"Mjøndalen","id":"Mjøndalen_IF_Fotball","win":9,"draw":3,"loss":10,"for":31,"against":36,"isNew":true},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":7,"draw":6,"loss":9,"for":22,"against":23},
+{"country":"nor","name":"HamKam","id":"Hamarkameratene","win":6,"draw":8,"loss":8,"for":14,"against":18},
+{"country":"nor","name":"Sarpsborg FK","id":"Sarpsborg_FK","win":6,"draw":6,"loss":10,"for":21,"against":30,"isRemoved":true},
+{"country":"nor","name":"Hødd","id":"IL_Hødd","win":4,"draw":6,"loss":12,"for":18,"against":39,"isRemoved":true},
+{"country":"nor","name":"Mjølner","id":"FK_Mjølner","win":3,"draw":6,"loss":13,"for":10,"against":33,"isRemoved":true,"isNew":true}
 ]

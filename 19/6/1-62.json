@@ -405,4 +405,21 @@
 {"country":"prt","name":"Lusitano de Évora","id":"Lusitano_G.C.","win":9,"draw":2,"loss":15,"for":31,"against":42},
 {"country":"prt","name":"Sporting da Covilhã","id":"S.C._Covilhã","win":6,"draw":5,"loss":15,"for":30,"against":48,"isRemoved":true},
 {"country":"prt","name":"Salgueiros","id":"S.C._Salgueiros","win":2,"draw":3,"loss":21,"for":17,"against":87,"isRemoved":true}
+][
+{"country":"nor","name":"Brann","id":"SK_Brann","win":21,"draw":4,"loss":5,"for":94,"against":44,"isChampion":true,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season before it moved to a single year championship"},
+{"country":"nor","name":"Steinkjer","id":"Steinkjer_FK","win":18,"draw":5,"loss":7,"for":81,"against":43,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season before it moved to a single year championship"},
+{"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":18,"draw":5,"loss":7,"for":80,"against":45,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season before it moved to a single year championship"},
+{"country":"nor","name":"Frigg","id":"Frigg_Oslo_FK","win":15,"draw":10,"loss":5,"for":59,"against":43,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season before it moved to a single year championship"},
+{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":16,"draw":5,"loss":9,"for":86,"against":66,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season before it moved to a single year championship"},
+{"country":"nor","name":"Vålerengen","id":"Vålerenga_Fotball","win":15,"draw":6,"loss":9,"for":75,"against":41,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season before it moved to a single year championship"},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":14,"draw":7,"loss":9,"for":49,"against":48,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season before it moved to a single year championship"},
+{"country":"nor","name":"Skeid","id":"Skeid_Fotball","win":11,"draw":11,"loss":8,"for":63,"against":40,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season before it moved to a single year championship"},
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":14,"draw":3,"loss":13,"for":55,"against":60,"isRemoved":true,"isNew":true,"removedNote":"League not contested next season before it moved to a single year championship"},
+{"country":"nor","name":"Odd","id":"Odds_BK","win":10,"draw":7,"loss":13,"for":57,"against":68,"isRemoved":true,"isNew":true,"removedNote":"League not contested next season before it moved to a single year championship"},
+{"country":"nor","name":"Eik","id":"FK_Eik_Tønsberg","win":9,"draw":8,"loss":13,"for":47,"against":59,"isRemoved":true,"isNew":true,"removedNote":"League not contested next season before it moved to a single year championship"},
+{"country":"nor","name":"Sandefjord BK","id":"Sandefjord_BK","win":11,"draw":3,"loss":16,"for":35,"against":51,"isRemoved":true,"isNew":true,"removedNote":"League not contested next season before it moved to a single year championship"},
+{"country":"nor","name":"Lisleby","id":"Lisleby_FK","win":8,"draw":3,"loss":19,"for":42,"against":74,"isRemoved":true,"isNew":true,"removedNote":"League not contested next season before it moved to a single year championship"},
+{"country":"nor","name":"Ørn-Horten","id":"FK_Ørn_Horten","win":7,"draw":3,"loss":20,"for":45,"against":91,"isRemoved":true,"isNew":true,"removedNote":"League not contested next season before it moved to a single year championship"},
+{"country":"nor","name":"Greåker","id":"Greåker_IF","win":4,"draw":8,"loss":18,"for":35,"against":75,"isRemoved":true,"isNew":true,"removedNote":"League not contested next season before it moved to a single year championship"},
+{"country":"nor","name":"Larvik Turn","id":"Larvik_Turn","win":3,"draw":4,"loss":23,"for":35,"against":90,"isRemoved":true,"isNew":true,"removedNote":"League not contested next season before it moved to a single year championship"}
 ]

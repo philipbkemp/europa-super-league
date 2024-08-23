@@ -480,4 +480,17 @@
 {"country":"prt","name":"Tirsense","id":"F.C._Tirsense","win":10,"draw":8,"loss":16,"for":27,"against":37,"isRemoved":true,"isReturning":true},
 {"country":"prt","name":"Espinho","id":"S.C._Espinho","win":9,"draw":10,"loss":15,"for":38,"against":55,"isRemoved":true,"isReturning":true},
 {"country":"prt","name":"Chaves","id":"G.D._Chaves","win":4,"draw":8,"loss":22,"for":34,"against":61,"isRemoved":true}
+][
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":14,"draw":4,"loss":4,"for":58,"against":19,"isChampion":true},
+{"country":"nor","name":"Kongsvinger","id":"Kongsvinger_IL_Toppfotball","win":12,"draw":4,"loss":6,"for":43,"against":27},
+{"country":"nor","name":"Start","id":"IK_Start","win":11,"draw":6,"loss":5,"for":38,"against":28},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":11,"draw":5,"loss":6,"for":48,"against":28},
+{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":11,"draw":4,"loss":7,"for":33,"against":29},
+{"country":"nor","name":"Molde","id":"Molde_FK","win":11,"draw":3,"loss":8,"for":30,"against":30},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":4,"draw":12,"loss":6,"for":26,"against":30},
+{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":6,"draw":6,"loss":10,"for":22,"against":37},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":4,"draw":9,"loss":9,"for":25,"against":34},
+{"country":"nor","name":"Ham-Kam","id":"Hamarkameratene","win":5,"draw":5,"loss":12,"for":30,"against":46,"isReturning":true},
+{"country":"nor","name":"Sogndal","id":"Sogndal_Fotball","win":5,"draw":5,"loss":12,"for":30,"against":53,"isRemoved":true},
+{"country":"nor","name":"Mjøndalen","id":"Mjøndalen_IF_Fotball","win":5,"draw":3,"loss":14,"for":20,"against":42,"isRemoved":true,"isReturning":true}
 ]

@@ -448,4 +448,15 @@
 {"country":"prt","name":"Varzim","id":"Varzim_S.C.","win":7,"draw":3,"loss":16,"for":27,"against":50},
 {"country":"prt","name":"Tirsense","id":"F.C._Tirsense","win":5,"draw":5,"loss":16,"for":17,"against":53,"isRemoved":true,"isNew":true},
 {"country":"prt","name":"Barreirense","id":"F.C._Barreirense","win":3,"draw":4,"loss":19,"for":24,"against":72,"isRemoved":true,"isReturning":true}
+][
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":9,"draw":7,"loss":2,"for":40,"against":24,"isChampion":true,"isReturning":true},
+{"country":"nor","name":"Skeid","id":"Skeid_Fotball","win":10,"draw":2,"loss":6,"for":42,"against":26},
+{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":9,"draw":3,"loss":6,"for":39,"against":30},
+{"country":"nor","name":"Frigg","id":"Frigg_Oslo_FK","win":8,"draw":4,"loss":6,"for":22,"against":22},
+{"country":"nor","name":"Vålerengen","id":"Vålerenga_Fotball","win":7,"draw":4,"loss":7,"for":27,"against":33},
+{"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":7,"draw":2,"loss":9,"for":27,"against":25},
+{"country":"nor","name":"Sarpsborg FK","id":"Sarpsborg_FK","win":5,"draw":6,"loss":7,"for":18,"against":24},
+{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":7,"draw":1,"loss":10,"for":30,"against":34,"isNew":true},
+{"country":"nor","name":"Steinkjer","id":"Steinkjer_FK","win":5,"draw":5,"loss":8,"for":21,"against":31,"isRemoved":true},
+{"country":"nor","name":"Odd","id":"Odds_BK","win":5,"draw":2,"loss":11,"for":18,"against":35,"isRemoved":true}
 ]

@@ -496,4 +496,15 @@
 {"country":"prt","name":"Leixões","id":"Leixões_S.C.","win":7,"draw":7,"loss":16,"for":26,"against":51},
 {"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":7,"draw":7,"loss":16,"for":29,"against":38,"isRemoved":true},
 {"country":"prt","name":"Tirsense","id":"F.C._Tirsense","win":6,"draw":7,"loss":17,"for":26,"against":66,"isRemoved":true}
+][
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":9,"draw":6,"loss":3,"for":25,"against":11,"isChampion":true},
+{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":9,"draw":5,"loss":4,"for":28,"against":17,"isReturning":true},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":9,"draw":4,"loss":5,"for":41,"against":20},
+{"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":8,"draw":6,"loss":4,"for":32,"against":23},
+{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":7,"draw":7,"loss":4,"for":28,"against":21},
+{"country":"nor","name":"HamKam","id":"Hamarkameratene","win":7,"draw":7,"loss":4,"for":19,"against":15},
+{"country":"nor","name":"Sarpsborg FK","id":"Sarpsborg_FK","win":6,"draw":4,"loss":8,"for":32,"against":27},
+{"country":"nor","name":"Hødd","id":"IL_Hødd","win":3,"draw":5,"loss":10,"for":17,"against":32},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":3,"draw":5,"loss":10,"for":16,"against":31},
+{"country":"nor","name":"Frigg","id":"Frigg_Oslo_FK","win":4,"draw":1,"loss":13,"for":16,"against":55,"isRemoved":true,"isReturning":true}
 ]

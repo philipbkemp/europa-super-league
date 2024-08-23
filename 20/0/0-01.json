@@ -455,4 +455,19 @@
 {"country":"prt","name":"Campomaiorense","id":"S.C._Campomaiorense","win":7,"draw":11,"loss":16,"for":29,"against":58,"isRemoved":true},
 {"country":"prt","name":"Desportivo das Aves","id":"C.D._Aves","win":4,"draw":10,"loss":20,"for":31,"against":68,"isRemoved":true,"isReturning":true},
 {"country":"prt","name":"Estrela da Amadora","id":"C.F._Estrela_da_Amadora_(1932)","win":4,"draw":7,"loss":23,"for":30,"against":57,"isRemoved":true,"isNew":true}
+][
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":16,"draw":6,"loss":4,"for":61,"against":26,"isChampion":true},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":14,"draw":5,"loss":7,"for":53,"against":40},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":13,"draw":6,"loss":7,"for":51,"against":39},
+{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":13,"draw":5,"loss":8,"for":51,"against":46},
+{"country":"nor","name":"Stabæk","id":"Stabæk_Fotball","win":12,"draw":6,"loss":8,"for":59,"against":33},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":11,"draw":7,"loss":8,"for":42,"against":29},
+{"country":"nor","name":"Molde","id":"Molde_FK","win":11,"draw":7,"loss":8,"for":46,"against":47},
+{"country":"nor","name":"Odd Grenland","id":"Odds_BK","win":11,"draw":5,"loss":10,"for":40,"against":31},
+{"country":"nor","name":"Moss","id":"Moss_FK","win":8,"draw":8,"loss":10,"for":38,"against":44},
+{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":6,"draw":10,"loss":10,"for":48,"against":59},
+{"country":"nor","name":"Bryne","id":"Bryne_FK","win":7,"draw":6,"loss":13,"for":32,"against":60,"isReturning":true},
+{"country":"nor","name":"Vålerenga","id":"Vålerenga_Fotball","win":5,"draw":9,"loss":12,"for":32,"against":44,"isRemoved":true},
+{"country":"nor","name":"Start","id":"IK_Start","win":5,"draw":6,"loss":15,"for":40,"against":66,"isRemoved":true,"isReturning":true},
+{"country":"nor","name":"Haugesund","id":"FK_Haugesund","win":5,"draw":4,"loss":17,"for":33,"against":62,"isRemoved":true,"isReturning":true}
 ]

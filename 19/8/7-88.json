@@ -487,4 +487,17 @@
 {"country":"prt","name":"Rio Ave","id":"Rio_Ave_F.C.","win":7,"draw":14,"loss":17,"for":29,"against":67,"isRemoved":true},
 {"country":"prt","name":"Salgueiros","id":"S.C._Salgueiros","win":6,"draw":13,"loss":19,"for":31,"against":62,"isRemoved":true},
 {"country":"prt","name":"Covilhã","id":"S.C._Covilhã","win":5,"draw":11,"loss":22,"for":30,"against":70,"isRemoved":true,"isReturning":true}
+][
+{"country":"nor","name":"Moss","id":"Moss_FK","win":13,"draw":0,"loss":6,"for":44,"against":30,"penWin":2,"penLoss":1,"isChampion":true,"isReturning":true},
+{"country":"nor","name":"Molde","id":"Molde_FK","win":11,"draw":0,"loss":6,"for":27,"against":20,"penWin":3,"penLoss":2},
+{"country":"nor","name":"Kongsvinger","id":"Kongsvinger_IL_Toppfotball","win":9,"draw":0,"loss":5,"for":32,"against":22,"penWin":4,"penLoss":4},
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":8,"draw":0,"loss":3,"for":33,"against":25,"penWin":4,"penLoss":7},
+{"country":"nor","name":"Bryne","id":"Bryne_FK","win":11,"draw":0,"loss":10,"for":32,"against":27,"penWin":0,"penLoss":1},
+{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":5,"draw":0,"loss":8,"for":19,"against":31,"penWin":7,"penLoss":2},
+{"country":"nor","name":"Vålerengen","id":"Vålerenga_Fotball","win":8,"draw":0,"loss":9,"for":26,"against":27,"penWin":1,"penLoss":4,"isNew":true},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":7,"draw":0,"loss":9,"for":25,"against":28,"penWin":3,"penLoss":3,"isReturning":true},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":7,"draw":0,"loss":10,"for":22,"against":21,"penWin":3,"penLoss":2},
+{"country":"nor","name":"HamKam","id":"Hamarkameratene","win":7,"draw":0,"loss":10,"for":27,"against":34,"penWin":3,"penLoss":2,"isRemoved":true},
+{"country":"nor","name":"Mjøndalen","id":"Mjøndalen_IF_Fotball","win":6,"draw":0,"loss":11,"for":26,"against":34,"penWin":2,"penLoss":3,"isRemoved":true},
+{"country":"nor","name":"Start","id":"IK_Start","win":6,"draw":0,"loss":11,"for":30,"against":44,"penWin":2,"penLoss":3,"isRemoved":true}
 ]

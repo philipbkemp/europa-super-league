@@ -433,4 +433,19 @@
 {"country":"prt","name":"Varzim","id":"Varzim_S.C.","win":10,"draw":6,"loss":18,"for":38,"against":51,"isRemoved":true},
 {"country":"prt","name":"Santa Clara","id":"C.D._Santa_Clara","win":8,"draw":11,"loss":15,"for":39,"against":54,"isRemoved":true},
 {"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":6,"draw":13,"loss":15,"for":40,"against":53,"isRemoved":true}
+][
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":17,"draw":5,"loss":4,"for":57,"against":30,"isChampion":true},
+{"country":"nor","name":"Molde","id":"Molde_FK","win":15,"draw":5,"loss":6,"for":48,"against":26},
+{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":14,"draw":5,"loss":7,"for":36,"against":29},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":11,"draw":11,"loss":4,"for":44,"against":31},
+{"country":"nor","name":"Stabæk","id":"Stabæk_Fotball","win":12,"draw":6,"loss":8,"for":48,"against":34},
+{"country":"nor","name":"Odd Grenland","id":"Odds_BK","win":12,"draw":5,"loss":9,"for":36,"against":30},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":10,"draw":6,"loss":10,"for":37,"against":30},
+{"country":"nor","name":"Vålerenga","id":"Vålerenga_Fotball","win":7,"draw":12,"loss":7,"for":38,"against":31,"isReturning":true},
+{"country":"nor","name":"Bryne","id":"Bryne_FK","win":8,"draw":7,"loss":11,"for":38,"against":39},
+{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":9,"draw":4,"loss":13,"for":38,"against":41},
+{"country":"nor","name":"Sogndal","id":"Sogndal_Fotball","win":8,"draw":6,"loss":12,"for":37,"against":51},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":8,"draw":3,"loss":15,"for":35,"against":52},
+{"country":"nor","name":"Moss","id":"Moss_FK","win":6,"draw":6,"loss":14,"for":32,"against":49,"isRemoved":true},
+{"country":"nor","name":"Start","id":"IK_Start","win":2,"draw":5,"loss":19,"for":21,"against":72,"isRemoved":true,"isReturning":true}
 ]

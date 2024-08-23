@@ -482,4 +482,17 @@
 {"country":"prt","name":"Farense","id":"S.C._Farense","win":10,"draw":11,"loss":17,"for":34,"against":51,"isRemoved":true},
 {"country":"prt","name":"Leixões","id":"Leixões_S.C.","win":7,"draw":14,"loss":17,"for":29,"against":46,"isRemoved":true,"isReturning":true},
 {"country":"prt","name":"Académico de Viseu","id":"Académico_de_Viseu_F.C.","win":5,"draw":9,"loss":24,"for":20,"against":70,"isRemoved":true,"isReturning":true}
+][
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":14,"draw":5,"loss":3,"for":54,"against":23,"isChampion":true},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":11,"draw":7,"loss":4,"for":38,"against":18},
+{"country":"nor","name":"Molde","id":"Molde_FK","win":10,"draw":9,"loss":3,"for":35,"against":18},
+{"country":"nor","name":"Moss","id":"Moss_FK","win":11,"draw":4,"loss":7,"for":30,"against":19},
+{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":9,"draw":6,"loss":7,"for":27,"against":22},
+{"country":"nor","name":"Sogndal","id":"Sogndal_Fotball","win":8,"draw":7,"loss":7,"for":27,"against":27,"isReturning":true},
+{"country":"nor","name":"Vålerengen","id":"Vålerenga_Fotball","win":8,"draw":6,"loss":8,"for":26,"against":32},
+{"country":"nor","name":"Kongsvinger","id":"Kongsvinger_IL_Toppfotball","win":7,"draw":7,"loss":8,"for":23,"against":23},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":7,"draw":4,"loss":11,"for":16,"against":30},
+{"country":"nor","name":"Bryne","id":"Bryne_FK","win":5,"draw":6,"loss":11,"for":29,"against":33,"isRemoved":true},
+{"country":"nor","name":"Strømmen","id":"Strømmen_IF","win":4,"draw":5,"loss":13,"for":16,"against":34,"isRemoved":true,"isReturning":true},
+{"country":"nor","name":"Djerv 1919","id":"SK_Djerv_1919","win":3,"draw":4,"loss":15,"for":17,"against":59,"isRemoved":true,"isNew":true}
 ]

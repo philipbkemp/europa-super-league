@@ -438,4 +438,21 @@
 {"country":"prt","name":"Tondela","id":"C.D._Tondela","win":8,"draw":8,"loss":18,"for":29,"against":52},
 {"country":"prt","name":"Arouca","id":"F.C._Arouca","win":9,"draw":5,"loss":20,"for":33,"against":57,"isRemoved":true},
 {"country":"prt","name":"Nacional","id":"C.D._Nacional","win":4,"draw":9,"loss":21,"for":22,"against":58,"isRemoved":true}
+][
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":21,"draw":6,"loss":3,"for":65,"against":25,"isChampion":true},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":16,"draw":6,"loss":8,"for":42,"against":27,"isReturning":true},
+{"country":"nor","name":"Odd","id":"Odds_BK","win":15,"draw":6,"loss":9,"for":44,"against":35},
+{"country":"nor","name":"Haugesund","id":"FK_Haugesund","win":12,"draw":10,"loss":8,"for":47,"against":43},
+{"country":"nor","name":"Molde","id":"Molde_FK","win":13,"draw":6,"loss":11,"for":48,"against":42},
+{"country":"nor","name":"Sarpsborg 08","id":"Sarpsborg_08_FF","win":12,"draw":9,"loss":9,"for":35,"against":37},
+{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":12,"draw":8,"loss":10,"for":44,"against":40},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":12,"draw":7,"loss":11,"for":33,"against":35},
+{"country":"nor","name":"Aalesund","id":"Aalesunds_FK","win":12,"draw":6,"loss":12,"for":46,"against":51},
+{"country":"nor","name":"Vålerenga","id":"Vålerenga_Fotball","win":10,"draw":8,"loss":12,"for":41,"against":39},
+{"country":"nor","name":"Sogndal","id":"Sogndal_Fotball","win":8,"draw":12,"loss":10,"for":33,"against":37,"isReturning":true},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":8,"draw":10,"loss":12,"for":45,"against":50},
+{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":9,"draw":7,"loss":14,"for":36,"against":46},
+{"country":"nor","name":"Stabæk","id":"Stabæk_Fotball","win":8,"draw":7,"loss":15,"for":35,"against":42},
+{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":8,"draw":6,"loss":16,"for":36,"against":45,"isRemoved":true},
+{"country":"nor","name":"Start","id":"IK_Start","win":2,"draw":10,"loss":18,"for":23,"against":59,"isRemoved":true}
 ]

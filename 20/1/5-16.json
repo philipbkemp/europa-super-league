@@ -434,4 +434,21 @@
 {"country":"prt","name":"Tondela","id":"C.D._Tondela","win":8,"draw":6,"loss":20,"for":34,"against":54,"isNew":true},
 {"country":"prt","name":"União da Madeira","id":"C.F._União","win":7,"draw":8,"loss":19,"for":27,"against":50,"isRemoved":true,"isReturning":true},
 {"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":5,"draw":10,"loss":19,"for":32,"against":60,"isRemoved":true}
+][
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":21,"draw":6,"loss":3,"for":73,"against":27,"isChampion":true},
+{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":17,"draw":6,"loss":7,"for":67,"against":44},
+{"country":"nor","name":"Stabæk","id":"Stabæk_Fotball","win":17,"draw":5,"loss":8,"for":54,"against":43},
+{"country":"nor","name":"Odd","id":"Odds_BK","win":15,"draw":10,"loss":5,"for":61,"against":41},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":17,"draw":2,"loss":11,"for":53,"against":39},
+{"country":"nor","name":"Molde","id":"Molde_FK","win":15,"draw":7,"loss":8,"for":62,"against":31},
+{"country":"nor","name":"Vålerenga","id":"Vålerenga_Fotball","win":14,"draw":7,"loss":9,"for":49,"against":41},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":12,"draw":9,"loss":9,"for":45,"against":43,"deduct":-1,"deductReason":"Poor financial reporting"},
+{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":12,"draw":4,"loss":14,"for":53,"against":56},
+{"country":"nor","name":"Aalesund","id":"Aalesunds_FK","win":11,"draw":5,"loss":14,"for":42,"against":57},
+{"country":"nor","name":"Sarpsborg 08","id":"Sarpsborg_08_FF","win":8,"draw":10,"loss":12,"for":37,"against":49},
+{"country":"nor","name":"Haugesund","id":"FK_Haugesund","win":8,"draw":7,"loss":15,"for":33,"against":52},
+{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":7,"draw":8,"loss":15,"for":36,"against":50,"isReturning":true},
+{"country":"nor","name":"Start","id":"IK_Start","win":5,"draw":7,"loss":18,"for":35,"against":64},
+{"country":"nor","name":"Mjøndalen","id":"Mjøndalen_IF_Fotball","win":4,"draw":9,"loss":17,"for":38,"against":69,"isRemoved":true,"isReturning":true},
+{"country":"nor","name":"Sandefjord","id":"Sandefjord_Fotball","win":4,"draw":4,"loss":22,"for":36,"against":68,"isRemoved":true,"isReturning":true}
 ]

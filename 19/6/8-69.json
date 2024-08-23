@@ -466,4 +466,15 @@
 {"country":"prt","name":"Braga","id":"S.C._Braga","win":6,"draw":7,"loss":13,"for":20,"against":47},
 {"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":5,"draw":2,"loss":19,"for":26,"against":49,"isRemoved":true,"isReturning":true},
 {"country":"prt","name":"Sanjoanense","id":"A.D._Sanjoanense","win":3,"draw":3,"loss":20,"for":15,"against":52,"isRemoved":true}
+][
+{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":14,"draw":0,"loss":4,"for":57,"against":33,"isChampion":true},
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":11,"draw":2,"loss":5,"for":53,"against":29},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":9,"draw":3,"loss":6,"for":34,"against":32,"isReturning":true},
+{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":9,"draw":1,"loss":8,"for":48,"against":27},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":8,"draw":3,"loss":7,"for":31,"against":32,"isReturning":true},
+{"country":"nor","name":"Skeid","id":"Skeid_Fotball","win":9,"draw":1,"loss":8,"for":22,"against":33},
+{"country":"nor","name":"Sarpsborg FK","id":"Sarpsborg_FK","win":5,"draw":5,"loss":8,"for":14,"against":25},
+{"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":6,"draw":2,"loss":10,"for":28,"against":34},
+{"country":"nor","name":"Frigg","id":"Frigg_Oslo_FK","win":3,"draw":5,"loss":10,"for":15,"against":37,"isRemoved":true},
+{"country":"nor","name":"Vålerengen","id":"Vålerenga_Fotball","win":3,"draw":4,"loss":11,"for":18,"against":38,"isRemoved":true}
 ]

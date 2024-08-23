@@ -452,4 +452,15 @@
 {"country":"prt","name":"Leixões","id":"Leixões_S.C.","win":7,"draw":4,"loss":15,"for":28,"against":39},
 {"country":"prt","name":"Lusitano de Évora","id":"Lusitano_G.C.","win":4,"draw":6,"loss":16,"for":27,"against":60,"isRemoved":true},
 {"country":"prt","name":"Barreirense","id":"F.C._Barreirense","win":5,"draw":4,"loss":17,"for":32,"against":65,"isRemoved":true,"isReturning":true}
+][
+{"country":"nor","name":"Vålerengen","id":"Vålerenga_Fotball","win":12,"draw":3,"loss":3,"for":39,"against":25,"isChampion":true},
+{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":12,"draw":2,"loss":4,"for":57,"against":22},
+{"country":"nor","name":"Sarpsborg FK","id":"Sarpsborg_FK","win":10,"draw":3,"loss":5,"for":32,"against":24},
+{"country":"nor","name":"Steinkjer","id":"Steinkjer_FK","win":9,"draw":3,"loss":6,"for":27,"against":21,"isReturning":true},
+{"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":8,"draw":4,"loss":6,"for":40,"against":31},
+{"country":"nor","name":"Skeid","id":"Skeid_Fotball","win":8,"draw":1,"loss":9,"for":28,"against":30},
+{"country":"nor","name":"Odd","id":"Odds_BK","win":7,"draw":2,"loss":9,"for":30,"against":35,"isReturning":true},
+{"country":"nor","name":"Frigg","id":"Frigg_Oslo_FK","win":5,"draw":5,"loss":8,"for":22,"against":30},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":5,"draw":3,"loss":10,"for":20,"against":32,"isRemoved":true},
+{"country":"nor","name":"Sandefjord BK","id":"Sandefjord_BK","win":0,"draw":2,"loss":16,"for":12,"against":57,"isRemoved":true}
 ]

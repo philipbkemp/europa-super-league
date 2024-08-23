@@ -446,4 +446,21 @@
 {"country":"prt","name":"Arouca","id":"F.C._Arouca","win":7,"draw":7,"loss":20,"for":26,"against":50},
 {"country":"prt","name":"Gil Vicente","id":"Gil_Vicente_F.C.","win":4,"draw":11,"loss":19,"for":25,"against":60,"isRemoved":true},
 {"country":"prt","name":"Penafiel","id":"F.C._Penafiel","win":5,"draw":7,"loss":22,"for":29,"against":69,"isRemoved":true,"isReturning":true}
+][
+{"country":"nor","name":"Molde","id":"Molde_FK","win":22,"draw":5,"loss":3,"for":62,"against":24,"isChampion":true},
+{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":18,"draw":6,"loss":6,"for":64,"against":43},
+{"country":"nor","name":"Odd","id":"Odds_BK","win":17,"draw":7,"loss":6,"for":52,"against":32},
+{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":15,"draw":5,"loss":10,"for":48,"against":42},
+{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":13,"draw":7,"loss":10,"for":49,"against":35},
+{"country":"nor","name":"Vålerenga","id":"Vålerenga_Fotball","win":11,"draw":9,"loss":10,"for":59,"against":53},
+{"country":"nor","name":"Aalesund","id":"Aalesunds_FK","win":11,"draw":8,"loss":11,"for":40,"against":39},
+{"country":"nor","name":"Sarpsborg 08","id":"Sarpsborg_08_FF","win":10,"draw":10,"loss":10,"for":41,"against":48},
+{"country":"nor","name":"Stabæk","id":"Stabæk_Fotball","win":11,"draw":6,"loss":13,"for":44,"against":52,"isReturning":true},
+{"country":"nor","name":"Viking","id":"Viking_FK","win":8,"draw":12,"loss":10,"for":42,"against":42},
+{"country":"nor","name":"Haugesund","id":"FK_Haugesund","win":10,"draw":6,"loss":14,"for":43,"against":49},
+{"country":"nor","name":"Start","id":"IK_Start","win":10,"draw":5,"loss":15,"for":47,"against":60},
+{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":10,"draw":5,"loss":15,"for":45,"against":60,"isReturning":true},
+{"country":"nor","name":"Brann","id":"SK_Brann","win":8,"draw":5,"loss":17,"for":41,"against":54,"isRemoved":true},
+{"country":"nor","name":"Sogndal","id":"Sogndal_Fotball","win":6,"draw":6,"loss":18,"for":31,"against":49,"isRemoved":true},
+{"country":"nor","name":"Sandnes Ulf","id":"Sandnes_Ulf","win":4,"draw":10,"loss":16,"for":27,"against":53,"isRemoved":true}
 ]
