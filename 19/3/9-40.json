@@ -236,4 +236,19 @@
 {"country":"prt","name":"Académico","id":"Académico_F.C.","win":3,"draw":2,"loss":13,"for":24,"against":53,"isRemoved":true},
 {"country":"prt","name":"Leixões","id":"Leixões_S.C.","win":1,"draw":5,"loss":12,"for":26,"against":70,"isReturning":true,"isRemoved":true},
 {"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":1,"draw":3,"loss":14,"for":7,"against":67,"isReturning":true,"isRemoved":true}
+][
+{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":14,"draw":9,"loss":3,"for":58,"against":23,"isChampion":true},
+{"country":"sov","name":"Dynamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":14,"draw":5,"loss":7,"for":60,"against":41},
+{"country":"sov","name":"CDKA Moscow","id":"PFC_CSKA_Moscow","win":14,"draw":4,"loss":8,"for":68,"against":43},
+{"country":"sov","name":"Traktor Stalingrad","id":"FC_Rotor_Volgograd","win":13,"draw":4,"loss":9,"for":50,"against":39},
+{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":12,"draw":6,"loss":8,"for":42,"against":39},
+{"country":"sov","name":"Metallurg Moscow","id":"FC_Serp_i_Molot_Moscow","win":12,"draw":5,"loss":9,"for":53,"against":50},
+{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":12,"draw":4,"loss":10,"for":60,"against":46},
+{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":9,"draw":8,"loss":9,"for":39,"against":44},
+{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":8,"draw":7,"loss":11,"for":51,"against":51},
+{"country":"sov","name":"Dynamo Leningrad","id":"FC_Dynamo_Saint_Petersburg","win":8,"draw":6,"loss":12,"for":41,"against":56},
+{"country":"sov","name":"Stalinets Leningrad","id":"FC_Zenit_Saint_Petersburg","win":7,"draw":7,"loss":12,"for":30,"against":46,"isReturning":true},
+{"country":"sov","name":"Stakhanovets Stalino","id":"FC_Shakhtar_Donetsk","win":5,"draw":10,"loss":11,"for":40,"against":55},
+{"country":"sov","name":"Elektrik Leningrad","id":"FC_Elektrosila_Leningrad","win":6,"draw":5,"loss":15,"for":32,"against":49,"isRemoved":true},
+{"country":"sov","name":"Dynamo Odessa","id":"FC_Dynamo_Odesa","win":7,"draw":2,"loss":17,"for":25,"against":67,"isRemoved":true}
 ]

@@ -482,4 +482,21 @@
 {"country":"nor","name":"Frigg","id":"Frigg_Oslo_FK","win":5,"draw":8,"loss":9,"for":21,"against":27,"isRemoved":true,"isReturning":true},
 {"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":5,"draw":6,"loss":11,"for":23,"against":31,"isRemoved":true},
 {"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":3,"draw":5,"loss":14,"for":20,"against":43,"isRemoved":true}
+][
+{"country":"sov","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":18,"draw":0,"loss":5,"for":52,"against":26,"penWin":3,"penLoss":4,"isChampion":true},
+{"country":"sov","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":16,"draw":0,"loss":6,"for":44,"against":23,"penWin":4,"penLoss":4},
+{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":13,"draw":0,"loss":7,"for":43,"against":30,"penWin":7,"penLoss":3},
+{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":14,"draw":0,"loss":8,"for":37,"against":28,"penWin":3,"penLoss":5},
+{"country":"sov","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":13,"draw":0,"loss":10,"for":42,"against":33,"penWin":5,"penLoss":2},
+{"country":"sov","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":14,"draw":0,"loss":9,"for":32,"against":26,"penWin":3,"penLoss":4,"isReturning":true},
+{"country":"sov","name":"Zarya Voroshilovgrad","id":"FC_Zorya_Luhansk","win":14,"draw":0,"loss":10,"for":38,"against":26,"penWin":1,"penLoss":5},
+{"country":"sov","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":9,"draw":0,"loss":12,"for":36,"against":40,"penWin":8,"penLoss":1},
+{"country":"sov","name":"Kairat Alma-Ata","id":"FC_Kairat","win":8,"draw":0,"loss":11,"for":25,"against":37,"penWin":10,"penLoss":1},
+{"country":"sov","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":10,"draw":0,"loss":11,"for":33,"against":36,"penWin":5,"penLoss":4},
+{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":9,"draw":0,"loss":9,"for":33,"against":35,"penWin":3,"penLoss":9},
+{"country":"sov","name":"Pakhtakor Tashkent","id":"Pakhtakor_FC","win":9,"draw":0,"loss":15,"for":37,"against":44,"penWin":2,"penLoss":4,"isReturning":true},
+{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":9,"draw":0,"loss":13,"for":28,"against":37,"penWin":1,"penLoss":7},
+{"country":"sov","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":8,"draw":0,"loss":16,"for":28,"against":48,"penWin":3,"penLoss":3},
+{"country":"sov","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":7,"draw":0,"loss":14,"for":21,"against":36,"penWin":3,"penLoss":6,"isRemoved":true},
+{"country":"sov","name":"SKA Rostov-on-Don","id":"FC_SKA_Rostov-on-Don","win":3,"draw":0,"loss":18,"for":19,"against":43,"penWin":5,"penLoss":4,"isRemoved":true}
 ]

@@ -346,4 +346,19 @@
 {"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":8,"draw":4,"loss":14,"for":39,"against":61},
 {"country":"prt","name":"Lusitano VRSA","id":"Lusitano_F.C._(Portugal)","win":7,"draw":4,"loss":15,"for":23,"against":52},
 {"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":4,"draw":6,"loss":16,"for":35,"against":89,"isRemoved":true}
+][
+{"country":"sov","name":"CDKA Moscow","id":"PFC_CSKA_Moscow","win":19,"draw":3,"loss":4,"for":82,"against":30,"isChampion":true},
+{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":18,"draw":4,"loss":4,"for":85,"against":28},
+{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":18,"draw":1,"loss":7,"for":64,"against":34},
+{"country":"sov","name":"Dynamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":13,"draw":7,"loss":6,"for":54,"against":35},
+{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":15,"draw":3,"loss":8,"for":58,"against":43},
+{"country":"sov","name":"Dynamo Leningrad","id":"FC_Dynamo_Saint_Petersburg","win":10,"draw":5,"loss":11,"for":42,"against":47},
+{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":10,"draw":4,"loss":12,"for":38,"against":64,"isReturning":true},
+{"country":"sov","name":"Torpedo Stalingrad","id":"FC_Rotor_Volgograd","win":7,"draw":7,"loss":12,"for":28,"against":44},
+{"country":"sov","name":"VVS Moscow","id":"VVS_Moscow","win":9,"draw":3,"loss":14,"for":33,"against":52},
+{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":7,"draw":6,"loss":13,"for":32,"against":50},
+{"country":"sov","name":"Krylia Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":5,"draw":9,"loss":12,"for":22,"against":40},
+{"country":"sov","name":"Dynamo Minsk","id":"FC_Dinamo_Minsk","win":5,"draw":8,"loss":13,"for":38,"against":62},
+{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":4,"draw":9,"loss":13,"for":29,"against":48},
+{"country":"sov","name":"Krylia Sovetov Moscow","id":"SC_Krylia_Sovetov_Moscow","win":5,"draw":5,"loss":16,"for":32,"against":60,"isRemoved":true}
 ]

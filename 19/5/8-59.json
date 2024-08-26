@@ -384,4 +384,17 @@
 {"country":"prt","name":"Barreirense","id":"F.C._Barreirense","win":7,"draw":3,"loss":16,"for":39,"against":62,"isRemoved":true},
 {"country":"prt","name":"Caldas","id":"Caldas_S.C.","win":5,"draw":6,"loss":15,"for":33,"against":76,"isRemoved":true},
 {"country":"prt","name":"Torreense","id":"S.C.U._Torreense","win":5,"draw":5,"loss":16,"for":23,"against":71,"isRemoved":true}
+][
+{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":13,"draw":6,"loss":3,"for":55,"against":28,"isChampion":true},
+{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":14,"draw":3,"loss":5,"for":44,"against":25},
+{"country":"sov","name":"CSK MO Moscow","id":"PFC_CSKA_Moscow","win":9,"draw":9,"loss":4,"for":40,"against":25},
+{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":9,"draw":8,"loss":5,"for":41,"against":32},
+{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":9,"draw":6,"loss":7,"for":48,"against":34},
+{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":7,"draw":9,"loss":6,"for":40,"against":33},
+{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":7,"draw":8,"loss":7,"for":51,"against":42},
+{"country":"sov","name":"Shakhtyor Stalino","id":"FC_Shakhtar_Donetsk","win":9,"draw":3,"loss":10,"for":22,"against":32},
+{"country":"sov","name":"Dynamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":8,"draw":3,"loss":11,"for":34,"against":55},
+{"country":"sov","name":"Krylia Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":6,"draw":6,"loss":10,"for":23,"against":29},
+{"country":"sov","name":"Moldova Kishinyov","id":"FC_Zimbru_Chișinău","win":3,"draw":9,"loss":10,"for":25,"against":47},
+{"country":"sov","name":"Admiralteyets Leningrad","id":"Admiralteyets_Leningrad","win":3,"draw":0,"loss":19,"for":22,"against":63,"isRemoved":true,"isNew":true}
 ]

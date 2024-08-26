@@ -381,4 +381,18 @@
 {"country":"prt","name":"Sporting da Covilhã","id":"S.C._Covilhã","win":8,"draw":4,"loss":14,"for":32,"against":53},
 {"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":7,"draw":4,"loss":15,"for":33,"against":71,"isRemoved":true},
 {"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":5,"draw":7,"loss":14,"for":33,"against":49,"isRemoved":true}
+][
+{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":15,"draw":5,"loss":4,"for":44,"against":20,"isChampion":true},
+{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":14,"draw":3,"loss":7,"for":49,"against":26},
+{"country":"sov","name":"Spartak Minsk","id":"FC_Dinamo_Minsk","win":12,"draw":6,"loss":6,"for":29,"against":23,"isReturning":true},
+{"country":"sov","name":"Trudovyye Rezervy Leningrad","id":"FC_Trudovyye_Rezervy_Leningrad","win":8,"draw":10,"loss":6,"for":29,"against":25,"isNew":true},
+{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":8,"draw":10,"loss":6,"for":31,"against":29},
+{"country":"sov","name":"CDSA Moscow","id":"PFC_CSKA_Moscow","win":8,"draw":8,"loss":8,"for":30,"against":29,"isReturning":true},
+{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":8,"draw":7,"loss":9,"for":27,"against":26},
+{"country":"sov","name":"Dynamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":9,"draw":5,"loss":10,"for":38,"against":47},
+{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":8,"draw":6,"loss":10,"for":34,"against":34},
+{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":7,"draw":7,"loss":10,"for":21,"against":23},
+{"country":"sov","name":"Krylia Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":7,"draw":6,"loss":11,"for":20,"against":28},
+{"country":"sov","name":"Lokomotiv Kharkov","id":"FC_Lokomotyv_Kharkiv","win":6,"draw":5,"loss":13,"for":19,"against":39,"isRemoved":true},
+{"country":"sov","name":"Torpedo Gorkiy","id":"FC_Torpedo_NN_Nizhny_Novgorod","win":3,"draw":8,"loss":13,"for":17,"against":39,"isRemoved":true,"isReturning":true}
 ]

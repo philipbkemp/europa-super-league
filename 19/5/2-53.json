@@ -354,4 +354,19 @@
 {"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":6,"draw":7,"loss":13,"for":33,"against":52},
 {"country":"prt","name":"Braga","id":"S.C._Braga","win":8,"draw":2,"loss":16,"for":37,"against":58},
 {"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":5,"draw":4,"loss":17,"for":28,"against":64,"isRemoved":true}
+][
+{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":9,"draw":2,"loss":2,"for":26,"against":12,"isChampion":true},
+{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":7,"draw":3,"loss":3,"for":26,"against":14},
+{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":7,"draw":3,"loss":3,"for":24,"against":14},
+{"country":"sov","name":"Dynamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":5,"draw":6,"loss":2,"for":19,"against":12},
+{"country":"sov","name":"Dynamo Leningrad","id":"FC_Dynamo_Saint_Petersburg","win":5,"draw":5,"loss":3,"for":17,"against":17},
+{"country":"sov","name":"Kalinin","id":"FC_MVO_Moscow","win":5,"draw":4,"loss":4,"for":19,"against":19,"isNew":true,"isRemoved":true},
+{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":6,"draw":2,"loss":5,"for":20,"against":21},
+{"country":"sov","name":"Krylia Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":5,"draw":3,"loss":5,"for":16,"against":14},
+{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":5,"draw":2,"loss":6,"for":19,"against":21,"isReturning":true},
+{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":3,"draw":6,"loss":4,"for":11,"against":15},
+{"country":"sov","name":"VVS Moscow","id":"VVS_Moscow","win":2,"draw":6,"loss":5,"for":11,"against":14,"isRemoved":true},
+{"country":"sov","name":"Daugava Riga","id":"FC_Daugava_Riga","win":2,"draw":5,"loss":6,"for":10,"against":14,"isRemoved":true},
+{"country":"sov","name":"Shakhtyor Stalino","id":"FC_Shakhtar_Donetsk","win":1,"draw":6,"loss":6,"for":14,"against":26,"isRemoved":true},
+{"country":"sov","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":1,"draw":3,"loss":9,"for":10,"against":29,"isRemoved":true,"isReturning":true}
 ]

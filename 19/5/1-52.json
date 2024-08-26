@@ -345,4 +345,20 @@
 {"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":7,"draw":6,"loss":13,"for":53,"against":48},
 {"country":"prt","name":"Oriental","id":"Clube_Oriental_de_Lisboa","win":8,"draw":2,"loss":16,"for":48,"against":72,"isRemoved":true},
 {"country":"prt","name":"Salgueiros","id":"S.C._Salgueiros","win":8,"draw":1,"loss":17,"for":33,"against":91,"isRemoved":true,"isReturning":true}
+][
+{"country":"sov","name":"CDSA Moscow","id":"PFC_CSKA_Moscow","win":18,"draw":7,"loss":3,"for":53,"against":19,"isChampion":true,"isRemoved":true},
+{"country":"sov","name":"Dynamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":15,"draw":6,"loss":7,"for":59,"against":36},
+{"country":"sov","name":"Shakhtyor Stalino","id":"FC_Shakhtar_Donetsk","win":12,"draw":10,"loss":6,"for":44,"against":30},
+{"country":"sov","name":"Krylia Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":11,"draw":12,"loss":5,"for":34,"against":25},
+{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":13,"draw":6,"loss":9,"for":62,"against":41},
+{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":13,"draw":5,"loss":10,"for":50,"against":35},
+{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":10,"draw":8,"loss":10,"for":36,"against":40},
+{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":9,"draw":9,"loss":10,"for":43,"against":39},
+{"country":"sov","name":"Dynamo Leningrad","id":"FC_Dynamo_Saint_Petersburg","win":11,"draw":5,"loss":12,"for":46,"against":53},
+{"country":"sov","name":"VVS Moscow","id":"VVS_Moscow","win":11,"draw":4,"loss":13,"for":44,"against":56},
+{"country":"sov","name":"Daugava Riga","id":"FC_Daugava_Riga","win":9,"draw":7,"loss":12,"for":44,"against":44},
+{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":8,"draw":8,"loss":12,"for":37,"against":48},
+{"country":"sov","name":"VMS Moscow","id":"VMS_Moscow","win":7,"draw":9,"loss":12,"for":30,"against":50,"isRemoved":true,"isNew":true},
+{"country":"sov","name":"Spartak Tbilisi","id":"FC_Spartaki_Tbilisi","win":7,"draw":2,"loss":19,"for":32,"against":56,"isRemoved":true},
+{"country":"sov","name":"Torpedo Gorky","id":"FC_Torpedo_NN_Nizhny_Novgorod","win":4,"draw":6,"loss":18,"for":20,"against":62,"isRemoved":true,"isNew":true}
 ]

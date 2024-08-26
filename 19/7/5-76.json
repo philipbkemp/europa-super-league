@@ -471,4 +471,21 @@
 {"country":"nor","name":"Skeid","id":"Skeid_Fotball","win":5,"draw":7,"loss":10,"for":18,"against":23,"isRemoved":true},
 {"country":"nor","name":"Vålerengen","id":"Vålerenga_Fotball","win":3,"draw":10,"loss":9,"for":19,"against":36,"isRemoved":true},
 {"country":"nor","name":"Os","id":"Os_TF","win":0,"draw":5,"loss":17,"for":15,"against":50,"isRemoved":true,"isNew":true}
+][
+{"country":"sov","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":17,"draw":9,"loss":4,"for":53,"against":30,"isChampion":true,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+{"country":"sov","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":15,"draw":8,"loss":7,"for":45,"against":23,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":13,"draw":12,"loss":5,"for":39,"against":23,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":13,"draw":8,"loss":9,"for":42,"against":33,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+{"country":"sov","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":15,"draw":4,"loss":11,"for":40,"against":38,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+{"country":"sov","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":11,"draw":10,"loss":9,"for":36,"against":28,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+{"country":"sov","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":10,"draw":11,"loss":9,"for":33,"against":30,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+{"country":"sov","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":11,"draw":9,"loss":10,"for":32,"against":32,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+{"country":"sov","name":"Zarya Voroshilovgrad","id":"FC_Zorya_Luhansk","win":10,"draw":11,"loss":9,"for":32,"against":37,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":9,"draw":10,"loss":11,"for":27,"against":30,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":7,"draw":12,"loss":11,"for":28,"against":33,"isReturning":true,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+{"country":"sov","name":"Chornomorets Odessa","id":"FC_Chornomorets_Odesa","win":8,"draw":10,"loss":12,"for":27,"against":35,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+{"country":"sov","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":6,"draw":13,"loss":11,"for":29,"against":36,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":7,"draw":10,"loss":13,"for":27,"against":42,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+{"country":"sov","name":"Pakhtakor Tashkent","id":"Pakhtakor_FC","win":8,"draw":7,"loss":15,"for":31,"against":44,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+{"country":"sov","name":"SKA Rostov-on-Don","id":"FC_SKA_Rostov-on-Don","win":4,"draw":8,"loss":18,"for":23,"against":50,"isRemoved":true,"isReturning":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"}
 ]

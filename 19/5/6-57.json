@@ -380,4 +380,17 @@
 {"country":"prt","name":"Caldas","id":"Caldas_S.C.","win":6,"draw":7,"loss":13,"for":32,"against":63},
 {"country":"prt","name":"Sporting da Covilhã","id":"S.C._Covilhã","win":7,"draw":4,"loss":15,"for":33,"against":62,"isRemoved":true},
 {"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":6,"draw":4,"loss":16,"for":32,"against":62,"isRemoved":true}
+][
+{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":15,"draw":4,"loss":3,"for":68,"against":28,"isChampion":true},
+{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":10,"draw":8,"loss":4,"for":45,"against":31},
+{"country":"sov","name":"CDSA Moscow","id":"PFC_CSKA_Moscow","win":10,"draw":5,"loss":7,"for":40,"against":32},
+{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":7,"draw":10,"loss":5,"for":32,"against":31},
+{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":8,"draw":7,"loss":7,"for":40,"against":37},
+{"country":"sov","name":"Burevestnik Kishinyov","id":"FC_Zimbru_Chișinău","win":9,"draw":5,"loss":8,"for":38,"against":49,"isNew":true},
+{"country":"sov","name":"Shakhtyor Stalino","id":"FC_Shakhtar_Donetsk","win":7,"draw":7,"loss":8,"for":30,"against":39},
+{"country":"sov","name":"Dynamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":8,"draw":4,"loss":10,"for":42,"against":46},
+{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":4,"draw":11,"loss":7,"for":27,"against":43},
+{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":5,"draw":8,"loss":9,"for":38,"against":28},
+{"country":"sov","name":"ODO Sverdlovsk","id":"ODO_Sverdlovsk","win":6,"draw":4,"loss":12,"for":31,"against":45,"isRemoved":true,"isNew":true},
+{"country":"sov","name":"Trudovyye Rezervy Leningrad","id":"FC_Trudovyye_Rezervy_Leningrad","win":3,"draw":7,"loss":12,"for":25,"against":47,"isRemoved":true}
 ]

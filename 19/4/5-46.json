@@ -195,4 +195,17 @@
 {"country":"prt","name":"Académica de Coimbra","id":"Académica_de_Coimbra_(football)","win":7,"draw":2,"loss":13,"for":51,"against":76},
 {"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":6,"draw":0,"loss":16,"for":39,"against":73,"isReturning":true},
 {"country":"prt","name":"Oliveirense","id":"U.D._Oliveirense","win":3,"draw":2,"loss":17,"for":22,"against":73,"isRemoved":true,"isNew":true}
+][
+{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":19,"draw":2,"loss":1,"for":73,"against":13,"isChampion":true,"isReturning":true},
+{"country":"sov","name":"CDKA Moscow","id":"PFC_CSKA_Moscow","win":18,"draw":3,"loss":1,"for":69,"against":23,"isReturning":true},
+{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":12,"draw":3,"loss":7,"for":41,"against":21,"isReturning":true},
+{"country":"sov","name":"Dynamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":9,"draw":8,"loss":5,"for":37,"against":22,"isReturning":true},
+{"country":"sov","name":"Dynamo Leningrad","id":"FC_Dynamo_Saint_Petersburg","win":11,"draw":3,"loss":8,"for":42,"against":29,"isReturning":true},
+{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":8,"draw":7,"loss":7,"for":35,"against":31,"isReturning":true},
+{"country":"sov","name":"Traktor Stalingrad","id":"FC_Rotor_Volgograd","win":9,"draw":3,"loss":10,"for":23,"against":38,"isReturning":true},
+{"country":"sov","name":"Krylia Sovetov Moscow","id":"SC_Krylia_Sovetov_Moscow","win":6,"draw":6,"loss":10,"for":23,"against":48,"isNew":true},
+{"country":"sov","name":"Dynamo Minsk","id":"FC_Dinamo_Minsk","win":5,"draw":7,"loss":10,"for":20,"against":39,"isNew":true},
+{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":6,"draw":3,"loss":13,"for":22,"against":44,"isReturning":true},
+{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":1,"draw":6,"loss":15,"for":13,"against":50,"isReturning":true},
+{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":1,"draw":3,"loss":18,"for":14,"against":54,"isReturning":true,"isRemoved":true}
 ]

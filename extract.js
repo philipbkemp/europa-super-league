@@ -1,10 +1,10 @@
-country = "nor";
+country = "sov";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
 ISGROUPEDFIRST = false;
 FOUND = false;
-tbl = $("#League, #Final_table, #Final_Table, #League_table, #League_Table, #League_standings, #Final_league_table, #Preliminary_stage, #Table");
+tbl = $("#League, #Final_table, #Final_Table, #League_table, #League_Table, #League_standings, #Final_league_table, #Preliminary_stage, #Table, #Standings, #Final_standings");
 if ( tbl.length === 1 ) { FOUND = true; }
 
 /*
@@ -29,6 +29,7 @@ if ( FOUND ) {
 		TYPE_PENALTYDRAW = ["Pos","Team","Pld","W","PKW","PKL","L","GF","GA"]; IS_PENDRAW = 0;
 		TYPE_WINBYTHREE = ["Pos","Team","Pld","W","W3","D","L3","L","GF","GA"]; IS_WINBYTHREE = 0;
 		TYPE_GOALESS_DRAW = ["Pos","Team","Pld","W","D","0–0","L","GF","GA"]; IS_GOALESS_DRAW = 0;
+		TYPE_SOVIET_REPUBLIC = ["Pos","Republic","Team","Pld","W","D","L","GF","GA"]; IS_SOVIET_REPUBLIC = 0;
 		for ( i=0; i!=TYPE_STANDARD.length; i++ ) {
 			if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_STANDARD[i] ) { IS_STANDARD++ }
 		}
@@ -52,6 +53,11 @@ if ( FOUND ) {
 							for ( i=0; i!=TYPE_GOALESS_DRAW.length; i++ ) {
 								if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_GOALESS_DRAW[i] ) { IS_GOALESS_DRAW++ }
 							}
+							if ( TYPE_GOALESS_DRAW !== TYPE_GOALESS_DRAW.length) {
+								for ( i=0; i!=TYPE_SOVIET_REPUBLIC.length; i++ ) {
+									if ( $($(firstRow[i]).contents()[0]).text().trim() === TYPE_SOVIET_REPUBLIC[i] ) { IS_SOVIET_REPUBLIC++ }
+								}
+							}
 						}
 					}
 				}
@@ -62,21 +68,40 @@ if ( FOUND ) {
 			IS_NODRAWS === TYPE_NODRAWS.length ||
 			IS_PENDRAW === TYPE_PENALTYDRAW.length ||
 			IS_WINBYTHREE === TYPE_WINBYTHREE.length ||
-			IS_GOALESS_DRAW === TYPE_GOALESS_DRAW.length
+			IS_GOALESS_DRAW === TYPE_GOALESS_DRAW.length ||
+			IS_SOVIET_REPUBLIC === TYPE_SOVIET_REPUBLIC.length
 		) {
 			for ( r=1; r!==rows.length; r++ ) {
 				cols = Array.from($($(rows)[r]).find("th, td"));
 				if ( $($(cols)[0]).text().trim() !== "" ) {
 					thisClub = {};
-					if ( $($(cols[1]).find("a")).length !== 0 ) {
-						theClubId = $($(cols[1]).find("a")[0]).attr("href").replace("/wiki/","").replace("/w/index.php?title=","").replace("&action=edit&redlink=1","");
-						theClubName = $($(cols[1]).find("a")[0]).text().trim();
+					if ( IS_SOVIET_REPUBLIC === TYPE_SOVIET_REPUBLIC.length ) {
+						if ( $($(cols[2]).find("a")).length !== 0 ) {
+							theClubId = $($(cols[2]).find("a")[0]).attr("href").replace("/wiki/","").replace("/w/index.php?title=","").replace("&action=edit&redlink=1","");
+							//theClubName = $($(cols[2]).find("a")[0]).text().trim();
+							theClubName = $(cols[2]).text().trim().replace(" (C)","").replace(" (R)","");
+						} else {
+							theClubName = $(cols[1]).text().trim();
+							theClubName = theClubName.replace(" (E)","");
+							theClubName = theClubName.replace(" (C)","");
+							theClubId = theClubName.toLowerCase().split(" ").join("_");
+							console.warn(theClubId);
+						}
 					} else {
-						theClubName = $(cols[1]).text().trim();
-						theClubName = theClubName.replace(" (E)","");
-						theClubName = theClubName.replace(" (C)","");
-						theClubId = theClubName.toLowerCase().split(" ").join("_");
-						console.warn(theClubId);
+						if ( $($(cols[1]).find("a")).length !== 0 ) {
+							theClubId = $($(cols[1]).find("a")[0]).attr("href").replace("/wiki/","").replace("/w/index.php?title=","").replace("&action=edit&redlink=1","");
+							if ( theClubId.indexOf("_Socialist_Republic") ) {
+								theClubId = $($(cols[1]).find("a")[1]).attr("href").replace("/wiki/","").replace("/w/index.php?title=","").replace("&action=edit&redlink=1","");
+							}
+							//theClubName = $($(cols[1]).find("a")[0]).text().trim();
+							theClubName = $(cols[1]).text().trim().replace(" (C)","").replace(" (R)","");
+						} else {
+							theClubName = $(cols[1]).text().trim();
+							theClubName = theClubName.replace(" (E)","");
+							theClubName = theClubName.replace(" (C)","");
+							theClubId = theClubName.toLowerCase().split(" ").join("_");
+							console.warn(theClubId);
+						}
 					}
 					if ( theClubId === "RFK" ) {
 						console.warn(theClubId);
@@ -147,6 +172,17 @@ if ( FOUND ) {
 							id: theClubId,
 							win: parseInt($(cols[3]).text().trim()),
 							draw: parseInt($(cols[4]).text().trim()) + parseInt($(cols[5]).text().trim()),
+							loss: parseInt($(cols[6]).text().trim()),
+							for: parseInt($(cols[7]).text().trim()),
+							against: parseInt($(cols[8]).text().trim())
+						};
+					} else if ( IS_SOVIET_REPUBLIC === TYPE_SOVIET_REPUBLIC.length ) {
+						thisClub ={
+							country: country,
+							name: theClubName,
+							id: theClubId,
+							win: parseInt($(cols[4]).text().trim()),
+							draw: parseInt($(cols[5]).text().trim()),
 							loss: parseInt($(cols[6]).text().trim()),
 							for: parseInt($(cols[7]).text().trim()),
 							against: parseInt($(cols[8]).text().trim())

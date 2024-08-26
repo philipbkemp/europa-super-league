@@ -342,4 +342,18 @@
 {"country":"prt","name":"Lusitano VRSA","id":"Lusitano_F.C._(Portugal)","win":7,"draw":3,"loss":16,"for":29,"against":78,"isNew":true},
 {"country":"prt","name":"Braga","id":"S.C._Braga","win":6,"draw":4,"loss":16,"for":47,"against":69,"isNew":true},
 {"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":4,"draw":2,"loss":20,"for":35,"against":113,"isRemoved":true}
+][
+{"country":"sov","name":"CDKA Moscow","id":"PFC_CSKA_Moscow","win":17,"draw":6,"loss":1,"for":61,"against":16,"isChampion":true},
+{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":19,"draw":2,"loss":3,"for":57,"against":15},
+{"country":"sov","name":"Dynamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":14,"draw":5,"loss":5,"for":57,"against":30},
+{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":9,"draw":9,"loss":6,"for":27,"against":31},
+{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":9,"draw":6,"loss":9,"for":36,"against":29},
+{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":10,"draw":2,"loss":12,"for":35,"against":49},
+{"country":"sov","name":"Krylia Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":8,"draw":6,"loss":10,"for":32,"against":45},
+{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":6,"draw":9,"loss":9,"for":34,"against":26},
+{"country":"sov","name":"Traktor Stalingrad","id":"FC_Rotor_Volgograd","win":7,"draw":7,"loss":10,"for":34,"against":39},
+{"country":"sov","name":"Dynamo Leningrad","id":"FC_Dynamo_Saint_Petersburg","win":7,"draw":5,"loss":12,"for":32,"against":48},
+{"country":"sov","name":"Krylia Sovetov Moscow","id":"SC_Krylia_Sovetov_Moscow","win":6,"draw":6,"loss":12,"for":22,"against":37},
+{"country":"sov","name":"Dynamo Minsk","id":"FC_Dinamo_Minsk","win":5,"draw":4,"loss":15,"for":17,"against":46},
+{"country":"sov","name":"VVS Moscow","id":"VVS_Moscow","win":3,"draw":5,"loss":16,"for":21,"against":54,"isNew":true}
 ]
