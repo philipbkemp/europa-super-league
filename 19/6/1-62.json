@@ -226,7 +226,7 @@
 ][
 {"country":"isl","name":"KR","id":"knattspyrnufelag_reykjavikur","win":8,"draw":1,"loss":1,"for":35,"against":11,"isChampion":true},
 {"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":7,"draw":1,"loss":2,"for":18,"against":12},
-{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":5,"draw":2,"loss":3,"for":18,"against":13},
+{"country":"isl","name":"Valur","id":"valur","win":5,"draw":2,"loss":3,"for":18,"against":13},
 {"country":"isl","name":"ÍBA","id":"ÍB_Akureyri","win":4,"draw":1,"loss":5,"for":23,"against":23},
 {"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":2,"draw":2,"loss":6,"for":11,"against":17},
 {"country":"isl","name":"ÍBH","id":"Íþróttabandalag_Hafnarfjarðar","win":0,"draw":1,"loss":9,"for":6,"against":35,"isRemoved":true,"isReturning":true}

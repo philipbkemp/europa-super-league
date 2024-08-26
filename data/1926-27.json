@@ -106,7 +106,7 @@
 	{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":3,"draw":1,"loss":0,"for":7,"against":4},
 	{"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":2,"draw":0,"loss":2,"for":9,"against":6},
 	{"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":0,"draw":1,"loss":3,"for":9,"against":17,"isReturning":true,"isRemoved":true},
-	{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":0,"draw":1,"loss":3,"for":8,"against":17},
+	{"country":"isl","name":"Valur","id":"valur","win":0,"draw":1,"loss":3,"for":8,"against":17},
 	{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":19,"draw":2,"loss":5,"for":95,"against":32,"isChampion":true,"isNew":true},
 	{"country":"pol","name":"1. FC Katowice","id":"1._FC_Kattowitz","win":18,"draw":0,"loss":8,"for":67,"against":43,"isNew":true},
 	{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":15,"draw":2,"loss":9,"for":79,"against":55,"isNew":true},

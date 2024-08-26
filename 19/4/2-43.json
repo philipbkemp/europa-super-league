@@ -101,7 +101,7 @@
 {"country":"aut-naz","name":"SK Admira Wien","id":"SK_Admira_Wien","win":6,"draw":4,"loss":10,"for":38,"against":42},
 {"country":"aut-naz","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":0,"draw":1,"loss":19,"for":21,"against":99,"isRemoved":true,"isNew":true}
 ][
-{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":3,"draw":0,"loss":1,"for":11,"against":5,"isChampion":true},
+{"country":"isl","name":"Valur","id":"valur","win":3,"draw":0,"loss":1,"for":11,"against":5,"isChampion":true},
 {"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":3,"draw":0,"loss":1,"for":7,"against":7},
 {"country":"isl","name":"KR","id":"knattspyrnufelag_reykjavikur","win":2,"draw":0,"loss":2,"for":7,"against":6},
 {"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":1,"draw":0,"loss":3,"for":3,"against":6,"isRemoved":true},

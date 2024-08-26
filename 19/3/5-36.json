@@ -175,7 +175,7 @@
 {"country":"aut","name":"Hakoah Vienna","id":"Hakoah_Vienna","win":6,"draw":3,"loss":13,"for":36,"against":58},
 {"country":"aut","name":"Wiener AC","id":"wiener_ac","win":5,"draw":2,"loss":15,"for":37,"against":57,"isRemoved":true}
 ][
-{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":2,"draw":1,"loss":0,"for":6,"against":2,"isChampion":true},
+{"country":"isl","name":"Valur","id":"valur","win":2,"draw":1,"loss":0,"for":6,"against":2,"isChampion":true},
 {"country":"isl","name":"KR","id":"knattspyrnufelag_reykjavikur","win":2,"draw":0,"loss":1,"for":10,"against":2},
 {"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":1,"draw":1,"loss":1,"for":6,"against":3},
 {"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":0,"draw":0,"loss":3,"for":2,"against":17}

@@ -103,7 +103,7 @@
 	{"country":"aut","name":"SK Slovan HAC","id":"SK_Slovan_HAC","win":3,"draw":4,"loss":15,"for":37,"against":71,"isRemoved":true},
 	{"country":"aut","name":"Brigittenauer AC","id":"Brigittenauer_AC","win":4,"draw":1,"loss":17,"for":26,"against":66,"isRemoved":true},
 	{"country":"isl","name":"KR","id":"knattspyrnufelag_reykjavikur","win":2,"draw":0,"loss":0,"for":6,"against":2,"isChampion":true,"isRemoved":true,"removedNote":"League changed to knockout format next season"},
-	{"country":"isl","name":"Valur","id":"Valur_(men%27s_football)","win":1,"draw":0,"loss":1,"for":4,"against":4,"isRemoved":true,"removedNote":"League changed to knockout format next season"},
+	{"country":"isl","name":"Valur","id":"valur","win":1,"draw":0,"loss":1,"for":4,"against":4,"isRemoved":true,"removedNote":"League changed to knockout format next season"},
 	{"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":0,"draw":0,"loss":2,"for":5,"against":9,"isRemoved":true,"removedNote":"League changed to knockout format next season"},
 	{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":15,"draw":3,"loss":6,"for":58,"against":33,"isChampion":true},
 	{"country":"pol","name":"Garbarnia Kraków","id":"Garbarnia_Kraków","win":13,"draw":6,"loss":5,"for":62,"against":43,"isNew":true},
