@@ -369,4 +369,10 @@
 {"country":"sov","name":"Daugava Riga","id":"FC_Daugava_Riga","win":2,"draw":5,"loss":6,"for":10,"against":14,"isRemoved":true},
 {"country":"sov","name":"Shakhtyor Stalino","id":"FC_Shakhtar_Donetsk","win":1,"draw":6,"loss":6,"for":14,"against":26,"isRemoved":true},
 {"country":"sov","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":1,"draw":3,"loss":9,"for":10,"against":29,"isRemoved":true,"isReturning":true}
+][
+{"country":"fro","name":"KÍ Klaksvík","id":"Klaksvíkar_Ítróttarfelag","win":7,"draw":0,"loss":1,"for":21,"against":6,"isChampion":true},
+{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":7,"draw":0,"loss":1,"for":24,"against":7},
+{"country":"fro","name":"HB Tórshavn","id":"Havnar_Bóltfelag","win":3,"draw":0,"loss":5,"for":10,"against":17},
+{"country":"fro","name":"VB Vagur","id":"Vágs_Bóltfelag","win":1,"draw":2,"loss":5,"for":7,"against":21,"isReturning":true},
+{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":0,"draw":2,"loss":6,"for":3,"against":14}
 ]

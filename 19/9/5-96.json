@@ -472,4 +472,15 @@
 {"country":"nor","name":"Hødd","id":"IL_Hødd","win":8,"draw":4,"loss":14,"for":38,"against":57,"isRemoved":true,"isReturning":true},
 {"country":"nor","name":"Ham-Kam","id":"Hamarkameratene","win":8,"draw":3,"loss":15,"for":33,"against":66,"isRemoved":true},
 {"country":"nor","name":"Strindheim","id":"Strindheim_IL","win":4,"draw":5,"loss":17,"for":36,"against":77,"isRemoved":true,"isReturning":true}
+][
+{"country":"fro","name":"GÍ Gøta","id":"Gøtu_Ítróttarfelag","win":13,"draw":2,"loss":3,"for":41,"against":16,"isChampion":true},
+{"country":"fro","name":"Havnar Bóltfelag","id":"Havnar_Bóltfelag","win":9,"draw":6,"loss":3,"for":34,"against":14},
+{"country":"fro","name":"B68 Toftir","id":"B68_Toftir","win":9,"draw":3,"loss":6,"for":43,"against":21},
+{"country":"fro","name":"B71 Sandur","id":"B71_Sandoy","win":9,"draw":2,"loss":7,"for":35,"against":27},
+{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":8,"draw":2,"loss":8,"for":23,"against":35},
+{"country":"fro","name":"FS Vágar","id":"07_Vestur","win":6,"draw":5,"loss":7,"for":30,"against":38,"isNew":true},
+{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":6,"draw":4,"loss":8,"for":23,"against":29},
+{"country":"fro","name":"KÍ Klaksvík","id":"Klaksvíkar_Ítróttarfelag","win":6,"draw":4,"loss":8,"for":31,"against":43},
+{"country":"fro","name":"Sumba/VB","id":"Vágs_Bóltfelag","win":6,"draw":2,"loss":10,"for":26,"against":39,"isReturning":true},
+{"country":"fro","name":"NSÍ Runavík","id":"NSÍ_Runavík","win":2,"draw":2,"loss":14,"for":13,"against":37,"isRemoved":true}
 ]

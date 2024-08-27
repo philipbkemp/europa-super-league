@@ -1,4 +1,4 @@
-country = "srb";
+country = "fro";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];

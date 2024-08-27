@@ -519,4 +519,13 @@
 {"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":8,"draw":9,"loss":17,"for":32,"against":46},
 {"country":"sov","name":"Zaria Voroshilovgrad","id":"FC_Zorya_Luhansk","win":6,"draw":11,"loss":17,"for":41,"against":62,"isRemoved":true},
 {"country":"sov","name":"Krylya Sovetov Kuibyshev","id":"PFC_Krylia_Sovetov_Samara","win":7,"draw":5,"loss":22,"for":24,"against":60,"isRemoved":true,"isReturning":true}
+][
+{"country":"fro","name":"ÍF Fuglafjørður","id":"Ítróttarfelag_Fuglafjarðar","win":11,"draw":3,"loss":0,"for":34,"against":9,"isChampion":true},
+{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":11,"draw":2,"loss":1,"for":44,"against":18},
+{"country":"fro","name":"Havnar Bóltfelag","id":"Havnar_Bóltfelag","win":8,"draw":2,"loss":4,"for":39,"against":20},
+{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":4,"draw":4,"loss":6,"for":21,"against":30},
+{"country":"fro","name":"MB Miðvágur","id":"Miðvágs_Bóltfelag","win":3,"draw":5,"loss":6,"for":22,"against":27},
+{"country":"fro","name":"KÍ Klaksvík","id":"Klaksvíkar_Ítróttarfelag","win":3,"draw":4,"loss":7,"for":18,"against":36},
+{"country":"fro","name":"VB Vágur","id":"Vágs_Bóltfelag","win":1,"draw":6,"loss":7,"for":18,"against":33},
+{"country":"fro","name":"NSÍ Runavík","id":"NSÍ_Runavík","win":0,"draw":4,"loss":10,"for":12,"against":35,"isReturning":true,"isRemoved":true}
 ]

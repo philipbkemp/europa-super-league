@@ -395,4 +395,9 @@
 {"country":"sov","name":"Krylia Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":7,"draw":6,"loss":11,"for":20,"against":28},
 {"country":"sov","name":"Lokomotiv Kharkov","id":"FC_Lokomotyv_Kharkiv","win":6,"draw":5,"loss":13,"for":19,"against":39,"isRemoved":true},
 {"country":"sov","name":"Torpedo Gorkiy","id":"FC_Torpedo_NN_Nizhny_Novgorod","win":3,"draw":8,"loss":13,"for":17,"against":39,"isRemoved":true,"isReturning":true}
+][
+{"country":"fro","name":"KÍ Klaksvík","id":"Klaksvíkar_Ítróttarfelag","win":5,"draw":1,"loss":0,"for":12,"against":5,"isChampion":true},
+{"country":"fro","name":"HB Tórshavn","id":"Havnar_Bóltfelag","win":3,"draw":1,"loss":2,"for":13,"against":6},
+{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":1,"draw":1,"loss":4,"for":8,"against":13},
+{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":1,"draw":1,"loss":4,"for":3,"against":12}
 ]

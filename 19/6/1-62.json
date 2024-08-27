@@ -422,4 +422,9 @@
 {"country":"nor","name":"Ørn-Horten","id":"FK_Ørn_Horten","win":7,"draw":3,"loss":20,"for":45,"against":91,"isRemoved":true,"isNew":true,"removedNote":"League not contested next season before it moved to a single year championship"},
 {"country":"nor","name":"Greåker","id":"Greåker_IF","win":4,"draw":8,"loss":18,"for":35,"against":75,"isRemoved":true,"isNew":true,"removedNote":"League not contested next season before it moved to a single year championship"},
 {"country":"nor","name":"Larvik Turn","id":"Larvik_Turn","win":3,"draw":4,"loss":23,"for":35,"against":90,"isRemoved":true,"isNew":true,"removedNote":"League not contested next season before it moved to a single year championship"}
+][
+{"country":"fro","name":"KÍ Klaksvík","id":"Klaksvíkar_Ítróttarfelag","win":4,"draw":2,"loss":0,"for":16,"against":4,"isChampion":true},
+{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":2,"draw":1,"loss":3,"for":16,"against":14},
+{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":2,"draw":1,"loss":3,"for":8,"against":18},
+{"country":"fro","name":"Havnar Bóltfelag","id":"Havnar_Bóltfelag","win":1,"draw":2,"loss":3,"for":4,"against":8}
 ]

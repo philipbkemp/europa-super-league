@@ -475,4 +475,12 @@
 {"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":6,"draw":7,"loss":9,"for":31,"against":43,"isRemoved":true},
 {"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":5,"draw":5,"loss":12,"for":27,"against":50,"isRemoved":true},
 {"country":"nor","name":"Vard","id":"SK_Vard_Haugesund","win":2,"draw":9,"loss":11,"for":21,"against":36,"isRemoved":true,"isNew":true}
+][
+{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":9,"draw":2,"loss":1,"for":39,"against":15,"isChampion":true},
+{"country":"fro","name":"Havnar Bóltfelag","id":"Havnar_Bóltfelag","win":9,"draw":1,"loss":2,"for":38,"against":14},
+{"country":"fro","name":"KÍ Klaksvík","id":"Klaksvíkar_Ítróttarfelag","win":7,"draw":2,"loss":3,"for":36,"against":21},
+{"country":"fro","name":"VB Vágur","id":"Vágs_Bóltfelag","win":5,"draw":1,"loss":6,"for":27,"against":26},
+{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":3,"draw":3,"loss":6,"for":15,"against":25},
+{"country":"fro","name":"ÍF Fuglafjørður","id":"Ítróttarfelag_Fuglafjarðar","win":3,"draw":3,"loss":6,"for":15,"against":28},
+{"country":"fro","name":"NSÍ Runavík","id":"NSÍ_Runavík","win":0,"draw":0,"loss":12,"for":6,"against":47,"isNew":true,"isRemoved":true}
 ]

@@ -466,4 +466,15 @@
 {"country":"nor","name":"Hønefoss","id":"Hønefoss_BK","win":7,"draw":6,"loss":17,"for":28,"against":62,"isRemoved":true,"isNew":true},
 {"country":"nor","name":"Kongsvinger","id":"Kongsvinger_IL_Toppfotball","win":4,"draw":8,"loss":18,"for":27,"against":58,"isRemoved":true,"isReturning":true},
 {"country":"nor","name":"Sandefjord","id":"Sandefjord_Fotball","win":2,"draw":6,"loss":22,"for":25,"against":58,"isRemoved":true}
+][
+{"country":"fro","name":"HB","id":"Havnar_Bóltfelag","win":16,"draw":6,"loss":5,"for":49,"against":32,"isChampion":true},
+{"country":"fro","name":"EB/Streymur","id":"EB/Streymur","win":14,"draw":9,"loss":4,"for":65,"against":30},
+{"country":"fro","name":"NSÍ Runavík","id":"NSÍ_Runavík","win":14,"draw":6,"loss":7,"for":60,"against":33},
+{"country":"fro","name":"ÍF","id":"Ítróttarfelag_Fuglafjarðar","win":12,"draw":7,"loss":8,"for":50,"against":41},
+{"country":"fro","name":"Víkingur Gøta","id":"Víkingur_Gøta","win":12,"draw":7,"loss":8,"for":44,"against":35},
+{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":11,"draw":7,"loss":9,"for":44,"against":36},
+{"country":"fro","name":"B68 Toftir","id":"B68_Toftir","win":8,"draw":7,"loss":12,"for":42,"against":47},
+{"country":"fro","name":"B71 Sandoy","id":"B71_Sandoy","win":5,"draw":8,"loss":14,"for":24,"against":65,"isReturning":true},
+{"country":"fro","name":"Suðuroy","id":"FC_Suðuroy","win":5,"draw":7,"loss":15,"for":33,"against":54,"isRemoved":true,"isReturning":true},
+{"country":"fro","name":"AB","id":"Argja_Bóltfelag","win":2,"draw":8,"loss":17,"for":27,"against":65,"isRemoved":true}
 ]

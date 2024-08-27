@@ -468,4 +468,15 @@
 {"country":"nor","name":"Sandefjord","id":"Sandefjord_Fotball","win":6,"draw":6,"loss":18,"for":42,"against":68},
 {"country":"nor","name":"Kristiansund","id":"Kristiansund_BK","win":5,"draw":8,"loss":17,"for":37,"against":60,"isRemoved":true},
 {"country":"nor","name":"Jerv","id":"FK_Jerv","win":5,"draw":5,"loss":20,"for":30,"against":69,"isRemoved":true,"isNew":true}
+][
+{"country":"fro","name":"KÍ","id":"Klaksvíkar_Ítróttarfelag","win":25,"draw":2,"loss":0,"for":78,"against":7,"isChampion":true},
+{"country":"fro","name":"Víkingur","id":"Víkingur_Gøta","win":18,"draw":4,"loss":5,"for":69,"against":24},
+{"country":"fro","name":"Havnar Bóltfelag","id":"Havnar_Bóltfelag","win":17,"draw":4,"loss":6,"for":56,"against":27},
+{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":11,"draw":5,"loss":11,"for":48,"against":29},
+{"country":"fro","name":"EB/Streymur","id":"EB/Streymur","win":10,"draw":5,"loss":12,"for":31,"against":54},
+{"country":"fro","name":"B68 Toftir","id":"B68_Toftir","win":9,"draw":3,"loss":15,"for":37,"against":50},
+{"country":"fro","name":"07 Vestur","id":"07_Vestur","win":7,"draw":8,"loss":12,"for":34,"against":61},
+{"country":"fro","name":"AB Argir","id":"Argja_Bóltfelag","win":8,"draw":5,"loss":14,"for":33,"against":63,"isReturning":true},
+{"country":"fro","name":"NSÍ Runavík","id":"NSÍ_Runavík","win":6,"draw":3,"loss":18,"for":31,"against":59,"isRemoved":true},
+{"country":"fro","name":"Skála","id":"Skála_ÍF","win":1,"draw":7,"loss":19,"for":25,"against":68,"isRemoved":true,"isReturning":true}
 ]

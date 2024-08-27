@@ -361,4 +361,11 @@
 {"country":"sov","name":"Dynamo Minsk","id":"FC_Dinamo_Minsk","win":5,"draw":8,"loss":13,"for":38,"against":62},
 {"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":4,"draw":9,"loss":13,"for":29,"against":48},
 {"country":"sov","name":"Krylia Sovetov Moscow","id":"SC_Krylia_Sovetov_Moscow","win":5,"draw":5,"loss":16,"for":32,"against":60,"isRemoved":true}
+][
+{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":4,"draw":1,"loss":0,"for":23,"against":3,"isChampion":true},
+{"country":"fro","name":"HB Tórshavn","id":"Havnar_Bóltfelag","win":3,"draw":2,"loss":0,"for":14,"against":6},
+{"country":"fro","name":"KÍ Klaksvík","id":"Klaksvíkar_Ítróttarfelag","win":3,"draw":1,"loss":1,"for":29,"against":5},
+{"country":"fro","name":"VB Vágur","id":"Vágs_Bóltfelag","win":2,"draw":0,"loss":3,"for":2,"against":12},
+{"country":"fro","name":"HB Tórshavn II","id":"Havnar_Bóltfelag_II","win":1,"draw":0,"loss":4,"for":7,"against":21,"isNew":true},
+{"country":"fro","name":"B36 Tórshavn II","id":"B36_Tórshavn_II","win":0,"draw":0,"loss":5,"for":1,"against":29,"isNew":true,"isRemoved":true}
 ]

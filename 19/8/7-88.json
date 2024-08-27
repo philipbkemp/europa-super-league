@@ -517,4 +517,13 @@
 {"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":7,"draw":10,"loss":13,"for":25,"against":37},
 {"country":"sov","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":7,"draw":11,"loss":12,"for":26,"against":35,"isRemoved":true,"isReturning":true},
 {"country":"sov","name":"Guria Lanchkhuti","id":"FC_Guria_Lanchkhuti","win":5,"draw":8,"loss":17,"for":18,"against":38,"isRemoved":true,"isNew":true}
+][
+{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":7,"draw":4,"loss":3,"for":26,"against":16,"isChampion":true},
+{"country":"fro","name":"Havnar Bóltfelag","id":"Havnar_Bóltfelag","win":6,"draw":5,"loss":3,"for":34,"against":17},
+{"country":"fro","name":"GÍ Gøta","id":"Gøtu_Ítróttarfelag","win":6,"draw":5,"loss":3,"for":32,"against":20},
+{"country":"fro","name":"NSÍ Runavík","id":"NSÍ_Runavík","win":6,"draw":4,"loss":4,"for":22,"against":20},
+{"country":"fro","name":"KÍ Klaksvík","id":"Klaksvíkar_Ítróttarfelag","win":2,"draw":8,"loss":4,"for":19,"against":26},
+{"country":"fro","name":"B68 Toftir","id":"B68_Toftir","win":3,"draw":6,"loss":5,"for":14,"against":22},
+{"country":"fro","name":"Leirvík ÍF","id":"LÍF_Leirvík","win":3,"draw":4,"loss":7,"for":21,"against":30},
+{"country":"fro","name":"VB Vágur","id":"Vágs_Bóltfelag","win":1,"draw":8,"loss":5,"for":10,"against":27,"isReturning":true}
 ]
