@@ -251,4 +251,17 @@
 {"country":"sov","name":"Stakhanovets Stalino","id":"FC_Shakhtar_Donetsk","win":5,"draw":10,"loss":11,"for":40,"against":55},
 {"country":"sov","name":"Elektrik Leningrad","id":"FC_Elektrosila_Leningrad","win":6,"draw":5,"loss":15,"for":32,"against":49,"isRemoved":true},
 {"country":"sov","name":"Dynamo Odessa","id":"FC_Dynamo_Odesa","win":7,"draw":2,"loss":17,"for":25,"against":67,"isRemoved":true}
+][
+{"country":"csk-bom","name":"Slavia Prague","id":"sk_slavia_prague","win":16,"draw":6,"loss":0,"for":107,"against":37,"isChampion":true},
+{"country":"csk-bom","name":"Sparta Prague","id":"ac_sparta_prague","win":15,"draw":5,"loss":2,"for":71,"against":34},
+{"country":"csk-bom","name":"SK Pardubice","id":"SK_Pardubice","win":9,"draw":5,"loss":8,"for":46,"against":39},
+{"country":"csk-bom","name":"Baťa Zlín","id":"FC_Zlín","win":10,"draw":3,"loss":9,"for":52,"against":63},
+{"country":"csk-bom","name":"SK Židenice","id":"FC_Zbrojovka_Brno","win":9,"draw":5,"loss":8,"for":38,"against":50},
+{"country":"csk-bom","name":"SK Plzeň","id":"SK_Plzeň","win":8,"draw":4,"loss":10,"for":56,"against":52},
+{"country":"csk-bom","name":"SK Prostějov","id":"1._SK_Prostějov","win":9,"draw":2,"loss":11,"for":47,"against":48,"isReturning":true},
+{"country":"csk-bom","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":6,"draw":6,"loss":10,"for":61,"against":68,"isReturning":true},
+{"country":"csk-bom","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":7,"draw":4,"loss":11,"for":48,"against":65},
+{"country":"csk-bom","name":"SK Kladno","id":"SK_Kladno","win":7,"draw":4,"loss":11,"for":44,"against":66},
+{"country":"csk-bom","name":"SK Náchod","id":"FK_Náchod","win":8,"draw":1,"loss":13,"for":54,"against":72,"isRemoved":true},
+{"country":"csk-bom","name":"Slezská Ostrava","id":"FC_Baník_Ostrava","win":4,"draw":5,"loss":13,"for":38,"against":68,"isRemoved":true}
 ]

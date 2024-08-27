@@ -156,4 +156,17 @@
 {"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":6,"draw":2,"loss":10,"for":48,"against":76},
 {"country":"prt","name":"Unidos do Barreiro","id":"G.D._Fabril","win":5,"draw":1,"loss":12,"for":46,"against":77,"isNew":true,"isRemoved":true},
 {"country":"prt","name":"Leixões","id":"Leixões_S.C.","win":0,"draw":2,"loss":16,"for":19,"against":81,"isReturning":true,"isRemoved":true}
+][
+{"country":"csk-bom","name":"Slavia Prague","id":"sk_slavia_prague","win":15,"draw":2,"loss":5,"for":99,"against":40,"isChampion":true},
+{"country":"csk-bom","name":"Sparta Prague","id":"ac_sparta_prague","win":13,"draw":3,"loss":6,"for":78,"against":47},
+{"country":"csk-bom","name":"Baťa Zlín","id":"FC_Zlín","win":11,"draw":3,"loss":8,"for":72,"against":56},
+{"country":"csk-bom","name":"SK Židenice","id":"FC_Zbrojovka_Brno","win":12,"draw":1,"loss":9,"for":60,"against":54},
+{"country":"csk-bom","name":"Bohemians Prague","id":"Bohemians_1905","win":10,"draw":3,"loss":9,"for":64,"against":69},
+{"country":"csk-bom","name":"SK Plzeň","id":"SK_Plzeň","win":9,"draw":5,"loss":8,"for":57,"against":67},
+{"country":"csk-bom","name":"SK Olomouc ASO","id":"SK_Olomouc_ASO","win":9,"draw":3,"loss":10,"for":59,"against":53},
+{"country":"csk-bom","name":"SK Pardubice","id":"SK_Pardubice","win":9,"draw":2,"loss":11,"for":54,"against":51},
+{"country":"csk-bom","name":"SK Nusle","id":"SK_Nusle","win":8,"draw":3,"loss":11,"for":47,"against":63,"isNew":true},
+{"country":"csk-bom","name":"SK Kladno","id":"SK_Kladno","win":9,"draw":1,"loss":12,"for":40,"against":63},
+{"country":"csk-bom","name":"SK Prostějov","id":"1._SK_Prostějov","win":7,"draw":4,"loss":11,"for":50,"against":58,"isRemoved":true},
+{"country":"csk-bom","name":"SK Rakovník","id":"SK_Rakovník","win":3,"draw":4,"loss":15,"for":37,"against":96,"isRemoved":true,"isNew":true}
 ]

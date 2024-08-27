@@ -1,4 +1,4 @@
-country = "sov";
+country = "csk-bom";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
@@ -90,7 +90,7 @@ if ( FOUND ) {
 					} else {
 						if ( $($(cols[1]).find("a")).length !== 0 ) {
 							theClubId = $($(cols[1]).find("a")[0]).attr("href").replace("/wiki/","").replace("/w/index.php?title=","").replace("&action=edit&redlink=1","");
-							if ( theClubId.indexOf("_Socialist_Republic") ) {
+							if ( theClubId.indexOf("_Socialist_Republic") !== -1 ) {
 								theClubId = $($(cols[1]).find("a")[1]).attr("href").replace("/wiki/","").replace("/w/index.php?title=","").replace("&action=edit&redlink=1","");
 							}
 							//theClubName = $($(cols[1]).find("a")[0]).text().trim();

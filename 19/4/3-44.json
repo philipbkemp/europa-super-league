@@ -163,4 +163,19 @@
 {"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":2,"draw":3,"loss":13,"for":25,"against":68},
 {"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":3,"draw":0,"loss":15,"for":35,"against":68},
 {"country":"prt","name":"Salgueiros","id":"S.C._Salgueiros","win":1,"draw":1,"loss":16,"for":23,"against":84,"isNew":true}
+][
+{"country":"csk-bom","name":"Sparta Prague","id":"ac_sparta_prague","win":22,"draw":4,"loss":0,"for":109,"against":26,"isChampion":true,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-bom","name":"Slavia Prague","id":"sk_slavia_prague","win":22,"draw":1,"loss":3,"for":131,"against":43,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-bom","name":"Baťa Zlín","id":"FC_Zlín","win":14,"draw":4,"loss":8,"for":81,"against":61,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-bom","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":12,"draw":5,"loss":9,"for":65,"against":58,"isRemoved":true,"isReturning":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-bom","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":11,"draw":4,"loss":11,"for":62,"against":73,"isRemoved":true,"isReturning":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-bom","name":"SK Kladno","id":"SK_Kladno","win":11,"draw":3,"loss":12,"for":52,"against":64,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-bom","name":"Slezská Ostrava","id":"FC_Baník_Ostrava","win":12,"draw":1,"loss":13,"for":60,"against":80,"isRemoved":true,"isReturning":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-bom","name":"SK Židenice","id":"FC_Zbrojovka_Brno","win":9,"draw":6,"loss":11,"for":58,"against":61,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-bom","name":"SK Pardubice","id":"SK_Pardubice","win":10,"draw":3,"loss":13,"for":61,"against":70,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-bom","name":"Bohemians Prague","id":"Bohemians_1905","win":9,"draw":3,"loss":14,"for":70,"against":63,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-bom","name":"Polaban Nymburk","id":"SK_Polaban_Nymburk","win":8,"draw":4,"loss":14,"for":55,"against":72,"isRemoved":true,"isReturning":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-bom","name":"SK Olomouc ASO","id":"SK_Olomouc_ASO","win":9,"draw":2,"loss":15,"for":47,"against":75,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-bom","name":"SK Plzeň","id":"SK_Plzeň","win":6,"draw":2,"loss":18,"for":42,"against":98,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-bom","name":"SK Nusle","id":"SK_Nusle","win":5,"draw":2,"loss":19,"for":41,"against":90,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"}
 ]
