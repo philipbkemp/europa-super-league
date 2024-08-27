@@ -182,4 +182,15 @@
 {"country":"csk-svk","name":"TTS Trenčín","id":"TTS_Trenčín","win":8,"draw":3,"loss":11,"for":48,"against":67},
 {"country":"csk-svk","name":"Svit Batizovce","id":"AC_Svit_Batizovce","win":6,"draw":6,"loss":10,"for":41,"against":56,"isRemoved":true},
 {"country":"csk-svk","name":"VAS Bratislava","id":"VAS_Bratislava","win":3,"draw":3,"loss":16,"for":37,"against":83,"isRemoved":true}
+][
+{"country":"srb","name":"BSK Beograd","id":"OFK_Beograd","win":14,"draw":3,"loss":1,"for":96,"against":10,"isChampion":true,"isRemoved":true,"removedNote":"League suspended and returned under Yugoslav FA"},
+{"country":"srb","name":"SK 1913","id":"SK_Jugoslavija","win":12,"draw":3,"loss":2,"for":69,"against":13,"isRemoved":true,"removedNote":"League suspended and returned under Yugoslav FA"},
+{"country":"srb","name":"Obilić","id":"FK_Obilić","win":10,"draw":3,"loss":5,"for":29,"against":36,"isRemoved":true,"removedNote":"League suspended and returned under Yugoslav FA"},
+{"country":"srb","name":"Čukarički SK","id":"FK_Čukarički","win":8,"draw":4,"loss":6,"for":32,"against":29,"isRemoved":true,"removedNote":"League suspended and returned under Yugoslav FA"},
+{"country":"srb","name":"Vitez","id":"SK_Vitez_Beograd","win":9,"draw":2,"loss":7,"for":33,"against":35,"isRemoved":true,"removedNote":"League suspended and returned under Yugoslav FA"},
+{"country":"srb","name":"Jedinstvo Beograd","id":"SK_Jedinstvo_Beograd","win":6,"draw":3,"loss":9,"for":30,"against":41,"isRemoved":true,"removedNote":"League suspended and returned under Yugoslav FA"},
+{"country":"srb","name":"Sloga","id":"SK_Sloga_Beograd","win":5,"draw":5,"loss":7,"for":26,"against":37,"isRemoved":true,"removedNote":"League suspended and returned under Yugoslav FA"},
+{"country":"srb","name":"Balkan","id":"FK_Balkan_Mirijevo","win":6,"draw":1,"loss":11,"for":16,"against":72,"isRemoved":true,"removedNote":"League suspended and returned under Yugoslav FA"},
+{"country":"srb","name":"BASK","id":"FK_BASK","win":5,"draw":0,"loss":13,"for":23,"against":46,"isRemoved":true,"removedNote":"League suspended and returned under Yugoslav FA"},
+{"country":"srb","name":"Mitić","id":"SK_Mitić","win":1,"draw":2,"loss":15,"for":13,"against":55,"isRemoved":true,"removedNote":"League suspended and returned under Yugoslav FA"}
 ]

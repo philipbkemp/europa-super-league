@@ -197,4 +197,15 @@
 {"country":"hrv","name":"HŠK Hajduk Osijek","id":"HŠK_Hajduk_Osijek","win":3,"draw":0,"loss":5,"for":12,"against":27,"isNew":true,"isRemoved":true,"League contested in grouped format next season, and not restared until indepent from Yugoslavia"},
 {"country":"hrv","name":"DSV Victoria Zemun","id":"DSV_Victoria_Zemun","win":2,"draw":1,"loss":5,"for":12,"against":33,"isNew":true,"isRemoved":true,"League contested in grouped format next season, and not restared until indepent from Yugoslavia"},
 {"country":"hrv","name":"SAŠK Sarajevo","id":"NK_SAŠK_Napredak","win":0,"draw":0,"loss":8,"for":0,"against":30,"isRemoved":true,"League contested in grouped format next season, and not restared until indepent from Yugoslavia"}
+][
+{"country":"srb","name":"SK 1913","id":"SK_Jugoslavija","win":14,"draw":3,"loss":1,"for":73,"against":11,"isChampion":true},
+{"country":"srb","name":"BSK Belgrade","id":"OFK_Beograd","win":13,"draw":3,"loss":2,"for":76,"against":13},
+{"country":"srb","name":"Vitez Belgrade","id":"SK_Vitez_Beograd","win":10,"draw":3,"loss":5,"for":34,"against":31,"isNew":true},
+{"country":"srb","name":"Mitić","id":"SK_Mitić","win":7,"draw":4,"loss":7,"for":19,"against":30,"isNew":true},
+{"country":"srb","name":"Čukarički SK","id":"FK_Čukarički","win":6,"draw":4,"loss":7,"for":29,"against":27,"isNew":true},
+{"country":"srb","name":"BASK","id":"FK_BASK","win":7,"draw":1,"loss":10,"for":26,"against":35},
+{"country":"srb","name":"Obilić","id":"FK_Obilić","win":6,"draw":2,"loss":9,"for":28,"against":36,"isNew":true},
+{"country":"srb","name":"Sloga Belgrade","id":"SK_Sloga_Beograd","win":6,"draw":2,"loss":9,"for":24,"against":37,"isNew":true},
+{"country":"srb","name":"Jedinstvo Belgrade","id":"SK_Jedinstvo_Beograd","win":7,"draw":0,"loss":11,"for":25,"against":42},
+{"country":"srb","name":"Balkan Belgrade","id":"FK_Balkan_Mirijevo","win":1,"draw":2,"loss":15,"for":13,"against":85,"isNew":true}
 ]
