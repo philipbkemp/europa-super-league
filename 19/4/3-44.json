@@ -178,4 +178,17 @@
 {"country":"csk-bom","name":"SK Olomouc ASO","id":"SK_Olomouc_ASO","win":9,"draw":2,"loss":15,"for":47,"against":75,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
 {"country":"csk-bom","name":"SK Plzeň","id":"SK_Plzeň","win":6,"draw":2,"loss":18,"for":42,"against":98,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
 {"country":"csk-bom","name":"SK Nusle","id":"SK_Nusle","win":5,"draw":2,"loss":19,"for":41,"against":90,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"}
+][
+{"country":"csk-svk","name":"ŠK Bratislava","id":"ŠK_Slovan_Bratislava","win":18,"draw":2,"loss":2,"for":121,"against":34,"isChampion":true,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-svk","name":"OAP Bratislava","id":"OAP_Bratislava","win":14,"draw":3,"loss":5,"for":57,"against":26,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-svk","name":"TSS Trnava","id":"FC_Spartak_Trnava","win":11,"draw":3,"loss":8,"for":52,"against":36,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-svk","name":"Sparta Považská Bystrica","id":"MŠK_Považská_Bystrica_(football)","win":12,"draw":1,"loss":9,"for":66,"against":58,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-svk","name":"HG Šimonovany","id":"HG_Šimonovany","win":9,"draw":5,"loss":8,"for":40,"against":49,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-svk","name":"MŠK Žilina","id":"MŠK_Žilina","win":10,"draw":2,"loss":10,"for":49,"against":49,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-svk","name":"TTS Trenčín","id":"TTS_Trenčín","win":7,"draw":7,"loss":8,"for":43,"against":42,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-svk","name":"Slávia Prešov","id":"1._FC_Tatran_Prešov","win":9,"draw":3,"loss":10,"for":53,"against":55,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-svk","name":"MFK Ružomberok","id":"MFK_Ružomberok","win":9,"draw":3,"loss":10,"for":43,"against":58,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-svk","name":"ZTK Zvolen","id":"HKM_Zvolen","win":8,"draw":3,"loss":11,"for":40,"against":71,"isRemoved":true,"isReturning":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-svk","name":"FC Vrútky","id":"FC_Vrútky","win":4,"draw":4,"loss":14,"for":42,"against":81,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+{"country":"csk-svk","name":"Turčianský Sv. Martin","id":"SK_Turčianský_Sv._Martin","win":1,"draw":4,"loss":17,"for":19,"against":66,"isRemoved":true,"isNew":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"}
 ]

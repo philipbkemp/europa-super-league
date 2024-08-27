@@ -169,4 +169,17 @@
 {"country":"csk-bom","name":"SK Kladno","id":"SK_Kladno","win":9,"draw":1,"loss":12,"for":40,"against":63},
 {"country":"csk-bom","name":"SK Prostějov","id":"1._SK_Prostějov","win":7,"draw":4,"loss":11,"for":50,"against":58,"isRemoved":true},
 {"country":"csk-bom","name":"SK Rakovník","id":"SK_Rakovník","win":3,"draw":4,"loss":15,"for":37,"against":96,"isRemoved":true,"isNew":true}
+][
+{"country":"csk-svk","name":"OAP Bratislava","id":"OAP_Bratislava","win":17,"draw":3,"loss":2,"for":91,"against":26,"isChampion":true,"isNew":true},
+{"country":"csk-svk","name":"ŠK Bratislava","id":"ŠK_Slovan_Bratislava","win":14,"draw":2,"loss":6,"for":72,"against":33},
+{"country":"csk-svk","name":"Sparta Považská Bystrica","id":"MŠK_Považská_Bystrica_(football)","win":11,"draw":4,"loss":7,"for":65,"against":51},
+{"country":"csk-svk","name":"HG Šimonovany","id":"HG_Šimonovany","win":11,"draw":2,"loss":9,"for":61,"against":54,"isNew":true},
+{"country":"csk-svk","name":"TSS Trnava","id":"FC_Spartak_Trnava","win":11,"draw":0,"loss":11,"for":56,"against":63},
+{"country":"csk-svk","name":"FC Vrútky","id":"FC_Vrútky","win":9,"draw":3,"loss":10,"for":49,"against":56},
+{"country":"csk-svk","name":"MFK Ružomberok","id":"MFK_Ružomberok","win":9,"draw":2,"loss":11,"for":36,"against":54},
+{"country":"csk-svk","name":"Slávia Prešov","id":"1._FC_Tatran_Prešov","win":8,"draw":3,"loss":11,"for":50,"against":53},
+{"country":"csk-svk","name":"MŠK Žilina","id":"MŠK_Žilina","win":9,"draw":1,"loss":12,"for":45,"against":55},
+{"country":"csk-svk","name":"TTS Trenčín","id":"TTS_Trenčín","win":8,"draw":3,"loss":11,"for":48,"against":67},
+{"country":"csk-svk","name":"Svit Batizovce","id":"AC_Svit_Batizovce","win":6,"draw":6,"loss":10,"for":41,"against":56,"isRemoved":true},
+{"country":"csk-svk","name":"VAS Bratislava","id":"VAS_Bratislava","win":3,"draw":3,"loss":16,"for":37,"against":83,"isRemoved":true}
 ]
