@@ -220,4 +220,13 @@
 {"country":"srb","name":"Građanski Skoplje","id":"Gragjanski_Skopje","win":5,"draw":4,"loss":8,"for":24,"against":37,"isReturning":true,"isRemoved":true},
 {"country":"srb","name":"Slavija Sarajevo","id":"FK_Slavija_Sarajevo","win":2,"draw":6,"loss":10,"for":34,"against":41,"isRemoved":true},
 {"country":"srb","name":"BASK Belgrade","id":"FK_BASK","win":1,"draw":4,"loss":12,"for":21,"against":56,"isReturning":true}
+][
+{"country":"svn","name":"SK Ljubljana","id":"SK_Ljubljana","win":10,"draw":2,"loss":2,"for":55,"against":21,"isChampion":true,"isRemoved":true,"isReturning":true,"removed":true,"removedNote":"League returned to Yugoslav FA until independence"},
+{"country":"svn","name":"Železničar Maribor","id":"NK_Železničar_Maribor","win":8,"draw":4,"loss":2,"for":30,"against":14,"isRemoved":true,"isNew":true,"removed":true,"removedNote":"League returned to Yugoslav FA until independence"},
+{"country":"svn","name":"Amater","id":"NK_Rudar_Trbovlje","win":8,"draw":1,"loss":5,"for":37,"against":30,"isRemoved":true,"isNew":true,"removed":true,"removedNote":"League returned to Yugoslav FA until independence"},
+{"country":"svn","name":"Mars","id":"SK_Mars","win":6,"draw":2,"loss":6,"for":37,"against":27,"isRemoved":true,"isNew":true,"removed":true,"removedNote":"League returned to Yugoslav FA until independence"},
+{"country":"svn","name":"Bratstvo","id":"NK_Jesenice","win":6,"draw":2,"loss":6,"for":30,"against":38,"isRemoved":true,"isNew":true,"removed":true,"removedNote":"League returned to Yugoslav FA until independence"},
+{"country":"svn","name":"Kranj","id":"NK_Triglav_Kranj","win":6,"draw":1,"loss":7,"for":25,"against":30,"isRemoved":true,"isNew":true,"removed":true,"removedNote":"League returned to Yugoslav FA until independence"},
+{"country":"svn","name":"I. SSK Maribor","id":"I._SSK_Maribor","win":4,"draw":2,"loss":8,"for":38,"against":39,"isRemoved":true,"isNew":true,"removed":true,"removedNote":"League returned to Yugoslav FA until independence"},
+{"country":"svn","name":"Olimp Celje","id":"NK_Olimp_Celje","win":1,"draw":0,"loss":13,"for":11,"against":64,"isRemoved":true,"isNew":true,"removed":true,"removedNote":"League returned to Yugoslav FA until independence"}
 ]
