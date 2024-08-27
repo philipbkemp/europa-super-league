@@ -170,12 +170,12 @@
 {"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":6,"draw":4,"loss":12,"for":44,"against":54},
 {"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":1,"draw":5,"loss":16,"for":23,"against":75}
 ][
-{"country":"yug","name":"Građanski Zagreb","id":"HŠK_Građanski_Zagreb","win":8,"draw":0,"loss":2,"for":25,"against":11,"isChampion":true,"isRemoved":true,"removedNote":"Removed due to WW2 and restructuring of Yugoslavia"},
+{"country":"yug","name":"Građanski Zagreb","id":"HŠK_Građanski_Zagreb","win":8,"draw":0,"loss":2,"for":25,"against":11,"isChampion":true},
 {"country":"yug","name":"BSK Belgrade","id":"OFK_Beograd","win":7,"draw":1,"loss":2,"for":30,"against":7,"isRemoved":true,"removedNote":"Removed due to WW2 and restructuring of Yugoslavia"},
 {"country":"yug","name":"Slavija","id":"FK_Slavija_Sarajevo","win":7,"draw":0,"loss":3,"for":14,"against":14,"isRemoved":true,"removedNote":"Removed due to WW2 and restructuring of Yugoslavia"},
 {"country":"yug","name":"SK Jugoslavija","id":"SK_Jugoslavija","win":3,"draw":2,"loss":5,"for":16,"against":18,"isRemoved":true,"removedNote":"Removed due to WW2 and restructuring of Yugoslavia"},
-{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":1,"draw":3,"loss":6,"for":14,"against":29,"isRemoved":true,"removedNote":"Removed due to WW2 and restructuring of Yugoslavia"},
-{"country":"yug","name":"HAŠK","id":"NK_HAŠK","win":1,"draw":0,"loss":9,"for":12,"against":32,"isNew":true,"isRemoved":true,"removedNote":"Removed due to WW2 and restructuring of Yugoslavia"}
+{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":1,"draw":3,"loss":6,"for":14,"against":29},
+{"country":"yug","name":"HAŠK","id":"HAŠK","win":1,"draw":0,"loss":9,"for":12,"against":32}
 ][
 {"country":"bgr","name":"ZhSK Sofia","id":"FC_Lokomotiv_1929_Sofia","win":10,"draw":3,"loss":5,"for":31,"against":27,"isChampion":true,"isNew":true,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},
 {"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":9,"draw":4,"loss":5,"for":29,"against":18,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},

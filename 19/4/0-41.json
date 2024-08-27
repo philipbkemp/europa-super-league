@@ -198,4 +198,15 @@
 {"country":"csk-svk","name":"AC Spišská Nová Ves","id":"AC_Spišská_Nová_Ves","win":6,"draw":6,"loss":10,"for":36,"against":55},
 {"country":"csk-svk","name":"ZTK Zvolen","id":"HKM_Zvolen","win":7,"draw":3,"loss":12,"for":51,"against":59,"isRemoved":true},
 {"country":"csk-svk","name":"DSK Bratislava","id":"DSK_Bratislava","win":6,"draw":3,"loss":13,"for":35,"against":58,"isRemoved":true,"isNew":true}
+][
+{"country":"hrv","name":"HŠK Hajduk Split","id":"HNK_Hajduk_Split","win":14,"draw":3,"loss":1,"for":75,"against":17,"isChampion":true,"isRemoved":true},
+{"country":"hrv","name":"1.HŠK Građanski Zagreb","id":"HŠK_Građanski_Zagreb","win":11,"draw":7,"loss":0,"for":75,"against":17},
+{"country":"hrv","name":"HŠK Concordia Zagreb","id":"HŠK_Concordia","win":13,"draw":2,"loss":3,"for":62,"against":22,"isReturning":true},
+{"country":"hrv","name":"HAŠK Zagreb","id":"HAŠK","win":7,"draw":6,"loss":5,"for":42,"against":31},
+{"country":"hrv","name":"NK Slavija","id":"NK_Varaždin_(1931–2015)","win":7,"draw":3,"loss":8,"for":30,"against":49,"isReturning":true,"isRemoved":true},
+{"country":"hrv","name":"RSD Split","id":"RNK_Split","win":6,"draw":4,"loss":8,"for":21,"against":50,"isNew":true,"isRemoved":true},
+{"country":"hrv","name":"SAŠK Sarajevo","id":"NK_SAŠK_Napredak","win":5,"draw":3,"loss":10,"for":17,"against":44,"isReturning":true},
+{"country":"hrv","name":"HŠK Željezničar Zagreb","id":"NK_Lokomotiva_Zagreb","win":2,"draw":6,"loss":10,"for":20,"against":43,"isNew":true},
+{"country":"hrv","name":"HŠK Slavija Osijek","id":"JŠK_Slavija_Osijek","win":3,"draw":3,"loss":12,"for":23,"against":53,"isReturning":true,"isRemoved":true},
+{"country":"hrv","name":"HAD Bačka Subotica","id":"FK_Bačka_1901","win":2,"draw":3,"loss":13,"for":19,"against":58,"isNew":true,"isRemoved":true}
 ]
