@@ -526,4 +526,21 @@
 {"country":"fro","name":"B68 Toftir","id":"B68_Toftir","win":3,"draw":6,"loss":5,"for":14,"against":22},
 {"country":"fro","name":"Leirvík ÍF","id":"LÍF_Leirvík","win":3,"draw":4,"loss":7,"for":21,"against":30},
 {"country":"fro","name":"VB Vágur","id":"Vágs_Bóltfelag","win":1,"draw":8,"loss":5,"for":10,"against":27,"isReturning":true}
+][
+{"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":22,"draw":5,"loss":3,"for":82,"against":22,"isChampion":true},
+{"country":"csk","name":"Dukla Prague","id":"Dukla_Prague","win":15,"draw":9,"loss":6,"for":54,"against":34},
+{"country":"csk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":13,"draw":9,"loss":8,"for":39,"against":36},
+{"country":"csk","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":13,"draw":8,"loss":9,"for":49,"against":40},
+{"country":"csk","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":12,"draw":8,"loss":10,"for":50,"against":46},
+{"country":"csk","name":"Slavia Prague","id":"sk_slavia_prague","win":12,"draw":7,"loss":11,"for":49,"against":45},
+{"country":"csk","name":"Plastika Nitra","id":"FC_Nitra","win":13,"draw":4,"loss":13,"for":46,"against":45},
+{"country":"csk","name":"Vítkovice","id":"MFK_Vítkovice","win":11,"draw":7,"loss":12,"for":49,"against":45},
+{"country":"csk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":12,"draw":5,"loss":13,"for":44,"against":46},
+{"country":"csk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":11,"draw":7,"loss":12,"for":38,"against":42},
+{"country":"csk","name":"RH Cheb","id":"FK_Hvězda_Cheb","win":9,"draw":11,"loss":10,"for":31,"against":36},
+{"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":13,"draw":3,"loss":14,"for":41,"against":54},
+{"country":"csk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":11,"draw":5,"loss":14,"for":50,"against":54,"isReturning":true},
+{"country":"csk","name":"Spartak Hradec Králové","id":"FC_Hradec_Králové","win":8,"draw":11,"loss":11,"for":32,"against":52,"isReturning":true},
+{"country":"csk","name":"ZVL Žilina","id":"MŠK_Žilina","win":7,"draw":7,"loss":16,"for":32,"against":54,"isRemoved":true},
+{"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":3,"draw":4,"loss":23,"for":29,"against":64,"isRemoved":true}
 ]

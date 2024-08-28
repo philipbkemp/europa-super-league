@@ -375,4 +375,19 @@
 {"country":"fro","name":"HB Tórshavn","id":"Havnar_Bóltfelag","win":3,"draw":0,"loss":5,"for":10,"against":17},
 {"country":"fro","name":"VB Vagur","id":"Vágs_Bóltfelag","win":1,"draw":2,"loss":5,"for":7,"against":21,"isReturning":true},
 {"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":0,"draw":2,"loss":6,"for":3,"against":14}
+][
+{"country":"csk","name":"Sparta ČKD Sokolovo","id":"ac_sparta_prague","win":18,"draw":5,"loss":3,"for":63,"against":22,"isChampion":true},
+{"country":"csk","name":"NV Bratislava","id":"ŠK_Slovan_Bratislava","win":18,"draw":4,"loss":4,"for":59,"against":25},
+{"country":"csk","name":"Ingstav Teplice","id":"FK_Teplice","win":13,"draw":7,"loss":6,"for":48,"against":30,"isRemoved":true},
+{"country":"csk","name":"SONP Kladno","id":"SK_Kladno","win":11,"draw":7,"loss":8,"for":67,"against":47,"isReturning":true},
+{"country":"csk","name":"Kovosmalt Trnava","id":"FC_Spartak_Trnava","win":10,"draw":9,"loss":7,"for":48,"against":49,"isReturning":true,"isRemoved":true},
+{"country":"csk","name":"ČSSZ Prešov","id":"1._FC_Tatran_Prešov","win":12,"draw":4,"loss":10,"for":57,"against":48},
+{"country":"csk","name":"Slovena Žilina","id":"MŠK_Žilina","win":12,"draw":4,"loss":10,"for":48,"against":57,"isRemoved":true},
+{"country":"csk","name":"ATK Prague","id":"Dukla_Prague","win":9,"draw":9,"loss":8,"for":40,"against":32},
+{"country":"csk","name":"Vítkovické železárny","id":"MFK_Vítkovice","win":12,"draw":2,"loss":12,"for":55,"against":52,"isRemoved":true},
+{"country":"csk","name":"OKD Ostrava","id":"FC_Baník_Ostrava","win":10,"draw":4,"loss":12,"for":43,"against":47},
+{"country":"csk","name":"ZVIL Plzeň","id":"FC_Viktoria_Plzeň","win":8,"draw":6,"loss":12,"for":42,"against":62,"isRemoved":true},
+{"country":"csk","name":"Dynamo ČSD Košice","id":"FC_Lokomotíva_Košice","win":6,"draw":4,"loss":16,"for":43,"against":63,"isRemoved":true},
+{"country":"csk","name":"Armaturka Ústí nad Labem","id":"FK_Viagem_Ústí_nad_Labem","win":4,"draw":5,"loss":17,"for":38,"against":71,"isRemoved":true,"isNew":true},
+{"country":"csk","name":"MEZ Židenice","id":"ČAFC_Židenice_2011","win":2,"draw":4,"loss":20,"for":25,"against":71,"isRemoved":true,"isNew":true}
 ]

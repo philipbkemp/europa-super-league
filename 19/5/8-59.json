@@ -403,4 +403,19 @@
 {"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":4,"draw":0,"loss":4,"for":26,"against":25},
 {"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":3,"draw":0,"loss":5,"for":16,"against":27},
 {"country":"fro","name":"VB Vágur","id":"Vágs_Bóltfelag","win":1,"draw":0,"loss":7,"for":13,"against":30}
+][
+{"country":"csk","name":"ČH Bratislava","id":"FK_Inter_Bratislava","win":16,"draw":8,"loss":2,"for":56,"against":27,"isChampion":true},
+{"country":"csk","name":"Dukla Prague","id":"Dukla_Prague","win":12,"draw":7,"loss":7,"for":40,"against":30},
+{"country":"csk","name":"Dynamo Prague","id":"sk_slavia_prague","win":12,"draw":7,"loss":7,"for":39,"against":34},
+{"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":12,"draw":5,"loss":9,"for":35,"against":37},
+{"country":"csk","name":"Rudá Hvězda Brno","id":"Rudá_Hvězda_Brno","win":13,"draw":1,"loss":12,"for":44,"against":43},
+{"country":"csk","name":"FC Baník Ostrava","id":"FC_Baník_Ostrava","win":10,"draw":6,"loss":10,"for":44,"against":40},
+{"country":"csk","name":"FC Spartak Trnava","id":"FC_Spartak_Trnava","win":9,"draw":7,"loss":10,"for":31,"against":28},
+{"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":8,"draw":8,"loss":10,"for":38,"against":36},
+{"country":"csk","name":"Spartak Prague Stalingrad","id":"Bohemians_1905","win":7,"draw":9,"loss":10,"for":37,"against":42,"isReturning":true},
+{"country":"csk","name":"Spartak Prague Sokolovo","id":"ac_sparta_prague","win":8,"draw":7,"loss":11,"for":37,"against":47},
+{"country":"csk","name":"Jednota Košice","id":"FC_VSS_Košice","win":10,"draw":3,"loss":13,"for":32,"against":43,"isReturning":true},
+{"country":"csk","name":"Dukla Pardubice","id":"Dukla_Pardubice","win":8,"draw":5,"loss":13,"for":34,"against":46},
+{"country":"csk","name":"Dynamo Žilina","id":"MŠK_Žilina","win":7,"draw":7,"loss":12,"for":36,"against":35,"isRemoved":true,"isReturning":true},
+{"country":"csk","name":"Spartak Ústí nad Labem","id":"FK_Viagem_Ústí_nad_Labem","win":7,"draw":6,"loss":13,"for":29,"against":44,"isRemoved":true,"isReturning":true}
 ]

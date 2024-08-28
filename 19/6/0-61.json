@@ -440,4 +440,19 @@
 {"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":2,"draw":3,"loss":1,"for":12,"against":11},
 {"country":"fro","name":"KÍ Klaksvík","id":"Klaksvíkar_Ítróttarfelag","win":2,"draw":2,"loss":2,"for":11,"against":7},
 {"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":1,"draw":0,"loss":5,"for":6,"against":16}
+][
+{"country":"csk","name":"Dukla Prague","id":"Dukla_Prague","win":17,"draw":5,"loss":4,"for":66,"against":23,"isChampion":true},
+{"country":"csk","name":"ČH Bratislava","id":"FK_Inter_Bratislava","win":13,"draw":6,"loss":7,"for":43,"against":29},
+{"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":12,"draw":5,"loss":9,"for":45,"against":29},
+{"country":"csk","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":12,"draw":5,"loss":9,"for":50,"against":46},
+{"country":"csk","name":"Spartak Prague Sokolovo","id":"ac_sparta_prague","win":13,"draw":3,"loss":10,"for":44,"against":43},
+{"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":11,"draw":6,"loss":9,"for":40,"against":37},
+{"country":"csk","name":"Spartak Prague Stalingrad","id":"Bohemians_1905","win":11,"draw":5,"loss":10,"for":38,"against":38},
+{"country":"csk","name":"Spartak Hradec Králové","id":"FC_Hradec_Králové","win":9,"draw":7,"loss":10,"for":32,"against":35},
+{"country":"csk","name":"SONP Kladno","id":"SK_Kladno","win":10,"draw":5,"loss":11,"for":42,"against":47,"isReturning":true},
+{"country":"csk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":9,"draw":7,"loss":10,"for":44,"against":50},
+{"country":"csk","name":"Slovan Nitra","id":"FC_Nitra","win":8,"draw":8,"loss":10,"for":37,"against":57},
+{"country":"csk","name":"Rudá Hvězda Brno","id":"Rudá_Hvězda_Brno","win":7,"draw":6,"loss":13,"for":37,"against":45,"isRemoved":true},
+{"country":"csk","name":"Jednota Trenčín","id":"TTS_Trenčín","win":7,"draw":4,"loss":15,"for":36,"against":56,"isRemoved":true,"isReturning":true},
+{"country":"csk","name":"Dynamo Praha","id":"sk_slavia_prague","win":5,"draw":4,"loss":17,"for":30,"against":49,"isRemoved":true}
 ]

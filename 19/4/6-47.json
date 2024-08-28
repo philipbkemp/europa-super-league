@@ -332,4 +332,19 @@
 {"country":"sov","name":"Krylia Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":3,"draw":8,"loss":11,"for":16,"against":52,"isNew":true},
 {"country":"sov","name":"Dynamo Minsk","id":"FC_Dinamo_Minsk","win":3,"draw":7,"loss":12,"for":22,"against":43},
 {"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":4,"draw":5,"loss":13,"for":18,"against":39}
+][
+{"country":"csk","name":"Slavia Prague","id":"sk_slavia_prague","win":19,"draw":2,"loss":5,"for":110,"against":54,"isChampion":true,"isReturning":true},
+{"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":18,"draw":3,"loss":5,"for":101,"against":35,"isReturning":true},
+{"country":"csk","name":"SK Kladno","id":"SK_Kladno","win":15,"draw":2,"loss":9,"for":68,"against":56,"isRemoved":true,"removedNote":"Eliminated","isReturning":true},
+{"country":"csk","name":"ŠK Žilina","id":"MŠK_Žilina","win":13,"draw":5,"loss":8,"for":62,"against":50,"isReturning":true},
+{"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":13,"draw":3,"loss":10,"for":77,"against":61,"isReturning":true},
+{"country":"csk","name":"ŠK Bratislava","id":"ŠK_Slovan_Bratislava","win":13,"draw":2,"loss":11,"for":78,"against":48,"isReturning":true},
+{"country":"csk","name":"Slezská Ostrava","id":"FC_Baník_Ostrava","win":12,"draw":3,"loss":11,"for":62,"against":57,"isReturning":true},
+{"country":"csk","name":"Jednota Košice","id":"FC_Lokomotíva_Košice","win":12,"draw":3,"loss":11,"for":63,"against":60,"isNew":true},
+{"country":"csk","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":11,"draw":5,"loss":10,"for":67,"against":83,"isReturning":true},
+{"country":"csk","name":"Baťa Zlín","id":"FC_Zlín","win":9,"draw":4,"loss":13,"for":63,"against":66,"isRemoved":true,"removedNote":"Eliminated","isReturning":true},
+{"country":"csk","name":"SK Židenice","id":"FC_Zbrojovka_Brno","win":10,"draw":2,"loss":14,"for":64,"against":78,"isRemoved":true,"isReturning":true},
+{"country":"csk","name":"SK Olomouc ASO","id":"SK_Olomouc_ASO","win":10,"draw":2,"loss":14,"for":44,"against":57,"isRemoved":true,"isReturning":true},
+{"country":"csk","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":5,"draw":2,"loss":19,"for":45,"against":108,"isRemoved":true,"isReturning":true},
+{"country":"csk","name":"SK Libeň","id":"SK_Libeň","win":3,"draw":0,"loss":23,"for":25,"against":116,"isRemoved":true,"isReturning":true}
 ]

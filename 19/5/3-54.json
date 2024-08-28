@@ -388,4 +388,19 @@
 {"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":2,"draw":1,"loss":3,"for":11,"against":8},
 {"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":1,"draw":1,"loss":4,"for":4,"against":15},
 {"country":"fro","name":"VB Vagur","id":"Vágs_Bóltfelag","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew"}
+][
+{"country":"csk","name":"ÚDA Prague","id":"Dukla_Prague","win":10,"draw":2,"loss":1,"for":41,"against":12,"isChampion":true},
+{"country":"csk","name":"Spartak Prague Sokolovo","id":"ac_sparta_prague","win":9,"draw":1,"loss":3,"for":26,"against":18},
+{"country":"csk","name":"CH Bratislava","id":"FK_Inter_Bratislava","win":8,"draw":2,"loss":3,"for":24,"against":14,"isNew":true},
+{"country":"csk","name":"Křídla vlasti Olomouc","id":"Křídla_vlasti_Olomouc","win":7,"draw":3,"loss":3,"for":17,"against":7,"isNew":true},
+{"country":"csk","name":"Baník Kladno","id":"SK_Kladno","win":7,"draw":2,"loss":4,"for":36,"against":22},
+{"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":6,"draw":3,"loss":4,"for":26,"against":23},
+{"country":"csk","name":"Tankista Prague","id":"Tankista_Prague","win":6,"draw":2,"loss":5,"for":32,"against":25,"isNew":true},
+{"country":"csk","name":"Dynamo Prague","id":"sk_slavia_prague","win":6,"draw":2,"loss":5,"for":22,"against":22,"isReturning":true},
+{"country":"csk","name":"ŠK Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":5,"draw":3,"loss":5,"for":26,"against":21},
+{"country":"csk","name":"FC Baník Ostrava","id":"FC_Baník_Ostrava","win":4,"draw":2,"loss":7,"for":15,"against":25},
+{"country":"csk","name":"Slavoj Liberec","id":"FC_Slovan_Liberec","win":3,"draw":1,"loss":9,"for":19,"against":37,"isRemoved":true,"isNew":true},
+{"country":"csk","name":"Slavia Bratislava VS","id":"Slavia_Bratislava_VS","win":2,"draw":2,"loss":9,"for":17,"against":30,"isRemoved":true,"isNew":true},
+{"country":"csk","name":"Jiskra Gottwaldov","id":"FC_Zlín","win":2,"draw":2,"loss":9,"for":18,"against":34,"isRemoved":true,"isReturning":true},
+{"country":"csk","name":"Lokomotíva Košice","id":"FC_Lokomotíva_Košice","win":2,"draw":1,"loss":10,"for":12,"against":41,"isRemoved":true,"isReturning":true}
 ]

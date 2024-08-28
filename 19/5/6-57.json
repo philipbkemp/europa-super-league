@@ -399,4 +399,17 @@
 {"country":"fro","name":"Havnar Bóltfelag","id":"Havnar_Bóltfelag","win":3,"draw":1,"loss":4,"for":15,"against":13},
 {"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":3,"draw":0,"loss":5,"for":13,"against":15},
 {"country":"fro","name":"VB Vágur","id":"Vágs_Bóltfelag","win":2,"draw":1,"loss":5,"for":14,"against":27,"isReturning":true}
+][
+{"country":"csk","name":"Dukla Prague","id":"Dukla_Prague","win":12,"draw":8,"loss":2,"for":57,"against":20,"isChampion":true},
+{"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":10,"draw":7,"loss":5,"for":37,"against":23},
+{"country":"csk","name":"Spartak Praha Sokolovo","id":"ac_sparta_prague","win":11,"draw":4,"loss":7,"for":50,"against":33},
+{"country":"csk","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":9,"draw":7,"loss":6,"for":53,"against":48},
+{"country":"csk","name":"CH Bratislava","id":"FK_Inter_Bratislava","win":9,"draw":7,"loss":6,"for":41,"against":38},
+{"country":"csk","name":"Baník Kladno","id":"SK_Kladno","win":9,"draw":4,"loss":9,"for":33,"against":25},
+{"country":"csk","name":"Spartak Hradec Králové","id":"FC_Hradec_Králové","win":9,"draw":3,"loss":10,"for":30,"against":40,"isNew":true},
+{"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":7,"draw":6,"loss":9,"for":32,"against":39},
+{"country":"csk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":7,"draw":4,"loss":11,"for":24,"against":41},
+{"country":"csk","name":"Dynamo Prague","id":"sk_slavia_prague","win":6,"draw":5,"loss":11,"for":35,"against":45},
+{"country":"csk","name":"Dynamo Žilina","id":"MŠK_Žilina","win":6,"draw":5,"loss":11,"for":27,"against":46,"isRemoved":true},
+{"country":"csk","name":"Spartak VSS Košice","id":"FC_VSS_Košice","win":6,"draw":2,"loss":14,"for":27,"against":48,"isRemoved":true,"isReturning":true}
 ]

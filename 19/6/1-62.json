@@ -427,4 +427,19 @@
 {"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":2,"draw":1,"loss":3,"for":16,"against":14},
 {"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":2,"draw":1,"loss":3,"for":8,"against":18},
 {"country":"fro","name":"Havnar Bóltfelag","id":"Havnar_Bóltfelag","win":1,"draw":2,"loss":3,"for":4,"against":8}
+][
+{"country":"csk","name":"Dukla Prague","id":"Dukla_Prague","win":15,"draw":5,"loss":6,"for":81,"against":30,"isChampion":true},
+{"country":"csk","name":"Slovan Nitra","id":"FC_Nitra","win":13,"draw":6,"loss":7,"for":49,"against":44},
+{"country":"csk","name":"CH Bratislava","id":"FK_Inter_Bratislava","win":11,"draw":8,"loss":7,"for":56,"against":32},
+{"country":"csk","name":"ČKD Prague","id":"Bohemians_1905","win":13,"draw":3,"loss":10,"for":54,"against":47},
+{"country":"csk","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":10,"draw":8,"loss":8,"for":49,"against":35},
+{"country":"csk","name":"Spartak Hradec Králové","id":"FC_Hradec_Králové","win":9,"draw":10,"loss":7,"for":44,"against":43},
+{"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":13,"draw":1,"loss":12,"for":51,"against":38},
+{"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":12,"draw":2,"loss":12,"for":39,"against":39},
+{"country":"csk","name":"Spartak Plzeň","id":"FC_Viktoria_Plzeň","win":10,"draw":6,"loss":10,"for":45,"against":52,"isReturning":true},
+{"country":"csk","name":"SONP Kladno","id":"SK_Kladno","win":12,"draw":2,"loss":12,"for":41,"against":66},
+{"country":"csk","name":"Spartak Prague Sokolovo","id":"ac_sparta_prague","win":9,"draw":7,"loss":10,"for":44,"against":44},
+{"country":"csk","name":"Dynamo Žilina","id":"MŠK_Žilina","win":8,"draw":9,"loss":9,"for":51,"against":46,"isRemoved":true,"isReturning":true},
+{"country":"csk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":8,"draw":6,"loss":12,"for":33,"against":46,"isRemoved":true},
+{"country":"csk","name":"Spartak Brno KPS","id":"FC_LeRK_Brno","win":1,"draw":3,"loss":22,"for":22,"against":97,"isRemoved":true,"isNew":true}
 ]

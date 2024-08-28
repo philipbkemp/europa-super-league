@@ -472,4 +472,19 @@
 {"country":"fro","name":"KÍ Klaksvík","id":"Klaksvíkar_Ítróttarfelag","win":3,"draw":2,"loss":1,"for":13,"against":11,"isRemoved":true},
 {"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":2,"draw":2,"loss":2,"for":12,"against":17},
 {"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":0,"draw":0,"loss":6,"for":6,"against":16}
+][
+{"country":"csk","name":"Dukla Prague","id":"Dukla_Prague","win":16,"draw":5,"loss":5,"for":52,"against":26,"isChampion":true},
+{"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":14,"draw":7,"loss":5,"for":50,"against":25},
+{"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":13,"draw":5,"loss":8,"for":46,"against":29},
+{"country":"csk","name":"Slovnaft Bratislava","id":"FK_Inter_Bratislava","win":11,"draw":8,"loss":7,"for":42,"against":25},
+{"country":"csk","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":11,"draw":8,"loss":7,"for":51,"against":36},
+{"country":"csk","name":"Spartak Prague Sokolovo","id":"ac_sparta_prague","win":13,"draw":3,"loss":10,"for":45,"against":37},
+{"country":"csk","name":"VSS Košice","id":"FC_VSS_Košice","win":12,"draw":5,"loss":9,"for":40,"against":32,"isReturning":true},
+{"country":"csk","name":"Jednota Trenčín","id":"TTS_Trenčín","win":10,"draw":6,"loss":10,"for":31,"against":27},
+{"country":"csk","name":"Spartak ZJŠ Brno","id":"FC_Zbrojovka_Brno","win":7,"draw":11,"loss":8,"for":31,"against":32},
+{"country":"csk","name":"ČKD Prague","id":"Bohemians_1905","win":11,"draw":2,"loss":13,"for":34,"against":43},
+{"country":"csk","name":"SONP Kladno","id":"SK_Kladno","win":8,"draw":6,"loss":12,"for":31,"against":43},
+{"country":"csk","name":"TŽ Třinec","id":"FK_Třinec","win":8,"draw":5,"loss":13,"for":28,"against":66,"isRemoved":true,"isNew":true},
+{"country":"csk","name":"Spartak Hradec Králové","id":"FC_Hradec_Králové","win":8,"draw":2,"loss":16,"for":45,"against":51,"isRemoved":true},
+{"country":"csk","name":"Spartak Motorlet Prague","id":"FK_Motorlet_Prague","win":1,"draw":5,"loss":20,"for":13,"against":67,"isRemoved":true,"isNew":true}
 ]

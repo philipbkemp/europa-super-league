@@ -397,4 +397,19 @@
 {"country":"fro","name":"KÍ Klaksvík","id":"Klaksvíkar_Ítróttarfelag","win":2,"draw":1,"loss":2,"for":10,"against":10},
 {"country":"fro","name":"HB Tórshavn II","id":"Havnar_Bóltfelag_II","win":1,"draw":0,"loss":4,"for":8,"against":19,"isRemoved":true},
 {"country":"fro","name":"VB Vágur","id":"Vágs_Bóltfelag","win":0,"draw":0,"loss":5,"for":5,"against":28}
+][
+{"country":"csk","name":"NV Bratislava","id":"ŠK_Slovan_Bratislava","win":18,"draw":5,"loss":3,"for":93,"against":33,"isChampion":true,"isReturning":true},
+{"country":"csk","name":"Bratrství Sparta","id":"ac_sparta_prague","win":16,"draw":5,"loss":5,"for":89,"against":42,"isReturning":true},
+{"country":"csk","name":"Železničáři Prague","id":"Bohemians_1905","win":14,"draw":5,"loss":7,"for":80,"against":50,"isReturning":true},
+{"country":"csk","name":"ATK Prague","id":"Dukla_Prague","win":13,"draw":4,"loss":9,"for":80,"against":58,"isNew":true},
+{"country":"csk","name":"Dynamo Slavia Prague","id":"sk_slavia_prague","win":14,"draw":2,"loss":10,"for":71,"against":54,"isReturning":true},
+{"country":"csk","name":"Technomat Teplice","id":"FK_Teplice","win":12,"draw":5,"loss":9,"for":63,"against":48,"isNew":true},
+{"country":"csk","name":"Slovena Žilina","id":"MŠK_Žilina","win":11,"draw":6,"loss":9,"for":48,"against":56,"isReturning":true},
+{"country":"csk","name":"Dynamo ČSD Košice","id":"FC_Lokomotíva_Košice","win":8,"draw":8,"loss":10,"for":45,"against":42,"isReturning":true},
+{"country":"csk","name":"Kovosmalt Trnava","id":"FC_Spartak_Trnava","win":9,"draw":6,"loss":11,"for":48,"against":53,"isReturning":true},
+{"country":"csk","name":"Škoda Plzeň","id":"FC_Viktoria_Plzeň","win":9,"draw":6,"loss":11,"for":53,"against":62,"isReturning":true},
+{"country":"csk","name":"Sokol Trojice Ostrava","id":"FC_Baník_Ostrava","win":9,"draw":4,"loss":13,"for":38,"against":55,"isRemoved":true,"isReturning":true},
+{"country":"csk","name":"Zbrojovka Brno","id":"FC_Zbrojovka_Brno","win":6,"draw":5,"loss":15,"for":47,"against":94,"isRemoved":true,"isReturning":true},
+{"country":"csk","name":"Manet Považská Bystrica","id":"MŠK_Považská_Bystrica_(football)","win":7,"draw":3,"loss":16,"for":38,"against":79,"isRemoved":true,"isReturning":true},
+{"country":"csk","name":"SONP Kladno","id":"SK_Kladno","win":3,"draw":2,"loss":21,"for":39,"against":106,"isRemoved":true,"isReturning":true}
 ]

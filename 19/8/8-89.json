@@ -523,4 +523,21 @@
 {"country":"fro","name":"KÍ Klaksvík","id":"Klaksvíkar_Ítróttarfelag","win":6,"draw":3,"loss":9,"for":29,"against":43},
 {"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":4,"draw":6,"loss":8,"for":16,"against":23,"isRemoved":true},
 {"country":"fro","name":"NSÍ Runavík","id":"NSÍ_Runavík","win":4,"draw":6,"loss":8,"for":15,"against":23,"isRemoved":true}
+][
+{"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":19,"draw":7,"loss":4,"for":73,"against":26,"isChampion":true},
+{"country":"csk","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":19,"draw":4,"loss":7,"for":54,"against":34},
+{"country":"csk","name":"Plastika Nitra","id":"FC_Nitra","win":15,"draw":4,"loss":11,"for":38,"against":40},
+{"country":"csk","name":"Slavia Prague","id":"sk_slavia_prague","win":15,"draw":3,"loss":12,"for":55,"against":49},
+{"country":"csk","name":"Dukla Prague","id":"Dukla_Prague","win":13,"draw":6,"loss":11,"for":50,"against":42},
+{"country":"csk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":13,"draw":5,"loss":12,"for":37,"against":41},
+{"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":13,"draw":4,"loss":13,"for":41,"against":39,"isReturning":true},
+{"country":"csk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":13,"draw":4,"loss":13,"for":50,"against":57},
+{"country":"csk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":11,"draw":7,"loss":12,"for":53,"against":56},
+{"country":"csk","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":12,"draw":5,"loss":13,"for":42,"against":47},
+{"country":"csk","name":"Vítkovice","id":"MFK_Vítkovice","win":13,"draw":2,"loss":15,"for":53,"against":40},
+{"country":"csk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":10,"draw":7,"loss":13,"for":36,"against":46},
+{"country":"csk","name":"RH Cheb","id":"FK_Hvězda_Cheb","win":10,"draw":4,"loss":16,"for":40,"against":54},
+{"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":10,"draw":4,"loss":16,"for":41,"against":58},
+{"country":"csk","name":"Škoda Plzeň","id":"FC_Viktoria_Plzeň","win":10,"draw":3,"loss":17,"for":40,"against":48,"isRemoved":true,"isReturning":true},
+{"country":"csk","name":"Spartak Hradec Králové","id":"FC_Hradec_Králové","win":6,"draw":7,"loss":17,"for":32,"against":58,"isRemoved":true}
 ]
