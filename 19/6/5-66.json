@@ -501,4 +501,19 @@
 {"country":"csk","name":"Lokomotíva Košice","id":"FC_Lokomotíva_Košice","win":7,"draw":8,"loss":11,"for":19,"against":39,"isReturning":true},
 {"country":"csk","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":8,"draw":5,"loss":13,"for":36,"against":38,"isRemoved":true},
 {"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":5,"draw":9,"loss":12,"for":24,"against":36,"isRemoved":true}
+][
+{"country":"ede","name":"FC Vorwärts Berlin","id":"1._FC_Frankfurt","win":15,"draw":4,"loss":7,"for":44,"against":27,"isChampion":true},
+{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":14,"draw":4,"loss":8,"for":45,"against":24},
+{"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":13,"draw":2,"loss":11,"for":50,"against":41},
+{"country":"ede","name":"F.C. Hansa Rostock","id":"FC_Hansa_Rostock","win":11,"draw":6,"loss":9,"for":41,"against":34},
+{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":11,"draw":6,"loss":9,"for":34,"against":31},
+{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":11,"draw":6,"loss":9,"for":33,"against":33},
+{"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":12,"draw":4,"loss":10,"for":29,"against":33},
+{"country":"ede","name":"BSG Chemie Leipzig","id":"FC_Sachsen_Leipzig","win":9,"draw":8,"loss":9,"for":32,"against":32},
+{"country":"ede","name":"Berliner FC Dynamo","id":"Berliner_FC_Dynamo","win":11,"draw":3,"loss":12,"for":42,"against":32},
+{"country":"ede","name":"BSG Motor Zwickau","id":"FSV_Zwickau","win":9,"draw":6,"loss":11,"for":28,"against":35},
+{"country":"ede","name":"Hallescher FC Chemie","id":"Hallescher_FC","win":7,"draw":9,"loss":10,"for":26,"against":33,"isReturning":true},
+{"country":"ede","name":"BSG Lokomotive Stendal","id":"1._FC_Lok_Stendal","win":10,"draw":2,"loss":14,"for":36,"against":49},
+{"country":"ede","name":"FC Rot-Weiss Erfurt","id":"FC_Rot-Weiß_Erfurt","win":8,"draw":3,"loss":15,"for":26,"against":42,"isRemoved":true,"isReturning":true},
+{"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":7,"draw":5,"loss":14,"for":19,"against":39,"isRemoved":true}
 ]

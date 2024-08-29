@@ -540,4 +540,19 @@
 {"country":"csk","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":9,"draw":7,"loss":14,"for":41,"against":49},
 {"country":"csk","name":"Škoda Plzeň","id":"FC_Viktoria_Plzeň","win":8,"draw":7,"loss":15,"for":37,"against":51,"isRemoved":true,"isReturning":true},
 {"country":"csk","name":"Dynamo České Budějovice","id":"SK_Dynamo_České_Budějovice","win":8,"draw":4,"loss":18,"for":24,"against":58,"isRemoved":true}
+][
+{"country":"ede","name":"Berliner FC Dynamo","id":"Berliner_FC_Dynamo","win":19,"draw":4,"loss":3,"for":59,"against":20,"isChampion":true},
+{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":13,"draw":10,"loss":3,"for":52,"against":24},
+{"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":13,"draw":8,"loss":5,"for":34,"against":22},
+{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":12,"draw":8,"loss":6,"for":40,"against":26},
+{"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":11,"draw":6,"loss":9,"for":42,"against":32},
+{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":10,"draw":8,"loss":8,"for":32,"against":31},
+{"country":"ede","name":"FC Rot-Weiss Erfurt","id":"FC_Rot-Weiß_Erfurt","win":7,"draw":10,"loss":9,"for":33,"against":33},
+{"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":6,"draw":12,"loss":8,"for":27,"against":34},
+{"country":"ede","name":"BSG Stahl Brandenburg","id":"BSG_Stahl_Brandenburg","win":7,"draw":9,"loss":10,"for":27,"against":34},
+{"country":"ede","name":"FC Vorwärts Frankfurt","id":"1._FC_Frankfurt","win":6,"draw":9,"loss":11,"for":23,"against":32},
+{"country":"ede","name":"1. FC Union Berlin","id":"1._FC_Union_Berlin","win":6,"draw":7,"loss":13,"for":26,"against":52},
+{"country":"ede","name":"BSG Stahl Riesa","id":"BSG_Stahl_Riesa","win":6,"draw":6,"loss":14,"for":29,"against":39},
+{"country":"ede","name":"BSG Energie Cottbus","id":"FC_Energie_Cottbus","win":7,"draw":4,"loss":15,"for":19,"against":45,"isRemoved":true,"isReturning":true},
+{"country":"ede","name":"BSG Fortschritt Bischofswerda","id":"Bischofswerdaer_FV_08","win":6,"draw":5,"loss":15,"for":25,"against":44,"isRemoved":true,"isNew":true}
 ]

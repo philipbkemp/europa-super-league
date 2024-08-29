@@ -500,4 +500,19 @@
 {"country":"csk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":9,"draw":8,"loss":13,"for":26,"against":47},
 {"country":"csk","name":"Frýdek-Místek","id":"FK_Frýdek-Místek","win":8,"draw":7,"loss":15,"for":35,"against":48,"isRemoved":true,"isNew":true},
 {"country":"csk","name":"VSS Košice","id":"FC_VSS_Košice","win":5,"draw":4,"loss":21,"for":35,"against":70,"isRemoved":true}
+][
+{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":16,"draw":6,"loss":4,"for":66,"against":27,"isChampion":true},
+{"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":14,"draw":6,"loss":6,"for":47,"against":28},
+{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":14,"draw":5,"loss":7,"for":45,"against":31},
+{"country":"ede","name":"BFC Dynamo","id":"Berliner_FC_Dynamo","win":14,"draw":4,"loss":8,"for":43,"against":27},
+{"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":10,"draw":9,"loss":7,"for":40,"against":29},
+{"country":"ede","name":"FC Rot-Weiss Erfurt","id":"FC_Rot-Weiß_Erfurt","win":8,"draw":9,"loss":9,"for":27,"against":35},
+{"country":"ede","name":"Hallescher FC Chemie","id":"Hallescher_FC","win":7,"draw":10,"loss":9,"for":34,"against":39},
+{"country":"ede","name":"BSG Sachsenring Zwickau","id":"FSV_Zwickau","win":7,"draw":8,"loss":11,"for":32,"against":34},
+{"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":10,"draw":2,"loss":14,"for":35,"against":39},
+{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":6,"draw":10,"loss":10,"for":27,"against":45},
+{"country":"ede","name":"1. FC Union Berlin","id":"1._FC_Union_Berlin","win":7,"draw":7,"loss":12,"for":30,"against":42,"isReturning":true},
+{"country":"ede","name":"FC Vorwärts Frankfurt","id":"1._FC_Frankfurt","win":9,"draw":3,"loss":14,"for":23,"against":36},
+{"country":"ede","name":"BSG Stahl Riesa","id":"BSG_Stahl_Riesa","win":8,"draw":5,"loss":13,"for":28,"against":47,"isRemoved":true},
+{"country":"ede","name":"F.C. Hansa Rostock","id":"FC_Hansa_Rostock","win":6,"draw":8,"loss":12,"for":23,"against":41,"isRemoved":true,"isReturning":true}
 ]

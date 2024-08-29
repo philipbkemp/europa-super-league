@@ -507,4 +507,19 @@
 {"country":"csk","name":"Lokomotíva Košice","id":"FC_Lokomotíva_Košice","win":6,"draw":6,"loss":14,"for":16,"against":46},
 {"country":"csk","name":"Spartak ZJŠ Brno","id":"FC_Zbrojovka_Brno","win":7,"draw":3,"loss":16,"for":24,"against":49,"isRemoved":true},
 {"country":"csk","name":"Spartak Hradec Králové","id":"FC_Hradec_Králové","win":5,"draw":6,"loss":15,"for":28,"against":48,"isRemoved":true}
+][
+{"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":14,"draw":9,"loss":3,"for":39,"against":23,"isChampion":true},
+{"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":14,"draw":2,"loss":10,"for":39,"against":32},
+{"country":"ede","name":"BSG Motor Zwickau","id":"FSV_Zwickau","win":9,"draw":9,"loss":8,"for":41,"against":26},
+{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":11,"draw":5,"loss":10,"for":35,"against":31},
+{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":11,"draw":5,"loss":10,"for":31,"against":29},
+{"country":"ede","name":"1. FC Union Berlin","id":"1._FC_Union_Berlin","win":9,"draw":9,"loss":8,"for":33,"against":35,"isReturning":true},
+{"country":"ede","name":"BSG Lokomotive Stendal","id":"1._FC_Lok_Stendal","win":11,"draw":5,"loss":10,"for":39,"against":44},
+{"country":"ede","name":"FC Vorwärts Berlin","id":"1._FC_Frankfurt","win":10,"draw":6,"loss":10,"for":43,"against":34},
+{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":11,"draw":4,"loss":11,"for":45,"against":43},
+{"country":"ede","name":"F.C. Hansa Rostock","id":"FC_Hansa_Rostock","win":9,"draw":8,"loss":9,"for":27,"against":27},
+{"country":"ede","name":"Hallescher FC Chemie","id":"Hallescher_FC","win":11,"draw":4,"loss":11,"for":38,"against":41},
+{"country":"ede","name":"BSG Chemie Leipzig","id":"FC_Sachsen_Leipzig","win":9,"draw":7,"loss":10,"for":35,"against":38},
+{"country":"ede","name":"Berliner FC Dynamo","id":"Berliner_FC_Dynamo","win":6,"draw":9,"loss":11,"for":28,"against":40,"isRemoved":true},
+{"country":"ede","name":"BSG Wismut Gera","id":"BSG_Wismut_Gera","win":4,"draw":4,"loss":18,"for":27,"against":57,"isRemoved":true,"isReturning":true}
 ]

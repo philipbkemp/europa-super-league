@@ -455,4 +455,19 @@
 {"country":"csk","name":"Rudá Hvězda Brno","id":"Rudá_Hvězda_Brno","win":7,"draw":6,"loss":13,"for":37,"against":45,"isRemoved":true},
 {"country":"csk","name":"Jednota Trenčín","id":"TTS_Trenčín","win":7,"draw":4,"loss":15,"for":36,"against":56,"isRemoved":true,"isReturning":true},
 {"country":"csk","name":"Dynamo Praha","id":"sk_slavia_prague","win":5,"draw":4,"loss":17,"for":30,"against":49,"isRemoved":true}
+][
+{"country":"ede","name":"ASK Vorwärts Berlin","id":"1._FC_Frankfurt","win":19,"draw":3,"loss":4,"for":73,"against":28,"isChampion":true},
+{"country":"ede","name":"SC Dynamo Berlin","id":"Berliner_FC_Dynamo","win":12,"draw":8,"loss":6,"for":44,"against":27},
+{"country":"ede","name":"SC Lokomotive Leipzig","id":"FC_Sachsen_Leipzig","win":12,"draw":8,"loss":6,"for":37,"against":31},
+{"country":"ede","name":"BSG Motor Zwickau","id":"FSV_Zwickau","win":13,"draw":5,"loss":8,"for":37,"against":33},
+{"country":"ede","name":"SC Wismut Karl-Marx-Stadt","id":"FC_Erzgebirge_Aue","win":14,"draw":2,"loss":10,"for":40,"against":32},
+{"country":"ede","name":"SC Empor Rostock","id":"FC_Hansa_Rostock","win":11,"draw":7,"loss":8,"for":46,"against":36},
+{"country":"ede","name":"SC Aufbau Magdeburg","id":"1._FC_Magdeburg","win":12,"draw":3,"loss":11,"for":47,"against":59,"isNew":true},
+{"country":"ede","name":"SC Motor Jena","id":"FC_Carl_Zeiss_Jena","win":9,"draw":6,"loss":11,"for":55,"against":43},
+{"country":"ede","name":"SC Aktivist Brieske-Senftenberg","id":"FSV_Glückauf_Brieske-Senftenberg","win":8,"draw":8,"loss":10,"for":35,"against":39},
+{"country":"ede","name":"SC Rotation Leipzig","id":"1._FC_Lokomotive_Leipzig","win":9,"draw":5,"loss":12,"for":39,"against":39},
+{"country":"ede","name":"SC Chemie Halle","id":"Hallescher_FC","win":8,"draw":6,"loss":12,"for":37,"against":42,"isReturning":true},
+{"country":"ede","name":"SC Einheit Dresden","id":"Dresdner_SC","win":7,"draw":7,"loss":12,"for":30,"against":51},
+{"country":"ede","name":"BSG Chemie Zeitz","id":"BSG_Chemie_Zeitz","win":7,"draw":6,"loss":13,"for":43,"against":61,"isRemoved":true},
+{"country":"ede","name":"SC Fortschritt Weißenfels","id":"SC_Fortschritt_Weißenfels","win":0,"draw":8,"loss":18,"for":27,"against":69,"isRemoved":true}
 ]

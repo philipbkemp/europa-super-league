@@ -545,4 +545,19 @@
 {"country":"csk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":10,"draw":5,"loss":15,"for":31,"against":43},
 {"country":"csk","name":"Spartak Hradec Králové","id":"FC_Hradec_Králové","win":10,"draw":5,"loss":15,"for":31,"against":43,"isRemoved":true,"isReturning":true},
 {"country":"csk","name":"Košice","id":"FC_VSS_Košice","win":5,"draw":4,"loss":21,"for":29,"against":54,"isRemoved":true}
+][
+{"country":"ede","name":"Berliner FC Dynamo","id":"Berliner_FC_Dynamo","win":17,"draw":5,"loss":4,"for":74,"against":31,"isChampion":true},
+{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":16,"draw":4,"loss":6,"for":57,"against":29},
+{"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":15,"draw":4,"loss":7,"for":58,"against":35},
+{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":16,"draw":2,"loss":8,"for":49,"against":37},
+{"country":"ede","name":"FC Vorwärts Frankfurt","id":"1._FC_Frankfurt","win":13,"draw":5,"loss":8,"for":58,"against":40},
+{"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":12,"draw":4,"loss":10,"for":46,"against":35},
+{"country":"ede","name":"FC Rot-Weiss Erfurt","id":"FC_Rot-Weiß_Erfurt","win":10,"draw":7,"loss":9,"for":37,"against":49},
+{"country":"ede","name":"Hallescher FC Chemie","id":"Hallescher_FC","win":11,"draw":3,"loss":12,"for":41,"against":41},
+{"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":6,"draw":9,"loss":11,"for":37,"against":54},
+{"country":"ede","name":"F.C. Hansa Rostock","id":"FC_Hansa_Rostock","win":6,"draw":8,"loss":12,"for":35,"against":47},
+{"country":"ede","name":"BSG Sachsenring Zwickau","id":"FSV_Zwickau","win":7,"draw":4,"loss":15,"for":32,"against":51},
+{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":7,"draw":4,"loss":15,"for":34,"against":60},
+{"country":"ede","name":"BSG Stahl Riesa","id":"BSG_Stahl_Riesa","win":6,"draw":5,"loss":15,"for":38,"against":64,"isRemoved":true,"isReturning":true},
+{"country":"ede","name":"BSG Chemie Böhlen","id":"Chemie_Böhlen","win":5,"draw":6,"loss":15,"for":25,"against":48,"isRemoved":true,"isReturning":true}
 ]

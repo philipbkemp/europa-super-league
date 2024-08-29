@@ -429,4 +429,19 @@
 {"country":"csk","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":10,"draw":8,"loss":15,"for":58,"against":63},
 {"country":"csk","name":"Spartak Hradec Králové","id":"FC_Hradec_Králové","win":9,"draw":7,"loss":17,"for":52,"against":76,"isRemoved":true},
 {"country":"csk","name":"SONP Kladno","id":"SK_Kladno","win":9,"draw":3,"loss":21,"for":52,"against":75,"isRemoved":true}
+][
+{"country":"ede","name":"SC Wismut Karl-Marx-Stadt","id":"FC_Erzgebirge_Aue","win":16,"draw":4,"loss":6,"for":49,"against":28,"isChampion":true},
+{"country":"ede","name":"ASK Vorwärts Berlin","id":"1._FC_Frankfurt","win":13,"draw":7,"loss":6,"for":45,"against":22},
+{"country":"ede","name":"SC Rotation Leipzig","id":"1._FC_Lokomotive_Leipzig","win":12,"draw":8,"loss":6,"for":40,"against":29},
+{"country":"ede","name":"SC Motor Jena","id":"FC_Carl_Zeiss_Jena","win":11,"draw":6,"loss":9,"for":41,"against":29,"isReturning":true},
+{"country":"ede","name":"SC Aktivist Brieske-Senftenberg","id":"FSV_Glückauf_Brieske-Senftenberg","win":11,"draw":6,"loss":9,"for":33,"against":26},
+{"country":"ede","name":"SC Turbine Erfurt","id":"FC_Rot-Weiß_Erfurt","win":10,"draw":7,"loss":9,"for":37,"against":33},
+{"country":"ede","name":"SC Lokomotive Leipzig","id":"FC_Sachsen_Leipzig","win":9,"draw":8,"loss":9,"for":36,"against":32},
+{"country":"ede","name":"SC Einheit Dresden","id":"Dresdner_SC","win":8,"draw":9,"loss":9,"for":40,"against":44},
+{"country":"ede","name":"SC Fortschritt Weißenfels","id":"SC_Fortschritt_Weißenfels","win":8,"draw":7,"loss":11,"for":38,"against":38},
+{"country":"ede","name":"BSG Motor Zwickau","id":"FSV_Zwickau","win":9,"draw":5,"loss":12,"for":35,"against":43},
+{"country":"ede","name":"BSG Rotation Babelsberg","id":"Fortuna_Babelsberg","win":8,"draw":7,"loss":11,"for":29,"against":44},
+{"country":"ede","name":"SC Chemie Halle-Leuna","id":"Hallescher_FC","win":9,"draw":4,"loss":13,"for":42,"against":51,"isReturning":true},
+{"country":"ede","name":"BSG Lokomotive Stendal","id":"1._FC_Lok_Stendal","win":9,"draw":4,"loss":13,"for":28,"against":43,"isRemoved":true},
+{"country":"ede","name":"SC Motor Karl-Marx-Stadt","id":"Chemnitzer_FC","win":3,"draw":10,"loss":13,"for":31,"against":62,"isRemoved":true}
 ]

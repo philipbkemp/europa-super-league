@@ -523,4 +523,19 @@
 {"country":"csk","name":"Škoda Plzeň","id":"FC_Viktoria_Plzeň","win":10,"draw":8,"loss":12,"for":38,"against":46},
 {"country":"csk","name":"Lokomotíva Košice","id":"FC_Lokomotíva_Košice","win":10,"draw":7,"loss":13,"for":50,"against":47,"isRemoved":true},
 {"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":8,"draw":9,"loss":13,"for":35,"against":43,"isRemoved":true}
+][
+{"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":16,"draw":7,"loss":3,"for":50,"against":27,"isChampion":true},
+{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":16,"draw":4,"loss":6,"for":55,"against":26},
+{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":15,"draw":5,"loss":6,"for":55,"against":40},
+{"country":"ede","name":"FC Vorwärts Frankfurt","id":"1._FC_Frankfurt","win":13,"draw":8,"loss":5,"for":48,"against":27},
+{"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":11,"draw":8,"loss":7,"for":49,"against":35},
+{"country":"ede","name":"BFC Dynamo","id":"Berliner_FC_Dynamo","win":12,"draw":3,"loss":11,"for":42,"against":41},
+{"country":"ede","name":"F.C. Hansa Rostock","id":"FC_Hansa_Rostock","win":10,"draw":5,"loss":11,"for":37,"against":35},
+{"country":"ede","name":"BSG Sachsenring Zwickau","id":"FSV_Zwickau","win":10,"draw":5,"loss":11,"for":37,"against":41},
+{"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":7,"draw":9,"loss":10,"for":42,"against":46},
+{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":7,"draw":8,"loss":11,"for":29,"against":38},
+{"country":"ede","name":"BSG Stahl Riesa","id":"BSG_Stahl_Riesa","win":7,"draw":9,"loss":10,"for":25,"against":42,"deduct":-2,"deductReason":"Improper training camp","isReturning":true},
+{"country":"ede","name":"FC Rot-Weiß Erfurt","id":"FC_Rot-Weiß_Erfurt","win":5,"draw":9,"loss":12,"for":27,"against":39},
+{"country":"ede","name":"BSG Chemie Leipzig","id":"FC_Sachsen_Leipzig","win":3,"draw":9,"loss":14,"for":22,"against":39,"isRemoved":true},
+{"country":"ede","name":"BSG Energie Cottbus","id":"FC_Energie_Cottbus","win":1,"draw":8,"loss":17,"for":16,"against":58,"isRemoved":true,"isNew":true}
 ]

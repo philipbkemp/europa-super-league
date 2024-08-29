@@ -519,4 +519,19 @@
 {"country":"csk","name":"Sklo Union Teplice","id":"FK_Teplice","win":9,"draw":4,"loss":13,"for":34,"against":40},
 {"country":"csk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":10,"draw":3,"loss":13,"for":39,"against":41,"isRemoved":true,"deduct":-2,"isNew":true},
 {"country":"csk","name":"VCHZ Pardubice","id":"FK_Pardubice_1899","win":7,"draw":7,"loss":12,"for":23,"against":47,"isRemoved":true,"isNew":true}
+][
+{"country":"ede","name":"FC Vorwärts Berlin","id":"1._FC_Frankfurt","win":15,"draw":4,"loss":7,"for":47,"against":28,"isChampion":true},
+{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":13,"draw":6,"loss":7,"for":43,"against":22},
+{"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":13,"draw":5,"loss":8,"for":43,"against":41},
+{"country":"ede","name":"F.C. Hansa Rostock","id":"FC_Hansa_Rostock","win":10,"draw":9,"loss":7,"for":42,"against":33},
+{"country":"ede","name":"BSG Sachsenring Zwickau","id":"FSV_Zwickau","win":10,"draw":7,"loss":9,"for":23,"against":19},
+{"country":"ede","name":"BSG Chemie Leipzig","id":"FC_Sachsen_Leipzig","win":8,"draw":11,"loss":7,"for":30,"against":27},
+{"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":10,"draw":6,"loss":10,"for":35,"against":36},
+{"country":"ede","name":"FC Rot-Weiss Erfurt","id":"FC_Rot-Weiß_Erfurt","win":10,"draw":5,"loss":11,"for":32,"against":27},
+{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":9,"draw":7,"loss":10,"for":33,"against":31},
+{"country":"ede","name":"Berliner FC Dynamo","id":"Berliner_FC_Dynamo","win":10,"draw":5,"loss":11,"for":25,"against":36,"isReturning":true},
+{"country":"ede","name":"Hallescher FC Chemie","id":"Hallescher_FC","win":6,"draw":10,"loss":10,"for":32,"against":35},
+{"country":"ede","name":"BSG Stahl Riesa","id":"BSG_Stahl_Riesa","win":9,"draw":4,"loss":13,"for":26,"against":43,"isNew":true},
+{"country":"ede","name":"1. FC Union Berlin","id":"1._FC_Union_Berlin","win":6,"draw":8,"loss":12,"for":29,"against":41,"isRemoved":true},
+{"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":5,"draw":9,"loss":12,"for":17,"against":38,"isRemoved":true}
 ]

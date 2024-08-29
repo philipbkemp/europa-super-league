@@ -418,4 +418,23 @@
 {"country":"csk","name":"Slovena Žilina","id":"MŠK_Žilina","win":7,"draw":6,"loss":13,"for":49,"against":65},
 {"country":"csk","name":"Kovosmalt Trnava","id":"FC_Spartak_Trnava","win":6,"draw":7,"loss":13,"for":36,"against":45,"isRemoved":true},
 {"country":"csk","name":"ČSD Plzeň","id":"SK_Plzeň","win":3,"draw":4,"loss":19,"for":31,"against":92,"isRemoved":true,"isReturning":true}
+][
+{"country":"ede","name":"BSG Chemie Leipzig","id":"BSG_Chemie_Leipzig_(1950)","win":22,"draw":6,"loss":6,"for":66,"against":33,"isChampion":true,"isNew":true,"isRemoved":true},
+{"country":"ede","name":"BSG Turbine Erfurt","id":"FC_Rot-Weiß_Erfurt","win":22,"draw":6,"loss":6,"for":80,"against":37},
+{"country":"ede","name":"BSG Motor Zwickau","id":"FSV_Zwickau","win":17,"draw":9,"loss":8,"for":72,"against":35},
+{"country":"ede","name":"SG Volkspolizei Dresden","id":"Dynamo_Dresden","win":17,"draw":9,"loss":8,"for":75,"against":40,"isNew":true},
+{"country":"ede","name":"BSG Aktivist Brieske-Ost","id":"FSV_Glückauf_Brieske-Senftenberg","win":20,"draw":3,"loss":11,"for":87,"against":79,"isNew":true},
+{"country":"ede","name":"BSG Turbine Halle","id":"Hallescher_FC","win":16,"draw":8,"loss":10,"for":74,"against":50},
+{"country":"ede","name":"BSG Stahl Thale","id":"BSG_Stahl_Thale","win":17,"draw":5,"loss":12,"for":82,"against":65,"isNew":true},
+{"country":"ede","name":"BSG Rotation Babelsberg","id":"Fortuna_Babelsberg","win":18,"draw":3,"loss":13,"for":95,"against":78},
+{"country":"ede","name":"BSG Motor Dessau","id":"SV_Dessau_05","win":14,"draw":6,"loss":14,"for":68,"against":62},
+{"country":"ede","name":"BSG Fortschritt Meerane","id":"BSG_Fortschritt_Meerane","win":12,"draw":8,"loss":14,"for":65,"against":71,"isNew":true},
+{"country":"ede","name":"BSG Stahl Altenburg","id":"BSG_Stahl_Altenburg","win":12,"draw":7,"loss":15,"for":46,"against":61,"isNew":true},
+{"country":"ede","name":"BSG Rotation Dresden","id":"Dresdner_SC","win":12,"draw":6,"loss":16,"for":64,"against":61},
+{"country":"ede","name":"BSG Motor Gera","id":"BSG_Wismut_Gera","win":9,"draw":12,"loss":13,"for":59,"against":63},
+{"country":"ede","name":"BSG Lokomotive Stendal","id":"1._FC_Lok_Stendal","win":12,"draw":5,"loss":17,"for":73,"against":73},
+{"country":"ede","name":"SG Union Oberschöneweide","id":"1._FC_Union_Berlin","win":9,"draw":8,"loss":17,"for":49,"against":72,"isNew":true},
+{"country":"ede","name":"BSG Turbine Weimar","id":"BSG_Turbine_Weimar","win":10,"draw":6,"loss":18,"for":45,"against":71,"isRemoved":true,"isNew":true},
+{"country":"ede","name":"SG Lichtenberg 47","id":"SV_Lichtenberg_47","win":6,"draw":8,"loss":20,"for":49,"against":96,"isRemoved":true,"isNew":true},
+{"country":"ede","name":"VfB Pankow","id":"VfB_Einheit_zu_Pankow","win":2,"draw":3,"loss":29,"for":29,"against":131,"isNew":true}
 ]

@@ -540,4 +540,19 @@
 {"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":9,"draw":7,"loss":14,"for":29,"against":49},
 {"country":"csk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":6,"draw":10,"loss":14,"for":30,"against":46},
 {"country":"csk","name":"ZVL Žilina","id":"MŠK_Žilina","win":5,"draw":6,"loss":19,"for":29,"against":58,"isRemoved":true}
+][
+{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":18,"draw":5,"loss":3,"for":70,"against":25,"isChampion":true},
+{"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":16,"draw":6,"loss":4,"for":52,"against":17},
+{"country":"ede","name":"BFC Dynamo","id":"Berliner_FC_Dynamo","win":14,"draw":7,"loss":5,"for":54,"against":25},
+{"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":13,"draw":6,"loss":7,"for":57,"against":34},
+{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":13,"draw":5,"loss":8,"for":53,"against":32},
+{"country":"ede","name":"Hallescher FC Chemie","id":"Hallescher_FC","win":11,"draw":8,"loss":7,"for":44,"against":34},
+{"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":6,"draw":12,"loss":8,"for":34,"against":37},
+{"country":"ede","name":"1. FC Union Berlin","id":"1._FC_Union_Berlin","win":9,"draw":6,"loss":11,"for":27,"against":36},
+{"country":"ede","name":"FC Rot-Weiss Erfurt","id":"FC_Rot-Weiß_Erfurt","win":7,"draw":9,"loss":10,"for":23,"against":35},
+{"country":"ede","name":"BSG Sachsenring Zwickau","id":"FSV_Zwickau","win":8,"draw":7,"loss":11,"for":22,"against":45},
+{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":8,"draw":6,"loss":12,"for":22,"against":47},
+{"country":"ede","name":"BSG Chemie Böhlen","id":"Chemie_Böhlen","win":6,"draw":8,"loss":12,"for":34,"against":51,"isNew":true},
+{"country":"ede","name":"FC Vorwärts Frankfurt","id":"1._FC_Frankfurt","win":3,"draw":9,"loss":14,"for":19,"against":35,"isRemoved":true},
+{"country":"ede","name":"BSG Wismut Gera","id":"BSG_Wismut_Gera","win":1,"draw":4,"loss":21,"for":17,"against":75,"isRemoved":true,"isReturning":true}
 ]

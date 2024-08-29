@@ -548,4 +548,19 @@
 {"country":"csk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":10,"draw":4,"loss":16,"for":31,"against":41},
 {"country":"csk","name":"Petržalka","id":"FC_Petržalka","win":8,"draw":6,"loss":16,"for":26,"against":43,"isRemoved":true,"isNew":true},
 {"country":"csk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":5,"draw":7,"loss":18,"for":29,"against":63,"isRemoved":true}
+][
+{"country":"ede","name":"Berliner FC Dynamo","id":"Berliner_FC_Dynamo","win":18,"draw":5,"loss":3,"for":74,"against":27,"isChampion":true},
+{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":15,"draw":4,"loss":7,"for":50,"against":24},
+{"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":13,"draw":7,"loss":6,"for":53,"against":29},
+{"country":"ede","name":"FC Vorwärts Frankfurt","id":"1._FC_Frankfurt","win":14,"draw":5,"loss":7,"for":56,"against":39},
+{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":14,"draw":4,"loss":8,"for":49,"against":27},
+{"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":13,"draw":6,"loss":7,"for":49,"against":42},
+{"country":"ede","name":"FC Rot-Weiss Erfurt","id":"FC_Rot-Weiß_Erfurt","win":10,"draw":8,"loss":8,"for":55,"against":44},
+{"country":"ede","name":"F.C. Hansa Rostock","id":"FC_Hansa_Rostock","win":9,"draw":7,"loss":10,"for":37,"against":40},
+{"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":9,"draw":6,"loss":11,"for":50,"against":38},
+{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":8,"draw":7,"loss":11,"for":33,"against":48},
+{"country":"ede","name":"Hallescher FC Chemie","id":"Hallescher_FC","win":8,"draw":7,"loss":11,"for":28,"against":46},
+{"country":"ede","name":"BSG Sachsenring Zwickau","id":"FSV_Zwickau","win":4,"draw":6,"loss":16,"for":24,"against":57},
+{"country":"ede","name":"BSG Energie Cottbus","id":"FC_Energie_Cottbus","win":3,"draw":5,"loss":18,"for":21,"against":62,"isRemoved":true,"isReturning":true},
+{"country":"ede","name":"BSG Chemie Buna Schkopau","id":"SV_Merseburg_99","win":3,"draw":5,"loss":18,"for":21,"against":77,"isRemoved":true,"isNew":true}
 ]

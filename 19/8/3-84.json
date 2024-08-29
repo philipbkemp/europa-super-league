@@ -544,4 +544,19 @@
 {"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":8,"draw":7,"loss":15,"for":25,"against":44},
 {"country":"csk","name":"Sklo Union Teplice","id":"FK_Teplice","win":5,"draw":10,"loss":15,"for":29,"against":51,"isRemoved":true,"isReturning":true},
 {"country":"csk","name":"Plastika Nitra","id":"FC_Nitra","win":6,"draw":7,"loss":17,"for":31,"against":53,"isRemoved":true}
+][
+{"country":"ede","name":"Berliner FC Dynamo","id":"Berliner_FC_Dynamo","win":17,"draw":5,"loss":4,"for":66,"against":36,"isChampion":true},
+{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":14,"draw":9,"loss":3,"for":61,"against":28},
+{"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":16,"draw":5,"loss":5,"for":56,"against":28},
+{"country":"ede","name":"FC Vorwärts Frankfurt","id":"1._FC_Frankfurt","win":13,"draw":7,"loss":6,"for":56,"against":36},
+{"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":12,"draw":8,"loss":6,"for":56,"against":33},
+{"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":10,"draw":10,"loss":6,"for":37,"against":34},
+{"country":"ede","name":"FC Rot-Weiss Erfurt","id":"FC_Rot-Weiß_Erfurt","win":10,"draw":8,"loss":8,"for":36,"against":39},
+{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":9,"draw":7,"loss":10,"for":28,"against":34},
+{"country":"ede","name":"F.C. Hansa Rostock","id":"FC_Hansa_Rostock","win":8,"draw":8,"loss":10,"for":32,"against":41},
+{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":7,"draw":6,"loss":13,"for":50,"against":63},
+{"country":"ede","name":"BSG Stahl Riesa","id":"BSG_Stahl_Riesa","win":7,"draw":6,"loss":13,"for":41,"against":55,"isReturning":true},
+{"country":"ede","name":"BSG Chemie Leipzig","id":"FC_Sachsen_Leipzig","win":4,"draw":6,"loss":16,"for":21,"against":49,"isReturning":true},
+{"country":"ede","name":"1. FC Union Berlin","id":"1._FC_Union_Berlin","win":4,"draw":6,"loss":16,"for":27,"against":55,"isRemoved":true},
+{"country":"ede","name":"Hallescher FC Chemie","id":"Hallescher_FC","win":1,"draw":9,"loss":16,"for":32,"against":68,"isRemoved":true}
 ]

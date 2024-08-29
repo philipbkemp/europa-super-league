@@ -547,4 +547,19 @@
 {"country":"csk","name":"Plastika Nitra","id":"FC_Nitra","win":10,"draw":6,"loss":14,"for":41,"against":60},
 {"country":"csk","name":"Zbrojovka Brno","id":"FC_Zbrojovka_Brno","win":8,"draw":7,"loss":15,"for":43,"against":52,"isRemoved":true},
 {"country":"csk","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":5,"draw":6,"loss":19,"for":32,"against":56,"isRemoved":true,"isNew":true}
+][
+{"country":"ede","name":"Berliner FC Dynamo","id":"Berliner_FC_Dynamo","win":20,"draw":6,"loss":0,"for":72,"against":22,"isChampion":true},
+{"country":"ede","name":"FC Vorwärts Frankfurt","id":"1._FC_Frankfurt","win":13,"draw":8,"loss":5,"for":56,"against":29},
+{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":15,"draw":4,"loss":7,"for":46,"against":29},
+{"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":12,"draw":7,"loss":7,"for":45,"against":27},
+{"country":"ede","name":"FC Rot-Weiss Erfurt","id":"FC_Rot-Weiß_Erfurt","win":11,"draw":9,"loss":6,"for":45,"against":37},
+{"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":10,"draw":9,"loss":7,"for":52,"against":32},
+{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":12,"draw":5,"loss":9,"for":51,"against":43},
+{"country":"ede","name":"F.C. Hansa Rostock","id":"FC_Hansa_Rostock","win":11,"draw":6,"loss":9,"for":38,"against":40},
+{"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":10,"draw":6,"loss":10,"for":41,"against":41},
+{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":6,"draw":8,"loss":12,"for":30,"against":45},
+{"country":"ede","name":"Hallescher FC Chemie","id":"Hallescher_FC","win":5,"draw":7,"loss":14,"for":41,"against":53},
+{"country":"ede","name":"1. FC Union Berlin","id":"1._FC_Union_Berlin","win":5,"draw":7,"loss":14,"for":23,"against":50,"isReturning":true},
+{"country":"ede","name":"BSG Chemie Böhlen","id":"Chemie_Böhlen","win":4,"draw":5,"loss":17,"for":31,"against":80,"isRemoved":true,"isReturning":true},
+{"country":"ede","name":"BSG Sachsenring Zwickau","id":"FSV_Zwickau","win":2,"draw":5,"loss":19,"for":21,"against":64,"isRemoved":true}
 ]

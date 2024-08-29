@@ -412,4 +412,19 @@
 {"country":"csk","name":"Dynamo Prague","id":"sk_slavia_prague","win":6,"draw":5,"loss":11,"for":35,"against":45},
 {"country":"csk","name":"Dynamo Žilina","id":"MŠK_Žilina","win":6,"draw":5,"loss":11,"for":27,"against":46,"isRemoved":true},
 {"country":"csk","name":"Spartak VSS Košice","id":"FC_VSS_Košice","win":6,"draw":2,"loss":14,"for":27,"against":48,"isRemoved":true,"isReturning":true}
+][
+{"country":"ede","name":"SC Wismut Karl-Marx-Stadt","id":"FC_Erzgebirge_Aue","win":15,"draw":8,"loss":3,"for":53,"against":21,"isChampion":true,"isReturning":true},
+{"country":"ede","name":"SC Aktivist Brieske-Senftenberg","id":"FSV_Glückauf_Brieske-Senftenberg","win":14,"draw":8,"loss":4,"for":34,"against":15,"isReturning":true},
+{"country":"ede","name":"SC Lokomotive Leipzig","id":"FC_Sachsen_Leipzig","win":14,"draw":6,"loss":6,"for":45,"against":22,"isReturning":true},
+{"country":"ede","name":"BSG Lokomotive Stendal","id":"1._FC_Lok_Stendal","win":12,"draw":4,"loss":10,"for":55,"against":54,"isReturning":true},
+{"country":"ede","name":"SC Einheit Dresden","id":"Dresdner_SC","win":10,"draw":6,"loss":10,"for":50,"against":46,"isReturning":true},
+{"country":"ede","name":"ZASK Vorwärts Berlin","id":"1._FC_Frankfurt","win":9,"draw":8,"loss":9,"for":41,"against":41,"isReturning":true},
+{"country":"ede","name":"BSG Rotation Babelsberg","id":"Fortuna_Babelsberg","win":9,"draw":8,"loss":9,"for":41,"against":53,"isReturning":true},
+{"country":"ede","name":"SC Rotation Leipzig","id":"1._FC_Lokomotive_Leipzig","win":9,"draw":6,"loss":11,"for":35,"against":41,"isReturning":true},
+{"country":"ede","name":"SC Motor Karl-Marx-Stadt","id":"Chemnitzer_FC","win":8,"draw":7,"loss":11,"for":24,"against":48,"isReturning":true},
+{"country":"ede","name":"SC Fortschritt Weißenfels","id":"SC_Fortschritt_Weißenfels","win":7,"draw":8,"loss":11,"for":36,"against":38,"isNew":true},
+{"country":"ede","name":"BSG Motor Zwickau","id":"FSV_Zwickau","win":10,"draw":2,"loss":14,"for":47,"against":52,"isReturning":true},
+{"country":"ede","name":"SC Turbine Erfurt","id":"FC_Rot-Weiß_Erfurt","win":5,"draw":11,"loss":10,"for":36,"against":38,"isReturning":true},
+{"country":"ede","name":"SC Dynamo Berlin","id":"Berliner_FC_Dynamo","win":7,"draw":6,"loss":13,"for":37,"against":47,"isRemoved":true,"isReturning":true},
+{"country":"ede","name":"SC Empor Rostock","id":"FC_Hansa_Rostock","win":6,"draw":6,"loss":14,"for":31,"against":49,"isRemoved":true,"isReturning":true}
 ]

@@ -500,4 +500,19 @@
 {"country":"csk","name":"Jednota Žilina","id":"MŠK_Žilina","win":8,"draw":6,"loss":12,"for":32,"against":47},
 {"country":"csk","name":"Škoda Plzeň","id":"FC_Viktoria_Plzeň","win":4,"draw":10,"loss":12,"for":26,"against":46,"isRemoved":true,"isReturning":true},
 {"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":3,"draw":8,"loss":15,"for":23,"against":54,"isRemoved":true}
+][
+{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":17,"draw":5,"loss":4,"for":51,"against":19,"isChampion":true},
+{"country":"ede","name":"F.C. Hansa Rostock","id":"FC_Hansa_Rostock","win":15,"draw":4,"loss":7,"for":37,"against":27},
+{"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":13,"draw":7,"loss":6,"for":43,"against":38,"isReturning":true},
+{"country":"ede","name":"FC Vorwärts Berlin","id":"1._FC_Frankfurt","win":9,"draw":10,"loss":7,"for":34,"against":29},
+{"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":9,"draw":7,"loss":10,"for":39,"against":35},
+{"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":8,"draw":9,"loss":9,"for":33,"against":30},
+{"country":"ede","name":"BSG Sachsenring Zwickau","id":"FSV_Zwickau","win":11,"draw":3,"loss":12,"for":36,"against":34},
+{"country":"ede","name":"1. FC Union Berlin","id":"1._FC_Union_Berlin","win":9,"draw":7,"loss":10,"for":26,"against":35},
+{"country":"ede","name":"FC Rot-Weiss Erfurt","id":"FC_Rot-Weiß_Erfurt","win":8,"draw":7,"loss":11,"for":34,"against":39,"isReturning":true},
+{"country":"ede","name":"Hallescher FC Chemie","id":"Hallescher_FC","win":8,"draw":7,"loss":11,"for":32,"against":41},
+{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":9,"draw":4,"loss":13,"for":32,"against":40},
+{"country":"ede","name":"BSG Chemie Leipzig","id":"FC_Sachsen_Leipzig","win":7,"draw":7,"loss":12,"for":26,"against":32},
+{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":5,"draw":11,"loss":10,"for":25,"against":33,"isRemoved":true},
+{"country":"ede","name":"BSG Lokomotive Stendal","id":"1._FC_Lok_Stendal","win":7,"draw":6,"loss":13,"for":26,"against":42,"isRemoved":true}
 ]

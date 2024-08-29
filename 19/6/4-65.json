@@ -485,4 +485,19 @@
 {"country":"csk","name":"SONP Kladno","id":"SK_Kladno","win":6,"draw":6,"loss":14,"for":31,"against":44,"isRemoved":true},
 {"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":5,"draw":7,"loss":14,"for":29,"against":48,"isRemoved":true},
 {"country":"csk","name":"Jiskra Otrokovice","id":"SK_Baťov_1930","win":2,"draw":6,"loss":18,"for":20,"against":71,"isRemoved":true,"isNew":true}
+][
+{"country":"ede","name":"ASK Vorwärts Berlin","id":"1._FC_Frankfurt","win":17,"draw":3,"loss":6,"for":51,"against":24,"isChampion":true},
+{"country":"ede","name":"SC Motor Jena","id":"FC_Carl_Zeiss_Jena","win":14,"draw":4,"loss":8,"for":41,"against":27},
+{"country":"ede","name":"BSG Chemie Leipzig","id":"FC_Sachsen_Leipzig","win":11,"draw":9,"loss":6,"for":47,"against":29,"isReturning":true},
+{"country":"ede","name":"SC Leipzig","id":"1._FC_Lokomotive_Leipzig","win":12,"draw":6,"loss":8,"for":53,"against":34},
+{"country":"ede","name":"SC Empor Rostock","id":"FC_Hansa_Rostock","win":13,"draw":2,"loss":11,"for":37,"against":33},
+{"country":"ede","name":"BSG Lokomotive Stendal","id":"1._FC_Lok_Stendal","win":9,"draw":8,"loss":9,"for":47,"against":42},
+{"country":"ede","name":"SC Aufbau Magdeburg","id":"1._FC_Magdeburg","win":9,"draw":7,"loss":10,"for":35,"against":35},
+{"country":"ede","name":"BSG Motor Zwickau","id":"FSV_Zwickau","win":9,"draw":6,"loss":11,"for":36,"against":46},
+{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":6,"draw":12,"loss":8,"for":23,"against":36},
+{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":9,"draw":5,"loss":12,"for":34,"against":38,"isReturning":true},
+{"country":"ede","name":"SC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":8,"draw":7,"loss":11,"for":36,"against":41},
+{"country":"ede","name":"SC Dynamo Berlin","id":"Berliner_FC_Dynamo","win":8,"draw":6,"loss":12,"for":27,"against":37},
+{"country":"ede","name":"SC Neubrandenburg","id":"1._FC_Neubrandenburg_04","win":7,"draw":6,"loss":13,"for":34,"against":58,"isRemoved":true,"isNew":true},
+{"country":"ede","name":"BSG Motor Steinach","id":"SV_08_Steinach","win":8,"draw":3,"loss":15,"for":28,"against":49,"isRemoved":true}
 ]

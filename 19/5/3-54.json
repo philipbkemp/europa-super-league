@@ -403,4 +403,20 @@
 {"country":"csk","name":"Slavia Bratislava VS","id":"Slavia_Bratislava_VS","win":2,"draw":2,"loss":9,"for":17,"against":30,"isRemoved":true,"isNew":true},
 {"country":"csk","name":"Jiskra Gottwaldov","id":"FC_Zlín","win":2,"draw":2,"loss":9,"for":18,"against":34,"isRemoved":true,"isReturning":true},
 {"country":"csk","name":"Lokomotíva Košice","id":"FC_Lokomotíva_Košice","win":2,"draw":1,"loss":10,"for":12,"against":41,"isRemoved":true,"isReturning":true}
+][
+{"country":"ede","name":"BSG Turbine Erfurt","id":"FC_Rot-Weiß_Erfurt","win":17,"draw":5,"loss":6,"for":58,"against":36,"isChampion":true},
+{"country":"ede","name":"BSG Chemie Leipzig","id":"BSG_Chemie_Leipzig_(1950)","win":15,"draw":5,"loss":8,"for":51,"against":37,"isReturning":true},
+{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":15,"draw":4,"loss":9,"for":54,"against":44,"isRemoved":true},
+{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":15,"draw":3,"loss":10,"for":59,"against":42},
+{"country":"ede","name":"BSG Rotation Babelsberg","id":"Fortuna_Babelsberg","win":12,"draw":8,"loss":8,"for":58,"against":43},
+{"country":"ede","name":"BSG Aktivist Brieske-Ost","id":"FSV_Glückauf_Brieske-Senftenberg","win":11,"draw":8,"loss":9,"for":48,"against":43},
+{"country":"ede","name":"BSG Rotation Dresden","id":"Dresdner_SC","win":9,"draw":10,"loss":9,"for":46,"against":39},
+{"country":"ede","name":"BSG Turbine Halle","id":"Hallescher_FC","win":11,"draw":6,"loss":11,"for":30,"against":30},
+{"country":"ede","name":"BSG Empor Lauter","id":"FC_Hansa_Rostock","win":8,"draw":11,"loss":9,"for":40,"against":38},
+{"country":"ede","name":"BSG Fortschritt Meerane","id":"Meeraner_SV","win":8,"draw":9,"loss":11,"for":46,"against":46,"isNew":true},
+{"country":"ede","name":"BSG Motor Zwickau","id":"FSV_Zwickau","win":10,"draw":5,"loss":13,"for":39,"against":56},
+{"country":"ede","name":"BSG Einheit Ost","id":"1._FC_Lokomotive_Leipzig","win":9,"draw":5,"loss":14,"for":43,"against":57,"isNew":true},
+{"country":"ede","name":"BSG Lokomotive Stendal","id":"1._FC_Lok_Stendal","win":6,"draw":11,"loss":11,"for":38,"against":51,"isRemoved":true},
+{"country":"ede","name":"BSG Motor Dessau","id":"SV_Dessau_05","win":7,"draw":9,"loss":12,"for":38,"against":55,"isRemoved":true},
+{"country":"ede","name":"BSG Stahl Thale","id":"BSG_Stahl_Thale","win":4,"draw":7,"loss":17,"for":28,"against":59,"isRemoved":true}
 ]
