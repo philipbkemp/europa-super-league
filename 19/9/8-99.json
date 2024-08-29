@@ -490,4 +490,21 @@
 {"country":"fro","name":"ÍF Fuglafjørður","id":"Ítróttarfelag_Fuglafjarðar","win":1,"draw":8,"loss":9,"for":25,"against":47},
 {"country":"fro","name":"Sumba","id":"Sumbiar_ítróttarfelag","win":2,"draw":3,"loss":13,"for":18,"against":73,"isReturning":true},
 {"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":1,"draw":5,"loss":12,"for":21,"against":61,"isReturning":true,"isRemoved":true}
+][
+{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":22,"draw":5,"loss":3,"for":66,"against":23,"isChampion":true},
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":20,"draw":3,"loss":7,"for":77,"against":32},
+{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":19,"draw":3,"loss":8,"for":62,"against":24},
+{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":17,"draw":6,"loss":7,"for":67,"against":33},
+{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":15,"draw":7,"loss":8,"for":45,"against":26},
+{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":13,"draw":7,"loss":10,"for":54,"against":47},
+{"country":"isr","name":"Ironi Rishon LeZion","id":"Hapoel_Rishon_LeZion_F.C.","win":12,"draw":6,"loss":12,"for":58,"against":61},
+{"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":11,"draw":6,"loss":13,"for":47,"against":66},
+{"country":"isr","name":"Hapoel Jerusalem","id":"Hapoel_Jerusalem_F.C.","win":11,"draw":5,"loss":14,"for":35,"against":52},
+{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":10,"draw":7,"loss":13,"for":45,"against":45},
+{"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":10,"draw":6,"loss":14,"for":43,"against":51},
+{"country":"isr","name":"Maccabi Ironi Ashdod","id":"Maccabi_Ironi_Ashdod_F.C.","win":9,"draw":9,"loss":12,"for":40,"against":49,"isRemoved":true},
+{"country":"isr","name":"Maccabi Herzliya","id":"Maccabi_Herzliya_F.C.","win":10,"draw":5,"loss":15,"for":31,"against":42},
+{"country":"isr","name":"Hapoel Tzafririm Holon","id":"Hapoel_Tzafririm_Holon_F.C.","win":8,"draw":10,"loss":12,"for":35,"against":38,"isRemoved":true,"isReturning":true},
+{"country":"isr","name":"Hapoel Beit She'an","id":"Hapoel_Beit_She%27an_F.C.","win":5,"draw":3,"loss":22,"for":25,"against":83,"isRemoved":true},
+{"country":"isr","name":"Maccabi Jaffa","id":"Maccabi_Jaffa_F.C.","win":2,"draw":4,"loss":24,"for":15,"against":73,"isRemoved":true,"isReturning":true}
 ]

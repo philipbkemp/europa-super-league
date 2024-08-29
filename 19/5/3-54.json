@@ -419,4 +419,17 @@
 {"country":"ede","name":"BSG Lokomotive Stendal","id":"1._FC_Lok_Stendal","win":6,"draw":11,"loss":11,"for":38,"against":51,"isRemoved":true},
 {"country":"ede","name":"BSG Motor Dessau","id":"SV_Dessau_05","win":7,"draw":9,"loss":12,"for":38,"against":55,"isRemoved":true},
 {"country":"ede","name":"BSG Stahl Thale","id":"BSG_Stahl_Thale","win":4,"draw":7,"loss":17,"for":28,"against":59,"isRemoved":true}
+][
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":16,"draw":6,"loss":0,"for":59,"against":11,"isChampion":true,"isReturning":true},
+{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":13,"draw":6,"loss":3,"for":50,"against":22,"isReturning":true},
+{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":12,"draw":3,"loss":7,"for":55,"against":25,"isReturning":true},
+{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":9,"draw":7,"loss":6,"for":35,"against":18,"isReturning":true},
+{"country":"isr","name":"Maccabi Rehovot","id":"Maccabi_Rehovot_F.C.","win":6,"draw":9,"loss":7,"for":30,"against":33,"isReturning":true},
+{"country":"isr","name":"Hapoel Ramat Gan","id":"Hapoel_Ramat_Gan_Givatayim_F.C.","win":8,"draw":4,"loss":10,"for":31,"against":35,"isReturning":true},
+{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":7,"draw":5,"loss":10,"for":23,"against":36,"isReturning":true},
+{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":8,"draw":3,"loss":11,"for":26,"against":51,"isReturning":true},
+{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":7,"draw":4,"loss":11,"for":26,"against":37,"isReturning":true},
+{"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":8,"draw":1,"loss":13,"for":27,"against":38,"isNew":true},
+{"country":"isr","name":"Beitar Tel Aviv","id":"Beitar_Tel_Aviv_F.C.","win":7,"draw":3,"loss":12,"for":23,"against":42,"isReturning":true},
+{"country":"isr","name":"Hapoel Balfouria","id":"Hapoel_Balfouria_F.C.","win":4,"draw":3,"loss":15,"for":20,"against":57,"isNew":true}
 ]

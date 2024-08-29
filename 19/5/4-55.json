@@ -428,4 +428,19 @@
 {"country":"ede","name":"BSG Rotation Babelsberg","id":"Fortuna_Babelsberg","win":10,"draw":3,"loss":13,"for":36,"against":36,"isRemoved":true,"removedNote":"League ran a shorter season next season as it moved to single year format"},
 {"country":"ede","name":"SC Chemie Halle-Leuna","id":"Hallescher_FC","win":8,"draw":4,"loss":14,"for":28,"against":52,"isRemoved":true},
 {"country":"ede","name":"BSG Fortschritt Meerane","id":"Meeraner_SV","win":5,"draw":3,"loss":18,"for":31,"against":58,"isRemoved":true}
+][
+{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":18,"draw":4,"loss":4,"for":68,"against":23,"isChampion":true},
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":17,"draw":4,"loss":5,"for":84,"against":28},
+{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":12,"draw":9,"loss":5,"for":49,"against":23},
+{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":13,"draw":7,"loss":6,"for":54,"against":43},
+{"country":"isr","name":"Beitar Tel Aviv","id":"Beitar_Tel_Aviv_F.C.","win":12,"draw":5,"loss":9,"for":64,"against":47},
+{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":11,"draw":6,"loss":9,"for":54,"against":41},
+{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":10,"draw":7,"loss":9,"for":37,"against":41},
+{"country":"isr","name":"Maccabi Rehovot","id":"Maccabi_Rehovot_F.C.","win":11,"draw":4,"loss":11,"for":49,"against":48},
+{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":9,"draw":6,"loss":11,"for":40,"against":55},
+{"country":"isr","name":"Hapoel Ramat Gan","id":"Hapoel_Ramat_Gan_Givatayim_F.C.","win":10,"draw":3,"loss":13,"for":35,"against":41},
+{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":8,"draw":5,"loss":13,"for":37,"against":59,"isNew":true,"isRemoved":true},
+{"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":6,"draw":6,"loss":14,"for":38,"against":46},
+{"country":"isr","name":"Hapoel Hadera","id":"Hapoel_Hadera_F.C.","win":7,"draw":2,"loss":17,"for":36,"against":53,"isRemoved":true,"isNew":true},
+{"country":"isr","name":"Hapoel Balfouria","id":"Hapoel_Balfouria_F.C.","win":3,"draw":2,"loss":21,"for":32,"against":129,"isRemoved":true}
 ]

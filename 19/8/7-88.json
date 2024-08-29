@@ -558,4 +558,19 @@
 {"country":"ede","name":"FC Rot-Weiss Erfurt","id":"FC_Rot-Weiß_Erfurt","win":8,"draw":5,"loss":13,"for":40,"against":49},
 {"country":"ede","name":"FC Vorwärts Frankfurt","id":"1._FC_Frankfurt","win":6,"draw":9,"loss":11,"for":33,"against":43,"isRemoved":true},
 {"country":"ede","name":"BSG Stahl Riesa","id":"BSG_Stahl_Riesa","win":3,"draw":10,"loss":13,"for":23,"against":43,"isRemoved":true}
+][
+{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":19,"draw":9,"loss":5,"for":43,"against":23,"isChampion":true},
+{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":16,"draw":12,"loss":5,"for":56,"against":35},
+{"country":"isr","name":"Shimshon Tel Aviv","id":"Shimshon_Tel_Aviv_F.C.","win":13,"draw":11,"loss":9,"for":35,"against":33},
+{"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":11,"draw":12,"loss":10,"for":33,"against":31},
+{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":12,"draw":10,"loss":11,"for":47,"against":41},
+{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":13,"draw":13,"loss":7,"for":33,"against":22},
+{"country":"isr","name":"Beitar Tel Aviv","id":"Beitar_Tel_Aviv_F.C.","win":9,"draw":13,"loss":11,"for":38,"against":40},
+{"country":"isr","name":"Tzafririm Holon","id":"Hapoel_Tzafririm_Holon_F.C.","win":9,"draw":13,"loss":11,"for":32,"against":34,"isNew":true},
+{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":13,"draw":8,"loss":10,"for":56,"against":33},
+{"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":11,"draw":11,"loss":9,"for":28,"against":23},
+{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":10,"draw":9,"loss":12,"for":38,"against":42},
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":8,"draw":12,"loss":11,"for":43,"against":43},
+{"country":"isr","name":"Hapoel Lod","id":"Hapoel_Lod_F.C.","win":3,"draw":9,"loss":19,"for":17,"against":69,"isRemoved":true},
+{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":3,"draw":8,"loss":20,"for":19,"against":49,"isRemoved":true}
 ]

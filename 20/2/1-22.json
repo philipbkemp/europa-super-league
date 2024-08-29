@@ -473,4 +473,19 @@
 {"country":"fro","name":"B68 Toftir","id":"B68_Toftir","win":7,"draw":4,"loss":16,"for":33,"against":66,"isReturning":true},
 {"country":"fro","name":"ÍF","id":"Ítróttarfelag_Fuglafjarðar","win":4,"draw":4,"loss":19,"for":26,"against":70,"isRemoved":true},
 {"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":0,"draw":3,"loss":24,"for":17,"against":95,"isRemoved":true}
+][
+{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":24,"draw":6,"loss":6,"for":79,"against":27,"isChampion":true},
+{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":20,"draw":10,"loss":6,"for":53,"against":30},
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":20,"draw":9,"loss":7,"for":63,"against":38},
+{"country":"isr","name":"Bnei Sakhnin","id":"Bnei_Sakhnin_F.C.","win":13,"draw":10,"loss":13,"for":33,"against":43},
+{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":13,"draw":13,"loss":10,"for":47,"against":41},
+{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":13,"draw":11,"loss":12,"for":44,"against":47},
+{"country":"isr","name":"Hapoel Hadera","id":"Hapoel_Hadera_F.C.","win":11,"draw":9,"loss":13,"for":34,"against":43},
+{"country":"isr","name":"Ironi Kiryat Shmona","id":"Hapoel_Ironi_Kiryat_Shmona_F.C.","win":14,"draw":8,"loss":11,"for":48,"against":39},
+{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":9,"draw":8,"loss":16,"for":36,"against":47},
+{"country":"isr","name":"F.C. Ashdod","id":"F.C._Ashdod","win":12,"draw":3,"loss":18,"for":37,"against":52},
+{"country":"isr","name":"Hapoel Jerusalem","id":"Hapoel_Jerusalem_F.C.","win":8,"draw":9,"loss":16,"for":25,"against":41,"isReturning":true},
+{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":9,"draw":10,"loss":14,"for":35,"against":43},
+{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":6,"draw":9,"loss":18,"for":34,"against":49,"isRemoved":true},
+{"country":"isr","name":"Hapoel Nof HaGalil","id":"Hapoel_Nof_HaGalil_F.C.","win":6,"draw":9,"loss":18,"for":25,"against":53,"isRemoved":true,"isReturning":true}
 ]

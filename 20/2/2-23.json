@@ -479,4 +479,19 @@
 {"country":"fro","name":"AB Argir","id":"Argja_Bóltfelag","win":8,"draw":5,"loss":14,"for":33,"against":63,"isReturning":true},
 {"country":"fro","name":"NSÍ Runavík","id":"NSÍ_Runavík","win":6,"draw":3,"loss":18,"for":31,"against":59,"isRemoved":true},
 {"country":"fro","name":"Skála","id":"Skála_ÍF","win":1,"draw":7,"loss":19,"for":25,"against":68,"isRemoved":true,"isReturning":true}
+][
+{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":27,"draw":3,"loss":6,"for":76,"against":34,"isChampion":true,"deduct":-3},
+{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":24,"draw":5,"loss":7,"for":65,"against":29,"deduct":-3},
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":21,"draw":10,"loss":5,"for":69,"against":23},
+{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":12,"draw":9,"loss":15,"for":44,"against":58},
+{"country":"isr","name":"Hapoel Jerusalem","id":"Hapoel_Jerusalem_F.C.","win":12,"draw":9,"loss":15,"for":38,"against":44},
+{"country":"isr","name":"Ashdod","id":"F.C._Ashdod","win":11,"draw":10,"loss":15,"for":41,"against":46},
+{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":13,"draw":4,"loss":16,"for":52,"against":58,"deduct":-3},
+{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":9,"draw":14,"loss":10,"for":35,"against":35},
+{"country":"isr","name":"Bnei Sakhnin","id":"Bnei_Sakhnin_F.C.","win":8,"draw":13,"loss":12,"for":39,"against":44},
+{"country":"isr","name":"Hapoel Hadera","id":"Hapoel_Hadera_F.C.","win":7,"draw":13,"loss":13,"for":35,"against":53},
+{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":9,"draw":10,"loss":14,"for":37,"against":51,"deduct":-1},
+{"country":"isr","name":"Maccabi Bnei Reineh","id":"Maccabi_Bnei_Reineh_F.C.","win":8,"draw":11,"loss":14,"for":32,"against":54,"isNew":true},
+{"country":"isr","name":"Ironi Kiryat Shmona","id":"Hapoel_Ironi_Kiryat_Shmona_F.C.","win":5,"draw":17,"loss":11,"for":40,"against":49,"isRemoved":true},
+{"country":"isr","name":"Sektzia Ness Ziona","id":"Sektzia_Ness_Ziona_F.C.","win":5,"draw":10,"loss":18,"for":31,"against":56,"isRemoved":true,"isReturning":true}
 ]

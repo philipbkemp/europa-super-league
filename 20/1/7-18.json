@@ -468,4 +468,19 @@
 {"country":"fro","name":"TB/FC Suðuroy/Royn","id":"TB/FC_Suðuroy/Royn","win":8,"draw":5,"loss":14,"for":31,"against":45,"isNew":true},
 {"country":"fro","name":"07 Vestur","id":"07_Vestur","win":8,"draw":4,"loss":15,"for":37,"against":59,"isReturning":true},
 {"country":"fro","name":"ÍF","id":"Ítróttarfelag_Fuglafjarðar","win":3,"draw":3,"loss":21,"for":23,"against":73,"isRemoved":true}
+][
+{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":24,"draw":8,"loss":4,"for":70,"against":27,"isChampion":true},
+{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":20,"draw":8,"loss":8,"for":75,"against":51},
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":21,"draw":8,"loss":7,"for":60,"against":33},
+{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":17,"draw":11,"loss":8,"for":48,"against":39},
+{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":16,"draw":10,"loss":10,"for":59,"against":54,"isReturning":true},
+{"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":13,"draw":10,"loss":13,"for":47,"against":41},
+{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":12,"draw":7,"loss":14,"for":40,"against":44},
+{"country":"isr","name":"Ironi Kiryat Shmona","id":"Hapoel_Ironi_Kiryat_Shmona_F.C.","win":13,"draw":6,"loss":14,"for":39,"against":36},
+{"country":"isr","name":"Bnei Sakhnin","id":"Bnei_Sakhnin_F.C.","win":10,"draw":8,"loss":15,"for":32,"against":47},
+{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":10,"draw":8,"loss":15,"for":38,"against":39},
+{"country":"isr","name":"Hapoel Ra'anana","id":"Hapoel_Ra%27anana_A.F.C.","win":11,"draw":7,"loss":15,"for":36,"against":45},
+{"country":"isr","name":"F.C. Ashdod","id":"F.C._Ashdod","win":6,"draw":10,"loss":17,"for":29,"against":48},
+{"country":"isr","name":"Hapoel Ashkelon","id":"Hapoel_Ashkelon_F.C.","win":4,"draw":9,"loss":20,"for":23,"against":51,"isRemoved":true},
+{"country":"isr","name":"Hapoel Acre","id":"Hapoel_Acre_F.C.","win":6,"draw":4,"loss":23,"for":26,"against":67,"deduct":-4,"deductReason":"-2pts for contract issues; -2pts for fielding too many foreign players","isRemoved":true,"isReturning":true}
 ]

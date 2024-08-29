@@ -516,4 +516,21 @@
 {"country":"ede","name":"BSG Lokomotive Stendal","id":"1._FC_Lok_Stendal","win":10,"draw":2,"loss":14,"for":36,"against":49},
 {"country":"ede","name":"FC Rot-Weiss Erfurt","id":"FC_Rot-Weiß_Erfurt","win":8,"draw":3,"loss":15,"for":26,"against":42,"isRemoved":true,"isReturning":true},
 {"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":7,"draw":5,"loss":14,"for":19,"against":39,"isRemoved":true}
+][
+{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":12,"draw":14,"loss":4,"for":36,"against":23,"isChampion":true,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"},
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":14,"draw":6,"loss":10,"for":45,"against":29,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"},
+{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":10,"draw":14,"loss":6,"for":42,"against":29,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"},
+{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":13,"draw":8,"loss":9,"for":49,"against":35,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"},
+{"country":"isr","name":"Hapoel Ramat Gan","id":"Hapoel_Ramat_Gan_Givatayim_F.C.","win":12,"draw":10,"loss":8,"for":40,"against":32,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"},
+{"country":"isr","name":"Shimshon Tel Aviv","id":"Shimshon_Tel_Aviv_F.C.","win":12,"draw":8,"loss":10,"for":37,"against":31,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"},
+{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":12,"draw":8,"loss":10,"for":31,"against":32,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"},
+{"country":"isr","name":"Hapoel Mahane Yehuda","id":"Hapoel_Mahane_Yehuda_F.C.","win":11,"draw":9,"loss":10,"for":36,"against":38,"isNew":true,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"},
+{"country":"isr","name":"Hakoah Ramat Gan","id":"Hakoah_Amidar_Ramat_Gan_F.C.","win":9,"draw":12,"loss":9,"for":37,"against":34,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"},
+{"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":9,"draw":10,"loss":11,"for":31,"against":38,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"},
+{"country":"isr","name":"Maccabi Jaffa","id":"Maccabi_Jaffa_F.C.","win":9,"draw":10,"loss":11,"for":33,"against":41,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"},
+{"country":"isr","name":"Hapoel Jerusalem","id":"Hapoel_Jerusalem_F.C.","win":9,"draw":10,"loss":11,"for":29,"against":40,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"},
+{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":9,"draw":9,"loss":12,"for":21,"against":25,"isNew":true,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"},
+{"country":"isr","name":"Maccabi Sha'arayim","id":"Maccabi_Sha%27arayim_F.C.","win":10,"draw":7,"loss":13,"for":33,"against":40,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"},
+{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":7,"draw":9,"loss":14,"for":26,"against":43,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"},
+{"country":"isr","name":"Beitar Tel Aviv","id":"Beitar_Tel_Aviv_F.C.","win":5,"draw":10,"loss":15,"for":21,"against":37,"isRemoved":true,"removeNote":"Next season was contested over 2 seasons by the Israeli FA"}
 ]

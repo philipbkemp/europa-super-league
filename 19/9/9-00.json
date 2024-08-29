@@ -490,4 +490,19 @@
 {"country":"fro","name":"B71 Sandur","id":"B71_Sandoy","win":3,"draw":5,"loss":10,"for":26,"against":45,"isReturning":true},
 {"country":"fro","name":"Sumba ÍF","id":"Sumbiar_ítróttarfelag","win":2,"draw":5,"loss":11,"for":22,"against":43},
 {"country":"fro","name":"ÍF Fuglafjørður","id":"Ítróttarfelag_Fuglafjarðar","win":2,"draw":4,"loss":12,"for":20,"against":48,"isRemoved":true}
+][
+{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":26,"draw":7,"loss":6,"for":76,"against":28,"isChampion":true},
+{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":22,"draw":10,"loss":7,"for":86,"against":35},
+{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":23,"draw":5,"loss":11,"for":77,"against":52},
+{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":18,"draw":6,"loss":15,"for":50,"against":47},
+{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":15,"draw":14,"loss":10,"for":61,"against":54},
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":18,"draw":8,"loss":13,"for":66,"against":42,"deduct":-4,"deductReason":"Player failed drugs test"},
+{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":13,"draw":18,"loss":8,"for":53,"against":36},
+{"country":"isr","name":"F.C. Ashdod","id":"F.C._Ashdod","win":13,"draw":13,"loss":13,"for":48,"against":49,"isNew":true},
+{"country":"isr","name":"Ironi Rishon LeZion","id":"Hapoel_Rishon_LeZion_F.C.","win":10,"draw":13,"loss":16,"for":41,"against":65},
+{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":10,"draw":11,"loss":18,"for":53,"against":71,"isReturning":true},
+{"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":9,"draw":13,"loss":17,"for":37,"against":64},
+{"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":8,"draw":14,"loss":17,"for":40,"against":56,"isRemoved":true},
+{"country":"isr","name":"Maccabi Herzliya","id":"Maccabi_Herzliya_F.C.","win":9,"draw":8,"loss":22,"for":33,"against":73,"isRemoved":true},
+{"country":"isr","name":"Hapoel Jerusalem","id":"Hapoel_Jerusalem_F.C.","win":6,"draw":6,"loss":27,"for":33,"against":82,"isRemoved":true}
 ]

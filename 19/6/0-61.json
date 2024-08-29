@@ -470,4 +470,17 @@
 {"country":"ede","name":"SC Einheit Dresden","id":"Dresdner_SC","win":7,"draw":7,"loss":12,"for":30,"against":51},
 {"country":"ede","name":"BSG Chemie Zeitz","id":"BSG_Chemie_Zeitz","win":7,"draw":6,"loss":13,"for":43,"against":61,"isRemoved":true},
 {"country":"ede","name":"SC Fortschritt Weißenfels","id":"SC_Fortschritt_Weißenfels","win":0,"draw":8,"loss":18,"for":27,"against":69,"isRemoved":true}
+][
+{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":16,"draw":4,"loss":2,"for":48,"against":15,"isChampion":true},
+{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":14,"draw":2,"loss":6,"for":38,"against":20},
+{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":12,"draw":5,"loss":5,"for":44,"against":25},
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":12,"draw":2,"loss":8,"for":34,"against":29},
+{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":11,"draw":3,"loss":8,"for":40,"against":33},
+{"country":"isr","name":"Maccabi Jaffa","id":"Maccabi_Jaffa_F.C.","win":10,"draw":3,"loss":9,"for":27,"against":28},
+{"country":"isr","name":"Hapoel Jerusalem","id":"Hapoel_Jerusalem_F.C.","win":9,"draw":3,"loss":10,"for":29,"against":26},
+{"country":"isr","name":"Shimshon Tel Aviv","id":"Shimshon_Tel_Aviv_F.C.","win":6,"draw":8,"loss":8,"for":18,"against":29,"isNew":true},
+{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":6,"draw":4,"loss":12,"for":23,"against":31},
+{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":6,"draw":2,"loss":14,"for":19,"against":33},
+{"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":4,"draw":5,"loss":13,"for":20,"against":38},
+{"country":"isr","name":"Beitar Tel Aviv","id":"Beitar_Tel_Aviv_F.C.","win":5,"draw":1,"loss":16,"for":17,"against":50,"isRemoved":true}
 ]

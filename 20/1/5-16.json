@@ -462,4 +462,19 @@
 {"country":"fro","name":"AB","id":"Argja_Bóltfelag","win":4,"draw":12,"loss":11,"for":34,"against":42},
 {"country":"fro","name":"FC Suðuroy","id":"FC_Suðuroy","win":6,"draw":4,"loss":17,"for":39,"against":68,"isRemoved":true,"isReturning":true},
 {"country":"fro","name":"EB/Streymur","id":"EB/Streymur","win":2,"draw":5,"loss":20,"for":27,"against":92,"isRemoved":true}
+][
+{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":25,"draw":8,"loss":3,"for":66,"against":24,"isChampion":true},
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":24,"draw":9,"loss":3,"for":76,"against":24},
+{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":18,"draw":6,"loss":12,"for":46,"against":37,"deduct":-2,"deducReason":"Racist chanting by fans"},
+{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":14,"draw":11,"loss":11,"for":45,"against":42},
+{"country":"isr","name":"Bnei Sakhnin","id":"Bnei_Sakhnin_F.C.","win":13,"draw":9,"loss":14,"for":46,"against":40},
+{"country":"isr","name":"Hapoel Ra'anana","id":"Hapoel_Ra%27anana_A.F.C.","win":11,"draw":9,"loss":16,"for":38,"against":48},
+{"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":13,"draw":7,"loss":13,"for":37,"against":43,"isReturning":true},
+{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":13,"draw":7,"loss":13,"for":34,"against":35},
+{"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":9,"draw":11,"loss":13,"for":23,"against":37,"isReturning":true},
+{"country":"isr","name":"Hapoel Acre","id":"Hapoel_Acre_F.C.","win":9,"draw":7,"loss":17,"for":27,"against":48,"isRemoved":true},
+{"country":"isr","name":"Ironi Kiryat Shmona","id":"Hapoel_Ironi_Kiryat_Shmona_F.C.","win":8,"draw":12,"loss":13,"for":32,"against":39},
+{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":10,"draw":12,"loss":11,"for":30,"against":37},
+{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":7,"draw":13,"loss":13,"for":38,"against":48},
+{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":1,"draw":9,"loss":23,"for":14,"against":50,"isRemoved":true}
 ]

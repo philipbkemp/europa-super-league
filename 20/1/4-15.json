@@ -474,4 +474,19 @@
 {"country":"fro","name":"AB","id":"Argja_Bóltfelag","win":6,"draw":7,"loss":14,"for":30,"against":61},
 {"country":"fro","name":"Skála ÍF","id":"Skála_ÍF","win":3,"draw":8,"loss":16,"for":19,"against":54,"isRemoved":true,"isReturning":true},
 {"country":"fro","name":"B68 Toftir","id":"B68_Toftir","win":4,"draw":5,"loss":18,"for":23,"against":60,"isRemoved":true,"isReturning":true}
+][
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":21,"draw":9,"loss":6,"for":67,"against":32,"isChampion":true,"deduct":-2},
+{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":17,"draw":11,"loss":8,"for":63,"against":40},
+{"country":"isr","name":"Ironi Kiryat Shmona","id":"Hapoel_Ironi_Kiryat_Shmona_F.C.","win":18,"draw":10,"loss":8,"for":53,"against":38},
+{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":13,"draw":13,"loss":10,"for":48,"against":43,"deduct":-1},
+{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":12,"draw":12,"loss":12,"for":34,"against":41},
+{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":14,"draw":8,"loss":14,"for":51,"against":37},
+{"country":"isr","name":"Hapoel Ra'anana","id":"Hapoel_Ra%27anana_A.F.C.","win":10,"draw":9,"loss":14,"for":35,"against":36},
+{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":11,"draw":8,"loss":14,"for":46,"against":54,"isReturning":true},
+{"country":"isr","name":"Bnei Sakhnin","id":"Bnei_Sakhnin_F.C.","win":11,"draw":11,"loss":11,"for":43,"against":44},
+{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":12,"draw":8,"loss":13,"for":36,"against":40,"deduct":-2},
+{"country":"isr","name":"F.C. Ashdod","id":"F.C._Ashdod","win":6,"draw":13,"loss":14,"for":32,"against":51,"isRemoved":true},
+{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":9,"draw":7,"loss":17,"for":25,"against":47},
+{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":8,"draw":8,"loss":17,"for":43,"against":59,"isRemoved":true,"isReturning":true},
+{"country":"isr","name":"Hapoel Acre","id":"Hapoel_Acre_F.C.","win":9,"draw":11,"loss":13,"for":28,"against":42}
 ]

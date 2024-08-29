@@ -1,4 +1,4 @@
-country = "ede";
+country = "isr";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
@@ -7,9 +7,18 @@ FOUND = false;
 tbl = $("#League, #Final_table, #Final_Table, #League_table, #League_Table, #League_standings, #Final_league_table, #Preliminary_stage, #Table, #Standings, #Final_standings");
 if ( tbl.length === 1 ) { FOUND = true; }
 
+tbl2 = $("#Regular_season, #Top_playoff, #Bottom_playoff");
+if ( tbl2.length === 3 ) { FOUND = true; ADD_TABLE_STATS = [false,false]; console.warn("Top/Bottom"); tbl=tbl2;}
+tbl2 = $("#Regular_season, #Top_Playoff, #Bottom_Playoff");
+if ( tbl2.length === 3 ) { FOUND = true; ADD_TABLE_STATS = [false,false]; console.warn("Top/Bottom"); tbl=tbl2;}
+tbl2 = $("#Regular_season, #Championship_round_table, #Relegation_round_table");
+if ( tbl2.length === 3 ) { FOUND = true; ADD_TABLE_STATS = [false,false]; console.warn("Championship/Relegation"); tbl=tbl2;}
+
+tbl2 = $("#Regular_season, #Top_Playoff, #Middle_Playoff, #Bottom_Playoff");
+if ( tbl2.length === 4 ) { FOUND = true; ADD_TABLE_STATS = [false,false,false]; console.warn("Top/Middle/Bottom"); tbl=tbl2;}
+tbl2 = $("#Regular_season, #Top_playoff, #Middle_playoff, #Bottom_playoff");
+if ( tbl2.length === 4 ) { FOUND = true; ADD_TABLE_STATS = [false,false,false]; console.warn("Top/Middle/Bottom"); tbl=tbl2;}
 /*
-tbl2 = $("#First_round, #Group_A, #Group_B, #Group_C");
-if ( tbl2.length === 4 ) { FOUND = true; ADD_TABLE_STATS = [false,false,false]; console.warn("ABC"); tbl=tbl2;}
 tbl2 = $("#League_table, #Championship_round, #Relegation_round");
 if ( tbl2.length === 3 ) { FOUND = true; ADD_TABLE_STATS = [false,false]; console.warn("Champ+Rel"); tbl=tbl2;}
 tbl2 = $("#Preliminary_stage, #Championship_playfoo");

@@ -476,4 +476,17 @@
 {"country":"fro","name":"KÍ","id":"Klaksvíkar_Ítróttarfelag","win":7,"draw":7,"loss":13,"for":31,"against":39},
 {"country":"fro","name":"B71 Sandoy","id":"B71_Sandoy","win":6,"draw":5,"loss":16,"for":26,"against":47,"isRemoved":true},
 {"country":"fro","name":"Skála IF","id":"Skála_ÍF","win":4,"draw":7,"loss":16,"for":22,"against":48,"isRemoved":true}
+][
+{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":19,"draw":10,"loss":4,"for":49,"against":24,"isChampion":true},
+{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":17,"draw":10,"loss":6,"for":49,"against":28},
+{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":16,"draw":12,"loss":5,"for":47,"against":28,"deduct":-3,"deductReason":"-2pts for pitch invasion; -1pt for racist behaviour"},
+{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":14,"draw":12,"loss":7,"for":40,"against":32},
+{"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":14,"draw":7,"loss":12,"for":38,"against":31},
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":11,"draw":11,"loss":11,"for":36,"against":35},
+{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":8,"draw":15,"loss":10,"for":26,"against":33},
+{"country":"isr","name":"F.C. Ironi Ashdod","id":"F.C._Ashdod","win":10,"draw":8,"loss":15,"for":41,"against":48},
+{"country":"isr","name":"Bnei Sakhnin","id":"Bnei_Sakhnin_F.C.","win":7,"draw":12,"loss":14,"for":26,"against":41},
+{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":8,"draw":7,"loss":18,"for":30,"against":42,"isReturning":true},
+{"country":"isr","name":"Hakoah Amidar Ramat Gan","id":"Hakoah_Amidar_Ramat_Gan_F.C.","win":6,"draw":11,"loss":16,"for":26,"against":46,"isRemoved":true,"isReturning":true},
+{"country":"isr","name":"Ironi Kiryat Shmona","id":"Hapoel_Ironi_Kiryat_Shmona_F.C.","win":6,"draw":9,"loss":18,"for":24,"against":44,"isRemoved":true}
 ]

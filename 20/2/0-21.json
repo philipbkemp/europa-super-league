@@ -475,4 +475,19 @@
 {"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":4,"draw":6,"loss":17,"for":20,"against":42},
 {"country":"fro","name":"Argja Bóltfelag","id":"Argja_Bóltfelag","win":1,"draw":7,"loss":19,"for":21,"against":73,"isRemoved":true},
 {"country":"fro","name":"Skála","id":"Skála_ÍF","win":1,"draw":4,"loss":22,"for":22,"against":72,"isRemoved":true}
+][
+{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":24,"draw":7,"loss":5,"for":72,"against":29,"isChampion":true},
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":21,"draw":12,"loss":3,"for":65,"against":33},
+{"country":"isr","name":"F.C. Ashdod","id":"F.C._Ashdod","win":15,"draw":9,"loss":12,"for":48,"against":39},
+{"country":"isr","name":"Ironi Kiryat Shmona","id":"Hapoel_Ironi_Kiryat_Shmona_F.C.","win":12,"draw":10,"loss":14,"for":37,"against":45},
+{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":11,"draw":15,"loss":10,"for":45,"against":43},
+{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":13,"draw":7,"loss":16,"for":32,"against":38,"isReturning":true},
+{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":13,"draw":9,"loss":11,"for":43,"against":34},
+{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":10,"draw":10,"loss":13,"for":40,"against":43},
+{"country":"isr","name":"Hapoel Hadera","id":"Hapoel_Hadera_F.C.","win":13,"draw":9,"loss":11,"for":40,"against":34},
+{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":11,"draw":9,"loss":13,"for":40,"against":48},
+{"country":"isr","name":"Bnei Sakhnin","id":"Bnei_Sakhnin_F.C.","win":9,"draw":7,"loss":17,"for":22,"against":45,"isReturning":true},
+{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":9,"draw":11,"loss":13,"for":24,"against":35},
+{"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":6,"draw":6,"loss":21,"for":26,"against":49,"isRemoved":true},
+{"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":8,"draw":9,"loss":16,"for":27,"against":46,"isRemoved":true}
 ]

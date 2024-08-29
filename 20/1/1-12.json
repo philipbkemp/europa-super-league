@@ -479,4 +479,21 @@
 {"country":"fro","name":"HB","id":"Havnar_Bóltfelag","win":7,"draw":5,"loss":15,"for":46,"against":56},
 {"country":"fro","name":"07 Vestur","id":"07_Vestur","win":6,"draw":6,"loss":15,"for":30,"against":65,"isRemoved":true,"isReturning":true},
 {"country":"fro","name":"B71 Sandoy","id":"B71_Sandoy","win":3,"draw":2,"loss":22,"for":25,"against":80,"isRemoved":true}
+][
+{"country":"isr","name":"Ironi Kiryat Shmona","id":"Hapoel_Ironi_Kiryat_Shmona_F.C.","win":21,"draw":10,"loss":6,"for":48,"against":26,"isChampion":true},
+{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":16,"draw":14,"loss":7,"for":63,"against":35,"deduct":-3,"deductReason":"Crowd riots"},
+{"country":"isr","name":"Bnei Sakhnin","id":"Bnei_Sakhnin_F.C.","win":15,"draw":7,"loss":15,"for":60,"against":53,"deduct":-2,"deductReason":"Contract issues with staff"},
+{"country":"isr","name":"F.C. Ironi Ashdod","id":"F.C._Ashdod","win":14,"draw":12,"loss":11,"for":44,"against":44},
+{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":17,"draw":8,"loss":12,"for":54,"against":48},
+{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":16,"draw":10,"loss":11,"for":56,"against":44},
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":16,"draw":7,"loss":14,"for":55,"against":43},
+{"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":16,"draw":11,"loss":10,"for":53,"against":36},
+{"country":"isr","name":"Hapoel Acre","id":"Hapoel_Acre_F.C.","win":13,"draw":9,"loss":15,"for":51,"against":45},
+{"country":"isr","name":"Ironi Nir Ramat HaSharon","id":"Hapoel_Nir_Ramat_HaSharon_F.C.","win":11,"draw":13,"loss":13,"for":37,"against":45,"isNew":true},
+{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":15,"draw":7,"loss":15,"for":32,"against":44,"deduct":-2,"deductReason":"Racist chants by fans"},
+{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":11,"draw":11,"loss":15,"for":41,"against":43},
+{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":12,"draw":7,"loss":18,"for":41,"against":61},
+{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":11,"draw":10,"loss":16,"for":39,"against":57,"isRemoved":true,"deduct":-3,"deductReason":"Assaulting an opposition player"},
+{"country":"isr","name":"Hapoel Rishon LeZion","id":"Hapoel_Rishon_LeZion_F.C.","win":6,"draw":9,"loss":22,"for":39,"against":70,"isRemoved":true,"isReturning":true},
+{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":8,"draw":11,"loss":18,"for":36,"against":55,"deduct":-9,"deductReason":"Entering Adminstration","isRemoved":true}
 ]

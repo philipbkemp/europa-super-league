@@ -459,4 +459,19 @@
 {"country":"fro","name":"B68 Toftir","id":"B68_Toftir","win":3,"draw":5,"loss":12,"for":13,"against":35,"isCurrentSeason":true},
 {"country":"fro","name":"EB/Streymur","id":"EB/Streymur","win":4,"draw":1,"loss":15,"for":17,"against":41,"isCurrentSeason":true},
 {"country":"fro","name":"ÍF","id":"Ítróttarfelag_Fuglafjarðar","win":0,"draw":4,"loss":16,"for":18,"against":62,"isCurrentSeason":true}
+][
+{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":1,"draw":0,"loss":0,"for":4,"against":0,"isCurrentSeason":true},
+{"country":"isr","name":"Bnei Sakhnin","id":"Bnei_Sakhnin_F.C.","win":1,"draw":0,"loss":0,"for":2,"against":0,"isCurrentSeason":true},
+{"country":"isr","name":"Maccabi Bnei Reineh","id":"Maccabi_Bnei_Reineh_F.C.","win":1,"draw":0,"loss":0,"for":4,"against":3,"isCurrentSeason":true},
+{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":1,"draw":0,"loss":0,"for":3,"against":2,"isCurrentSeason":true},
+{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":1,"draw":0,"loss":0,"for":1,"against":0,"isCurrentSeason":true},
+{"country":"isr","name":"Hapoel Hadera","id":"Hapoel_Hadera_F.C.","win":0,"draw":1,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":0,"draw":1,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"isr","name":"Hapoel Jerusalem","id":"Hapoel_Jerusalem_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":0,"draw":0,"loss":1,"for":3,"against":4,"isCurrentSeason":true},
+{"country":"isr","name":"F.C. Ashdod","id":"F.C._Ashdod","win":0,"draw":0,"loss":1,"for":2,"against":3,"isCurrentSeason":true},
+{"country":"isr","name":"Ironi Kiryat Shmona","id":"Hapoel_Ironi_Kiryat_Shmona_F.C.","win":0,"draw":0,"loss":1,"for":0,"against":1,"isCurrentSeason":true,"isReturning":true},
+{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":0,"draw":0,"loss":1,"for":0,"against":2,"isCurrentSeason":true},
+{"country":"isr","name":"Ironi Tiberias","id":"Ironi_Tiberias_F.C.","win":0,"draw":0,"loss":1,"for":0,"against":4,"isCurrentSeason":true,"isNew":true}
 ]
