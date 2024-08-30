@@ -496,4 +496,17 @@
 {"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":11,"draw":10,"loss":16,"for":39,"against":57,"isRemoved":true,"deduct":-3,"deductReason":"Assaulting an opposition player"},
 {"country":"isr","name":"Hapoel Rishon LeZion","id":"Hapoel_Rishon_LeZion_F.C.","win":6,"draw":9,"loss":22,"for":39,"against":70,"isRemoved":true,"isReturning":true},
 {"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":8,"draw":11,"loss":18,"for":36,"against":55,"deduct":-9,"deductReason":"Entering Adminstration","isRemoved":true}
+][
+{"country":"geo","name":"Zestafoni","id":"FC_Zestaponi","win":33,"draw":10,"loss":7,"for":97,"against":45,"isChampion":true},
+{"country":"geo","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":24,"draw":13,"loss":13,"for":91,"against":59},
+{"country":"geo","name":"Torpedo Kutaisi","id":"FC_Torpedo_Kutaisi","win":27,"draw":10,"loss":13,"for":66,"against":44},
+{"country":"geo","name":"Metalurgi Rustavi","id":"FC_Metalurgi_Rustavi","win":26,"draw":10,"loss":14,"for":64,"against":54},
+{"country":"geo","name":"Merani Martvili","id":"FC_Merani_Martvili","win":15,"draw":6,"loss":29,"for":54,"against":81,"isNew":true},
+{"country":"geo","name":"Baia Zugdidi","id":"Dinamo_Zugdidi","win":13,"draw":11,"loss":26,"for":46,"against":74},
+{"country":"geo","name":"Dila Gori","id":"FC_Dila_Gori","win":17,"draw":12,"loss":21,"for":67,"against":60,"isReturning":true},
+{"country":"geo","name":"Kolkheti Poti","id":"FC_Kolkheti-1913_Poti","win":13,"draw":16,"loss":21,"for":44,"against":63},
+{"country":"geo","name":"WIT Georgia","id":"FC_WIT_Georgia","win":13,"draw":9,"loss":14,"for":42,"against":38},
+{"country":"geo","name":"Spartaki Tskhinvali","id":"FC_Tskhinvali","win":12,"draw":9,"loss":15,"for":41,"against":48,"isRemoved":true,"isReturning":true},
+{"country":"geo","name":"Gagra","id":"FC_Gagra","win":9,"draw":7,"loss":20,"for":35,"against":53,"isRemoved":true,"isReturning":true},
+{"country":"geo","name":"Sioni Bolnisi","id":"FC_Sioni_Bolnisi","win":8,"draw":12,"loss":16,"for":36,"against":50}
 ]

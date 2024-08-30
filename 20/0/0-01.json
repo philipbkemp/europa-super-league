@@ -494,4 +494,17 @@
 {"country":"isr","name":"F.C. Ashdod","id":"F.C._Ashdod","win":10,"draw":8,"loss":20,"for":44,"against":57},
 {"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":8,"draw":9,"loss":21,"for":38,"against":64,"isRemoved":true},
 {"country":"isr","name":"Tzafririm Holon","id":"Hapoel_Tzafririm_Holon_F.C.","win":4,"draw":4,"loss":30,"for":25,"against":85,"isRemoved":true,"isReturning":true}
+][
+{"country":"geo","name":"Locomotive Tbilisi","id":"FC_Locomotive_Tbilisi","win":21,"draw":6,"loss":5,"for":49,"against":16,"isReturning":true},
+{"country":"geo","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":18,"draw":8,"loss":6,"for":65,"against":29,"isReturning":true},
+{"country":"geo","name":"Torpedo Kutaisi","id":"FC_Torpedo_Kutaisi","win":20,"draw":8,"loss":4,"for":48,"against":14,"isChampion":true,"isReturning":true},
+{"country":"geo","name":"WIT Georgia","id":"FC_WIT_Georgia","win":14,"draw":12,"loss":6,"for":43,"against":24,"isReturning":true},
+{"country":"geo","name":"Merani-91 Tbilisi","id":"FC_Merani_Tbilisi","win":9,"draw":11,"loss":12,"for":24,"against":36,"deduct":-3,"deductReason":"Allegations of match fixing","isReturning":true},
+{"country":"geo","name":"Kolkheti-1913 Poti","id":"FC_Kolkheti-1913_Poti","win":10,"draw":9,"loss":13,"for":32,"against":37,"isReturning":true},
+{"country":"geo","name":"Dinamo Batumi","id":"FC_Dinamo_Batumi","win":13,"draw":7,"loss":12,"for":47,"against":36,"isReturning":true},
+{"country":"geo","name":"Sioni Bolnisi","id":"FC_Sioni_Bolnisi","win":12,"draw":7,"loss":13,"for":31,"against":40,"deduct":-3,"deductReason":"Allegations of match fixing","isReturning":true},
+{"country":"geo","name":"TSU Armazi Tbilisi","id":"TSU_Tbilisi","win":9,"draw":5,"loss":18,"for":30,"against":54,"isRemoved":true,"isReturning":true},
+{"country":"geo","name":"Dila Gori","id":"FC_Dila_Gori","win":10,"draw":4,"loss":18,"for":33,"against":55,"isRemoved":true,"isReturning":true},
+{"country":"geo","name":"Gorda Rustavi","id":"FC_Metalurgi_Rustavi","win":8,"draw":11,"loss":13,"for":32,"against":42,"isReturning":true},
+{"country":"geo","name":"Iberia Samtredia","id":"FC_Samtredia","win":0,"draw":4,"loss":28,"for":10,"against":73,"isRemoved":true,"isReturning":true}
 ]

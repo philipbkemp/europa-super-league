@@ -476,4 +476,15 @@
 {"country":"isr","name":"Ironi Tiberias","id":"Ironi_Tiberias_F.C.","win":0,"draw":0,"loss":1,"for":0,"against":4,"isCurrentSeason":true,"isNew":true}
 ][
 	/* San Marino (SMR) not yet started */
+][
+{"country":"geo","name":"Dila Gori","id":"FC_Dila_Gori","win":13,"draw":8,"loss":1,"for":35,"against":12,"isCurrentSeason":true},
+{"country":"geo","name":"Torpedo Kutaisi","id":"FC_Torpedo_Kutaisi","win":12,"draw":5,"loss":4,"for":37,"against":26,"isCurrentSeason":true},
+{"country":"geo","name":"Iberia 1999","id":"FC_Iberia_1999","win":12,"draw":3,"loss":6,"for":40,"against":31,"isCurrentSeason":true},
+{"country":"geo","name":"Dinamo Batumi","id":"FC_Dinamo_Batumi","win":9,"draw":7,"loss":6,"for":26,"against":23,"isCurrentSeason":true},
+{"country":"geo","name":"Kolkheti-1913","id":"FC_Kolkheti-1913_Poti","win":6,"draw":9,"loss":7,"for":31,"against":34,"isCurrentSeason":true,"isReturning":true},
+{"country":"geo","name":"Samgurali Tsqaltubo","id":"FC_Samgurali_Tsqaltubo","win":7,"draw":5,"loss":10,"for":27,"against":27,"isCurrentSeason":true},
+{"country":"geo","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":6,"draw":7,"loss":9,"for":18,"against":25,"isCurrentSeason":true},
+{"country":"geo","name":"Telavi","id":"FC_Telavi","win":5,"draw":7,"loss":10,"for":17,"against":23,"isCurrentSeason":true},
+{"country":"geo","name":"Gagra","id":"FC_Gagra","win":6,"draw":3,"loss":13,"for":20,"against":28,"isCurrentSeason":true},
+{"country":"geo","name":"Samtredia","id":"FC_Samtredia","win":2,"draw":8,"loss":12,"for":18,"against":40,"isCurrentSeason":true}
 ]

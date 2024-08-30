@@ -484,4 +484,21 @@
 {"country":"isr","name":"Maccabi Herzliya","id":"Maccabi_Herzliya_F.C.","win":9,"draw":5,"loss":16,"for":19,"against":28},
 {"country":"isr","name":"Tzafririm Holon","id":"Hapoel_Tzafririm_Holon_F.C.","win":4,"draw":9,"loss":17,"for":17,"against":43,"isRemoved":true},
 {"country":"isr","name":"Hapoel Tayibe","id":"Hapoel_Tayibe_F.C.","win":4,"draw":3,"loss":23,"for":19,"against":66,"isRemoved":true,"isNew":true}
+][
+{"country":"geo","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":26,"draw":3,"loss":1,"for":101,"against":23,"isChampion":true},
+{"country":"geo","name":"Kolkheti-1913 Poti","id":"FC_Kolkheti-1913_Poti","win":20,"draw":4,"loss":6,"for":75,"against":28},
+{"country":"geo","name":"Dinamo Batumi","id":"FC_Dinamo_Batumi","win":18,"draw":8,"loss":4,"for":71,"against":22},
+{"country":"geo","name":"Merani-91 Tbilisi","id":"FC_Merani_Tbilisi","win":18,"draw":6,"loss":6,"for":53,"against":28,"isNew":true},
+{"country":"geo","name":"Torpedo Kutaisi","id":"FC_Torpedo_Kutaisi","win":14,"draw":4,"loss":12,"for":70,"against":58},
+{"country":"geo","name":"Odishi Zugdidi","id":"Dinamo_Zugdidi","win":13,"draw":1,"loss":16,"for":51,"against":57},
+{"country":"geo","name":"Margveti Zestafoni","id":"FC_Margveti_Zestaponi","win":12,"draw":2,"loss":16,"for":44,"against":66},
+{"country":"geo","name":"Dila Gori","id":"FC_Dila_Gori","win":10,"draw":7,"loss":13,"for":30,"against":39},
+{"country":"geo","name":"Sioni Bolnisi","id":"FC_Sioni_Bolnisi","win":10,"draw":6,"loss":14,"for":30,"against":39},
+{"country":"geo","name":"Metalurgi Rustavi","id":"FC_Metalurgi_Rustavi","win":11,"draw":2,"loss":17,"for":44,"against":57},
+{"country":"geo","name":"Samgurali Tskhaltubo","id":"FC_Samgurali_Tsqaltubo","win":10,"draw":5,"loss":15,"for":35,"against":54,"isReturning":true},
+{"country":"geo","name":"TSU Tbilisi","id":"TSU_Tbilisi","win":8,"draw":10,"loss":12,"for":37,"against":40,"isNew":true},
+{"country":"geo","name":"Guria Lanchkhuti","id":"FC_Guria_Lanchkhuti","win":10,"draw":3,"loss":17,"for":33,"against":63},
+{"country":"geo","name":"Samtredia","id":"FC_Samtredia","win":9,"draw":4,"loss":17,"for":31,"against":57,"isRemoved":true,"deduct":-5},
+{"country":"geo","name":"Kakheti Telavi","id":"FC_Kakheti_Telavi","win":10,"draw":1,"loss":19,"for":29,"against":66,"isRemoved":true,"deduct":-5},
+{"country":"geo","name":"Iveria Khashuri","id":"FC_Iveria_Khashuri","win":5,"draw":6,"loss":19,"for":24,"against":61,"isRemoved":true}
 ]

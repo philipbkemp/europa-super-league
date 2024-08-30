@@ -505,7 +505,6 @@
 {"country":"sov","name":"Dinamo Moscow","id":"FC_Dynamo_Moscow","win":9,"draw":12,"loss":9,"for":31,"against":26},
 {"country":"sov","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":11,"draw":7,"loss":12,"for":35,"against":33},
 {"country":"sov","name":"Rotor Volgograd","id":"FC_Rotor_Volgograd","win":9,"draw":9,"loss":12,"for":28,"against":35,"isReturning":true},
-{"country":"sov","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":6,"draw":13,"loss":11,"for":27,"against":32,"isRemoved":true,"removedNote":"Quit USSR FA to join newly formed national FA"},
 {"country":"sov","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":8,"draw":8,"loss":14,"for":25,"against":41},
 {"country":"sov","name":"Pamir Dushanbe","id":"CSKA_Pamir_Dushanbe","win":7,"draw":10,"loss":13,"for":20,"against":38,"isNew":true},
 {"country":"sov","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":9,"draw":5,"loss":16,"for":24,"against":36},
@@ -597,4 +596,23 @@
 {"country":"smr","name":"S.S. Virtus","id":"AC_Virtus","win":5,"draw":3,"loss":10,"for":22,"against":32},
 {"country":"smr","name":"G.S. Dogana","id":"G.S._Dogana","win":2,"draw":3,"loss":13,"for":23,"against":44,"isRemoved":true},
 {"country":"smr","name":"S.P. Cailungo","id":"SP_Cailungo","win":0,"draw":2,"loss":16,"for":13,"against":66,"isRemoved":true,"isReturning":true}
+][
+{"country":"geo","name":"Iberia Tbilisi","id":"FC_Dinamo_Tbilisi","win":24,"draw":6,"loss":4,"for":91,"against":23,"isChampion":true},
+{"country":"geo","name":"Guria Lanchkhuti","id":"FC_Guria_Lanchkhuti","win":22,"draw":6,"loss":6,"for":73,"against":20,"isReturning":true},
+{"country":"geo","name":"Gorda Rustavi","id":"FC_Metalurgi_Rustavi","win":22,"draw":3,"loss":9,"for":63,"against":33,"isNew":true},
+{"country":"geo","name":"Kutaisi","id":"FC_Torpedo_Kutaisi","win":20,"draw":5,"loss":9,"for":62,"against":33,"isReturning":true},
+{"country":"geo","name":"Kolkheti-1913 Poti","id":"FC_Kolkheti-1913_Poti","win":19,"draw":5,"loss":10,"for":53,"against":31,"isNew":true},
+{"country":"geo","name":"Batumi","id":"FC_Dinamo_Batumi","win":18,"draw":7,"loss":9,"for":56,"against":28,"isNew":true},
+{"country":"geo","name":"Tskhumi Sukhumi","id":"FC_Tskhumi_Sukhumi","win":13,"draw":10,"loss":11,"for":50,"against":36,"isNew":true},
+{"country":"geo","name":"Odishi Zugdidi","id":"Dinamo_Zugdidi","win":12,"draw":10,"loss":12,"for":47,"against":38,"isNew":true},
+{"country":"geo","name":"Mertskhali Ozurgeti","id":"FC_Mertskhali_Ozurgeti","win":11,"draw":10,"loss":13,"for":49,"against":47,"isNew":true},
+{"country":"geo","name":"Dila Gori","id":"FC_Dila_Gori","win":12,"draw":6,"loss":16,"for":52,"against":58,"isNew":true},
+{"country":"geo","name":"Kolkheti Khobi","id":"FC_Kolkheti_Khobi","win":11,"draw":8,"loss":15,"for":42,"against":43,"isNew":true},
+{"country":"geo","name":"Sanavardo Samtredia","id":"FC_Samtredia","win":11,"draw":7,"loss":16,"for":35,"against":50,"isNew":true},
+{"country":"geo","name":"Mziuri Gali","id":"FC_Mziuri_Gali","win":11,"draw":7,"loss":16,"for":47,"against":69,"isNew":true},
+{"country":"geo","name":"Samgurali Tskhaltubo","id":"FC_Samgurali_Tsqaltubo","win":11,"draw":6,"loss":17,"for":42,"against":57,"isNew":true},
+{"country":"geo","name":"Iveria Khashuri","id":"FC_Iveria_Khashuri","win":11,"draw":5,"loss":18,"for":33,"against":61,"isNew":true},
+{"country":"geo","name":"Shevardeni-1906 Tbilisi","id":"FC_Shevardeni-1906_Tbilisi","win":10,"draw":8,"loss":16,"for":39,"against":64,"isNew":true},
+{"country":"geo","name":"Amirani Ochamchire","id":"FC_Amirani_Ochamchire","win":10,"draw":7,"loss":17,"for":36,"against":55,"isNew":true},
+{"country":"geo","name":"Liakhvi Tskhinvali","id":"FC_Liakhvi_Tskhinvali","win":0,"draw":0,"loss":34,"for":11,"against":135,"isRemoved":true,"isNew":true}
 ]

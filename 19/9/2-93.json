@@ -545,4 +545,22 @@
 {"country":"smr","name":"S.S. Juvenes","id":"S.S._Juvenes","win":5,"draw":3,"loss":10,"for":22,"against":13},
 {"country":"smr","name":"S.P. Tre Penne","id":"SP_Tre_Penne","win":3,"draw":4,"loss":11,"for":27,"against":41,"isRemoved":true,"isReturning":true},
 {"country":"smr","name":"S.S. Virtus","id":"AC_Virtus","win":2,"draw":4,"loss":12,"for":16,"against":49,"isRemoved":true,"isReturning":true}
+][
+{"country":"geo","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":25,"draw":2,"loss":5,"for":92,"against":35,"isChampion":true,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Shevardeni-1906 Tbilisi","id":"FC_Shevardeni-1906_Tbilisi","win":20,"draw":4,"loss":8,"for":66,"against":39,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Alazani Gurjaani","id":"FC_Alazani_Gurjaani","win":20,"draw":3,"loss":9,"for":70,"against":47,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Samgurali Tskhaltubo","id":"FC_Samgurali_Tsqaltubo","win":18,"draw":4,"loss":10,"for":73,"against":51,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Torpedo Kutaisi","id":"FC_Torpedo_Kutaisi","win":16,"draw":4,"loss":12,"for":66,"against":53,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Margveti Zestafoni","id":"FC_Margveti_Zestaponi","win":15,"draw":5,"loss":12,"for":49,"against":54,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Metalurgi Rustavi","id":"FC_Metalurgi_Rustavi","win":14,"draw":7,"loss":11,"for":73,"against":69,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Kakheti Telavi","id":"FC_Kakheti_Telavi","win":14,"draw":3,"loss":15,"for":50,"against":59,"isNew":true,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Kolkheti-1913 Poti","id":"FC_Kolkheti-1913_Poti","win":12,"draw":6,"loss":14,"for":47,"against":45,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Lokomotivi Samtredia","id":"FC_Samtredia","win":12,"draw":4,"loss":16,"for":33,"against":49,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Batumi","id":"FC_Dinamo_Batumi","win":11,"draw":6,"loss":15,"for":56,"against":56,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Guria Lanchkhuti","id":"FC_Guria_Lanchkhuti","win":12,"draw":2,"loss":18,"for":37,"against":57,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Dila Gori","id":"FC_Dila_Gori","win":11,"draw":5,"loss":16,"for":39,"against":49,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Odishi Zugdidi","id":"Dinamo_Zugdidi","win":11,"draw":3,"loss":18,"for":52,"against":64,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Iveria Khashuri","id":"FC_Iveria_Khashuri","win":10,"draw":4,"loss":18,"for":38,"against":63,"isReturning":true,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Mretebi Tbilisi","id":"FC_Mretebi_Tbilisi","win":10,"draw":3,"loss":19,"for":38,"against":64,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
+{"country":"geo","name":"Tskhumi Sukhumi","id":"FC_Tskhumi_Sukhumi","win":8,"draw":1,"loss":23,"for":59,"against":84,"isRemoved":true,"removedNote":"League moved to a regional league next season"}
 ]

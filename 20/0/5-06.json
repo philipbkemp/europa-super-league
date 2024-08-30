@@ -485,4 +485,21 @@
 {"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":8,"draw":10,"loss":15,"for":30,"against":41,"isReturning":true},
 {"country":"isr","name":"Hapoel Nazareth Illit","id":"Hapoel_Nof_HaGalil_F.C.","win":8,"draw":10,"loss":15,"for":25,"against":47,"isRemoved":true},
 {"country":"isr","name":"Bnei Sakhnin","id":"Bnei_Sakhnin_F.C.","win":5,"draw":10,"loss":18,"for":28,"against":54,"isRemoved":true}
+][
+{"country":"geo","name":"Sioni Bolnisi","id":"FC_Sioni_Bolnisi","win":23,"draw":4,"loss":3,"for":57,"against":17,"isChampion":true},
+{"country":"geo","name":"WIT Georgia","id":"FC_WIT_Georgia","win":21,"draw":5,"loss":4,"for":53,"against":17},
+{"country":"geo","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":20,"draw":4,"loss":6,"for":61,"against":22},
+{"country":"geo","name":"Zestafoni","id":"FC_Zestaponi","win":18,"draw":7,"loss":5,"for":44,"against":22},
+{"country":"geo","name":"Borjomi","id":"FC_Borjomi","win":19,"draw":2,"loss":9,"for":50,"against":26,"isNew":true},
+{"country":"geo","name":"Dinamo Batumi","id":"FC_Dinamo_Batumi","win":17,"draw":7,"loss":6,"for":42,"against":21},
+{"country":"geo","name":"Ameri Tbilisi","id":"FC_Ameri_Tbilisi","win":15,"draw":4,"loss":11,"for":32,"against":26,"isNew":true},
+{"country":"geo","name":"Locomotive Tbilisi","id":"FC_Locomotive_Tbilisi","win":11,"draw":4,"loss":15,"for":41,"against":48},
+{"country":"geo","name":"Kakheti Telavi","id":"FC_Kakheti_Telavi","win":10,"draw":4,"loss":16,"for":33,"against":46,"isReturning":true},
+{"country":"geo","name":"Kolkheti-1913 Poti","id":"FC_Kolkheti-1913_Poti","win":9,"draw":5,"loss":16,"for":26,"against":36,"isRemoved":true,"removedNote":"Relegated due to financial irregularities"},
+{"country":"geo","name":"Dila Gori","id":"FC_Dila_Gori","win":9,"draw":4,"loss":17,"for":35,"against":44},
+{"country":"geo","name":"Torpedo Kutaisi","id":"FC_Torpedo_Kutaisi","win":8,"draw":6,"loss":16,"for":28,"against":42},
+{"country":"geo","name":"FC Tbilisi","id":"FC_Tbilisi","win":9,"draw":2,"loss":19,"for":29,"against":44,"isRemoved":true},
+{"country":"geo","name":"Tskhinvali","id":"FC_Tskhinvali","win":8,"draw":3,"loss":19,"for":30,"against":61,"isRemoved":true,"isNew":true},
+{"country":"geo","name":"Dinamo Sukhumi","id":"FC_ASMC_Sukhumi","win":5,"draw":3,"loss":22,"for":26,"against":70,"isRemoved":true,"isNew":true},
+{"country":"geo","name":"Spartaki Tbilisi","id":"FC_Spartaki_Tbilisi","win":3,"draw":6,"loss":21,"for":12,"against":57,"isRemoved":true,"isReturning":true}
 ]

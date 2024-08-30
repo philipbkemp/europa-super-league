@@ -489,4 +489,19 @@
 {"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":10,"draw":7,"loss":16,"for":28,"against":39},
 {"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":9,"draw":10,"loss":14,"for":37,"against":54,"isRemoved":true},
 {"country":"isr","name":"Maccabi Herzliya","id":"Maccabi_Herzliya_F.C.","win":7,"draw":9,"loss":17,"for":32,"against":51,"isRemoved":true}
+][
+{"country":"geo","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":23,"draw":1,"loss":2,"for":67,"against":18,"isChampion":true},
+{"country":"geo","name":"WIT Georgia","id":"FC_WIT_Georgia","win":19,"draw":3,"loss":4,"for":45,"against":14},
+{"country":"geo","name":"Zestafoni","id":"FC_Zestaponi","win":18,"draw":5,"loss":3,"for":56,"against":16},
+{"country":"geo","name":"Olimpi Rustavi","id":"FC_Metalurgi_Rustavi","win":16,"draw":4,"loss":6,"for":26,"against":16},
+{"country":"geo","name":"Ameri Tbilisi","id":"FC_Ameri_Tbilisi","win":15,"draw":3,"loss":8,"for":48,"against":27},
+{"country":"geo","name":"Meskheti Akhaltsikhe","id":"FC_Meskheti_Akhaltsikhe","win":11,"draw":6,"loss":9,"for":29,"against":30,"isNew":true},
+{"country":"geo","name":"Mglebi Zugdidi","id":"Dinamo_Zugdidi","win":10,"draw":3,"loss":13,"for":27,"against":33,"isReturning":true},
+{"country":"geo","name":"Sioni Bolnisi","id":"FC_Sioni_Bolnisi","win":9,"draw":5,"loss":12,"for":34,"against":35},
+{"country":"geo","name":"Borjomi","id":"FC_Borjomi","win":9,"draw":4,"loss":13,"for":32,"against":39},
+{"country":"geo","name":"Locomotive Tbilisi","id":"FC_Locomotive_Tbilisi","win":7,"draw":6,"loss":13,"for":27,"against":35},
+{"country":"geo","name":"Spartaki Tskhinvali (O)","id":"FC_Tskhinvali","win":5,"draw":8,"loss":13,"for":15,"against":28,"isReturning":true},
+{"country":"geo","name":"Merani Tbilisi","id":"FC_Merani_Tbilisi","win":6,"draw":1,"loss":19,"for":15,"against":54,"isRemoved":true},
+{"country":"geo","name":"Dinamo Batumi","id":"FC_Dinamo_Batumi","win":4,"draw":4,"loss":18,"for":16,"against":51,"isRemoved":true},
+{"country":"geo","name":"Dila Gori","id":"FC_Dila_Gori","win":1,"draw":5,"loss":20,"for":12,"against":53,"isRemoved":true}
 ]

@@ -481,4 +481,15 @@
 {"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":8,"draw":12,"loss":13,"for":33,"against":51,"isRemoved":true},
 {"country":"isr","name":"F.C. Ashdod","id":"F.C._Ashdod","win":10,"draw":7,"loss":16,"for":34,"against":54},
 {"country":"isr","name":"Bnei Sakhnin","id":"Bnei_Sakhnin_F.C.","win":5,"draw":12,"loss":16,"for":27,"against":50,"isRemoved":true}
+][
+{"country":"geo","name":"Saburtalo Tbilisi","id":"FC_Iberia_1999","win":24,"draw":7,"loss":5,"for":64,"against":29,"isChampion":true},
+{"country":"geo","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":21,"draw":6,"loss":9,"for":73,"against":38},
+{"country":"geo","name":"Torpedo Kutaisi","id":"FC_Torpedo_Kutaisi","win":20,"draw":9,"loss":7,"for":66,"against":25},
+{"country":"geo","name":"Chikhura Sachkhere","id":"FC_Chikhura_Sachkhere","win":19,"draw":7,"loss":10,"for":54,"against":33},
+{"country":"geo","name":"Dila Gori","id":"FC_Dila_Gori","win":17,"draw":12,"loss":7,"for":60,"against":40},
+{"country":"geo","name":"Locomotive Tbilisi","id":"FC_Locomotive_Tbilisi","win":12,"draw":8,"loss":16,"for":43,"against":55},
+{"country":"geo","name":"Rustavi","id":"FC_Rustavi","win":8,"draw":13,"loss":15,"for":33,"against":44,"isNew":true},
+{"country":"geo","name":"Sioni Bolnisi (O)","id":"FC_Sioni_Bolnisi","win":8,"draw":7,"loss":21,"for":39,"against":65,"isReturning":true},
+{"country":"geo","name":"Samtredia","id":"FC_Samtredia","win":4,"draw":9,"loss":23,"for":28,"against":81,"isRemoved":true},
+{"country":"geo","name":"Kolkheti Poti","id":"FC_Kolkheti-1913_Poti","win":4,"draw":8,"loss":24,"for":26,"against":76,"isRemoved":true,"deduct":-6}
 ]

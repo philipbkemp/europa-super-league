@@ -506,4 +506,15 @@
 {"country":"smr","name":"Faetano","id":"SC_Faetano","win":2,"draw":4,"loss":8,"for":14,"against":26},
 {"country":"smr","name":"Cailungo","id":"SP_Cailungo","win":2,"draw":2,"loss":10,"for":17,"against":29},
 {"country":"smr","name":"Cosmos","id":"S.S._Cosmos","win":1,"draw":1,"loss":12,"for":10,"against":40}
+][
+{"country":"geo","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":12,"draw":4,"loss":2,"for":33,"against":9,"isChampion":true},
+{"country":"geo","name":"Dinamo Batumi","id":"FC_Dinamo_Batumi","win":10,"draw":6,"loss":2,"for":29,"against":14},
+{"country":"geo","name":"Dila Gori","id":"FC_Dila_Gori","win":8,"draw":6,"loss":4,"for":29,"against":17},
+{"country":"geo","name":"Locomotive Tbilisi","id":"FC_Locomotive_Tbilisi","win":8,"draw":5,"loss":5,"for":30,"against":23},
+{"country":"geo","name":"Saburtalo","id":"FC_Iberia_1999","win":7,"draw":6,"loss":5,"for":28,"against":21},
+{"country":"geo","name":"Telavi","id":"FC_Telavi","win":4,"draw":12,"loss":2,"for":21,"against":14,"isNew":true},
+{"country":"geo","name":"Samtredia","id":"FC_Samtredia","win":5,"draw":4,"loss":9,"for":14,"against":23,"isReturning":true},
+{"country":"geo","name":"Torpedo Kutaisi (O)","id":"FC_Torpedo_Kutaisi","win":4,"draw":5,"loss":9,"for":17,"against":30},
+{"country":"geo","name":"Chikhura","id":"FC_Chikhura_Sachkhere","win":3,"draw":4,"loss":11,"for":18,"against":40,"isRemoved":true},
+{"country":"geo","name":"Merani Tbilisi","id":"FC_Merani_Tbilisi","win":0,"draw":6,"loss":12,"for":6,"against":34,"isRemoved":true,"isReturning":true}
 ]

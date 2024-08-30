@@ -488,4 +488,19 @@
 {"country":"isr","name":"Maccabi Herzliya","id":"Maccabi_Herzliya_F.C.","win":9,"draw":7,"loss":17,"for":47,"against":55,"isReturning":true},
 {"country":"isr","name":"Hakoah Amidar Ramat Gan","id":"Hakoah_Amidar_Ramat_Gan_F.C.","win":6,"draw":10,"loss":17,"for":32,"against":54,"isRemoved":true,"isReturning":true},
 {"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":3,"draw":10,"loss":20,"for":29,"against":61,"isRemoved":true,"deduct":-3}
+][
+{"country":"geo","name":"Olimpi Rustavi","id":"FC_Metalurgi_Rustavi","win":19,"draw":6,"loss":1,"for":57,"against":9,"isChampion":true,"isReturning":true},
+{"country":"geo","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":20,"draw":2,"loss":4,"for":57,"against":19},
+{"country":"geo","name":"Ameri Tbilisi","id":"FC_Ameri_Tbilisi","win":17,"draw":6,"loss":3,"for":53,"against":14},
+{"country":"geo","name":"Zestafoni","id":"FC_Zestaponi","win":16,"draw":9,"loss":1,"for":55,"against":11},
+{"country":"geo","name":"WIT Georgia","id":"FC_WIT_Georgia","win":12,"draw":9,"loss":5,"for":40,"against":28},
+{"country":"geo","name":"Sioni Bolnisi","id":"FC_Sioni_Bolnisi","win":11,"draw":4,"loss":11,"for":28,"against":26},
+{"country":"geo","name":"Torpedo Kutaisi","id":"FC_Torpedo_Kutaisi","win":9,"draw":4,"loss":13,"for":24,"against":35,"isRemoved":true},
+{"country":"geo","name":"Locomotive Tbilisi","id":"FC_Locomotive_Tbilisi","win":8,"draw":6,"loss":12,"for":25,"against":34},
+{"country":"geo","name":"Dinamo Batumi","id":"FC_Dinamo_Batumi","win":8,"draw":6,"loss":12,"for":27,"against":30},
+{"country":"geo","name":"Borjomi","id":"FC_Borjomi","win":8,"draw":6,"loss":12,"for":29,"against":35},
+{"country":"geo","name":"Merani Tbilisi","id":"FC_Merani_Tbilisi","win":6,"draw":8,"loss":12,"for":20,"against":41,"isReturning":true},
+{"country":"geo","name":"Chikhura Sachkhere","id":"FC_Chikhura_Sachkhere","win":5,"draw":6,"loss":15,"for":13,"against":46,"isRemoved":true,"isNew":true},
+{"country":"geo","name":"Dila Gori","id":"FC_Dila_Gori","win":3,"draw":6,"loss":17,"for":21,"against":56},
+{"country":"geo","name":"Kakheti Telavi","id":"FC_Kakheti_Telavi","win":0,"draw":2,"loss":24,"for":21,"against":86,"isRemoved":true}
 ]

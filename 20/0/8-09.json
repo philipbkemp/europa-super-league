@@ -489,4 +489,17 @@
 {"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":8,"draw":7,"loss":18,"for":30,"against":42,"isReturning":true},
 {"country":"isr","name":"Hakoah Amidar Ramat Gan","id":"Hakoah_Amidar_Ramat_Gan_F.C.","win":6,"draw":11,"loss":16,"for":26,"against":46,"isRemoved":true,"isReturning":true},
 {"country":"isr","name":"Ironi Kiryat Shmona","id":"Hapoel_Ironi_Kiryat_Shmona_F.C.","win":6,"draw":9,"loss":18,"for":24,"against":44,"isRemoved":true}
+][
+{"country":"geo","name":"WIT Georgia","id":"FC_WIT_Georgia","win":20,"draw":9,"loss":1,"for":57,"against":19,"isChampion":true},
+{"country":"geo","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":19,"draw":6,"loss":5,"for":70,"against":21},
+{"country":"geo","name":"Olimpi Rustavi","id":"FC_Metalurgi_Rustavi","win":16,"draw":9,"loss":5,"for":40,"against":20},
+{"country":"geo","name":"Zestafoni","id":"FC_Zestaponi","win":16,"draw":4,"loss":10,"for":43,"against":27},
+{"country":"geo","name":"Sioni Bolnisi","id":"FC_Sioni_Bolnisi","win":11,"draw":11,"loss":8,"for":35,"against":29},
+{"country":"geo","name":"Locomotive Tbilisi","id":"FC_Locomotive_Tbilisi","win":10,"draw":8,"loss":12,"for":35,"against":33},
+{"country":"geo","name":"Mglebi Zugdidi","id":"Dinamo_Zugdidi","win":10,"draw":6,"loss":14,"for":36,"against":41,"isRemoved":true},
+{"country":"geo","name":"Meskheti Akhaltsikhe","id":"FC_Meskheti_Akhaltsikhe","win":7,"draw":8,"loss":15,"for":23,"against":42,"isRemoved":true},
+{"country":"geo","name":"Gagra","id":"FC_Gagra","win":7,"draw":7,"loss":16,"for":23,"against":48,"isNew":true},
+{"country":"geo","name":"Spartaki Tskhinvali","id":"FC_Tskhinvali","win":6,"draw":7,"loss":17,"for":28,"against":46},
+{"country":"geo","name":"Borjomi","id":"FC_Borjomi","win":2,"draw":7,"loss":21,"for":21,"against":85,"isRemoved":true},
+{"country":"geo","name":"Ameri Tbilisi","id":"FC_Ameri_Tbilisi","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before the start of the season due to financial issues"}
 ]
