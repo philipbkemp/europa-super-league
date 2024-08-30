@@ -499,4 +499,15 @@
 {"country":"isr","name":"Maccabi Herzliya","id":"Maccabi_Herzliya_F.C.","win":8,"draw":9,"loss":13,"for":30,"against":49},
 {"country":"isr","name":"Maccabi Ironi Ashdod","id":"Maccabi_Ironi_Ashdod_F.C.","win":7,"draw":11,"loss":12,"for":42,"against":52,"isRemoved":true},
 {"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":7,"draw":9,"loss":14,"for":33,"against":50,"isRemoved":true}
+][
+{"country":"smr","name":"S.P. Tre Fiori","id":"Tre_Fiori_FC","win":12,"draw":2,"loss":4,"for":36,"against":15,"isChampion":true},
+{"country":"smr","name":"S.S. Cosmos","id":"S.S._Cosmos","win":9,"draw":6,"loss":3,"for":29,"against":20},
+{"country":"smr","name":"F.C. Domagnano","id":"FC_Domagnano","win":9,"draw":5,"loss":4,"for":29,"against":17},
+{"country":"smr","name":"S.P. La Fiorita","id":"SP_La_Fiorita","win":10,"draw":3,"loss":5,"for":24,"against":25,"isReturning":true},
+{"country":"smr","name":"S.S. Murata","id":"SS_Murata","win":8,"draw":6,"loss":4,"for":22,"against":16},
+{"country":"smr","name":"S.P. Cailungo","id":"SP_Cailungo","win":4,"draw":6,"loss":8,"for":18,"against":26},
+{"country":"smr","name":"S.S. Virtus","id":"AC_Virtus","win":3,"draw":8,"loss":7,"for":12,"against":20,"isReturning":true},
+{"country":"smr","name":"S.C. Faetano","id":"SC_Faetano","win":5,"draw":3,"loss":10,"for":26,"against":24},
+{"country":"smr","name":"A.C. Libertas","id":"AC_Libertas","win":4,"draw":5,"loss":9,"for":25,"against":32,"isRemoved":true},
+{"country":"smr","name":"S.S. Juvenes","id":"S.S._Juvenes","win":2,"draw":4,"loss":12,"for":18,"against":44,"isRemoved":true}
 ]

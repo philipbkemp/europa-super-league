@@ -591,4 +591,14 @@
 {"country":"wde","name":"FC Homburg","id":"FC_08_Homburg","win":6,"draw":9,"loss":19,"for":33,"against":79,"isNew":true},
 {"country":"wde","name":"Fortuna Düsseldorf","id":"Fortuna_Düsseldorf","win":7,"draw":6,"loss":21,"for":42,"against":91,"isRemoved":true},
 {"country":"wde","name":"Blau-Weiß 90 Berlin","id":"Blau-Weiß_1890_Berlin","win":3,"draw":12,"loss":19,"for":36,"against":76,"isRemoved":true,"isNew":true}
+][
+{"country":"smr","name":"S.C. Faetano","id":"SC_Faetano","win":9,"draw":6,"loss":1,"for":33,"against":12},
+{"country":"smr","name":"S.S. Montevito","id":"FC_Fiorentino","win":8,"draw":5,"loss":3,"for":35,"against":19},
+{"country":"smr","name":"S.P. La Fiorita","id":"SP_La_Fiorita","win":7,"draw":6,"loss":3,"for":21,"against":12,"isChampion":true},
+{"country":"smr","name":"G.S. Dogana","id":"G.S._Dogana","win":6,"draw":7,"loss":3,"for":27,"against":19},
+{"country":"smr","name":"S.S. Murata","id":"SS_Murata","win":5,"draw":6,"loss":5,"for":23,"against":24},
+{"country":"smr","name":"A.C. Libertas","id":"AC_Libertas","win":3,"draw":8,"loss":5,"for":20,"against":24},
+{"country":"smr","name":"S.P. Cailungo","id":"SP_Cailungo","win":3,"draw":5,"loss":8,"for":17,"against":28},
+{"country":"smr","name":"S.S. San Giovanni","id":"AS_San_Giovanni","win":3,"draw":5,"loss":8,"for":16,"against":24,"isRemoved":true},
+{"country":"smr","name":"S.P. Tre Penne","id":"SP_Tre_Penne","win":2,"draw":4,"loss":10,"for":19,"against":47,"isRemoved":true,"deduct":-1}
 ]

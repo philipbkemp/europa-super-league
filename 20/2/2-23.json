@@ -494,4 +494,20 @@
 {"country":"isr","name":"Maccabi Bnei Reineh","id":"Maccabi_Bnei_Reineh_F.C.","win":8,"draw":11,"loss":14,"for":32,"against":54,"isNew":true},
 {"country":"isr","name":"Ironi Kiryat Shmona","id":"Hapoel_Ironi_Kiryat_Shmona_F.C.","win":5,"draw":17,"loss":11,"for":40,"against":49,"isRemoved":true},
 {"country":"isr","name":"Sektzia Ness Ziona","id":"Sektzia_Ness_Ziona_F.C.","win":5,"draw":10,"loss":18,"for":31,"against":56,"isRemoved":true,"isReturning":true}
+][
+{"country":"smr","name":"Tre Penne","id":"SP_Tre_Penne","win":21,"draw":5,"loss":2,"for":60,"against":19,"isChampion":true},
+{"country":"smr","name":"Cosmos (O)","id":"S.S._Cosmos","win":20,"draw":7,"loss":1,"for":64,"against":13},
+{"country":"smr","name":"La Fiorita","id":"SP_La_Fiorita","win":18,"draw":6,"loss":4,"for":41,"against":17},
+{"country":"smr","name":"Virtus","id":"AC_Virtus","win":16,"draw":9,"loss":3,"for":53,"against":25},
+{"country":"smr","name":"Tre Fiori","id":"Tre_Fiori_FC","win":17,"draw":5,"loss":6,"for":45,"against":21},
+{"country":"smr","name":"Libertas","id":"AC_Libertas","win":12,"draw":11,"loss":5,"for":49,"against":33},
+{"country":"smr","name":"Folgore","id":"SS_Folgore_Falciano_Calcio","win":9,"draw":4,"loss":15,"for":32,"against":49},
+{"country":"smr","name":"Murata","id":"SS_Murata","win":9,"draw":3,"loss":16,"for":41,"against":57},
+{"country":"smr","name":"Juvenes/Dogana","id":"AC_Juvenes/Dogana","win":8,"draw":5,"loss":15,"for":40,"against":46},
+{"country":"smr","name":"Domagnano","id":"FC_Domagnano","win":6,"draw":8,"loss":14,"for":36,"against":48},
+{"country":"smr","name":"Faetano","id":"SC_Faetano","win":7,"draw":4,"loss":17,"for":35,"against":63},
+{"country":"smr","name":"Pennarossa","id":"SS_Pennarossa","win":7,"draw":4,"loss":17,"for":39,"against":57},
+{"country":"smr","name":"San Giovanni","id":"AS_San_Giovanni","win":6,"draw":5,"loss":17,"for":28,"against":54},
+{"country":"smr","name":"Fiorentino","id":"FC_Fiorentino","win":5,"draw":8,"loss":15,"for":37,"against":58},
+{"country":"smr","name":"Cailungo","id":"SP_Cailungo","win":4,"draw":6,"loss":18,"for":29,"against":69}
 ]

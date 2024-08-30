@@ -490,4 +490,20 @@
 {"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":9,"draw":11,"loss":13,"for":24,"against":35},
 {"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":6,"draw":6,"loss":21,"for":26,"against":49,"isRemoved":true},
 {"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":8,"draw":9,"loss":16,"for":27,"against":46,"isRemoved":true}
+][
+{"country":"smr","name":"La Fiorita","id":"SP_La_Fiorita","win":12,"draw":1,"loss":1,"for":34,"against":5},
+{"country":"smr","name":"Libertas","id":"AC_Libertas","win":9,"draw":2,"loss":3,"for":21,"against":11,"isReturning":true},
+{"country":"smr","name":"Folgore","id":"SS_Folgore_Falciano_Calcio","win":8,"draw":3,"loss":3,"for":25,"against":10,"isChampion":true},
+{"country":"smr","name":"Tre Penne","id":"SP_Tre_Penne","win":9,"draw":0,"loss":5,"for":30,"against":20,"isReturning":true},
+{"country":"smr","name":"Tre Fiori","id":"Tre_Fiori_FC","win":7,"draw":5,"loss":2,"for":26,"against":11},
+{"country":"smr","name":"Pennarossa","id":"SS_Pennarossa","win":6,"draw":3,"loss":5,"for":15,"against":15,"isReturning":true},
+{"country":"smr","name":"San Giovanni","id":"AS_San_Giovanni","win":5,"draw":4,"loss":5,"for":17,"against":20},
+{"country":"smr","name":"Juvenes/Dogana","id":"AC_Juvenes/Dogana","win":6,"draw":1,"loss":7,"for":23,"against":34,"isNew":true},
+{"country":"smr","name":"Murata","id":"SS_Murata","win":4,"draw":6,"loss":4,"for":14,"against":9},
+{"country":"smr","name":"Virtus","id":"AC_Virtus","win":4,"draw":6,"loss":4,"for":14,"against":12},
+{"country":"smr","name":"Fiorentino","id":"FC_Fiorentino","win":4,"draw":4,"loss":6,"for":18,"against":26,"isReturning":true},
+{"country":"smr","name":"Domagnano","id":"FC_Domagnano","win":2,"draw":6,"loss":6,"for":16,"against":26},
+{"country":"smr","name":"Faetano","id":"SC_Faetano","win":2,"draw":4,"loss":8,"for":14,"against":26},
+{"country":"smr","name":"Cailungo","id":"SP_Cailungo","win":2,"draw":2,"loss":10,"for":17,"against":29},
+{"country":"smr","name":"Cosmos","id":"S.S._Cosmos","win":1,"draw":1,"loss":12,"for":10,"against":40}
 ]

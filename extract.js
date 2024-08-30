@@ -1,10 +1,10 @@
-country = "wde";
+country = "smr";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
 ISGROUPEDFIRST = false;
 FOUND = false;
-tbl = $("#League, #Final_table, #Final_Table, #League_table, #League_Table, #League_standings, #Final_league_table, #Preliminary_stage, #Table, #Standings, #Final_standings");
+tbl = $("#League, #Final_table, #Final_Table, #League_table, #League_Table, #League_standings, #Final_league_table, #Preliminary_stage, #Table, #Standings, #Final_standings, #Regular_season");
 if ( tbl.length === 1 ) { FOUND = true; }
 
 /*

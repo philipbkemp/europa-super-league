@@ -493,4 +493,21 @@
 {"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":11,"draw":8,"loss":14,"for":45,"against":40,"deduct":-5},
 {"country":"isr","name":"F.C. Ashdod","id":"F.C._Ashdod","win":9,"draw":10,"loss":14,"for":29,"against":45},
 {"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":4,"draw":12,"loss":17,"for":25,"against":51,"isRemoved":true,"isReturning":true}
+][
+{"country":"smr","name":"Virtus","id":"AC_Virtus","win":26,"draw":1,"loss":3,"for":61,"against":20,"isChampion":true},
+{"country":"smr","name":"La Fiorita","id":"SP_La_Fiorita","win":25,"draw":2,"loss":3,"for":71,"against":18},
+{"country":"smr","name":"Tre Penne (O)","id":"SP_Tre_Penne","win":20,"draw":3,"loss":7,"for":76,"against":30},
+{"country":"smr","name":"Cosmos","id":"S.S._Cosmos","win":18,"draw":6,"loss":6,"for":78,"against":28},
+{"country":"smr","name":"Murata","id":"SS_Murata","win":19,"draw":2,"loss":9,"for":56,"against":22},
+{"country":"smr","name":"Tre Fiori","id":"Tre_Fiori_FC","win":17,"draw":6,"loss":7,"for":56,"against":30},
+{"country":"smr","name":"San Giovanni","id":"AS_San_Giovanni","win":14,"draw":3,"loss":13,"for":55,"against":42},
+{"country":"smr","name":"Juvenes/Dogana","id":"AC_Juvenes/Dogana","win":14,"draw":3,"loss":13,"for":44,"against":47},
+{"country":"smr","name":"Folgore","id":"SS_Folgore_Falciano_Calcio","win":11,"draw":6,"loss":13,"for":44,"against":37},
+{"country":"smr","name":"Fiorentino","id":"FC_Fiorentino","win":11,"draw":5,"loss":14,"for":40,"against":55},
+{"country":"smr","name":"Domagnano","id":"FC_Domagnano","win":9,"draw":8,"loss":13,"for":31,"against":42},
+{"country":"smr","name":"Faetano","id":"SC_Faetano","win":8,"draw":2,"loss":20,"for":44,"against":79},
+{"country":"smr","name":"Libertas","id":"AC_Libertas","win":6,"draw":5,"loss":19,"for":32,"against":56},
+{"country":"smr","name":"San Marino Academy U22","id":"San_Marino_Academy_U22","win":6,"draw":4,"loss":20,"for":32,"against":74,"isNew":true},
+{"country":"smr","name":"Cailungo","id":"SP_Cailungo","win":4,"draw":2,"loss":24,"for":15,"against":77},
+{"country":"smr","name":"Pennarossa","id":"SS_Pennarossa","win":2,"draw":2,"loss":26,"for":18,"against":96}
 ]

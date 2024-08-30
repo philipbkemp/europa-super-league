@@ -534,4 +534,15 @@
 {"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":9,"draw":11,"loss":13,"for":43,"against":55},
 {"country":"isr","name":"Hapoel Petah Tikva (O)","id":"Hapoel_Petah_Tikva_F.C.","win":10,"draw":6,"loss":17,"for":41,"against":44},
 {"country":"isr","name":"Beitar Tel Aviv","id":"Beitar_Tel_Aviv_F.C.","win":6,"draw":7,"loss":20,"for":28,"against":68,"isRemoved":true}
+][
+{"country":"smr","name":"S.P. Tre Fiori","id":"Tre_Fiori_FC","win":11,"draw":4,"loss":3,"for":35,"against":11,"isChampion":true},
+{"country":"smr","name":"F.C. Domagnano","id":"FC_Domagnano","win":9,"draw":6,"loss":3,"for":23,"against":13},
+{"country":"smr","name":"S.P. Cailungo","id":"SP_Cailungo","win":8,"draw":6,"loss":4,"for":27,"against":21},
+{"country":"smr","name":"A.C. Libertas","id":"AC_Libertas","win":9,"draw":4,"loss":5,"for":42,"against":24},
+{"country":"smr","name":"S.C. Faetano","id":"SC_Faetano","win":8,"draw":4,"loss":6,"for":22,"against":17},
+{"country":"smr","name":"S.S. Montevito","id":"FC_Fiorentino","win":6,"draw":7,"loss":5,"for":25,"against":26},
+{"country":"smr","name":"S.S. Murata","id":"SS_Murata","win":3,"draw":10,"loss":5,"for":13,"against":24},
+{"country":"smr","name":"S.S. Juvenes","id":"S.S._Juvenes","win":5,"draw":3,"loss":10,"for":22,"against":13},
+{"country":"smr","name":"S.P. Tre Penne","id":"SP_Tre_Penne","win":3,"draw":4,"loss":11,"for":27,"against":41,"isRemoved":true,"isReturning":true},
+{"country":"smr","name":"S.S. Virtus","id":"AC_Virtus","win":2,"draw":4,"loss":12,"for":16,"against":49,"isRemoved":true,"isReturning":true}
 ]

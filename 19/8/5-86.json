@@ -591,4 +591,22 @@
 {"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":10,"draw":8,"loss":16,"for":49,"against":65},
 {"country":"wde","name":"1. FC Saarbrücken","id":"1._FC_Saarbrücken","win":6,"draw":9,"loss":19,"for":39,"against":68,"isRemoved":true,"isReturning":true},
 {"country":"wde","name":"Hannover 96","id":"Hannover_96","win":5,"draw":8,"loss":21,"for":43,"against":92,"isRemoved":true,"isReturning":true}
+][
+{"country":"smr","name":"S.C. Faetano","id":"SC_Faetano","win":10,"draw":6,"loss":0,"for":48,"against":15,"isChampion":true,"isNew":true},
+{"country":"smr","name":"S.S. San Giovanni","id":"AS_San_Giovanni","win":10,"draw":5,"loss":1,"for":20,"against":5,"isNew":true},
+{"country":"smr","name":"S.P. La Fiorita","id":"SP_La_Fiorita","win":10,"draw":4,"loss":2,"for":34,"against":9,"isNew":true},
+{"country":"smr","name":"S.S. Montevito","id":"FC_Fiorentino","win":10,"draw":3,"loss":3,"for":27,"against":12,"isNew":true},
+{"country":"smr","name":"S.P. Cailungo","id":"SP_Cailungo","win":7,"draw":5,"loss":4,"for":34,"against":22,"isNew":true},
+{"country":"smr","name":"A.C. Libertas","id":"AC_Libertas","win":5,"draw":9,"loss":2,"for":20,"against":17,"isNew":true},
+{"country":"smr","name":"S.P. Tre Penne","id":"SP_Tre_Penne","win":7,"draw":4,"loss":5,"for":20,"against":18,"isNew":true},
+{"country":"smr","name":"G.S. Dogana","id":"G.S._Dogana","win":5,"draw":7,"loss":4,"for":21,"against":21,"isNew":true},
+{"country":"smr","name":"S.S. Murata","id":"SS_Murata","win":7,"draw":2,"loss":7,"for":18,"against":21,"isNew":true},
+{"country":"smr","name":"S.S. Folgore/Falciano","id":"SS_Folgore_Falciano_Calcio","win":4,"draw":6,"loss":6,"for":20,"against":25,"isRemoved":true,"isNew":true},
+{"country":"smr","name":"S.P. Domagnano","id":"FC_Domagnano","win":4,"draw":6,"loss":6,"for":12,"against":19,"isRemoved":true,"isNew":true},
+{"country":"smr","name":"S.S. Cosmos","id":"S.S._Cosmos","win":4,"draw":5,"loss":7,"for":20,"against":23,"isRemoved":true,"isNew":true},
+{"country":"smr","name":"S.P. Tre Fiori","id":"Tre_Fiori_FC","win":3,"draw":7,"loss":6,"for":17,"against":21,"isRemoved":true,"isNew":true},
+{"country":"smr","name":"S.P. Aurora","id":"S.P._Aurora","win":2,"draw":6,"loss":8,"for":20,"against":44,"isRemoved":true,"isNew":true},
+{"country":"smr","name":"S.S. Pennarossa","id":"SS_Pennarossa","win":2,"draw":5,"loss":9,"for":10,"against":23,"isRemoved":true,"isNew":true},
+{"country":"smr","name":"S.S. Virtus","id":"AC_Virtus","win":1,"draw":6,"loss":9,"for":10,"against":34,"isRemoved":true,"isNew":true},
+{"country":"smr","name":"S.S. Juvenes","id":"S.S._Juvenes","win":0,"draw":4,"loss":12,"for":13,"against":35,"isRemoved":true,"isNew":true}
 ]

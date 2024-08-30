@@ -589,4 +589,15 @@
 {"country":"wde","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":8,"draw":10,"loss":16,"for":30,"against":53},
 {"country":"wde","name":"Stuttgarter Kickers","id":"Stuttgarter_Kickers","win":10,"draw":6,"loss":18,"for":41,"against":68,"isRemoved":true,"isNew":true},
 {"country":"wde","name":"Hannover 96","id":"Hannover_96","win":4,"draw":11,"loss":19,"for":36,"against":71,"isRemoved":true}
+][
+{"country":"smr","name":"A.C. Libertas","id":"AC_Libertas","win":9,"draw":7,"loss":2,"for":32,"against":14},
+{"country":"smr","name":"S.P. La Fiorita","id":"SP_La_Fiorita","win":9,"draw":7,"loss":2,"for":22,"against":8},
+{"country":"smr","name":"S.P. Domagnano","id":"FC_Domagnano","win":8,"draw":8,"loss":2,"for":27,"against":13,"isChampion":true},
+{"country":"smr","name":"S.C. Faetano","id":"SC_Faetano","win":8,"draw":5,"loss":5,"for":26,"against":17},
+{"country":"smr","name":"G.S. Dogana","id":"G.S._Dogana","win":6,"draw":9,"loss":3,"for":21,"against":15},
+{"country":"smr","name":"S.S. Folgore/Falciano","id":"SS_Folgore_Falciano_Calcio","win":6,"draw":7,"loss":5,"for":22,"against":19},
+{"country":"smr","name":"S.S. Virtus","id":"AC_Virtus","win":5,"draw":7,"loss":6,"for":20,"against":25,"isReturning":true},
+{"country":"smr","name":"S.P. Tre Fiori","id":"Tre_Fiori_FC","win":4,"draw":7,"loss":7,"for":16,"against":18},
+{"country":"smr","name":"S.S. Montevito","id":"FC_Fiorentino","win":4,"draw":3,"loss":11,"for":15,"against":37,"isRemoved":true},
+{"country":"smr","name":"S.S. San Giovanni","id":"AS_San_Giovanni","win":2,"draw":2,"loss":14,"for":11,"against":38,"isRemoved":true,"isReturning":true}
 ]

@@ -500,4 +500,15 @@
 {"country":"isr","name":"Hapoel Beit She'an","id":"Hapoel_Beit_She%27an_F.C.","win":5,"draw":11,"loss":14,"for":28,"against":49},
 {"country":"isr","name":"Beitar Tel Aviv","id":"Beitar_Tel_Aviv_F.C.","win":6,"draw":6,"loss":18,"for":30,"against":63,"isRemoved":true},
 {"country":"isr","name":"Maccabi Jaffa","id":"Maccabi_Jaffa_F.C.","win":6,"draw":5,"loss":19,"for":24,"against":53,"isRemoved":true,"isReturning":true}
+][
+{"country":"smr","name":"S.S. Cosmos","id":"S.S._Cosmos","win":10,"draw":3,"loss":5,"for":29,"against":20,"isRemoved":true,"removedNote":"League changed to a grouped format for the next few seasons"},
+{"country":"smr","name":"S.S. Murata","id":"SS_Murata","win":8,"draw":7,"loss":3,"for":29,"against":15,"isRemoved":true,"removedNote":"League changed to a grouped format for the next few seasons"},
+{"country":"smr","name":"S.P. La Fiorita","id":"SP_La_Fiorita","win":8,"draw":5,"loss":5,"for":23,"against":17,"isRemoved":true,"removedNote":"League changed to a grouped format for the next few seasons"},
+{"country":"smr","name":"S.S. San Giovanni","id":"AS_San_Giovanni","win":7,"draw":7,"loss":4,"for":26,"against":24,"isReturning":true,"isRemoved":true,"removedNote":"League changed to a grouped format for the next few seasons"},
+{"country":"smr","name":"S.S. Folgore/Falciano","id":"SS_Folgore_Falciano_Calcio","win":7,"draw":6,"loss":5,"for":22,"against":18,"isReturning":true,"isRemoved":true,"removedNote":"League changed to a grouped format for the next few seasons"},
+{"country":"smr","name":"F.C. Domagnano","id":"FC_Domagnano","win":7,"draw":5,"loss":6,"for":22,"against":16,"isRemoved":true,"removedNote":"League changed to a grouped format for the next few seasons"},
+{"country":"smr","name":"S.P. Tre Fiori","id":"Tre_Fiori_FC","win":8,"draw":2,"loss":8,"for":23,"against":25,"isRemoved":true,"removedNote":"League changed to a grouped format for the next few seasons"},
+{"country":"smr","name":"S.S. Virtus","id":"AC_Virtus","win":5,"draw":6,"loss":7,"for":22,"against":26,"isRemoved":true,"removedNote":"League changed to a grouped format for the next few seasons"},
+{"country":"smr","name":"S.P. Cailungo","id":"SP_Cailungo","win":3,"draw":6,"loss":9,"for":20,"against":32,"isRemoved":true,"removedNote":"League changed to a grouped format for the next few seasons"},
+{"country":"smr","name":"S.C. Faetano","id":"SC_Faetano","win":3,"draw":1,"loss":14,"for":16,"against":39,"isRemoved":true,"removedNote":"League changed to a grouped format for the next few seasons"}
 ]
