@@ -503,4 +503,14 @@
 {"country":"geo","name":"Chikhura Sachkhere","id":"FC_Chikhura_Sachkhere","win":5,"draw":6,"loss":15,"for":13,"against":46,"isRemoved":true,"isNew":true},
 {"country":"geo","name":"Dila Gori","id":"FC_Dila_Gori","win":3,"draw":6,"loss":17,"for":21,"against":56},
 {"country":"geo","name":"Kakheti Telavi","id":"FC_Kakheti_Telavi","win":0,"draw":2,"loss":24,"for":21,"against":86,"isRemoved":true}
+][
+{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":23,"draw":4,"loss":1,"for":86,"against":23,"isChampion":true},
+{"country":"arm","name":"Banants","id":"FC_Urartu","win":18,"draw":3,"loss":7,"for":67,"against":26},
+{"country":"arm","name":"Mika","id":"FC_Mika","win":17,"draw":6,"loss":5,"for":45,"against":21},
+{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":15,"draw":4,"loss":9,"for":48,"against":35,"isReturning":true},
+{"country":"arm","name":"Gandzasar","id":"FC_Gandzasar_Kapan","win":7,"draw":3,"loss":18,"for":28,"against":60,"isNew":true},
+{"country":"arm","name":"Kilikia","id":"Kilikia_FC","win":6,"draw":5,"loss":17,"for":38,"against":69},
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":4,"draw":7,"loss":17,"for":21,"against":64},
+{"country":"arm","name":"Ulisses","id":"Ulisses_FC","win":5,"draw":2,"loss":21,"for":31,"against":66},
+{"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Disbanded before start of season"}
 ]

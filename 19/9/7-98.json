@@ -513,4 +513,16 @@
 {"country":"geo","name":"Guria Lanchkhuti","id":"FC_Guria_Lanchkhuti","win":6,"draw":9,"loss":15,"for":30,"against":58},
 {"country":"geo","name":"Magharoeli Chiatura","id":"FC_Chiatura","win":7,"draw":5,"loss":18,"for":25,"against":59,"isRemoved":true,"isNew":true},
 {"country":"geo","name":"Margveti Zestafoni","id":"FC_Margveti_Zestaponi","win":2,"draw":7,"loss":21,"for":21,"against":75,"isRemoved":true}
+][
+{"country":"arm","name":"Yerevan","id":"FC_Yerevan","win":13,"draw":4,"loss":1,"for":41,"against":10,"isChampion":true},
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":12,"draw":5,"loss":1,"for":46,"against":8},
+{"country":"arm","name":"Erebuni-Homenmen","id":"Erebuni-Homenmen_FC","win":11,"draw":2,"loss":5,"for":35,"against":20},
+{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":11,"draw":2,"loss":5,"for":42,"against":16},
+{"country":"arm","name":"Tsement Ararat","id":"Araks_Ararat_FC","win":8,"draw":3,"loss":7,"for":28,"against":27},
+{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":7,"draw":6,"loss":5,"for":32,"against":21},
+{"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":5,"draw":4,"loss":9,"for":31,"against":33},
+{"country":"arm","name":"Karabakh Yerevan","id":"Lernayin_Artsakh_FC","win":5,"draw":3,"loss":10,"for":13,"against":28},
+{"country":"arm","name":"Dvin Artashat","id":"FC_Dvin_Artashat","win":1,"draw":4,"loss":13,"for":16,"against":52,"isRemoved":true,"isNew":true},
+{"country":"arm","name":"Lori Vanadzor","id":"Lori_FC","win":0,"draw":1,"loss":17,"for":7,"against":76,"isRemoved":true,"isReturning":true},
+{"country":"arm","name":"Van Yerevan","id":"FC_Van_Yerevan","win":null,"draw":null,"loss":null,"for":null,"against":null,"isRemoved":true,"removedNote":"Withdrew after bankruptcy"}
 ]

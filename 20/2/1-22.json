@@ -515,4 +515,15 @@
 {"country":"geo","name":"Torpedo Kutaisi (O)","id":"FC_Torpedo_Kutaisi","win":9,"draw":13,"loss":14,"for":38,"against":44},
 {"country":"geo","name":"Shukura Kobuleti","id":"FC_Shukura_Kobuleti","win":5,"draw":12,"loss":19,"for":28,"against":49,"isRemoved":true,"isReturning":true},
 {"country":"geo","name":"Samtredia","id":"FC_Samtredia","win":5,"draw":6,"loss":25,"for":33,"against":76,"isRemoved":true}
+][
+{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":23,"draw":6,"loss":3,"for":52,"against":25,"isChampion":true},
+{"country":"arm","name":"Ararat-Armenia","id":"FC_Ararat-Armenia","win":23,"draw":5,"loss":4,"for":56,"against":20},
+{"country":"arm","name":"Alashkert","id":"FC_Alashkert","win":14,"draw":9,"loss":9,"for":38,"against":30},
+{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":13,"draw":7,"loss":12,"for":47,"against":36},
+{"country":"arm","name":"Urartu","id":"FC_Urartu","win":9,"draw":13,"loss":10,"for":37,"against":32},
+{"country":"arm","name":"Noah","id":"FC_Noah","win":9,"draw":12,"loss":11,"for":38,"against":43},
+{"country":"arm","name":"Noravank","id":"Noravank_SC","win":7,"draw":7,"loss":18,"for":36,"against":55,"isNew":true,"isRemoved":true},
+{"country":"arm","name":"Van","id":"FC_Van","win":6,"draw":7,"loss":19,"for":19,"against":47},
+{"country":"arm","name":"BKMA","id":"FC_BKMA_Yerevan","win":4,"draw":6,"loss":22,"for":25,"against":60,"isReturning":true},
+{"country":"arm","name":"Sevan","id":"Sevan_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Expelled mid season; Record expunged","isNew":true}
 ]

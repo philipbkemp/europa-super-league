@@ -491,4 +491,15 @@
 {"country":"geo","name":"Rustavi","id":"FC_Rustavi","win":9,"draw":11,"loss":16,"for":40,"against":56,"isRemoved":true},
 {"country":"geo","name":"Sioni Bolnisi","id":"FC_Sioni_Bolnisi","win":10,"draw":8,"loss":18,"for":38,"against":80,"isRemoved":true},
 {"country":"geo","name":"WIT Georgia","id":"FC_WIT_Georgia","win":4,"draw":8,"loss":24,"for":15,"against":50,"isRemoved":true,"isReturning":true}
+][
+{"country":"arm","name":"Ararat-Armenia","id":"FC_Ararat-Armenia","win":15,"draw":7,"loss":6,"for":45,"against":23,"isChampion":true},
+{"country":"arm","name":"Lori","id":"Lori_FC","win":10,"draw":10,"loss":7,"for":35,"against":33},
+{"country":"arm","name":"Alashkert","id":"FC_Alashkert","win":14,"draw":5,"loss":9,"for":51,"against":31},
+{"country":"arm","name":"Ararat","id":"FC_Ararat_Yerevan","win":9,"draw":6,"loss":12,"for":31,"against":36},
+{"country":"arm","name":"Noah","id":"FC_Noah","win":14,"draw":6,"loss":8,"for":37,"against":27},
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":13,"draw":7,"loss":8,"for":40,"against":30},
+{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":8,"draw":2,"loss":12,"for":39,"against":42},
+{"country":"arm","name":"Urartu","id":"FC_Urartu","win":8,"draw":6,"loss":8,"for":26,"against":27},
+{"country":"arm","name":"Gandzasar","id":"FC_Gandzasar_Kapan","win":6,"draw":7,"loss":9,"for":25,"against":29},
+{"country":"arm","name":"Yerevan","id":"FC_Yerevan","win":0,"draw":0,"loss":18,"for":11,"against":62,"isReturning":true,"isRemoved":true}
 ]

@@ -492,4 +492,14 @@
 {"country":"geo","name":"Sioni Bolnisi (O)","id":"FC_Sioni_Bolnisi","win":8,"draw":7,"loss":21,"for":39,"against":65,"isReturning":true},
 {"country":"geo","name":"Samtredia","id":"FC_Samtredia","win":4,"draw":9,"loss":23,"for":28,"against":81,"isRemoved":true},
 {"country":"geo","name":"Kolkheti Poti","id":"FC_Kolkheti-1913_Poti","win":4,"draw":8,"loss":24,"for":26,"against":76,"isRemoved":true,"deduct":-6}
+][
+{"country":"arm","name":"Ararat-Armenia","id":"FC_Ararat-Armenia","win":18,"draw":7,"loss":7,"for":53,"against":28,"isChampion":true,"isNew":true},
+{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":18,"draw":6,"loss":8,"for":46,"against":32},
+{"country":"arm","name":"Banants","id":"FC_Urartu","win":14,"draw":10,"loss":8,"for":43,"against":35},
+{"country":"arm","name":"Alashkert","id":"FC_Alashkert","win":15,"draw":6,"loss":11,"for":37,"against":27},
+{"country":"arm","name":"Lori","id":"Lori_FC","win":11,"draw":11,"loss":10,"for":42,"against":40,"isReturning":true},
+{"country":"arm","name":"Gandzasar","id":"FC_Gandzasar_Kapan","win":10,"draw":8,"loss":14,"for":38,"against":33},
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":7,"draw":15,"loss":10,"for":26,"against":30},
+{"country":"arm","name":"Artsakh","id":"FC_Noah","win":6,"draw":10,"loss":16,"for":25,"against":49,"isNew":true},
+{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":5,"draw":7,"loss":20,"for":24,"against":60}
 ]

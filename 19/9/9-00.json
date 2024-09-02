@@ -505,4 +505,15 @@
 {"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":8,"draw":14,"loss":17,"for":40,"against":56,"isRemoved":true},
 {"country":"isr","name":"Maccabi Herzliya","id":"Maccabi_Herzliya_F.C.","win":9,"draw":8,"loss":22,"for":33,"against":73,"isRemoved":true},
 {"country":"isr","name":"Hapoel Jerusalem","id":"Hapoel_Jerusalem_F.C.","win":6,"draw":6,"loss":27,"for":33,"against":82,"isRemoved":true}
+][
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":23,"draw":4,"loss":5,"for":93,"against":29,"isChampion":true},
+{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":22,"draw":6,"loss":4,"for":63,"against":21},
+{"country":"arm","name":"Tsement Ararat","id":"Araks_Ararat_FC","win":22,"draw":5,"loss":5,"for":78,"against":19},
+{"country":"arm","name":"Zvartnots-AAL","id":"Zvartnots-AAL_FC","win":16,"draw":6,"loss":10,"for":50,"against":38,"isNew":true},
+{"country":"arm","name":"Yerevan","id":"FC_Yerevan","win":15,"draw":6,"loss":11,"for":60,"against":43},
+{"country":"arm","name":"Erebuni-Homenmen","id":"Erebuni-Homenmen_FC","win":12,"draw":5,"loss":15,"for":41,"against":44},
+{"country":"arm","name":"Kilikia","id":"Kilikia_FC","win":10,"draw":4,"loss":18,"for":57,"against":55,"isRemoved":true,"isNew":true},
+{"country":"arm","name":"Dvin Artashat","id":"FC_Dvin_Artashat","win":2,"draw":2,"loss":28,"for":20,"against":116,"isRemoved":true},
+{"country":"arm","name":"Gyumri","id":"Aragats_Gyumri_FC","win":2,"draw":2,"loss":28,"for":23,"against":120,"isRemoved":true},
+{"country":"arm","name":"Karabakh Stepanakert (W)","id":"Lernayin_Artsakh_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Expelled due to financial issues"}
 ]

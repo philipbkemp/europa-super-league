@@ -517,4 +517,15 @@
 {"country":"geo","name":"Torpedo Kutaisi (O)","id":"FC_Torpedo_Kutaisi","win":4,"draw":5,"loss":9,"for":17,"against":30},
 {"country":"geo","name":"Chikhura","id":"FC_Chikhura_Sachkhere","win":3,"draw":4,"loss":11,"for":18,"against":40,"isRemoved":true},
 {"country":"geo","name":"Merani Tbilisi","id":"FC_Merani_Tbilisi","win":0,"draw":6,"loss":12,"for":6,"against":34,"isRemoved":true,"isReturning":true}
+][
+{"country":"arm","name":"Alashkert","id":"FC_Alashkert","win":13,"draw":7,"loss":4,"for":25,"against":15,"isChampion":true},
+{"country":"arm","name":"Noah","id":"FC_Noah","win":12,"draw":5,"loss":7,"for":35,"against":20},
+{"country":"arm","name":"Urartu","id":"FC_Urartu","win":12,"draw":5,"loss":7,"for":28,"against":19},
+{"country":"arm","name":"Ararat","id":"FC_Ararat_Yerevan","win":11,"draw":7,"loss":6,"for":34,"against":18},
+{"country":"arm","name":"Ararat-Armenia","id":"FC_Ararat-Armenia","win":10,"draw":8,"loss":6,"for":32,"against":17},
+{"country":"arm","name":"Van","id":"FC_Van","win":9,"draw":4,"loss":11,"for":25,"against":30,"isNew":true},
+{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":6,"draw":7,"loss":11,"for":20,"against":18},
+{"country":"arm","name":"Lori","id":"Lori_FC","win":7,"draw":2,"loss":15,"for":16,"against":44,"isRemoved":true},
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":2,"draw":7,"loss":15,"for":19,"against":53,"isRemoved":true},
+{"country":"arm","name":"Gandzasar","id":"FC_Gandzasar_Kapan","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Club dissolved due to financial issues"}
 ]

@@ -484,4 +484,17 @@
 {"country":"geo","name":"Mtskheta-Urioni","id":"FC_Mtskheta_(2001–2004)","win":12,"draw":5,"loss":15,"for":39,"against":60,"isRemoved":true,"isNew":true},
 {"country":"geo","name":"Spartaki-Lazika Zugdidi","id":"FC_Spartaki_Tbilisi","win":9,"draw":5,"loss":18,"for":32,"against":58,"isRemoved":true,"isReturning":true},
 {"country":"geo","name":"Mertskhali Ozurgeti","id":"FC_Mertskhali_Ozurgeti","win":2,"draw":5,"loss":25,"for":22,"against":72,"isRemoved":true,"isReturning":true}
+][
+{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":23,"draw":5,"loss":0,"for":87,"against":11,"isChampion":true},
+{"country":"arm","name":"Banants","id":"FC_Urartu","win":21,"draw":3,"loss":4,"for":89,"against":15},
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":17,"draw":2,"loss":9,"for":63,"against":34},
+{"country":"arm","name":"Mika Ashtarak","id":"FC_Mika","win":15,"draw":6,"loss":7,"for":49,"against":29},
+{"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":8,"draw":7,"loss":13,"for":29,"against":56},
+{"country":"arm","name":"Dinamo-2000 Yerevan","id":"Ulisses_FC","win":5,"draw":4,"loss":19,"for":18,"against":69},
+{"country":"arm","name":"Lernagorts Kapan","id":"FC_Lernagorts_Kapan","win":3,"draw":6,"loss":19,"for":20,"against":72},
+{"country":"arm","name":"Araks","id":"Araks_Ararat_FC","win":2,"draw":3,"loss":23,"for":17,"against":86,"isRemoved":true,"isReturning":true},
+{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Expelled before season start"},
+{"country":"arm","name":"Lernayin Artsakh","id":"Lernayin_Artsakh_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before season start"},
+{"country":"arm","name":"Zvartnots-AAL","id":"Zvartnots-AAL_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before season start"},
+{"country":"arm","name":"Armavir","id":"FC_Armavir_(Armenia)","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before season start","isNew":true}
 ]

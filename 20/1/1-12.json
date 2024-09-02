@@ -509,4 +509,13 @@
 {"country":"geo","name":"Spartaki Tskhinvali","id":"FC_Tskhinvali","win":12,"draw":9,"loss":15,"for":41,"against":48,"isRemoved":true,"isReturning":true},
 {"country":"geo","name":"Gagra","id":"FC_Gagra","win":9,"draw":7,"loss":20,"for":35,"against":53,"isRemoved":true,"isReturning":true},
 {"country":"geo","name":"Sioni Bolnisi","id":"FC_Sioni_Bolnisi","win":8,"draw":12,"loss":16,"for":36,"against":50}
+][
+{"country":"arm","name":"Ulisses","id":"Ulisses_FC","win":15,"draw":8,"loss":5,"for":38,"against":22,"isChampion":true},
+{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":12,"draw":10,"loss":6,"for":33,"against":28},
+{"country":"arm","name":"Gandzasar Kapan","id":"FC_Gandzasar_Kapan","win":12,"draw":10,"loss":6,"for":31,"against":18},
+{"country":"arm","name":"Banants","id":"FC_Urartu","win":12,"draw":8,"loss":8,"for":42,"against":30},
+{"country":"arm","name":"Mika","id":"FC_Mika","win":12,"draw":8,"loss":8,"for":36,"against":25},
+{"country":"arm","name":"Impulse","id":"Impuls_FC","win":10,"draw":7,"loss":11,"for":37,"against":36},
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":6,"draw":7,"loss":15,"for":27,"against":42},
+{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":2,"draw":4,"loss":22,"for":14,"against":57,"isReturning":true}
 ]

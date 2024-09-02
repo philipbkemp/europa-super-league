@@ -528,4 +528,17 @@
 {"country":"geo","name":"Kakheti Telavi","id":"FC_Kakheti_Telavi","win":8,"draw":3,"loss":19,"for":29,"against":68},
 {"country":"geo","name":"Egrisi Senaki","id":"FC_Egrisi_Senaki","win":5,"draw":2,"loss":23,"for":42,"against":90,"isRemoved":true,"isNew":true},
 {"country":"geo","name":"Duruji Kvareli","id":"FC_Duruji_Kvareli","win":1,"draw":1,"loss":28,"for":23,"against":127,"isRemoved":true}
+][
+{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":19,"draw":3,"loss":0,"for":71,"against":14,"isChampion":true},
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":16,"draw":3,"loss":3,"for":67,"against":23},
+{"country":"arm","name":"Yerevan","id":"FC_Yerevan","win":13,"draw":5,"loss":4,"for":43,"against":24,"isNew":true},
+{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":12,"draw":3,"loss":7,"for":58,"against":28},
+{"country":"arm","name":"Tsement Ararat","id":"Araks_Ararat_FC","win":12,"draw":3,"loss":7,"for":57,"against":33},
+{"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":11,"draw":3,"loss":8,"for":31,"against":33},
+{"country":"arm","name":"Karabakh Yerevan","id":"Lernayin_Artsakh_FC","win":8,"draw":5,"loss":9,"for":29,"against":28,"isNew":true},
+{"country":"arm","name":"Van Yerevan","id":"FC_Van_Yerevan","win":7,"draw":3,"loss":12,"for":42,"against":42},
+{"country":"arm","name":"Homenmen Yerevan","id":"Erebuni-Homenmen_FC","win":6,"draw":3,"loss":13,"for":30,"against":52},
+{"country":"arm","name":"Zangezour","id":"FC_Zangezour","win":5,"draw":2,"loss":15,"for":26,"against":60},
+{"country":"arm","name":"Aragats","id":"Aragats_Gyumri_FC","win":4,"draw":3,"loss":15,"for":35,"against":89,"isRemoved":true,"isNew":true},
+{"country":"arm","name":"Aznavour","id":"Aznavour_FC","win":0,"draw":2,"loss":20,"for":19,"against":82,"isRemoved":true}
 ]

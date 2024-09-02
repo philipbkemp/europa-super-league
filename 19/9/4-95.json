@@ -527,4 +527,21 @@
 {"country":"geo","name":"Duruji Kvareli","id":"FC_Duruji_Kvareli","win":8,"draw":3,"loss":19,"for":28,"against":65,"isNew":true},
 {"country":"geo","name":"Sapovnela Terjola","id":"FC_Sapovnela_Terjola","win":6,"draw":6,"loss":18,"for":34,"against":76,"isRemoved":true,"isNew":true},
 {"country":"geo","name":"Samgurali Tskhaltubo","id":"FC_Samgurali_Tsqaltubo","win":5,"draw":6,"loss":19,"for":30,"against":68,"isRemoved":true,"isReturning":true}
+][
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":24,"draw":4,"loss":0,"for":83,"against":19,"isChampion":true},
+{"country":"arm","name":"Homenetmen Yerevan","id":"FC_Pyunik","win":23,"draw":1,"loss":4,"for":113,"against":24},
+{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":21,"draw":5,"loss":2,"for":109,"against":21},
+{"country":"arm","name":"Homenmen-FIMA Yerevan","id":"Erebuni-Homenmen_FC","win":15,"draw":6,"loss":7,"for":65,"against":45},
+{"country":"arm","name":"Banants Kotayk","id":"FC_Urartu","win":17,"draw":1,"loss":10,"for":95,"against":56,"isRemoved":true},
+{"country":"arm","name":"Tsement Ararat","id":"Araks_Ararat_FC","win":11,"draw":6,"loss":11,"for":54,"against":49},
+{"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":12,"draw":3,"loss":13,"for":73,"against":53},
+{"country":"arm","name":"Aznavour","id":"Aznavour_FC","win":11,"draw":3,"loss":14,"for":43,"against":72,"isNew":true},
+{"country":"arm","name":"Yerazank","id":"Yerazank_FC","win":9,"draw":5,"loss":14,"for":29,"against":50,"isRemoved":true},
+{"country":"arm","name":"Van Yerevan","id":"FC_Van_Yerevan","win":9,"draw":4,"loss":15,"for":34,"against":72},
+{"country":"arm","name":"Zangezour","id":"FC_Zangezour","win":9,"draw":4,"loss":15,"for":25,"against":77,"isNew":true},
+{"country":"arm","name":"Nairit","id":"Nairi_SC","win":7,"draw":6,"loss":15,"for":22,"against":43,"isRemoved":true},
+{"country":"arm","name":"Lori Vanadzor","id":"Lori_FC","win":5,"draw":6,"loss":17,"for":22,"against":65,"isRemoved":true,"isNew":true},
+{"country":"arm","name":"BMA-Arai Echmiadzin","id":"BMA-Arai_Echmiadzin","win":5,"draw":5,"loss":18,"for":38,"against":85,"isRemoved":true},
+{"country":"arm","name":"KanAZ Yerevan","id":"Arabkir_FC","win":1,"draw":3,"loss":24,"for":15,"against":89,"isRemoved":true},
+{"country":"arm","name":"Impuls","id":"Impuls_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"note":"Withdrew at start of season","isRemoved":true}
 ]

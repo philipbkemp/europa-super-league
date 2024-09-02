@@ -1,4 +1,4 @@
-country = "geo";
+country = "arm";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
@@ -7,8 +7,10 @@ FOUND = false;
 tbl = $("#League, #Final_table, #Final_Table, #League_table, #League_Table, #League_standings, #Final_league_table, #Preliminary_stage, #Table, #Standings, #Final_standings, #Regular_season");
 if ( tbl.length === 1 ) { FOUND = true; }
 
-tbl2 = $("#First_phase, #Championship_round, #Relegation_round");
+tbl2 = $("#Regular_season, #Championship_round, #Relegation_round");
 if ( tbl2.length === 3 ) { FOUND = true; ADD_TABLE_STATS = [false,false]; console.warn("C/R"); tbl=tbl2;}
+tbl2 = $("#Regular_season, #Final_classification, #Relegation_round");
+if ( tbl2.length === 3 ) { FOUND = true; ADD_TABLE_STATS = [false,false]; console.warn("FINAL/R"); tbl=tbl2;}
 /*
 tbl2 = $("#Regular_season, #Top_Playoff, #Bottom_Playoff");
 if ( tbl2.length === 3 ) { FOUND = true; ADD_TABLE_STATS = [false,false]; console.warn("Top/Bottom"); tbl=tbl2;}
@@ -88,7 +90,7 @@ if ( FOUND ) {
 						if ( $($(cols[2]).find("a")).length !== 0 ) {
 							theClubId = $($(cols[2]).find("a")[0]).attr("href").replace("/wiki/","").replace("/w/index.php?title=","").replace("&action=edit&redlink=1","");
 							//theClubName = $($(cols[2]).find("a")[0]).text().trim();
-							theClubName = $(cols[2]).text().trim().replace(" (C)","").replace(" (R)","");
+							theClubName = $(cols[2]).text().trim().replace(" (C)","").replace(" (R)","").replace(" (O)","").replace(" (W)","").replace(" (E)","");
 						} else {
 							theClubName = $(cols[1]).text().trim();
 							theClubName = theClubName.replace(" (E)","");
@@ -103,7 +105,7 @@ if ( FOUND ) {
 								theClubId = $($(cols[1]).find("a")[1]).attr("href").replace("/wiki/","").replace("/w/index.php?title=","").replace("&action=edit&redlink=1","");
 							}
 							//theClubName = $($(cols[1]).find("a")[0]).text().trim();
-							theClubName = $(cols[1]).text().trim().replace(" (C)","").replace(" (R)","");
+							theClubName = $(cols[1]).text().trim().replace(" (C)","").replace(" (R)","").replace(" (O)","").replace(" (W)","").replace(" (E)","");
 						} else {
 							theClubName = $(cols[1]).text().trim();
 							theClubName = theClubName.replace(" (E)","");

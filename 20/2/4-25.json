@@ -487,4 +487,16 @@
 {"country":"geo","name":"Telavi","id":"FC_Telavi","win":5,"draw":7,"loss":10,"for":17,"against":23,"isCurrentSeason":true},
 {"country":"geo","name":"Gagra","id":"FC_Gagra","win":6,"draw":3,"loss":13,"for":20,"against":28,"isCurrentSeason":true},
 {"country":"geo","name":"Samtredia","id":"FC_Samtredia","win":2,"draw":8,"loss":12,"for":18,"against":40,"isCurrentSeason":true}
+][
+{"country":"arm","name":"Van","id":"FC_Van","win":3,"draw":1,"loss":1,"for":15,"against":4,"isCurrentSeason":true},
+{"country":"arm","name":"Urartu","id":"FC_Urartu","win":3,"draw":1,"loss":0,"for":8,"against":1,"isCurrentSeason":true},
+{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":3,"draw":1,"loss":1,"for":9,"against":5,"isCurrentSeason":true},
+{"country":"arm","name":"Noah","id":"FC_Noah","win":2,"draw":0,"loss":0,"for":7,"against":1,"isCurrentSeason":true},
+{"country":"arm","name":"Ararat-Armenia","id":"FC_Ararat-Armenia","win":2,"draw":0,"loss":1,"for":6,"against":4,"isCurrentSeason":true},
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":2,"draw":0,"loss":3,"for":4,"against":10,"isCurrentSeason":true},
+{"country":"arm","name":"BKMA","id":"FC_BKMA_Yerevan","win":1,"draw":1,"loss":2,"for":8,"against":8,"isCurrentSeason":true},
+{"country":"arm","name":"Alashkert","id":"FC_Alashkert","win":1,"draw":1,"loss":3,"for":4,"against":9,"isCurrentSeason":true},
+{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":1,"draw":1,"loss":1,"for":2,"against":2,"isCurrentSeason":true},
+{"country":"arm","name":"Gandzasar Kapan","id":"FC_Gandzasar_Kapan","win":0,"draw":0,"loss":3,"for":1,"against":10,"isCurrentSeason":true,"isReturning":true},
+{"country":"arm","name":"West Armenia","id":"FC_West_Armenia","win":0,"draw":0,"loss":3,"for":3,"against":13,"isCurrentSeason":true}
 ]

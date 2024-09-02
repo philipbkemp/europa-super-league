@@ -485,4 +485,18 @@
 {"country":"geo","name":"Metalurgi Zestafoni","id":"FC_Zestaponi","win":6,"draw":1,"loss":25,"for":17,"against":79,"isRemoved":true},
 {"country":"geo","name":"Gorda Rustavi","id":"FC_Metalurgi_Rustavi","win":9,"draw":4,"loss":19,"for":30,"against":48,"isRemoved":true},
 {"country":"geo","name":"Milani Tsnori","id":"FC_Milani_Tsnori","win":6,"draw":8,"loss":18,"for":18,"against":54,"isRemoved":true,"isNew":true}
+][
+{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":19,"draw":2,"loss":1,"for":85,"against":14,"isChampion":true},
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":16,"draw":3,"loss":3,"for":49,"against":15},
+{"country":"arm","name":"Banants","id":"FC_Urartu","win":16,"draw":2,"loss":4,"for":43,"against":15},
+{"country":"arm","name":"Spartak Yerevan","id":"Spartak_Yerevan_FC","win":15,"draw":4,"loss":3,"for":58,"against":16,"isRemoved":true},
+{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":9,"draw":6,"loss":7,"for":39,"against":22},
+{"country":"arm","name":"Mika Ashtarak","id":"FC_Mika","win":9,"draw":6,"loss":7,"for":35,"against":28},
+{"country":"arm","name":"Zvartnots-AAL","id":"Zvartnots-AAL_FC","win":10,"draw":2,"loss":10,"for":57,"against":29},
+{"country":"arm","name":"Lernagorts Kapan","id":"FC_Lernagorts_Kapan","win":6,"draw":5,"loss":11,"for":21,"against":43},
+{"country":"arm","name":"Lernayin Artsakh","id":"Lernayin_Artsakh_FC","win":5,"draw":2,"loss":15,"for":21,"against":52},
+{"country":"arm","name":"Dinamo-2000 Yerevan","id":"Ulisses_FC","win":3,"draw":3,"loss":16,"for":19,"against":63},
+{"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":2,"draw":5,"loss":15,"for":17,"against":62},
+{"country":"arm","name":"Lori Vanadzor","id":"Lori_FC","win":1,"draw":2,"loss":19,"for":15,"against":100,"isRemoved":true},
+{"country":"arm","name":"Malatia (W)","id":"FC_Malatia","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"isReturning":true}
 ]

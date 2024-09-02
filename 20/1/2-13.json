@@ -508,4 +508,13 @@
 {"country":"geo","name":"Sioni Bolnisi","id":"FC_Sioni_Bolnisi","win":8,"draw":9,"loss":15,"for":31,"against":51},
 {"country":"geo","name":"Dinamo Batumi","id":"FC_Dinamo_Batumi","win":8,"draw":7,"loss":17,"for":39,"against":55,"isRemoved":true,"isReturning":true},
 {"country":"geo","name":"Kolkheti Poti","id":"FC_Kolkheti-1913_Poti","win":3,"draw":8,"loss":21,"for":22,"against":56,"isRemoved":true}
+][
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":26,"draw":10,"loss":6,"for":70,"against":38,"isChampion":true},
+{"country":"arm","name":"Mika","id":"FC_Mika","win":24,"draw":7,"loss":11,"for":57,"against":39},
+{"country":"arm","name":"Gandzasar Kapan","id":"FC_Gandzasar_Kapan","win":18,"draw":13,"loss":11,"for":48,"against":37},
+{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":19,"draw":6,"loss":17,"for":67,"against":51},
+{"country":"arm","name":"Impuls","id":"Impuls_FC","win":18,"draw":6,"loss":18,"for":66,"against":65,"isRemoved":true,"removedNote":"Team disbanded at end of season"},
+{"country":"arm","name":"Ulisses","id":"Ulisses_FC","win":11,"draw":12,"loss":19,"for":41,"against":50},
+{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":9,"draw":6,"loss":27,"for":27,"against":70},
+{"country":"arm","name":"Banants","id":"FC_Urartu","win":5,"draw":16,"loss":21,"for":37,"against":64}
 ]

@@ -484,4 +484,18 @@
 {"country":"geo","name":"Guria Lanchkhuti","id":"FC_Guria_Lanchkhuti","win":3,"draw":6,"loss":23,"for":18,"against":73,"isRemoved":true,"isReturning":true},
 {"country":"geo","name":"Gorda Rustavi","id":"FC_Metalurgi_Rustavi","win":8,"draw":8,"loss":16,"for":36,"against":48},
 {"country":"geo","name":"Samgurali Tskhaltubo","id":"FC_Samgurali_Tsqaltubo","win":8,"draw":6,"loss":18,"for":26,"against":52,"isRemoved":true,"isReturning":true}
+][
+{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":17,"draw":2,"loss":3,"for":77,"against":23,"isChampion":true,"isReturning":true},
+{"country":"arm","name":"Zvartnots-AAL","id":"Zvartnots-AAL_FC","win":16,"draw":0,"loss":6,"for":52,"against":21},
+{"country":"arm","name":"Spartak Yerevan","id":"Spartak_Yerevan_FC","win":15,"draw":3,"loss":4,"for":57,"against":13,"isNew":true},
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":14,"draw":5,"loss":3,"for":52,"against":19},
+{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":13,"draw":3,"loss":6,"for":42,"against":22},
+{"country":"arm","name":"Mika Ashtarak","id":"FC_Mika","win":12,"draw":5,"loss":5,"for":44,"against":20},
+{"country":"arm","name":"Banants","id":"FC_Urartu","win":10,"draw":4,"loss":8,"for":46,"against":28,"isReturning":true},
+{"country":"arm","name":"Lernagorts Kapan","id":"FC_Lernagorts_Kapan","win":5,"draw":3,"loss":14,"for":25,"against":63},
+{"country":"arm","name":"Dinamo-2000","id":"Ulisses_FC","win":4,"draw":4,"loss":14,"for":18,"against":48,"isNew":true},
+{"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":3,"draw":3,"loss":16,"for":19,"against":65,"isReturning":true},
+{"country":"arm","name":"Karabakh Yerevan","id":"Lernayin_Artsakh_FC","win":2,"draw":6,"loss":14,"for":19,"against":63,"isReturning":true},
+{"country":"arm","name":"Lori Vanadzor","id":"Lori_FC","win":1,"draw":2,"loss":19,"for":17,"against":83,"isReturning":true},
+{"country":"arm","name":"Kilikia (E)","id":"Kilikia_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Expelled after one match"}
 ]

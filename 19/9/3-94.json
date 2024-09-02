@@ -527,4 +527,21 @@
 {"country":"smr","name":"S.P. Cailungo","id":"SP_Cailungo","win":4,"draw":6,"loss":8,"for":20,"against":30},
 {"country":"smr","name":"S.S. Folgore/Falciano","id":"SS_Folgore_Falciano_Calcio","win":3,"draw":6,"loss":9,"for":13,"against":23,"isRemoved":true,"isReturning":true},
 {"country":"smr","name":"S.S. Montevito","id":"FC_Fiorentino","win":1,"draw":9,"loss":8,"for":16,"against":27,"isRemoved":true}
+][
+{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":23,"draw":5,"loss":0,"for":92,"against":9,"isChampion":true,"isReturning":true},
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":24,"draw":1,"loss":3,"for":101,"against":20,"isNew":true},
+{"country":"arm","name":"Banants Kotayk","id":"FC_Urartu","win":23,"draw":2,"loss":3,"for":111,"against":21,"isNew":true},
+{"country":"arm","name":"Homenetmen Yerevan","id":"FC_Pyunik","win":21,"draw":3,"loss":4,"for":80,"against":29,"isNew":true},
+{"country":"arm","name":"Van Yerevan","id":"FC_Van_Yerevan","win":15,"draw":2,"loss":11,"for":71,"against":49,"isNew":true},
+{"country":"arm","name":"Tsement Ararat","id":"Araks_Ararat_FC","win":12,"draw":6,"loss":10,"for":56,"against":50,"isNew":true},
+{"country":"arm","name":"Homenmen-FIMA Yerevan","id":"Erebuni-Homenmen_FC","win":12,"draw":2,"loss":14,"for":54,"against":46,"isNew":true},
+{"country":"arm","name":"Yerazank","id":"Yerazank_FC","win":11,"draw":3,"loss":14,"for":44,"against":55,"isNew":true},
+{"country":"arm","name":"Nairit","id":"Nairi_SC","win":8,"draw":4,"loss":16,"for":29,"against":61,"isNew":true},
+{"country":"arm","name":"KanAZ Yerevan","id":"Arabkir_FC","win":8,"draw":4,"loss":16,"for":37,"against":75,"isNew":true},
+{"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":9,"draw":1,"loss":18,"for":57,"against":76,"isNew":true},
+{"country":"arm","name":"Impuls","id":"Impuls_FC","win":8,"draw":2,"loss":18,"for":42,"against":89,"isNew":true},
+{"country":"arm","name":"Zvartnots Echmiadzin","id":"BMA-Arai_Echmiadzin","win":6,"draw":4,"loss":18,"for":42,"against":78,"isNew":true},
+{"country":"arm","name":"Kasagh","id":"Kasakh_FC","win":5,"draw":2,"loss":21,"for":25,"against":116,"isRemoved":true,"isNew":true},
+{"country":"arm","name":"Malatia-Kilikia Yerevan","id":"FC_Malatia","win":2,"draw":5,"loss":21,"for":25,"against":92,"isRemoved":true,"isNew":true},
+{"country":"arm","name":"Syunik Kapan","id":"FC_Lernagorts_Kapan","win":null,"draw":null,"loss":null,"for":null,"against":null,"isNew":true,"note":"Withdrew at start of season","isRemoved":true}
 ]

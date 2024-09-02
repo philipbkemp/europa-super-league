@@ -488,4 +488,13 @@
 {"country":"geo","name":"Dinamo Batumi","id":"FC_Dinamo_Batumi","win":9,"draw":12,"loss":15,"for":35,"against":33},
 {"country":"geo","name":"Kolkheti-1913 Poti","id":"FC_Kolkheti-1913_Poti","win":9,"draw":5,"loss":22,"for":32,"against":63},
 {"country":"geo","name":"Dila Gori","id":"FC_Dila_Gori","win":2,"draw":4,"loss":30,"for":20,"against":88}
+][
+{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":22,"draw":5,"loss":1,"for":89,"against":25,"isChampion":true},
+{"country":"arm","name":"Mika Ashtarak","id":"FC_Mika","win":16,"draw":7,"loss":5,"for":41,"against":23},
+{"country":"arm","name":"Banants","id":"FC_Urartu","win":12,"draw":7,"loss":9,"for":40,"against":39},
+{"country":"arm","name":"Lernagorts-Ararat","id":"FC_Lernagorts_Kapan","win":12,"draw":7,"loss":9,"for":40,"against":33},
+{"country":"arm","name":"Dinamo-Zenit","id":"Ulisses_FC","win":7,"draw":6,"loss":15,"for":23,"against":51},
+{"country":"arm","name":"Kilikia","id":"Kilikia_FC","win":7,"draw":5,"loss":16,"for":32,"against":49,"isReturning":true},
+{"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":6,"draw":6,"loss":16,"for":31,"against":54},
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":4,"draw":9,"loss":15,"for":27,"against":49}
 ]

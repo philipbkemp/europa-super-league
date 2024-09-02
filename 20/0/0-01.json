@@ -507,4 +507,15 @@
 {"country":"geo","name":"Dila Gori","id":"FC_Dila_Gori","win":10,"draw":4,"loss":18,"for":33,"against":55,"isRemoved":true,"isReturning":true},
 {"country":"geo","name":"Gorda Rustavi","id":"FC_Metalurgi_Rustavi","win":8,"draw":11,"loss":13,"for":32,"against":42,"isReturning":true},
 {"country":"geo","name":"Iberia Samtredia","id":"FC_Samtredia","win":0,"draw":4,"loss":28,"for":10,"against":73,"isRemoved":true,"isReturning":true}
+][
+{"country":"arm","name":"Araks Ararat","id":"Araks_Ararat_FC","win":19,"draw":4,"loss":5,"for":65,"against":33,"isChampion":true,"isRemoved":true},
+{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":18,"draw":5,"loss":5,"for":50,"against":23},
+{"country":"arm","name":"Shirak","id":"Shirak_SC","win":17,"draw":7,"loss":4,"for":64,"against":21},
+{"country":"arm","name":"Mika","id":"FC_Mika","win":15,"draw":4,"loss":9,"for":45,"against":31,"isNew":true},
+{"country":"arm","name":"Zvartnots-AAL","id":"Zvartnots-AAL_FC","win":11,"draw":8,"loss":9,"for":44,"against":41},
+{"country":"arm","name":"Kilikia","id":"Kilikia_FC","win":9,"draw":3,"loss":16,"for":49,"against":56,"isReturning":true},
+{"country":"arm","name":"Lernagorts Kapan","id":"FC_Lernagorts_Kapan","win":3,"draw":3,"loss":22,"for":29,"against":82,"isReturning":true},
+{"country":"arm","name":"Dinamo Yerevan","id":"FC_Dinamo_Yerevan","win":1,"draw":4,"loss":23,"for":19,"against":78,"isRemoved":true,"isNew":true},
+{"country":"arm","name":"Yerevan","id":"FC_Yerevan","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew prior to season start"},
+{"country":"arm","name":"Erebuni-Homenmen","id":"Erebuni-Homenmen_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew prior to season start"}
 ]
