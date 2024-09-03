@@ -71,6 +71,7 @@ p a:hover { color: darkblue; }
 .country-list img, .club-list img { height: 23px; margin-right: 5px; position: relative; top: -2px; }
 .club-list img { float: right; top: 0; }
 .club-list img[src*='/icons/'] { height: 16px; position: relative; top: 4px; }
+.country-list img[src*='/icons/'] { height: 16px; position: relative; top: 4px; float: right; }
 .rules-list li { margin-bottom: 10px; }
 .club-list .tooltip-inner { background: #eee; color: black; border: 1px solid black;}
 h2 { font-size: 1.5rem; font-weight: normal; }

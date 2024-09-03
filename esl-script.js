@@ -585,7 +585,7 @@ if ( typeof(winners) !== "undefined" ) {
 
 $(document).ready(function(){
 	$('[data-bs-toggle="tooltip"]').tooltip({
-		container: '#divisionsTables, #winnersTables, #historyTables, .club-list',
+		container: '#divisionsTables, #winnersTables, #historyTables, .club-list, .country-list',
 		html: true
 	});
 });
