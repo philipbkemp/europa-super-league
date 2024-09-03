@@ -518,4 +518,16 @@
 {"country":"arm","name":"Dinamo Yerevan","id":"FC_Dinamo_Yerevan","win":1,"draw":4,"loss":23,"for":19,"against":78,"isRemoved":true,"isNew":true},
 {"country":"arm","name":"Yerevan","id":"FC_Yerevan","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew prior to season start"},
 {"country":"arm","name":"Erebuni-Homenmen","id":"Erebuni-Homenmen_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew prior to season start"}
+][
+{"country":"aze","name":"Shamkir","id":"Shamkir_FC","win":16,"draw":3,"loss":1,"for":60,"against":14,"isChampion":true},
+{"country":"aze","name":"Neftchi Baku","id":"Neftçi_PFK","win":16,"draw":3,"loss":1,"for":57,"against":11},
+{"country":"aze","name":"Vilash Masalli","id":"FK_Viləş_Masallı","win":11,"draw":5,"loss":4,"for":24,"against":11,"isRemoved":true},
+{"country":"aze","name":"Shafa Baku","id":"Shafa_Baku_FK","win":10,"draw":1,"loss":9,"for":27,"against":26},
+{"country":"aze","name":"Turan Tovuz","id":"Turan_Tovuz","win":9,"draw":3,"loss":8,"for":42,"against":28},
+{"country":"aze","name":"Dinamo Bakili Baki","id":"FC_Baku","win":9,"draw":2,"loss":9,"for":30,"against":29},
+{"country":"aze","name":"Hazar Universiteti Baki","id":"Shamakhi_FK","win":9,"draw":2,"loss":9,"for":26,"against":38},
+{"country":"aze","name":"FK Gäncä","id":"Kapaz_PFK","win":8,"draw":1,"loss":11,"for":34,"against":29},
+{"country":"aze","name":"Karabakh Agdam","id":"Qarabağ_FK","win":5,"draw":4,"loss":11,"for":19,"against":34},
+{"country":"aze","name":"Araz Nahchivan","id":"Araz-Naxçıvan_PFK","win":3,"draw":3,"loss":14,"for":14,"against":55,"isNew":true},
+{"country":"aze","name":"Shahdagh Guba","id":"Shahdag_Qusar_FK","win":0,"draw":1,"loss":19,"for":5,"against":63,"isRemoved":true,"isReturning":true}
 ]

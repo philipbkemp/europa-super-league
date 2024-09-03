@@ -544,4 +544,18 @@
 {"country":"arm","name":"BMA-Arai Echmiadzin","id":"BMA-Arai_Echmiadzin","win":5,"draw":5,"loss":18,"for":38,"against":85,"isRemoved":true},
 {"country":"arm","name":"KanAZ Yerevan","id":"Arabkir_FC","win":1,"draw":3,"loss":24,"for":15,"against":89,"isRemoved":true},
 {"country":"arm","name":"Impuls","id":"Impuls_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"note":"Withdrew at start of season","isRemoved":true}
+][
+{"country":"aze","name":"Kapaz","id":"Kapaz_PFK","win":19,"draw":4,"loss":1,"for":71,"against":19,"isChampion":true},
+{"country":"aze","name":"Turan Tovuz","id":"Turan_Tovuz","win":19,"draw":2,"loss":3,"for":48,"against":14},
+{"country":"aze","name":"Neftchi Baku","id":"Neftçi_PFK","win":17,"draw":4,"loss":3,"for":67,"against":15},
+{"country":"aze","name":"Karabakh Agdam","id":"Qarabağ_FK","win":13,"draw":6,"loss":5,"for":42,"against":31},
+{"country":"aze","name":"Kur","id":"Energetik_FK","win":13,"draw":2,"loss":9,"for":40,"against":24},
+{"country":"aze","name":"FK Masallı","id":"FK_Viləş_Masallı","win":12,"draw":4,"loss":8,"for":40,"against":28},
+{"country":"aze","name":"Khazri Buzovna","id":"Khazri_Buzovna","win":10,"draw":7,"loss":7,"for":35,"against":25},
+{"country":"aze","name":"Bakı Fahlasi Maştağa","id":"ANS_Pivani_Bakı_FK","win":8,"draw":7,"loss":9,"for":36,"against":26},
+{"country":"aze","name":"Pambiqci Neftcala","id":"FK_Pambiqci_Neftcala","win":7,"draw":5,"loss":12,"for":30,"against":52,"isNew":true},
+{"country":"aze","name":"Pambygchi Barda","id":"ABN_Barda","win":5,"draw":2,"loss":17,"for":19,"against":53,"isRemoved":true},
+{"country":"aze","name":"İnşaatçı Baku","id":"İnşaatçı_Baku_FK","win":4,"draw":3,"loss":17,"for":20,"against":50,"isRemoved":true},
+{"country":"aze","name":"Khazar Sumgayit","id":"FK_Khazar_Sumgayit","win":2,"draw":2,"loss":20,"for":18,"against":81,"isRemoved":true},
+{"country":"aze","name":"FK Khazar Lenkoran","id":"Khazar_Lankaran_FK","win":1,"draw":4,"loss":19,"for":10,"against":67,"isRemoved":true}
 ]

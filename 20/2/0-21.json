@@ -528,4 +528,13 @@
 {"country":"arm","name":"Lori","id":"Lori_FC","win":7,"draw":2,"loss":15,"for":16,"against":44,"isRemoved":true},
 {"country":"arm","name":"Shirak","id":"Shirak_SC","win":2,"draw":7,"loss":15,"for":19,"against":53,"isRemoved":true},
 {"country":"arm","name":"Gandzasar","id":"FC_Gandzasar_Kapan","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Club dissolved due to financial issues"}
+][
+{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":18,"draw":5,"loss":5,"for":47,"against":25,"isChampion":true},
+{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":16,"draw":9,"loss":3,"for":64,"against":18},
+{"country":"aze","name":"Sumgayit","id":"Sumgayit_FK","win":10,"draw":9,"loss":9,"for":30,"against":31},
+{"country":"aze","name":"Zira","id":"Zira_FK","win":8,"draw":14,"loss":6,"for":28,"against":28},
+{"country":"aze","name":"Sabah","id":"Sabah_FC_(Azerbaijan)","win":7,"draw":8,"loss":13,"for":28,"against":38},
+{"country":"aze","name":"Keşla","id":"Shamakhi_FK","win":5,"draw":11,"loss":12,"for":25,"against":40},
+{"country":"aze","name":"Gabala","id":"Gabala_SC","win":5,"draw":11,"loss":12,"for":23,"against":44},
+{"country":"aze","name":"Sabail","id":"Sabail_FK","win":5,"draw":9,"loss":14,"for":21,"against":42}
 ]

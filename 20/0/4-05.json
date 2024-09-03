@@ -497,4 +497,23 @@
 {"country":"arm","name":"Kilikia","id":"Kilikia_FC","win":7,"draw":5,"loss":16,"for":32,"against":49,"isReturning":true},
 {"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":6,"draw":6,"loss":16,"for":31,"against":54},
 {"country":"arm","name":"Shirak","id":"Shirak_SC","win":4,"draw":9,"loss":15,"for":27,"against":49}
+][
+{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":24,"draw":6,"loss":4,"for":52,"against":18,"isChampion":true},
+{"country":"aze","name":"Khazar Lankaran","id":"Khazar_Lankaran_FK","win":24,"draw":6,"loss":4,"for":68,"against":15,"isReturning":true},
+{"country":"aze","name":"Karvan","id":"Karvan_FK","win":23,"draw":7,"loss":4,"for":66,"against":18,"isNew":true},
+{"country":"aze","name":"Turan","id":"Turan_Tovuz","win":22,"draw":7,"loss":5,"for":64,"against":21},
+{"country":"aze","name":"Baku","id":"FC_Baku","win":21,"draw":10,"loss":3,"for":60,"against":14},
+{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":22,"draw":5,"loss":7,"for":61,"against":31},
+{"country":"aze","name":"Inter Baku","id":"Shamakhi_FK","win":19,"draw":9,"loss":6,"for":44,"against":24},
+{"country":"aze","name":"FK MKT-Araz","id":"Mil-Muğan_FK","win":16,"draw":9,"loss":9,"for":35,"against":23,"isNew":true},
+{"country":"aze","name":"Ganja","id":"Kapaz_PFK","win":11,"draw":9,"loss":14,"for":37,"against":37},
+{"country":"aze","name":"Karat Baki","id":"Karat_Baki","win":12,"draw":4,"loss":18,"for":40,"against":62,"isRemoved":true,"isNew":true},
+{"country":"aze","name":"Göyəzən","id":"Göyazan_Qazakh_FK","win":9,"draw":6,"loss":19,"for":30,"against":52,"isNew":true},
+{"country":"aze","name":"Gänclärbirliyi Sumqayit","id":"FK_Genclerbirliyi_Sumqayit","win":9,"draw":6,"loss":19,"for":32,"against":58,"isNew":true},
+{"country":"aze","name":"Şəmkir","id":"Shamkir_FC","win":9,"draw":5,"loss":20,"for":34,"against":48,"isRemoved":true},
+{"country":"aze","name":"Şahdağ","id":"Shahdag_Qusar_FK","win":8,"draw":8,"loss":18,"for":29,"against":51},
+{"country":"aze","name":"MOIK Baku","id":"MOIK_Baku","win":7,"draw":9,"loss":18,"for":24,"against":34},
+{"country":"aze","name":"Adliyya Baku","id":"Adliyya_Baku","win":7,"draw":4,"loss":23,"for":24,"against":66,"isRemoved":true},
+{"country":"aze","name":"Bakili","id":"Bakılı_PFK","win":3,"draw":5,"loss":26,"for":22,"against":71,"isRemoved":true},
+{"country":"aze","name":"Shafa Baku","id":"Shafa_Baku_FK","win":2,"draw":1,"loss":31,"for":16,"against":95,"isRemoved":true}
 ]

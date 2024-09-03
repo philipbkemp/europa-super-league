@@ -544,4 +544,21 @@
 {"country":"arm","name":"Kasagh","id":"Kasakh_FC","win":5,"draw":2,"loss":21,"for":25,"against":116,"isRemoved":true,"isNew":true},
 {"country":"arm","name":"Malatia-Kilikia Yerevan","id":"FC_Malatia","win":2,"draw":5,"loss":21,"for":25,"against":92,"isRemoved":true,"isNew":true},
 {"country":"arm","name":"Syunik Kapan","id":"FC_Lernagorts_Kapan","win":null,"draw":null,"loss":null,"for":null,"against":null,"isNew":true,"note":"Withdrew at start of season","isRemoved":true}
+][
+{"country":"aze","name":"Turan Tovuz","id":"Turan_Tovuz","win":23,"draw":4,"loss":3,"for":74,"against":18,"isChampion":true,"isNew":true},
+{"country":"aze","name":"Karabakh Agdam","id":"Qarabağ_FK","win":21,"draw":7,"loss":2,"for":52,"against":12,"isNew":true},
+{"country":"aze","name":"Kapaz","id":"Kapaz_PFK","win":20,"draw":7,"loss":3,"for":74,"against":47,"isReturning":true},
+{"country":"aze","name":"Khazar Sumgayit","id":"FK_Khazar_Sumgayit","win":13,"draw":9,"loss":8,"for":44,"against":28,"isNew":true},
+{"country":"aze","name":"Kur-Nur","id":"Energetik_FK","win":13,"draw":7,"loss":10,"for":36,"against":33,"isNew":true},
+{"country":"aze","name":"FK Masallı","id":"FK_Viləş_Masallı","win":15,"draw":2,"loss":13,"for":28,"against":28,"isNew":true},
+{"country":"aze","name":"Nicat Maştağa","id":"ANS_Pivani_Bakı_FK","win":11,"draw":9,"loss":10,"for":32,"against":29,"isNew":true},
+{"country":"aze","name":"Neftchi Baku","id":"Neftçi_PFK","win":11,"draw":7,"loss":12,"for":37,"against":11,"isReturning":true},
+{"country":"aze","name":"Khazar Lenkoran","id":"Khazar_Lankaran_FK","win":10,"draw":9,"loss":11,"for":44,"against":33,"isNew":true},
+{"country":"aze","name":"İnşaatçı Baku","id":"İnşaatçı_Baku_FK","win":9,"draw":10,"loss":11,"for":25,"against":28,"isNew":true},
+{"country":"aze","name":"Pambygchi Barda","id":"ABN_Barda","win":11,"draw":5,"loss":14,"for":40,"against":27,"isNew":true},
+{"country":"aze","name":"Khazri Buzovna","id":"Khazri_Buzovna","win":10,"draw":7,"loss":13,"for":35,"against":34,"isNew":true},
+{"country":"aze","name":"Nefteqaz","id":"Shahdag_Qusar_FK","win":11,"draw":2,"loss":17,"for":40,"against":62,"isRemoved":true,"isNew":true},
+{"country":"aze","name":"Azeri Baku","id":"Azeri_Baku_FK","win":7,"draw":7,"loss":16,"for":28,"against":53,"isRemoved":true,"isNew":true},
+{"country":"aze","name":"Kürmük Qakh","id":"Kürmük_Qakh_FK","win":5,"draw":3,"loss":22,"for":18,"against":84,"isRemoved":true,"isNew":true},
+{"country":"aze","name":"Avtomobilçi Yevlax","id":"Avtomobilçi_Yevlax_FK","win":2,"draw":1,"loss":27,"for":13,"against":90,"isRemoved":true,"isNew":true}
 ]

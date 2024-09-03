@@ -535,4 +535,19 @@
 {"country":"arm","name":"Karabakh Yerevan","id":"Lernayin_Artsakh_FC","win":4,"draw":5,"loss":11,"for":24,"against":37},
 {"country":"arm","name":"Aragats","id":"Aragats_Gyumri_FC","win":0,"draw":1,"loss":19,"for":10,"against":68,"isReturning":true},
 {"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":null,"draw":null,"loss":null,"for":null,"against":null,"isRemoved":true,"removedNote":"Expelled after failing to pay starting tax"}
+][
+{"country":"aze","name":"Kapaz","id":"Kapaz_PFK","win":26,"draw":5,"loss":5,"for":94,"against":24,"isChampion":true},
+{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":20,"draw":6,"loss":10,"for":50,"against":29},
+{"country":"aze","name":"Dinamo Baku","id":"FC_Baku","win":18,"draw":5,"loss":13,"for":52,"against":34},
+{"country":"aze","name":"Neftchi Baku","id":"Neftçi_PFK","win":19,"draw":10,"loss":7,"for":68,"against":25},
+{"country":"aze","name":"Shamkir","id":"Shamkir_FC","win":21,"draw":3,"loss":12,"for":52,"against":34},
+{"country":"aze","name":"Bakı Fahlasi","id":"ANS_Pivani_Bakı_FK","win":17,"draw":8,"loss":11,"for":51,"against":33},
+{"country":"aze","name":"Turan Tovuz","id":"Turan_Tovuz","win":18,"draw":9,"loss":5,"for":59,"against":27},
+{"country":"aze","name":"Viləş Masallı","id":"FK_Viləş_Masallı","win":16,"draw":7,"loss":9,"for":55,"against":37},
+{"country":"aze","name":"Bakili Baku","id":"Bakılı_PFK","win":7,"draw":7,"loss":18,"for":18,"against":49,"isRemoved":true,"removedNote":"Relegated due to financial issues"},
+{"country":"aze","name":"MOIK Baku","id":"MOIK_Baku","win":8,"draw":11,"loss":13,"for":28,"against":36},
+{"country":"aze","name":"Khazar Sumgayit","id":"FK_Khazar_Sumgayit","win":6,"draw":3,"loss":21,"for":29,"against":79},
+{"country":"aze","name":"Shafa Baku","id":"Shafa_Baku_FK","win":6,"draw":6,"loss":18,"for":36,"against":57,"isNew":true},
+{"country":"aze","name":"Shahdag","id":"Shahdag_Qusar_FK","win":2,"draw":4,"loss":20,"for":20,"against":86,"isRemoved":true,"removedNote":"Withdrew","isReturning":true},
+{"country":"aze","name":"Neftqaz Bakı","id":"FK_Neftqaz_Bakı","win":2,"draw":4,"loss":24,"for":18,"against":80,"isRemoved":true,"isNew":true}
 ]

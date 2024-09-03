@@ -497,4 +497,19 @@
 {"country":"arm","name":"Lernayin Artsakh","id":"Lernayin_Artsakh_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before season start"},
 {"country":"arm","name":"Zvartnots-AAL","id":"Zvartnots-AAL_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before season start"},
 {"country":"arm","name":"Armavir","id":"FC_Armavir_(Armenia)","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before season start","isNew":true}
+][
+{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":22,"draw":3,"loss":1,"for":66,"against":15,"isChampion":true,"isReturning":true},
+{"country":"aze","name":"Şəmkir","id":"Shamkir_FC","win":20,"draw":4,"loss":2,"for":67,"against":11,"isReturning":true},
+{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":19,"draw":3,"loss":4,"for":63,"against":17,"isReturning":true},
+{"country":"aze","name":"Khazar Universiteti Baku","id":"Shamakhi_FK","win":15,"draw":6,"loss":5,"for":43,"against":16,"isReturning":true},
+{"country":"aze","name":"Dinamo Baku","id":"FC_Baku","win":12,"draw":5,"loss":9,"for":45,"against":32,"isReturning":true},
+{"country":"aze","name":"Shafa Baku","id":"Shafa_Baku_FK","win":12,"draw":3,"loss":11,"for":40,"against":23,"isReturning":true},
+{"country":"aze","name":"Bakili Baku","id":"Bakılı_PFK","win":10,"draw":4,"loss":12,"for":40,"against":46,"isReturning":true},
+{"country":"aze","name":"MOIK Baku","id":"MOIK_Baku","win":7,"draw":8,"loss":11,"for":25,"against":32,"isReturning":true},
+{"country":"aze","name":"Adliyya Baku","id":"Adliyya_Baku","win":7,"draw":8,"loss":11,"for":27,"against":40,"isNew":true},
+{"country":"aze","name":"Şahdağ","id":"Shahdag_Qusar_FK","win":7,"draw":6,"loss":13,"for":29,"against":41,"isReturning":true},
+{"country":"aze","name":"Ganja","id":"Kapaz_PFK","win":6,"draw":5,"loss":15,"for":22,"against":45,"isReturning":true},
+{"country":"aze","name":"Xəzər Sumqayıt","id":"FK_Khazar_Sumgayit","win":7,"draw":1,"loss":18,"for":32,"against":78,"isRemoved":true,"isReturning":true},
+{"country":"aze","name":"Turan","id":"Turan_Tovuz","win":4,"draw":4,"loss":18,"for":15,"against":59,"isReturning":true},
+{"country":"aze","name":"Lokomotiv Imisli","id":"Lokomotiv_Imisli","win":4,"draw":0,"loss":22,"for":17,"against":76,"isRemoved":true,"isNew":true}
 ]

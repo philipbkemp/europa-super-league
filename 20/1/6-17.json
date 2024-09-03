@@ -488,4 +488,13 @@
 {"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":12,"draw":9,"loss":9,"for":35,"against":27},
 {"country":"arm","name":"Banants","id":"FC_Urartu","win":5,"draw":6,"loss":19,"for":18,"against":44},
 {"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":3,"draw":3,"loss":24,"for":17,"against":53}
+][
+{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":19,"draw":5,"loss":4,"for":46,"against":14,"isChampion":true},
+{"country":"aze","name":"Gabala","id":"Gabala_SC","win":14,"draw":10,"loss":4,"for":48,"against":21},
+{"country":"aze","name":"Inter Baku","id":"Shamakhi_FK","win":11,"draw":10,"loss":7,"for":39,"against":33},
+{"country":"aze","name":"Zira","id":"Zira_FK","win":10,"draw":9,"loss":9,"for":29,"against":26},
+{"country":"aze","name":"Kapaz","id":"Kapaz_PFK","win":9,"draw":9,"loss":10,"for":24,"against":27},
+{"country":"aze","name":"Sumgayit","id":"Sumgayit_FK","win":9,"draw":8,"loss":11,"for":28,"against":35},
+{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":9,"draw":2,"loss":17,"for":24,"against":45},
+{"country":"aze","name":"AZAL","id":"Shuvalan_FK","win":1,"draw":7,"loss":20,"for":13,"against":50,"isRemoved":true}
 ]

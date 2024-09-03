@@ -514,4 +514,21 @@
 {"country":"arm","name":"Arabkir","id":"Arabkir_FC","win":4,"draw":0,"loss":18,"for":20,"against":89,"isRemoved":true,"isReturning":true},
 {"country":"arm","name":"Zangezour","id":"FC_Zangezour","win":2,"draw":3,"loss":17,"for":9,"against":77,"isRemoved":true},
 {"country":"arm","name":"BKMA Yerevan","id":"FC_BKMA_Yerevan","win":1,"draw":1,"loss":20,"for":10,"against":56,"isRemoved":true,"removedNote":"Withdrew after financial issues","isNew":true}
+][
+{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":23,"draw":5,"loss":2,"for":98,"against":20,"isChampion":true},
+{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":23,"draw":2,"loss":5,"for":61,"against":25},
+{"country":"aze","name":"Khazri Buzovna","id":"Khazri_Buzovna","win":20,"draw":6,"loss":4,"for":59,"against":23},
+{"country":"aze","name":"Turan","id":"Turan_Tovuz","win":19,"draw":7,"loss":4,"for":48,"against":13},
+{"country":"aze","name":"Kapaz","id":"Kapaz_PFK","win":18,"draw":4,"loss":8,"for":59,"against":26},
+{"country":"aze","name":"Khazar Sumgayit","id":"FK_Khazar_Sumgayit","win":18,"draw":4,"loss":8,"for":58,"against":30,"isReturning":true},
+{"country":"aze","name":"Fərid Baku","id":"FK_Fərid_Baku","win":13,"draw":8,"loss":9,"for":45,"against":31,"isNew":true,"isRemoved":true},
+{"country":"aze","name":"Pambygchi Barda","id":"ABN_Barda","win":11,"draw":5,"loss":14,"for":41,"against":47,"isReturning":true},
+{"country":"aze","name":"MOIK Baku","id":"MOIK_Baku","win":7,"draw":6,"loss":17,"for":26,"against":50},
+{"country":"aze","name":"Şəmkir","id":"Shamkir_FC","win":8,"draw":2,"loss":20,"for":30,"against":106},
+{"country":"aze","name":"Bakı Fahlasi","id":"ANS_Pivani_Bakı_FK","win":10,"draw":7,"loss":13,"for":37,"against":41},
+{"country":"aze","name":"FK Masallı","id":"FK_Viləş_Masallı","win":9,"draw":6,"loss":15,"for":38,"against":52},
+{"country":"aze","name":"Kur-Nur","id":"Energetik_FK","win":7,"draw":4,"loss":19,"for":30,"against":59},
+{"country":"aze","name":"Police Academy","id":"FC_Baku","win":5,"draw":7,"loss":18,"for":23,"against":49,"isNew":true},
+{"country":"aze","name":"Pambiqci Neftcala","id":"FK_Pambiqci_Neftcala","win":5,"draw":6,"loss":19,"for":27,"against":68,"isRemoved":true},
+{"country":"aze","name":"Azerbaijan U-18","id":"Azerbaijan_national_under-18_football_team","win":4,"draw":1,"loss":25,"for":38,"against":78,"isNew":true}
 ]

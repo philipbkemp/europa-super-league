@@ -514,4 +514,17 @@
 {"country":"arm","name":"Gandzasar Kapan","id":"FC_Gandzasar_Kapan","win":8,"draw":3,"loss":17,"for":24,"against":45},
 {"country":"arm","name":"Kilikia","id":"Kilikia_FC","win":4,"draw":3,"loss":21,"for":19,"against":60,"isRemoved":true,"removedNote":"Team disbanded at end of season"},
 {"country":"arm","name":"Shirak","id":"Shirak_SC","win":2,"draw":4,"loss":22,"for":22,"against":68}
+][
+{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":19,"draw":10,"loss":3,"for":53,"against":17,"isChampion":true},
+{"country":"aze","name":"Khazar Lankaran","id":"Khazar_Lankaran_FK","win":16,"draw":12,"loss":4,"for":38,"against":18},
+{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":17,"draw":7,"loss":8,"for":41,"against":22},
+{"country":"aze","name":"Inter Baku","id":"Shamakhi_FK","win":13,"draw":10,"loss":9,"for":29,"against":24},
+{"country":"aze","name":"AZAL","id":"Shuvalan_FK","win":13,"draw":10,"loss":9,"for":36,"against":28},
+{"country":"aze","name":"Baku","id":"FC_Baku","win":10,"draw":10,"loss":12,"for":33,"against":32},
+{"country":"aze","name":"Gabala","id":"Gabala_SC","win":13,"draw":12,"loss":7,"for":31,"against":18},
+{"country":"aze","name":"Mughan","id":"Mughan_FK","win":13,"draw":8,"loss":11,"for":29,"against":31,"isRemoved":true},
+{"country":"aze","name":"Ganja","id":"Kapaz_PFK","win":8,"draw":12,"loss":12,"for":33,"against":37,"isReturning":true},
+{"country":"aze","name":"Turan","id":"Turan_Tovuz","win":7,"draw":6,"loss":19,"for":24,"against":47},
+{"country":"aze","name":"Simurq","id":"Simurq_PIK","win":4,"draw":7,"loss":21,"for":20,"against":52,"isRemoved":true},
+{"country":"aze","name":"MOIK Baku","id":"MOIK_Baku","win":4,"draw":6,"loss":22,"for":14,"against":55,"isRemoved":true,"isReturning":true}
 ]

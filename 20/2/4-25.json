@@ -499,4 +499,15 @@
 {"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":1,"draw":1,"loss":1,"for":2,"against":2,"isCurrentSeason":true},
 {"country":"arm","name":"Gandzasar Kapan","id":"FC_Gandzasar_Kapan","win":0,"draw":0,"loss":3,"for":1,"against":10,"isCurrentSeason":true,"isReturning":true},
 {"country":"arm","name":"West Armenia","id":"FC_West_Armenia","win":0,"draw":0,"loss":3,"for":3,"against":13,"isCurrentSeason":true}
+][
+{"country":"aze","name":"Turan Tovuz","id":"Turan_Tovuz","win":4,"draw":1,"loss":0,"for":6,"against":0,"isCurrentSeason":true},
+{"country":"aze","name":"Sabah","id":"Sabah_FC_(Azerbaijan)","win":3,"draw":1,"loss":1,"for":10,"against":7,"isCurrentSeason":true},
+{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":3,"draw":0,"loss":1,"for":10,"against":3,"isCurrentSeason":true},
+{"country":"aze","name":"Araz-Naxçıvan","id":"Araz-Naxçıvan_PFK","win":2,"draw":1,"loss":1,"for":4,"against":5,"isCurrentSeason":true},
+{"country":"aze","name":"Zira","id":"Zira_FK","win":2,"draw":0,"loss":2,"for":7,"against":5,"isCurrentSeason":true},
+{"country":"aze","name":"Sumgayit","id":"Sumgayit_FK","win":2,"draw":0,"loss":3,"for":5,"against":6,"isCurrentSeason":true},
+{"country":"aze","name":"Shamakhi","id":"Shamakhi_FK","win":1,"draw":2,"loss":1,"for":3,"against":3,"isCurrentSeason":true,"isReturning":true},
+{"country":"aze","name":"Sabail","id":"Sabail_FK","win":1,"draw":1,"loss":3,"for":7,"against":8,"isCurrentSeason":true},
+{"country":"aze","name":"Neftçi","id":"Neftçi_PFK","win":0,"draw":4,"loss":1,"for":2,"against":4,"isCurrentSeason":true},
+{"country":"aze","name":"Kapaz","id":"Kapaz_PFK","win":0,"draw":0,"loss":5,"for":2,"against":15,"isCurrentSeason":true}
 ]

@@ -514,4 +514,19 @@
 {"country":"arm","name":"Ulisses","id":"Ulisses_FC","win":8,"draw":6,"loss":14,"for":21,"against":46},
 {"country":"arm","name":"Kilikia","id":"Kilikia_FC","win":1,"draw":2,"loss":25,"for":10,"against":70},
 {"country":"arm","name":"Lernayin Artsakh","id":"Lernayin_Artsakh_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before start of season","isReturning":true}
+][
+{"country":"aze","name":"Inter Baku","id":"Shamakhi_FK","win":18,"draw":4,"loss":4,"for":55,"against":18,"isChampion":true},
+{"country":"aze","name":"Olimpik Baku","id":"Shuvalan_FK","win":17,"draw":7,"loss":2,"for":29,"against":7},
+{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":16,"draw":7,"loss":3,"for":42,"against":18},
+{"country":"aze","name":"Khazar Lankaran","id":"Khazar_Lankaran_FK","win":14,"draw":10,"loss":2,"for":44,"against":16},
+{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":11,"draw":8,"loss":7,"for":25,"against":16},
+{"country":"aze","name":"Gabala","id":"Gabala_SC","win":11,"draw":3,"loss":12,"for":33,"against":36},
+{"country":"aze","name":"Simurq","id":"Simurq_PIK","win":9,"draw":9,"loss":8,"for":31,"against":25},
+{"country":"aze","name":"Baku","id":"FC_Baku","win":8,"draw":11,"loss":7,"for":35,"against":26},
+{"country":"aze","name":"Standard Baku","id":"FK_Standard_Sumgayit","win":8,"draw":8,"loss":10,"for":36,"against":26,"isReturning":true},
+{"country":"aze","name":"FK Masallı","id":"FK_Viləş_Masallı","win":8,"draw":6,"loss":12,"for":30,"against":40,"isReturning":true},
+{"country":"aze","name":"Karvan","id":"Karvan_FK","win":6,"draw":5,"loss":15,"for":23,"against":36},
+{"country":"aze","name":"Turan","id":"Turan_Tovuz","win":4,"draw":6,"loss":16,"for":21,"against":49},
+{"country":"aze","name":"Gänclärbirliyi Sumqayit","id":"FK_Genclerbirliyi_Sumqayit","win":4,"draw":2,"loss":20,"for":21,"against":68,"isRemoved":true},
+{"country":"aze","name":"ABN Bärdä","id":"ABN_Barda","win":2,"draw":6,"loss":18,"for":12,"against":56,"isRemoved":true,"isReturning":true}
 ]

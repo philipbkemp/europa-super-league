@@ -532,4 +532,15 @@
 {"country":"arm","name":"Noah","id":"FC_Noah","win":8,"draw":8,"loss":20,"for":34,"against":66},
 {"country":"arm","name":"BKMA","id":"FC_BKMA_Yerevan","win":7,"draw":11,"loss":18,"for":36,"against":53},
 {"country":"arm","name":"Lernayin Artsakh","id":"Lernayin_Artsakh_FC","win":5,"draw":7,"loss":24,"for":16,"against":59,"isRemoved":true,"isReturning":true}
+][
+{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":28,"draw":6,"loss":2,"for":91,"against":25,"isChampion":true},
+{"country":"aze","name":"Sabah","id":"Sabah_FC_(Azerbaijan)","win":25,"draw":6,"loss":5,"for":75,"against":24},
+{"country":"aze","name":"Neftçi","id":"Neftçi_PFK","win":20,"draw":8,"loss":8,"for":63,"against":38},
+{"country":"aze","name":"Gabala","id":"Gabala_SC","win":13,"draw":11,"loss":12,"for":47,"against":47},
+{"country":"aze","name":"Zira","id":"Zira_FK","win":13,"draw":11,"loss":12,"for":45,"against":46},
+{"country":"aze","name":"Turan Tovuz","id":"Turan_Tovuz","win":10,"draw":9,"loss":17,"for":36,"against":49,"isReturning":true},
+{"country":"aze","name":"Sumgayit","id":"Sumgayit_FK","win":8,"draw":7,"loss":21,"for":26,"against":70},
+{"country":"aze","name":"Kapaz","id":"Kapaz_PFK","win":6,"draw":13,"loss":17,"for":34,"against":62,"isReturning":true},
+{"country":"aze","name":"Sabail","id":"Sabail_FK","win":7,"draw":8,"loss":21,"for":32,"against":62},
+{"country":"aze","name":"Shamakhi","id":"Shamakhi_FK","win":4,"draw":13,"loss":19,"for":26,"against":52,"isRemoved":true}
 ]

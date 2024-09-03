@@ -513,4 +513,19 @@
 {"country":"arm","name":"Shirak","id":"Shirak_SC","win":4,"draw":7,"loss":17,"for":21,"against":64},
 {"country":"arm","name":"Ulisses","id":"Ulisses_FC","win":5,"draw":2,"loss":21,"for":31,"against":66},
 {"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Disbanded before start of season"}
+][
+{"country":"aze","name":"Khazar Lankaran","id":"Khazar_Lankaran_FK","win":17,"draw":5,"loss":2,"for":50,"against":16,"isChampion":true},
+{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":17,"draw":3,"loss":4,"for":47,"against":15},
+{"country":"aze","name":"Baku","id":"FC_Baku","win":14,"draw":6,"loss":4,"for":25,"against":10},
+{"country":"aze","name":"Inter Baku","id":"Shamakhi_FK","win":13,"draw":6,"loss":5,"for":36,"against":12},
+{"country":"aze","name":"FK MKT-Araz","id":"Mil-Muğan_FK","win":12,"draw":5,"loss":7,"for":23,"against":18,"isRemoved":true},
+{"country":"aze","name":"Olimpik Baku","id":"Shuvalan_FK","win":11,"draw":8,"loss":5,"for":28,"against":17},
+{"country":"aze","name":"Karvan","id":"Karvan_FK","win":10,"draw":5,"loss":9,"for":36,"against":30},
+{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":6,"draw":9,"loss":9,"for":20,"against":27},
+{"country":"aze","name":"Simurq","id":"Simurq_PIK","win":6,"draw":7,"loss":11,"for":27,"against":33,"isNew":true},
+{"country":"aze","name":"Turan","id":"Turan_Tovuz","win":5,"draw":5,"loss":14,"for":24,"against":38},
+{"country":"aze","name":"Gabala","id":"Gabala_SC","win":4,"draw":4,"loss":16,"for":17,"against":47,"isNew":true},
+{"country":"aze","name":"Gänclärbirliyi Sumqayit","id":"FK_Genclerbirliyi_Sumqayit","win":3,"draw":3,"loss":18,"for":16,"against":54},
+{"country":"aze","name":"Şahdağ","id":"Shahdag_Qusar_FK","win":1,"draw":8,"loss":15,"for":15,"against":47,"isRemoved":true},
+{"country":"aze","name":"Ganja","id":"Kapaz_PFK","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Relegated and excluded due to financial issues"}
 ]

@@ -512,4 +512,19 @@
 {"country":"arm","name":"Shirak","id":"Shirak_SC","win":3,"draw":3,"loss":12,"for":19,"against":36},
 {"country":"arm","name":"Lernagorts-Ararat","id":"FC_Lernagorts_Kapan","win":4,"draw":2,"loss":12,"for":11,"against":39,"isRemoved":true},
 {"country":"arm","name":"Lernayin Artsakh","id":"Lernayin_Artsakh_FC","win":3,"draw":0,"loss":13,"for":14,"against":37,"isRemoved":true,"removedNote":"Withdrew; remaining results awarded to opposition","isReturning":true}
+][
+{"country":"aze","name":"Baku","id":"FC_Baku","win":18,"draw":4,"loss":4,"for":42,"against":12,"isChampion":true},
+{"country":"aze","name":"Karvan","id":"Karvan_FK","win":17,"draw":6,"loss":3,"for":50,"against":9},
+{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":15,"draw":9,"loss":2,"for":51,"against":16},
+{"country":"aze","name":"Inter Baku","id":"Shamakhi_FK","win":14,"draw":8,"loss":4,"for":35,"against":14},
+{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":12,"draw":4,"loss":10,"for":32,"against":32},
+{"country":"aze","name":"Turan","id":"Turan_Tovuz","win":11,"draw":5,"loss":10,"for":27,"against":21},
+{"country":"aze","name":"Khazar Lankaran","id":"Khazar_Lankaran_FK","win":9,"draw":9,"loss":8,"for":27,"against":18},
+{"country":"aze","name":"Şahdağ","id":"Shahdag_Qusar_FK","win":10,"draw":5,"loss":11,"for":26,"against":36},
+{"country":"aze","name":"FK MKT-Araz","id":"Mil-Muğan_FK","win":9,"draw":8,"loss":9,"for":31,"against":36},
+{"country":"aze","name":"Ganja","id":"Kapaz_PFK","win":7,"draw":7,"loss":12,"for":35,"against":46},
+{"country":"aze","name":"Gänclärbirliyi Sumqayit","id":"FK_Genclerbirliyi_Sumqayit","win":6,"draw":9,"loss":11,"for":25,"against":37},
+{"country":"aze","name":"Olimpik Baku","id":"Shuvalan_FK","win":5,"draw":8,"loss":13,"for":15,"against":27,"isNew":true},
+{"country":"aze","name":"MOIK Baku","id":"MOIK_Baku","win":2,"draw":3,"loss":21,"for":13,"against":67,"isRemoved":true},
+{"country":"aze","name":"Göyəzən","id":"Göyazan_Qazakh_FK","win":0,"draw":9,"loss":17,"for":14,"against":52,"isRemoved":true}
 ]
