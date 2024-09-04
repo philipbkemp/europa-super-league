@@ -556,4 +556,23 @@
 {"country":"hrv","name":"Varteks","id":"NK_Varaždin_(1931–2015)","win":10,"draw":5,"loss":18,"for":41,"against":55},
 {"country":"hrv","name":"Zadar","id":"NK_Zadar","win":7,"draw":8,"loss":18,"for":28,"against":49},
 {"country":"hrv","name":"Croatia Sesvete","id":"NK_Croatia_Sesvete","win":6,"draw":8,"loss":19,"for":31,"against":66,"deduct":-1,"deductReason":"Unpaid debts","isNew":true}
+][
+{"country":"deu","name":"VfL Wolfsburg","id":"VfL_Wolfsburg","win":21,"draw":6,"loss":7,"for":80,"against":41,"isChampion":true},
+{"country":"deu","name":"Bayern Munich","id":"FC_Bayern_Munich","win":20,"draw":7,"loss":7,"for":71,"against":42},
+{"country":"deu","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":19,"draw":7,"loss":8,"for":63,"against":43},
+{"country":"deu","name":"Hertha BSC","id":"Hertha_BSC","win":19,"draw":6,"loss":9,"for":48,"against":41},
+{"country":"deu","name":"Hamburger SV","id":"Hamburger_SV","win":19,"draw":4,"loss":11,"for":49,"against":47},
+{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":15,"draw":14,"loss":5,"for":60,"against":37},
+{"country":"deu","name":"1899 Hoffenheim","id":"TSG_1899_Hoffenheim","win":15,"draw":10,"loss":9,"for":63,"against":49,"isNew":true},
+{"country":"deu","name":"Schalke 04","id":"FC_Schalke_04","win":14,"draw":8,"loss":12,"for":47,"against":35},
+{"country":"deu","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":14,"draw":7,"loss":13,"for":59,"against":46},
+{"country":"deu","name":"Werder Bremen","id":"SV_Werder_Bremen","win":12,"draw":9,"loss":13,"for":64,"against":50},
+{"country":"deu","name":"Hannover 96","id":"Hannover_96","win":10,"draw":10,"loss":14,"for":49,"against":69},
+{"country":"deu","name":"1. FC Köln","id":"1._FC_Köln","win":11,"draw":6,"loss":17,"for":35,"against":50,"isReturning":true},
+{"country":"deu","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":8,"draw":9,"loss":17,"for":39,"against":60},
+{"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":7,"draw":11,"loss":16,"for":39,"against":55},
+{"country":"deu","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":8,"draw":7,"loss":19,"for":39,"against":62,"isReturning":true},
+{"country":"deu","name":"Energie Cottbus","id":"FC_Energie_Cottbus","win":8,"draw":6,"loss":20,"for":30,"against":57,"isRemoved":true},
+{"country":"deu","name":"Karlsruher SC","id":"Karlsruher_SC","win":8,"draw":5,"loss":21,"for":30,"against":54,"isRemoved":true},
+{"country":"deu","name":"Arminia Bielefeld","id":"Arminia_Bielefeld","win":4,"draw":16,"loss":14,"for":29,"against":56,"isRemoved":true}
 ]

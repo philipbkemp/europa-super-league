@@ -597,4 +597,23 @@
 {"country":"hrv","name":"Dubrovnik","id":"HNK_Dubrovnik_1919","win":7,"draw":9,"loss":18,"for":26,"against":60,"isRemoved":true},
 {"country":"hrv","name":"Dubrava","id":"NK_Dubrava","win":7,"draw":9,"loss":18,"for":28,"against":63,"isRemoved":true,"isNew":true},
 {"country":"hrv","name":"Radnik Velika Gorica","id":"NK_Radnik_Velika_Gorica","win":3,"draw":2,"loss":29,"for":17,"against":109,"isRemoved":true}
+][
+{"country":"deu","name":"Bayern Munich","id":"FC_Bayern_Munich","win":17,"draw":10,"loss":7,"for":68,"against":37,"isChampion":true},
+{"country":"deu","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":18,"draw":7,"loss":9,"for":64,"against":36},
+{"country":"deu","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":14,"draw":11,"loss":9,"for":60,"against":47},
+{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":15,"draw":9,"loss":10,"for":49,"against":45},
+{"country":"deu","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":15,"draw":8,"loss":11,"for":57,"against":41},
+{"country":"deu","name":"Karlsruher SC","id":"Karlsruher_SC","win":14,"draw":10,"loss":10,"for":46,"against":43},
+{"country":"deu","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":13,"draw":11,"loss":10,"for":51,"against":43},
+{"country":"deu","name":"Werder Bremen","id":"SV_Werder_Bremen","win":13,"draw":10,"loss":11,"for":51,"against":44},
+{"country":"deu","name":"MSV Duisburg","id":"MSV_Duisburg","win":14,"draw":8,"loss":12,"for":41,"against":52,"isReturning":true},
+{"country":"deu","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":14,"draw":7,"loss":13,"for":65,"against":59},
+{"country":"deu","name":"1. FC Köln","id":"1._FC_Köln","win":14,"draw":6,"loss":14,"for":49,"against":51},
+{"country":"deu","name":"Hamburger SV","id":"Hamburger_SV","win":13,"draw":8,"loss":13,"for":48,"against":52},
+{"country":"deu","name":"Dynamo Dresden","id":"Dynamo_Dresden","win":10,"draw":14,"loss":10,"for":33,"against":44,"deduct":-4,"deductReason":"Financial irregularities"},
+{"country":"deu","name":"Schalke 04","id":"FC_Schalke_04","win":10,"draw":9,"loss":15,"for":38,"against":50},
+{"country":"deu","name":"SC Freiburg","id":"SC_Freiburg","win":10,"draw":8,"loss":16,"for":54,"against":57,"isNew":true},
+{"country":"deu","name":"1. FC Nürnberg","id":"1._FC_Nürnberg","win":10,"draw":8,"loss":16,"for":41,"against":55,"isRemoved":true},
+{"country":"deu","name":"SG Wattenscheid 09","id":"SG_Wattenscheid_09","win":6,"draw":11,"loss":17,"for":48,"against":70,"isRemoved":true},
+{"country":"deu","name":"VfB Leipzig","id":"1._FC_Lokomotive_Leipzig","win":3,"draw":11,"loss":20,"for":32,"against":69,"isRemoved":true,"isReturning":true}
 ]

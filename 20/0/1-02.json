@@ -543,4 +543,23 @@
 {"country":"hrv","name":"Čakovec","id":"NK_Čakovec","win":9,"draw":5,"loss":16,"for":31,"against":44,"isRemoved":true},
 {"country":"hrv","name":"Marsonia","id":"NK_Marsonia","win":8,"draw":6,"loss":16,"for":37,"against":46,"isRemoved":true},
 {"country":"hrv","name":"TŠK Topolovac","id":"NK_TŠK_Topolovac","win":4,"draw":2,"loss":24,"for":31,"against":95,"isRemoved":true,"isNew":true}
+][
+{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":21,"draw":7,"loss":6,"for":62,"against":33,"isChampion":true},
+{"country":"deu","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":21,"draw":6,"loss":7,"for":77,"against":38},
+{"country":"deu","name":"Bayern Munich","id":"FC_Bayern_Munich","win":20,"draw":8,"loss":6,"for":65,"against":25},
+{"country":"deu","name":"Hertha BSC","id":"Hertha_BSC","win":18,"draw":7,"loss":9,"for":61,"against":38},
+{"country":"deu","name":"Schalke 04","id":"FC_Schalke_04","win":18,"draw":7,"loss":9,"for":52,"against":36},
+{"country":"deu","name":"Werder Bremen","id":"SV_Werder_Bremen","win":17,"draw":5,"loss":12,"for":54,"against":43},
+{"country":"deu","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":17,"draw":5,"loss":12,"for":62,"against":53},
+{"country":"deu","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":13,"draw":11,"loss":10,"for":47,"against":43},
+{"country":"deu","name":"1860 Munich","id":"TSV_1860_Munich","win":15,"draw":5,"loss":14,"for":59,"against":59},
+{"country":"deu","name":"VfL Wolfsburg","id":"VfL_Wolfsburg","win":13,"draw":7,"loss":14,"for":57,"against":49},
+{"country":"deu","name":"Hamburger SV","id":"Hamburger_SV","win":10,"draw":10,"loss":14,"for":51,"against":57},
+{"country":"deu","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":9,"draw":12,"loss":13,"for":41,"against":53,"isReturning":true},
+{"country":"deu","name":"Energie Cottbus","id":"FC_Energie_Cottbus","win":9,"draw":8,"loss":17,"for":36,"against":60},
+{"country":"deu","name":"Hansa Rostock","id":"FC_Hansa_Rostock","win":9,"draw":7,"loss":18,"for":35,"against":54},
+{"country":"deu","name":"1. FC Nürnberg","id":"1._FC_Nürnberg","win":10,"draw":4,"loss":20,"for":34,"against":57,"isReturning":true},
+{"country":"deu","name":"SC Freiburg","id":"SC_Freiburg","win":7,"draw":9,"loss":18,"for":37,"against":64,"isRemoved":true},
+{"country":"deu","name":"1. FC Köln","id":"1._FC_Köln","win":7,"draw":8,"loss":19,"for":26,"against":61,"isRemoved":true},
+{"country":"deu","name":"FC St. Pauli","id":"FC_St._Pauli","win":4,"draw":10,"loss":20,"for":37,"against":70,"isRemoved":true,"isReturning":true}
 ]

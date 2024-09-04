@@ -551,4 +551,23 @@
 {"country":"hrv","name":"Lokomotiva","id":"NK_Lokomotiva_Zagreb","win":0,"draw":2,"loss":3,"for":3,"against":9,"isCurrentSeason":true},
 {"country":"hrv","name":"Osijek","id":"NK_Osijek","win":0,"draw":1,"loss":4,"for":4,"against":9,"isCurrentSeason":true},
 {"country":"hrv","name":"Slaven Belupo","id":"NK_Slaven_Belupo","win":0,"draw":1,"loss":4,"for":3,"against":9,"isCurrentSeason":true}
+][
+{"country":"deu","name":"1. FC Heidenheim","id":"1._FC_Heidenheim","win":2,"draw":0,"loss":0,"for":6,"against":0,"isCurrentSeason":true},
+{"country":"deu","name":"Bayern Munich","id":"FC_Bayern_Munich","win":2,"draw":0,"loss":0,"for":5,"against":2,"isCurrentSeason":true},
+{"country":"deu","name":"RB Leipzig","id":"RB_Leipzig","win":2,"draw":0,"loss":0,"for":4,"against":2,"isCurrentSeason":true},
+{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":1,"draw":1,"loss":0,"for":2,"against":0,"isCurrentSeason":true},
+{"country":"deu","name":"Union Berlin","id":"1._FC_Union_Berlin","win":1,"draw":1,"loss":0,"for":2,"against":1,"isCurrentSeason":true},
+{"country":"deu","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":1,"draw":0,"loss":1,"for":4,"against":3,"isCurrentSeason":true},
+{"country":"deu","name":"VfL Wolfsburg","id":"VfL_Wolfsburg","win":1,"draw":0,"loss":1,"for":4,"against":3,"isCurrentSeason":true},
+{"country":"deu","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":1,"draw":0,"loss":1,"for":5,"against":5,"isCurrentSeason":true},
+{"country":"deu","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":1,"draw":0,"loss":1,"for":3,"against":3,"isCurrentSeason":true},
+{"country":"deu","name":"SC Freiburg","id":"SC_Freiburg","win":1,"draw":0,"loss":1,"for":3,"against":3,"isCurrentSeason":true},
+{"country":"deu","name":"TSG Hoffenheim","id":"TSG_1899_Hoffenheim","win":1,"draw":0,"loss":1,"for":4,"against":5,"isCurrentSeason":true},
+{"country":"deu","name":"Mainz 05","id":"1._FSV_Mainz_05","win":0,"draw":2,"loss":0,"for":4,"against":4,"isCurrentSeason":true},
+{"country":"deu","name":"Werder Bremen","id":"SV_Werder_Bremen","win":0,"draw":2,"loss":0,"for":2,"against":2,"isCurrentSeason":true},
+{"country":"deu","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":0,"draw":1,"loss":1,"for":4,"against":6,"isCurrentSeason":true},
+{"country":"deu","name":"FC Augsburg","id":"FC_Augsburg","win":0,"draw":1,"loss":1,"for":2,"against":6,"isCurrentSeason":true},
+{"country":"deu","name":"Holstein Kiel","id":"Holstein_Kiel","win":0,"draw":0,"loss":2,"for":2,"against":5,"isCurrentSeason":true,"isNew":true},
+{"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":0,"draw":0,"loss":2,"for":0,"against":3,"isCurrentSeason":true},
+{"country":"deu","name":"FC St. Pauli","id":"FC_St._Pauli","win":0,"draw":0,"loss":2,"for":0,"against":3,"isCurrentSeason":true,"isReturning":true}
 ]
