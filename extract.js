@@ -1,4 +1,4 @@
-country = "aze";
+country = "hrv";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
@@ -7,11 +7,11 @@ FOUND = false;
 tbl = $("#League, #Final_table, #Final_Table, #League_table, #League_Table, #League_standings, #Final_league_table, #Preliminary_stage, #Table, #Standings, #Final_standings, #Regular_season");
 if ( tbl.length === 1 ) { FOUND = true; }
 
-tbl2 = $("#First_round, #Championship_group, #Relegation_group");
+tbl2 = $("#First_stage, #Championship_group, #Relegation_group");
 if ( tbl2.length === 3 ) { FOUND = true; ADD_TABLE_STATS = [false,false]; console.warn("C/R"); tbl=tbl2;}
+/*
 tbl2 = $("#First_round, #Championship_group, #Relegation_group, #7-10_group");
 if ( tbl2.length === 4 ) { FOUND = true; ADD_TABLE_STATS = [true,true,true]; console.warn("C/710/R"); tbl=tbl2;}
-/*
 tbl2 = $("#Regular_season, #Championship_round, #Relegation_round");
 if ( tbl2.length === 3 ) { FOUND = true; ADD_TABLE_STATS = [false,false]; console.warn("C/R"); tbl=tbl2;}
 tbl2 = $("#Regular_season, #Final_classification, #Relegation_round");

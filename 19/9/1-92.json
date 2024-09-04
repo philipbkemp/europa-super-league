@@ -509,7 +509,6 @@
 {"country":"sov","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":13,"draw":9,"loss":8,"for":43,"against":34,"isRemoved":true,"removedNote":"Quit USSR FA to join newly formed national FA"},
 {"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":12,"draw":7,"loss":11,"for":43,"against":42,"isRemoved":true,"removedNote":"The following season was cancelled after numerous clubs quit the USSR FA"},
 {"country":"sov","name":"Ararat","id":"FC_Ararat_Yerevan","win":11,"draw":7,"loss":12,"for":29,"against":36,"isRemoved":true,"removedNote":"Quit USSR FA to join newly formed national FA"},
-{"country":"sov","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":9,"draw":11,"loss":10,"for":29,"against":31,"isRemoved":true,"removedNote":"The following season was cancelled after numerous clubs quit the USSR FA"},
 {"country":"sov","name":"Dnipro","id":"FC_Dnipro","win":9,"draw":10,"loss":11,"for":31,"against":36,"isRemoved":true,"removedNote":"Quit USSR FA to join newly formed national FA"},
 {"country":"sov","name":"Pamir Dushanbe","id":"CSKA_Pamir_Dushanbe","win":7,"draw":13,"loss":10,"for":28,"against":32,"isRemoved":true,"removedNote":"The following season was cancelled after numerous clubs quit the USSR FA"},
 {"country":"sov","name":"Spartak Vladikavkaz","id":"FC_Spartak_Vladikavkaz","win":9,"draw":8,"loss":13,"for":33,"against":41,"isReturning":true,"isRemoved":true,"removedNote":"The following season was cancelled after numerous clubs quit the USSR FA"},
@@ -591,4 +590,34 @@
 {"country":"geo","name":"Alazani Gurjaani","id":"FC_Alazani_Gurjaani","win":13,"draw":8,"loss":17,"for":45,"against":70},
 {"country":"geo","name":"Sulori Vani","id":"FC_Sulori_Vani","win":13,"draw":7,"loss":18,"for":53,"against":82,"isRemoved":true},
 {"country":"geo","name":"Mertskhali Ozurgeti","id":"FC_Mertskhali_Ozurgeti","win":4,"draw":6,"loss":28,"for":29,"against":98,"isRemoved":true}
+][
+{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":11,"draw":3,"loss":1,"for":38,"against":7,"isChampion":true},
+{"country":"blr","name":"Dnepr Mogilev","id":"FC_Dnepr_Mogilev","win":11,"draw":2,"loss":2,"for":28,"against":4,"isNew":true},
+{"country":"blr","name":"Dinamo Brest","id":"FC_Dynamo_Brest","win":8,"draw":3,"loss":4,"for":21,"against":10,"isNew":true},
+{"country":"blr","name":"Traktor Bobruisk","id":"FC_Bobruisk","win":8,"draw":3,"loss":4,"for":13,"against":10,"isNew":true},
+{"country":"blr","name":"Khimik Grodno","id":"FC_Neman_Grodno","win":9,"draw":0,"loss":6,"for":21,"against":17,"isNew":true},
+{"country":"blr","name":"KIM Vitebsk","id":"FC_Vitebsk","win":7,"draw":3,"loss":5,"for":21,"against":14,"isNew":true},
+{"country":"blr","name":"Torpedo Mogilev","id":"FC_Torpedo_Mogilev","win":4,"draw":8,"loss":3,"for":16,"against":14,"isNew":true},
+{"country":"blr","name":"Vedrich Rechitsa","id":"FC_Rechitsa-2014","win":6,"draw":3,"loss":6,"for":17,"against":19,"isNew":true},
+{"country":"blr","name":"Metallurg Molodechno","id":"FC_Molodechno","win":5,"draw":5,"loss":5,"for":11,"against":12,"isNew":true},
+{"country":"blr","name":"Torpedo Minsk","id":"FC_Torpedo_Minsk","win":5,"draw":3,"loss":7,"for":15,"against":17,"isNew":true},
+{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":5,"draw":3,"loss":7,"for":15,"against":17,"isNew":true},
+{"country":"blr","name":"Obuvshchik Lida","id":"FC_Lida","win":4,"draw":3,"loss":8,"for":13,"against":18,"isNew":true},
+{"country":"blr","name":"BelAZ Zhodino","id":"FC_Torpedo-BelAZ_Zhodino","win":5,"draw":0,"loss":10,"for":13,"against":31,"isNew":true},
+{"country":"blr","name":"Stroitel Starye Dorogi","id":"FC_Starye_Dorogi","win":4,"draw":2,"loss":9,"for":14,"against":22,"isNew":true},
+{"country":"blr","name":"SKB-Lokomotiv Vitebsk","id":"FC_Lokomotiv_Vitebsk_(1986)","win":4,"draw":2,"loss":9,"for":16,"against":28,"isNew":true},
+{"country":"blr","name":"Gomselmash Gomel","id":"FC_Gomel","win":1,"draw":3,"loss":11,"for":5,"against":37,"isNew":true}
+][
+{"country":"hrv","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":16,"draw":4,"loss":2,"for":44,"against":14,"isChampion":true},
+{"country":"hrv","name":"NK Zagreb","id":"NK_Zagreb","win":14,"draw":5,"loss":3,"for":34,"against":9,"isNew":true},
+{"country":"hrv","name":"Osijek","id":"NK_Osijek","win":12,"draw":3,"loss":7,"for":33,"against":28},
+{"country":"hrv","name":"Inker Zaprešić","id":"NK_Inter_Zaprešić","win":10,"draw":6,"loss":6,"for":37,"against":19,"isNew":true},
+{"country":"hrv","name":"HAŠK Građanski","id":"GNK_Dinamo_Zagreb","win":11,"draw":4,"loss":7,"for":32,"against":21},
+{"country":"hrv","name":"Rijeka","id":"HNK_Rijeka","win":10,"draw":5,"loss":7,"for":26,"against":22},
+{"country":"hrv","name":"Istra Pula","id":"NK_Istra","win":8,"draw":5,"loss":9,"for":22,"against":27,"isNew":true},
+{"country":"hrv","name":"Varteks","id":"NK_Varaždin_(1931–2015)","win":7,"draw":6,"loss":9,"for":32,"against":25,"isReturning":true},
+{"country":"hrv","name":"Cibalia","id":"HNK_Cibalia","win":3,"draw":9,"loss":10,"for":13,"against":24,"isReturning":true},
+{"country":"hrv","name":"Zadar","id":"NK_Zadar","win":4,"draw":5,"loss":13,"for":20,"against":49,"isNew":true},
+{"country":"hrv","name":"Dubrovnik","id":"HNK_Dubrovnik_1919","win":2,"draw":7,"loss":13,"for":4,"against":36,"isNew":true},
+{"country":"hrv","name":"Šibenik","id":"HNK_Šibenik","win":2,"draw":7,"loss":13,"for":18,"against":41,"isNew":true}
 ]

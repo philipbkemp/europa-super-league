@@ -558,4 +558,38 @@
 {"country":"aze","name":"İnşaatçı Baku","id":"İnşaatçı_Baku_FK","win":4,"draw":3,"loss":17,"for":20,"against":50,"isRemoved":true},
 {"country":"aze","name":"Khazar Sumgayit","id":"FK_Khazar_Sumgayit","win":2,"draw":2,"loss":20,"for":18,"against":81,"isRemoved":true},
 {"country":"aze","name":"FK Khazar Lenkoran","id":"Khazar_Lankaran_FK","win":1,"draw":4,"loss":19,"for":10,"against":67,"isRemoved":true}
+][
+{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":20,"draw":8,"loss":2,"for":83,"against":24,"isChampion":true},
+{"country":"blr","name":"Dvina Vitebsk","id":"FC_Vitebsk","win":16,"draw":13,"loss":1,"for":46,"against":15},
+{"country":"blr","name":"Dinamo-93 Minsk","id":"FC_Dinamo-93_Minsk","win":16,"draw":10,"loss":4,"for":52,"against":22},
+{"country":"blr","name":"Molodechno","id":"FC_Molodechno","win":12,"draw":11,"loss":7,"for":48,"against":30},
+{"country":"blr","name":"Dnepr Mogilev","id":"FC_Dnepr_Mogilev","win":12,"draw":9,"loss":9,"for":44,"against":35},
+{"country":"blr","name":"Torpedo Minsk","id":"FC_Torpedo_Minsk","win":11,"draw":10,"loss":9,"for":36,"against":29},
+{"country":"blr","name":"Neman Grodno","id":"FC_Neman_Grodno","win":10,"draw":11,"loss":9,"for":26,"against":27},
+{"country":"blr","name":"Obuvshchik Lida","id":"FC_Lida","win":10,"draw":10,"loss":10,"for":32,"against":36,"isReturning":true},
+{"country":"blr","name":"Vedrich Rechitsa","id":"FC_Rechitsa-2014","win":10,"draw":8,"loss":12,"for":24,"against":33},
+{"country":"blr","name":"Dinamo Brest","id":"FC_Dynamo_Brest","win":9,"draw":10,"loss":11,"for":33,"against":33},
+{"country":"blr","name":"Torpedo Mogilev","id":"FC_Torpedo_Mogilev","win":8,"draw":12,"loss":10,"for":28,"against":32},
+{"country":"blr","name":"Bobruisk","id":"FC_Bobruisk","win":8,"draw":12,"loss":10,"for":31,"against":36},
+{"country":"blr","name":"Shinnik Bobruisk","id":"FC_Belshina_Bobruisk","win":7,"draw":9,"loss":14,"for":31,"against":50},
+{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":5,"draw":10,"loss":15,"for":22,"against":41},
+{"country":"blr","name":"Gomselmash Gomel","id":"FC_Gomel","win":6,"draw":6,"loss":18,"for":26,"against":59,"isRemoved":true},
+{"country":"blr","name":"Lokomotiv Vitebsk","id":"FC_Lokomotiv_Vitebsk_(1986)","win":3,"draw":5,"loss":22,"for":14,"against":74,"isRemoved":true}
+][
+{"country":"hrv","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":19,"draw":8,"loss":3,"for":68,"against":26,"isChampion":true,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+{"country":"hrv","name":"Croatia Zagreb","id":"GNK_Dinamo_Zagreb","win":19,"draw":7,"loss":4,"for":53,"against":26,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+{"country":"hrv","name":"Osijek","id":"NK_Osijek","win":16,"draw":11,"loss":3,"for":65,"against":30,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+{"country":"hrv","name":"NK Zagreb","id":"NK_Zagreb","win":14,"draw":11,"loss":5,"for":41,"against":26,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+{"country":"hrv","name":"Marsonia","id":"NK_Marsonia","win":13,"draw":8,"loss":9,"for":42,"against":32,"isNew":true,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+{"country":"hrv","name":"Varteks","id":"NK_Varaždin_(1931–2015)","win":11,"draw":10,"loss":9,"for":35,"against":27,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+{"country":"hrv","name":"Inker Zaprešić","id":"NK_Inter_Zaprešić","win":11,"draw":6,"loss":13,"for":41,"against":41,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+{"country":"hrv","name":"Segesta","id":"HNK_Segesta","win":10,"draw":8,"loss":12,"for":32,"against":31,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+{"country":"hrv","name":"Šibenik","id":"HNK_Šibenik","win":9,"draw":10,"loss":11,"for":44,"against":46,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+{"country":"hrv","name":"Cibalia","id":"HNK_Cibalia","win":9,"draw":10,"loss":11,"for":26,"against":33,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+{"country":"hrv","name":"Rijeka","id":"HNK_Rijeka","win":8,"draw":10,"loss":12,"for":22,"against":32,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+{"country":"hrv","name":"Istra Pula","id":"NK_Istra","win":8,"draw":8,"loss":14,"for":30,"against":46,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+{"country":"hrv","name":"Zadar","id":"NK_Zadar","win":7,"draw":10,"loss":13,"for":33,"against":47,"isRemoved":true,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+{"country":"hrv","name":"Primorac","id":"NK_Primorac_1929","win":7,"draw":10,"loss":13,"for":27,"against":49,"isRemoved":true,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+{"country":"hrv","name":"Neretva","id":"NK_Neretva","win":4,"draw":11,"loss":15,"for":20,"against":44,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+{"country":"hrv","name":"Belišće","id":"NK_Belišće","win":4,"draw":4,"loss":22,"for":26,"against":69,"isRemoved":true,"isRemoved":true,"removedNote":"Next season the league is split into groups"}
 ]

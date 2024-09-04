@@ -523,4 +523,32 @@
 {"country":"aze","name":"Sabail","id":"Sabail_FK","win":1,"draw":1,"loss":3,"for":7,"against":8,"isCurrentSeason":true},
 {"country":"aze","name":"Neftçi","id":"Neftçi_PFK","win":0,"draw":4,"loss":1,"for":2,"against":4,"isCurrentSeason":true},
 {"country":"aze","name":"Kapaz","id":"Kapaz_PFK","win":0,"draw":0,"loss":5,"for":2,"against":15,"isCurrentSeason":true}
+][
+{"country":"blr","name":"Neman Grodno","id":"FC_Neman_Grodno","win":14,"draw":1,"loss":4,"for":28,"against":14,"isCurrentSeason":true},
+{"country":"blr","name":"Torpedo-BelAZ Zhodino","id":"FC_Torpedo-BelAZ_Zhodino","win":12,"draw":3,"loss":4,"for":24,"against":13,"isCurrentSeason":true},
+{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":10,"draw":5,"loss":0,"for":28,"against":8,"isCurrentSeason":true},
+{"country":"blr","name":"Dynamo Brest","id":"FC_Dynamo_Brest","win":10,"draw":5,"loss":5,"for":43,"against":21,"isCurrentSeason":true},
+{"country":"blr","name":"Arsenal Dzerzhinsk","id":"FC_Arsenal_Dzerzhinsk","win":9,"draw":4,"loss":7,"for":23,"against":22,"isCurrentSeason":true,"isReturning":true},
+{"country":"blr","name":"Vitebsk","id":"FC_Vitebsk","win":8,"draw":5,"loss":7,"for":19,"against":17,"isCurrentSeason":true,"isReturning":true},
+{"country":"blr","name":"Slutsk","id":"FC_Slutsk","win":9,"draw":2,"loss":9,"for":22,"against":33,"isCurrentSeason":true},
+{"country":"blr","name":"Gomel","id":"FC_Gomel","win":7,"draw":7,"loss":5,"for":26,"against":16,"isCurrentSeason":true},
+{"country":"blr","name":"Slavia Mozyr","id":"FC_Slavia_Mozyr","win":7,"draw":6,"loss":7,"for":23,"against":23,"isCurrentSeason":true},
+{"country":"blr","name":"Isloch Minsk Raion","id":"FC_Isloch_Minsk_Raion","win":6,"draw":7,"loss":7,"for":20,"against":19,"isCurrentSeason":true},
+{"country":"blr","name":"BATE Borisov","id":"FC_BATE_Borisov","win":5,"draw":6,"loss":9,"for":20,"against":22,"isCurrentSeason":true},
+{"country":"blr","name":"Smorgon","id":"FC_Smorgon","win":4,"draw":8,"loss":7,"for":22,"against":32,"isCurrentSeason":true},
+{"country":"blr","name":"Naftan Novopolotsk","id":"FC_Naftan_Novopolotsk","win":3,"draw":7,"loss":8,"for":17,"against":25,"isCurrentSeason":true},
+{"country":"blr","name":"Minsk","id":"FC_Minsk","win":3,"draw":6,"loss":10,"for":15,"against":27,"isCurrentSeason":true},
+{"country":"blr","name":"Dnepr Mogilev","id":"FC_Dnepr_Mogilev","win":1,"draw":6,"loss":13,"for":17,"against":39,"isCurrentSeason":true,"isReturning":true},
+{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":5,"draw":4,"loss":11,"for":16,"against":32,"isCurrentSeason":true,"deduct":-20,"deductReason":"Match fixing"}
+][
+{"country":"hrv","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":4,"draw":1,"loss":0,"for":13,"against":3,"isCurrentSeason":true},
+{"country":"hrv","name":"Rijeka","id":"HNK_Rijeka","win":3,"draw":2,"loss":0,"for":11,"against":1,"isCurrentSeason":true},
+{"country":"hrv","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":3,"draw":2,"loss":0,"for":7,"against":4,"isCurrentSeason":true},
+{"country":"hrv","name":"Šibenik","id":"HNK_Šibenik","win":3,"draw":0,"loss":2,"for":6,"against":6,"isCurrentSeason":true,"isReturning":true},
+{"country":"hrv","name":"Varaždin","id":"NK_Varaždin_(2012)","win":2,"draw":2,"loss":1,"for":4,"against":2,"isCurrentSeason":true},
+{"country":"hrv","name":"Istra 1961","id":"NK_Istra_1961","win":2,"draw":1,"loss":2,"for":4,"against":11,"isCurrentSeason":true},
+{"country":"hrv","name":"Gorica","id":"HNK_Gorica","win":1,"draw":2,"loss":2,"for":6,"against":7,"isCurrentSeason":true},
+{"country":"hrv","name":"Lokomotiva","id":"NK_Lokomotiva_Zagreb","win":0,"draw":2,"loss":3,"for":3,"against":9,"isCurrentSeason":true},
+{"country":"hrv","name":"Osijek","id":"NK_Osijek","win":0,"draw":1,"loss":4,"for":4,"against":9,"isCurrentSeason":true},
+{"country":"hrv","name":"Slaven Belupo","id":"NK_Slaven_Belupo","win":0,"draw":1,"loss":4,"for":3,"against":9,"isCurrentSeason":true}
 ]

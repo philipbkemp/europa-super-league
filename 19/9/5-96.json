@@ -553,4 +553,21 @@
 {"country":"aze","name":"MOIK Baku","id":"MOIK_Baku","win":6,"draw":2,"loss":8,"for":14,"against":16,"isNew":true},
 {"country":"aze","name":"Şəmkir","id":"Shamkir_FC","win":7,"draw":4,"loss":5,"for":31,"against":18,"isNew":true},
 {"country":"aze","name":"Pambiqci Neftcala","id":"FK_Pambiqci_Neftcala","win":4,"draw":1,"loss":11,"for":18,"against":34}
+][
+{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":12,"draw":2,"loss":1,"for":42,"against":13,"isChampion":true},
+{"country":"blr","name":"MPKC Mozyr","id":"FC_Slavia_Mozyr","win":11,"draw":3,"loss":1,"for":44,"against":9,"isNew":true},
+{"country":"blr","name":"Dinamo-93 Minsk","id":"FC_Dinamo-93_Minsk","win":10,"draw":2,"loss":3,"for":28,"against":15},
+{"country":"blr","name":"Ataka-Aura Minsk","id":"FC_Ataka_Minsk","win":8,"draw":5,"loss":2,"for":26,"against":7,"isNew":true},
+{"country":"blr","name":"Molodechno","id":"FC_Molodechno","win":8,"draw":1,"loss":6,"for":33,"against":19},
+{"country":"blr","name":"Dnepr Mogilev","id":"FC_Dnepr_Mogilev","win":7,"draw":1,"loss":7,"for":26,"against":23},
+{"country":"blr","name":"Dvina Vitebsk","id":"FC_Vitebsk","win":5,"draw":5,"loss":5,"for":12,"against":12},
+{"country":"blr","name":"Neman Grodno","id":"FC_Neman_Grodno","win":6,"draw":1,"loss":8,"for":20,"against":35},
+{"country":"blr","name":"Torpedo Minsk","id":"FC_Torpedo_Minsk","win":5,"draw":3,"loss":7,"for":12,"against":27},
+{"country":"blr","name":"Dinamo Brest","id":"FC_Dynamo_Brest","win":5,"draw":2,"loss":8,"for":27,"against":32},
+{"country":"blr","name":"Torpedo Mogilev","id":"FC_Torpedo_Mogilev","win":4,"draw":5,"loss":6,"for":17,"against":21},
+{"country":"blr","name":"Obuvshchik Lida","id":"FC_Lida","win":4,"draw":4,"loss":7,"for":15,"against":23},
+{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":4,"draw":4,"loss":7,"for":12,"against":20},
+{"country":"blr","name":"Vedrich Rechitsa","id":"FC_Rechitsa-2014","win":4,"draw":3,"loss":8,"for":22,"against":20},
+{"country":"blr","name":"Shinnik Bobruisk","id":"FC_Belshina_Bobruisk","win":4,"draw":3,"loss":8,"for":17,"against":29},
+{"country":"blr","name":"Bobruisk","id":"FC_Bobruisk","win":0,"draw":2,"loss":13,"for":6,"against":54,"isRemoved":true}
 ]

@@ -525,4 +525,28 @@
 {"country":"aze","name":"AZAL","id":"Shuvalan_FK","win":6,"draw":13,"loss":17,"for":29,"against":49},
 {"country":"aze","name":"Sumgayit","id":"Sumgayit_FK","win":5,"draw":10,"loss":21,"for":27,"against":61},
 {"country":"aze","name":"Ravan Baku","id":"Ravan_Baku_FK","win":4,"draw":10,"loss":22,"for":22,"against":66,"isRemoved":true}
+][
+{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":17,"draw":7,"loss":8,"for":44,"against":26},
+{"country":"blr","name":"BATE Borisov","id":"FC_BATE_Borisov","win":21,"draw":4,"loss":7,"for":61,"against":25,"isChampion":true},
+{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":15,"draw":9,"loss":8,"for":44,"against":33},
+{"country":"blr","name":"Gomel","id":"FC_Gomel","win":11,"draw":7,"loss":14,"for":34,"against":40},
+{"country":"blr","name":"Neman Grodno","id":"FC_Neman_Grodno","win":13,"draw":8,"loss":11,"for":34,"against":30},
+{"country":"blr","name":"Torpedo-BelAZ Zhodino","id":"FC_Torpedo-BelAZ_Zhodino","win":12,"draw":6,"loss":14,"for":33,"against":38},
+{"country":"blr","name":"Belshina Bobruisk","id":"FC_Belshina_Bobruisk","win":15,"draw":8,"loss":9,"for":42,"against":38},
+{"country":"blr","name":"Minsk","id":"FC_Minsk","win":10,"draw":8,"loss":14,"for":36,"against":40},
+{"country":"blr","name":"Dinamo Brest","id":"FC_Dynamo_Brest","win":11,"draw":7,"loss":14,"for":32,"against":41},
+{"country":"blr","name":"Dnepr Mogilev","id":"FC_Dnepr_Mogilev","win":9,"draw":6,"loss":17,"for":28,"against":42,"isReturning":true},
+{"country":"blr","name":"Naftan Novopolotsk","id":"FC_Naftan_Novopolotsk","win":9,"draw":10,"loss":13,"for":29,"against":41},
+{"country":"blr","name":"Slavia Mozyr","id":"FC_Slavia_Mozyr","win":5,"draw":8,"loss":19,"for":24,"against":47,"isRemoved":true}
+][
+{"country":"hrv","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":26,"draw":6,"loss":4,"for":83,"against":26,"isChampion":true},
+{"country":"hrv","name":"Rijeka","id":"HNK_Rijeka","win":21,"draw":10,"loss":5,"for":72,"against":35},
+{"country":"hrv","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":17,"draw":11,"loss":8,"for":58,"against":44},
+{"country":"hrv","name":"RNK Split","id":"RNK_Split","win":14,"draw":10,"loss":12,"for":41,"against":41},
+{"country":"hrv","name":"Lokomotiva","id":"NK_Lokomotiva_Zagreb","win":15,"draw":7,"loss":14,"for":57,"against":59},
+{"country":"hrv","name":"Istra 1961","id":"NK_Istra_1961","win":12,"draw":8,"loss":16,"for":45,"against":56},
+{"country":"hrv","name":"Zadar","id":"NK_Zadar","win":10,"draw":5,"loss":21,"for":35,"against":67},
+{"country":"hrv","name":"Osijek","id":"NK_Osijek","win":8,"draw":9,"loss":19,"for":38,"against":62},
+{"country":"hrv","name":"Slaven Belupo","id":"NK_Slaven_Belupo","win":7,"draw":11,"loss":18,"for":46,"against":65},
+{"country":"hrv","name":"Hrvatski Dragovoljac","id":"NK_Hrvatski_Dragovoljac","win":7,"draw":9,"loss":20,"for":41,"against":61,"isRemoved":true,"isReturning":true}
 ]
