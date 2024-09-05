@@ -574,4 +574,19 @@
 {"country":"deu","name":"1. FC Nürnberg","id":"1._FC_Nürnberg","win":8,"draw":7,"loss":19,"for":32,"against":58,"isReturning":true},
 {"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":6,"draw":10,"loss":18,"for":33,"against":64,"isRemoved":true},
 {"country":"deu","name":"Hertha BSC","id":"Hertha_BSC","win":5,"draw":9,"loss":20,"for":34,"against":56,"isRemoved":true}
+][
+{"country":"kza","name":"Aktobe","id":"FC_Aktobe","win":21,"draw":2,"loss":3,"for":65,"against":19,"isChampion":true},
+{"country":"kza","name":"Lokomotiv","id":"FC_Astana","win":20,"draw":0,"loss":6,"for":54,"against":24,"isNew":true},
+{"country":"kza","name":"Shakhter Karagandy","id":"FC_Shakhter_Karagandy","win":18,"draw":3,"loss":5,"for":50,"against":18},
+{"country":"kza","name":"Tobol","id":"FC_Tobol","win":14,"draw":9,"loss":3,"for":54,"against":23},
+{"country":"kza","name":"Zhetysu","id":"FC_Zhetysu","win":13,"draw":5,"loss":8,"for":33,"against":26},
+{"country":"kza","name":"Atyrau","id":"FC_Atyrau","win":11,"draw":7,"loss":8,"for":37,"against":29},
+{"country":"kza","name":"Ordabasy","id":"FC_Ordabasy","win":10,"draw":6,"loss":10,"for":33,"against":30},
+{"country":"kza","name":"Taraz","id":"FC_Taraz","win":9,"draw":6,"loss":11,"for":37,"against":36,"isReturning":true},
+{"country":"kza","name":"Irtysh Pavlodar","id":"FC_Irtysh_Pavlodar","win":8,"draw":5,"loss":13,"for":24,"against":31},
+{"country":"kza","name":"Vostok","id":"FC_Vostok","win":7,"draw":5,"loss":14,"for":32,"against":56,"isRemoved":true,"deduct":-3,"deductReason":"Unpaid debts"},
+{"country":"kza","name":"Okzhetpes","id":"FC_Okzhetpes","win":6,"draw":4,"loss":16,"for":22,"against":48},
+{"country":"kza","name":"Kazakhmys","id":"FC_Kazakhmys","win":7,"draw":3,"loss":16,"for":32,"against":61,"isRemoved":true,"isNew":true,"deduct":-3,"deductReason":"Unpaid debts"},
+{"country":"kza","name":"Kaisar","id":"FC_Kaisar","win":3,"draw":5,"loss":18,"for":15,"against":45,"isRemoved":true},
+{"country":"kza","name":"Kyzylzhar","id":"FC_Kyzylzhar","win":3,"draw":4,"loss":19,"for":14,"against":56,"isRemoved":true,"deduct":-7,"deductReason":"Unpaid debts"}
 ]

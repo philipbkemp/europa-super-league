@@ -574,4 +574,19 @@
 {"country":"deu","name":"1899 Hoffenheim","id":"TSG_1899_Hoffenheim","win":8,"draw":7,"loss":19,"for":42,"against":67},
 {"country":"deu","name":"Fortuna Düsseldorf","id":"Fortuna_Düsseldorf","win":7,"draw":9,"loss":18,"for":39,"against":57,"isRemoved":true,"isReturning":true},
 {"country":"deu","name":"Greuther Fürth","id":"SpVgg_Greuther_Fürth","win":4,"draw":9,"loss":21,"for":26,"against":60,"isRemoved":true,"isNew":true}
+][
+{"country":"kza","name":"Shakhter Karagandy","id":"FC_Shakhter_Karagandy","win":17,"draw":2,"loss":7,"for":48,"against":15,"isChampion":true},
+{"country":"kza","name":"Irtysh Pavlodar","id":"FC_Irtysh_Pavlodar","win":15,"draw":6,"loss":5,"for":46,"against":20},
+{"country":"kza","name":"Aktobe","id":"FC_Aktobe","win":15,"draw":5,"loss":6,"for":44,"against":22},
+{"country":"kza","name":"Taraz","id":"FC_Taraz","win":14,"draw":4,"loss":8,"for":32,"against":30},
+{"country":"kza","name":"Astana","id":"FC_Astana","win":13,"draw":7,"loss":6,"for":34,"against":24},
+{"country":"kza","name":"Tobol","id":"FC_Tobol","win":13,"draw":6,"loss":7,"for":42,"against":27},
+{"country":"kza","name":"Ordabasy","id":"FC_Ordabasy","win":10,"draw":9,"loss":7,"for":29,"against":24},
+{"country":"kza","name":"Akzhayik","id":"FC_Akzhayik","win":10,"draw":4,"loss":12,"for":34,"against":39,"isReturning":true},
+{"country":"kza","name":"Kaisar","id":"FC_Kaisar","win":8,"draw":6,"loss":12,"for":21,"against":33,"isremoved":true},
+{"country":"kza","name":"Kairat","id":"FC_Kairat","win":7,"draw":8,"loss":11,"for":23,"against":34},
+{"country":"kza","name":"Atyrau","id":"FC_Atyrau","win":7,"draw":6,"loss":13,"for":16,"against":32},
+{"country":"kza","name":"Zhetysu","id":"FC_Zhetysu","win":6,"draw":5,"loss":15,"for":27,"against":45},
+{"country":"kza","name":"Sunkar","id":"FC_Sunkar","win":5,"draw":8,"loss":13,"for":16,"against":31,"isRemoved":true,"isNew":true},
+{"country":"kza","name":"Okzhetpes","id":"FC_Okzhetpes","win":3,"draw":2,"loss":21,"for":20,"against":56,"isRemoved":true,"isReturning":true}
 ]

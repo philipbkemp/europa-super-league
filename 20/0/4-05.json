@@ -565,4 +565,24 @@
 {"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":9,"draw":8,"loss":17,"for":47,"against":68,"isRemoved":true},
 {"country":"deu","name":"Hansa Rostock","id":"FC_Hansa_Rostock","win":7,"draw":9,"loss":18,"for":31,"against":65,"isRemoved":true},
 {"country":"deu","name":"SC Freiburg","id":"SC_Freiburg","win":3,"draw":9,"loss":22,"for":30,"against":75,"isRemoved":true}
+][
+{"country":"kza","name":"Kairat","id":"FC_Kairat","win":25,"draw":8,"loss":3,"for":70,"against":21,"isChampion":true},
+{"country":"kza","name":"Irtysh","id":"FC_Irtysh_Pavlodar","win":24,"draw":7,"loss":5,"for":56,"against":16},
+{"country":"kza","name":"Tobol","id":"FC_Tobol","win":22,"draw":11,"loss":3,"for":87,"against":27},
+{"country":"kza","name":"Aktobe-Lento","id":"FC_Aktobe","win":22,"draw":8,"loss":6,"for":52,"against":19},
+{"country":"kza","name":"Atyrau","id":"FC_Atyrau","win":20,"draw":11,"loss":5,"for":49,"against":31},
+{"country":"kza","name":"Esil Bogatyr","id":"FC_Kyzylzhar","win":18,"draw":5,"loss":13,"for":53,"against":40},
+{"country":"kza","name":"Taraz","id":"FC_Taraz","win":16,"draw":11,"loss":9,"for":35,"against":23},
+{"country":"kza","name":"Ekibastuzets","id":"FC_Ekibastuzets","win":17,"draw":7,"loss":12,"for":42,"against":27},
+{"country":"kza","name":"Shakhter Karagandy","id":"FC_Shakhter_Karagandy","win":16,"draw":9,"loss":11,"for":44,"against":28},
+{"country":"kza","name":"Zhenis Astana","id":"FC_Zhenis","win":15,"draw":6,"loss":15,"for":45,"against":44,"deduct":-3,"deductReason":"Violation of transfer rules"},
+{"country":"kza","name":"Okzhetpes","id":"FC_Okzhetpes","win":10,"draw":13,"loss":13,"for":26,"against":39},
+{"country":"kza","name":"Vostok","id":"FC_Vostok","win":11,"draw":7,"loss":18,"for":42,"against":54},
+{"country":"kza","name":"Zhetysu","id":"FC_Zhetysu","win":11,"draw":7,"loss":18,"for":34,"against":55},
+{"country":"kza","name":"Ordabasy","id":"FC_Ordabasy","win":11,"draw":7,"loss":18,"for":37,"against":43},
+{"country":"kza","name":"Yassi-Sairam","id":"FC_Turkestan","win":9,"draw":8,"loss":19,"for":30,"against":49,"isRemoved":true,"isReturning":true},
+{"country":"kza","name":"Kaisar","id":"FC_Kaisar","win":9,"draw":4,"loss":23,"for":24,"against":61,"isRemoved":true},
+{"country":"kza","name":"Akzhayik","id":"FC_Akzhayik","win":7,"draw":4,"loss":25,"for":24,"against":83,"isRemoved":true},
+{"country":"kza","name":"Alma-Ata","id":"FC_Alma-Ata","win":4,"draw":8,"loss":24,"for":22,"against":53,"isNew":true},
+{"country":"kza","name":"Semey","id":"FC_Elimai","win":4,"draw":1,"loss":31,"for":25,"against":84,"isRemoved":true}
 ]

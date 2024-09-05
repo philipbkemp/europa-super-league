@@ -557,4 +557,17 @@
 {"country":"deu","name":"VfL Wolfsburg","id":"VfL_Wolfsburg","win":6,"draw":15,"loss":13,"for":36,"against":48},
 {"country":"deu","name":"Hamburger SV","id":"Hamburger_SV","win":8,"draw":7,"loss":19,"for":29,"against":53,"isRemoved":true},
 {"country":"deu","name":"1. FC Köln","id":"1._FC_Köln","win":5,"draw":7,"loss":22,"for":35,"against":70,"isRemoved":true}
+][
+{"country":"kza","name":"Astana","id":"FC_Astana","win":25,"draw":4,"loss":4,"for":74,"against":21,"isChampion":true},
+{"country":"kza","name":"Kairat","id":"FC_Kairat","win":23,"draw":9,"loss":1,"for":75,"against":28},
+{"country":"kza","name":"Ordabasy","id":"FC_Ordabasy","win":18,"draw":4,"loss":11,"for":44,"against":37},
+{"country":"kza","name":"Irtysh Pavlodar","id":"FC_Irtysh_Pavlodar","win":12,"draw":12,"loss":9,"for":35,"against":32},
+{"country":"kza","name":"Tobol","id":"FC_Tobol","win":12,"draw":11,"loss":10,"for":36,"against":26},
+{"country":"kza","name":"Kaisar","id":"FC_Kaisar","win":11,"draw":9,"loss":13,"for":30,"against":36,"isReturning":true},
+{"country":"kza","name":"Shakhter Karagandy","id":"FC_Shakhter_Karagandy","win":12,"draw":4,"loss":17,"for":36,"against":50},
+{"country":"kza","name":"Atyrau","id":"FC_Atyrau","win":10,"draw":8,"loss":15,"for":34,"against":54,"deduct":-3,"deductReason":"Unpaid debts"},
+{"country":"kza","name":"Aktobe","id":"FC_Aktobe","win":8,"draw":9,"loss":16,"for":38,"against":46},
+{"country":"kza","name":"Akzhayik","id":"FC_Akzhayik","win":7,"draw":9,"loss":17,"for":29,"against":47},
+{"country":"kza","name":"Taraz","id":"FC_Taraz","win":8,"draw":8,"loss":17,"for":29,"against":50,"isRemoved":true,"deduct":-6,"deductReason":"Unpaid debts"},
+{"country":"kza","name":"Okzhetpes","id":"FC_Okzhetpes","win":7,"draw":3,"loss":23,"for":28,"against":61,"isRemoved":true}
 ]

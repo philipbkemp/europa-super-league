@@ -575,4 +575,21 @@
 {"country":"deu","name":"Mainz 05","id":"1._FSV_Mainz_05","win":8,"draw":10,"loss":16,"for":34,"against":57,"isRemoved":true},
 {"country":"deu","name":"Alemannia Aachen","id":"Alemannia_Aachen","win":9,"draw":7,"loss":18,"for":46,"against":70,"isRemoved":true,"isReturning":true},
 {"country":"deu","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":6,"draw":8,"loss":20,"for":23,"against":44,"isRemoved":true}
+][
+{"country":"kza","name":"Astana","id":"FC_Zhenis","win":19,"draw":7,"loss":4,"for":45,"against":23,"isChampion":true},
+{"country":"kza","name":"Aktobe","id":"FC_Aktobe","win":18,"draw":6,"loss":6,"for":48,"against":21},
+{"country":"kza","name":"Tobol","id":"FC_Tobol","win":16,"draw":8,"loss":6,"for":43,"against":22},
+{"country":"kza","name":"Shakhter Karagandy","id":"FC_Shakhter_Karagandy","win":15,"draw":5,"loss":10,"for":35,"against":24},
+{"country":"kza","name":"Alma-Ata","id":"FC_Alma-Ata","win":13,"draw":9,"loss":8,"for":36,"against":29},
+{"country":"kza","name":"Irtysh","id":"FC_Irtysh_Pavlodar","win":13,"draw":8,"loss":9,"for":34,"against":24},
+{"country":"kza","name":"Kairat","id":"FC_Kairat","win":12,"draw":10,"loss":8,"for":39,"against":30},
+{"country":"kza","name":"Ekibastuzets","id":"FC_Ekibastuzets","win":12,"draw":6,"loss":12,"for":29,"against":28},
+{"country":"kza","name":"Vostok","id":"FC_Vostok","win":9,"draw":8,"loss":13,"for":33,"against":40},
+{"country":"kza","name":"Taraz","id":"FC_Taraz","win":9,"draw":6,"loss":15,"for":32,"against":34},
+{"country":"kza","name":"Okzhetpes","id":"FC_Okzhetpes","win":8,"draw":9,"loss":13,"for":23,"against":36},
+{"country":"kza","name":"Esil Bogatyr","id":"FC_Kyzylzhar","win":8,"draw":9,"loss":13,"for":20,"against":37},
+{"country":"kza","name":"Ordabasy","id":"FC_Ordabasy","win":8,"draw":8,"loss":14,"for":29,"against":36},
+{"country":"kza","name":"Atyrau","id":"FC_Atyrau","win":8,"draw":5,"loss":17,"for":25,"against":47},
+{"country":"kza","name":"Kaisar","id":"FC_Kaisar","win":8,"draw":4,"loss":18,"for":29,"against":53,"isReturning":true},
+{"country":"kza","name":"Energetic","id":"FC_Ekibastuz","win":6,"draw":8,"loss":16,"for":28,"against":44,"isRemoved":true,"isNew":true}
 ]

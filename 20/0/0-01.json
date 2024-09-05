@@ -579,4 +579,20 @@
 {"country":"deu","name":"SpVgg Unterhaching","id":"SpVgg_Unterhaching","win":8,"draw":11,"loss":15,"for":35,"against":59,"isRemoved":true},
 {"country":"deu","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":10,"draw":5,"loss":19,"for":41,"against":68,"isRemoved":true},
 {"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":7,"draw":6,"loss":21,"for":30,"against":67,"isRemoved":true,"isReturning":true}
+][
+{"country":"kza","name":"Zhenis Astana","id":"FC_Zhenis","win":24,"draw":2,"loss":2,"for":69,"against":20,"isChampion":true},
+{"country":"kza","name":"Access-Golden Grain","id":"FC_Kyzylzhar","win":24,"draw":2,"loss":2,"for":59,"against":10},
+{"country":"kza","name":"Irtysh Pavlodar","id":"FC_Irtysh_Pavlodar","win":19,"draw":3,"loss":6,"for":50,"against":26},
+{"country":"kza","name":"Kairat","id":"FC_Kairat","win":18,"draw":6,"loss":4,"for":48,"against":17},
+{"country":"kza","name":"Shakhter-Ispat-Karmet","id":"FC_Shakhter_Karagandy","win":14,"draw":6,"loss":8,"for":38,"against":26},
+{"country":"kza","name":"Kaisar-Hurricane","id":"FC_Kaisar","win":12,"draw":7,"loss":9,"for":36,"against":23},
+{"country":"kza","name":"Tobol","id":"FC_Tobol","win":13,"draw":3,"loss":12,"for":42,"against":39},
+{"country":"kza","name":"Yelimay","id":"FC_Elimai","win":12,"draw":5,"loss":11,"for":43,"against":33},
+{"country":"kza","name":"CSKA Kairat","id":"FC_CSKA_Almaty","win":12,"draw":3,"loss":13,"for":39,"against":35,"deduct":"Did not pay participation fee","isRemoved":true},
+{"country":"kza","name":"Akmola","id":"FC_Okzhetpes","win":8,"draw":5,"loss":15,"for":25,"against":34},
+{"country":"kza","name":"Vostok Altyn","id":"FC_Vostok","win":8,"draw":4,"loss":16,"for":30,"against":45},
+{"country":"kza","name":"Taraz","id":"FC_Taraz","win":7,"draw":5,"loss":16,"for":22,"against":47},
+{"country":"kza","name":"Dostyk","id":"FC_Ordabasy","win":5,"draw":4,"loss":19,"for":24,"against":53,"isReturning":true},
+{"country":"kza","name":"Zhetysu","id":"FC_Zhetysu","win":4,"draw":2,"loss":22,"for":15,"against":73},
+{"country":"kza","name":"Zhiger","id":"FC_Zhiger","win":1,"draw":1,"loss":26,"for":13,"against":72,"isRemoved":true}
 ]

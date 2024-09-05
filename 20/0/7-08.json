@@ -576,4 +576,21 @@
 {"country":"deu","name":"1. FC Nürnberg","id":"1._FC_Nürnberg","win":7,"draw":10,"loss":17,"for":35,"against":51,"isRemoved":true},
 {"country":"deu","name":"Hansa Rostock","id":"FC_Hansa_Rostock","win":8,"draw":6,"loss":20,"for":30,"against":52,"isRemoved":true,"isReturning":true},
 {"country":"deu","name":"MSV Duisburg","id":"MSV_Duisburg","win":8,"draw":5,"loss":21,"for":36,"against":55,"isRemoved":true,"isReturning":true}
+][
+{"country":"kza","name":"Aktobe","id":"FC_Aktobe","win":22,"draw":6,"loss":2,"for":55,"against":12,"isChampion":true},
+{"country":"kza","name":"Tobol","id":"FC_Tobol","win":19,"draw":7,"loss":4,"for":60,"against":20},
+{"country":"kza","name":"Shakhter Karagandy","id":"FC_Shakhter_Karagandy","win":17,"draw":7,"loss":6,"for":45,"against":23},
+{"country":"kza","name":"Irtysh","id":"FC_Irtysh_Pavlodar","win":16,"draw":4,"loss":10,"for":34,"against":27},
+{"country":"kza","name":"Zhetysu","id":"FC_Zhetysu","win":13,"draw":7,"loss":10,"for":33,"against":32,"isReturning":true},
+{"country":"kza","name":"Alma-Ata","id":"FC_Alma-Ata","win":13,"draw":5,"loss":12,"for":35,"against":32},
+{"country":"kza","name":"Vostok","id":"FC_Vostok","win":12,"draw":5,"loss":13,"for":30,"against":38},
+{"country":"kza","name":"Astana","id":"FC_Zhenis","win":11,"draw":8,"loss":11,"for":34,"against":25},
+{"country":"kza","name":"Ordabasy","id":"FC_Ordabasy","win":9,"draw":11,"loss":10,"for":28,"against":29},
+{"country":"kza","name":"Kaisar","id":"FC_Kaisar","win":10,"draw":7,"loss":13,"for":27,"against":37},
+{"country":"kza","name":"Esil Bogatyr","id":"FC_Kyzylzhar","win":8,"draw":13,"loss":9,"for":24,"against":28},
+{"country":"kza","name":"Ekibastuzets","id":"FC_Ekibastuzets","win":8,"draw":8,"loss":14,"for":28,"against":38,"isRemoved":true,"removedNote":"Administratively relegated due to match fixing"},
+{"country":"kza","name":"Kairat","id":"FC_Kairat","win":9,"draw":3,"loss":18,"for":23,"against":43},
+{"country":"kza","name":"Atyrau","id":"FC_Atyrau","win":8,"draw":6,"loss":16,"for":29,"against":39},
+{"country":"kza","name":"Okzhetpes","id":"FC_Okzhetpes","win":8,"draw":5,"loss":17,"for":26,"against":56},
+{"country":"kza","name":"Taraz","id":"FC_Taraz","win":3,"draw":6,"loss":21,"for":16,"against":50,"isRemoved":true}
 ]

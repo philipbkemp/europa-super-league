@@ -611,4 +611,21 @@
 {"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":9,"draw":4,"loss":21,"for":43,"against":67,"isRemoved":true,"isReturning":true},
 {"country":"deu","name":"MSV Duisburg","id":"MSV_Duisburg","win":6,"draw":8,"loss":20,"for":31,"against":64,"isRemoved":true},
 {"country":"deu","name":"Dynamo Dresden","id":"Dynamo_Dresden","win":4,"draw":8,"loss":22,"for":33,"against":68,"isRemoved":true}
+][
+{"country":"kza","name":"Yelimay","id":"FC_Elimai","win":20,"draw":7,"loss":3,"for":70,"against":29,"isChampion":true,"isNew":true},
+{"country":"kza","name":"Ansat","id":"FC_Irtysh_Pavlodar","win":17,"draw":7,"loss":6,"for":57,"against":14,"isNew":true},
+{"country":"kza","name":"Zhiger","id":"FC_Zhiger","win":16,"draw":8,"loss":6,"for":63,"against":30,"isNew":true},
+{"country":"kza","name":"Aktyubinets","id":"FC_Aktobe","win":15,"draw":10,"loss":5,"for":45,"against":23,"isNew":true},
+{"country":"kza","name":"SKIF-Ordabasy","id":"FC_Ordabasy","win":14,"draw":8,"loss":8,"for":41,"against":29,"isNew":true},
+{"country":"kza","name":"Shakhter Karagandy","id":"FC_Shakhter_Karagandy","win":11,"draw":12,"loss":7,"for":45,"against":38,"isNew":true},
+{"country":"kza","name":"Bolat","id":"FC_Shakhter-Bulat","win":13,"draw":7,"loss":10,"for":31,"against":34,"isNew":true},
+{"country":"kza","name":"Taraz","id":"FC_Taraz","win":12,"draw":7,"loss":11,"for":42,"against":34,"isNew":true},
+{"country":"kza","name":"Batyr","id":"FC_Ekibastuzets","win":10,"draw":8,"loss":12,"for":36,"against":34,"isNew":true},
+{"country":"kza","name":"Khimik","id":"FC_Tobol","win":11,"draw":5,"loss":14,"for":42,"against":37,"isNew":true},
+{"country":"kza","name":"Kairat","id":"FC_Kairat","win":10,"draw":6,"loss":14,"for":36,"against":42,"isReturning":true},
+{"country":"kza","name":"Gornyak","id":"FC_Gornyak","win":8,"draw":6,"loss":16,"for":29,"against":60,"isNew":true},
+{"country":"kza","name":"Vostok","id":"FC_Vostok","win":8,"draw":6,"loss":16,"for":39,"against":58,"isNew":true},
+{"country":"kza","name":"Tsesna Akmola","id":"FC_Zhenis","win":6,"draw":7,"loss":17,"for":24,"against":48,"isNew":true},
+{"country":"kza","name":"Yassi","id":"FC_Turkestan","win":8,"draw":1,"loss":21,"for":22,"against":76,"isRemoved":true,"isNew":true},
+{"country":"kza","name":"Uralets-Arma","id":"FC_Akzhayik","win":4,"draw":9,"loss":17,"for":20,"against":56,"isRemoved":true,"isNew":true}
 ]

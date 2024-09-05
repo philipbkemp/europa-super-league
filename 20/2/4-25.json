@@ -570,4 +570,18 @@
 {"country":"deu","name":"Holstein Kiel","id":"Holstein_Kiel","win":0,"draw":0,"loss":2,"for":2,"against":5,"isCurrentSeason":true,"isNew":true},
 {"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":0,"draw":0,"loss":2,"for":0,"against":3,"isCurrentSeason":true},
 {"country":"deu","name":"FC St. Pauli","id":"FC_St._Pauli","win":0,"draw":0,"loss":2,"for":0,"against":3,"isCurrentSeason":true,"isReturning":true}
+][
+{"country":"kza","name":"Kairat","id":"FC_Kairat","win":9,"draw":5,"loss":4,"for":27,"against":16,"isCurrentSeason":true},
+{"country":"kza","name":"Aktobe","id":"FC_Aktobe","win":8,"draw":7,"loss":3,"for":29,"against":19,"isCurrentSeason":true},
+{"country":"kza","name":"Elimai","id":"FC_Elimai","win":8,"draw":7,"loss":3,"for":30,"against":22,"isCurrentSeason":true,"isReturning":true},
+{"country":"kza","name":"Ordabasy","id":"FC_Ordabasy","win":8,"draw":6,"loss":2,"for":26,"against":14,"isCurrentSeason":true},
+{"country":"kza","name":"Kaisar","id":"FC_Kaisar","win":6,"draw":7,"loss":4,"for":18,"against":19,"isCurrentSeason":true},
+{"country":"kza","name":"Tobol","id":"FC_Tobol","win":6,"draw":6,"loss":4,"for":23,"against":17,"isCurrentSeason":true},
+{"country":"kza","name":"Atyrau","id":"FC_Atyrau","win":5,"draw":8,"loss":3,"for":16,"against":11,"isCurrentSeason":true},
+{"country":"kza","name":"Astana","id":"FC_Astana","win":6,"draw":3,"loss":5,"for":15,"against":12,"isCurrentSeason":true},
+{"country":"kza","name":"Zhetysu","id":"FC_Zhetysu","win":4,"draw":8,"loss":6,"for":14,"against":20,"isCurrentSeason":true},
+{"country":"kza","name":"Kyzylzhar","id":"FC_Kyzylzhar","win":5,"draw":4,"loss":8,"for":17,"against":17,"isCurrentSeason":true},
+{"country":"kza","name":"Turan","id":"FC_Turan","win":3,"draw":4,"loss":8,"for":11,"against":22,"isCurrentSeason":true,"isReturning":true},
+{"country":"kza","name":"Zhenis","id":"FC_Zhenis","win":2,"draw":4,"loss":10,"for":9,"against":25,"isCurrentSeason":true,"isReturning":true},
+{"country":"kza","name":"Shakhter","id":"FC_Shakhter_Karagandy","win":2,"draw":3,"loss":12,"for":7,"against":28,"isCurrentSeason":true}
 ]

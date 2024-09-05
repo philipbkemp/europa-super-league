@@ -574,4 +574,21 @@
 {"country":"deu","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":8,"draw":9,"loss":17,"for":47,"against":71,"isRemoved":true},
 {"country":"deu","name":"1. FC Köln","id":"1._FC_Köln","win":7,"draw":9,"loss":18,"for":49,"against":71,"isRemoved":true,"isReturning":true},
 {"country":"deu","name":"MSV Duisburg","id":"MSV_Duisburg","win":5,"draw":12,"loss":17,"for":34,"against":63,"isRemoved":true,"isReturning":true}
+][
+{"country":"kza","name":"Aktobe","id":"FC_Aktobe","win":22,"draw":4,"loss":4,"for":50,"against":27,"isChampion":true},
+{"country":"kza","name":"Tobol","id":"FC_Tobol","win":21,"draw":6,"loss":3,"for":53,"against":21},
+{"country":"kza","name":"Kairat","id":"FC_Kairat","win":18,"draw":8,"loss":4,"for":56,"against":22},
+{"country":"kza","name":"Shakhter Karagandy","id":"FC_Shakhter_Karagandy","win":19,"draw":2,"loss":9,"for":37,"against":22},
+{"country":"kza","name":"Irtysh","id":"FC_Irtysh_Pavlodar","win":18,"draw":3,"loss":9,"for":51,"against":24},
+{"country":"kza","name":"Ordabasy","id":"FC_Ordabasy","win":14,"draw":7,"loss":9,"for":30,"against":27},
+{"country":"kza","name":"Esil Bogatyr","id":"FC_Kyzylzhar","win":15,"draw":3,"loss":12,"for":38,"against":25},
+{"country":"kza","name":"Zhenis Astana","id":"FC_Zhenis","win":11,"draw":10,"loss":9,"for":35,"against":23},
+{"country":"kza","name":"Okzhetpes","id":"FC_Okzhetpes","win":11,"draw":4,"loss":15,"for":26,"against":32},
+{"country":"kza","name":"Atyrau","id":"FC_Atyrau","win":10,"draw":7,"loss":13,"for":32,"against":36},
+{"country":"kza","name":"Taraz","id":"FC_Taraz","win":10,"draw":6,"loss":14,"for":32,"against":36},
+{"country":"kza","name":"Ekibastuzets","id":"FC_Ekibastuzets","win":8,"draw":10,"loss":12,"for":30,"against":32},
+{"country":"kza","name":"Almaty","id":"FC_Alma-Ata","win":9,"draw":3,"loss":18,"for":30,"against":43},
+{"country":"kza","name":"Vostok","id":"FC_Vostok","win":9,"draw":1,"loss":20,"for":24,"against":49},
+{"country":"kza","name":"Zhetysu","id":"FC_Zhetysu","win":4,"draw":7,"loss":19,"for":28,"against":60,"isRemoved":true},
+{"country":"kza","name":"Bulat-MST","id":"FC_Shakhter-Bulat","win":0,"draw":1,"loss":29,"for":15,"against":88,"isRemoved":true,"isReturning":true}
 ]
