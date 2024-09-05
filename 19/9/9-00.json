@@ -574,7 +574,7 @@
 {"country":"deu","name":"SC Freiburg","id":"SC_Freiburg","win":10,"draw":10,"loss":14,"for":45,"against":50},
 {"country":"deu","name":"Schalke 04","id":"FC_Schalke_04","win":8,"draw":15,"loss":11,"for":42,"against":44},
 {"country":"deu","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":12,"draw":5,"loss":17,"for":42,"against":44,"deduct":-2,"deductReason":"Licensing irregularities"},
-{"country":"deu","name":"Hansa Rostock","id":"FC_Hansa_Rostock","win":8,"draw":14,"loss":12,"for":44,"against":60},
+{"country":"deu","name":"Hansa Rostock","id":"FC_Hansa_Rostock","win":8,"draw":14,"loss":12,"for":44,"against":60},
 {"country":"deu","name":"SSV Ulm 1846","id":"SSV_Ulm_1846","win":9,"draw":8,"loss":17,"for":36,"against":62,"isRemoved":true,"isNew":true},
 {"country":"deu","name":"Arminia Bielefeld","id":"Arminia_Bielefeld","win":7,"draw":9,"loss":18,"for":40,"against":61,"isRemoved":true,"isReturning":true},
 {"country":"deu","name":"MSV Duisburg","id":"MSV_Duisburg","win":4,"draw":10,"loss":20,"for":37,"against":71,"isRemoved":true}

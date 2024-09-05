@@ -351,7 +351,7 @@
 {"country":"yug","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":11,"draw":10,"loss":13,"for":42,"against":51},
 {"country":"yug","name":"OFK Belgrade","id":"OFK_Beograd","win":8,"draw":14,"loss":12,"for":34,"against":39,"isReturning":true},
 {"country":"yug","name":"NK Zagreb","id":"Borac_Zagreb","win":11,"draw":8,"loss":15,"for":43,"against":55,"isReturning":true},
-{"country":"yug","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":10,"draw":9,"loss":15,"for":35,"against":44,"isRemoved":true},
+{"country":"yug","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":10,"draw":9,"loss":15,"for":35,"against":44,"isRemoved":true},
 {"country":"yug","name":"Napredak Kruševac","id":"FK_Napredak_Kruševac","win":9,"draw":8,"loss":17,"for":45,"against":60,"isRemoved":true}
 ][
 {"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":14,"draw":12,"loss":4,"for":70,"against":32,"isChampion":true},
@@ -583,7 +583,7 @@
 {"country":"wde","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":19,"draw":8,"loss":7,"for":70,"against":44},
 {"country":"wde","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":17,"draw":10,"loss":7,"for":60,"against":37},
 {"country":"wde","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":13,"draw":12,"loss":9,"for":61,"against":57},
-{"country":"wde","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":15,"draw":7,"loss":12,"for":68,"against":64},
+{"country":"wde","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":15,"draw":7,"loss":12,"for":68,"against":64},
 {"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":13,"draw":9,"loss":12,"for":69,"against":59},
 {"country":"wde","name":"1. FC Köln","id":"1._FC_Köln","win":12,"draw":10,"loss":12,"for":54,"against":55},
 {"country":"wde","name":"VfL Bochum","id":"VfL_Bochum","win":9,"draw":15,"loss":10,"for":53,"against":45},
