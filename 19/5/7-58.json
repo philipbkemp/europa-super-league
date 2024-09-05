@@ -191,7 +191,7 @@
 {"country":"swe","name":"Motala AIF","id":"Motala_AIF","win":6,"draw":7,"loss":20,"for":35,"against":68,"isRemoved":true,"isNew":true}
 ][
 {"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":20,"draw":5,"loss":1,"for":100,"against":35,"isChampion":true},
-{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":20,"draw":3,"loss":3,"for":93,"against":39},
+{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":20,"draw":3,"loss":3,"for":93,"against":39},
 {"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":12,"draw":6,"loss":8,"for":57,"against":39},
 {"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":10,"draw":8,"loss":8,"for":54,"against":39},
 {"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":10,"draw":7,"loss":9,"for":63,"against":46},

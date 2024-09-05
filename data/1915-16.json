@@ -35,7 +35,7 @@
 	{"country":"swe","name":"GAIS","id":"GAIS","win":4,"draw":0,"loss":6,"for":17,"against":24,"isRemoved":true,"isNew":true},
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":3,"draw":0,"loss":7,"for":12,"against":36},
 	{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":2,"draw":1,"loss":7,"for":15,"against":28},
-	{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":15,"draw":1,"loss":2,"for":87,"against":26,"isChampion":true},
+	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":15,"draw":1,"loss":2,"for":87,"against":26,"isChampion":true},
 	{"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":14,"draw":1,"loss":3,"for":51,"against":18},
 	{"country":"aut","name":"Wiener AF","id":"Wiener_AF","win":12,"draw":2,"loss":4,"for":65,"against":24},
 	{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":12,"draw":2,"loss":4,"for":64,"against":35},

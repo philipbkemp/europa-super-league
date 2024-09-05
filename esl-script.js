@@ -30,7 +30,7 @@ const countries = {
 	"yug": "Yugoslavia"
 };
 
-clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc","knattspyrnufelagio_vikingur","sliema_wanderers_fc","ac_sparta_prague","knattspyrnufelag_reykjavikur","sk_slavia_prague","boldklubben_frem","fa_red_boys_differdange","valur"];
+clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc","knattspyrnufelagio_vikingur","sliema_wanderers_fc","ac_sparta_prague","knattspyrnufelag_reykjavikur","sk_slavia_prague","boldklubben_frem","fa_red_boys_differdange","valur","sk_rapid_wien"];
 
 if ( $("h1 .placeholder").length !== 0 ) {
 

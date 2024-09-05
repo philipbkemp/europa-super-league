@@ -218,7 +218,7 @@
 {"country":"swe","name":"IF Brommapojkarna","id":"IF_Brommapojkarna","win":2,"draw":6,"loss":22,"for":28,"against":69,"isRemoved":true}
 ][
 {"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":22,"draw":7,"loss":7,"for":99,"against":42,"isChampion":true},
-{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":19,"draw":10,"loss":7,"for":68,"against":38},
+{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":19,"draw":10,"loss":7,"for":68,"against":38},
 {"country":"aut","name":"SCR Altach","id":"SC_Rheindorf_Altach","win":17,"draw":8,"loss":11,"for":50,"against":49,"isReturning":true},
 {"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":16,"draw":10,"loss":10,"for":57,"against":41},
 {"country":"aut","name":"Wolfsberger AC","id":"Wolfsberger_AC","win":16,"draw":4,"loss":16,"for":44,"against":50},

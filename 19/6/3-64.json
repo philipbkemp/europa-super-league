@@ -207,7 +207,7 @@
 {"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":4,"draw":6,"loss":12,"for":24,"against":49,"isReturning":true,"isRemoved":true,"removedNote":"Single year season moved European Qualifying season"},
 {"country":"swe","name":"GAIS","id":"GAIS","win":2,"draw":4,"loss":16,"for":21,"against":58,"isReturning":true,"isRemoved":true,"removedNote":"Single year season moved European Qualifying season"}
 ][
-{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":19,"draw":5,"loss":2,"for":69,"against":27,"isChampion":true},
+{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":19,"draw":5,"loss":2,"for":69,"against":27,"isChampion":true},
 {"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":17,"draw":3,"loss":6,"for":61,"against":36},
 {"country":"aut","name":"Linzer ASK","id":"LASK","win":15,"draw":3,"loss":8,"for":46,"against":36},
 {"country":"aut","name":"1. Schwechater SC","id":"SV_Schwechat","win":13,"draw":5,"loss":8,"for":51,"against":41},

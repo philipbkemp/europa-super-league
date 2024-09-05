@@ -215,7 +215,7 @@
 ][
 {"country":"aut","name":"FC Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":20,"draw":4,"loss":6,"for":68,"against":30,"isChampion":true},
 {"country":"aut","name":"SV Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":18,"draw":7,"loss":5,"for":64,"against":33},
-{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":16,"draw":9,"loss":5,"for":65,"against":36},
+{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":16,"draw":9,"loss":5,"for":65,"against":36},
 {"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":14,"draw":9,"loss":7,"for":55,"against":39},
 {"country":"aut","name":"Linzer ASK","id":"LASK","win":15,"draw":6,"loss":9,"for":53,"against":44},
 {"country":"aut","name":"VÖEST Linz","id":"VÖEST_Linz","win":13,"draw":10,"loss":7,"for":44,"against":38},

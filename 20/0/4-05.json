@@ -209,7 +209,7 @@
 {"country":"swe","name":"AIK","id":"AIK_Fotboll","win":5,"draw":10,"loss":11,"for":23,"against":35,"isRemoved":true},
 {"country":"swe","name":"Trelleborgs FF","id":"Trelleborgs_FF","win":2,"draw":7,"loss":17,"for":18,"against":55,"isRemoved":true,"isReturning":true}
 ][
-{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":21,"draw":8,"loss":7,"for":67,"against":31,"isChampion":true},
+{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":21,"draw":8,"loss":7,"for":67,"against":31,"isChampion":true},
 {"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":21,"draw":7,"loss":8,"for":58,"against":28},
 {"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":19,"draw":12,"loss":5,"for":64,"against":24},
 {"country":"aut","name":"Pasching","id":"ASKÖ_Pasching","win":17,"draw":9,"loss":10,"for":53,"against":48},

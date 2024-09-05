@@ -89,7 +89,7 @@
 	{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":5,"draw":0,"loss":5,"for":19,"against":25,"isNew":true},
 	{"country":"swe","name":"IFK Uppsala","id":"IFK_Uppsala_Fotboll","win":3,"draw":1,"loss":6,"for":22,"against":23,"isNew":true},
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":0,"draw":2,"loss":8,"for":7,"against":34,"isReturning":true},
-	{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":15,"draw":3,"loss":0,"for":59,"against":17,"isChampion":true},
+	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":15,"draw":3,"loss":0,"for":59,"against":17,"isChampion":true},
 	{"country":"aut","name":"Wiener AF","id":"Wiener_AF","win":12,"draw":2,"loss":4,"for":39,"against":21},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":10,"draw":1,"loss":7,"for":45,"against":24},
 	{"country":"aut","name":"SV Amateure","id":"FK_Austria_Wien","win":9,"draw":1,"loss":8,"for":39,"against":31},

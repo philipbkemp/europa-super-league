@@ -214,7 +214,7 @@
 {"country":"swe","name":"Gefle IF","id":"Gefle_IF","win":4,"draw":8,"loss":10,"for":21,"against":44,"isRemoved":true}
 ][
 {"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":25,"draw":4,"loss":1,"for":85,"against":17,"isChampion":true},
-{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":18,"draw":9,"loss":3,"for":85,"against":30},
+{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":18,"draw":9,"loss":3,"for":85,"against":30},
 {"country":"aut","name":"Linzer ASK","id":"LASK","win":17,"draw":4,"loss":9,"for":49,"against":37},
 {"country":"aut","name":"FC Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":12,"draw":8,"loss":10,"for":51,"against":44},
 {"country":"aut","name":"FC Admira/Wacker","id":"FC_Admira_Wacker_Mödling","win":11,"draw":10,"loss":9,"for":49,"against":42},

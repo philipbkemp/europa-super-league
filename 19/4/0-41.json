@@ -84,7 +84,7 @@
 {"country":"swe","name":"IK Brage","id":"IK_Brage","win":6,"draw":4,"loss":12,"for":39,"against":53,"isRemoved":true},
 {"country":"swe","name":"IK Sleipner","id":"IK_Sleipner","win":3,"draw":4,"loss":15,"for":28,"against":65,"isRemoved":true}
 ][
-{"country":"aut-naz","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":12,"draw":4,"loss":2,"for":82,"against":29,"isChampion":true},
+{"country":"aut-naz","name":"SK Rapid Wien","id":"sk_rapid_wien","win":12,"draw":4,"loss":2,"for":82,"against":29,"isChampion":true},
 {"country":"aut-naz","name":"SC Wacker Wien","id":"SC_Wacker","win":10,"draw":4,"loss":4,"for":60,"against":33},
 {"country":"aut-naz","name":"First Vienna FC","id":"First_Vienna_FC","win":11,"draw":2,"loss":5,"for":52,"against":33},
 {"country":"aut-naz","name":"FK Austria Wien","id":"FK_Austria_Wien","win":10,"draw":2,"loss":6,"for":56,"against":22},

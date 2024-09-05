@@ -94,7 +94,7 @@
 	{"country":"rou","name":"Tricolor București","id":"Unirea_Tricolor_București","win":3,"draw":0,"loss":2,"for":9,"against":6,"isNew":true},
 	{"country":"rou","name":"Colțea București","id":"Colțea_București","win":1,"draw":1,"loss":2,"for":4,"against":6,"isReturning":true},
 	{"country":"rou","name":"Prahova Ploiești","id":"FC_Prahova_Ploiești","win":0,"draw":0,"loss":3,"for":1,"against":4,"isReturning":true},
-	{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":15,"draw":3,"loss":4,"for":71,"against":29,"isChampion":true},
+	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":15,"draw":3,"loss":4,"for":71,"against":29,"isChampion":true},
 	{"country":"aut","name":"SV Amateure","id":"FK_Austria_Wien","win":14,"draw":5,"loss":3,"for":55,"against":24},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":13,"draw":4,"loss":5,"for":37,"against":28},
 	{"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":11,"draw":6,"loss":5,"for":36,"against":24},

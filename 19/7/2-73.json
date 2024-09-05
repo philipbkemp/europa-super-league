@@ -216,7 +216,7 @@
 {"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":2,"draw":8,"loss":12,"for":14,"against":42,"isRemoved":true,"isReturning":true}
 ][
 {"country":"aut","name":"FC Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":18,"draw":7,"loss":5,"for":57,"against":25,"isChampion":true},
-{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":16,"draw":8,"loss":6,"for":50,"against":31},
+{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":16,"draw":8,"loss":6,"for":50,"against":31},
 {"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":13,"draw":10,"loss":7,"for":44,"against":26},
 {"country":"aut","name":"FC Admira/Wacker","id":"FC_Admira_Wacker_Mödling","win":14,"draw":8,"loss":8,"for":37,"against":30},
 {"country":"aut","name":"VÖEST Linz","id":"VÖEST_Linz","win":14,"draw":7,"loss":9,"for":53,"against":32},

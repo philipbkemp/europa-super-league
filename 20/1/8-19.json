@@ -218,7 +218,7 @@
 {"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":12,"draw":6,"loss":14,"for":45,"against":48},
 {"country":"aut","name":"St. Pölten","id":"SKN_St._Pölten","win":9,"draw":9,"loss":14,"for":32,"against":50,"isReturning":true},
 {"country":"aut","name":"Mattersburg","id":"SV_Mattersburg","win":12,"draw":7,"loss":13,"for":41,"against":48},
-{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":13,"draw":7,"loss":12,"for":48,"against":44},
+{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":13,"draw":7,"loss":12,"for":48,"against":44},
 {"country":"aut","name":"Hartberg","id":"TSV_Hartberg","win":10,"draw":5,"loss":17,"for":48,"against":66,"isNew":true},
 {"country":"aut","name":"Admira Wacker Mödling","id":"FC_Admira_Wacker_Mödling","win":8,"draw":9,"loss":15,"for":42,"against":62},
 {"country":"aut","name":"Rheindorf Altach","id":"SC_Rheindorf_Altach","win":9,"draw":10,"loss":13,"for":48,"against":44},

@@ -120,7 +120,7 @@
 	{"country":"swe","name":"IK Sleipner","id":"IK_Sleipner","win":7,"draw":3,"loss":12,"for":34,"against":52,"isRemoved":true},
 	{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":6,"draw":3,"loss":13,"for":38,"against":60,"isRemoved":true},
 	{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":16,"draw":3,"loss":3,"for":52,"against":26,"isChampion":true},
-	{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":15,"draw":2,"loss":5,"for":65,"against":35},
+	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":15,"draw":2,"loss":5,"for":65,"against":35},
 	{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":11,"draw":3,"loss":8,"for":63,"against":42},
 	{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":10,"draw":3,"loss":9,"for":46,"against":41},
 	{"country":"aut","name":"FC Wien","id":"FC_Wien","win":9,"draw":5,"loss":8,"for":39,"against":37,"isNew":true},

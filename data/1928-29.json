@@ -90,7 +90,7 @@
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":4,"draw":8,"loss":10,"for":25,"against":33},
 	{"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":7,"draw":2,"loss":13,"for":41,"against":74,"isRemoved":true},
 	{"country":"swe","name":"Westermalm","id":"Westermalms_IF","win":5,"draw":3,"loss":14,"for":34,"against":62,"isRemoved":true,"isReturning":true},
-	{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":15,"draw":3,"loss":4,"for":57,"against":31,"isChampion":true},
+	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":15,"draw":3,"loss":4,"for":57,"against":31,"isChampion":true},
 	{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":13,"draw":4,"loss":5,"for":63,"against":30},
 	{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":11,"draw":8,"loss":3,"for":49,"against":28},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":11,"draw":3,"loss":8,"for":50,"against":43},

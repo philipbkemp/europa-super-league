@@ -211,7 +211,7 @@
 {"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":6,"draw":8,"loss":12,"for":33,"against":40,"isRemoved":true},
 {"country":"swe","name":"Västra Frölunda","id":"Västra_Frölunda_IF","win":5,"draw":10,"loss":11,"for":35,"against":45,"isRemoved":true}
 ][
-{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":22,"draw":7,"loss":7,"for":68,"against":38,"isChampion":true},
+{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":22,"draw":7,"loss":7,"for":68,"against":38,"isChampion":true},
 {"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":20,"draw":7,"loss":9,"for":61,"against":35},
 {"country":"aut","name":"Tirol Innsbruck","id":"FC_Tirol_Innsbruck","win":18,"draw":8,"loss":10,"for":64,"against":40},
 {"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":14,"draw":15,"loss":7,"for":46,"against":36,"isReturning":true},

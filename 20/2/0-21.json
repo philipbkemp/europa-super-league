@@ -216,7 +216,7 @@
 {"country":"swe","name":"Falkenbergs FF","id":"Falkenbergs_FF","win":5,"draw":9,"loss":16,"for":33,"against":54,"isRemoved":true}
 ][
 {"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":25,"draw":2,"loss":5,"for":94,"against":33,"isChampion":true},
-{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":17,"draw":8,"loss":7,"for":64,"against":40},
+{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":17,"draw":8,"loss":7,"for":64,"against":40},
 {"country":"aut","name":"LASK","id":"LASK","win":15,"draw":6,"loss":11,"for":55,"against":41},
 {"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":16,"draw":8,"loss":8,"for":52,"against":34},
 {"country":"aut","name":"Wolfsberger AC","id":"Wolfsberger_AC","win":13,"draw":5,"loss":14,"for":52,"against":62},

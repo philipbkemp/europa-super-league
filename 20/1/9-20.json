@@ -211,7 +211,7 @@
 ][
 {"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":22,"draw":8,"loss":2,"for":110,"against":34,"isChampion":true},
 {"country":"aut","name":"LASK","id":"LASK","win":20,"draw":4,"loss":8,"for":67,"against":37,"deduct":-8,"deductReason":"Violating pandemic restrictions"},
-{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":17,"draw":7,"loss":8,"for":64,"against":43},
+{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":17,"draw":7,"loss":8,"for":64,"against":43},
 {"country":"aut","name":"Wolfsberger AC","id":"Wolfsberger_AC","win":15,"draw":9,"loss":8,"for":69,"against":43},
 {"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":10,"draw":5,"loss":17,"for":46,"against":60},
 {"country":"aut","name":"Hartberg","id":"TSV_Hartberg","win":12,"draw":6,"loss":14,"for":52,"against":74},

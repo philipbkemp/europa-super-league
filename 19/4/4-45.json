@@ -60,7 +60,7 @@
 {"country":"swe","name":"Ludvika","id":"Ludvika_FK","win":6,"draw":2,"loss":14,"for":30,"against":56,"isRemoved":true,"isNew":true},
 {"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":4,"draw":5,"loss":13,"for":38,"against":58,"isRemoved":true,"isReturning":true}
 ][
-{"country":"aut-naz","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":6,"draw":2,"loss":1,"for":35,"against":12,"note":"Would have been champions, but the season was suspended as Austria regained independence from Nazi Gemany"},
+{"country":"aut-naz","name":"SK Rapid Wien","id":"sk_rapid_wien","win":6,"draw":2,"loss":1,"for":35,"against":12,"note":"Would have been champions, but the season was suspended as Austria regained independence from Nazi Gemany"},
 {"country":"aut-naz","name":"SC Wacker Wien","id":"SC_Wacker","win":6,"draw":2,"loss":1,"for":26,"against":14},
 {"country":"aut-naz","name":"First Vienna FC","id":"First_Vienna_FC","win":6,"draw":1,"loss":2,"for":35,"against":18},
 {"country":"aut-naz","name":"FC Wien","id":"FC_Wien","win":5,"draw":1,"loss":3,"for":21,"against":8},

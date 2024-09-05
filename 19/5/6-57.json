@@ -173,7 +173,7 @@
 {"country":"swe","name":"Västerås SK","id":"Västerås_SK_Fotboll","win":5,"draw":3,"loss":14,"for":25,"against":57,"isRemoved":true},
 {"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":2,"draw":8,"loss":12,"for":24,"against":43,"isRemoved":true}
 ][
-{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":19,"draw":2,"loss":5,"for":100,"against":43,"isChampion":true},
+{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":19,"draw":2,"loss":5,"for":100,"against":43,"isChampion":true},
 {"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":17,"draw":5,"loss":4,"for":71,"against":32},
 {"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":18,"draw":2,"loss":6,"for":68,"against":41},
 {"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":14,"draw":7,"loss":5,"for":82,"against":37},

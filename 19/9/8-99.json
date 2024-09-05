@@ -214,7 +214,7 @@
 {"country":"swe","name":"Östers IF","id":"Östers_IF","win":5,"draw":7,"loss":14,"for":26,"against":43,"isRemoved":true}
 ][
 {"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":23,"draw":4,"loss":9,"for":72,"against":32,"isChampion":true},
-{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":19,"draw":13,"loss":4,"for":50,"against":25},
+{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":19,"draw":13,"loss":4,"for":50,"against":25},
 {"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":20,"draw":5,"loss":11,"for":46,"against":29},
 {"country":"aut","name":"Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":15,"draw":12,"loss":9,"for":55,"against":40},
 {"country":"aut","name":"LASK Linz","id":"LASK","win":17,"draw":6,"loss":13,"for":53,"against":44},

@@ -213,7 +213,7 @@
 {"country":"aut","name":"Linzer ASK","id":"LASK","win":16,"draw":6,"loss":4,"for":69,"against":40},
 {"country":"aut","name":"SK Admira Wien Energie","id":"SK_Admira_Wien","win":16,"draw":4,"loss":6,"for":56,"against":34,"isReturning":true},
 {"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":12,"draw":8,"loss":6,"for":58,"against":39},
-{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":12,"draw":7,"loss":7,"for":58,"against":32},
+{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":12,"draw":7,"loss":7,"for":58,"against":32},
 {"country":"aut","name":"Wiener AC","id":"wiener_ac","win":11,"draw":5,"loss":10,"for":47,"against":37},
 {"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":10,"draw":7,"loss":9,"for":43,"against":42},
 {"country":"aut","name":"SVS Linz","id":"SVS_Linz","win":10,"draw":6,"loss":10,"for":47,"against":50},

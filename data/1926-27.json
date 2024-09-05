@@ -91,7 +91,7 @@
 	{"country":"swe","name":"IFK Uddevalla","id":"IFK_Uddevalla","win":2,"draw":4,"loss":16,"for":27,"against":65,"isRemoved":true},
 	{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":17,"draw":2,"loss":5,"for":81,"against":41,"isChampion":true},
 	{"country":"aut","name":"Brigittenauer AC","id":"Brigittenauer_AC","win":14,"draw":5,"loss":5,"for":44,"against":24,"isNew":true},
-	{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":15,"draw":1,"loss":8,"for":82,"against":44},
+	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":15,"draw":1,"loss":8,"for":82,"against":44},
 	{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":12,"draw":3,"loss":9,"for":67,"against":45},
 	{"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":11,"draw":5,"loss":8,"for":48,"against":54},
 	{"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":11,"draw":4,"loss":9,"for":44,"against":52},

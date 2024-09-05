@@ -179,7 +179,7 @@
 {"country":"swe","name":"Billingsfors","id":"Billingsfors_IK","win":0,"draw":3,"loss":19,"for":28,"against":84,"isRemoved":true,"isNew":true}
 ][
 {"country":"aut","name":"SC Wacker Wien","id":"SC_Wacker","win":14,"draw":2,"loss":4,"for":61,"against":24,"isChampion":true},
-{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":13,"draw":2,"loss":5,"for":60,"against":36},
+{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":13,"draw":2,"loss":5,"for":60,"against":36},
 {"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":13,"draw":1,"loss":6,"for":51,"against":29},
 {"country":"aut","name":"FC Wien","id":"FC_Wien","win":9,"draw":5,"loss":6,"for":40,"against":28},
 {"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":7,"draw":6,"loss":7,"for":39,"against":38},

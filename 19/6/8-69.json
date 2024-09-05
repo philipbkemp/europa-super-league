@@ -215,7 +215,7 @@
 ][
 {"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":19,"draw":8,"loss":1,"for":80,"against":35,"isChampion":true},
 {"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":13,"draw":12,"loss":3,"for":62,"against":21},
-{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":15,"draw":5,"loss":8,"for":64,"against":34},
+{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":15,"draw":5,"loss":8,"for":64,"against":34},
 {"country":"aut","name":"Linzer ASK","id":"LASK","win":12,"draw":7,"loss":9,"for":38,"against":33},
 {"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":12,"draw":7,"loss":9,"for":33,"against":29},
 {"country":"aut","name":"SV Austria Salzburg","id":"SV_Austria_Salzburg","win":10,"draw":10,"loss":8,"for":41,"against":28},

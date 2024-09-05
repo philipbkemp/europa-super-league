@@ -148,7 +148,7 @@
 {"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":6,"draw":4,"loss":12,"for":28,"against":35,"isRemoved":true},
 {"country":"swe","name":"GAIS","id":"GAIS","win":3,"draw":4,"loss":15,"for":19,"against":47,"isRemoved":true}
 ][
-{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":14,"draw":2,"loss":2,"for":59,"against":19,"isChampion":true},
+{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":14,"draw":2,"loss":2,"for":59,"against":19,"isChampion":true},
 {"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":9,"draw":5,"loss":4,"for":43,"against":29},
 {"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":8,"draw":5,"loss":5,"for":35,"against":29},
 {"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":8,"draw":4,"loss":6,"for":44,"against":33},

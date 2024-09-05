@@ -121,7 +121,7 @@
 	{"country":"swe","name":"Hallstahammar","id":"Hallstahammars_SK","win":2,"draw":6,"loss":14,"for":29,"against":63,"isRemoved":true,"isNew":true},
 	{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":14,"draw":5,"loss":3,"for":58,"against":26,"isChampion":true},
 	{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":13,"draw":5,"loss":4,"for":57,"against":27},
-	{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":15,"draw":1,"loss":6,"for":70,"against":39},
+	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":15,"draw":1,"loss":6,"for":70,"against":39},
 	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":13,"draw":3,"loss":6,"for":64,"against":39},
 	{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":9,"draw":6,"loss":7,"for":45,"against":40},
 	{"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":7,"draw":7,"loss":8,"for":32,"against":42},

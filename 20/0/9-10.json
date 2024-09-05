@@ -215,7 +215,7 @@
 ][
 {"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":22,"draw":10,"loss":4,"for":68,"against":27,"isChampion":true},
 {"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":23,"draw":6,"loss":7,"for":60,"against":34},
-{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":21,"draw":10,"loss":5,"for":80,"against":38},
+{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":21,"draw":10,"loss":5,"for":80,"against":38},
 {"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":16,"draw":10,"loss":10,"for":50,"against":36},
 {"country":"aut","name":"Wiener Neustadt","id":"1._Wiener_Neustädter_SC_(2008)","win":13,"draw":8,"loss":15,"for":54,"against":58,"isNew":true},
 {"country":"aut","name":"Mattersburg","id":"SV_Mattersburg","win":12,"draw":5,"loss":19,"for":45,"against":71},

@@ -40,7 +40,7 @@
 	{"country":"mlt","name":"Army Service Corps","id":"army_service_corps","win":1,"draw":0,"loss":3,"for":4,"against":6,"isNew":true,"isRemoved":true},
 	{"country":"mlt","name":"Sliema Amateurs","id":"sliema_wanderers_fc","win":1,"draw":0,"loss":3,"for":5,"against":8},
 	{"country":"mlt","name":"Cospicua Rangers","id":"cospicua_rangers","win":1,"draw":0,"loss":3,"for":4,"against":10,"isNew":true,"isRemoved":true},
-	{"country":"aut","name":"SK Rapid Wien","id":"SK_Rapid_Wien","win":15,"draw":1,"loss":2,"for":67,"against":15,"isChampion":true},
+	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":15,"draw":1,"loss":2,"for":67,"against":15,"isChampion":true},
 	{"country":"aut","name":"SC Rudolfshügel","id":"SC_Rudolfshügel","win":10,"draw":4,"loss":4,"for":51,"against":32},
 	{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":8,"draw":7,"loss":3,"for":42,"against":26},
 	{"country":"aut","name":"Wiener AF","id":"Wiener_AF","win":8,"draw":4,"loss":6,"for":32,"against":26},

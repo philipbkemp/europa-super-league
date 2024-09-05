@@ -217,7 +217,7 @@
 ][
 {"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":25,"draw":7,"loss":4,"for":84,"against":31,"isChampion":true},
 {"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":22,"draw":11,"loss":3,"for":91,"against":39},
-{"country":"aut","name":"Rapid Wien","id":"SK_Rapid_Wien","win":16,"draw":9,"loss":11,"for":57,"against":39},
+{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":16,"draw":9,"loss":11,"for":57,"against":39},
 {"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":13,"draw":9,"loss":14,"for":49,"against":56},
 {"country":"aut","name":"Wolfsberger AC","id":"Wolfsberger_AC","win":12,"draw":11,"loss":13,"for":53,"against":56,"isNew":true},
 {"country":"aut","name":"SV Ried","id":"SV_Ried","win":13,"draw":7,"loss":16,"for":60,"against":59},
