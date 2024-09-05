@@ -15,7 +15,7 @@
 - run "newTeams()" and update "data-teams" attributes
 - reload, repaste JSON
 - run "checkRemoved()" pasting results from previous season, making sure it gives a list of newly removed teams and no errors
-- promte and relegate using promote() and relegate() as needed
+- promote and relegate using promote() and relegate() as needed
 - run nextSeason() just to check each division has (up to) 100 members
 - copy HTML element and paste into HTML file
 - paste existing team records into existing team pages
