@@ -628,4 +628,19 @@
 {"country":"kza","name":"Tsesna Akmola","id":"FC_Zhenis","win":6,"draw":7,"loss":17,"for":24,"against":48,"isNew":true},
 {"country":"kza","name":"Yassi","id":"FC_Turkestan","win":8,"draw":1,"loss":21,"for":22,"against":76,"isRemoved":true,"isNew":true},
 {"country":"kza","name":"Uralets-Arma","id":"FC_Akzhayik","win":4,"draw":9,"loss":17,"for":20,"against":56,"isRemoved":true,"isNew":true}
+][
+{"country":"mda","name":"Zimbru Chişinău","id":"FC_Zimbru_Chișinău","win":21,"draw":4,"loss":1,"for":69,"against":10,"isChampion":true},
+{"country":"mda","name":"Tiligul-Tiras Tiraspol","id":"CS_Tiligul-Tiras_Tiraspol","win":21,"draw":3,"loss":2,"for":78,"against":18},
+{"country":"mda","name":"Olimpia Bălţi","id":"FC_Bălți","win":17,"draw":6,"loss":3,"for":53,"against":24},
+{"country":"mda","name":"FC Tighina","id":"FC_Tighina","win":18,"draw":2,"loss":6,"for":44,"against":18},
+{"country":"mda","name":"Nistru Otaci","id":"FC_Nistru_Otaci","win":15,"draw":4,"loss":7,"for":55,"against":25},
+{"country":"mda","name":"MHM-93 Chișinău","id":"FC_MHM-93_Chișinău","win":10,"draw":6,"loss":10,"for":28,"against":30,"isNew":true},
+{"country":"mda","name":"Bugeac Comrat","id":"FC_Bugeac_Comrat","win":10,"draw":1,"loss":15,"for":29,"against":56},
+{"country":"mda","name":"Agro Chișinău","id":"FC_Agro-Goliador_Chișinău","win":8,"draw":6,"loss":12,"for":24,"against":37},
+{"country":"mda","name":"Codru Călăraşi","id":"ULIM_Chișinău","win":8,"draw":5,"loss":13,"for":26,"against":38},
+{"country":"mda","name":"Torentul Chișinău","id":"FC_Torentul_Chișinău","win":6,"draw":5,"loss":15,"for":24,"against":44},
+{"country":"mda","name":"Sportul Studențesc Chișinău","id":"FC_Unisport-Auto_Chișinău","win":7,"draw":2,"loss":17,"for":23,"against":46},
+{"country":"mda","name":"Progresul Briceni","id":"FC_Progresul_Briceni","win":7,"draw":2,"loss":17,"for":22,"against":56,"isReturning":true},
+{"country":"mda","name":"Nistru Cioburciu","id":"FC_Nistru_Cioburciu","win":5,"draw":5,"loss":16,"for":27,"against":46},
+{"country":"mda","name":"Cristalul Făleşti","id":"FC_Spicul_Fălești","win":2,"draw":3,"loss":21,"for":15,"against":69,"isRemoved":true}
 ]

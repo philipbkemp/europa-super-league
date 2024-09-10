@@ -559,4 +559,13 @@
 {"country":"kza","name":"Vostok Altyn","id":"FC_Vostok","win":10,"draw":2,"loss":20,"for":27,"against":47},
 {"country":"kza","name":"Kaisar","id":"FC_Kaisar","win":10,"draw":2,"loss":20,"for":31,"against":55},
 {"country":"kza","name":"Esil","id":"FC_Okzhetpes","win":6,"draw":6,"loss":20,"for":25,"against":56}
+][
+{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":19,"draw":3,"loss":2,"for":64,"against":15,"isChampion":true},
+{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":15,"draw":5,"loss":4,"for":47,"against":20},
+{"country":"mda","name":"Nistru Otaci","id":"FC_Nistru_Otaci","win":13,"draw":3,"loss":8,"for":33,"against":24},
+{"country":"mda","name":"Dacia Chișinău","id":"FC_Dacia_Chișinău","win":8,"draw":8,"loss":8,"for":24,"against":28,"isNew":true},
+{"country":"mda","name":"Tiraspol","id":"FC_Tiraspol","win":7,"draw":5,"loss":12,"for":27,"against":38},
+{"country":"mda","name":"Agro Chișinău","id":"FC_Agro-Goliador_Chișinău","win":4,"draw":8,"loss":12,"for":13,"against":33},
+{"country":"mda","name":"Politehnica Chișinău","id":"FC_Politehnica_Chișinău","win":1,"draw":2,"loss":21,"for":8,"against":58,"isRemoved":true,"isReturning":true},
+{"country":"mda","name":"Hîncesti","id":"FC_Petrocub_Hîncești","win":null,"draw":null,"loss":null,"for":null,"against":null,"isRemoved":true,"removedNote":"Withdrew; Record expunged"}
 ]

@@ -641,4 +641,17 @@
 {"country":"deu","name":"Hansa Rostock","id":"FC_Hansa_Rostock","win":10,"draw":11,"loss":17,"for":43,"against":55,"isRemoved":true},
 {"country":"deu","name":"MSV Duisburg","id":"MSV_Duisburg","win":7,"draw":16,"loss":15,"for":43,"against":55,"isRemoved":true,"isReturning":true},
 {"country":"deu","name":"Fortuna Düsseldorf","id":"Fortuna_Düsseldorf","win":6,"draw":12,"loss":20,"for":41,"against":69,"isRemoved":true}
+][
+{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":15,"draw":5,"loss":2,"for":40,"against":15,"isChampion":true,"isNew":true},
+{"country":"mda","name":"Tiligul Tiraspol","id":"CS_Tiligul-Tiras_Tiraspol","win":15,"draw":5,"loss":2,"for":40,"against":13,"isNew":true},
+{"country":"mda","name":"Bugeac Comrat","id":"FC_Bugeac_Comrat","win":13,"draw":7,"loss":2,"for":51,"against":11,"isNew":true},
+{"country":"mda","name":"FC Tighina","id":"FC_Tighina","win":9,"draw":8,"loss":5,"for":21,"against":17,"isNew":true},
+{"country":"mda","name":"Amocom Chișinău","id":"FC_Unisport-Auto_Chișinău","win":9,"draw":7,"loss":6,"for":32,"against":25,"isNew":true},
+{"country":"mda","name":"Constructorul Chișinău","id":"FC_Agro-Goliador_Chișinău","win":8,"draw":7,"loss":7,"for":46,"against":32,"isNew":true},
+{"country":"mda","name":"Dinamo Codru Chișinău","id":"FC_Torentul_Chișinău","win":8,"draw":5,"loss":9,"for":30,"against":23,"isNew":true},
+{"country":"mda","name":"Speranţa Nisporeni","id":"Speranța_Nisporeni","win":6,"draw":5,"loss":11,"for":20,"against":32,"isNew":true},
+{"country":"mda","name":"Olimpia Bălți","id":"FC_Bălți","win":5,"draw":7,"loss":10,"for":19,"against":24,"isNew":true},
+{"country":"mda","name":"Moldova Boroseni","id":"FC_Moldova_Boroseni","win":7,"draw":2,"loss":13,"for":22,"against":42,"isNew":true},
+{"country":"mda","name":"Cristalul Fălești","id":"FC_Spicul_Fălești","win":3,"draw":3,"loss":16,"for":25,"against":60,"isNew":true},
+{"country":"mda","name":"Constructorul Leova","id":"FC_Prut_Leova","win":2,"draw":3,"loss":17,"for":11,"against":63,"isRemoved":true,"isNew":true}
 ]

@@ -617,4 +617,21 @@
 {"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":8,"draw":10,"loss":16,"for":45,"against":52,"isRemoved":true},
 {"country":"deu","name":"Bayer 05 Uerdingen","id":"KFC_Uerdingen_05","win":7,"draw":10,"loss":17,"for":35,"against":64,"isRemoved":true,"isReturning":true},
 {"country":"deu","name":"1. FC Saarbrücken","id":"1._FC_Saarbrücken","win":5,"draw":13,"loss":16,"for":37,"against":71,"isRemoved":true,"isReturning":true}
+][
+{"country":"mda","name":"Zimbru Chişinău","id":"FC_Zimbru_Chișinău","win":22,"draw":6,"loss":2,"for":66,"against":17,"isChampion":true},
+{"country":"mda","name":"Tiligul-Tiras Tiraspol","id":"CS_Tiligul-Tiras_Tiraspol","win":20,"draw":7,"loss":3,"for":80,"against":28},
+{"country":"mda","name":"Moldova Boroseni","id":"FC_Moldova_Boroseni","win":16,"draw":9,"loss":5,"for":45,"against":29},
+{"country":"mda","name":"Bugeac Comrat","id":"FC_Bugeac_Comrat","win":16,"draw":8,"loss":6,"for":38,"against":21},
+{"country":"mda","name":"Amocom Chişinău","id":"FC_Unisport-Auto_Chișinău","win":15,"draw":6,"loss":9,"for":45,"against":26},
+{"country":"mda","name":"Codru Călăraşi","id":"ULIM_Chișinău","win":15,"draw":4,"loss":11,"for":42,"against":44,"isNew":true},
+{"country":"mda","name":"Olimpia Bălţi","id":"FC_Bălți","win":14,"draw":6,"loss":10,"for":40,"against":28},
+{"country":"mda","name":"Nistru Otaci","id":"FC_Nistru_Otaci","win":12,"draw":8,"loss":10,"for":45,"against":54,"isNew":true},
+{"country":"mda","name":"Speranţa Nisporeni","id":"Speranța_Nisporeni","win":9,"draw":10,"loss":11,"for":28,"against":34},
+{"country":"mda","name":"Agro Chișinău","id":"FC_Agro-Goliador_Chișinău","win":10,"draw":5,"loss":15,"for":45,"against":46},
+{"country":"mda","name":"FC Tighina","id":"FC_Tighina","win":8,"draw":8,"loss":14,"for":32,"against":46},
+{"country":"mda","name":"Nistru Cioburciu","id":"FC_Nistru_Cioburciu","win":8,"draw":6,"loss":16,"for":27,"against":48,"isNew":true},
+{"country":"mda","name":"Dinamo Chişinău","id":"FC_Torentul_Chișinău","win":6,"draw":8,"loss":16,"for":31,"against":49},
+{"country":"mda","name":"Cristalul Fălești","id":"FC_Spicul_Fălești","win":7,"draw":4,"loss":19,"for":30,"against":58},
+{"country":"mda","name":"Tricon Cahul","id":"FC_Cahul-2005","win":4,"draw":9,"loss":17,"for":25,"against":53,"isRemoved":true,"isNew":true},
+{"country":"mda","name":"Universul Ciuciuleni","id":"FC_Universul_Ciuciuleni","win":4,"draw":4,"loss":22,"for":21,"against":59,"isRemoved":true,"isNew":true}
 ]

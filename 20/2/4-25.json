@@ -584,4 +584,13 @@
 {"country":"kza","name":"Turan","id":"FC_Turan","win":3,"draw":4,"loss":8,"for":11,"against":22,"isCurrentSeason":true,"isReturning":true},
 {"country":"kza","name":"Zhenis","id":"FC_Zhenis","win":2,"draw":4,"loss":10,"for":9,"against":25,"isCurrentSeason":true,"isReturning":true},
 {"country":"kza","name":"Shakhter","id":"FC_Shakhter_Karagandy","win":2,"draw":3,"loss":12,"for":7,"against":28,"isCurrentSeason":true}
+][
+{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":4,"draw":1,"loss":0,"for":7,"against":2,"isCurrentSeason":true},
+{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":4,"draw":0,"loss":1,"for":18,"against":3,"isCurrentSeason":true},
+{"country":"mda","name":"Bălți","id":"FC_Bălți","win":3,"draw":1,"loss":1,"for":7,"against":4,"isCurrentSeason":true},
+{"country":"mda","name":"Petrocub Hîncești","id":"FC_Petrocub_Hîncești","win":2,"draw":1,"loss":1,"for":7,"against":3,"isCurrentSeason":true},
+{"country":"mda","name":"Spartanii Sportul","id":"CSF_Spartanii_Sportul","win":1,"draw":2,"loss":2,"for":3,"against":4,"isCurrentSeason":true,"isReturning":true},
+{"country":"mda","name":"Milsami Orhei","id":"FC_Milsami_Orhei","win":1,"draw":1,"loss":2,"for":8,"against":7,"isCurrentSeason":true},
+{"country":"mda","name":"Dacia Buiucani","id":"FC_Dacia_Buiucani","win":0,"draw":1,"loss":4,"for":0,"against":6,"isCurrentSeason":true},
+{"country":"mda","name":"Florești","id":"FC_Florești","win":0,"draw":1,"loss":4,"for":0,"against":21,"isCurrentSeason":true,"isReturning":true}
 ]

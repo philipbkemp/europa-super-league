@@ -592,4 +592,17 @@
 {"country":"kza","name":"Energetik-2","id":"FC_Ekibastuz","win":5,"draw":8,"loss":17,"for":21,"against":43,"isRemoved":true,"isReturning":true},
 {"country":"kza","name":"Atyrau","id":"FC_Atyrau","win":3,"draw":10,"loss":17,"for":22,"against":54},
 {"country":"kza","name":"Vostok","id":"FC_Vostok","win":10,"draw":5,"loss":14,"for":35,"against":48}
+][
+{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":25,"draw":3,"loss":2,"for":61,"against":15,"isChampion":true},
+{"country":"mda","name":"Dacia Chișinău","id":"FC_Dacia_Chișinău","win":20,"draw":3,"loss":7,"for":47,"against":17},
+{"country":"mda","name":"Iskra-Stal Rîbnița","id":"FC_Iskra-Stal","win":14,"draw":10,"loss":6,"for":28,"against":15},
+{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":13,"draw":7,"loss":10,"for":42,"against":30},
+{"country":"mda","name":"Dinamo Bender","id":"FC_Tighina","win":11,"draw":9,"loss":10,"for":42,"against":45},
+{"country":"mda","name":"Olimpia Bălți","id":"FC_Bălți","win":11,"draw":7,"loss":12,"for":30,"against":32},
+{"country":"mda","name":"Tiraspol","id":"FC_Tiraspol","win":9,"draw":5,"loss":16,"for":30,"against":36},
+{"country":"mda","name":"Nistru Otaci","id":"FC_Nistru_Otaci","win":8,"draw":6,"loss":16,"for":30,"against":43},
+{"country":"mda","name":"CSCA-Rapid Chișinău","id":"FC_Rapid_Ghidighici","win":7,"draw":8,"loss":15,"for":28,"against":47},
+{"country":"mda","name":"Tiligul-Tiras","id":"CS_Tiligul-Tiras_Tiraspol","win":7,"draw":4,"loss":19,"for":24,"against":60,"isRemoved":true},
+{"country":"mda","name":"Academia Chișinău","id":"FC_Academia_Chișinău","win":6,"draw":6,"loss":18,"for":27,"against":49,"isNew":true},
+{"country":"mda","name":"Politehnica Chișinău","id":"FC_Politehnica_Chișinău","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew prior to round 1"}
 ]

@@ -614,4 +614,15 @@
 {"country":"kza","name":"Nasha Kampaniya","id":"FC_Nasha_Kampaniya","win":3,"draw":6,"loss":17,"for":15,"against":50,"isRemoved":true,"isNew":true},
 {"country":"kza","name":"Bolat","id":"FC_Shakhter-Bulat","win":3,"draw":3,"loss":20,"for":10,"against":60,"isRemoved":true},
 {"country":"kza","name":"Naryn","id":"FC_Akzhayik","win":0,"draw":3,"loss":23,"for":11,"against":73,"isRemoved":true,"isReturning":true}
+][
+{"country":"mda","name":"Zimbru Chişinău","id":"FC_Zimbru_Chișinău","win":18,"draw":7,"loss":1,"for":43,"against":9,"isChampion":true},
+{"country":"mda","name":"Constructorul Chişinău","id":"FC_Tiraspol","win":15,"draw":6,"loss":5,"for":30,"against":13},
+{"country":"mda","name":"Tiligul-Tiras Tiraspol","id":"CS_Tiligul-Tiras_Tiraspol","win":11,"draw":6,"loss":9,"for":26,"against":27},
+{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":9,"draw":10,"loss":7,"for":39,"against":24,"isNew":true},
+{"country":"mda","name":"Olimpia Bălţi","id":"FC_Bălți","win":7,"draw":9,"loss":10,"for":14,"against":22},
+{"country":"mda","name":"Agro-Goliador Chişinău","id":"FC_Agro-Goliador_Chișinău","win":4,"draw":9,"loss":11,"for":15,"against":31},
+{"country":"mda","name":"Moldova Gaz Chişinău","id":"FC_Moldova-Gaz_Chișinău","win":9,"draw":4,"loss":11,"for":24,"against":33},
+{"country":"mda","name":"Nistru Otaci","id":"FC_Nistru_Otaci","win":5,"draw":4,"loss":9,"for":17,"against":18,"deduct":-1},
+{"country":"mda","name":"Roma Bălţi","id":"Roma_Bălți","win":6,"draw":5,"loss":13,"for":17,"against":27},
+{"country":"mda","name":"Unisport-Auto Chişinău","id":"FC_Unisport-Auto_Chișinău","win":5,"draw":6,"loss":13,"for":16,"against":37,"isRemoved":true}
 ]

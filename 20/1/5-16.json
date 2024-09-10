@@ -572,4 +572,15 @@
 {"country":"kza","name":"Shakhter Karagandy","id":"FC_Shakhter_Karagandy","win":9,"draw":5,"loss":18,"for":27,"against":47},
 {"country":"kza","name":"Zhetysu","id":"FC_Zhetysu","win":8,"draw":6,"loss":18,"for":28,"against":46},
 {"country":"kza","name":"Kaisar","id":"FC_Kaisar","win":4,"draw":12,"loss":16,"for":20,"against":36,"isRemoved":true}
+][
+{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":20,"draw":5,"loss":2,"for":50,"against":11,"isChampion":true},
+{"country":"mda","name":"Dacia Chișinău","id":"FC_Dacia_Chișinău","win":20,"draw":5,"loss":2,"for":44,"against":12},
+{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":15,"draw":4,"loss":8,"for":42,"against":26},
+{"country":"mda","name":"Zaria Bălți","id":"FC_Bălți","win":12,"draw":6,"loss":9,"for":36,"against":29},
+{"country":"mda","name":"Dinamo-Auto Tiraspol","id":"FC_Dinamo-Auto_Tiraspol","win":12,"draw":5,"loss":10,"for":33,"against":34},
+{"country":"mda","name":"Milsami Orhei","id":"FC_Milsami_Orhei","win":10,"draw":6,"loss":11,"for":33,"against":23},
+{"country":"mda","name":"Speranța Nisporeni","id":"Speranța_Nisporeni","win":8,"draw":7,"loss":12,"for":24,"against":36,"isReturning":true},
+{"country":"mda","name":"Petrocub Hîncești","id":"FC_Petrocub_Hîncești","win":6,"draw":3,"loss":18,"for":21,"against":53,"isReturning":true},
+{"country":"mda","name":"Academia Chișinău","id":"FC_Academia_Chișinău","win":5,"draw":6,"loss":16,"for":18,"against":42},
+{"country":"mda","name":"Saxan","id":"FC_Saksan","win":1,"draw":5,"loss":21,"for":10,"against":45}
 ]

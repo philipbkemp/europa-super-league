@@ -585,4 +585,13 @@
 {"country":"kza","name":"Akzhayik","id":"FC_Akzhayik","win":7,"draw":4,"loss":25,"for":24,"against":83,"isRemoved":true},
 {"country":"kza","name":"Alma-Ata","id":"FC_Alma-Ata","win":4,"draw":8,"loss":24,"for":22,"against":53,"isNew":true},
 {"country":"kza","name":"Semey","id":"FC_Elimai","win":4,"draw":1,"loss":31,"for":25,"against":84,"isRemoved":true}
+][
+{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":22,"draw":4,"loss":2,"for":54,"against":12,"isChampion":true},
+{"country":"mda","name":"Nistru Otaci","id":"FC_Nistru_Otaci","win":17,"draw":3,"loss":8,"for":51,"against":27},
+{"country":"mda","name":"Dacia Chișinău","id":"FC_Dacia_Chișinău","win":14,"draw":3,"loss":11,"for":38,"against":31},
+{"country":"mda","name":"Tiraspol","id":"FC_Tiraspol","win":12,"draw":8,"loss":8,"for":41,"against":23},
+{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":12,"draw":7,"loss":9,"for":29,"against":15},
+{"country":"mda","name":"Tiligul-Tiras Tiraspol","id":"CS_Tiligul-Tiras_Tiraspol","win":11,"draw":8,"loss":9,"for":32,"against":27},
+{"country":"mda","name":"Unisport-Auto Chișinău","id":"FC_Unisport-Auto_Chișinău","win":3,"draw":5,"loss":20,"for":16,"against":51,"isRemoved":true},
+{"country":"mda","name":"Steaua Chișinău","id":"FC_Rapid_Ghidighici_(2005–2008)","win":0,"draw":4,"loss":24,"for":8,"against":83,"isRemoved":true,"isNew":true}
 ]

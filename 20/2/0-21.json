@@ -597,4 +597,15 @@
 {"country":"kza","name":"Caspiy","id":"FC_Caspiy","win":5,"draw":2,"loss":13,"for":15,"against":34,"isReturning":true},
 {"country":"kza","name":"Okzhetpes","id":"FC_Okzhetpes","win":2,"draw":5,"loss":13,"for":16,"against":38,"isRemoved":true},
 {"country":"kza","name":"Irtysh Pavlodar (R, D, R, D)","id":"FC_Irtysh_Pavlodar","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true}
+][
+{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":32,"draw":3,"loss":1,"for":116,"against":7,"isChampion":true},
+{"country":"mda","name":"Petrocub Hîncești","id":"FC_Petrocub_Hîncești","win":25,"draw":8,"loss":3,"for":82,"against":18},
+{"country":"mda","name":"Milsami Orhei","id":"FC_Milsami_Orhei","win":22,"draw":7,"loss":7,"for":71,"against":37},
+{"country":"mda","name":"Sfîntul Gheorghe","id":"FC_Sfîntul_Gheorghe","win":21,"draw":4,"loss":11,"for":65,"against":43},
+{"country":"mda","name":"Dacia Buiucani","id":"FC_Dacia_Buiucani","win":13,"draw":9,"loss":14,"for":44,"against":45,"isRemoved":true,"removedNote":"Administratively relegated due to financial trouble","isNew":true},
+{"country":"mda","name":"Dinamo-Auto","id":"FC_Dinamo-Auto_Tiraspol","win":12,"draw":12,"loss":12,"for":53,"against":58},
+{"country":"mda","name":"Florești","id":"FC_Florești","win":9,"draw":5,"loss":22,"for":37,"against":85,"isNew":true},
+{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":6,"draw":7,"loss":23,"for":39,"against":63},
+{"country":"mda","name":"Speranța Nisporeni","id":"Speranța_Nisporeni","win":5,"draw":8,"loss":23,"for":29,"against":87,"isRemoved":true,"removedNote":"Expelled for failing to attend fixtures"},
+{"country":"mda","name":"Codru Lozova","id":"FC_Codru_Lozova","win":2,"draw":3,"loss":31,"for":26,"against":119,"isRemoved":true}
 ]

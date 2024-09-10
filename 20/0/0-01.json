@@ -595,4 +595,13 @@
 {"country":"kza","name":"Dostyk","id":"FC_Ordabasy","win":5,"draw":4,"loss":19,"for":24,"against":53,"isReturning":true},
 {"country":"kza","name":"Zhetysu","id":"FC_Zhetysu","win":4,"draw":2,"loss":22,"for":15,"against":73},
 {"country":"kza","name":"Zhiger","id":"FC_Zhiger","win":1,"draw":1,"loss":26,"for":13,"against":72,"isRemoved":true}
+][
+{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":21,"draw":4,"loss":3,"for":58,"against":18,"isChampion":true},
+{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":20,"draw":6,"loss":2,"for":46,"against":15},
+{"country":"mda","name":"Tiligul-Tiras Tiraspol","id":"CS_Tiligul-Tiras_Tiraspol","win":11,"draw":8,"loss":9,"for":33,"against":34},
+{"country":"mda","name":"Constructorul Chișinău","id":"FC_Tiraspol","win":10,"draw":9,"loss":9,"for":30,"against":30},
+{"country":"mda","name":"Nistru Otaci","id":"FC_Nistru_Otaci","win":9,"draw":6,"loss":13,"for":31,"against":39},
+{"country":"mda","name":"Agro Chișinău","id":"FC_Agro-Goliador_Chișinău","win":6,"draw":7,"loss":15,"for":26,"against":47},
+{"country":"mda","name":"Haiduc-Sporting Hîncești","id":"FC_Politehnica_Chișinău","win":6,"draw":7,"loss":15,"for":34,"against":45,"isRemoved":true,"isNew":true},
+{"country":"mda","name":"Olimpia Bălți","id":"FC_Bălți","win":3,"draw":5,"loss":20,"for":19,"against":49,"isRemoved":true}
 ]

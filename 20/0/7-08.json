@@ -593,4 +593,17 @@
 {"country":"kza","name":"Atyrau","id":"FC_Atyrau","win":8,"draw":6,"loss":16,"for":29,"against":39},
 {"country":"kza","name":"Okzhetpes","id":"FC_Okzhetpes","win":8,"draw":5,"loss":17,"for":26,"against":56},
 {"country":"kza","name":"Taraz","id":"FC_Taraz","win":3,"draw":6,"loss":21,"for":16,"against":50,"isRemoved":true}
+][
+{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":26,"draw":3,"loss":1,"for":68,"against":8,"isChampion":true},
+{"country":"mda","name":"Dacia Chișinău","id":"FC_Dacia_Chișinău","win":19,"draw":5,"loss":6,"for":60,"against":28},
+{"country":"mda","name":"Nistru Otaci","id":"FC_Nistru_Otaci","win":17,"draw":8,"loss":5,"for":34,"against":17},
+{"country":"mda","name":"Tiraspol","id":"FC_Tiraspol","win":16,"draw":7,"loss":7,"for":36,"against":21},
+{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":13,"draw":13,"loss":4,"for":43,"against":21},
+{"country":"mda","name":"Iskra-Stal Rîbnița","id":"FC_Iskra-Stal","win":9,"draw":8,"loss":13,"for":23,"against":34},
+{"country":"mda","name":"Tiligul-Tiras","id":"CS_Tiligul-Tiras_Tiraspol","win":7,"draw":8,"loss":15,"for":16,"against":36},
+{"country":"mda","name":"Olimpia Bălți","id":"FC_Bălți","win":7,"draw":6,"loss":17,"for":24,"against":46},
+{"country":"mda","name":"Dinamo Bender","id":"FC_Tighina","win":7,"draw":5,"loss":18,"for":30,"against":57},
+{"country":"mda","name":"CSCA-Steaua Chișinău","id":"FC_Rapid_Ghidighici","win":5,"draw":3,"loss":22,"for":21,"against":55,"isReturning":true},
+{"country":"mda","name":"Politehnica Chișinău","id":"FC_Politehnica_Chișinău","win":3,"draw":6,"loss":21,"for":7,"against":39},
+{"country":"mda","name":"Rapid Ghidighici","id":"FC_Rapid_Ghidighici_(2005–2008)","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew; Record annulled","isReturning":true}
 ]

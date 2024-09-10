@@ -597,4 +597,13 @@
 {"country":"kza","name":"Turan","id":"FC_Turan","win":5,"draw":11,"loss":10,"for":22,"against":40,"isNew":true},
 {"country":"kza","name":"Kaisar","id":"FC_Kaisar","win":4,"draw":7,"loss":15,"for":24,"against":44,"isRemoved":true},
 {"country":"kza","name":"Zhetysu","id":"FC_Zhetysu","win":5,"draw":4,"loss":17,"for":23,"against":47,"isRemoved":true,"deduct":-3}
+][
+{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":22,"draw":4,"loss":2,"for":75,"against":8,"isChampion":true},
+{"country":"mda","name":"Petrocub Hîncești","id":"FC_Petrocub_Hîncești","win":20,"draw":4,"loss":4,"for":62,"against":20},
+{"country":"mda","name":"Milsami Orhei","id":"FC_Milsami_Orhei","win":15,"draw":6,"loss":7,"for":50,"against":31},
+{"country":"mda","name":"Sfîntul Gheorghe","id":"FC_Sfîntul_Gheorghe","win":10,"draw":8,"loss":10,"for":38,"against":39},
+{"country":"mda","name":"Bălți","id":"FC_Bălți","win":11,"draw":3,"loss":14,"for":39,"against":39,"isReturning":true},
+{"country":"mda","name":"Dinamo-Auto","id":"FC_Dinamo-Auto_Tiraspol","win":9,"draw":5,"loss":14,"for":35,"against":72},
+{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":7,"draw":6,"loss":15,"for":32,"against":46},
+{"country":"mda","name":"Florești","id":"FC_Florești","win":0,"draw":0,"loss":28,"for":12,"against":88,"isRemoved":true,"deduct":-6,"deductReason":"Alleged match-fixing"}
 ]

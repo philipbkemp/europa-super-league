@@ -589,4 +589,19 @@
 {"country":"kza","name":"Kairat","id":"FC_Kairat","win":6,"draw":11,"loss":15,"for":17,"against":38,"isReturning":true},
 {"country":"kza","name":"Akzhayik","id":"FC_Akzhayik","win":7,"draw":5,"loss":20,"for":33,"against":58,"isRemoved":true,"isReturning":true},
 {"country":"kza","name":"Okzhetpes","id":"FC_Okzhetpes","win":6,"draw":7,"loss":19,"for":24,"against":57,"isRemoved":true}
+][
+{"country":"mda","name":"Dacia Chișinău","id":"FC_Dacia_Chișinău","win":27,"draw":11,"loss":1,"for":66,"against":16,"isChampion":true},
+{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":24,"draw":11,"loss":4,"for":81,"against":16},
+{"country":"mda","name":"Milsami Orhei","id":"FC_Milsami_Orhei","win":23,"draw":9,"loss":7,"for":71,"against":23},
+{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":22,"draw":10,"loss":7,"for":56,"against":20},
+{"country":"mda","name":"Iskra - Stal Rîbnița","id":"FC_Iskra-Stal","win":21,"draw":11,"loss":7,"for":62,"against":26},
+{"country":"mda","name":"Olimpia Bălți","id":"FC_Bălți","win":21,"draw":11,"loss":7,"for":59,"against":31},
+{"country":"mda","name":"Tiraspol","id":"FC_Tiraspol","win":17,"draw":6,"loss":16,"for":57,"against":45},
+{"country":"mda","name":"CSCA – Rapid Chişinău","id":"FC_Rapid_Ghidighici","win":15,"draw":10,"loss":14,"for":39,"against":37},
+{"country":"mda","name":"Academia Chișinău","id":"FC_Academia_Chișinău","win":14,"draw":10,"loss":15,"for":44,"against":37},
+{"country":"mda","name":"Costuleni","id":"FC_Costuleni","win":7,"draw":6,"loss":26,"for":23,"against":68,"isNew":true},
+{"country":"mda","name":"Nistru Otaci","id":"FC_Nistru_Otaci","win":7,"draw":4,"loss":28,"for":33,"against":75},
+{"country":"mda","name":"Sfîntul Gheorghe","id":"FC_Sfîntul_Gheorghe","win":6,"draw":7,"loss":26,"for":30,"against":83},
+{"country":"mda","name":"Gagauziya Comrat","id":"CF_Univer_Comrat","win":7,"draw":2,"loss":30,"for":38,"against":89,"isRemoved":true,"isNew":true},
+{"country":"mda","name":"Dinamo Bendery","id":"FC_Tighina","win":6,"draw":4,"loss":29,"for":25,"against":118,"isRemoved":true}
 ]
