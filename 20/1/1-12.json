@@ -606,4 +606,21 @@
 {"country":"mda","name":"Sfîntul Gheorghe","id":"FC_Sfîntul_Gheorghe","win":7,"draw":9,"loss":17,"for":23,"against":55,"isRemoved":true},
 {"country":"mda","name":"CSCA – Rapid Chişinău","id":"FC_Rapid_Ghidighici","win":6,"draw":8,"loss":19,"for":20,"against":52},
 {"country":"mda","name":"Costuleni","id":"FC_Costuleni","win":3,"draw":11,"loss":19,"for":19,"against":54}
+][
+{"country":"rus","name":"Zenit St. Petersburg","id":"FC_Zenit_Saint_Petersburg","win":24,"draw":16,"loss":4,"for":85,"against":40,"isChampion":true},
+{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":19,"draw":16,"loss":9,"for":72,"against":47},
+{"country":"rus","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":20,"draw":12,"loss":12,"for":66,"against":50},
+{"country":"rus","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":21,"draw":12,"loss":11,"for":69,"against":47},
+{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":18,"draw":12,"loss":14,"for":59,"against":48},
+{"country":"rus","name":"Kuban Krasnodar","id":"FC_Kuban_Krasnodar","win":15,"draw":16,"loss":13,"for":50,"against":45,"isReturning":true},
+{"country":"rus","name":"Rubin Kazan","id":"FC_Rubin_Kazan","win":17,"draw":17,"loss":10,"for":55,"against":41},
+{"country":"rus","name":"Anzhi Makhachkala","id":"FC_Anzhi_Makhachkala","win":19,"draw":13,"loss":12,"for":54,"against":42},
+{"country":"rus","name":"Krasnodar","id":"FC_Krasnodar","win":16,"draw":13,"loss":15,"for":58,"against":61,"isNew":true},
+{"country":"rus","name":"Rostov","id":"FC_Rostov","win":12,"draw":12,"loss":20,"for":45,"against":61},
+{"country":"rus","name":"Terek Grozny","id":"FC_Akhmat_Grozny","win":14,"draw":10,"loss":20,"for":45,"against":62},
+{"country":"rus","name":"Volga Nizhny Novgorod","id":"FC_Volga_Nizhny_Novgorod","win":12,"draw":5,"loss":27,"for":37,"against":60,"isNew":true},
+{"country":"rus","name":"Amkar Perm","id":"FC_Amkar_Perm","win":14,"draw":13,"loss":17,"for":40,"against":51},
+{"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":12,"draw":15,"loss":17,"for":33,"against":50},
+{"country":"rus","name":"Spartak Nalchik","id":"PFC_Spartak_Nalchik","win":7,"draw":13,"loss":24,"for":39,"against":60,"isRemoved":true},
+{"country":"rus","name":"Tom Tomsk","id":"FC_Tom_Tomsk","win":8,"draw":13,"loss":23,"for":30,"against":70,"isRemoved":true}
 ]

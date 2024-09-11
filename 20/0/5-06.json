@@ -600,4 +600,21 @@
 {"country":"mda","name":"Dacia Chișinău","id":"FC_Dacia_Chișinău","win":7,"draw":9,"loss":12,"for":28,"against":39},
 {"country":"mda","name":"Politehnica Chișinău","id":"FC_Politehnica_Chișinău","win":5,"draw":10,"loss":13,"for":18,"against":37,"isReturning":true},
 {"country":"mda","name":"Dinamo Bender","id":"FC_Tighina","win":2,"draw":9,"loss":17,"for":17,"against":59,"isReturning":true}
+][
+{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":18,"draw":8,"loss":4,"for":48,"against":20,"isChampion":true},
+{"country":"rus","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":16,"draw":8,"loss":6,"for":47,"against":26},
+{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":14,"draw":14,"loss":2,"for":41,"against":18},
+{"country":"rus","name":"Rubin Kazan","id":"FC_Rubin_Kazan","win":14,"draw":9,"loss":7,"for":45,"against":31},
+{"country":"rus","name":"FC Moscow","id":"FC_Moscow","win":14,"draw":8,"loss":8,"for":36,"against":26},
+{"country":"rus","name":"Zenit St. Petersburg","id":"FC_Zenit_Saint_Petersburg","win":13,"draw":10,"loss":7,"for":45,"against":26},
+{"country":"rus","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":12,"draw":9,"loss":9,"for":37,"against":33},
+{"country":"rus","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":12,"draw":2,"loss":6,"for":36,"against":46},
+{"country":"rus","name":"Shinnik Yaroslavl","id":"FC_Shinnik_Yaroslavl","win":9,"draw":11,"loss":10,"for":26,"against":31},
+{"country":"rus","name":"Tom Tomsk","id":"FC_Tom_Tomsk","win":9,"draw":10,"loss":11,"for":28,"against":33,"isNew":true},
+{"country":"rus","name":"Saturn","id":"FC_Leon_Saturn_Ramenskoye","win":8,"draw":9,"loss":13,"for":23,"against":25},
+{"country":"rus","name":"Amkar Perm","id":"FC_Amkar_Perm","win":7,"draw":12,"loss":11,"for":25,"against":36},
+{"country":"rus","name":"Rostov","id":"FC_Rostov","win":8,"draw":7,"loss":15,"for":26,"against":41},
+{"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":7,"draw":8,"loss":15,"for":29,"against":44},
+{"country":"rus","name":"Alania Vladikavkaz","id":"FC_Spartak_Vladikavkaz","win":5,"draw":8,"loss":17,"for":27,"against":53,"isRemoved":true},
+{"country":"rus","name":"Terek Grozny","id":"FC_Akhmat_Grozny","win":5,"draw":5,"loss":20,"for":20,"against":50,"isRemoved":true,"deduct":-6,"deductReason":"Failing to pay transfer fee in time","isNew":true}
 ]

@@ -594,4 +594,21 @@
 {"country":"mda","name":"Tiligul-Tiras Tiraspol","id":"CS_Tiligul-Tiras_Tiraspol","win":11,"draw":8,"loss":9,"for":32,"against":27},
 {"country":"mda","name":"Unisport-Auto Chișinău","id":"FC_Unisport-Auto_Chișinău","win":3,"draw":5,"loss":20,"for":16,"against":51,"isRemoved":true},
 {"country":"mda","name":"Steaua Chișinău","id":"FC_Rapid_Ghidighici_(2005–2008)","win":0,"draw":4,"loss":24,"for":8,"against":83,"isRemoved":true,"isNew":true}
+][
+{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":18,"draw":7,"loss":5,"for":44,"against":19,"isChampion":true},
+{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":17,"draw":9,"loss":4,"for":53,"against":22},
+{"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":17,"draw":5,"loss":8,"for":50,"against":41},
+{"country":"rus","name":"Zenit St. Petersburg","id":"FC_Zenit_Saint_Petersburg","win":17,"draw":5,"loss":8,"for":55,"against":37},
+{"country":"rus","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":16,"draw":6,"loss":8,"for":53,"against":37},
+{"country":"rus","name":"Shinnik Yaroslavl","id":"FC_Shinnik_Yaroslavl","win":12,"draw":8,"loss":10,"for":29,"against":29},
+{"country":"rus","name":"Saturn","id":"FC_Leon_Saturn_Ramenskoye","win":10,"draw":11,"loss":9,"for":37,"against":30},
+{"country":"rus","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":11,"draw":7,"loss":12,"for":43,"against":44},
+{"country":"rus","name":"FC Moscow","id":"FC_Moscow","win":10,"draw":10,"loss":10,"for":38,"against":39,"isNew":true},
+{"country":"rus","name":"Rubin Kazan","id":"FC_Rubin_Kazan","win":7,"draw":12,"loss":11,"for":32,"against":31},
+{"country":"rus","name":"Amkar Perm","id":"FC_Amkar_Perm","win":6,"draw":12,"loss":12,"for":27,"against":42,"isNew":true},
+{"country":"rus","name":"Rostov","id":"FC_Rostov","win":7,"draw":8,"loss":15,"for":28,"against":42},
+{"country":"rus","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":6,"draw":11,"loss":13,"for":27,"against":38},
+{"country":"rus","name":"Alania Vladikavkaz","id":"FC_Spartak_Vladikavkaz","win":7,"draw":7,"loss":16,"for":28,"against":52},
+{"country":"rus","name":"Kuban Krasnodar","id":"FC_Kuban_Krasnodar","win":6,"draw":10,"loss":14,"for":26,"against":42,"isRemoved":true,"isNew":true},
+{"country":"rus","name":"Rotor Volgograd","id":"FC_Rotor_Volgograd","win":4,"draw":10,"loss":16,"for":28,"against":53,"isRemoved":true}
 ]

@@ -593,4 +593,21 @@
 {"country":"mda","name":"Milsami Orhei","id":"FC_Milsami_Orhei","win":1,"draw":1,"loss":2,"for":8,"against":7,"isCurrentSeason":true},
 {"country":"mda","name":"Dacia Buiucani","id":"FC_Dacia_Buiucani","win":0,"draw":1,"loss":4,"for":0,"against":6,"isCurrentSeason":true},
 {"country":"mda","name":"Florești","id":"FC_Florești","win":0,"draw":1,"loss":4,"for":0,"against":21,"isCurrentSeason":true,"isReturning":true}
+][
+{"country":"rus","name":"Zenit Saint Petersburg","id":"FC_Zenit_Saint_Petersburg","win":5,"draw":2,"loss":0,"for":18,"against":1,"isCurrentSeason":true},
+{"country":"rus","name":"Krasnodar","id":"FC_Krasnodar","win":4,"draw":3,"loss":0,"for":9,"against":3,"isCurrentSeason":true},
+{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":5,"draw":0,"loss":2,"for":15,"against":10,"isCurrentSeason":true},
+{"country":"rus","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":4,"draw":2,"loss":1,"for":10,"against":3,"isCurrentSeason":true},
+{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":4,"draw":1,"loss":2,"for":15,"against":4,"isCurrentSeason":true},
+{"country":"rus","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":4,"draw":1,"loss":2,"for":11,"against":6,"isCurrentSeason":true},
+{"country":"rus","name":"Rostov","id":"FC_Rostov","win":3,"draw":2,"loss":2,"for":13,"against":13,"isCurrentSeason":true},
+{"country":"rus","name":"Rubin Kazan","id":"FC_Rubin_Kazan","win":3,"draw":1,"loss":3,"for":11,"against":12,"isCurrentSeason":true},
+{"country":"rus","name":"Dynamo Makhachkala","id":"FC_Dynamo_Makhachkala","win":2,"draw":2,"loss":3,"for":3,"against":6,"isCurrentSeason":true,"isNew":true},
+{"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":2,"draw":0,"loss":5,"for":6,"against":13,"isCurrentSeason":true},
+{"country":"rus","name":"Pari Nizhny Novgorod","id":"FC_Pari_Nizhny_Novgorod","win":2,"draw":0,"loss":5,"for":6,"against":15,"isCurrentSeason":true},
+{"country":"rus","name":"Orenburg","id":"FC_Orenburg","win":1,"draw":3,"loss":3,"for":9,"against":13,"isCurrentSeason":true},
+{"country":"rus","name":"Khimki","id":"FC_Khimki","win":1,"draw":3,"loss":3,"for":9,"against":13,"isCurrentSeason":true,"isReturning":true},
+{"country":"rus","name":"Akron Tolyatti","id":"FC_Akron_Tolyatti","win":1,"draw":2,"loss":4,"for":7,"against":13,"isCurrentSeason":true,"isNew":true},
+{"country":"rus","name":"Akhmat Grozny","id":"FC_Akhmat_Grozny","win":0,"draw":5,"loss":2,"for":4,"against":10,"isCurrentSeason":true},
+{"country":"rus","name":"Fakel Voronezh","id":"FC_Fakel_Voronezh","win":1,"draw":1,"loss":5,"for":3,"against":14,"isCurrentSeason":true}
 ]

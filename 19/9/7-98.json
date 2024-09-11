@@ -620,4 +620,23 @@
 {"country":"mda","name":"Dinamo Bender","id":"FC_Tighina","win":6,"draw":4,"loss":16,"for":19,"against":47,"isRemoved":true},
 {"country":"mda","name":"Stimold MIF Chişinău","id":"Stimold-MIF_Chișinău","win":2,"draw":7,"loss":17,"for":19,"against":60,"isRemoved":true,"isNew":true},
 {"country":"mda","name":"Speranţa Nisporeni","id":"Speranța_Nisporeni","win":0,"draw":5,"loss":21,"for":9,"against":46,"isRemoved":true,"deduct":-2}
+][
+{"country":"rus","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":22,"draw":7,"loss":5,"for":67,"against":30,"isChampion":true},
+{"country":"rus","name":"Rotor Volgograd","id":"FC_Rotor_Volgograd","win":20,"draw":8,"loss":6,"for":54,"against":27},
+{"country":"rus","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":19,"draw":11,"loss":4,"for":50,"against":20},
+{"country":"rus","name":"Shinnik Yaroslavl","id":"FC_Shinnik_Yaroslavl","win":15,"draw":10,"loss":9,"for":38,"against":35,"isNew":true},
+{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":15,"draw":9,"loss":10,"for":47,"against":37},
+{"country":"rus","name":"Chernomorets Novorossiysk","id":"FC_Chernomorets_Novorossiysk","win":13,"draw":14,"loss":7,"for":40,"against":26},
+{"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":14,"draw":7,"loss":13,"for":32,"against":30},
+{"country":"rus","name":"Zenit St. Petersburg","id":"FC_Zenit_Saint_Petersburg","win":13,"draw":10,"loss":11,"for":28,"against":29},
+{"country":"rus","name":"Baltika Kaliningrad","id":"FC_Baltika_Kaliningrad","win":11,"draw":16,"loss":7,"for":38,"against":33},
+{"country":"rus","name":"Alania Vladikavkaz","id":"FC_Spartak_Vladikavkaz","win":14,"draw":4,"loss":16,"for":52,"against":42},
+{"country":"rus","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":13,"draw":6,"loss":15,"for":50,"against":46},
+{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":11,"draw":9,"loss":14,"for":31,"against":42},
+{"country":"rus","name":"Rostselmash","id":"FC_Rostov","win":9,"draw":14,"loss":11,"for":34,"against":38},
+{"country":"rus","name":"Zhemchuzhina Sochi","id":"FC_Zhemchuzhina-Sochi","win":11,"draw":7,"loss":16,"for":38,"against":51},
+{"country":"rus","name":"Tyumen","id":"FC_Tyumen","win":9,"draw":7,"loss":18,"for":28,"against":46,"isReturning":true},
+{"country":"rus","name":"Fakel Voronezh","id":"FC_Fakel_Voronezh","win":7,"draw":5,"loss":22,"for":25,"against":49,"isRemoved":true,"isNew":true},
+{"country":"rus","name":"Lokomotiv N.N.","id":"FC_Lokomotiv_Nizhny_Novgorod","win":6,"draw":5,"loss":23,"for":26,"against":60,"isRemoved":true},
+{"country":"rus","name":"KAMAZ Naberezhnye Chelny","id":"FC_KAMAZ_Naberezhnye_Chelny","win":8,"draw":3,"loss":23,"for":38,"against":75,"isRemoved":true,"deduct":-6,"deductReason":"Failing to pay transfer fee"}
 ]

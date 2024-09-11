@@ -581,4 +581,21 @@
 {"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":5,"draw":4,"loss":9,"for":17,"against":21},
 {"country":"mda","name":"Dinamo-Auto Tiraspol","id":"FC_Dinamo-Auto_Tiraspol","win":4,"draw":3,"loss":11,"for":14,"against":38},
 {"country":"mda","name":"Spicul Chișcăreni","id":"FC_Spicul_Chișcăreni","win":3,"draw":5,"loss":10,"for":14,"against":35,"isRemoved":true,"removedNote":"Withdrew","isNew":true}
+][
+{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":18,"draw":6,"loss":6,"for":41,"against":21,"isChampion":true},
+{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":17,"draw":7,"loss":6,"for":49,"against":23},
+{"country":"rus","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":16,"draw":8,"loss":6,"for":51,"against":32},
+{"country":"rus","name":"Krasnodar","id":"FC_Krasnodar","win":16,"draw":6,"loss":8,"for":46,"against":30},
+{"country":"rus","name":"Zenit Saint Petersburg","id":"FC_Zenit_Saint_Petersburg","win":14,"draw":11,"loss":5,"for":46,"against":21},
+{"country":"rus","name":"Ufa","id":"FC_Ufa","win":11,"draw":10,"loss":9,"for":34,"against":30},
+{"country":"rus","name":"Arsenal Tula","id":"FC_Arsenal_Tula","win":12,"draw":6,"loss":12,"for":35,"against":41},
+{"country":"rus","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":10,"draw":10,"loss":10,"for":29,"against":30,"isReturning":true},
+{"country":"rus","name":"Akhmat Grozny","id":"FC_Akhmat_Grozny","win":10,"draw":9,"loss":11,"for":30,"against":34},
+{"country":"rus","name":"Rubin Kazan","id":"FC_Rubin_Kazan","win":9,"draw":11,"loss":10,"for":32,"against":25},
+{"country":"rus","name":"Rostov","id":"FC_Rostov","win":9,"draw":10,"loss":11,"for":27,"against":28},
+{"country":"rus","name":"Ural Yekaterinburg","id":"FC_Ural_Yekaterinburg","win":8,"draw":13,"loss":9,"for":31,"against":32},
+{"country":"rus","name":"Amkar Perm (D)","id":"FC_Amkar_Perm","win":9,"draw":8,"loss":13,"for":20,"against":30,"isRemoved":true,"removedNote":"Club dissolved"},
+{"country":"rus","name":"Anzhi Makhachkala","id":"FC_Anzhi_Makhachkala","win":6,"draw":6,"loss":18,"for":31,"against":55},
+{"country":"rus","name":"Tosno (D)","id":"FC_Tosno","win":6,"draw":6,"loss":18,"for":23,"against":54,"isRemoved":true,"isNew":true,"removedNote":"Club dissolved"},
+{"country":"rus","name":"SKA-Khabarovsk","id":"FC_SKA-Khabarovsk","win":2,"draw":7,"loss":21,"for":16,"against":55,"isRemoved":true,"isNew":true}
 ]

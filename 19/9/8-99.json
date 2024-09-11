@@ -625,4 +625,21 @@
 {"country":"mda","name":"Nistru Otaci","id":"FC_Nistru_Otaci","win":5,"draw":4,"loss":9,"for":17,"against":18,"deduct":-1},
 {"country":"mda","name":"Roma Bălţi","id":"Roma_Bălți","win":6,"draw":5,"loss":13,"for":17,"against":27},
 {"country":"mda","name":"Unisport-Auto Chişinău","id":"FC_Unisport-Auto_Chișinău","win":5,"draw":6,"loss":13,"for":16,"against":37,"isRemoved":true}
+][
+{"country":"rus","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":17,"draw":8,"loss":5,"for":58,"against":27,"isChampion":true},
+{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":17,"draw":5,"loss":8,"for":50,"against":22},
+{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":16,"draw":7,"loss":7,"for":45,"against":28},
+{"country":"rus","name":"Rotor Volgograd","id":"FC_Rotor_Volgograd","win":12,"draw":12,"loss":6,"for":52,"against":37},
+{"country":"rus","name":"Zenit St. Petersburg","id":"FC_Zenit_Saint_Petersburg","win":12,"draw":11,"loss":7,"for":42,"against":25},
+{"country":"rus","name":"Rostselmash","id":"FC_Rostov","win":11,"draw":11,"loss":8,"for":42,"against":38},
+{"country":"rus","name":"Uralan Elista","id":"FC_Elista","win":12,"draw":6,"loss":12,"for":39,"against":41,"isNew":true},
+{"country":"rus","name":"Alania Vladikavkaz","id":"FC_Spartak_Vladikavkaz","win":11,"draw":7,"loss":12,"for":46,"against":39},
+{"country":"rus","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":8,"draw":15,"loss":7,"for":31,"against":30},
+{"country":"rus","name":"Chernomorets Novorossiysk","id":"FC_Chernomorets_Novorossiysk","win":9,"draw":11,"loss":10,"for":38,"against":38},
+{"country":"rus","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":9,"draw":10,"loss":11,"for":38,"against":34},
+{"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":9,"draw":8,"loss":13,"for":25,"against":37},
+{"country":"rus","name":"Zhemchuzhina Sochi","id":"FC_Zhemchuzhina-Sochi","win":9,"draw":8,"loss":13,"for":31,"against":48},
+{"country":"rus","name":"Shinnik Yaroslavl","id":"FC_Shinnik_Yaroslavl","win":9,"draw":8,"loss":13,"for":30,"against":40},
+{"country":"rus","name":"Baltika Kaliningrad","id":"FC_Baltika_Kaliningrad","win":7,"draw":11,"loss":12,"for":32,"against":43,"isRemoved":true},
+{"country":"rus","name":"Tyumen","id":"FC_Tyumen","win":2,"draw":2,"loss":26,"for":17,"against":89,"isRemoved":true}
 ]
