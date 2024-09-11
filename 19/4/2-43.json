@@ -108,7 +108,7 @@
 {"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":1,"draw":0,"loss":3,"for":4,"against":9,"isReturning":true}
 ][
 {"country":"est","name":"Tartu Prefektuuri Spordiring","id":"Tartu_Prefektuuri_Spordiring","win":4,"draw":1,"loss":2,"for":15,"against":11,"isChampion":true,"isNew":true,"isRemoved":true},
-{"country":"est","name":"JS Estonia Tallinn","id":"JS_Estonia_Tallinn","win":4,"draw":0,"loss":3,"for":17,"against":11,"isReturning":true},
+{"country":"est","name":"JS Estonia Tallinn","id":"js_estonia_tallinn","win":4,"draw":0,"loss":3,"for":17,"against":11,"isReturning":true},
 {"country":"est","name":"Pärnu Tervis","id":"Pärnu_JK_Tervis","win":3,"draw":1,"loss":3,"for":21,"against":17,"isReturning":true},
 {"country":"est","name":"Narva Spordiklubi","id":"Narva_Spordiklubi","win":2,"draw":0,"loss":2,"for":9,"against":8,"isNew":true},
 {"country":"est","name":"Tallinna Spordiklubi","id":"Tallinna_Spordiklubi","win":2,"draw":0,"loss":5,"for":10,"against":25,"isNew":true}

@@ -162,7 +162,7 @@
 	{"country":"pol","name":"Podgórze Kraków","id":"Podgórze_Kraków","win":6,"draw":3,"loss":13,"for":37,"against":53,"isRemoved":true,"isNew":true},
 	{"country":"pol","name":"Strzelec Siedlce","id":"Strzelec_Siedlce","win":1,"draw":1,"loss":20,"for":15,"against":73,"isRemoved":true,"isNew":true},
 	{"country":"est","name":"VS Sport Tallinn","id":"SK_Tallinna_Sport","win":8,"draw":0,"loss":2,"for":26,"against":7,"isChampion":true},
-	{"country":"est","name":"JS Estonia Tallinn","id":"JS_Estonia_Tallinn","win":7,"draw":1,"loss":2,"for":35,"against":10,"isNew":true},
+	{"country":"est","name":"JS Estonia Tallinn","id":"js_estonia_tallinn","win":7,"draw":1,"loss":2,"for":35,"against":10,"isNew":true},
 	{"country":"est","name":"Tallinna Jalgpalliklubi","id":"Tallinna_JK","win":7,"draw":0,"loss":3,"for":28,"against":15},
 	{"country":"est","name":"ESS Kalev Tallinn","id":"JK_Tallinna_Kalev","win":4,"draw":0,"loss":6,"for":15,"against":30},
 	{"country":"est","name":"VVS Puhkekodu Tallinn","id":"VVS_Puhkekodu_Tallinn","win":2,"draw":1,"loss":7,"for":12,"against":27},

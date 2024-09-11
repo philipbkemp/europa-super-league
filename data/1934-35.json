@@ -174,7 +174,7 @@
 	{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":8,"draw":2,"loss":10,"for":32,"against":46},
 	{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":6,"draw":5,"loss":9,"for":34,"against":34,"isRemoved":true},
 	{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":3,"draw":2,"loss":15,"for":15,"against":57,"isRemoved":true},
-	{"country":"est","name":"JS Estonia Tallinn","id":"JS_Estonia_Tallinn","win":7,"draw":3,"loss":0,"for":22,"against":3,"isChampion":true},
+	{"country":"est","name":"JS Estonia Tallinn","id":"js_estonia_tallinn","win":7,"draw":3,"loss":0,"for":22,"against":3,"isChampion":true},
 	{"country":"est","name":"VS Sport Tallinn","id":"SK_Tallinna_Sport","win":7,"draw":1,"loss":2,"for":23,"against":5},
 	{"country":"est","name":"VVS Puhkekodu Tallinn","id":"VVS_Puhkekodu_Tallinn","win":4,"draw":3,"loss":3,"for":19,"against":11},
 	{"country":"est","name":"Tallinna Jalgpalliklubi","id":"Tallinna_JK","win":4,"draw":3,"loss":3,"for":19,"against":13},

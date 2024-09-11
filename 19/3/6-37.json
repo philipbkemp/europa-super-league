@@ -191,7 +191,7 @@
 {"country":"pol","name":"Garbarnia Kraków","id":"Garbarnia_Kraków","win":3,"draw":5,"loss":8,"for":22,"against":39,"isRemoved":true},
 {"country":"pol","name":"Dąb Katowice","id":"Dąb_Katowice","win":null,"draw":null,"loss":null,"for":null,"against":null,"isRemoved":true}
 ][
-{"country":"est","name":"JS Estonia Tallinn","id":"JS_Estonia_Tallinn","win":11,"draw":1,"loss":2,"for":60,"against":15,"isChampion":true},
+{"country":"est","name":"JS Estonia Tallinn","id":"js_estonia_tallinn","win":11,"draw":1,"loss":2,"for":60,"against":15,"isChampion":true},
 {"country":"est","name":"VS Sport Tallinn","id":"SK_Tallinna_Sport","win":7,"draw":4,"loss":3,"for":36,"against":19},
 {"country":"est","name":"VVS Puhkekodu Tallinn","id":"VVS_Puhkekodu_Tallinn","win":7,"draw":3,"loss":4,"for":34,"against":21},
 {"country":"est","name":"SS Tervis Pärnu","id":"Pärnu_JK_Tervis","win":6,"draw":3,"loss":5,"for":34,"against":49},

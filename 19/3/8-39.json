@@ -177,7 +177,7 @@
 {"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":0,"draw":2,"loss":1,"for":7,"against":8},
 {"country":"isl","name":"KR","id":"knattspyrnufelag_reykjavikur","win":0,"draw":2,"loss":1,"for":5,"against":6}
 ][
-{"country":"est","name":"JS Estonia Tallinn","id":"JS_Estonia_Tallinn","win":11,"draw":1,"loss":2,"for":40,"against":1,"isChampion":true},
+{"country":"est","name":"JS Estonia Tallinn","id":"js_estonia_tallinn","win":11,"draw":1,"loss":2,"for":40,"against":1,"isChampion":true},
 {"country":"est","name":"Tallinna Jalgpalliklubi","id":"Tallinna_JK","win":7,"draw":3,"loss":4,"for":43,"against":26,"isReturning":true},
 {"country":"est","name":"VS Sport Tallinn","id":"SK_Tallinna_Sport","win":7,"draw":1,"loss":6,"for":35,"against":26},
 {"country":"est","name":"SÜ Esta Tallinn","id":"SÜ_Esta_Tallinn","win":5,"draw":5,"loss":4,"for":25,"against":21},

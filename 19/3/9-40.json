@@ -125,7 +125,7 @@
 {"country":"isl","name":"Valur","id":"valur","win":0,"draw":2,"loss":1,"for":3,"against":4}
 ][
 {"country":"est","name":"PK Olümpia Tartu","id":"PK_Olümpia_Tartu","win":9,"draw":4,"loss":1,"for":39,"against":14,"isChampion":true,"isRemoved":true,"removedNote":"Next season interupted by the Soviet Occupation, not run"},
-{"country":"est","name":"JS Estonia Tallinn","id":"JS_Estonia_Tallinn","win":9,"draw":3,"loss":2,"for":36,"against":16,"isRemoved":true,"removedNote":"Next season interupted by the Soviet Occupation, not run"},
+{"country":"est","name":"JS Estonia Tallinn","id":"js_estonia_tallinn","win":9,"draw":3,"loss":2,"for":36,"against":16,"isRemoved":true,"removedNote":"Next season interupted by the Soviet Occupation, not run"},
 {"country":"est","name":"SÜ Esta Tallinn","id":"SÜ_Esta_Tallinn","win":8,"draw":0,"loss":6,"for":28,"against":25,"isRemoved":true,"removedNote":"Next season interupted by the Soviet Occupation, not run"},
 {"country":"est","name":"VS Sport Tallinn","id":"SK_Tallinna_Sport","win":5,"draw":4,"loss":5,"for":34,"against":23,"isRemoved":true,"removedNote":"Next season interupted by the Soviet Occupation, not run"},
 {"country":"est","name":"ESS Kalev Tallinn","id":"JK_Tallinna_Kalev","win":5,"draw":4,"loss":5,"for":18,"against":21,"isRemoved":true,"removedNote":"Next season interupted by the Soviet Occupation, not run"},

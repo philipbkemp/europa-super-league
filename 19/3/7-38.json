@@ -174,7 +174,7 @@
 {"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":4,"draw":4,"loss":10,"for":25,"against":45,"isRemoved":true,"isRemoved":true,"removedNote":"Next season was not completed due to the Nazi attack on Germany and WW2"},
 {"country":"pol","name":"Śmigły Wilno","id":"Śmigły_Wilno","win":5,"draw":1,"loss":12,"for":29,"against":50,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"Next season was not completed due to the Nazi attack on Germany and WW2"}
 ][
-{"country":"est","name":"JS Estonia Tallinn","id":"JS_Estonia_Tallinn","win":10,"draw":2,"loss":2,"for":51,"against":17,"isChampion":true},
+{"country":"est","name":"JS Estonia Tallinn","id":"js_estonia_tallinn","win":10,"draw":2,"loss":2,"for":51,"against":17,"isChampion":true},
 {"country":"est","name":"SÜ Esta Tallinn","id":"SÜ_Esta_Tallinn","win":8,"draw":3,"loss":3,"for":32,"against":22},
 {"country":"est","name":"ESS Kalev Tallinn","id":"JK_Tallinna_Kalev","win":8,"draw":2,"loss":4,"for":43,"against":26},
 {"country":"est","name":"VS Sport Tallinn","id":"SK_Tallinna_Sport","win":8,"draw":1,"loss":5,"for":48,"against":25},
