@@ -112,6 +112,7 @@ if ( $("h1 .placeholder").length !== 0 ) {
 			team.forPerGame = team.againstPerGame = team.winPercentage =
 			team.goalDiffPerGame = team.pointsPerGame =
 			"-";
+			team.pointsPerGame = (0).toFixed(2);
 		}
 	});
 
