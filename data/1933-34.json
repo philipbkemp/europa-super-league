@@ -167,7 +167,7 @@
 	{"country":"est","name":"ESS Kalev Tallinn","id":"JK_Tallinna_Kalev","win":4,"draw":0,"loss":6,"for":15,"against":30},
 	{"country":"est","name":"VVS Puhkekodu Tallinn","id":"VVS_Puhkekodu_Tallinn","win":2,"draw":1,"loss":7,"for":12,"against":27},
 	{"country":"est","name":"Narva THK","id":"Narva_THK","win":1,"draw":0,"loss":9,"for":10,"against":37,"isRemoved":true},
-	{"country":"lva","name":"Olimpija","id":"Olimpia_Liepaja","win":10,"draw":2,"loss":2,"for":37,"against":17,"isChampion":true},
+	{"country":"lva","name":"Olimpija","id":"olimpia_liepaja","win":10,"draw":2,"loss":2,"for":37,"against":17,"isChampion":true},
 	{"country":"lva","name":"RFK","id":"RFK_Riga","win":9,"draw":2,"loss":3,"for":38,"against":21},
 	{"country":"lva","name":"ASK","id":"FK_ASK","win":8,"draw":1,"loss":5,"for":32,"against":17},
 	{"country":"lva","name":"Riga Wanderer","id":"Riga_Vanderer","win":8,"draw":1,"loss":5,"for":23,"against":20},

@@ -98,7 +98,7 @@
 {"country":"est","name":"Tallinna Spordiklubi","id":"Tallinna_Spordiklubi","win":3,"draw":1,"loss":6,"for":14,"against":22,"isRemoved":true,"removedNote":"Next season discontinued due to Red Army attack"}
 ][
 {"country":"lva","name":"ASK","id":"FK_ASK","win":5,"draw":1,"loss":0,"for":19,"against":5,"isChampion":true},
-{"country":"lva","name":"Olimpija","id":"Olimpia_Liepaja","win":4,"draw":2,"loss":0,"for":20,"against":11},
+{"country":"lva","name":"Olimpija","id":"olimpia_liepaja","win":4,"draw":2,"loss":0,"for":20,"against":11},
 {"country":"lva","name":"RFK","id":"RFK_Riga","win":3,"draw":2,"loss":1,"for":13,"against":9},
 {"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":3,"draw":1,"loss":2,"for":14,"against":9,"isReturning":true},
 {"country":"lva","name":"Rigas Vilki","id":"Rigas_Vilki","win":2,"draw":0,"loss":4,"for":12,"against":15,"isReturning":true},

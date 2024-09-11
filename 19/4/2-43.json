@@ -114,7 +114,7 @@
 {"country":"est","name":"Tallinna Spordiklubi","id":"Tallinna_Spordiklubi","win":2,"draw":0,"loss":5,"for":10,"against":25,"isNew":true}
 ][
 {"country":"lva","name":"ASK Riga","id":"FK_ASK","win":4,"draw":1,"loss":0,"for":21,"against":7,"isChampion":true,"isReturning":true},
-{"country":"lva","name":"Olimpija Liepāja","id":"Olimpia_Liepaja","win":2,"draw":2,"loss":1,"for":12,"against":7,"isReturning":true},
+{"country":"lva","name":"Olimpija Liepāja","id":"olimpia_liepaja","win":2,"draw":2,"loss":1,"for":12,"against":7,"isReturning":true},
 {"country":"lva","name":"RFK","id":"RFK_Riga","win":1,"draw":2,"loss":2,"for":3,"against":5,"isReturning":true},
 {"country":"lva","name":"Jelgavas SB","id":"Jelgavas_SB","win":2,"draw":0,"loss":3,"for":9,"against":15,"isNew":true},
 {"country":"lva","name":"LDzB Riga","id":"LDzB_Riga","win":2,"draw":0,"loss":2,"for":9,"against":19,"isNew":true},

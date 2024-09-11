@@ -145,7 +145,7 @@
 	{"country":"lva","name":"ASK","id":"FK_ASK","win":8,"draw":4,"loss":2,"for":37,"against":15,"isChampion":true},
 	{"country":"lva","name":"Riga Wanderer","id":"Riga_Vanderer","win":9,"draw":2,"loss":3,"for":24,"against":17,"isChampion":true},
 	{"country":"lva","name":"RFK","id":"RFK_Riga","win":9,"draw":1,"loss":4,"for":45,"against":21},
-	{"country":"lva","name":"Olimpija","id":"Olimpia_Liepaja","win":8,"draw":1,"loss":5,"for":38,"against":16},
+	{"country":"lva","name":"Olimpija","id":"olimpia_liepaja","win":8,"draw":1,"loss":5,"for":38,"against":16},
 	{"country":"lva","name":"JKS","id":"JKS_Riga","win":5,"draw":1,"loss":8,"for":20,"against":25,"isNew":true},
 	{"country":"lva","name":"Union","id":"Union_Riga","win":4,"draw":2,"loss":8,"for":16,"against":32},
 	{"country":"lva","name":"Amatieris","id":"Amatieris","win":4,"draw":0,"loss":10,"for":14,"against":42,"isReturning":true},

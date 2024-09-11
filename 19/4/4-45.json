@@ -78,7 +78,7 @@
 ][
 {"country":"lva","name":"ASK","id":"FK_ASK","win":5,"draw":0,"loss":1,"for":27,"against":11,"note":"Would have been champions, but for the Red Army attack suspending the season","isRemoved":true,"removedNote":"Removed from league after Red Army attack"},
 {"country":"lva","name":"RFK","id":"RFK_Riga","win":5,"draw":0,"loss":1,"for":13,"against":6,"isRemoved":true,"removedNote":"Removed from league after Red Army attack"},
-{"country":"lva","name":"Olimpija","id":"Olimpia_Liepaja","win":4,"draw":0,"loss":1,"for":15,"against":8,"isRemoved":true,"removedNote":"Removed from league after Red Army attack"},
+{"country":"lva","name":"Olimpija","id":"olimpia_liepaja","win":4,"draw":0,"loss":1,"for":15,"against":8,"isRemoved":true,"removedNote":"Removed from league after Red Army attack"},
 {"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":3,"draw":0,"loss":3,"for":21,"against":12},
 {"country":"lva","name":"Daugaviesi","id":"Daugavieši","win":2,"draw":2,"loss":2,"for":11,"against":14,"isReturning":true,"isRemoved":true,"removedNote":"Removed from league after Red Army attack"},
 {"country":"lva","name":"Lure Riga","id":"Lure_Riga","win":1,"draw":1,"loss":5,"for":12,"against":17,"isNew":true,"isRemoved":true,"removedNote":"Removed from league after Red Army attack"},

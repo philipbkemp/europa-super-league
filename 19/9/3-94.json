@@ -271,7 +271,7 @@
 {"country":"lva","name":"Pārdaugava","id":"FK_Pārdaugava","win":10,"draw":4,"loss":4,"for":29,"against":13},
 {"country":"lva","name":"Auseklis","id":"Dinaburg_FC","win":7,"draw":5,"loss":6,"for":22,"against":17},
 {"country":"lva","name":"Vidus","id":"Torpedo_Rīga","win":6,"draw":7,"loss":5,"for":19,"against":13},
-{"country":"lva","name":"Olimpija Liepāja","id":"Olimpia_Liepaja","win":3,"draw":6,"loss":9,"for":24,"against":46,"isRemoved":true},
+{"country":"lva","name":"Olimpija Liepāja","id":"olimpia_liepaja","win":3,"draw":6,"loss":9,"for":24,"against":46,"isRemoved":true},
 {"country":"lva","name":"DAG Rīga","id":"FK_VEF_Rīga","win":3,"draw":4,"loss":11,"for":15,"against":29},
 {"country":"lva","name":"Vairogs","id":"SK_Blāzma","win":3,"draw":3,"loss":12,"for":12,"against":36},
 {"country":"lva","name":"Gauja","id":"FK_Gauja","win":0,"draw":1,"loss":17,"for":14,"against":74,"isRemoved":true}
