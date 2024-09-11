@@ -630,4 +630,15 @@
 {"country":"rus","name":"Ural Yekaterinburg","id":"FC_Ural_Yekaterinburg","win":7,"draw":9,"loss":14,"for":30,"against":46,"isRemoved":true},
 {"country":"rus","name":"Baltika Kaliningrad","id":"FC_Baltika_Kaliningrad","win":7,"draw":5,"loss":18,"for":33,"against":42,"isRemoved":true,"isReturning":true},
 {"country":"rus","name":"Sochi","id":"PFC_Sochi","win":5,"draw":9,"loss":16,"for":37,"against":48,"isRemoved":true}
+][
+{"country":"svn","name":"Celje","id":"NK_Celje","win":24,"draw":7,"loss":5,"for":75,"against":34,"isChampion":true},
+{"country":"svn","name":"Maribor","id":"NK_Maribor","win":19,"draw":10,"loss":7,"for":67,"against":35},
+{"country":"svn","name":"Olimpija Ljubljana","id":"NK_Olimpija_Ljubljana","win":18,"draw":10,"loss":8,"for":69,"against":44},
+{"country":"svn","name":"Bravo","id":"NK_Bravo","win":12,"draw":14,"loss":10,"for":42,"against":42},
+{"country":"svn","name":"Koper","id":"FC_Koper","win":12,"draw":12,"loss":12,"for":51,"against":49},
+{"country":"svn","name":"Mura","id":"NŠ_Mura","win":11,"draw":10,"loss":15,"for":42,"against":55},
+{"country":"svn","name":"Domžale","id":"NK_Domžale","win":13,"draw":4,"loss":19,"for":52,"against":60},
+{"country":"svn","name":"Rogaška","id":"NK_Rogaška","win":10,"draw":6,"loss":20,"for":37,"against":64,"isRemoved":true,"removedNote":"Administratively relegated after failing to earn a license","isNew":true},
+{"country":"svn","name":"Radomlje","id":"NK_Radomlje","win":7,"draw":12,"loss":17,"for":33,"against":51},
+{"country":"svn","name":"Aluminij","id":"NK_Aluminij","win":8,"draw":7,"loss":21,"for":37,"against":71,"isRemoved":true,"isReturning":true}
 ]

@@ -623,4 +623,15 @@
 {"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":12,"draw":15,"loss":17,"for":33,"against":50},
 {"country":"rus","name":"Spartak Nalchik","id":"PFC_Spartak_Nalchik","win":7,"draw":13,"loss":24,"for":39,"against":60,"isRemoved":true},
 {"country":"rus","name":"Tom Tomsk","id":"FC_Tom_Tomsk","win":8,"draw":13,"loss":23,"for":30,"against":70,"isRemoved":true}
+][
+{"country":"svn","name":"Maribor","id":"NK_Maribor","win":26,"draw":7,"loss":3,"for":88,"against":35,"isChampion":true},
+{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana","win":19,"draw":8,"loss":9,"for":60,"against":38},
+{"country":"svn","name":"Mura 05","id":"ND_Mura_05","win":18,"draw":5,"loss":13,"for":52,"against":46,"isNew":true},
+{"country":"svn","name":"Koper","id":"FC_Koper","win":16,"draw":10,"loss":10,"for":48,"against":35},
+{"country":"svn","name":"Gorica","id":"ND_Gorica","win":14,"draw":11,"loss":11,"for":49,"against":37},
+{"country":"svn","name":"Rudar","id":"NK_Rudar_Velenje","win":11,"draw":10,"loss":15,"for":55,"against":54},
+{"country":"svn","name":"Domžale","id":"NK_Domžale","win":11,"draw":7,"loss":18,"for":39,"against":52},
+{"country":"svn","name":"Celje","id":"NK_Celje","win":9,"draw":10,"loss":17,"for":44,"against":56},
+{"country":"svn","name":"Triglav Kranj","id":"NK_Triglav_Kranj","win":9,"draw":6,"loss":21,"for":22,"against":67},
+{"country":"svn","name":"Nafta","id":"NK_Nafta_Lendava","win":5,"draw":10,"loss":21,"for":34,"against":71,"isRemoved":true}
 ]

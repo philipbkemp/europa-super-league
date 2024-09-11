@@ -640,4 +640,15 @@
 {"country":"rus","name":"Zhemchuzhina Sochi","id":"FC_Zhemchuzhina-Sochi","win":8,"draw":4,"loss":18,"for":36,"against":69},
 {"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":6,"draw":8,"loss":16,"for":34,"against":65},
 {"country":"rus","name":"Dynamo-Gazovik Tyumen","id":"FC_Tyumen","win":3,"draw":6,"loss":21,"for":28,"against":77,"isRemoved":true}
+][
+{"country":"svn","name":"Gorica","id":"ND_Gorica","win":18,"draw":13,"loss":5,"for":49,"against":22,"isChampion":true},
+{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":19,"draw":7,"loss":10,"for":79,"against":39},
+{"country":"svn","name":"Mura","id":"NK_Mura","win":15,"draw":13,"loss":8,"for":43,"against":29},
+{"country":"svn","name":"Maribor","id":"NK_Maribor","win":14,"draw":11,"loss":11,"for":47,"against":32},
+{"country":"svn","name":"Celje","id":"NK_Celje","win":13,"draw":12,"loss":11,"for":62,"against":47},
+{"country":"svn","name":"Beltinci","id":"NK_Beltinci","win":13,"draw":11,"loss":12,"for":41,"against":40},
+{"country":"svn","name":"Rudar Velenje","id":"NK_Rudar_Velenje","win":13,"draw":10,"loss":13,"for":46,"against":37},
+{"country":"svn","name":"Primorje","id":"NK_Primorje","win":13,"draw":9,"loss":14,"for":56,"against":48},
+{"country":"svn","name":"Korotan Prevalje","id":"NK_Korotan_Prevalje_(1933)","win":11,"draw":9,"loss":16,"for":44,"against":46},
+{"country":"svn","name":"Izola","id":"NK_Izola","win":1,"draw":5,"loss":30,"for":13,"against":140,"isRemoved":true}
 ]

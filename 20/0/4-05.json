@@ -611,4 +611,17 @@
 {"country":"rus","name":"Alania Vladikavkaz","id":"FC_Spartak_Vladikavkaz","win":7,"draw":7,"loss":16,"for":28,"against":52},
 {"country":"rus","name":"Kuban Krasnodar","id":"FC_Kuban_Krasnodar","win":6,"draw":10,"loss":14,"for":26,"against":42,"isRemoved":true,"isNew":true},
 {"country":"rus","name":"Rotor Volgograd","id":"FC_Rotor_Volgograd","win":4,"draw":10,"loss":16,"for":28,"against":53,"isRemoved":true}
+][
+{"country":"svn","name":"Gorica","id":"ND_Gorica","win":18,"draw":11,"loss":3,"for":49,"against":23,"isChampion":true},
+{"country":"svn","name":"Celje","id":"NK_Celje","win":16,"draw":4,"loss":12,"for":47,"against":28},
+{"country":"svn","name":"Primorje","id":"NK_Primorje","win":12,"draw":10,"loss":10,"for":37,"against":30},
+{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":10,"draw":7,"loss":15,"for":34,"against":52,"isRemoved":true,"removedNote":"Dissolved midseason and remaining matches awarded"},
+{"country":"svn","name":"Domžale","id":"NK_Domžale","win":14,"draw":10,"loss":8,"for":48,"against":36},
+{"country":"svn","name":"Drava Ptuj","id":"NK_Drava_Ptuj_(1933)","win":12,"draw":10,"loss":10,"for":40,"against":36},
+{"country":"svn","name":"Maribor","id":"NK_Maribor","win":15,"draw":6,"loss":11,"for":47,"against":36},
+{"country":"svn","name":"Ljubljana","id":"NK_Ljubljana","win":10,"draw":12,"loss":10,"for":38,"against":43,"isRemoved":true,"removedNote":"Dissolved midseason and remaining matches awarded"},
+{"country":"svn","name":"Mura","id":"NK_Mura","win":11,"draw":11,"loss":10,"for":43,"against":39,"isRemoved":true,"removedNote":"Dissolved midseason and remaining matches awarded"},
+{"country":"svn","name":"Bela Krajina","id":"NK_Bela_Krajina","win":9,"draw":10,"loss":13,"for":31,"against":44,"isNew":true},
+{"country":"svn","name":"Koper","id":"FC_Koper","win":9,"draw":9,"loss":14,"for":38,"against":41},
+{"country":"svn","name":"Zagorje","id":"NK_Zagorje","win":2,"draw":8,"loss":22,"for":18,"against":62,"isRemoved":true,"isReturning":true}
 ]

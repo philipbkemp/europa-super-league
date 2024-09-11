@@ -610,4 +610,15 @@
 {"country":"rus","name":"Akron Tolyatti","id":"FC_Akron_Tolyatti","win":1,"draw":2,"loss":4,"for":7,"against":13,"isCurrentSeason":true,"isNew":true},
 {"country":"rus","name":"Akhmat Grozny","id":"FC_Akhmat_Grozny","win":0,"draw":5,"loss":2,"for":4,"against":10,"isCurrentSeason":true},
 {"country":"rus","name":"Fakel Voronezh","id":"FC_Fakel_Voronezh","win":1,"draw":1,"loss":5,"for":3,"against":14,"isCurrentSeason":true}
+][
+{"country":"svn","name":"Olimpija Ljubljana","id":"NK_Olimpija_Ljubljana","win":4,"draw":3,"loss":0,"for":12,"against":3,"isCurrentSeason":true},
+{"country":"svn","name":"Bravo","id":"NK_Bravo","win":4,"draw":2,"loss":1,"for":13,"against":6,"isCurrentSeason":true},
+{"country":"svn","name":"Koper","id":"FC_Koper","win":4,"draw":1,"loss":2,"for":9,"against":2,"isCurrentSeason":true},
+{"country":"svn","name":"Maribor","id":"NK_Maribor","win":3,"draw":3,"loss":0,"for":13,"against":6,"isCurrentSeason":true},
+{"country":"svn","name":"Mura","id":"NŠ_Mura","win":4,"draw":0,"loss":3,"for":8,"against":10,"isCurrentSeason":true},
+{"country":"svn","name":"Primorje","id":"ND_Primorje","win":3,"draw":0,"loss":4,"for":9,"against":13,"isCurrentSeason":true,"isNew":true},
+{"country":"svn","name":"Celje","id":"NK_Celje","win":2,"draw":2,"loss":2,"for":8,"against":9,"isCurrentSeason":true},
+{"country":"svn","name":"Nafta 1903","id":"NK_Nafta_1903","win":2,"draw":0,"loss":5,"for":7,"against":14,"isCurrentSeason":true,"isNew":true},
+{"country":"svn","name":"Radomlje","id":"NK_Radomlje","win":1,"draw":2,"loss":4,"for":6,"against":10,"isCurrentSeason":true},
+{"country":"svn","name":"Domžale","id":"NK_Domžale","win":0,"draw":1,"loss":6,"for":5,"against":17,"isCurrentSeason":true}
 ]

@@ -586,4 +586,15 @@
 {"country":"rus","name":"Arsenal Tula","id":"FC_Arsenal_Tula","win":7,"draw":7,"loss":16,"for":18,"against":40,"isReturning":true},
 {"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":6,"draw":10,"loss":14,"for":31,"against":39,"isRemoved":true},
 {"country":"rus","name":"Tom Tomsk","id":"FC_Tom_Tomsk","win":3,"draw":5,"loss":22,"for":17,"against":64,"isRemoved":true,"isReturning":true}
+][
+{"country":"svn","name":"Maribor","id":"NK_Maribor","win":21,"draw":10,"loss":5,"for":63,"against":30,"isChampion":true},
+{"country":"svn","name":"Gorica","id":"ND_Gorica","win":16,"draw":12,"loss":8,"for":48,"against":39},
+{"country":"svn","name":"Olimpija Ljubljana","id":"NK_Olimpija_Ljubljana","win":17,"draw":9,"loss":10,"for":49,"against":35},
+{"country":"svn","name":"Domžale","id":"NK_Domžale","win":16,"draw":8,"loss":12,"for":63,"against":45},
+{"country":"svn","name":"Celje","id":"NK_Celje","win":15,"draw":10,"loss":11,"for":48,"against":39},
+{"country":"svn","name":"Koper","id":"FC_Koper","win":12,"draw":14,"loss":10,"for":43,"against":40,"isRemoved":true,"removedNote":"Failed to earn a competition license and were administratively relegated"},
+{"country":"svn","name":"Rudar Velenje","id":"NK_Rudar_Velenje","win":10,"draw":11,"loss":15,"for":49,"against":53},
+{"country":"svn","name":"Krško","id":"NK_Krško_Posavje","win":8,"draw":15,"loss":13,"for":39,"against":50},
+{"country":"svn","name":"Aluminij","id":"NK_Aluminij","win":9,"draw":11,"loss":16,"for":38,"against":52,"isReturning":true},
+{"country":"svn","name":"Radomlje","id":"NK_Radomlje","win":1,"draw":10,"loss":25,"for":23,"against":80,"isRemoved":true,"isReturning":true}
 ]

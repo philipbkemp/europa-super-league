@@ -619,4 +619,15 @@
 {"country":"rus","name":"Rostov","id":"FC_Rostov","win":7,"draw":11,"loss":12,"for":28,"against":39,"isReturning":true},
 {"country":"rus","name":"Kuban Krasnodar","id":"FC_Kuban_Krasnodar","win":6,"draw":10,"loss":14,"for":23,"against":51,"isRemoved":true,"isReturning":true},
 {"country":"rus","name":"Khimki","id":"FC_Khimki","win":2,"draw":4,"loss":24,"for":20,"against":64,"isRemoved":true}
+][
+{"country":"svn","name":"Koper","id":"FC_Koper","win":21,"draw":10,"loss":5,"for":59,"against":35,"isChampion":true},
+{"country":"svn","name":"Maribor","id":"NK_Maribor","win":18,"draw":8,"loss":10,"for":58,"against":44},
+{"country":"svn","name":"Gorica","id":"ND_Gorica","win":16,"draw":7,"loss":13,"for":74,"against":60},
+{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana","win":16,"draw":7,"loss":13,"for":51,"against":33,"deduct":-2,"deductReason":"Missing one game in previous season","isNew":true},
+{"country":"svn","name":"Celje","id":"NK_Celje","win":14,"draw":9,"loss":13,"for":53,"against":56},
+{"country":"svn","name":"Nafta","id":"NK_Nafta_Lendava","win":14,"draw":7,"loss":15,"for":51,"against":53},
+{"country":"svn","name":"Rudar","id":"NK_Rudar_Velenje","win":15,"draw":4,"loss":17,"for":46,"against":52},
+{"country":"svn","name":"Domžale","id":"NK_Domžale","win":12,"draw":9,"loss":15,"for":51,"against":59},
+{"country":"svn","name":"Interblock","id":"NK_IB_1975_Ljubljana","win":9,"draw":6,"loss":21,"for":35,"against":64,"isRemoved":true},
+{"country":"svn","name":"Drava Ptuj","id":"NK_Drava_Ptuj_(1933)","win":7,"draw":9,"loss":20,"for":34,"against":56,"isRemoved":true}
 ]

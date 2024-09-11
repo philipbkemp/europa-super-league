@@ -620,4 +620,15 @@
 {"country":"rus","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":8,"draw":10,"loss":12,"for":31,"against":40},
 {"country":"rus","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":3,"draw":13,"loss":14,"for":22,"against":40,"isRemoved":true},
 {"country":"rus","name":"Shinnik Yaroslavl","id":"FC_Shinnik_Yaroslavl","win":1,"draw":8,"loss":21,"for":17,"against":56,"isRemoved":true}
+][
+{"country":"svn","name":"Domžale","id":"NK_Domžale","win":21,"draw":12,"loss":3,"for":64,"against":29,"isChampion":true},
+{"country":"svn","name":"Gorica","id":"ND_Gorica","win":17,"draw":7,"loss":12,"for":66,"against":63},
+{"country":"svn","name":"Maribor","id":"NK_Maribor","win":15,"draw":12,"loss":9,"for":64,"against":50},
+{"country":"svn","name":"Drava Ptuj","id":"NK_Drava_Ptuj_(1933)","win":15,"draw":10,"loss":11,"for":61,"against":52},
+{"country":"svn","name":"Primorje","id":"NK_Primorje","win":15,"draw":10,"loss":11,"for":52,"against":47},
+{"country":"svn","name":"Koper","id":"FC_Koper","win":10,"draw":15,"loss":11,"for":51,"against":46},
+{"country":"svn","name":"Celje","id":"NK_Celje","win":11,"draw":12,"loss":13,"for":54,"against":51},
+{"country":"svn","name":"Nafta","id":"NK_Nafta_Lendava","win":12,"draw":9,"loss":15,"for":45,"against":59},
+{"country":"svn","name":"Interblock","id":"NK_IB_1975_Ljubljana","win":5,"draw":11,"loss":20,"for":34,"against":68,"isNew":true},
+{"country":"svn","name":"Bela Krajina","id":"NK_Bela_Krajina","win":5,"draw":10,"loss":21,"for":38,"against":64,"isRemoved":true}
 ]

@@ -611,4 +611,15 @@
 {"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":6,"draw":11,"loss":13,"for":27,"against":46,"isRemoved":true},
 {"country":"rus","name":"Volga Nizhny Novgorod","id":"FC_Volga_Nizhny_Novgorod","win":6,"draw":3,"loss":21,"for":22,"against":65,"isRemoved":true},
 {"country":"rus","name":"Anzhi Makhachkala","id":"FC_Anzhi_Makhachkala","win":3,"draw":11,"loss":16,"for":25,"against":42,"isRemoved":true}
+][
+{"country":"svn","name":"Maribor","id":"NK_Maribor","win":24,"draw":5,"loss":7,"for":78,"against":31,"isChampion":true},
+{"country":"svn","name":"Koper","id":"FC_Koper","win":21,"draw":6,"loss":9,"for":52,"against":36},
+{"country":"svn","name":"Rudar","id":"NK_Rudar_Velenje","win":18,"draw":9,"loss":9,"for":55,"against":33},
+{"country":"svn","name":"Gorica","id":"ND_Gorica","win":16,"draw":10,"loss":10,"for":60,"against":32},
+{"country":"svn","name":"Zavrč","id":"NK_Zavrč","win":16,"draw":5,"loss":15,"for":58,"against":63,"isNew":true},
+{"country":"svn","name":"Domžale","id":"NK_Domžale","win":10,"draw":15,"loss":11,"for":47,"against":36},
+{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana","win":12,"draw":6,"loss":18,"for":38,"against":56},
+{"country":"svn","name":"Celje","id":"NK_Celje","win":10,"draw":7,"loss":19,"for":30,"against":58},
+{"country":"svn","name":"Krka","id":"NK_Krka","win":8,"draw":7,"loss":21,"for":31,"against":64,"isReturning":true},
+{"country":"svn","name":"Triglav Kranj","id":"NK_Triglav_Kranj","win":6,"draw":8,"loss":22,"for":34,"against":74,"isRemoved":true}
 ]

@@ -600,4 +600,15 @@
 {"country":"rus","name":"Kuban Krasnodar","id":"FC_Kuban_Krasnodar","win":5,"draw":11,"loss":14,"for":34,"against":44,"isRemoved":true},
 {"country":"rus","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":5,"draw":10,"loss":15,"for":25,"against":47,"isRemoved":true},
 {"country":"rus","name":"Mordovia Saransk","id":"FC_Mordovia_Saransk","win":4,"draw":12,"loss":14,"for":30,"against":50,"isRemoved":true}
+][
+{"country":"svn","name":"Olimpija Ljubljana","id":"NK_Olimpija_Ljubljana","win":22,"draw":8,"loss":6,"for":75,"against":25,"isChampion":true},
+{"country":"svn","name":"Maribor","id":"NK_Maribor","win":19,"draw":11,"loss":6,"for":78,"against":37},
+{"country":"svn","name":"Domžale","id":"NK_Domžale","win":14,"draw":13,"loss":9,"for":46,"against":31},
+{"country":"svn","name":"Gorica","id":"ND_Gorica","win":15,"draw":7,"loss":14,"for":48,"against":49},
+{"country":"svn","name":"Celje","id":"NK_Celje","win":11,"draw":12,"loss":13,"for":32,"against":46},
+{"country":"svn","name":"Krško","id":"NK_Krško_Posavje","win":10,"draw":11,"loss":15,"for":24,"against":48,"isNew":true},
+{"country":"svn","name":"Rudar Velenje","id":"NK_Rudar_Velenje","win":11,"draw":8,"loss":17,"for":34,"against":52},
+{"country":"svn","name":"Koper","id":"FC_Koper","win":11,"draw":7,"loss":18,"for":40,"against":54},
+{"country":"svn","name":"Zavrč","id":"NK_Zavrč","win":9,"draw":13,"loss":14,"for":32,"against":41,"isRemoved":true},
+{"country":"svn","name":"Krka","id":"NK_Krka","win":8,"draw":10,"loss":18,"for":30,"against":56,"isRemoved":true}
 ]

@@ -654,4 +654,26 @@
 {"country":"mda","name":"Moldova Boroseni","id":"FC_Moldova_Boroseni","win":7,"draw":2,"loss":13,"for":22,"against":42,"isNew":true},
 {"country":"mda","name":"Cristalul Fălești","id":"FC_Spicul_Fălești","win":3,"draw":3,"loss":16,"for":25,"against":60,"isNew":true},
 {"country":"mda","name":"Constructorul Leova","id":"FC_Prut_Leova","win":2,"draw":3,"loss":17,"for":11,"against":63,"isRemoved":true,"isNew":true}
+][
+{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":30,"draw":6,"loss":4,"for":102,"against":18,"isChampion":true,"isNew":true},
+{"country":"svn","name":"Maribor","id":"NK_Maribor","win":25,"draw":9,"loss":6,"for":76,"against":30,"isNew":true},
+{"country":"svn","name":"Izola","id":"NK_Izola","win":22,"draw":12,"loss":6,"for":62,"against":26,"isNew":true},
+{"country":"svn","name":"Gorica","id":"ND_Gorica","win":15,"draw":16,"loss":9,"for":63,"against":40,"isNew":true},
+{"country":"svn","name":"Ljubljana","id":"NK_Ljubljana","win":17,"draw":12,"loss":11,"for":59,"against":41,"isNew":true},
+{"country":"svn","name":"Naklo","id":"NK_Naklo","win":14,"draw":18,"loss":8,"for":49,"against":39,"isNew":true},
+{"country":"svn","name":"Mura","id":"NK_Mura","win":17,"draw":9,"loss":14,"for":60,"against":49,"isNew":true},
+{"country":"svn","name":"Koper","id":"FC_Koper","win":15,"draw":13,"loss":12,"for":38,"against":33,"isNew":true},
+{"country":"svn","name":"Celje","id":"NK_Celje","win":14,"draw":13,"loss":13,"for":43,"against":51,"isNew":true},
+{"country":"svn","name":"Slovan","id":"ND_Slovan","win":14,"draw":12,"loss":14,"for":51,"against":40,"isNew":true},
+{"country":"svn","name":"Svoboda","id":"NK_Svoboda_Ljubljana","win":14,"draw":12,"loss":14,"for":51,"against":55,"isNew":true},
+{"country":"svn","name":"Rudar Velenje","id":"NK_Rudar_Velenje","win":13,"draw":12,"loss":15,"for":59,"against":65,"isNew":true},
+{"country":"svn","name":"Beltinci","id":"NK_Beltinci","win":14,"draw":10,"loss":16,"for":48,"against":60,"isNew":true},
+{"country":"svn","name":"Zagorje","id":"NK_Zagorje","win":13,"draw":10,"loss":17,"for":47,"against":44,"isNew":true},
+{"country":"svn","name":"Nafta Lendava","id":"NK_Nafta_Lendava","win":13,"draw":10,"loss":17,"for":52,"against":63,"isNew":true},
+{"country":"svn","name":"Steklar","id":"NK_Steklar","win":12,"draw":12,"loss":16,"for":57,"against":75,"isNew":true},
+{"country":"svn","name":"Primorje","id":"NK_Primorje","win":12,"draw":11,"loss":17,"for":44,"against":60,"isRemoved":true,"isNew":true},
+{"country":"svn","name":"Rudar Trbovlje","id":"NK_Rudar_Trbovlje","win":12,"draw":9,"loss":19,"for":47,"against":60,"isRemoved":true,"isReturning":true},
+{"country":"svn","name":"Domžale","id":"NK_Domžale","win":5,"draw":14,"loss":21,"for":26,"against":59,"isRemoved":true,"isNew":true},
+{"country":"svn","name":"Medvode","id":"NK_Jezero_Medvode","win":9,"draw":5,"loss":26,"for":26,"against":84,"isRemoved":true,"isNew":true},
+{"country":"svn","name":"Jadran Dekani","id":"NK_Dekani","win":4,"draw":7,"loss":29,"for":23,"against":91,"isRemoved":true,"isNew":true}
 ]

@@ -660,4 +660,21 @@
 {"country":"rus","name":"Uralmash Yekaterinburg","id":"FC_Ural_Yekaterinburg","win":7,"draw":9,"loss":14,"for":33,"against":49},
 {"country":"rus","name":"Dynamo Stavropol","id":"PFC_Dynamo_Stavropol","win":6,"draw":11,"loss":13,"for":25,"against":34,"isRemoved":true},
 {"country":"rus","name":"Lada-Togliatti","id":"FC_Lada-Tolyatti","win":6,"draw":10,"loss":14,"for":24,"against":41,"isRemoved":true,"isNew":true}
+][
+{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":20,"draw":4,"loss":6,"for":78,"against":30,"isChampion":true},
+{"country":"svn","name":"Maribor","id":"NK_Maribor","win":17,"draw":8,"loss":5,"for":60,"against":24},
+{"country":"svn","name":"Gorica","id":"ND_Gorica","win":18,"draw":5,"loss":7,"for":66,"against":30},
+{"country":"svn","name":"Mura","id":"NK_Mura","win":17,"draw":6,"loss":7,"for":46,"against":24},
+{"country":"svn","name":"Beltinci","id":"NK_Beltinci","win":15,"draw":8,"loss":7,"for":74,"against":32},
+{"country":"svn","name":"Celje","id":"NK_Celje","win":16,"draw":6,"loss":8,"for":50,"against":27},
+{"country":"svn","name":"Rudar Velenje","id":"NK_Rudar_Velenje","win":16,"draw":6,"loss":8,"for":55,"against":33},
+{"country":"svn","name":"Korotan Prevalje","id":"NK_Korotan_Prevalje_(1933)","win":14,"draw":4,"loss":12,"for":53,"against":36,"isNew":true},
+{"country":"svn","name":"Primorje","id":"NK_Primorje","win":12,"draw":8,"loss":10,"for":50,"against":45},
+{"country":"svn","name":"Železničar Ljubljana","id":"NK_Ljubljana","win":13,"draw":4,"loss":13,"for":49,"against":43,"isRemoved":true},
+{"country":"svn","name":"Koper","id":"FC_Koper","win":9,"draw":8,"loss":13,"for":24,"against":34,"isRemoved":true},
+{"country":"svn","name":"Slavija Vevče","id":"NK_Slavija_Vevče","win":8,"draw":4,"loss":18,"for":36,"against":58,"isRemoved":true,"isNew":true},
+{"country":"svn","name":"Izola","id":"NK_Izola","win":7,"draw":6,"loss":17,"for":30,"against":73},
+{"country":"svn","name":"Naklo","id":"NK_Naklo","win":5,"draw":9,"loss":16,"for":34,"against":48,"isRemoved":true},
+{"country":"svn","name":"Kočevje","id":"NK_Kočevje","win":4,"draw":9,"loss":17,"for":24,"against":91,"isRemoved":true,"deduct":-1,"isNew":true},
+{"country":"svn","name":"Jadran Dekani","id":"NK_Dekani","win":0,"draw":3,"loss":27,"for":12,"against":113,"isRemoved":true}
 ]

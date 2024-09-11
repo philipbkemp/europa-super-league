@@ -605,4 +605,17 @@
 {"country":"rus","name":"Torpedo-Metallurg Moscow","id":"FC_Torpedo-ZIL_Moscow","win":8,"draw":5,"loss":17,"for":25,"against":39,"isRemoved":true},
 {"country":"rus","name":"Uralan Elista","id":"FC_Elista","win":6,"draw":10,"loss":14,"for":23,"against":47,"isRemoved":true},
 {"country":"rus","name":"Chernomorets Novorossiysk","id":"FC_Chernomorets_Novorossiysk","win":6,"draw":6,"loss":18,"for":30,"against":49,"isRemoved":true,"isReturning":true}
+][
+{"country":"svn","name":"Gorica","id":"ND_Gorica","win":15,"draw":11,"loss":6,"for":55,"against":29,"isChampion":true},
+{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":16,"draw":7,"loss":9,"for":59,"against":39},
+{"country":"svn","name":"Maribor","id":"NK_Maribor","win":15,"draw":9,"loss":8,"for":41,"against":34},
+{"country":"svn","name":"Primorje","id":"NK_Primorje","win":12,"draw":12,"loss":8,"for":59,"against":36},
+{"country":"svn","name":"Koper","id":"FC_Koper","win":13,"draw":11,"loss":8,"for":41,"against":32},
+{"country":"svn","name":"Mura","id":"NK_Mura","win":14,"draw":7,"loss":11,"for":53,"against":54},
+{"country":"svn","name":"Celje","id":"NK_Celje","win":11,"draw":6,"loss":15,"for":61,"against":52},
+{"country":"svn","name":"Šmartno","id":"NK_Šmartno_ob_Paki","win":10,"draw":10,"loss":12,"for":43,"against":48,"isRemoved":true,"removedNote":"Administratively relegated due to financial issues"},
+{"country":"svn","name":"Domžale","id":"NK_Domžale","win":11,"draw":8,"loss":13,"for":47,"against":53,"isReturning":true},
+{"country":"svn","name":"Ljubljana","id":"NK_Ljubljana","win":12,"draw":6,"loss":14,"for":38,"against":53},
+{"country":"svn","name":"Dravograd","id":"NK_Dravograd","win":7,"draw":4,"loss":21,"for":35,"against":73,"isRemoved":true},
+{"country":"svn","name":"Drava Ptuj","id":"NK_Drava_Ptuj_(1933)","win":7,"draw":7,"loss":18,"for":34,"against":60,"isNew":true}
 ]
