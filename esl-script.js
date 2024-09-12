@@ -287,7 +287,9 @@ function nextSeason() {
 	});
 	$.each( $("#divb-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
-			if ( $(this).hasClass("promoted") ) {
+			if ( $(this).hasClass("relegated") ) {
+				divc.push( $(this).attr("id") );
+			} else if ( $(this).hasClass("promoted") ) {
 				diva.push( $(this).attr("id") );
 			} else if ( ! $(this).hasClass("removed") ) {
 				divb.push( $(this).attr("id") );
@@ -296,7 +298,11 @@ function nextSeason() {
 	});
 	$.each( $("#divc-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
-			if ( $(this).hasClass("promoted") ) {
+			if ( $(this).hasClass("relegated") ) {
+				divd.push( $(this).attr("id") );
+			} else if ( $(this).hasClass("promoted-twice") ) {
+				diva.push( $(this).attr("id") );
+			} else if ( $(this).hasClass("promoted") ) {
 				divb.push( $(this).attr("id") );
 			} else if ( ! $(this).hasClass("removed") ) {
 				divc.push( $(this).attr("id") );
@@ -305,7 +311,11 @@ function nextSeason() {
 	});
 	$.each( $("#divd-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
-			if ( $(this).hasClass("promoted") ) {
+			if ( $(this).hasClass("relegated") ) {
+				dive.push( $(this).attr("id") );
+			} else if ( $(this).hasClass("promoted-twice") ) {
+				divb.push( $(this).attr("id") );
+			} else if ( $(this).hasClass("promoted") ) {
 				divc.push( $(this).attr("id") );
 			} else if ( ! $(this).hasClass("removed") ) {
 				divd.push( $(this).attr("id") );
@@ -314,7 +324,11 @@ function nextSeason() {
 	});
 	$.each( $("#dive-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
-			if ( $(this).hasClass("promoted") ) {
+			if ( $(this).hasClass("relegated") ) {
+				divf.push( $(this).attr("id") );
+			} else if ( $(this).hasClass("promoted-twice") ) {
+				divc.push( $(this).attr("id") );
+			} else if ( $(this).hasClass("promoted") ) {
 				divd.push( $(this).attr("id") );
 			} else if ( ! $(this).hasClass("removed") ) {
 				dive.push( $(this).attr("id") );
@@ -323,7 +337,11 @@ function nextSeason() {
 	});
 	$.each( $("#divf-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
-			if ( $(this).hasClass("promoted") ) {
+			if ( $(this).hasClass("relegated") ) {
+				divg.push( $(this).attr("id") );
+			} else if ( $(this).hasClass("promoted-twice") ) {
+				divd.push( $(this).attr("id") );
+			} else if ( $(this).hasClass("promoted") ) {
 				dive.push( $(this).attr("id") );
 			} else if ( ! $(this).hasClass("removed") ) {
 				divf.push( $(this).attr("id") );
@@ -332,7 +350,11 @@ function nextSeason() {
 	});
 	$.each( $("#divg-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
-			if ( $(this).hasClass("promoted") ) {
+			if ( $(this).hasClass("relegated") ) {
+				divh.push( $(this).attr("id") );
+			} else if ( $(this).hasClass("promoted-twice") ) {
+				dive.push( $(this).attr("id") );
+			} else if ( $(this).hasClass("promoted") ) {
 				divf.push( $(this).attr("id") );
 			} else if ( ! $(this).hasClass("removed") ) {
 				divg.push( $(this).attr("id") );
@@ -341,7 +363,9 @@ function nextSeason() {
 	});
 	$.each( $("#divh-pane tbody tr") , function() {
 		if ( $(this).attr("id") ) {
-			if ( $(this).hasClass("promoted") ) {
+			if ( $(this).hasClass("promoted-twice") ) {
+				divf.push( $(this).attr("id") );
+			} else if ( $(this).hasClass("promoted") ) {
 				divg.push( $(this).attr("id") );
 			} else if ( ! $(this).hasClass("removed") ) {
 				divh.push( $(this).attr("id") );
@@ -633,6 +657,30 @@ function promote(fromDivision,number) {
 	$.each( $("#"+target+" tr") , function(k,v) {
 		if ( promoted !== number && ! $(v).hasClass("removed") ) {
 			$(v).addClass("promoted");
+			promoted++;
+			icon = $("<IMG />").attr("src","../../icons/promoted.png").attr("alt","Promoted").attr("data-bs-toggle","tooltip").attr("data-bs-title","Promoted to Division "+newDivision);
+			$($(v).find("th")[0]).append(icon);
+		}
+	});
+	$('[data-bs-toggle="tooltip"]').tooltip({
+		container: '#divisionsTables, #winnersTables',
+		html: true
+	});
+}
+
+function promoteTwo(fromDivision,number) {
+	promoted = 0;
+	newDivision = "?";
+	target = "league_" + fromDivision.toLowerCase();
+	if ( fromDivision === "c" ) { newDivision = "A"; }
+	if ( fromDivision === "d" ) { newDivision = "B"; }
+	if ( fromDivision === "e" ) { newDivision = "C"; }
+	if ( fromDivision === "f" ) { newDivision = "D"; }
+	if ( fromDivision === "g" ) { newDivision = "E"; }
+	if ( fromDivision === "h" ) { newDivision = "F"; }
+	$.each( $("#"+target+" tr") , function(k,v) {
+		if ( promoted !== number && ! $(v).hasClass("removed") ) {
+			$(v).addClass("promoted").addClass("promoted-twice");
 			promoted++;
 			icon = $("<IMG />").attr("src","../../icons/promoted.png").attr("alt","Promoted").attr("data-bs-toggle","tooltip").attr("data-bs-title","Promoted to Division "+newDivision);
 			$($(v).find("th")[0]).append(icon);
