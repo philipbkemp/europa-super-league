@@ -609,7 +609,7 @@
 {"country":"rus","name":"Rostov","id":"FC_Rostov","win":7,"draw":8,"loss":15,"for":28,"against":42},
 {"country":"rus","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":6,"draw":11,"loss":13,"for":27,"against":38},
 {"country":"rus","name":"Alania Vladikavkaz","id":"FC_Spartak_Vladikavkaz","win":7,"draw":7,"loss":16,"for":28,"against":52},
-{"country":"rus","name":"Kuban Krasnodar","id":"FC_Kuban_Krasnodar","win":6,"draw":10,"loss":14,"for":26,"against":42,"isRemoved":true,"isNew":true},
+{"country":"rus","name":"Kuban Krasnodar","id":"FC_Kuban_Krasnodar","win":6,"draw":10,"loss":14,"for":26,"against":42,"isRemoved":true,"isReturning":true},
 {"country":"rus","name":"Rotor Volgograd","id":"FC_Rotor_Volgograd","win":4,"draw":10,"loss":16,"for":28,"against":53,"isRemoved":true}
 ][
 {"country":"svn","name":"Gorica","id":"ND_Gorica","win":18,"draw":11,"loss":3,"for":49,"against":23,"isChampion":true},

@@ -618,7 +618,7 @@
 {"country":"rus","name":"Krasnodar","id":"FC_Krasnodar","win":16,"draw":13,"loss":15,"for":58,"against":61,"isNew":true},
 {"country":"rus","name":"Rostov","id":"FC_Rostov","win":12,"draw":12,"loss":20,"for":45,"against":61},
 {"country":"rus","name":"Terek Grozny","id":"FC_Akhmat_Grozny","win":14,"draw":10,"loss":20,"for":45,"against":62},
-{"country":"rus","name":"Volga Nizhny Novgorod","id":"FC_Volga_Nizhny_Novgorod","win":12,"draw":5,"loss":27,"for":37,"against":60,"isNew":true},
+{"country":"rus","name":"Volga Nizhny Novgorod","id":"FC_Volga_Nizhny_Novgorod","win":12,"draw":5,"loss":27,"for":37,"against":60,"isReturning":true},
 {"country":"rus","name":"Amkar Perm","id":"FC_Amkar_Perm","win":14,"draw":13,"loss":17,"for":40,"against":51},
 {"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":12,"draw":15,"loss":17,"for":33,"against":50},
 {"country":"rus","name":"Spartak Nalchik","id":"PFC_Spartak_Nalchik","win":7,"draw":13,"loss":24,"for":39,"against":60,"isRemoved":true},
