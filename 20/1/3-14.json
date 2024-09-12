@@ -639,4 +639,21 @@
 {"country":"ukr","name":"Metalurh Zaporizhzhia","id":"FC_Metalurh_Zaporizhzhia","win":2,"draw":6,"loss":20,"for":19,"against":54},
 {"country":"ukr","name":"Tavriya Simferopol","id":"SC_Tavriya_Simferopol","win":2,"draw":4,"loss":22,"for":15,"against":46,"isRemoved":true,"removedNote":"Expelled from the league after Russian annexation of Crimea"},
 {"country":"ukr","name":"Arsenal Kyiv","id":"FC_Arsenal_Kyiv","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Entered administration and did not compete during the season"}
+][
+{"country":"bih","name":"Zrinjski","id":"HŠK_Zrinjski_Mostar","win":18,"draw":7,"loss":5,"for":56,"against":21,"isChampion":true},
+{"country":"bih","name":"Široki Brijeg","id":"NK_Široki_Brijeg","win":17,"draw":8,"loss":5,"for":66,"against":23},
+{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":16,"draw":10,"loss":4,"for":45,"against":21},
+{"country":"bih","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":16,"draw":9,"loss":5,"for":51,"against":29},
+{"country":"bih","name":"Velež","id":"FK_Velež_Mostar","win":15,"draw":9,"loss":6,"for":42,"against":23},
+{"country":"bih","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":13,"draw":6,"loss":11,"for":39,"against":32},
+{"country":"bih","name":"Čelik","id":"NK_Čelik_Zenica","win":10,"draw":13,"loss":7,"for":35,"against":32},
+{"country":"bih","name":"Olimpic","id":"FK_Olimpik","win":10,"draw":11,"loss":9,"for":39,"against":30},
+{"country":"bih","name":"Vitez","id":"NK_Vitez","win":10,"draw":6,"loss":14,"for":34,"against":39,"isNew":true},
+{"country":"bih","name":"Radnik","id":"FK_Radnik_Bijeljina","win":10,"draw":6,"loss":14,"for":34,"against":50},
+{"country":"bih","name":"Mladost Velika Obarska","id":"FK_Mladost_Velika_Obarska","win":8,"draw":9,"loss":13,"for":24,"against":38,"isNew":true},
+{"country":"bih","name":"Travnik","id":"NK_Travnik","win":7,"draw":10,"loss":13,"for":31,"against":44},
+{"country":"bih","name":"Slavija","id":"FK_Slavija_Sarajevo","win":9,"draw":7,"loss":14,"for":27,"against":43,"deduct":-3},
+{"country":"bih","name":"Zvijezda","id":"NK_Zvijezda_Gradačac","win":9,"draw":4,"loss":17,"for":25,"against":49},
+{"country":"bih","name":"Rudar Prijedor","id":"FK_Rudar_Prijedor","win":5,"draw":12,"loss":13,"for":24,"against":39,"isRemoved":true},
+{"country":"bih","name":"Leotar","id":"FK_Leotar","win":2,"draw":3,"loss":25,"for":11,"against":70,"isRemoved":true}
 ]

@@ -651,4 +651,21 @@
 {"country":"ukr","name":"FC Kharkiv","id":"FC_Kharkiv","win":6,"draw":9,"loss":15,"for":20,"against":32},
 {"country":"ukr","name":"Naftovyk-Ukrnafta Okhtyrka","id":"FC_Naftovyk_Okhtyrka","win":6,"draw":8,"loss":16,"for":18,"against":38,"isRemoved":true,"isNew":true},
 {"country":"ukr","name":"Zakarpattia Uzhhorod","id":"FC_Hoverla_Uzhhorod","win":3,"draw":9,"loss":18,"for":17,"against":54,"isRemoved":true,"isReturning":true}
+][
+{"country":"bih","name":"Modriča","id":"FK_Alfa_Modriča","win":18,"draw":1,"loss":11,"for":57,"against":45,"isChampion":true},
+{"country":"bih","name":"Široki Brijeg","id":"NK_Široki_Brijeg","win":17,"draw":3,"loss":10,"for":44,"against":29},
+{"country":"bih","name":"Čelik Zenica","id":"NK_Čelik_Zenica","win":16,"draw":4,"loss":10,"for":38,"against":32},
+{"country":"bih","name":"Zrinjski","id":"HŠK_Zrinjski_Mostar","win":15,"draw":4,"loss":11,"for":46,"against":27},
+{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":14,"draw":6,"loss":10,"for":42,"against":29},
+{"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":15,"draw":2,"loss":13,"for":44,"against":38},
+{"country":"bih","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":14,"draw":3,"loss":13,"for":47,"against":35},
+{"country":"bih","name":"Slavija","id":"FK_Slavija_Sarajevo","win":14,"draw":2,"loss":14,"for":39,"against":44},
+{"country":"bih","name":"Velež","id":"FK_Velež_Mostar","win":14,"draw":2,"loss":14,"for":39,"against":46},
+{"country":"bih","name":"Laktaši","id":"FK_Laktaši","win":13,"draw":4,"loss":13,"for":42,"against":40,"isNew":true},
+{"country":"bih","name":"Posušje","id":"HŠK_Posušje","win":13,"draw":4,"loss":13,"for":42,"against":46},
+{"country":"bih","name":"Orašje","id":"HNK_Orašje","win":13,"draw":3,"loss":14,"for":50,"against":45},
+{"country":"bih","name":"Travnik","id":"NK_Travnik","win":13,"draw":3,"loss":14,"for":35,"against":39,"isReturning":true},
+{"country":"bih","name":"Leotar","id":"FK_Leotar","win":13,"draw":2,"loss":15,"for":38,"against":45},
+{"country":"bih","name":"Jedinstvo Bihać","id":"NK_Jedinstvo_Bihać","win":12,"draw":4,"loss":14,"for":28,"against":43,"isRemoved":true},
+{"country":"bih","name":"Žepče","id":"NK_Žepče","win":2,"draw":1,"loss":27,"for":25,"against":73,"isRemoved":true}
 ]

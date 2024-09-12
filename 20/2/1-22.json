@@ -651,4 +651,17 @@
 {"country":"ukr","name":"Inhulets Petrove","id":"FC_Inhulets_Petrove","win":3,"draw":4,"loss":10,"for":13,"against":28},
 {"country":"ukr","name":"Mynai","id":"FC_Mynai","win":1,"draw":7,"loss":10,"for":12,"against":30},
 {"country":"ukr","name":"Mariupol","id":"FC_Mariupol","win":2,"draw":2,"loss":14,"for":21,"against":44,"isRemoved":true,"removedNote":"Withdrew due to effects of Russian invasion"}
+][
+{"country":"bih","name":"Zrinjski Mostar","id":"HŠK_Zrinjski_Mostar","win":26,"draw":6,"loss":1,"for":74,"against":14,"isChampion":true},
+{"country":"bih","name":"Tuzla City","id":"FK_Tuzla_City","win":15,"draw":12,"loss":6,"for":49,"against":36},
+{"country":"bih","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":13,"draw":15,"loss":5,"for":44,"against":34},
+{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":13,"draw":7,"loss":13,"for":37,"against":33},
+{"country":"bih","name":"Velež Mostar","id":"FK_Velež_Mostar","win":13,"draw":8,"loss":12,"for":42,"against":37,"deduct":-3,"deductReason":"Pitch invasion"},
+{"country":"bih","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":9,"draw":16,"loss":8,"for":28,"against":29},
+{"country":"bih","name":"Široki Brijeg","id":"NK_Široki_Brijeg","win":8,"draw":15,"loss":10,"for":31,"against":35},
+{"country":"bih","name":"Posušje","id":"HŠK_Posušje","win":8,"draw":13,"loss":12,"for":33,"against":51,"isReturning":true},
+{"country":"bih","name":"Leotar","id":"FK_Leotar","win":9,"draw":7,"loss":17,"for":25,"against":46,"isReturning":true},
+{"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":7,"draw":12,"loss":14,"for":26,"against":35},
+{"country":"bih","name":"Radnik Bijeljina","id":"FK_Radnik_Bijeljina","win":5,"draw":12,"loss":16,"for":34,"against":53,"isRemoved":true},
+{"country":"bih","name":"Rudar Prijedor","id":"FK_Rudar_Prijedor","win":5,"draw":11,"loss":17,"for":28,"against":48,"isRemoved":true,"isReturning":true}
 ]

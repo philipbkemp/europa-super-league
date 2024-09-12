@@ -647,4 +647,21 @@
 {"country":"ukr","name":"Kryvbas Kryvyi Rih","id":"FC_Kryvbas_Kryvyi_Rih_(1959–2013)","win":7,"draw":4,"loss":19,"for":31,"against":47},
 {"country":"ukr","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":5,"draw":9,"loss":16,"for":21,"against":44,"isRemoved":true},
 {"country":"ukr","name":"Zakarpattia Uzhhorod","id":"FC_Hoverla_Uzhhorod","win":5,"draw":4,"loss":21,"for":18,"against":44,"isRemoved":true,"isReturning":true}
+][
+{"country":"bih","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":18,"draw":7,"loss":5,"for":52,"against":22,"isChampion":true},
+{"country":"bih","name":"Široki Brijeg","id":"NK_Široki_Brijeg","win":16,"draw":7,"loss":7,"for":46,"against":27},
+{"country":"bih","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":17,"draw":2,"loss":11,"for":37,"against":29},
+{"country":"bih","name":"Zrinjski","id":"HŠK_Zrinjski_Mostar","win":15,"draw":6,"loss":9,"for":46,"against":33},
+{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":14,"draw":8,"loss":8,"for":43,"against":25},
+{"country":"bih","name":"Olimpic","id":"FK_Olimpik","win":12,"draw":8,"loss":10,"for":30,"against":34,"isReturning":true},
+{"country":"bih","name":"Velež","id":"FK_Velež_Mostar","win":13,"draw":4,"loss":13,"for":42,"against":33},
+{"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":13,"draw":3,"loss":14,"for":30,"against":34},
+{"country":"bih","name":"Travnik","id":"NK_Travnik","win":11,"draw":6,"loss":13,"for":40,"against":41},
+{"country":"bih","name":"Rudar Prijedor","id":"FK_Rudar_Prijedor","win":11,"draw":5,"loss":14,"for":27,"against":32,"isNew":true},
+{"country":"bih","name":"Leotar","id":"FK_Leotar","win":11,"draw":5,"loss":14,"for":32,"against":48},
+{"country":"bih","name":"Zvijezda","id":"NK_Zvijezda_Gradačac","win":11,"draw":4,"loss":15,"for":35,"against":47},
+{"country":"bih","name":"Čelik","id":"NK_Čelik_Zenica","win":10,"draw":5,"loss":15,"for":33,"against":36},
+{"country":"bih","name":"Slavija","id":"FK_Slavija_Sarajevo","win":10,"draw":5,"loss":15,"for":32,"against":45},
+{"country":"bih","name":"Laktaši","id":"FK_Laktaši","win":10,"draw":4,"loss":16,"for":37,"against":46,"isRemoved":true},
+{"country":"bih","name":"Modriča","id":"FK_Alfa_Modriča","win":7,"draw":3,"loss":20,"for":27,"against":57,"isRemoved":true}
 ]

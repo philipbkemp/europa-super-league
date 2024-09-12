@@ -650,4 +650,21 @@
 {"country":"ukr","name":"Illichivets Mariupol","id":"FC_Mariupol","win":7,"draw":5,"loss":18,"for":31,"against":54,"isReturning":true},
 {"country":"ukr","name":"FC Lviv","id":"FC_Lviv","win":6,"draw":8,"loss":16,"for":24,"against":39,"isRemoved":true,"isNew":true},
 {"country":"ukr","name":"FC Kharkiv","id":"FC_Kharkiv","win":2,"draw":9,"loss":19,"for":19,"against":50,"isRemoved":true,"deduct":-3}
+][
+{"country":"bih","name":"Zrinjski","id":"HŠK_Zrinjski_Mostar","win":18,"draw":3,"loss":9,"for":50,"against":37,"isChampion":true},
+{"country":"bih","name":"Slavija","id":"FK_Slavija_Sarajevo","win":15,"draw":7,"loss":8,"for":36,"against":28},
+{"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":15,"draw":5,"loss":10,"for":32,"against":26},
+{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":14,"draw":7,"loss":9,"for":43,"against":30},
+{"country":"bih","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":15,"draw":4,"loss":11,"for":45,"against":26,"isReturning":true},
+{"country":"bih","name":"Široki Brijeg","id":"NK_Široki_Brijeg","win":14,"draw":3,"loss":13,"for":47,"against":38},
+{"country":"bih","name":"Zvijezda","id":"NK_Zvijezda_Gradačac","win":11,"draw":10,"loss":9,"for":43,"against":38,"isNew":true},
+{"country":"bih","name":"Laktaši","id":"FK_Laktaši","win":12,"draw":6,"loss":12,"for":43,"against":39},
+{"country":"bih","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":13,"draw":3,"loss":14,"for":30,"against":35},
+{"country":"bih","name":"Čelik","id":"NK_Čelik_Zenica","win":12,"draw":5,"loss":13,"for":29,"against":32},
+{"country":"bih","name":"Leotar","id":"FK_Leotar","win":12,"draw":3,"loss":15,"for":32,"against":42},
+{"country":"bih","name":"Velež","id":"FK_Velež_Mostar","win":11,"draw":4,"loss":15,"for":42,"against":45},
+{"country":"bih","name":"Modriča","id":"FK_Alfa_Modriča","win":10,"draw":7,"loss":13,"for":37,"against":41},
+{"country":"bih","name":"Travnik","id":"NK_Travnik","win":11,"draw":4,"loss":15,"for":38,"against":53},
+{"country":"bih","name":"Orašje","id":"HNK_Orašje","win":9,"draw":7,"loss":14,"for":33,"against":43,"isRemoved":true},
+{"country":"bih","name":"Posušje","id":"HŠK_Posušje","win":5,"draw":8,"loss":17,"for":31,"against":58,"isRemoved":true}
 ]

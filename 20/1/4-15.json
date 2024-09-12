@@ -637,4 +637,21 @@
 {"country":"ukr","name":"Hoverla Uzhhorod","id":"FC_Hoverla_Uzhhorod","win":3,"draw":10,"loss":13,"for":22,"against":47},
 {"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":5,"draw":9,"loss":12,"for":22,"against":31,"deduct":-9},
 {"country":"ukr","name":"Illichivets Mariupol","id":"FC_Mariupol","win":3,"draw":5,"loss":18,"for":25,"against":55,"isRemoved":true}
+][
+{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":19,"draw":9,"loss":2,"for":55,"against":17,"isChampion":true},
+{"country":"bih","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":18,"draw":9,"loss":3,"for":52,"against":22},
+{"country":"bih","name":"Zrinjski","id":"HŠK_Zrinjski_Mostar","win":16,"draw":11,"loss":3,"for":41,"against":13},
+{"country":"bih","name":"Široki Brijeg","id":"NK_Široki_Brijeg","win":15,"draw":11,"loss":4,"for":46,"against":23},
+{"country":"bih","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":14,"draw":7,"loss":9,"for":26,"against":26},
+{"country":"bih","name":"Olimpic","id":"FK_Olimpik","win":13,"draw":7,"loss":10,"for":39,"against":34},
+{"country":"bih","name":"Čelik","id":"NK_Čelik_Zenica","win":10,"draw":11,"loss":9,"for":34,"against":35},
+{"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":11,"draw":7,"loss":12,"for":33,"against":28,"isReturning":true},
+{"country":"bih","name":"Velež","id":"FK_Velež_Mostar","win":10,"draw":8,"loss":12,"for":32,"against":33},
+{"country":"bih","name":"Radnik","id":"FK_Radnik_Bijeljina","win":7,"draw":10,"loss":13,"for":29,"against":37},
+{"country":"bih","name":"Travnik","id":"NK_Travnik","win":8,"draw":7,"loss":15,"for":22,"against":42},
+{"country":"bih","name":"Slavija","id":"FK_Slavija_Sarajevo","win":7,"draw":7,"loss":16,"for":30,"against":44},
+{"country":"bih","name":"Drina Zvornik","id":"FK_Drina_Zvornik","win":6,"draw":9,"loss":15,"for":26,"against":40,"isReturning":true},
+{"country":"bih","name":"Vitez","id":"NK_Vitez","win":7,"draw":5,"loss":18,"for":21,"against":43},
+{"country":"bih","name":"Mladost Velika Obarska","id":"FK_Mladost_Velika_Obarska","win":6,"draw":8,"loss":16,"for":18,"against":44,"isRemoved":true},
+{"country":"bih","name":"Zvijezda","id":"NK_Zvijezda_Gradačac","win":5,"draw":10,"loss":15,"for":30,"against":53,"isRemoved":true}
 ]

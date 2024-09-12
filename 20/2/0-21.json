@@ -651,4 +651,17 @@
 {"country":"ukr","name":"Inhulets Petrove","id":"FC_Inhulets_Petrove","win":5,"draw":11,"loss":10,"for":24,"against":39,"isNew":true},
 {"country":"ukr","name":"Olimpik Donetsk","id":"FC_Olimpik_Donetsk","win":6,"draw":4,"loss":16,"for":28,"against":48,"isRemoved":true},
 {"country":"ukr","name":"FC Mynai","id":"FC_Mynai","win":4,"draw":6,"loss":16,"for":16,"against":47,"isNew":true}
+][
+{"country":"bih","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":21,"draw":4,"loss":8,"for":59,"against":31,"isChampion":true},
+{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":18,"draw":11,"loss":4,"for":53,"against":24},
+{"country":"bih","name":"Velež Mostar","id":"FK_Velež_Mostar","win":16,"draw":13,"loss":4,"for":50,"against":30},
+{"country":"bih","name":"Široki Brijeg","id":"NK_Široki_Brijeg","win":17,"draw":8,"loss":8,"for":47,"against":30},
+{"country":"bih","name":"Zrinjski Mostar","id":"HŠK_Zrinjski_Mostar","win":18,"draw":5,"loss":10,"for":50,"against":30},
+{"country":"bih","name":"Tuzla City","id":"FK_Tuzla_City","win":13,"draw":9,"loss":11,"for":36,"against":35},
+{"country":"bih","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":12,"draw":8,"loss":13,"for":50,"against":43},
+{"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":10,"draw":7,"loss":16,"for":31,"against":41},
+{"country":"bih","name":"Mladost Doboj Kakanj","id":"FK_Mladost_Doboj_Kakanj","win":8,"draw":6,"loss":19,"for":26,"against":57,"isRemoved":true},
+{"country":"bih","name":"Krupa","id":"FK_Krupa","win":7,"draw":7,"loss":19,"for":26,"against":46,"isRemoved":true,"isReturning":true},
+{"country":"bih","name":"Radnik Bijeljina","id":"FK_Radnik_Bijeljina","win":5,"draw":10,"loss":18,"for":26,"against":51},
+{"country":"bih","name":"Olimpik","id":"FK_Olimpik","win":7,"draw":4,"loss":22,"for":22,"against":58,"isRemoved":true,"isReturning":true}
 ]

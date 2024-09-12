@@ -610,4 +610,17 @@
 {"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":9,"draw":9,"loss":14,"for":35,"against":41,"deduct":-6},
 {"country":"ukr","name":"FC Dnipro","id":"FC_Dnipro","win":8,"draw":13,"loss":11,"for":31,"against":40,"deduct":-24,"isRemoved":true},
 {"country":"ukr","name":"Volyn Lutsk","id":"FC_Volyn_Lutsk","win":4,"draw":4,"loss":24,"for":17,"against":51,"isRemoved":true,"deduct":-6}
+][
+{"country":"bih","name":"Zrinjski Mostar","id":"HŠK_Zrinjski_Mostar","win":18,"draw":10,"loss":4,"for":54,"against":25,"isChampion":true},
+{"country":"bih","name":"Željezničar Sarajevo","id":"FK_Željezničar_Sarajevo","win":18,"draw":9,"loss":5,"for":41,"against":22},
+{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":16,"draw":11,"loss":5,"for":41,"against":22},
+{"country":"bih","name":"Radnik Bijeljina","id":"FK_Radnik_Bijeljina","win":10,"draw":10,"loss":12,"for":37,"against":39},
+{"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":11,"draw":10,"loss":11,"for":39,"against":42},
+{"country":"bih","name":"Krupa","id":"FK_Krupa","win":12,"draw":10,"loss":10,"for":40,"against":34,"isNew":true},
+{"country":"bih","name":"Široki Brijeg","id":"NK_Široki_Brijeg","win":9,"draw":10,"loss":13,"for":34,"against":35},
+{"country":"bih","name":"Mladost Doboj Kakanj","id":"FK_Mladost_Doboj_Kakanj","win":8,"draw":13,"loss":11,"for":42,"against":45},
+{"country":"bih","name":"Vitez","id":"NK_Vitez","win":8,"draw":11,"loss":13,"for":20,"against":30},
+{"country":"bih","name":"Metalleghe-BSI","id":"NK_Metalleghe-BSI","win":7,"draw":11,"loss":14,"for":25,"against":34,"isRemoved":true,"isNew":true},
+{"country":"bih","name":"Čelik Zenica","id":"NK_Čelik_Zenica","win":8,"draw":11,"loss":13,"for":28,"against":39},
+{"country":"bih","name":"Olimpik","id":"FK_Olimpik","win":5,"draw":8,"loss":19,"for":28,"against":62,"isRemoved":true}
 ]

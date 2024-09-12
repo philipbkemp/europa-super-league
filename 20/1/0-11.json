@@ -649,4 +649,21 @@
 {"country":"ukr","name":"Illichivets Mariupol","id":"FC_Mariupol","win":7,"draw":8,"loss":15,"for":45,"against":67},
 {"country":"ukr","name":"Sevastopol","id":"FC_Sevastopol","win":7,"draw":6,"loss":17,"for":26,"against":48,"isRemoved":true,"isNew":true},
 {"country":"ukr","name":"Metalurh Zaporizhzhia","id":"FC_Metalurh_Zaporizhzhia","win":6,"draw":6,"loss":18,"for":18,"against":40,"isRemoved":true}
+][
+{"country":"bih","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":19,"draw":7,"loss":4,"for":37,"against":15,"isChampion":true},
+{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":17,"draw":6,"loss":7,"for":51,"against":26},
+{"country":"bih","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":17,"draw":4,"loss":9,"for":50,"against":25},
+{"country":"bih","name":"Široki Brijeg","id":"NK_Široki_Brijeg","win":16,"draw":2,"loss":12,"for":59,"against":45},
+{"country":"bih","name":"Olimpic","id":"FK_Olimpik","win":14,"draw":6,"loss":10,"for":35,"against":33},
+{"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":14,"draw":4,"loss":12,"for":28,"against":29},
+{"country":"bih","name":"Zrinjski","id":"HŠK_Zrinjski_Mostar","win":13,"draw":3,"loss":14,"for":41,"against":39},
+{"country":"bih","name":"Zvijezda","id":"NK_Zvijezda_Gradačac","win":11,"draw":9,"loss":10,"for":40,"against":38},
+{"country":"bih","name":"Rudar Prijedor","id":"FK_Rudar_Prijedor","win":11,"draw":8,"loss":11,"for":37,"against":41},
+{"country":"bih","name":"Čelik","id":"NK_Čelik_Zenica","win":11,"draw":7,"loss":12,"for":30,"against":30},
+{"country":"bih","name":"Slavija","id":"FK_Slavija_Sarajevo","win":11,"draw":5,"loss":14,"for":44,"against":46},
+{"country":"bih","name":"Travnik","id":"NK_Travnik","win":11,"draw":4,"loss":15,"for":44,"against":43},
+{"country":"bih","name":"Velež","id":"FK_Velež_Mostar","win":11,"draw":3,"loss":16,"for":31,"against":43},
+{"country":"bih","name":"Leotar","id":"FK_Leotar","win":10,"draw":5,"loss":15,"for":29,"against":49},
+{"country":"bih","name":"Budućnost","id":"FK_Budućnost_Banovići","win":6,"draw":7,"loss":17,"for":25,"against":44,"isRemoved":true,"isReturning":true},
+{"country":"bih","name":"Drina Zvornik","id":"FK_Drina_Zvornik","win":7,"draw":2,"loss":21,"for":18,"against":53,"isRemoved":true,"isNew":true}
 ]

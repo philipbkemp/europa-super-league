@@ -635,4 +635,21 @@
 {"country":"ukr","name":"Vorskla-Naftohaz Poltava","id":"FC_Vorskla_Poltava","win":6,"draw":9,"loss":15,"for":26,"against":49},
 {"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":6,"draw":8,"loss":16,"for":22,"against":39,"isRemoved":true},
 {"country":"ukr","name":"Zirka Kirovohrad","id":"FC_Zirka_Kropyvnytskyi","win":3,"draw":8,"loss":19,"for":16,"against":43,"isRemoved":true,"isReturning":true}
+][
+{"country":"bih","name":"Široki Brijeg","id":"NK_Široki_Brijeg","win":19,"draw":4,"loss":7,"for":58,"against":32,"isChampion":true},
+{"country":"bih","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":18,"draw":5,"loss":7,"for":67,"against":35},
+{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":17,"draw":5,"loss":8,"for":58,"against":25},
+{"country":"bih","name":"Leotar","id":"FK_Leotar","win":17,"draw":5,"loss":8,"for":46,"against":23},
+{"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":11,"draw":9,"loss":10,"for":38,"against":36},
+{"country":"bih","name":"Modriča","id":"FK_Alfa_Modriča","win":11,"draw":7,"loss":12,"for":43,"against":43,"isNew":true},
+{"country":"bih","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":11,"draw":6,"loss":13,"for":40,"against":42},
+{"country":"bih","name":"Orašje","id":"HNK_Orašje","win":12,"draw":3,"loss":15,"for":40,"against":51},
+{"country":"bih","name":"Rudar Ugljevik","id":"FK_Rudar_Ugljevik","win":11,"draw":6,"loss":13,"for":31,"against":43},
+{"country":"bih","name":"Posušje","id":"HŠK_Posušje","win":11,"draw":6,"loss":13,"for":35,"against":48},
+{"country":"bih","name":"Zrinjski","id":"HŠK_Zrinjski_Mostar","win":11,"draw":5,"loss":14,"for":40,"against":47},
+{"country":"bih","name":"Čelik","id":"NK_Čelik_Zenica","win":9,"draw":10,"loss":11,"for":42,"against":43},
+{"country":"bih","name":"Žepče","id":"NK_Žepče","win":10,"draw":7,"loss":13,"for":26,"against":38},
+{"country":"bih","name":"Travnik","id":"NK_Travnik","win":10,"draw":7,"loss":13,"for":30,"against":43,"isReturning":true},
+{"country":"bih","name":"Glasinac","id":"OFK_Glasinac_2011","win":9,"draw":6,"loss":15,"for":34,"against":49,"isRemoved":true},
+{"country":"bih","name":"Brotnjo","id":"HNK_Brotnjo","win":4,"draw":7,"loss":19,"for":29,"against":59,"isRemoved":true}
 ]

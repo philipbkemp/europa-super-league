@@ -672,4 +672,21 @@
 {"country":"ukr","name":"Metalurh Donetsk","id":"FC_Metalurh_Donetsk","win":7,"draw":7,"loss":16,"for":27,"against":51},
 {"country":"ukr","name":"Prykarpattya Ivano-Frankivsk","id":"FC_Spartak_Ivano-Frankivsk","win":6,"draw":6,"loss":18,"for":24,"against":59},
 {"country":"ukr","name":"SC Mykolaiv","id":"MFC_Mykolaiv","win":2,"draw":6,"loss":22,"for":18,"against":67,"isRemoved":true,"isReturning":true}
+][
+{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":22,"draw":2,"loss":6,"for":55,"against":21,"isChampion":true,"isReturning":true},
+{"country":"bih","name":"Bosna","id":"NK_Bosna_Visoko","win":18,"draw":2,"loss":10,"for":50,"against":21,"isReturning":true},
+{"country":"bih","name":"Rudar Kakanj","id":"FK_Rudar_Kakanj","win":15,"draw":7,"loss":8,"for":39,"against":26,"isReturning":true},
+{"country":"bih","name":"Velež","id":"FK_Velež_Mostar","win":15,"draw":7,"loss":8,"for":46,"against":37,"isReturning":true},
+{"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":15,"draw":6,"loss":9,"for":45,"against":32,"isReturning":true},
+{"country":"bih","name":"Jedinstvo Bihać","id":"NK_Jedinstvo_Bihać","win":13,"draw":6,"loss":11,"for":37,"against":39,"isReturning":true},
+{"country":"bih","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":12,"draw":8,"loss":10,"for":43,"against":30,"isReturning":true},
+{"country":"bih","name":"Lukavac","id":"FK_Radnički_Lukavac","win":13,"draw":4,"loss":13,"for":36,"against":32,"isReturning":true},
+{"country":"bih","name":"Čelik","id":"NK_Čelik_Zenica","win":13,"draw":3,"loss":14,"for":47,"against":47,"isReturning":true},
+{"country":"bih","name":"Budućnost","id":"FK_Budućnost_Banovići","win":12,"draw":6,"loss":12,"for":23,"against":27,"isNew":true},
+{"country":"bih","name":"Drina Zvornik-Živinice","id":"FK_Drina_Zvornik-Živinice","win":8,"draw":10,"loss":12,"for":28,"against":34,"isNew":true},
+{"country":"bih","name":"Gradina Srebrenik","id":"OFK_Gradina","win":7,"draw":12,"loss":11,"for":24,"against":32,"isReturning":true},
+{"country":"bih","name":"Iskra","id":"NK_Iskra_Bugojno","win":8,"draw":8,"loss":14,"for":29,"against":39,"isReturning":true},
+{"country":"bih","name":"Zenica","id":"NK_Đerzelez","win":7,"draw":8,"loss":15,"for":27,"against":54,"isReturning":true},
+{"country":"bih","name":"Zmaj od Bosne","id":"FK_Zmaj_od_Bosne","win":7,"draw":5,"loss":18,"for":34,"against":57,"isRemoved":true,"isReturning":true},
+{"country":"bih","name":"Vrbanjuša","id":"FK_Vrbanjuša_Sarajevo","win":5,"draw":6,"loss":19,"for":22,"against":57,"isRemoved":true,"isNew":true}
 ]

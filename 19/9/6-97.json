@@ -667,4 +667,21 @@
 {"country":"ukr","name":"Torpedo Zaporizhzhia","id":"FC_Torpedo_Zaporizhzhia","win":8,"draw":5,"loss":17,"for":25,"against":56},
 {"country":"ukr","name":"Kremin Kremenchuk","id":"FC_Kremin_Kremenchuk","win":7,"draw":3,"loss":20,"for":28,"against":57,"isRemoved":true},
 {"country":"ukr","name":"Nyva Vinnytsia","id":"FC_Nyva_Vinnytsia","win":4,"draw":6,"loss":20,"for":19,"against":48,"isRemoved":true}
+][
+{"country":"bih","name":"Čelik","id":"NK_Čelik_Zenica","win":17,"draw":7,"loss":6,"for":57,"against":23,"isChampion":true,"isRemoved":true,"removedNote":"Split into a regional format for next season"},
+{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":16,"draw":8,"loss":6,"for":53,"against":21,"isRemoved":true,"removedNote":"Split into a regional format for next season"},
+{"country":"bih","name":"Bosna","id":"NK_Bosna_Visoko","win":16,"draw":6,"loss":8,"for":60,"against":29,"isNew":true,"isRemoved":true,"removedNote":"Split into a regional format for next season"},
+{"country":"bih","name":"Lukavac","id":"FK_Radnički_Lukavac","win":15,"draw":5,"loss":10,"for":43,"against":38,"isRemoved":true,"removedNote":"Split into a regional format for next season"},
+{"country":"bih","name":"Jedinstvo Bihać","id":"NK_Jedinstvo_Bihać","win":15,"draw":3,"loss":12,"for":49,"against":33,"isRemoved":true,"removedNote":"Split into a regional format for next season"},
+{"country":"bih","name":"Zenica","id":"NK_Đerzelez","win":12,"draw":11,"loss":7,"for":38,"against":29,"isRemoved":true,"removedNote":"Split into a regional format for next season"},
+{"country":"bih","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":13,"draw":5,"loss":12,"for":46,"against":41,"isRemoved":true,"removedNote":"Split into a regional format for next season"},
+{"country":"bih","name":"Rudar Kakanj","id":"FK_Rudar_Kakanj","win":13,"draw":5,"loss":12,"for":37,"against":33,"isRemoved":true,"removedNote":"Split into a regional format for next season"},
+{"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":12,"draw":7,"loss":11,"for":45,"against":33,"isRemoved":true,"removedNote":"Split into a regional format for next season"},
+{"country":"bih","name":"Velež","id":"FK_Velež_Mostar","win":13,"draw":4,"loss":13,"for":44,"against":41,"isRemoved":true,"removedNote":"Split into a regional format for next season"},
+{"country":"bih","name":"Gradina Srebrenik","id":"OFK_Gradina","win":11,"draw":8,"loss":11,"for":40,"against":44,"isRemoved":true,"removedNote":"Split into a regional format for next season"},
+{"country":"bih","name":"Zmaj od Bosne","id":"FK_Zmaj_od_Bosne","win":12,"draw":5,"loss":13,"for":29,"against":33,"isRemoved":true,"removedNote":"Split into a regional format for next season"},
+{"country":"bih","name":"Rudar Breza","id":"FK_Rudar_Breza","win":10,"draw":7,"loss":13,"for":26,"against":38,"isRemoved":true,"removedNote":"Split into a regional format for next season"},
+{"country":"bih","name":"Travnik","id":"NK_Travnik","win":10,"draw":3,"loss":17,"for":34,"against":57,"isRemoved":true,"removedNote":"Split into a regional format for next season"},
+{"country":"bih","name":"Turbina","id":"FK_Turbina_Jablanica","win":9,"draw":5,"loss":16,"for":38,"against":55,"isRemoved":true},
+{"country":"bih","name":"Radnik Hadžići","id":"FK_Radnik_Hadžići","win":1,"draw":1,"loss":28,"for":12,"against":103,"isRemoved":true,"isNew":true}
 ]
