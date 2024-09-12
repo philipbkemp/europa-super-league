@@ -1,0 +1,53 @@
+<textarea id="json-in" style="margin-bottom:10px;width:100%;height:200px;"></textarea>
+<button id="json-parse" style="margin-bottom:10px;">Parse</button>
+<button id="json-clear" style="margin-bottom:10px;opacity:0.3;">Clear</button>
+
+<textarea id="json-out" style="margin-bottom:10px;width:100%;height:500px;"></textarea>
+
+<script>
+	thisSeason = [];
+
+	newTeams = [];
+	returningTeams = ["SC_Bettembourg","Ipswich_Town_F.C.","Leicester_City_F.C.","Southampton_F.C.","K_Beerschot_VA","F.C.V._Dender_E.H."];
+
+	redirects = [["",""]
+		// bel
+		,["R.F.C._de_Li%C3%A8ge","RFC_Liège"],["R._Antwerp_F.C.","Royal_Antwerp_F.C."],["R._L%C3%A9opold_Uccle_Forestoise","Léopold_FC"],["Racing_Club_de_Bruxelles","K.F.C._Rhodienne-De_Hoek"],["Club_Brugge","Club_Brugge_KV"],["R.C.S._Vervi%C3%A9tois","R.C.S._Verviétois"],["R._Union_Saint-Gilloise","Royale_Union_Saint-Gilloise"],["Daring_Club_de_Bruxelles","R._Daring_Club_Molenbeek"],["R.E._Sport%27s_Club","Royal_Excelsior_Sports_Club"],["K.R.C._Gent-Zeehaven","K.R.C._Gent"],["Standard_Li%C3%A8ge","Standard_Liège"],["L%C3%A9opold_FC","Léopold_FC"],["Club_Brugge_K.V.","Club_Brugge_KV"],["Royal_Antwerp_FC","Royal_Antwerp_F.C."],["KV_Mechelen","K.V._Mechelen"],["K_Berchem_Sport","K._Berchem_Sport"],["CS_La_Forestoise","R.C.S._La_Forestoise"],["R.R.F.C._Montegn%C3%A9e","R.R.F.C._Montegnée"],["K.V._Turnhout","KFC_Turnhout"],["Belgica_FC_Edegem","K.V.V._Belgica_Edegem_Sport"],["R.O.C._de_Charleroi-Marchienne","R._Olympic_Charleroi_Châtelet_Farciennes"],["K.V.K._Tienen","K.V.K._Tienen-Hageland"],["K_Boom_FC","K._Boom_F.C."],["V.C._Eendracht_Aalst_2002","S.C._Eendracht_Aalst"],["R._Charleroi_S.C.","Royal_Charleroi_S.C."],["Tilleur_FC","R.F.C._Tilleur"],["Beringen_FC","K._Beringen_F.C."],["K._Sint-Truidense_V.V.","Sint-Truidense_V.V."],["K.F.C._Germinal_Beerschot","Beerschot_A.C."],["Patro_Eisden","K._Patro_Eisden_Maasmechelen"],["KFC_Diest","K.F.C._Diest"],["RFC_Li%C3%A8ge","RFC_Liège"],["R.F.C._Tilleur-Saint-Nicolas","R.F.C._Tilleur"],["Crossing_Club_Schaerbeek","K.V.V._Crossing_Elewijt"],["R.A.A._Louvi%C3%A9roise","R.A.A._Louviéroise"],["KSC_Hasselt","K.S.C._Hasselt"],["R._Jet_Wavre","Wavre_Sports_FC"],["Germinal_Ekeren","Beerschot_A.C."],["RSC_Anderlecht","R.S.C._Anderlecht"],["Antwerp_FC","Royal_Antwerp_F.C."],["AA_Gent","K.A.A._Gent"],["Lierse_SK","Lierse_S.K."],["Cercle_Brugge","Cercle_Brugge_K.S.V."],["KSV_Waregem","K.S.V._Waregem"],["KSK_Beveren","K.S.K._Beveren"],["Sporting_Charleroi","Royal_Charleroi_S.C."],["KSC_Lokeren","K.S.C._Lokeren_Oost-Vlaanderen"],["RFC_de_Li%C3%A8ge","RFC_Liège"],["KRC_Genk","K.R.C._Genk"],["KV_Kortrijk","K.V._Kortrijk"],["Eendracht_Aalst","S.C._Eendracht_Aalst"],["Y.R._K.V._Mechelen","K.V._Mechelen"],["K.S.C._Eendracht_Aalst","S.C._Eendracht_Aalst"],["SC_Eendracht_Aalst","S.C._Eendracht_Aalst"],["Beerschot_AC","Beerschot_A.C."],["FC_Brussels","R.W.D.M._Brussels_F.C."],["S.V._Zulte-Waregem","S.V._Zulte_Waregem"],["F.C._Molenbeek_Brussels_Strombeek","R.W.D.M._Brussels_F.C."],["F.C._Verbroedering_Dender_E.H.","F.C.V._Dender_E.H."],["A.F.C._Tubize","Royale_Union_Tubize-Braine"],["Waasland-Beveren","S.K._Beveren"],["Royal_Mouscron-P%C3%A9ruwelz","Royal_Excel_Mouscron"]
+		// eng
+		,["Wolverhampton_Wanderers","Wolverhampton_Wanderers_F.C."],["Leeds_United_A.F.C.","Leeds_United_F.C."],["Aston_Villa","Aston_Villa_F.C."],["Tottenham_Hotspur_F.C","Tottenham_Hotspur_F.C."]
+		// lux
+		,["Sporting_Club_Luxembourg","SC_Luxembourg"],["CS_P%C3%A9tange","CS_Pétange"],["FC_Progr%C3%A8s_Niedercorn","FC_Progrès_Niederkorn"],["FC_Progr%C3%A8s_Niederkorn","FC_Progrès_Niederkorn"],["US_Mondorf","US_Mondorf-les-Bains"],["UN_K%C3%A4erj%C3%A9ng_97","UN_Käerjéng_97"],["UN_K%C3%A4erjeng_97","UN_Käerjéng_97"],["FC_RM_Hamm_Benfica","F.C._Luxembourg_City"],["Union_05_Kayl-T%C3%A9tange","Union_05_Kayl-Tétange"],["Union_Titus_P%C3%A9tange","Union_Titus_Pétange"],["CS_Muhlenbach_Lusitanos","FC_Blue_Boys_Muhlenbach"]
+	];
+	redirectMe = {};
+	redirects.forEach(r=>{
+		redirectMe[r[0]] = r[1];
+	});
+
+	seasonDone = [];
+
+	document.getElementById("json-clear").addEventListener("click",function(){
+		thisSeason = [];
+		document.getElementById("json-out").value = JSON.stringify(thisSeason).replaceAll("{","\n{").replaceAll("]","\n]");
+	});
+
+	document.getElementById("json-parse").addEventListener("click",function(){
+		console.clear();
+		theData = JSON.parse(document.getElementById("json-in").value);
+		theData.forEach(team=>{
+			if ( newTeams.includes(team.id) ) {
+				team.isNew = true;
+			}
+			if ( returningTeams.includes(team.id) ) {
+				team.isReturning = true;
+			}
+			if ( typeof redirectMe[team.id] !== "undefined" ) {
+				team.id = redirectMe[team.id];
+			}
+			if ( ! seasonDone.includes(team.country) ) {
+				team.isCurrentSeason = true;
+			}
+			thisSeason.push(team);
+		});
+		document.getElementById("json-out").value = JSON.stringify(thisSeason).replaceAll("{","\n{").replaceAll("]","\n]");
+	});
+</script>
