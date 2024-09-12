@@ -611,4 +611,19 @@
 {"country":"svn","name":"Koper","id":"FC_Koper","win":11,"draw":7,"loss":18,"for":40,"against":54},
 {"country":"svn","name":"Zavrč","id":"NK_Zavrč","win":9,"draw":13,"loss":14,"for":32,"against":41,"isRemoved":true},
 {"country":"svn","name":"Krka","id":"NK_Krka","win":8,"draw":10,"loss":18,"for":30,"against":56,"isRemoved":true}
+][
+{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":23,"draw":1,"loss":2,"for":54,"against":11,"isChampion":true},
+{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":20,"draw":3,"loss":3,"for":76,"against":25},
+{"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":16,"draw":5,"loss":5,"for":50,"against":22},
+{"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":14,"draw":6,"loss":6,"for":51,"against":26},
+{"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":11,"draw":9,"loss":6,"for":32,"against":26},
+{"country":"ukr","name":"FC Oleksandriya","id":"FC_Oleksandriya","win":10,"draw":8,"loss":8,"for":30,"against":29,"isReturning":true},
+{"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":8,"draw":6,"loss":12,"for":26,"against":37},
+{"country":"ukr","name":"Stal Dniprodzerzhynsk","id":"FC_Stal_Kamianske","win":7,"draw":8,"loss":11,"for":22,"against":31,"isNew":true},
+{"country":"ukr","name":"Olimpik Donetsk","id":"FC_Olimpik_Donetsk","win":6,"draw":7,"loss":13,"for":22,"against":35},
+{"country":"ukr","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":5,"draw":9,"loss":12,"for":19,"against":46,"isRemoved":true},
+{"country":"ukr","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":4,"draw":10,"loss":12,"for":20,"against":39},
+{"country":"ukr","name":"Volyn Lutsk","id":"FC_Volyn_Lutsk","win":10,"draw":8,"loss":8,"for":36,"against":36,"deduct":-18},
+{"country":"ukr","name":"Hoverla Uzhhorod","id":"FC_Hoverla_Uzhhorod","win":3,"draw":7,"loss":16,"for":13,"against":45,"isRemoved":true,"deduct":-9},
+{"country":"ukr","name":"Metalurh Zaporizhya","id":"FC_Metalurh_Zaporizhzhia","win":0,"draw":3,"loss":23,"for":7,"against":50,"isRemoved":true}
 ]

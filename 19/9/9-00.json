@@ -636,4 +636,21 @@
 {"country":"svn","name":"Mura","id":"NK_Mura","win":10,"draw":6,"loss":17,"for":47,"against":53},
 {"country":"svn","name":"Pohorje","id":"NK_Pohorje","win":4,"draw":6,"loss":23,"for":26,"against":73,"isRemoved":true,"isNew":true},
 {"country":"svn","name":"Beltinci","id":"NK_Beltinci","win":3,"draw":6,"loss":24,"for":21,"against":88,"isRemoved":true}
+][
+{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":27,"draw":3,"loss":0,"for":85,"against":18,"isChampion":true},
+{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":21,"draw":3,"loss":6,"for":60,"against":16},
+{"country":"ukr","name":"Kryvbas Kryvyi Rih","id":"FC_Kryvbas_Kryvyi_Rih_(1959–2013)","win":18,"draw":6,"loss":6,"for":54,"against":30},
+{"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":14,"draw":7,"loss":9,"for":50,"against":34},
+{"country":"ukr","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":12,"draw":8,"loss":10,"for":41,"against":39},
+{"country":"ukr","name":"Metalurh Zaporizhzhia","id":"FC_Metalurh_Zaporizhzhia","win":12,"draw":8,"loss":10,"for":43,"against":35},
+{"country":"ukr","name":"Metalurh Donetsk","id":"FC_Metalurh_Donetsk","win":11,"draw":10,"loss":9,"for":39,"against":35},
+{"country":"ukr","name":"Metalurh Mariupol","id":"FC_Mariupol","win":13,"draw":3,"loss":14,"for":49,"against":48},
+{"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":12,"draw":4,"loss":14,"for":39,"against":38},
+{"country":"ukr","name":"CSKA Kyiv","id":"FC_Arsenal_Kyiv","win":9,"draw":8,"loss":13,"for":31,"against":36},
+{"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":8,"draw":9,"loss":13,"for":26,"against":52},
+{"country":"ukr","name":"Nyva Ternopil","id":"FC_Nyva_Ternopil","win":7,"draw":10,"loss":13,"for":40,"against":57},
+{"country":"ukr","name":"Tavriya Simferopol","id":"SC_Tavriya_Simferopol","win":7,"draw":8,"loss":15,"for":32,"against":51},
+{"country":"ukr","name":"Prykarpattya Ivano-Frankivsk","id":"FC_Spartak_Ivano-Frankivsk","win":7,"draw":8,"loss":15,"for":27,"against":47,"isRemoved":true},
+{"country":"ukr","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":6,"draw":8,"loss":16,"for":20,"against":50,"isRemoved":true,"isReturning":true},
+{"country":"ukr","name":"Zirka Kirovohrad","id":"FC_Zirka_Kropyvnytskyi","win":0,"draw":9,"loss":21,"for":16,"against":66,"isRemoved":true}
 ]

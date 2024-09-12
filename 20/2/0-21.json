@@ -636,4 +636,19 @@
 {"country":"svn","name":"Aluminij","id":"NK_Aluminij","win":10,"draw":13,"loss":13,"for":31,"against":41},
 {"country":"svn","name":"Koper","id":"FC_Koper","win":11,"draw":9,"loss":16,"for":41,"against":56,"isReturning":true},
 {"country":"svn","name":"Gorica","id":"ND_Gorica","win":7,"draw":8,"loss":21,"for":24,"against":58,"isRemoved":true,"isReturning":true}
+][
+{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":20,"draw":5,"loss":1,"for":59,"against":15,"isChampion":true},
+{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":16,"draw":6,"loss":4,"for":54,"against":19},
+{"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":15,"draw":5,"loss":6,"for":44,"against":22},
+{"country":"ukr","name":"Kolos Kovalivka","id":"FC_Kolos_Kovalivka","win":10,"draw":11,"loss":5,"for":36,"against":26},
+{"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":11,"draw":8,"loss":7,"for":37,"against":30},
+{"country":"ukr","name":"Desna Chernihiv","id":"FC_Desna_Chernihiv","win":10,"draw":8,"loss":8,"for":38,"against":32},
+{"country":"ukr","name":"SC Dnipro-1","id":"SC_Dnipro-1","win":8,"draw":6,"loss":12,"for":36,"against":38},
+{"country":"ukr","name":"FC Lviv","id":"FC_Lviv","win":8,"draw":5,"loss":13,"for":25,"against":51},
+{"country":"ukr","name":"FC Oleksandriya","id":"FC_Oleksandriya","win":8,"draw":5,"loss":13,"for":33,"against":37},
+{"country":"ukr","name":"Rukh Lviv","id":"FC_Rukh_Lviv","win":6,"draw":10,"loss":10,"for":27,"against":39,"isNew":true},
+{"country":"ukr","name":"FC Mariupol","id":"FC_Mariupol","win":6,"draw":8,"loss":12,"for":27,"against":41},
+{"country":"ukr","name":"Inhulets Petrove","id":"FC_Inhulets_Petrove","win":5,"draw":11,"loss":10,"for":24,"against":39,"isNew":true},
+{"country":"ukr","name":"Olimpik Donetsk","id":"FC_Olimpik_Donetsk","win":6,"draw":4,"loss":16,"for":28,"against":48,"isRemoved":true},
+{"country":"ukr","name":"FC Mynai","id":"FC_Mynai","win":4,"draw":6,"loss":16,"for":16,"against":47,"isNew":true}
 ]

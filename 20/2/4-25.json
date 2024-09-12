@@ -621,4 +621,21 @@
 {"country":"svn","name":"Nafta 1903","id":"NK_Nafta_1903","win":2,"draw":0,"loss":5,"for":7,"against":14,"isCurrentSeason":true,"isNew":true},
 {"country":"svn","name":"Radomlje","id":"NK_Radomlje","win":1,"draw":2,"loss":4,"for":6,"against":10,"isCurrentSeason":true},
 {"country":"svn","name":"Domžale","id":"NK_Domžale","win":0,"draw":1,"loss":6,"for":5,"against":17,"isCurrentSeason":true}
+][
+{"country":"ukr","name":"Oleksandriya","id":"FC_Oleksandriya","win":4,"draw":0,"loss":0,"for":10,"against":5,"isCurrentSeason":true},
+{"country":"ukr","name":"Polissya Zhytomyr","id":"FC_Polissya_Zhytomyr","win":3,"draw":1,"loss":0,"for":10,"against":2,"isCurrentSeason":true},
+{"country":"ukr","name":"Rukh Lviv","id":"FC_Rukh_Lviv","win":3,"draw":0,"loss":1,"for":13,"against":3,"isCurrentSeason":true},
+{"country":"ukr","name":"LNZ Cherkasy","id":"FC_LNZ_Cherkasy","win":3,"draw":0,"loss":2,"for":6,"against":5,"isCurrentSeason":true},
+{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":3,"draw":0,"loss":0,"for":6,"against":2,"isCurrentSeason":true},
+{"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":3,"draw":0,"loss":2,"for":6,"against":6,"isCurrentSeason":true},
+{"country":"ukr","name":"Kryvbas Kryvyi Rih","id":"FC_Kryvbas_Kryvyi_Rih_(2020)","win":2,"draw":1,"loss":1,"for":4,"against":4,"isCurrentSeason":true},
+{"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":2,"draw":1,"loss":1,"for":6,"against":6,"isCurrentSeason":true},
+{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":2,"draw":0,"loss":2,"for":9,"against":5,"isCurrentSeason":true},
+{"country":"ukr","name":"Livyi Bereh Kyiv","id":"FC_Livyi_Bereh_Kyiv","win":2,"draw":0,"loss":3,"for":4,"against":6,"isCurrentSeason":true,"isNew":true},
+{"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":1,"draw":2,"loss":2,"for":6,"against":6,"isCurrentSeason":true,"isReturning":true},
+{"country":"ukr","name":"Veres Rivne","id":"NK_Veres_Rivne","win":1,"draw":1,"loss":3,"for":3,"against":7,"isCurrentSeason":true},
+{"country":"ukr","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":1,"draw":0,"loss":4,"for":2,"against":7,"isCurrentSeason":true},
+{"country":"ukr","name":"Inhulets Petrove","id":"FC_Inhulets_Petrove","win":0,"draw":3,"loss":2,"for":3,"against":9,"isCurrentSeason":true,"isReturning":true},
+{"country":"ukr","name":"Kolos Kovalivka","id":"FC_Kolos_Kovalivka","win":0,"draw":2,"loss":3,"for":3,"against":6,"isCurrentSeason":true},
+{"country":"ukr","name":"Obolon Kyiv","id":"FC_Obolon_Kyiv","win":0,"draw":1,"loss":4,"for":2,"against":14,"isCurrentSeason":true}
 ]

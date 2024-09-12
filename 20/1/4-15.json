@@ -622,4 +622,19 @@
 {"country":"svn","name":"Koper","id":"FC_Koper","win":12,"draw":4,"loss":20,"for":35,"against":58},
 {"country":"svn","name":"Gorica","id":"ND_Gorica","win":10,"draw":7,"loss":19,"for":40,"against":46},
 {"country":"svn","name":"Radomlje","id":"NK_Radomlje","win":4,"draw":4,"loss":28,"for":21,"against":85,"isRemoved":true,"isNew":true}
+][
+{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":20,"draw":6,"loss":0,"for":65,"against":12,"isChampion":true},
+{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":17,"draw":5,"loss":4,"for":71,"against":21},
+{"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":16,"draw":6,"loss":4,"for":47,"against":17},
+{"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":13,"draw":6,"loss":7,"for":40,"against":31},
+{"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":11,"draw":9,"loss":6,"for":35,"against":22},
+{"country":"ukr","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":8,"draw":11,"loss":6,"for":34,"against":32},
+{"country":"ukr","name":"Metalurh Zaporizhya","id":"FC_Metalurh_Zaporizhzhia","win":6,"draw":8,"loss":12,"for":20,"against":40},
+{"country":"ukr","name":"Olimpik Donetsk","id":"FC_Olimpik_Donetsk","win":7,"draw":5,"loss":14,"for":24,"against":64,"isNew":true},
+{"country":"ukr","name":"Volyn Lutsk","id":"FC_Volyn_Lutsk","win":9,"draw":7,"loss":10,"for":38,"against":44,"deduct":-9},
+{"country":"ukr","name":"Metalurh Donetsk","id":"FC_Metalurh_Donetsk","win":6,"draw":10,"loss":10,"for":27,"against":38,"isRemoved":true,"deduct":-6},
+{"country":"ukr","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":3,"draw":11,"loss":11,"for":15,"against":31},
+{"country":"ukr","name":"Hoverla Uzhhorod","id":"FC_Hoverla_Uzhhorod","win":3,"draw":10,"loss":13,"for":22,"against":47},
+{"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":5,"draw":9,"loss":12,"for":22,"against":31,"deduct":-9},
+{"country":"ukr","name":"Illichivets Mariupol","id":"FC_Mariupol","win":3,"draw":5,"loss":18,"for":25,"against":55,"isRemoved":true}
 ]

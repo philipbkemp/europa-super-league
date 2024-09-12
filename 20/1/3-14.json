@@ -622,4 +622,21 @@
 {"country":"svn","name":"Celje","id":"NK_Celje","win":10,"draw":7,"loss":19,"for":30,"against":58},
 {"country":"svn","name":"Krka","id":"NK_Krka","win":8,"draw":7,"loss":21,"for":31,"against":64,"isReturning":true},
 {"country":"svn","name":"Triglav Kranj","id":"NK_Triglav_Kranj","win":6,"draw":8,"loss":22,"for":34,"against":74,"isRemoved":true}
+][
+{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":21,"draw":2,"loss":5,"for":62,"against":23,"isChampion":true},
+{"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":18,"draw":5,"loss":5,"for":56,"against":28},
+{"country":"ukr","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":16,"draw":9,"loss":3,"for":54,"against":29},
+{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":16,"draw":5,"loss":7,"for":55,"against":33},
+{"country":"ukr","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":12,"draw":10,"loss":6,"for":30,"against":22},
+{"country":"ukr","name":"Metalurh Donetsk","id":"FC_Metalurh_Donetsk","win":12,"draw":7,"loss":9,"for":45,"against":42},
+{"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":11,"draw":9,"loss":8,"for":35,"against":30},
+{"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":10,"draw":10,"loss":8,"for":36,"against":38},
+{"country":"ukr","name":"Sevastopol","id":"FC_Sevastopol","win":10,"draw":5,"loss":13,"for":32,"against":43,"isRemoved":true,"removedNote":"Expelled from the league after Russian annexation of Crimea","isReturning":true},
+{"country":"ukr","name":"Illichivets Mariupol","id":"FC_Mariupol","win":10,"draw":4,"loss":14,"for":27,"against":33},
+{"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":7,"draw":11,"loss":10,"for":33,"against":39},
+{"country":"ukr","name":"Hoverla Uzhhorod","id":"FC_Hoverla_Uzhhorod","win":7,"draw":5,"loss":16,"for":26,"against":39},
+{"country":"ukr","name":"Volyn Lutsk","id":"FC_Volyn_Lutsk","win":7,"draw":6,"loss":15,"for":25,"against":51,"deduct":-3,"deductReason":"Breach of financial rules"},
+{"country":"ukr","name":"Metalurh Zaporizhzhia","id":"FC_Metalurh_Zaporizhzhia","win":2,"draw":6,"loss":20,"for":19,"against":54},
+{"country":"ukr","name":"Tavriya Simferopol","id":"SC_Tavriya_Simferopol","win":2,"draw":4,"loss":22,"for":15,"against":46,"isRemoved":true,"removedNote":"Expelled from the league after Russian annexation of Crimea"},
+{"country":"ukr","name":"Arsenal Kyiv","id":"FC_Arsenal_Kyiv","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Entered administration and did not compete during the season"}
 ]

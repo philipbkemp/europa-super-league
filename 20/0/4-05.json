@@ -624,4 +624,21 @@
 {"country":"svn","name":"Bela Krajina","id":"NK_Bela_Krajina","win":9,"draw":10,"loss":13,"for":31,"against":44,"isNew":true},
 {"country":"svn","name":"Koper","id":"FC_Koper","win":9,"draw":9,"loss":14,"for":38,"against":41},
 {"country":"svn","name":"Zagorje","id":"NK_Zagorje","win":2,"draw":8,"loss":22,"for":18,"against":62,"isRemoved":true,"isReturning":true}
+][
+{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":26,"draw":2,"loss":2,"for":63,"against":19,"isChampion":true},
+{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":23,"draw":4,"loss":3,"for":58,"against":14},
+{"country":"ukr","name":"Metalurh Donetsk","id":"FC_Metalurh_Donetsk","win":14,"draw":7,"loss":9,"for":38,"against":35},
+{"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":13,"draw":9,"loss":8,"for":38,"against":34},
+{"country":"ukr","name":"Illichivets Mariupol","id":"FC_Mariupol","win":12,"draw":8,"loss":10,"for":38,"against":34},
+{"country":"ukr","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":12,"draw":6,"loss":12,"for":29,"against":29},
+{"country":"ukr","name":"Tavriya Simferopol","id":"SC_Tavriya_Simferopol","win":11,"draw":9,"loss":10,"for":34,"against":28},
+{"country":"ukr","name":"Volyn Lutsk","id":"FC_Volyn_Lutsk","win":11,"draw":7,"loss":12,"for":35,"against":37},
+{"country":"ukr","name":"Arsenal Kyiv","id":"FC_Arsenal_Kyiv","win":9,"draw":10,"loss":11,"for":30,"against":33},
+{"country":"ukr","name":"Metalurh Zaporizhzhia","id":"FC_Metalurh_Zaporizhzhia","win":8,"draw":11,"loss":11,"for":25,"against":32},
+{"country":"ukr","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":9,"draw":7,"loss":14,"for":25,"against":37,"isReturning":true},
+{"country":"ukr","name":"Zakarpattia Uzhhorod","id":"FC_Hoverla_Uzhhorod","win":7,"draw":10,"loss":13,"for":21,"against":30,"isReturning":true},
+{"country":"ukr","name":"Kryvbas Kryvyi Rih","id":"FC_Kryvbas_Kryvyi_Rih_(1959–2013)","win":7,"draw":10,"loss":13,"for":24,"against":38},
+{"country":"ukr","name":"Vorskla-Naftohaz Poltava","id":"FC_Vorskla_Poltava","win":8,"draw":6,"loss":16,"for":18,"against":35},
+{"country":"ukr","name":"Obolon Kyiv","id":"FC_Obolon_Kyiv","win":4,"draw":9,"loss":17,"for":18,"against":43,"isRemoved":true},
+{"country":"ukr","name":"Borysfen Boryspil","id":"FC_Borysfen_Boryspil","win":3,"draw":11,"loss":16,"for":15,"against":31,"isRemoved":true}
 ]

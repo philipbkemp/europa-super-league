@@ -608,4 +608,17 @@
 {"country":"svn","name":"Domžale","id":"NK_Domžale","win":12,"draw":7,"loss":17,"for":52,"against":64},
 {"country":"svn","name":"Triglav Kranj","id":"NK_Triglav_Kranj","win":9,"draw":5,"loss":22,"for":44,"against":87,"isRemoved":true},
 {"country":"svn","name":"Rudar Velenje","id":"NK_Rudar_Velenje","win":0,"draw":12,"loss":24,"for":28,"against":80,"isRemoved":true}
+][
+{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":26,"draw":4,"loss":2,"for":80,"against":26,"isChampion":true},
+{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":18,"draw":5,"loss":9,"for":65,"against":35},
+{"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":17,"draw":7,"loss":8,"for":50,"against":29},
+{"country":"ukr","name":"Desna Chernihiv","id":"FC_Desna_Chernihiv","win":17,"draw":5,"loss":10,"for":59,"against":33},
+{"country":"ukr","name":"FC Oleksandriya","id":"FC_Oleksandriya","win":14,"draw":7,"loss":11,"for":49,"against":47},
+{"country":"ukr","name":"Kolos Kovalivka","id":"FC_Kolos_Kovalivka","win":10,"draw":2,"loss":20,"for":33,"against":59,"isNew":true},
+{"country":"ukr","name":"SC Dnipro-1","id":"SC_Dnipro-1","win":15,"draw":4,"loss":13,"for":42,"against":42,"isNew":true},
+{"country":"ukr","name":"FC Mariupol","id":"FC_Mariupol","win":12,"draw":9,"loss":11,"for":40,"against":46},
+{"country":"ukr","name":"FC Lviv","id":"FC_Lviv","win":5,"draw":9,"loss":18,"for":25,"against":57},
+{"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":9,"draw":7,"loss":16,"for":23,"against":48},
+{"country":"ukr","name":"Olimpik Donetsk","id":"FC_Olimpik_Donetsk","win":10,"draw":6,"loss":16,"for":32,"against":47},
+{"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":2,"draw":9,"loss":21,"for":19,"against":48,"isRemoved":true,"removedNote":"Expelled"}
 ]

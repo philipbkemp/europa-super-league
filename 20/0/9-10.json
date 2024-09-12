@@ -630,4 +630,21 @@
 {"country":"svn","name":"Domžale","id":"NK_Domžale","win":12,"draw":9,"loss":15,"for":51,"against":59},
 {"country":"svn","name":"Interblock","id":"NK_IB_1975_Ljubljana","win":9,"draw":6,"loss":21,"for":35,"against":64,"isRemoved":true},
 {"country":"svn","name":"Drava Ptuj","id":"NK_Drava_Ptuj_(1933)","win":7,"draw":9,"loss":20,"for":34,"against":56,"isRemoved":true}
+][
+{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":24,"draw":5,"loss":1,"for":62,"against":18,"isChampion":true},
+{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":22,"draw":5,"loss":3,"for":61,"against":16},
+{"country":"ukr","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":19,"draw":5,"loss":6,"for":49,"against":23},
+{"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":15,"draw":9,"loss":6,"for":48,"against":25},
+{"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":13,"draw":11,"loss":6,"for":44,"against":35},
+{"country":"ukr","name":"Tavriya Simferopol","id":"SC_Tavriya_Simferopol","win":12,"draw":9,"loss":9,"for":38,"against":38},
+{"country":"ukr","name":"Arsenal Kyiv","id":"FC_Arsenal_Kyiv","win":11,"draw":9,"loss":10,"for":44,"against":41},
+{"country":"ukr","name":"Metalurh Donetsk","id":"FC_Metalurh_Donetsk","win":11,"draw":7,"loss":12,"for":41,"against":33},
+{"country":"ukr","name":"Metalurh Zaporizhya","id":"FC_Metalurh_Zaporizhzhia","win":10,"draw":5,"loss":15,"for":31,"against":48},
+{"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":6,"draw":13,"loss":11,"for":29,"against":32},
+{"country":"ukr","name":"Obolon Kyiv","id":"FC_Obolon_Kyiv","win":9,"draw":4,"loss":17,"for":26,"against":50,"isReturning":true},
+{"country":"ukr","name":"Illichivets Mariupol","id":"FC_Mariupol","win":7,"draw":8,"loss":15,"for":31,"against":56},
+{"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":7,"draw":7,"loss":16,"for":23,"against":47},
+{"country":"ukr","name":"Kryvbas Kryvyi Rih","id":"FC_Kryvbas_Kryvyi_Rih_(1959–2013)","win":7,"draw":4,"loss":19,"for":31,"against":47},
+{"country":"ukr","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":5,"draw":9,"loss":16,"for":21,"against":44,"isRemoved":true},
+{"country":"ukr","name":"Zakarpattia Uzhhorod","id":"FC_Hoverla_Uzhhorod","win":5,"draw":4,"loss":21,"for":18,"against":44,"isRemoved":true,"isReturning":true}
 ]

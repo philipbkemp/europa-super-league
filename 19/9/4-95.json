@@ -677,4 +677,23 @@
 {"country":"svn","name":"Naklo","id":"NK_Naklo","win":5,"draw":9,"loss":16,"for":34,"against":48,"isRemoved":true},
 {"country":"svn","name":"Kočevje","id":"NK_Kočevje","win":4,"draw":9,"loss":17,"for":24,"against":91,"isRemoved":true,"deduct":-1,"isNew":true},
 {"country":"svn","name":"Jadran Dekani","id":"NK_Dekani","win":0,"draw":3,"loss":27,"for":12,"against":113,"isRemoved":true}
+][
+{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":25,"draw":8,"loss":1,"for":87,"against":24,"isChampion":true},
+{"country":"ukr","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":22,"draw":7,"loss":5,"for":62,"against":29},
+{"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":19,"draw":8,"loss":7,"for":60,"against":33},
+{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":18,"draw":8,"loss":8,"for":52,"against":29},
+{"country":"ukr","name":"Tavriya Simferopol","id":"SC_Tavriya_Simferopol","win":17,"draw":8,"loss":9,"for":61,"against":37},
+{"country":"ukr","name":"Kryvbas Kryvyi Rih","id":"FC_Kryvbas_Kryvyi_Rih_(1959–2013)","win":13,"draw":9,"loss":12,"for":35,"against":30},
+{"country":"ukr","name":"Torpedo Zaporizhzhia","id":"FC_Torpedo_Zaporizhzhia","win":15,"draw":3,"loss":16,"for":49,"against":49},
+{"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":12,"draw":9,"loss":13,"for":32,"against":36},
+{"country":"ukr","name":"Metalurh Zaporizhzhia","id":"FC_Metalurh_Zaporizhzhia","win":11,"draw":10,"loss":13,"for":47,"against":42},
+{"country":"ukr","name":"Kremin Kremenchuk","id":"FC_Kremin_Kremenchuk","win":12,"draw":6,"loss":16,"for":42,"against":54},
+{"country":"ukr","name":"Prykarpattya Ivano-Frankivsk","id":"FC_Spartak_Ivano-Frankivsk","win":11,"draw":8,"loss":15,"for":40,"against":52,"isNew":true},
+{"country":"ukr","name":"Nyva Ternopil","id":"FC_Nyva_Ternopil","win":11,"draw":5,"loss":18,"for":40,"against":44},
+{"country":"ukr","name":"SC Mykolaiv","id":"MFC_Mykolaiv","win":11,"draw":5,"loss":18,"for":33,"against":59,"isNew":true},
+{"country":"ukr","name":"Nyva Vinnytsia","id":"FC_Nyva_Vinnytsia","win":10,"draw":7,"loss":17,"for":38,"against":51},
+{"country":"ukr","name":"Volyn Lutsk","id":"FC_Volyn_Lutsk","win":11,"draw":3,"loss":20,"for":29,"against":58},
+{"country":"ukr","name":"Zorya-MALS Luhansk","id":"FC_Zorya_Luhansk","win":10,"draw":5,"loss":19,"for":35,"against":70},
+{"country":"ukr","name":"Temp Shepetivka","id":"FC_Temp_Shepetivka","win":10,"draw":4,"loss":20,"for":31,"against":41,"isRemoved":true},
+{"country":"ukr","name":"Veres Rivne","id":"NK_Veres_Rivne","win":8,"draw":7,"loss":19,"for":28,"against":63,"isRemoved":true}
 ]

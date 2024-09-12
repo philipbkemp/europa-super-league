@@ -630,4 +630,21 @@
 {"country":"svn","name":"Triglav Kranj","id":"NK_Triglav_Kranj","win":9,"draw":11,"loss":16,"for":35,"against":50},
 {"country":"svn","name":"Mura 05","id":"ND_Mura_05","win":9,"draw":6,"loss":21,"for":43,"against":66,"isRemoved":true},
 {"country":"svn","name":"Aluminij","id":"NK_Aluminij","win":7,"draw":9,"loss":20,"for":36,"against":67,"isRemoved":true,"isNew":true}
+][
+{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":25,"draw":4,"loss":1,"for":82,"against":18,"isChampion":true},
+{"country":"ukr","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":20,"draw":6,"loss":4,"for":59,"against":25},
+{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":20,"draw":2,"loss":8,"for":55,"against":23},
+{"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":16,"draw":8,"loss":6,"for":54,"against":27},
+{"country":"ukr","name":"Metalurh Donetsk","id":"FC_Metalurh_Donetsk","win":14,"draw":7,"loss":9,"for":45,"against":35},
+{"country":"ukr","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":12,"draw":7,"loss":11,"for":32,"against":36},
+{"country":"ukr","name":"Kryvbas Kryvyi Rih","id":"FC_Kryvbas_Kryvyi_Rih_(1959–2013)","win":12,"draw":7,"loss":11,"for":36,"against":41,"isRemoved":true,"removedNote":"Denied a license and expelled at the end of the season"},
+{"country":"ukr","name":"Arsenal Kyiv","id":"FC_Arsenal_Kyiv","win":10,"draw":9,"loss":11,"for":34,"against":41},
+{"country":"ukr","name":"Illichivets Mariupol","id":"FC_Mariupol","win":10,"draw":8,"loss":12,"for":30,"against":32},
+{"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":10,"draw":7,"loss":13,"for":32,"against":43},
+{"country":"ukr","name":"Tavriya Simferopol","id":"SC_Tavriya_Simferopol","win":10,"draw":5,"loss":15,"for":27,"against":46,"deduct":-3,"deductReason":"Non compliance with player contract"},
+{"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":8,"draw":7,"loss":15,"for":31,"against":36},
+{"country":"ukr","name":"Volyn Lutsk","id":"FC_Volyn_Lutsk","win":7,"draw":8,"loss":15,"for":26,"against":45},
+{"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":7,"draw":6,"loss":17,"for":37,"against":52},
+{"country":"ukr","name":"Hoverla Uzhhorod","id":"FC_Hoverla_Uzhhorod","win":5,"draw":7,"loss":18,"for":29,"against":57,"isReturning":true},
+{"country":"ukr","name":"Metalurh Zaporizhya","id":"FC_Metalurh_Zaporizhzhia","win":1,"draw":8,"loss":21,"for":12,"against":64,"isReturning":true}
 ]
