@@ -2,6 +2,7 @@ const countries = {
 	"alb": "Albania",
 	"aut": "Austria",
 	"bel": "Belgium",
+	"bgr": "Bulgaria",
 	"che": "Switzerland",
 	"csk": "Czechoslovakia",
 	"cyp": "Cyprus",
@@ -26,7 +27,9 @@ const countries = {
 	"pse": "Palestine",
 	"rou": "Romania",
 	"sco": "Scotland",
+	"sov": "Soviet Union",
 	"swe": "Sweden",
+	"tur": "Turkey",
 	"yug": "Yugoslavia"
 };
 
