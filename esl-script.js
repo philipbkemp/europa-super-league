@@ -28,6 +28,7 @@ const countries = {
 	"rou": "Romania",
 	"sco": "Scotland",
 	"sov": "Soviet Union",
+	"svk": "Slovakia",
 	"swe": "Sweden",
 	"tur": "Turkey",
 	"yug": "Yugoslavia"
