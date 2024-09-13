@@ -308,7 +308,7 @@
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":23,"draw":1,"loss":2,"for":123,"against":40,"isChampion":true},
 {"country":"prt","name":"Benfica","id":"S.L._Benfica","win":20,"draw":1,"loss":5,"for":99,"against":47},
 {"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":14,"draw":5,"loss":7,"for":66,"against":31},
-{"country":"prt","name":"Porto","id":"FC_Porto","win":15,"draw":3,"loss":8,"for":73,"against":45},
+{"country":"prt","name":"Porto","id":"fc_porto","win":15,"draw":3,"loss":8,"for":73,"against":45},
 {"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":16,"draw":1,"loss":9,"for":96,"against":55,"isReturning":true},
 {"country":"prt","name":"Olhanense","id":"S.C._Olhanense","win":11,"draw":4,"loss":11,"for":69,"against":73},
 {"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":11,"draw":3,"loss":12,"for":56,"against":61},

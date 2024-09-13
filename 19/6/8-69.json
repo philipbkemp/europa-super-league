@@ -453,7 +453,7 @@
 {"country":"cyp","name":"Evagoras Paphos","id":"Evagoras_Paphos","win":2,"draw":6,"loss":14,"for":19,"against":51,"isRemoved":true,"isNew":true}
 ][
 {"country":"prt","name":"Benfica","id":"S.L._Benfica","win":16,"draw":7,"loss":3,"for":49,"against":17,"isChampion":true},
-{"country":"prt","name":"Porto","id":"FC_Porto","win":15,"draw":7,"loss":4,"for":39,"against":23},
+{"country":"prt","name":"Porto","id":"fc_porto","win":15,"draw":7,"loss":4,"for":39,"against":23},
 {"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":13,"draw":10,"loss":3,"for":46,"against":17},
 {"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":13,"draw":9,"loss":4,"for":45,"against":20},
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":11,"draw":8,"loss":7,"for":35,"against":20},

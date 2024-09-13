@@ -419,7 +419,7 @@
 {"country":"cyp","name":"Ethnikos Achna","id":"Ethnikos_Achna_FC","win":5,"draw":6,"loss":12,"for":31,"against":46,"isReturning":true},
 {"country":"cyp","name":"Doxa Katokopias","id":"Doxa_Katokopias_FC","win":3,"draw":5,"loss":15,"for":15,"against":45}
 ][
-{"country":"prt","name":"Porto","id":"FC_Porto","win":26,"draw":4,"loss":4,"for":74,"against":22,"isChampion":true},
+{"country":"prt","name":"Porto","id":"fc_porto","win":26,"draw":4,"loss":4,"for":74,"against":22,"isChampion":true},
 {"country":"prt","name":"Benfica","id":"S.L._Benfica","win":24,"draw":5,"loss":5,"for":71,"against":26},
 {"country":"prt","name":"Braga","id":"S.C._Braga","win":18,"draw":6,"loss":10,"for":61,"against":40},
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":18,"draw":6,"loss":10,"for":49,"against":34},

@@ -332,7 +332,7 @@
 {"country":"prt","name":"Benfica","id":"S.L._Benfica","win":19,"draw":3,"loss":4,"for":84,"against":35},
 {"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":16,"draw":5,"loss":5,"for":76,"against":30},
 {"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":16,"draw":4,"loss":6,"for":91,"against":49},
-{"country":"prt","name":"Porto","id":"FC_Porto","win":17,"draw":2,"loss":7,"for":73,"against":42},
+{"country":"prt","name":"Porto","id":"fc_porto","win":17,"draw":2,"loss":7,"for":73,"against":42},
 {"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":11,"draw":3,"loss":12,"for":56,"against":61},
 {"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":10,"draw":4,"loss":12,"for":44,"against":56},
 {"country":"prt","name":"O Elvas","id":"O_Elvas_C.A.D.","win":11,"draw":2,"loss":13,"for":66,"against":63},

@@ -423,7 +423,7 @@
 {"country":"prt","name":"Benfica","id":"S.L._Benfica","win":20,"draw":5,"loss":1,"for":75,"against":27,"isChampion":true},
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":19,"draw":5,"loss":2,"for":82,"against":20},
 {"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":15,"draw":6,"loss":5,"for":58,"against":25},
-{"country":"prt","name":"Porto","id":"FC_Porto","win":13,"draw":4,"loss":9,"for":48,"against":36},
+{"country":"prt","name":"Porto","id":"fc_porto","win":13,"draw":4,"loss":9,"for":48,"against":36},
 {"country":"prt","name":"CUF Barreiro","id":"G.D._Fabril","win":10,"draw":5,"loss":11,"for":36,"against":39},
 {"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":8,"draw":9,"loss":9,"for":40,"against":41},
 {"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":8,"draw":7,"loss":11,"for":47,"against":43},

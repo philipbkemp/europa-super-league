@@ -361,7 +361,7 @@
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":19,"draw":1,"loss":6,"for":91,"against":35},
 {"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":11,"draw":8,"loss":7,"for":53,"against":42},
 {"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":10,"draw":7,"loss":9,"for":36,"against":41},
-{"country":"prt","name":"Porto","id":"FC_Porto","win":12,"draw":2,"loss":12,"for":61,"against":52},
+{"country":"prt","name":"Porto","id":"fc_porto","win":12,"draw":2,"loss":12,"for":61,"against":52},
 {"country":"prt","name":"Sporting da Covilhã","id":"S.C._Covilhã","win":10,"draw":5,"loss":11,"for":55,"against":70},
 {"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":8,"draw":8,"loss":10,"for":56,"against":57,"isReturning":true},
 {"country":"prt","name":"Braga","id":"S.C._Braga","win":11,"draw":2,"loss":13,"for":52,"against":53},

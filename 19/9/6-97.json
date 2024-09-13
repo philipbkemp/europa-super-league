@@ -423,7 +423,7 @@
 {"country":"cyp","name":"Olympiakos","id":"Olympiakos_Nicosia","win":8,"draw":3,"loss":15,"for":28,"against":47,"isRemoved":true},
 {"country":"cyp","name":"APEP","id":"APEP_FC","win":3,"draw":2,"loss":21,"for":22,"against":75,"isRemoved":true,"isReturning":true}
 ][
-{"country":"prt","name":"Porto","id":"FC_Porto","win":27,"draw":4,"loss":3,"for":80,"against":24,"isChampion":true},
+{"country":"prt","name":"Porto","id":"fc_porto","win":27,"draw":4,"loss":3,"for":80,"against":24,"isChampion":true},
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":22,"draw":6,"loss":6,"for":55,"against":19},
 {"country":"prt","name":"Benfica","id":"S.L._Benfica","win":17,"draw":7,"loss":10,"for":49,"against":30},
 {"country":"prt","name":"Braga","id":"S.C._Braga","win":15,"draw":10,"loss":9,"for":39,"against":40},

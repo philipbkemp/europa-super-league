@@ -434,7 +434,7 @@
 {"country":"cyp","name":"Akritas Chlorakas","id":"Akritas_Chlorakas","win":9,"draw":7,"loss":24,"for":37,"against":73,"isRemoved":true,"isNew":true}
 ][
 {"country":"prt","name":"Benfica","id":"S.L._Benfica","win":28,"draw":3,"loss":3,"for":82,"against":20,"isChampion":true},
-{"country":"prt","name":"Porto","id":"FC_Porto","win":27,"draw":4,"loss":3,"for":73,"against":22},
+{"country":"prt","name":"Porto","id":"fc_porto","win":27,"draw":4,"loss":3,"for":73,"against":22},
 {"country":"prt","name":"Braga","id":"S.C._Braga","win":25,"draw":3,"loss":6,"for":75,"against":30},
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":23,"draw":5,"loss":6,"for":71,"against":32},
 {"country":"prt","name":"Arouca","id":"F.C._Arouca","win":15,"draw":9,"loss":10,"for":36,"against":37},

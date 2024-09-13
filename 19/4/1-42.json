@@ -152,7 +152,7 @@
 {"country":"prt","name":"Benfica","id":"S.L._Benfica","win":19,"draw":0,"loss":3,"for":74,"against":34,"isChampion":true},
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":17,"draw":0,"loss":5,"for":93,"against":31},
 {"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":12,"draw":6,"loss":4,"for":66,"against":32},
-{"country":"prt","name":"Porto","id":"FC_Porto","win":13,"draw":2,"loss":7,"for":77,"against":48},
+{"country":"prt","name":"Porto","id":"fc_porto","win":13,"draw":2,"loss":7,"for":77,"against":48},
 {"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":13,"draw":0,"loss":9,"for":77,"against":51},
 {"country":"prt","name":"Barreirense","id":"F.C._Barreirense","win":11,"draw":3,"loss":8,"for":58,"against":55,"isRemoved":true},
 {"country":"prt","name":"Unidos de Lisboa","id":"C.F._Os_Unidos","win":7,"draw":4,"loss":11,"for":53,"against":49},

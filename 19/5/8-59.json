@@ -370,7 +370,7 @@
 {"country":"fra","name":"Olympique Alès","id":"Olympique_Alès","win":8,"draw":8,"loss":22,"for":45,"against":83,"isRemoved":true},
 {"country":"fra","name":"Olympique de Marseille","id":"Olympique_de_Marseille","win":6,"draw":11,"loss":21,"for":50,"against":84,"isRemoved":true}
 ][
-{"country":"prt","name":"Porto","id":"FC_Porto","win":17,"draw":7,"loss":2,"for":81,"against":22,"isChampion":true},
+{"country":"prt","name":"Porto","id":"fc_porto","win":17,"draw":7,"loss":2,"for":81,"against":22,"isChampion":true},
 {"country":"prt","name":"Benfica","id":"S.L._Benfica","win":17,"draw":7,"loss":2,"for":78,"against":20},
 {"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":16,"draw":6,"loss":4,"for":65,"against":27},
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":12,"draw":7,"loss":7,"for":50,"against":28},

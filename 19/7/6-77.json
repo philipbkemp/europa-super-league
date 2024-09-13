@@ -448,7 +448,7 @@
 ][
 {"country":"prt","name":"Benfica","id":"S.L._Benfica","win":23,"draw":5,"loss":2,"for":67,"against":24,"isChampion":true},
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":17,"draw":8,"loss":5,"for":59,"against":26},
-{"country":"prt","name":"Porto","id":"FC_Porto","win":18,"draw":5,"loss":7,"for":72,"against":27},
+{"country":"prt","name":"Porto","id":"fc_porto","win":18,"draw":5,"loss":7,"for":72,"against":27},
 {"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":13,"draw":8,"loss":9,"for":41,"against":33},
 {"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":14,"draw":6,"loss":10,"for":29,"against":25},
 {"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":13,"draw":6,"loss":11,"for":47,"against":46},

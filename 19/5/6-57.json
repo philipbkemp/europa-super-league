@@ -367,7 +367,7 @@
 {"country":"cyp","name":"APOEL F.C.","id":"APOEL_FC","win":2,"draw":6,"loss":8,"for":20,"against":31}
 ][
 {"country":"prt","name":"Benfica","id":"S.L._Benfica","win":17,"draw":7,"loss":2,"for":75,"against":25,"isChampion":true},
-{"country":"prt","name":"Porto","id":"FC_Porto","win":18,"draw":4,"loss":4,"for":86,"against":23},
+{"country":"prt","name":"Porto","id":"fc_porto","win":18,"draw":4,"loss":4,"for":86,"against":23},
 {"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":13,"draw":7,"loss":6,"for":74,"against":50},
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":12,"draw":7,"loss":7,"for":62,"against":28},
 {"country":"prt","name":"Lusitano de Évora","id":"Lusitano_G.C.","win":13,"draw":4,"loss":9,"for":57,"against":51},

@@ -421,7 +421,7 @@
 {"country":"cyp","name":"AEZ Zakakiou","id":"AEZ_Zakakiou","win":1,"draw":8,"loss":17,"for":20,"against":63,"isRemoved":true,"deduct":-6,"deductReason":"Suspicious betting activity","isNew":true}
 ][
 {"country":"prt","name":"Benfica","id":"S.L._Benfica","win":25,"draw":7,"loss":2,"for":72,"against":18,"isChampion":true},
-{"country":"prt","name":"Porto","id":"FC_Porto","win":22,"draw":10,"loss":2,"for":71,"against":19},
+{"country":"prt","name":"Porto","id":"fc_porto","win":22,"draw":10,"loss":2,"for":71,"against":19},
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":21,"draw":7,"loss":6,"for":68,"against":36},
 {"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":18,"draw":8,"loss":8,"for":50,"against":39},
 {"country":"prt","name":"Braga","id":"S.C._Braga","win":15,"draw":9,"loss":10,"for":51,"against":36},
