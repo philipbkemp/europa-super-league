@@ -672,4 +672,17 @@
 {"country":"bih","name":"Posušje","id":"HŠK_Posušje","win":10,"draw":7,"loss":16,"for":28,"against":46},
 {"country":"bih","name":"Leotar","id":"FK_Leotar","win":9,"draw":7,"loss":17,"for":29,"against":46,"isRemoved":true},
 {"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":7,"draw":11,"loss":15,"for":32,"against":41,"isRemoved":true}
+][
+{"country":"mkd","name":"Struga","id":"FC_Struga","win":20,"draw":8,"loss":2,"for":53,"against":19,"isChampion":true},
+{"country":"mkd","name":"Shkupi","id":"KF_Shkupi","win":17,"draw":7,"loss":6,"for":62,"against":27},
+{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":16,"draw":9,"loss":5,"for":43,"against":23},
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":13,"draw":9,"loss":8,"for":41,"against":34,"isReturning":true},
+{"country":"mkd","name":"Bregalnica","id":"FK_Bregalnica_Štip","win":10,"draw":11,"loss":9,"for":33,"against":34},
+{"country":"mkd","name":"Tikvesh","id":"GFK_Tikvesh","win":11,"draw":7,"loss":12,"for":40,"against":37},
+{"country":"mkd","name":"Makedonija G.P.","id":"FK_Makedonija_G.P.","win":10,"draw":9,"loss":11,"for":37,"against":33},
+{"country":"mkd","name":"Rabotnički","id":"FK_Rabotnički","win":11,"draw":4,"loss":15,"for":37,"against":48},
+{"country":"mkd","name":"Akademija Pandev","id":"FC_AP_Brera_Strumica","win":6,"draw":10,"loss":14,"for":34,"against":38},
+{"country":"mkd","name":"Skopje","id":"FK_Skopje","win":4,"draw":10,"loss":16,"for":17,"against":44,"isRemoved":true},
+{"country":"mkd","name":"Pobeda","id":"FK_Pobeda_(2010)","win":3,"draw":4,"loss":23,"for":18,"against":78,"isRemoved":true,"isReturning":true},
+{"country":"mkd","name":"Renova","id":"KF_Renova","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before start of season"}
 ]

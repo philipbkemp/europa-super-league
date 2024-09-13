@@ -652,4 +652,17 @@
 {"country":"bih","name":"Travnik","id":"NK_Travnik","win":10,"draw":7,"loss":13,"for":30,"against":43,"isReturning":true},
 {"country":"bih","name":"Glasinac","id":"OFK_Glasinac_2011","win":9,"draw":6,"loss":15,"for":34,"against":49,"isRemoved":true},
 {"country":"bih","name":"Brotnjo","id":"HNK_Brotnjo","win":4,"draw":7,"loss":19,"for":29,"against":59,"isRemoved":true}
+][
+{"country":"mkd","name":"Pobeda","id":"FK_Pobeda","win":22,"draw":5,"loss":6,"for":78,"against":42,"isChampion":true},
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":20,"draw":6,"loss":7,"for":67,"against":52},
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":17,"draw":9,"loss":7,"for":66,"against":39},
+{"country":"mkd","name":"Rabotnichki Kometal","id":"FK_Rabotnički","win":16,"draw":10,"loss":7,"for":58,"against":40},
+{"country":"mkd","name":"Sloga Jugomagnat","id":"FK_Sloga_Jugomagnat","win":17,"draw":6,"loss":10,"for":69,"against":36},
+{"country":"mkd","name":"Madjari Solidarnost","id":"FK_Madžari_Solidarnost","win":14,"draw":8,"loss":11,"for":44,"against":30,"isNew":true},
+{"country":"mkd","name":"Cementarnica 55","id":"FK_Cementarnica_55","win":11,"draw":12,"loss":10,"for":48,"against":41},
+{"country":"mkd","name":"Bashkimi","id":"KF_Bashkimi_(1947–2008)","win":14,"draw":1,"loss":18,"for":44,"against":54,"isNew":true},
+{"country":"mkd","name":"Napredok","id":"FK_Napredok","win":12,"draw":5,"loss":16,"for":51,"against":52},
+{"country":"mkd","name":"Belasica","id":"FK_Belasica","win":10,"draw":6,"loss":17,"for":37,"against":55},
+{"country":"mkd","name":"Tikvesh","id":"GFK_Tikvesh","win":5,"draw":4,"loss":24,"for":25,"against":62,"isRemoved":true},
+{"country":"mkd","name":"Bregalnica Delchevo","id":"FK_Bregalnica_Delčevo_(1926–2012)","win":2,"draw":4,"loss":27,"for":20,"against":124,"isRemoved":true,"deduct":-3,"deductReason":"Walking off pitch during match"}
 ]

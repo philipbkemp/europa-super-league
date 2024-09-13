@@ -651,4 +651,17 @@
 {"country":"bih","name":"Igman Konjic","id":"FK_Igman_Konjic","win":0,"draw":1,"loss":3,"for":2,"against":8,"isCurrentSeason":true},
 {"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":0,"draw":1,"loss":4,"for":2,"against":9,"isCurrentSeason":true,"isReturning":true},
 {"country":"bih","name":"GOŠK Gabela","id":"NK_GOŠK_Gabela","win":0,"draw":0,"loss":5,"for":2,"against":12,"isCurrentSeason":true}
+][
+{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":3,"draw":1,"loss":0,"for":8,"against":2,"isCurrentSeason":true},
+{"country":"mkd","name":"Struga","id":"FC_Struga","win":3,"draw":0,"loss":1,"for":4,"against":2,"isCurrentSeason":true},
+{"country":"mkd","name":"Gostivar","id":"KF_Gostivari","win":2,"draw":2,"loss":0,"for":5,"against":1,"isCurrentSeason":true},
+{"country":"mkd","name":"Rabotnički","id":"FK_Rabotnički","win":2,"draw":2,"loss":0,"for":4,"against":1,"isCurrentSeason":true},
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":2,"draw":0,"loss":2,"for":6,"against":3,"isCurrentSeason":true},
+{"country":"mkd","name":"Shkupi","id":"KF_Shkupi","win":1,"draw":1,"loss":2,"for":7,"against":7,"isCurrentSeason":true},
+{"country":"mkd","name":"Voska Sport","id":"FK_Voska_Sport","win":1,"draw":1,"loss":2,"for":7,"against":8,"isCurrentSeason":true},
+{"country":"mkd","name":"Tikvesh","id":"GFK_Tikvesh","win":1,"draw":1,"loss":2,"for":2,"against":3,"isCurrentSeason":true},
+{"country":"mkd","name":"Besa","id":"KF_Besa_Dobërdoll","win":1,"draw":1,"loss":2,"for":2,"against":4,"isCurrentSeason":true,"isNew":true},
+{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":1,"draw":1,"loss":2,"for":2,"against":4,"isCurrentSeason":true,"isReturning":true},
+{"country":"mkd","name":"AP Brera","id":"FC_AP_Brera_Strumica","win":1,"draw":0,"loss":3,"for":3,"against":9,"isCurrentSeason":true},
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":1,"draw":0,"loss":3,"for":3,"against":9,"isCurrentSeason":true}
 ]

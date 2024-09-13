@@ -667,4 +667,19 @@
 {"country":"ukr","name":"Tavriya Simferopol","id":"SC_Tavriya_Simferopol","win":8,"draw":9,"loss":13,"for":35,"against":41},
 {"country":"ukr","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":8,"draw":8,"loss":14,"for":31,"against":39,"isRemoved":true},
 {"country":"ukr","name":"Torpedo Zaporizhzhia","id":"FC_Torpedo_Zaporizhzhia","win":2,"draw":7,"loss":21,"for":20,"against":69,"isRemoved":true}
+][
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":15,"draw":3,"loss":7,"for":40,"against":21,"isChampion":true},
+{"country":"mkd","name":"Sloga Jugomagnat","id":"FK_Sloga_Jugomagnat","win":12,"draw":7,"loss":6,"for":25,"against":16},
+{"country":"mkd","name":"Makedonija","id":"FK_Makedonija_G.P.","win":12,"draw":6,"loss":7,"for":34,"against":21},
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":12,"draw":5,"loss":8,"for":34,"against":25},
+{"country":"mkd","name":"Pobeda","id":"FK_Pobeda","win":11,"draw":6,"loss":8,"for":29,"against":21},
+{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":10,"draw":7,"loss":8,"for":31,"against":24},
+{"country":"mkd","name":"Borec","id":"FK_Borec","win":9,"draw":6,"loss":10,"for":28,"against":30,"isReturning":true},
+{"country":"mkd","name":"Balkan","id":"FK_Balkan_Skopje","win":8,"draw":7,"loss":10,"for":20,"against":21},
+{"country":"mkd","name":"Cementarnica 55","id":"FK_Cementarnica_55","win":9,"draw":3,"loss":13,"for":28,"against":32},
+{"country":"mkd","name":"Skopje","id":"FK_Skopje","win":9,"draw":3,"loss":13,"for":31,"against":45,"isNew":true},
+{"country":"mkd","name":"Tikvesh","id":"GFK_Tikvesh","win":7,"draw":8,"loss":10,"for":23,"against":27},
+{"country":"mkd","name":"Sasa","id":"FK_Sasa","win":8,"draw":5,"loss":12,"for":21,"against":32},
+{"country":"mkd","name":"Belasica","id":"FK_Belasica","win":8,"draw":4,"loss":13,"for":25,"against":35,"isRemoved":true},
+{"country":"mkd","name":"Bregalnica Shtip","id":"FK_Bregalnica_Štip","win":4,"draw":0,"loss":9,"for":13,"against":32,"isRemoved":true,"removedNote":"Withdrew mid-season"}
 ]

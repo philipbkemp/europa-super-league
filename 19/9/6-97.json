@@ -684,4 +684,19 @@
 {"country":"bih","name":"Travnik","id":"NK_Travnik","win":10,"draw":3,"loss":17,"for":34,"against":57,"isRemoved":true,"removedNote":"Split into a regional format for next season"},
 {"country":"bih","name":"Turbina","id":"FK_Turbina_Jablanica","win":9,"draw":5,"loss":16,"for":38,"against":55,"isRemoved":true},
 {"country":"bih","name":"Radnik Hadžići","id":"FK_Radnik_Hadžići","win":1,"draw":1,"loss":28,"for":12,"against":103,"isRemoved":true,"isNew":true}
+][
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":19,"draw":5,"loss":2,"for":83,"against":23,"isChampion":true},
+{"country":"mkd","name":"Pobeda","id":"FK_Pobeda","win":17,"draw":3,"loss":6,"for":55,"against":26},
+{"country":"mkd","name":"Sloga Jugomagnat","id":"FK_Sloga_Jugomagnat","win":13,"draw":7,"loss":6,"for":42,"against":25},
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":11,"draw":10,"loss":5,"for":32,"against":15,"deduct":-3,"deductReason":"Fielding a suspended player"},
+{"country":"mkd","name":"Sasa","id":"FK_Sasa","win":10,"draw":7,"loss":9,"for":36,"against":31},
+{"country":"mkd","name":"Bregalnica Shtip","id":"FK_Bregalnica_Štip","win":10,"draw":5,"loss":11,"for":30,"against":33,"isReturning":true},
+{"country":"mkd","name":"Makedonija","id":"FK_Makedonija_G.P.","win":10,"draw":4,"loss":12,"for":38,"against":30},
+{"country":"mkd","name":"Balkan","id":"FK_Balkan_Skopje","win":8,"draw":9,"loss":9,"for":31,"against":26},
+{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":9,"draw":6,"loss":11,"for":36,"against":35},
+{"country":"mkd","name":"Belasica","id":"FK_Belasica","win":9,"draw":6,"loss":11,"for":32,"against":41},
+{"country":"mkd","name":"Tikvesh","id":"GFK_Tikvesh","win":8,"draw":8,"loss":10,"for":33,"against":39},
+{"country":"mkd","name":"Cementarnica 55","id":"FK_Cementarnica_55","win":8,"draw":5,"loss":13,"for":32,"against":39},
+{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":8,"draw":5,"loss":13,"for":27,"against":48,"isRemoved":true,"isNew":true},
+{"country":"mkd","name":"Rudar Probishtip","id":"FK_Rudar_Probištip","win":1,"draw":2,"loss":23,"for":15,"against":111,"isRemoved":true}
 ]

@@ -688,4 +688,21 @@
 {"country":"ukr","name":"Metalurh Zaporizhzhia","id":"FC_Metalurh_Zaporizhzhia","win":9,"draw":6,"loss":19,"for":26,"against":49},
 {"country":"ukr","name":"Bukovyna Chernivtsi","id":"FSC_Bukovyna_Chernivtsi","win":7,"draw":6,"loss":21,"for":25,"against":51,"isRemoved":true},
 {"country":"ukr","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":6,"draw":8,"loss":20,"for":22,"against":63,"isRemoved":true}
+][
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":23,"draw":5,"loss":2,"for":85,"against":16,"isChampion":true},
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":18,"draw":8,"loss":4,"for":56,"against":19},
+{"country":"mkd","name":"Balkan","id":"FK_Balkan_Skopje","win":14,"draw":9,"loss":7,"for":47,"against":32},
+{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":14,"draw":8,"loss":8,"for":49,"against":31},
+{"country":"mkd","name":"Ljuboten","id":"FK_Ljuboten","win":11,"draw":11,"loss":8,"for":46,"against":35,"deduct":-3,"isNew":true},
+{"country":"mkd","name":"Pobeda","id":"FK_Pobeda","win":11,"draw":8,"loss":11,"for":38,"against":37},
+{"country":"mkd","name":"Sasa","id":"FK_Sasa","win":9,"draw":12,"loss":9,"for":38,"against":41},
+{"country":"mkd","name":"Sloga Jugomagnat","id":"FK_Sloga_Jugomagnat","win":7,"draw":13,"loss":10,"for":29,"against":30},
+{"country":"mkd","name":"Osogovo","id":"FK_Osogovo","win":9,"draw":9,"loss":12,"for":33,"against":44},
+{"country":"mkd","name":"FCU 55","id":"FK_Cementarnica_55","win":9,"draw":8,"loss":13,"for":36,"against":40},
+{"country":"mkd","name":"Tikvesh","id":"GFK_Tikvesh","win":9,"draw":8,"loss":13,"for":31,"against":42},
+{"country":"mkd","name":"Belasica","id":"FK_Belasica","win":7,"draw":12,"loss":11,"for":35,"against":48},
+{"country":"mkd","name":"Rudar Probishtip","id":"FK_Rudar_Probištip","win":8,"draw":10,"loss":12,"for":29,"against":49},
+{"country":"mkd","name":"Borec","id":"FK_Borec","win":9,"draw":9,"loss":12,"for":31,"against":43,"deduct":-3},
+{"country":"mkd","name":"Karaorman","id":"FK_Karaorman","win":9,"draw":6,"loss":15,"for":37,"against":75,"isRemoved":true,"isNew":true},
+{"country":"mkd","name":"Makedonija","id":"FK_Makedonija_G.P.","win":2,"draw":6,"loss":22,"for":17,"against":55,"isRemoved":true}
 ]

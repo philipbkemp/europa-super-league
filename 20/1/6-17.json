@@ -623,4 +623,15 @@
 {"country":"bih","name":"Metalleghe-BSI","id":"NK_Metalleghe-BSI","win":7,"draw":11,"loss":14,"for":25,"against":34,"isRemoved":true,"isNew":true},
 {"country":"bih","name":"Čelik Zenica","id":"NK_Čelik_Zenica","win":8,"draw":11,"loss":13,"for":28,"against":39},
 {"country":"bih","name":"Olimpik","id":"FK_Olimpik","win":5,"draw":8,"loss":19,"for":28,"against":62,"isRemoved":true}
+][
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":25,"draw":8,"loss":3,"for":75,"against":24,"isChampion":true},
+{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":20,"draw":10,"loss":6,"for":71,"against":39},
+{"country":"mkd","name":"Rabotnički","id":"FK_Rabotnički","win":14,"draw":12,"loss":10,"for":49,"against":41},
+{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":14,"draw":10,"loss":12,"for":44,"against":35,"isReturning":true},
+{"country":"mkd","name":"Renova","id":"KF_Renova","win":13,"draw":13,"loss":10,"for":42,"against":37},
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":11,"draw":14,"loss":11,"for":41,"against":43},
+{"country":"mkd","name":"Pobeda","id":"FK_Pobeda_(2010)","win":10,"draw":11,"loss":15,"for":34,"against":50,"isNew":true},
+{"country":"mkd","name":"Shkupi","id":"KF_Shkupi","win":8,"draw":13,"loss":15,"for":27,"against":39},
+{"country":"mkd","name":"Bregalnica","id":"FK_Bregalnica_Štip","win":4,"draw":12,"loss":20,"for":39,"against":69,"isRemoved":true},
+{"country":"mkd","name":"Makedonija G.P.","id":"FK_Makedonija_G.P.","win":4,"draw":11,"loss":21,"for":35,"against":80,"isRemoved":true,"isReturning":true}
 ]

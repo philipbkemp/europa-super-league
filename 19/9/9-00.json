@@ -670,4 +670,19 @@
 {"country":"bih","name":"Lukavac","id":"FK_Radnički_Lukavac","win":9,"draw":4,"loss":17,"for":25,"against":47,"isRemoved":true},
 {"country":"bih","name":"Gradina Srebrenik","id":"OFK_Gradina","win":7,"draw":3,"loss":20,"for":18,"against":67,"isRemoved":true},
 {"country":"bih","name":"Drina Zvornik-Živinice","id":"FK_Drina_Zvornik-Živinice","win":2,"draw":0,"loss":28,"for":17,"against":97,"isRemoved":true}
+][
+{"country":"mkd","name":"Sloga Jugomagnat","id":"FK_Sloga_Jugomagnat","win":18,"draw":7,"loss":1,"for":55,"against":13,"isChampion":true},
+{"country":"mkd","name":"Pobeda","id":"FK_Pobeda","win":15,"draw":7,"loss":4,"for":57,"against":23},
+{"country":"mkd","name":"Rabotnichki Kometal","id":"FK_Rabotnički","win":16,"draw":2,"loss":8,"for":41,"against":26},
+{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":14,"draw":5,"loss":7,"for":48,"against":30},
+{"country":"mkd","name":"Cementarnica 55","id":"FK_Cementarnica_55","win":14,"draw":5,"loss":7,"for":43,"against":29},
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":11,"draw":7,"loss":8,"for":43,"against":29},
+{"country":"mkd","name":"Makedonija","id":"FK_Makedonija_G.P.","win":10,"draw":6,"loss":10,"for":29,"against":28},
+{"country":"mkd","name":"Tikvesh","id":"GFK_Tikvesh","win":9,"draw":4,"loss":13,"for":37,"against":54},
+{"country":"mkd","name":"Borec","id":"FK_Borec","win":8,"draw":6,"loss":12,"for":30,"against":42},
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":7,"draw":8,"loss":11,"for":39,"against":38},
+{"country":"mkd","name":"Sasa","id":"FK_Sasa","win":7,"draw":7,"loss":12,"for":22,"against":34},
+{"country":"mkd","name":"Osogovo","id":"FK_Osogovo","win":7,"draw":5,"loss":14,"for":34,"against":53},
+{"country":"mkd","name":"Napredok","id":"FK_Napredok","win":4,"draw":8,"loss":14,"for":30,"against":48,"isRemoved":true,"isNew":true},
+{"country":"mkd","name":"Kumanovo","id":"FK_Kumanovo","win":2,"draw":3,"loss":21,"for":16,"against":77,"isRemoved":true,"isNew":true}
 ]

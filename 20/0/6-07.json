@@ -665,4 +665,17 @@
 {"country":"bih","name":"Čelik","id":"NK_Čelik_Zenica","win":12,"draw":3,"loss":15,"for":29,"against":35},
 {"country":"bih","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":13,"draw":0,"loss":17,"for":42,"against":47,"isRemoved":true,"isReturning":true},
 {"country":"bih","name":"Radnik","id":"FK_Radnik_Bijeljina","win":8,"draw":1,"loss":21,"for":25,"against":50,"isRemoved":true}
+][
+{"country":"mkd","name":"Pobeda","id":"FK_Pobeda","win":21,"draw":8,"loss":4,"for":73,"against":42,"isChampion":true},
+{"country":"mkd","name":"Rabotnichki Kometal","id":"FK_Rabotnički","win":19,"draw":10,"loss":4,"for":75,"against":25},
+{"country":"mkd","name":"Makedonija G.P.","id":"FK_Makedonija_G.P.","win":18,"draw":10,"loss":5,"for":65,"against":29},
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":17,"draw":8,"loss":8,"for":63,"against":34},
+{"country":"mkd","name":"Renova","id":"KF_Renova","win":17,"draw":8,"loss":8,"for":53,"against":31},
+{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":14,"draw":3,"loss":16,"for":37,"against":32,"isReturning":true},
+{"country":"mkd","name":"Napredok","id":"FK_Napredok","win":12,"draw":9,"loss":12,"for":50,"against":47,"isReturning":true},
+{"country":"mkd","name":"Bashkimi","id":"KF_Bashkimi_(1947–2008)","win":12,"draw":6,"loss":15,"for":54,"against":60},
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":12,"draw":5,"loss":16,"for":54,"against":50},
+{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":10,"draw":8,"loss":15,"for":39,"against":63},
+{"country":"mkd","name":"Bregalnica Kraun","id":"FK_Bregalnica_Štip","win":3,"draw":4,"loss":26,"for":19,"against":97,"isRemoved":true},
+{"country":"mkd","name":"Vëllazërimi","id":"KF_Vëllazërimi_77","win":2,"draw":3,"loss":28,"for":22,"against":94,"isRemoved":true}
 ]

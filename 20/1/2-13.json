@@ -664,4 +664,17 @@
 {"country":"bih","name":"Travnik","id":"NK_Travnik","win":9,"draw":7,"loss":14,"for":29,"against":45},
 {"country":"bih","name":"GOŠK Gabela","id":"NK_GOŠK_Gabela","win":7,"draw":9,"loss":14,"for":29,"against":42,"isRemoved":true},
 {"country":"bih","name":"Gradina Srebrenik","id":"OFK_Gradina","win":1,"draw":6,"loss":23,"for":17,"against":57,"isRemoved":true,"isReturning":true}
+][
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":20,"draw":8,"loss":5,"for":71,"against":21,"isChampion":true},
+{"country":"mkd","name":"Metalurg","id":"FK_Metalurg_Skopje","win":18,"draw":9,"loss":6,"for":48,"against":28},
+{"country":"mkd","name":"Horizont Turnovo","id":"FK_Horizont_Turnovo","win":17,"draw":12,"loss":4,"for":49,"against":31},
+{"country":"mkd","name":"Rabotnichki","id":"FK_Rabotnički","win":16,"draw":5,"loss":12,"for":47,"against":42},
+{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":13,"draw":8,"loss":12,"for":52,"against":49,"deduct":-3,"deductReason":"Leaving the pitch during a match"},
+{"country":"mkd","name":"Bregalnica Shtip","id":"FK_Bregalnica_Štip","win":12,"draw":7,"loss":14,"for":37,"against":35},
+{"country":"mkd","name":"Napredok","id":"FK_Napredok","win":12,"draw":7,"loss":14,"for":29,"against":39},
+{"country":"mkd","name":"Renova","id":"KF_Renova","win":12,"draw":7,"loss":14,"for":35,"against":46},
+{"country":"mkd","name":"Drita","id":"KF_Drita_Bogovinë","win":11,"draw":7,"loss":15,"for":35,"against":50,"isNew":true,"isRemoved":true},
+{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":9,"draw":10,"loss":14,"for":27,"against":36,"isReturning":true},
+{"country":"mkd","name":"Teteks","id":"FK_Teteks","win":6,"draw":7,"loss":20,"for":22,"against":47,"isRemoved":true},
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":6,"draw":5,"loss":22,"for":33,"against":61,"isRemoved":true}
 ]

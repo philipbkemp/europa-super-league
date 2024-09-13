@@ -687,4 +687,20 @@
 {"country":"bih","name":"Velež","id":"FK_Velež_Mostar","win":8,"draw":3,"loss":19,"for":30,"against":61,"isReturning":true},
 {"country":"bih","name":"Olimpik","id":"FK_Olimpik","win":5,"draw":5,"loss":20,"for":27,"against":57,"isRemoved":true,"isNew":true},
 {"country":"bih","name":"Iskra","id":"NK_Iskra_Bugojno","win":4,"draw":7,"loss":19,"for":16,"against":66,"isRemoved":true,"isReturning":true}
+][
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":21,"draw":7,"loss":0,"for":74,"against":20,"isChampion":true},
+{"country":"mkd","name":"Sloga Jugomagnat","id":"FK_Sloga_Jugomagnat","win":18,"draw":4,"loss":6,"for":48,"against":19},
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":17,"draw":6,"loss":5,"for":60,"against":22},
+{"country":"mkd","name":"Pobeda","id":"FK_Pobeda","win":12,"draw":8,"loss":8,"for":52,"against":34},
+{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":13,"draw":4,"loss":11,"for":51,"against":40},
+{"country":"mkd","name":"Sasa","id":"FK_Sasa","win":10,"draw":7,"loss":11,"for":36,"against":38},
+{"country":"mkd","name":"Makedonija","id":"FK_Makedonija_G.P.","win":10,"draw":7,"loss":11,"for":35,"against":37,"isReturning":true},
+{"country":"mkd","name":"Balkan","id":"FK_Balkan_Skopje","win":9,"draw":7,"loss":12,"for":31,"against":39},
+{"country":"mkd","name":"Belasica","id":"FK_Belasica","win":9,"draw":6,"loss":13,"for":34,"against":38},
+{"country":"mkd","name":"Tikvesh","id":"GFK_Tikvesh","win":8,"draw":8,"loss":12,"for":37,"against":46},
+{"country":"mkd","name":"FCU 55","id":"FK_Cementarnica_55","win":9,"draw":5,"loss":14,"for":36,"against":52},
+{"country":"mkd","name":"Rudar Probishtip","id":"FK_Rudar_Probištip","win":9,"draw":5,"loss":14,"for":31,"against":48},
+{"country":"mkd","name":"Ohrid","id":"FK_Ohrid","win":8,"draw":7,"loss":13,"for":29,"against":39,"isRemoved":true},
+{"country":"mkd","name":"Osogovo","id":"FK_Osogovo","win":6,"draw":8,"loss":14,"for":31,"against":53,"isRemoved":true},
+{"country":"mkd","name":"Ljuboten","id":"FK_Ljuboten","win":6,"draw":1,"loss":21,"for":27,"against":87,"isRemoved":true}
 ]

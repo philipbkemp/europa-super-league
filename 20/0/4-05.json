@@ -658,4 +658,17 @@
 {"country":"bih","name":"Leotar","id":"FK_Leotar","win":13,"draw":2,"loss":15,"for":35,"against":45},
 {"country":"bih","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":13,"draw":2,"loss":15,"for":36,"against":39,"isRemoved":true},
 {"country":"bih","name":"Rudar Ugljevik","id":"FK_Rudar_Ugljevik","win":7,"draw":4,"loss":19,"for":26,"against":43,"isRemoved":true}
+][
+{"country":"mkd","name":"Rabotnichki Kometal","id":"FK_Rabotnički","win":25,"draw":3,"loss":5,"for":66,"against":23,"isChampion":true},
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":22,"draw":6,"loss":5,"for":68,"against":34},
+{"country":"mkd","name":"Pobeda","id":"FK_Pobeda","win":16,"draw":7,"loss":10,"for":59,"against":49},
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":15,"draw":6,"loss":12,"for":56,"against":37},
+{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":15,"draw":5,"loss":13,"for":59,"against":40,"isReturning":true},
+{"country":"mkd","name":"Bashkimi","id":"KF_Bashkimi_(1947–2008)","win":14,"draw":7,"loss":12,"for":53,"against":47},
+{"country":"mkd","name":"Bregalnica Kraun","id":"FK_Bregalnica_Štip","win":14,"draw":6,"loss":13,"for":55,"against":60,"isReturning":true},
+{"country":"mkd","name":"Belasica","id":"FK_Belasica","win":14,"draw":6,"loss":13,"for":37,"against":32},
+{"country":"mkd","name":"Cementarnica 55","id":"FK_Cementarnica_55","win":13,"draw":7,"loss":13,"for":54,"against":50,"deduct":-3,"deductReason":"Walking off pitch during match"},
+{"country":"mkd","name":"Madjari Solidarnost","id":"FK_Madžari_Solidarnost","win":12,"draw":5,"loss":16,"for":44,"against":55,"isRemoved":true},
+{"country":"mkd","name":"Sloga Jugomagnat","id":"FK_Sloga_Jugomagnat","win":5,"draw":2,"loss":26,"for":37,"against":80,"isRemoved":true},
+{"country":"mkd","name":"Napredok","id":"FK_Napredok","win":1,"draw":4,"loss":28,"for":17,"against":99,"isRemoved":true}
 ]

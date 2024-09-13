@@ -656,4 +656,17 @@
 {"country":"bih","name":"Zvijezda","id":"NK_Zvijezda_Gradačac","win":9,"draw":4,"loss":17,"for":25,"against":49},
 {"country":"bih","name":"Rudar Prijedor","id":"FK_Rudar_Prijedor","win":5,"draw":12,"loss":13,"for":24,"against":39,"isRemoved":true},
 {"country":"bih","name":"Leotar","id":"FK_Leotar","win":2,"draw":3,"loss":25,"for":11,"against":70,"isRemoved":true}
+][
+{"country":"mkd","name":"Rabotnichki","id":"FK_Rabotnički","win":18,"draw":8,"loss":7,"for":66,"against":35,"isChampion":true},
+{"country":"mkd","name":"Horizont Turnovo","id":"FK_Horizont_Turnovo","win":18,"draw":6,"loss":9,"for":61,"against":33},
+{"country":"mkd","name":"Metalurg","id":"FK_Metalurg_Skopje","win":16,"draw":11,"loss":6,"for":48,"against":29},
+{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":16,"draw":9,"loss":8,"for":53,"against":32},
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":15,"draw":11,"loss":7,"for":55,"against":32},
+{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":14,"draw":10,"loss":9,"for":40,"against":40},
+{"country":"mkd","name":"Bregalnica Shtip","id":"FK_Bregalnica_Štip","win":11,"draw":11,"loss":11,"for":34,"against":34},
+{"country":"mkd","name":"Renova","id":"KF_Renova","win":10,"draw":14,"loss":9,"for":42,"against":46},
+{"country":"mkd","name":"Euromilk Gorno Lisiche","id":"FK_Gorno_Lisiče","win":9,"draw":12,"loss":12,"for":34,"against":37,"isRemoved":true,"isNew":true},
+{"country":"mkd","name":"Makedonija G.P.","id":"FK_Makedonija_G.P.","win":9,"draw":5,"loss":19,"for":40,"against":56,"isRemoved":true,"isReturning":true},
+{"country":"mkd","name":"Napredok","id":"FK_Napredok","win":3,"draw":9,"loss":21,"for":27,"against":75,"isRemoved":true},
+{"country":"mkd","name":"Gostivar","id":"KF_Gostivari","win":3,"draw":6,"loss":24,"for":19,"against":70,"isRemoved":true,"isNew":true}
 ]

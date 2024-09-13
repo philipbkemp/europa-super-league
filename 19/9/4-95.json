@@ -696,4 +696,21 @@
 {"country":"ukr","name":"Zorya-MALS Luhansk","id":"FC_Zorya_Luhansk","win":10,"draw":5,"loss":19,"for":35,"against":70},
 {"country":"ukr","name":"Temp Shepetivka","id":"FC_Temp_Shepetivka","win":10,"draw":4,"loss":20,"for":31,"against":41,"isRemoved":true},
 {"country":"ukr","name":"Veres Rivne","id":"NK_Veres_Rivne","win":8,"draw":7,"loss":19,"for":28,"against":63,"isRemoved":true}
+][
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":23,"draw":7,"loss":0,"for":79,"against":17,"isChampion":true},
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":18,"draw":6,"loss":6,"for":66,"against":28},
+{"country":"mkd","name":"Sloga Jugomagnat","id":"FK_Sloga_Jugomagnat","win":17,"draw":7,"loss":6,"for":43,"against":26},
+{"country":"mkd","name":"Pobeda","id":"FK_Pobeda","win":16,"draw":5,"loss":9,"for":55,"against":35},
+{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":15,"draw":6,"loss":9,"for":57,"against":40},
+{"country":"mkd","name":"Osogovo","id":"FK_Osogovo","win":11,"draw":9,"loss":10,"for":53,"against":34},
+{"country":"mkd","name":"Sasa","id":"FK_Sasa","win":11,"draw":8,"loss":11,"for":39,"against":30},
+{"country":"mkd","name":"Ohrid","id":"FK_Ohrid","win":11,"draw":5,"loss":14,"for":45,"against":43,"isNew":true},
+{"country":"mkd","name":"Balkan","id":"FK_Balkan_Skopje","win":11,"draw":5,"loss":14,"for":48,"against":51},
+{"country":"mkd","name":"Belasica","id":"FK_Belasica","win":11,"draw":4,"loss":15,"for":48,"against":62},
+{"country":"mkd","name":"Tikvesh","id":"GFK_Tikvesh","win":11,"draw":4,"loss":15,"for":35,"against":53},
+{"country":"mkd","name":"Rudar Probishtip","id":"FK_Rudar_Probištip","win":10,"draw":4,"loss":16,"for":32,"against":45},
+{"country":"mkd","name":"Ljuboten","id":"FK_Ljuboten","win":10,"draw":4,"loss":16,"for":37,"against":54},
+{"country":"mkd","name":"FCU 55","id":"FK_Cementarnica_55","win":9,"draw":6,"loss":15,"for":31,"against":40},
+{"country":"mkd","name":"Borec","id":"FK_Borec","win":9,"draw":6,"loss":15,"for":28,"against":57,"isRemoved":true},
+{"country":"mkd","name":"Kozhuf","id":"FK_Kožuf","win":2,"draw":4,"loss":24,"for":18,"against":99,"isRemoved":true,"deduct":-3,"isNew":true}
 ]

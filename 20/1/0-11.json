@@ -666,4 +666,17 @@
 {"country":"bih","name":"Leotar","id":"FK_Leotar","win":10,"draw":5,"loss":15,"for":29,"against":49},
 {"country":"bih","name":"Budućnost","id":"FK_Budućnost_Banovići","win":6,"draw":7,"loss":17,"for":25,"against":44,"isRemoved":true,"isReturning":true},
 {"country":"bih","name":"Drina Zvornik","id":"FK_Drina_Zvornik","win":7,"draw":2,"loss":21,"for":18,"against":53,"isRemoved":true,"isNew":true}
+][
+{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":21,"draw":9,"loss":3,"for":65,"against":23,"isChampion":true,"isReturning":true},
+{"country":"mkd","name":"Metalurg","id":"FK_Metalurg_Skopje","win":17,"draw":10,"loss":6,"for":48,"against":24},
+{"country":"mkd","name":"Renova","id":"KF_Renova","win":17,"draw":9,"loss":7,"for":54,"against":31},
+{"country":"mkd","name":"Rabotnichki","id":"FK_Rabotnički","win":15,"draw":10,"loss":8,"for":53,"against":31},
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":13,"draw":8,"loss":12,"for":39,"against":38},
+{"country":"mkd","name":"Horizont Turnovo","id":"FK_Horizont_Turnovo","win":13,"draw":6,"loss":14,"for":35,"against":35},
+{"country":"mkd","name":"Teteks","id":"FK_Teteks","win":12,"draw":8,"loss":13,"for":38,"against":36},
+{"country":"mkd","name":"Bregalnica Shtip","id":"FK_Bregalnica_Štip","win":12,"draw":5,"loss":16,"for":33,"against":49,"isReturning":true},
+{"country":"mkd","name":"Skopje","id":"FK_Skopje","win":9,"draw":10,"loss":14,"for":36,"against":39,"isRemoved":true,"isReturning":true},
+{"country":"mkd","name":"Napredok","id":"FK_Napredok","win":10,"draw":7,"loss":16,"for":30,"against":48,"isReturning":true},
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":9,"draw":5,"loss":19,"for":24,"against":44,"deduct":-3,"deductReason":"Failing to attend a match"},
+{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":5,"draw":3,"loss":25,"for":25,"against":82,"isRemoved":true}
 ]

@@ -664,4 +664,17 @@
 {"country":"bih","name":"Krupa","id":"FK_Krupa","win":7,"draw":7,"loss":19,"for":26,"against":46,"isRemoved":true,"isReturning":true},
 {"country":"bih","name":"Radnik Bijeljina","id":"FK_Radnik_Bijeljina","win":5,"draw":10,"loss":18,"for":26,"against":51},
 {"country":"bih","name":"Olimpik","id":"FK_Olimpik","win":7,"draw":4,"loss":22,"for":22,"against":58,"isRemoved":true,"isReturning":true}
+][
+{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":22,"draw":9,"loss":2,"for":69,"against":26,"isChampion":true},
+{"country":"mkd","name":"Shkupi","id":"KF_Shkupi","win":16,"draw":11,"loss":6,"for":41,"against":24},
+{"country":"mkd","name":"Struga","id":"FC_Struga","win":15,"draw":12,"loss":6,"for":39,"against":24},
+{"country":"mkd","name":"Makedonija G.P.","id":"FK_Makedonija_G.P.","win":16,"draw":7,"loss":10,"for":53,"against":43},
+{"country":"mkd","name":"Rabotnički","id":"FK_Rabotnički","win":11,"draw":15,"loss":7,"for":45,"against":39},
+{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":12,"draw":9,"loss":12,"for":34,"against":38,"isReturning":true},
+{"country":"mkd","name":"Akademija Pandev","id":"FC_AP_Brera_Strumica","win":12,"draw":5,"loss":16,"for":32,"against":36},
+{"country":"mkd","name":"Borec","id":"FK_Borec","win":11,"draw":7,"loss":15,"for":32,"against":36},
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":10,"draw":6,"loss":17,"for":49,"against":45,"isRemoved":true},
+{"country":"mkd","name":"Renova","id":"KF_Renova","win":8,"draw":12,"loss":13,"for":36,"against":46},
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":7,"draw":10,"loss":16,"for":32,"against":60,"isRemoved":true},
+{"country":"mkd","name":"Belasica","id":"FK_Belasica","win":4,"draw":5,"loss":24,"for":23,"against":68,"isRemoved":true,"isReturning":true}
 ]

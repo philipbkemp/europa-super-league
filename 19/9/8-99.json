@@ -689,4 +689,19 @@
 {"country":"bih","name":"Zenica","id":"NK_Đerzelez","win":7,"draw":8,"loss":15,"for":27,"against":54,"isReturning":true},
 {"country":"bih","name":"Zmaj od Bosne","id":"FK_Zmaj_od_Bosne","win":7,"draw":5,"loss":18,"for":34,"against":57,"isRemoved":true,"isReturning":true},
 {"country":"bih","name":"Vrbanjuša","id":"FK_Vrbanjuša_Sarajevo","win":5,"draw":6,"loss":19,"for":22,"against":57,"isRemoved":true,"isNew":true}
+][
+{"country":"mkd","name":"Sloga Jugomagnat","id":"FK_Sloga_Jugomagnat","win":19,"draw":3,"loss":4,"for":41,"against":12,"isChampion":true},
+{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":17,"draw":6,"loss":3,"for":63,"against":22},
+{"country":"mkd","name":"Pobeda","id":"FK_Pobeda","win":17,"draw":2,"loss":7,"for":51,"against":18},
+{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":15,"draw":4,"loss":7,"for":61,"against":32},
+{"country":"mkd","name":"Cementarnica 55","id":"FK_Cementarnica_55","win":14,"draw":2,"loss":10,"for":47,"against":37},
+{"country":"mkd","name":"Makedonija","id":"FK_Makedonija_G.P.","win":10,"draw":7,"loss":9,"for":44,"against":40},
+{"country":"mkd","name":"Tikvesh","id":"GFK_Tikvesh","win":10,"draw":6,"loss":10,"for":34,"against":37},
+{"country":"mkd","name":"Borec","id":"FK_Borec","win":8,"draw":8,"loss":10,"for":31,"against":35},
+{"country":"mkd","name":"Rabotnichki Kometal","id":"FK_Rabotnički","win":9,"draw":5,"loss":12,"for":38,"against":46,"isReturning":true},
+{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":7,"draw":8,"loss":11,"for":30,"against":50},
+{"country":"mkd","name":"Sasa","id":"FK_Sasa","win":7,"draw":5,"loss":14,"for":28,"against":38},
+{"country":"mkd","name":"Osogovo","id":"FK_Osogovo","win":7,"draw":4,"loss":15,"for":27,"against":47,"isReturning":true},
+{"country":"mkd","name":"Skopje","id":"FK_Skopje","win":5,"draw":2,"loss":19,"for":25,"against":59,"isRemoved":true},
+{"country":"mkd","name":"Balkan","id":"FK_Balkan_Skopje","win":4,"draw":4,"loss":18,"for":14,"against":61,"isRemoved":true}
 ]

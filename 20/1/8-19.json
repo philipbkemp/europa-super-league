@@ -634,4 +634,15 @@
 {"country":"bih","name":"Tuzla City","id":"FK_Tuzla_City","win":9,"draw":9,"loss":15,"for":32,"against":44,"isNew":true},
 {"country":"bih","name":"Krupa","id":"FK_Krupa","win":8,"draw":9,"loss":16,"for":40,"against":48,"isRemoved":true},
 {"country":"bih","name":"GOŠK Gabela","id":"NK_GOŠK_Gabela","win":5,"draw":8,"loss":20,"for":23,"against":54,"isRemoved":true}
+][
+{"country":"mkd-mkd","name":"Shkëndija","id":"KF_Shkëndija","win":24,"draw":7,"loss":5,"for":80,"against":29,"isChampion":true},
+{"country":"mkd-mkd","name":"Vardar","id":"FK_Vardar","win":17,"draw":13,"loss":6,"for":45,"against":23},
+{"country":"mkd-mkd","name":"Akademija Pandev","id":"FC_AP_Brera_Strumica","win":17,"draw":7,"loss":12,"for":45,"against":35},
+{"country":"mkd-mkd","name":"Shkupi","id":"KF_Shkupi","win":13,"draw":9,"loss":14,"for":40,"against":42},
+{"country":"mkd-mkd","name":"Makedonija G.P.","id":"FK_Makedonija_G.P.","win":12,"draw":11,"loss":13,"for":45,"against":50,"isReturning":true},
+{"country":"mkd-mkd","name":"Renova","id":"KF_Renova","win":12,"draw":11,"loss":13,"for":53,"against":49},
+{"country":"mkd-mkd","name":"Rabotnički","id":"FK_Rabotnički","win":13,"draw":7,"loss":16,"for":43,"against":49},
+{"country":"mkd-mkd","name":"Sileks","id":"FK_Sileks","win":11,"draw":11,"loss":14,"for":27,"against":39},
+{"country":"mkd-mkd","name":"Belasica","id":"FK_Belasica","win":9,"draw":11,"loss":16,"for":37,"against":49,"isRemoved":true,"isReturning":true},
+{"country":"mkd-mkd","name":"Pobeda","id":"FK_Pobeda_(2010)","win":6,"draw":5,"loss":25,"for":26,"against":76,"isRemoved":true}
 ]
