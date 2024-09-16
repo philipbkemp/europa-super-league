@@ -13,6 +13,7 @@ const countries = {
 	"dnk": "Denmark",
 	"fin": "Finland",
 	"fra": "France",
+	"hrv": "Croatia",
 	"hun": "Hungary",
 	"irl": "Republic of Ireland",
 	"isl": "Iceland",
@@ -28,7 +29,9 @@ const countries = {
 	"rou": "Romania",
 	"sco": "Scotland",
 	"sov": "Soviet Union",
+	"srb": "Serbia",
 	"svk": "Slovakia",
+	"svn": "Slovenia",
 	"swe": "Sweden",
 	"tur": "Turkey",
 	"yug": "Yugoslavia"
