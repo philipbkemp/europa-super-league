@@ -654,4 +654,17 @@
 {"country":"mkd","name":"Renova","id":"KF_Renova","win":13,"draw":8,"loss":12,"for":49,"against":42},
 {"country":"mkd","name":"Metalurg","id":"FK_Metalurg_Skopje","win":5,"draw":4,"loss":24,"for":27,"against":66,"isRemoved":true},
 {"country":"mkd","name":"Mladost Carev Dvor","id":"FK_Mladost_Carev_Dvor","win":6,"draw":1,"loss":26,"for":22,"against":81,"isRemoved":true,"isNew":true}
+][
+{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":18,"draw":10,"loss":4,"for":72,"against":24,"isChampion":true},
+{"country":"wal","name":"Bala Town","id":"Bala_Town_F.C.","win":15,"draw":12,"loss":5,"for":48,"against":27},
+{"country":"wal","name":"Llandudno","id":"Llandudno_F.C.","win":15,"draw":7,"loss":10,"for":53,"against":46,"isNew":true},
+{"country":"wal","name":"Connah's Quay Nomads","id":"Connah%27s_Quay_Nomads_F.C.","win":15,"draw":3,"loss":14,"for":50,"against":42},
+{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":11,"draw":9,"loss":12,"for":46,"against":54},
+{"country":"wal","name":"Airbus UK Broughton","id":"Airbus_UK_Broughton_F.C.","win":12,"draw":6,"loss":14,"for":46,"against":55},
+{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":14,"draw":5,"loss":13,"for":45,"against":52},
+{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":13,"draw":7,"loss":12,"for":51,"against":47},
+{"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":13,"draw":6,"loss":13,"for":49,"against":52},
+{"country":"wal","name":"Port Talbot Town","id":"Port_Talbot_Town_F.C.","win":10,"draw":9,"loss":13,"for":39,"against":56,"isRemoved":true},
+{"country":"wal","name":"Rhyl","id":"Rhyl_F.C.","win":5,"draw":12,"loss":15,"for":36,"against":50},
+{"country":"wal","name":"Haverfordwest County","id":"Haverfordwest_County_A.F.C.","win":5,"draw":6,"loss":21,"for":27,"against":57,"isRemoved":true,"isReturning":true}
 ]

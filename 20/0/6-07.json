@@ -678,4 +678,22 @@
 {"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":10,"draw":8,"loss":15,"for":39,"against":63},
 {"country":"mkd","name":"Bregalnica Kraun","id":"FK_Bregalnica_Štip","win":3,"draw":4,"loss":26,"for":19,"against":97,"isRemoved":true},
 {"country":"mkd","name":"Vëllazërimi","id":"KF_Vëllazërimi_77","win":2,"draw":3,"loss":28,"for":22,"against":94,"isRemoved":true}
+][
+{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":24,"draw":4,"loss":4,"for":81,"against":20,"isChampion":true},
+{"country":"wal","name":"Rhyl","id":"Rhyl_F.C.","win":20,"draw":9,"loss":3,"for":67,"against":35},
+{"country":"wal","name":"Llanelli","id":"Llanelli_Town_A.F.C.","win":18,"draw":9,"loss":5,"for":72,"against":33},
+{"country":"wal","name":"Welshpool Town","id":"Welshpool_Town_F.C.","win":17,"draw":9,"loss":6,"for":54,"against":33},
+{"country":"wal","name":"Connah's Quay Nomads","id":"Connah%27s_Quay_Nomads_F.C.","win":16,"draw":8,"loss":8,"for":49,"against":40},
+{"country":"wal","name":"Port Talbot Town","id":"Port_Talbot_Town_F.C.","win":15,"draw":6,"loss":11,"for":42,"against":39},
+{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":14,"draw":8,"loss":10,"for":57,"against":50},
+{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":13,"draw":9,"loss":10,"for":47,"against":37},
+{"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":14,"draw":6,"loss":12,"for":55,"against":47},
+{"country":"wal","name":"Haverfordwest County","id":"Haverfordwest_County_A.F.C.","win":10,"draw":9,"loss":13,"for":49,"against":46},
+{"country":"wal","name":"Porthmadog","id":"Porthmadog_F.C.","win":8,"draw":11,"loss":13,"for":40,"against":52,"deduct":-3},
+{"country":"wal","name":"Airbus UK","id":"Airbus_UK_Broughton_F.C.","win":7,"draw":8,"loss":17,"for":40,"against":67},
+{"country":"wal","name":"NEWI Cefn Druids","id":"Cefn_Druids_A.F.C.","win":7,"draw":7,"loss":18,"for":41,"against":66},
+{"country":"wal","name":"Caersws","id":"Caersws_F.C.","win":6,"draw":9,"loss":17,"for":34,"against":59},
+{"country":"wal","name":"Caernarfon Town","id":"Caernarfon_Town_F.C.","win":6,"draw":8,"loss":18,"for":41,"against":73},
+{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":6,"draw":6,"loss":20,"for":30,"against":63},
+{"country":"wal","name":"Cwmbran Town","id":"Cwmbrân_Town_A.F.C.","win":4,"draw":8,"loss":20,"for":36,"against":75,"isRemoved":true}
 ]

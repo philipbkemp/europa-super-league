@@ -680,4 +680,23 @@
 {"country":"mkd","name":"Pelister","id":"FK_Pelister","win":7,"draw":7,"loss":16,"for":25,"against":42},
 {"country":"mkd","name":"Napredok","id":"FK_Napredok","win":4,"draw":9,"loss":17,"for":26,"against":52,"isRemoved":true},
 {"country":"mkd","name":"Bashkimi","id":"KF_Bashkimi_(1947–2008)","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before start of season"}
+][
+{"country":"wal","name":"Rhyl","id":"Rhyl_F.C.","win":29,"draw":3,"loss":2,"for":95,"against":29,"isChampion":true},
+{"country":"wal","name":"Llanelli","id":"Llanelli_Town_A.F.C.","win":26,"draw":5,"loss":3,"for":98,"against":38},
+{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":20,"draw":11,"loss":3,"for":79,"against":27},
+{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":19,"draw":5,"loss":10,"for":52,"against":47},
+{"country":"wal","name":"Port Talbot Town","id":"Port_Talbot_Town_F.C.","win":16,"draw":8,"loss":10,"for":57,"against":48},
+{"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":16,"draw":7,"loss":11,"for":58,"against":40},
+{"country":"wal","name":"Haverfordwest County","id":"Haverfordwest_County_A.F.C.","win":16,"draw":7,"loss":11,"for":53,"against":39},
+{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":12,"draw":10,"loss":12,"for":51,"against":50},
+{"country":"wal","name":"Connah's Quay Nomads","id":"Connah%27s_Quay_Nomads_F.C.","win":12,"draw":5,"loss":17,"for":49,"against":65},
+{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":10,"draw":10,"loss":14,"for":46,"against":54},
+{"country":"wal","name":"Welshpool Town","id":"Welshpool_Town_F.C.","win":11,"draw":7,"loss":16,"for":48,"against":70},
+{"country":"wal","name":"Airbus UK Broughton","id":"Airbus_UK_Broughton_F.C.","win":12,"draw":3,"loss":19,"for":47,"against":57},
+{"country":"wal","name":"Cefn Druids","id":"Cefn_Druids_A.F.C.","win":9,"draw":7,"loss":18,"for":57,"against":74},
+{"country":"wal","name":"Neath Athletic","id":"Neath_F.C.","win":10,"draw":4,"loss":20,"for":43,"against":65},
+{"country":"wal","name":"Prestatyn Town","id":"Prestatyn_Town_F.C.","win":8,"draw":9,"loss":17,"for":48,"against":70,"isNew":true},
+{"country":"wal","name":"CPD Porthmadog","id":"Porthmadog_F.C.","win":10,"draw":2,"loss":22,"for":57,"against":91},
+{"country":"wal","name":"Caersws FC","id":"Caersws_F.C.","win":6,"draw":7,"loss":21,"for":28,"against":61},
+{"country":"wal","name":"Caernarfon Town","id":"Caernarfon_Town_F.C.","win":5,"draw":8,"loss":21,"for":32,"against":73,"isRemoved":true,"deduct":-3,"deductReason":"Fielding ineligible player"}
 ]

@@ -677,4 +677,17 @@
 {"country":"mkd","name":"Pelister","id":"FK_Pelister","win":9,"draw":10,"loss":14,"for":27,"against":36,"isReturning":true},
 {"country":"mkd","name":"Teteks","id":"FK_Teteks","win":6,"draw":7,"loss":20,"for":22,"against":47,"isRemoved":true},
 {"country":"mkd","name":"Sileks","id":"FK_Sileks","win":6,"draw":5,"loss":22,"for":33,"against":61,"isRemoved":true}
+][
+{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":24,"draw":4,"loss":4,"for":86,"against":22,"isChampion":true},
+{"country":"wal","name":"Airbus UK Broughton","id":"Airbus_UK_Broughton_F.C.","win":17,"draw":3,"loss":12,"for":76,"against":42},
+{"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":14,"draw":9,"loss":9,"for":65,"against":53},
+{"country":"wal","name":"Port Talbot Town","id":"Port_Talbot_Town_F.C.","win":13,"draw":8,"loss":11,"for":51,"against":52},
+{"country":"wal","name":"Prestatyn Town","id":"Prestatyn_Town_F.C.","win":11,"draw":7,"loss":14,"for":62,"against":79},
+{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":10,"draw":7,"loss":15,"for":36,"against":50},
+{"country":"wal","name":"Bala Town","id":"Bala_Town_F.C.","win":17,"draw":5,"loss":10,"for":62,"against":41},
+{"country":"wal","name":"Connah's Quay Nomads","id":"Connah%27s_Quay_Nomads_F.C.","win":12,"draw":5,"loss":15,"for":62,"against":69,"deduct":-1,"deductReason":"Fielding an ineligible player","isReturning":true},
+{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":10,"draw":7,"loss":15,"for":44,"against":54},
+{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":9,"draw":10,"loss":13,"for":37,"against":58},
+{"country":"wal","name":"Llanelli","id":"Llanelli_Town_A.F.C.","win":10,"draw":6,"loss":16,"for":41,"against":68,"isRemoved":true},
+{"country":"wal","name":"Afan Lido","id":"Afan_Lido_F.C.","win":8,"draw":3,"loss":21,"for":43,"against":79}
 ]

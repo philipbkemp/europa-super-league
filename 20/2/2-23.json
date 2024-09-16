@@ -685,4 +685,17 @@
 {"country":"mkd","name":"Skopje","id":"FK_Skopje","win":4,"draw":10,"loss":16,"for":17,"against":44,"isRemoved":true},
 {"country":"mkd","name":"Pobeda","id":"FK_Pobeda_(2010)","win":3,"draw":4,"loss":23,"for":18,"against":78,"isRemoved":true,"isReturning":true},
 {"country":"mkd","name":"Renova","id":"KF_Renova","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before start of season"}
+][
+{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":26,"draw":5,"loss":1,"for":112,"against":17,"isChampion":true},
+{"country":"wal","name":"Connah's Quay Nomads","id":"Connah%27s_Quay_Nomads_F.C.","win":17,"draw":10,"loss":5,"for":45,"against":23},
+{"country":"wal","name":"Penybont","id":"Penybont_F.C.","win":16,"draw":10,"loss":6,"for":51,"against":32,"deduct":-6,"deductReason":"Fielding ineligible players"},
+{"country":"wal","name":"Cardiff Metropolitan University","id":"Cardiff_Metropolitan_University_F.C.","win":16,"draw":4,"loss":12,"for":41,"against":49},
+{"country":"wal","name":"Bala Town","id":"Bala_Town_F.C.","win":12,"draw":8,"loss":12,"for":51,"against":37},
+{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":12,"draw":5,"loss":15,"for":49,"against":56},
+{"country":"wal","name":"Haverfordwest County","id":"Haverfordwest_County_A.F.C.","win":14,"draw":5,"loss":13,"for":49,"against":44},
+{"country":"wal","name":"Pontypridd United","id":"Pontypridd_United_F.C.","win":12,"draw":5,"loss":15,"for":41,"against":52,"isNew":true},
+{"country":"wal","name":"Caernarfon Town","id":"Caernarfon_Town_F.C.","win":12,"draw":3,"loss":17,"for":51,"against":54},
+{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":11,"draw":5,"loss":16,"for":41,"against":73},
+{"country":"wal","name":"Flint Town United","id":"Flint_Town_United_F.C.","win":9,"draw":8,"loss":15,"for":41,"against":53,"isRemoved":true},
+{"country":"wal","name":"Airbus UK Broughton","id":"Airbus_UK_Broughton_F.C.","win":0,"draw":2,"loss":30,"for":18,"against":100,"isRemoved":true,"deduct":-6,"deductReason":"Fielding ineligible players","isReturning":true}
 ]

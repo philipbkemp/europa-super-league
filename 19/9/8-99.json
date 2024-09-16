@@ -704,4 +704,22 @@
 {"country":"mkd","name":"Osogovo","id":"FK_Osogovo","win":7,"draw":4,"loss":15,"for":27,"against":47,"isReturning":true},
 {"country":"mkd","name":"Skopje","id":"FK_Skopje","win":5,"draw":2,"loss":19,"for":25,"against":59,"isRemoved":true},
 {"country":"mkd","name":"Balkan","id":"FK_Balkan_Skopje","win":4,"draw":4,"loss":18,"for":14,"against":61,"isRemoved":true}
+][
+{"country":"wal","name":"Barry Town","id":"Barry_Town_United_F.C.","win":23,"draw":7,"loss":2,"for":82,"against":23,"isChampion":true},
+{"country":"wal","name":"Inter Cardiff","id":"Inter_Cardiff_F.C.","win":19,"draw":6,"loss":7,"for":61,"against":26},
+{"country":"wal","name":"Cwmbran Town","id":"Cwmbrân_Town_A.F.C.","win":17,"draw":6,"loss":9,"for":73,"against":44},
+{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":16,"draw":9,"loss":7,"for":59,"against":47},
+{"country":"wal","name":"Caernarfon Town","id":"Caernarfon_Town_F.C.","win":13,"draw":11,"loss":8,"for":45,"against":46},
+{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":13,"draw":10,"loss":9,"for":45,"against":35},
+{"country":"wal","name":"Conwy United","id":"Conwy_Borough_F.C.","win":14,"draw":7,"loss":11,"for":54,"against":49},
+{"country":"wal","name":"Total Network Solutions","id":"The_New_Saints_F.C.","win":12,"draw":11,"loss":9,"for":55,"against":42},
+{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":13,"draw":8,"loss":11,"for":46,"against":46},
+{"country":"wal","name":"Caersws","id":"Caersws_F.C.","win":12,"draw":8,"loss":12,"for":49,"against":55},
+{"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":11,"draw":6,"loss":15,"for":44,"against":49},
+{"country":"wal","name":"Connah's Quay Nomads","id":"Connah%27s_Quay_Nomads_F.C.","win":10,"draw":8,"loss":14,"for":43,"against":46},
+{"country":"wal","name":"Haverfordwest County","id":"Haverfordwest_County_A.F.C.","win":9,"draw":7,"loss":16,"for":43,"against":60},
+{"country":"wal","name":"Afan Lido","id":"Afan_Lido_F.C.","win":7,"draw":10,"loss":15,"for":28,"against":46,"isReturning":true},
+{"country":"wal","name":"Rhayader Town","id":"Rhayader_Town_F.C.","win":5,"draw":11,"loss":16,"for":29,"against":54},
+{"country":"wal","name":"Rhyl","id":"Rhyl_F.C.","win":7,"draw":2,"loss":23,"for":40,"against":80},
+{"country":"wal","name":"Holywell Town","id":"Holywell_Town_F.C.","win":3,"draw":9,"loss":20,"for":38,"against":86,"isRemoved":true,"isReturning":true}
 ]

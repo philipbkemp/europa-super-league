@@ -679,4 +679,17 @@
 {"country":"mkd","name":"Napredok","id":"FK_Napredok","win":10,"draw":7,"loss":16,"for":30,"against":48,"isReturning":true},
 {"country":"mkd","name":"Vardar","id":"FK_Vardar","win":9,"draw":5,"loss":19,"for":24,"against":44,"deduct":-3,"deductReason":"Failing to attend a match"},
 {"country":"mkd","name":"Pelister","id":"FK_Pelister","win":5,"draw":3,"loss":25,"for":25,"against":82,"isRemoved":true}
+][
+{"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":22,"draw":4,"loss":6,"for":80,"against":44,"isChampion":true},
+{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":20,"draw":8,"loss":4,"for":87,"against":34},
+{"country":"wal","name":"Neath","id":"Neath_F.C.","win":16,"draw":10,"loss":6,"for":62,"against":41},
+{"country":"wal","name":"Llanelli","id":"Llanelli_Town_A.F.C.","win":15,"draw":8,"loss":9,"for":58,"against":41},
+{"country":"wal","name":"Prestatyn Town","id":"Prestatyn_Town_F.C.","win":10,"draw":10,"loss":12,"for":44,"against":46},
+{"country":"wal","name":"Port Talbot Town","id":"Port_Talbot_Town_F.C.","win":8,"draw":12,"loss":12,"for":37,"against":48},
+{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":11,"draw":9,"loss":12,"for":42,"against":54},
+{"country":"wal","name":"Airbus UK Broughton","id":"Airbus_UK_Broughton_F.C.","win":11,"draw":8,"loss":13,"for":53,"against":52},
+{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":8,"draw":11,"loss":13,"for":40,"against":55},
+{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":10,"draw":5,"loss":17,"for":39,"against":64},
+{"country":"wal","name":"Bala Town","id":"Bala_Town_F.C.","win":10,"draw":3,"loss":19,"for":41,"against":57},
+{"country":"wal","name":"Haverfordwest County","id":"Haverfordwest_County_A.F.C.","win":5,"draw":4,"loss":23,"for":30,"against":77,"isRemoved":true}
 ]

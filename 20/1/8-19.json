@@ -645,4 +645,17 @@
 {"country":"mkd-mkd","name":"Sileks","id":"FK_Sileks","win":11,"draw":11,"loss":14,"for":27,"against":39},
 {"country":"mkd-mkd","name":"Belasica","id":"FK_Belasica","win":9,"draw":11,"loss":16,"for":37,"against":49,"isRemoved":true,"isReturning":true},
 {"country":"mkd-mkd","name":"Pobeda","id":"FK_Pobeda_(2010)","win":6,"draw":5,"loss":25,"for":26,"against":76,"isRemoved":true}
+][
+{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":23,"draw":5,"loss":4,"for":99,"against":16,"isChampion":true},
+{"country":"wal","name":"Connah's Quay Nomads","id":"Connah%27s_Quay_Nomads_F.C.","win":19,"draw":5,"loss":8,"for":76,"against":33},
+{"country":"wal","name":"Barry Town United","id":"Barry_Town_United_F.C.","win":17,"draw":5,"loss":10,"for":54,"against":51},
+{"country":"wal","name":"Caernarfon Town","id":"Caernarfon_Town_F.C.","win":13,"draw":7,"loss":12,"for":45,"against":47,"isReturning":true},
+{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":13,"draw":7,"loss":12,"for":53,"against":56},
+{"country":"wal","name":"Bala Town","id":"Bala_Town_F.C.","win":13,"draw":5,"loss":14,"for":55,"against":63},
+{"country":"wal","name":"Cardiff Metropolitan University","id":"Cardiff_Metropolitan_University_F.C.","win":16,"draw":3,"loss":13,"for":53,"against":40},
+{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":13,"draw":5,"loss":14,"for":44,"against":61},
+{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":12,"draw":6,"loss":14,"for":49,"against":53,"deduct":-3,"deductReason":"Fielding an ineligible player"},
+{"country":"wal","name":"Cefn Druids","id":"Cefn_Druids_A.F.C.","win":10,"draw":9,"loss":13,"for":43,"against":49},
+{"country":"wal","name":"Llandudno","id":"Llandudno_F.C.","win":5,"draw":7,"loss":20,"for":33,"against":65,"isRemoved":true},
+{"country":"wal","name":"Llanelli Town","id":"Llanelli_Town_A.F.C.","win":4,"draw":4,"loss":24,"for":31,"against":101,"isRemoved":true,"isReturning":true}
 ]

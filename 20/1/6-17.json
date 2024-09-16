@@ -634,4 +634,17 @@
 {"country":"mkd","name":"Shkupi","id":"KF_Shkupi","win":8,"draw":13,"loss":15,"for":27,"against":39},
 {"country":"mkd","name":"Bregalnica","id":"FK_Bregalnica_Štip","win":4,"draw":12,"loss":20,"for":39,"against":69,"isRemoved":true},
 {"country":"mkd","name":"Makedonija G.P.","id":"FK_Makedonija_G.P.","win":4,"draw":11,"loss":21,"for":35,"against":80,"isRemoved":true,"isReturning":true}
+][
+{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":28,"draw":1,"loss":3,"for":101,"against":26,"isChampion":true},
+{"country":"wal","name":"Connah's Quay Nomads","id":"Connah%27s_Quay_Nomads_F.C.","win":16,"draw":10,"loss":6,"for":45,"against":24},
+{"country":"wal","name":"Bala Town","id":"Bala_Town_F.C.","win":16,"draw":9,"loss":7,"for":61,"against":46},
+{"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":16,"draw":4,"loss":12,"for":53,"against":53},
+{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":10,"draw":9,"loss":13,"for":40,"against":46},
+{"country":"wal","name":"Cardiff Metropolitan University","id":"Cardiff_Metropolitan_University_F.C.","win":10,"draw":6,"loss":16,"for":41,"against":41,"isNew":true},
+{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":12,"draw":9,"loss":11,"for":59,"against":41},
+{"country":"wal","name":"Cefn Druids","id":"Cefn_Druids_A.F.C.","win":9,"draw":12,"loss":11,"for":40,"against":48,"isReturning":true},
+{"country":"wal","name":"Llandudno","id":"Llandudno_F.C.","win":7,"draw":14,"loss":11,"for":31,"against":45},
+{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":10,"draw":4,"loss":18,"for":41,"against":63},
+{"country":"wal","name":"Rhyl","id":"Rhyl_F.C.","win":8,"draw":6,"loss":18,"for":38,"against":76,"isRemoved":true},
+{"country":"wal","name":"Airbus UK Broughton","id":"Airbus_UK_Broughton_F.C.","win":5,"draw":6,"loss":21,"for":37,"against":78,"isRemoved":true}
 ]

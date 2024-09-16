@@ -677,4 +677,23 @@
 {"country":"mkd","name":"Makedonija G.P.","id":"FK_Makedonija_G.P.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Expelled from the league; Record expunged"},
 {"country":"mkd","name":"Sloga Jugomagnat","id":"FK_Sloga_Jugomagnat","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Expelled from the league; Record expunged","isReturning":true},
 {"country":"mkd","name":"Pobeda","id":"FK_Pobeda","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Expelled from the league; Record expunged"}
+][
+{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":25,"draw":7,"loss":2,"for":69,"against":13,"isChampion":true},
+{"country":"wal","name":"Llanelli","id":"Llanelli_Town_A.F.C.","win":25,"draw":5,"loss":4,"for":79,"against":26},
+{"country":"wal","name":"Port Talbot Town","id":"Port_Talbot_Town_F.C.","win":19,"draw":8,"loss":7,"for":56,"against":23},
+{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":19,"draw":7,"loss":8,"for":54,"against":41},
+{"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":19,"draw":6,"loss":9,"for":75,"against":45},
+{"country":"wal","name":"Rhyl","id":"Rhyl_F.C.","win":18,"draw":8,"loss":8,"for":74,"against":43,"isRemoved":true,"removedNote":"Administratively relegated after failing to earn a license"},
+{"country":"wal","name":"Airbus UK Broughton","id":"Airbus_UK_Broughton_F.C.","win":12,"draw":13,"loss":9,"for":49,"against":37},
+{"country":"wal","name":"Prestatyn Town","id":"Prestatyn_Town_F.C.","win":12,"draw":12,"loss":10,"for":53,"against":53},
+{"country":"wal","name":"Neath","id":"Neath_F.C.","win":12,"draw":11,"loss":11,"for":41,"against":38},
+{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":12,"draw":9,"loss":13,"for":45,"against":38},
+{"country":"wal","name":"Bala Town","id":"Bala_Town_F.C.","win":12,"draw":9,"loss":13,"for":39,"against":47,"isNew":true},
+{"country":"wal","name":"Haverfordwest County","id":"Haverfordwest_County_A.F.C.","win":11,"draw":11,"loss":12,"for":43,"against":47},
+{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":10,"draw":11,"loss":13,"for":54,"against":57},
+{"country":"wal","name":"Connah's Quay","id":"Connah%27s_Quay_Nomads_F.C.","win":11,"draw":8,"loss":15,"for":31,"against":42,"isRemoved":true},
+{"country":"wal","name":"CPD Porthmadog","id":"Porthmadog_F.C.","win":6,"draw":6,"loss":22,"for":23,"against":66,"isRemoved":true},
+{"country":"wal","name":"Welshpool Town","id":"Welshpool_Town_F.C.","win":6,"draw":5,"loss":23,"for":30,"against":70,"isRemoved":true},
+{"country":"wal","name":"Caersws FC","id":"Caersws_F.C.","win":3,"draw":4,"loss":27,"for":26,"against":94,"isRemoved":true},
+{"country":"wal","name":"Cefn Druids","id":"Cefn_Druids_A.F.C.","win":1,"draw":6,"loss":27,"for":16,"against":77,"isRemoved":true}
 ]

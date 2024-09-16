@@ -703,4 +703,26 @@
 {"country":"mkd","name":"Ohrid","id":"FK_Ohrid","win":8,"draw":7,"loss":13,"for":29,"against":39,"isRemoved":true},
 {"country":"mkd","name":"Osogovo","id":"FK_Osogovo","win":6,"draw":8,"loss":14,"for":31,"against":53,"isRemoved":true},
 {"country":"mkd","name":"Ljuboten","id":"FK_Ljuboten","win":6,"draw":1,"loss":21,"for":27,"against":87,"isRemoved":true}
+][
+{"country":"wal","name":"Barry Town","id":"Barry_Town_United_F.C.","win":30,"draw":7,"loss":3,"for":92,"against":23,"isChampion":true},
+{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":23,"draw":11,"loss":6,"for":69,"against":25},
+{"country":"wal","name":"Conwy United","id":"Conwy_Borough_F.C.","win":21,"draw":13,"loss":6,"for":101,"against":58},
+{"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":21,"draw":6,"loss":13,"for":72,"against":65},
+{"country":"wal","name":"Flint Town United","id":"Flint_Town_United_F.C.","win":19,"draw":9,"loss":12,"for":76,"against":57},
+{"country":"wal","name":"Caernarfon Town","id":"Caernarfon_Town_F.C.","win":16,"draw":13,"loss":11,"for":77,"against":59,"isNew":true},
+{"country":"wal","name":"Cwmbran Town","id":"Cwmbrân_Town_A.F.C.","win":14,"draw":15,"loss":11,"for":58,"against":49},
+{"country":"wal","name":"Caersws","id":"Caersws_F.C.","win":15,"draw":10,"loss":15,"for":81,"against":95},
+{"country":"wal","name":"Inter Cardiff","id":"Inter_Cardiff_F.C.","win":14,"draw":12,"loss":14,"for":62,"against":62},
+{"country":"wal","name":"Connah's Quay Nomads","id":"Connah%27s_Quay_Nomads_F.C.","win":13,"draw":14,"loss":13,"for":68,"against":63},
+{"country":"wal","name":"Ebbw Vale","id":"Ebbw_Vale_F.C.","win":14,"draw":11,"loss":15,"for":59,"against":56},
+{"country":"wal","name":"Llansantffraid","id":"The_New_Saints_F.C.","win":14,"draw":10,"loss":16,"for":66,"against":57},
+{"country":"wal","name":"Porthmadog","id":"Porthmadog_F.C.","win":13,"draw":11,"loss":16,"for":56,"against":62},
+{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":13,"draw":9,"loss":18,"for":60,"against":68},
+{"country":"wal","name":"Cemaes Bay","id":"Cemaes_Bay_F.C.","win":13,"draw":7,"loss":20,"for":63,"against":80,"isNew":true},
+{"country":"wal","name":"Holywell Town","id":"Holywell_Town_F.C.","win":12,"draw":7,"loss":21,"for":53,"against":74},
+{"country":"wal","name":"Briton Ferry Athletic","id":"Briton_Ferry_Athletic_F.C.","win":11,"draw":9,"loss":20,"for":64,"against":91,"isReturning":true},
+{"country":"wal","name":"Rhyl","id":"Rhyl_F.C.","win":11,"draw":9,"loss":20,"for":47,"against":83},
+{"country":"wal","name":"Ton Pentre","id":"Ton_Pentre_F.C.","win":8,"draw":16,"loss":16,"for":46,"against":65},
+{"country":"wal","name":"Afan Lido","id":"Afan_Lido_F.C.","win":9,"draw":9,"loss":22,"for":33,"against":71,"isRemoved":true},
+{"country":"wal","name":"Llanelli","id":"Llanelli_Town_A.F.C.","win":7,"draw":10,"loss":23,"for":48,"against":88,"isRemoved":true}
 ]

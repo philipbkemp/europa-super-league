@@ -681,4 +681,17 @@
 {"country":"mkd","name":"Teteks","id":"FK_Teteks","win":8,"draw":11,"loss":14,"for":23,"against":48},
 {"country":"mkd","name":"Ohrid","id":"FK_Ohrid","win":6,"draw":8,"loss":19,"for":26,"against":62,"isRemoved":true,"isReturning":true},
 {"country":"mkd","name":"11 Oktomvri","id":"FK_11_Oktomvri","win":3,"draw":7,"loss":23,"for":26,"against":58,"isRemoved":true,"isNew":true}
+][
+{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":23,"draw":5,"loss":4,"for":75,"against":31,"isChampion":true},
+{"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":22,"draw":3,"loss":7,"for":72,"against":45},
+{"country":"wal","name":"Neath","id":"Neath_F.C.","win":18,"draw":8,"loss":6,"for":60,"against":36,"isRemoved":true,"removedNote":"Administratively relegated after failing to earn a license"},
+{"country":"wal","name":"Llanelli","id":"Llanelli_Town_A.F.C.","win":18,"draw":5,"loss":9,"for":63,"against":36},
+{"country":"wal","name":"Bala Town","id":"Bala_Town_F.C.","win":14,"draw":7,"loss":11,"for":48,"against":41},
+{"country":"wal","name":"Prestatyn Town","id":"Prestatyn_Town_F.C.","win":8,"draw":4,"loss":20,"for":41,"against":63},
+{"country":"wal","name":"Airbus UK Broughton","id":"Airbus_UK_Broughton_F.C.","win":10,"draw":9,"loss":13,"for":48,"against":50},
+{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":8,"draw":10,"loss":14,"for":44,"against":50,"deduct":-1,"deductReason":"Fielding ineligible player"},
+{"country":"wal","name":"Port Talbot Town","id":"Port_Talbot_Town_F.C.","win":8,"draw":9,"loss":15,"for":39,"against":51},
+{"country":"wal","name":"Afan Lido","id":"Afan_Lido_F.C.","win":7,"draw":11,"loss":14,"for":40,"against":55,"isReturning":true},
+{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":10,"draw":2,"loss":20,"for":33,"against":67},
+{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":7,"draw":5,"loss":20,"for":44,"against":82,"deduct":-3,"deductReason":"Fielding ineligible players"}
 ]

@@ -677,4 +677,17 @@
 {"country":"mkd","name":"Tikvesh","id":"GFK_Tikvesh","win":9,"draw":7,"loss":17,"for":36,"against":38,"isReturning":true},
 {"country":"mkd","name":"Borec","id":"FK_Borec","win":5,"draw":6,"loss":22,"for":25,"against":66,"isRemoved":true},
 {"country":"mkd","name":"Pelister","id":"FK_Pelister","win":2,"draw":8,"loss":23,"for":16,"against":54,"isRemoved":true}
+][
+{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":25,"draw":5,"loss":2,"for":86,"against":26,"isChampion":true},
+{"country":"wal","name":"Bala Town","id":"Bala_Town_F.C.","win":16,"draw":11,"loss":5,"for":67,"against":37},
+{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":15,"draw":6,"loss":11,"for":50,"against":35},
+{"country":"wal","name":"Caernarfon Town","id":"Caernarfon_Town_F.C.","win":13,"draw":4,"loss":15,"for":46,"against":53},
+{"country":"wal","name":"Flint Town United","id":"Flint_Town_United_F.C.","win":12,"draw":6,"loss":14,"for":51,"against":53},
+{"country":"wal","name":"Penybont","id":"Penybont_F.C.","win":10,"draw":10,"loss":12,"for":49,"against":57},
+{"country":"wal","name":"Cardiff Metropolitan University","id":"Cardiff_Metropolitan_University_F.C.","win":10,"draw":12,"loss":10,"for":35,"against":38},
+{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":11,"draw":7,"loss":14,"for":38,"against":45},
+{"country":"wal","name":"Connah's Quay Nomads","id":"Connah%27s_Quay_Nomads_F.C.","win":15,"draw":11,"loss":6,"for":44,"against":18,"deduct":-18,"deductReason":"Fielding an ineligible player in six matches"},
+{"country":"wal","name":"Haverfordwest County","id":"Haverfordwest_County_A.F.C.","win":10,"draw":8,"loss":14,"for":45,"against":46},
+{"country":"wal","name":"Barry Town United","id":"Barry_Town_United_F.C.","win":8,"draw":7,"loss":17,"for":31,"against":47,"isRemoved":true},
+{"country":"wal","name":"Cefn Druids","id":"Cefn_Druids_A.F.C.","win":2,"draw":3,"loss":27,"for":22,"against":109,"isRemoved":true}
 ]
