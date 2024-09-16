@@ -343,7 +343,7 @@
 {"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":13,"draw":4,"loss":17,"for":47,"against":52},
 {"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":11,"draw":8,"loss":15,"for":41,"against":46},
 {"country":"yug","name":"Čelik","id":"NK_Čelik_Zenica","win":11,"draw":8,"loss":15,"for":39,"against":49,"isReturning":true},
-{"country":"yug","name":"OFK Belgrade","id":"OFK_Beograd","win":12,"draw":6,"loss":16,"for":48,"against":63,"isRemoved":true,"isReturning":true},
+{"country":"yug","name":"OFK Belgrade","id":"ofk_beograd","win":12,"draw":6,"loss":16,"for":48,"against":63,"isRemoved":true,"isReturning":true},
 {"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":6,"draw":8,"loss":20,"for":33,"against":69,"isRemoved":true}
 ][
 {"country":"bgr","name":"Beroe Stara Zagora","id":"PFC_Beroe_Stara_Zagora","win":20,"draw":4,"loss":6,"for":55,"against":36,"isChampion":true},

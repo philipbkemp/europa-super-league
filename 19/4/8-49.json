@@ -256,7 +256,7 @@
 {"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":7,"draw":5,"loss":6,"for":29,"against":25},
 {"country":"yug","name":"Naša Krila","id":"FK_Naša_Krila_Zemun","win":6,"draw":4,"loss":8,"for":32,"against":28,"isNew":true},
 {"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":6,"draw":4,"loss":8,"for":29,"against":36,"isReturning":true},
-{"country":"yug","name":"Metalac Belgrade","id":"OFK_Beograd","win":5,"draw":4,"loss":9,"for":31,"against":34},
+{"country":"yug","name":"Metalac Belgrade","id":"ofk_beograd","win":5,"draw":4,"loss":9,"for":31,"against":34},
 {"country":"yug","name":"Lokomotiva","id":"NK_Lokomotiva_Zagreb","win":6,"draw":1,"loss":11,"for":23,"against":38},
 {"country":"yug","name":"Sloga Novi Sad","id":"FK_Vojvodina","win":5,"draw":2,"loss":11,"for":17,"against":31,"isRemoved":true,"isReturning":true},
 {"country":"yug","name":"Ponziana","id":"ASD_Ponziana","win":3,"draw":4,"loss":11,"for":12,"against":45,"isRemoved":true}

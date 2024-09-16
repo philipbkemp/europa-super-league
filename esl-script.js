@@ -37,7 +37,7 @@ const countries = {
 	"yug": "Yugoslavia"
 };
 
-clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc","knattspyrnufelagio_vikingur","sliema_wanderers_fc","ac_sparta_prague","knattspyrnufelag_reykjavikur","sk_slavia_prague","boldklubben_frem","fa_red_boys_differdange","valur","sk_rapid_wien","js_estonia_tallinn","olimpia_liepaja","fc_porto"];
+clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc","knattspyrnufelagio_vikingur","sliema_wanderers_fc","ac_sparta_prague","knattspyrnufelag_reykjavikur","sk_slavia_prague","boldklubben_frem","fa_red_boys_differdange","valur","sk_rapid_wien","js_estonia_tallinn","olimpia_liepaja","fc_porto","ofk_beograd"];
 
 if ( $("h1 .placeholder").length !== 0 ) {
 
@@ -768,6 +768,9 @@ function saveClubs(refresh=false) {
 				console.log("<tr class='"+classes+"'>"+$sr.html()+"</tr>");
 				$sr.html(original);
 				clubName = $($sr.find("th")[0]);
+				if ( v === "ofk_beograd" ) {
+					countryFlag = "srb";
+				}
 				clubName.html( clubName.html().replace(clubName.text(),"<a href='../../clubs/"+countryFlag+"/"+$sr.attr("id")+".html'>"+clubName.text()+"</a>") );
 			}
 		}

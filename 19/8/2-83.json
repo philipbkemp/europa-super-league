@@ -351,7 +351,7 @@
 {"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":11,"draw":9,"loss":14,"for":39,"against":52},
 {"country":"yug","name":"Rijeka","id":"HNK_Rijeka","win":10,"draw":10,"loss":14,"for":51,"against":52},
 {"country":"yug","name":"Osijek","id":"NK_Osijek","win":11,"draw":7,"loss":16,"for":48,"against":51},
-{"country":"yug","name":"OFK Belgrade","id":"OFK_Beograd","win":9,"draw":10,"loss":15,"for":38,"against":45,"isRemoved":true},
+{"country":"yug","name":"OFK Belgrade","id":"ofk_beograd","win":9,"draw":10,"loss":15,"for":38,"against":45,"isRemoved":true},
 {"country":"yug","name":"Galenika Zemun","id":"FK_Zemun","win":4,"draw":12,"loss":18,"for":31,"against":56,"isRemoved":true,"isNew":true}
 ][
 {"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":18,"draw":9,"loss":3,"for":52,"against":26,"isChampion":true},

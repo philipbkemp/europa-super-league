@@ -180,7 +180,7 @@
 	{"country":"hrv","name":"HŠK Željezničar Zagreb","id":"NK_Lokomotiva_Zagreb","win":2,"draw":6,"loss":10,"for":20,"against":43,"isNew":true},
 	{"country":"hrv","name":"HŠK Slavija Osijek","id":"JŠK_Slavija_Osijek","win":3,"draw":3,"loss":12,"for":23,"against":53,"isReturning":true,"isRemoved":true},
 	{"country":"hrv","name":"HAD Bačka Subotica","id":"FK_Bačka_1901","win":2,"draw":3,"loss":13,"for":19,"against":58,"isNew":true,"isRemoved":true},
-	{"country":"srb","name":"BSK Belgrade","id":"OFK_Beograd","win":15,"draw":2,"loss":1,"for":63,"against":17,"isChampion":true},
+	{"country":"srb","name":"BSK Belgrade","id":"ofk_beograd","win":15,"draw":2,"loss":1,"for":63,"against":17,"isChampion":true},
 	{"country":"srb","name":"Jugoslavija Belgrade","id":"SK_Jugoslavija","win":11,"draw":4,"loss":3,"for":41,"against":21},
 	{"country":"srb","name":"Vojvodina Novi Sad","id":"FK_Vojvodina","win":7,"draw":5,"loss":8,"for":36,"against":28,"isReturning":true,"isRemoved":true},
 	{"country":"srb","name":"Jedinstvo Belgrade","id":"SK_Jedinstvo_Beograd","win":8,"draw":2,"loss":7,"for":20,"against":21,"isReturning":true},

@@ -301,7 +301,7 @@
 {"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":13,"draw":4,"loss":5,"for":34,"against":22},
 {"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":10,"draw":7,"loss":5,"for":36,"against":27},
 {"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":10,"draw":3,"loss":9,"for":32,"against":29},
-{"country":"yug","name":"OFK Belgrade","id":"OFK_Beograd","win":8,"draw":7,"loss":7,"for":30,"against":30},
+{"country":"yug","name":"OFK Belgrade","id":"ofk_beograd","win":8,"draw":7,"loss":7,"for":30,"against":30},
 {"country":"yug","name":"Rijeka","id":"HNK_Rijeka","win":10,"draw":2,"loss":10,"for":32,"against":36},
 {"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":6,"draw":6,"loss":10,"for":33,"against":39},
 {"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":5,"draw":7,"loss":10,"for":27,"against":39},

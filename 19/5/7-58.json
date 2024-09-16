@@ -300,7 +300,7 @@
 {"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":8,"draw":9,"loss":9,"for":30,"against":36},
 {"country":"yug","name":"RNK Split","id":"RNK_Split","win":12,"draw":1,"loss":13,"for":35,"against":42,"isRemoved":true,"isReturning":true},
 {"country":"yug","name":"Spartak Subotica","id":"FK_Spartak_Subotica","win":10,"draw":4,"loss":12,"for":50,"against":45,"isRemoved":true},
-{"country":"yug","name":"OFK Belgrade","id":"OFK_Beograd","win":6,"draw":8,"loss":12,"for":27,"against":50,"isRemoved":true},
+{"country":"yug","name":"OFK Belgrade","id":"ofk_beograd","win":6,"draw":8,"loss":12,"for":27,"against":50,"isRemoved":true},
 {"country":"yug","name":"NK Zagreb","id":"Borac_Zagreb","win":5,"draw":5,"loss":16,"for":31,"against":61,"isRemoved":true}
 ][
 {"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":7,"draw":4,"loss":0,"for":19,"against":9,"isChampion":true},

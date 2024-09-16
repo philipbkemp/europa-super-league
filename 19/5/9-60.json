@@ -309,7 +309,7 @@
 {"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":10,"draw":7,"loss":5,"for":36,"against":22},
 {"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":10,"draw":6,"loss":6,"for":47,"against":26},
 {"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":9,"draw":5,"loss":8,"for":35,"against":39},
-{"country":"yug","name":"OFK Belgrade","id":"OFK_Beograd","win":7,"draw":7,"loss":8,"for":28,"against":30,"isReturning":true},
+{"country":"yug","name":"OFK Belgrade","id":"ofk_beograd","win":7,"draw":7,"loss":8,"for":28,"against":30,"isReturning":true},
 {"country":"yug","name":"Rijeka","id":"HNK_Rijeka","win":7,"draw":4,"loss":11,"for":30,"against":52},
 {"country":"yug","name":"Radnički Beograd","id":"FK_Radnički_Beograd","win":5,"draw":7,"loss":10,"for":31,"against":38},
 {"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":5,"draw":7,"loss":10,"for":27,"against":39},

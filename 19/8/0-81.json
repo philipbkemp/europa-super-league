@@ -349,7 +349,7 @@
 {"country":"yug","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":8,"draw":16,"loss":10,"for":29,"against":33},
 {"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":12,"draw":8,"loss":14,"for":47,"against":53},
 {"country":"yug","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":11,"draw":10,"loss":13,"for":42,"against":51},
-{"country":"yug","name":"OFK Belgrade","id":"OFK_Beograd","win":8,"draw":14,"loss":12,"for":34,"against":39,"isReturning":true},
+{"country":"yug","name":"OFK Belgrade","id":"ofk_beograd","win":8,"draw":14,"loss":12,"for":34,"against":39,"isReturning":true},
 {"country":"yug","name":"NK Zagreb","id":"Borac_Zagreb","win":11,"draw":8,"loss":15,"for":43,"against":55,"isReturning":true},
 {"country":"yug","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":10,"draw":9,"loss":15,"for":35,"against":44,"isRemoved":true},
 {"country":"yug","name":"Napredak Kruševac","id":"FK_Napredak_Kruševac","win":9,"draw":8,"loss":17,"for":45,"against":60,"isRemoved":true}

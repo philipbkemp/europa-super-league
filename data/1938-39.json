@@ -209,7 +209,7 @@
 	{"country":"ltu","name":"LFLS Kaunas","id":"LFLS_Kaunas","win":4,"draw":3,"loss":6,"for":20,"against":25,"isRemoved":true,"removedNote":"Next season was split into two seasonal groups with regions"},
 	{"country":"ltu","name":"MSK Kaunas","id":"MSK_Kaunas","win":4,"draw":1,"loss":8,"for":15,"against":26,"isRemoved":true,"removedNote":"Next season was split into two seasonal groups with regions"},
 	{"country":"ltu","name":"Švyturys Klaipėda","id":"Švyturys_Klaipėda","win":1,"draw":1,"loss":5,"for":9,"against":20,"isRemoved":true,"removedNote":"Next season was split into two seasonal groups with regions"},
-	{"country":"yug","name":"BSK Belgrade","id":"OFK_Beograd","win":17,"draw":3,"loss":2,"for":67,"against":14,"isChampion":true},
+	{"country":"yug","name":"BSK Belgrade","id":"ofk_beograd","win":17,"draw":3,"loss":2,"for":67,"against":14,"isChampion":true},
 	{"country":"yug","name":"Građanski Zagreb","id":"HŠK_Građanski_Zagreb","win":14,"draw":4,"loss":4,"for":53,"against":17},
 	{"country":"yug","name":"Jugoslavija Belgrade","id":"SK_Jugoslavija","win":12,"draw":4,"loss":6,"for":37,"against":24},
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":11,"draw":5,"loss":6,"for":51,"against":30},

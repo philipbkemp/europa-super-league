@@ -338,7 +338,7 @@
 {"country":"yug","name":"Partizan","id":"FK_Partizan","win":9,"draw":11,"loss":14,"for":39,"against":47},
 {"country":"yug","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":11,"draw":7,"loss":16,"for":34,"against":53},
 {"country":"yug","name":"NK Zagreb","id":"Borac_Zagreb","win":8,"draw":12,"loss":14,"for":32,"against":39,"isRemoved":true},
-{"country":"yug","name":"OFK Belgrade","id":"OFK_Beograd","win":5,"draw":12,"loss":17,"for":30,"against":55,"isRemoved":true}
+{"country":"yug","name":"OFK Belgrade","id":"ofk_beograd","win":5,"draw":12,"loss":17,"for":30,"against":55,"isRemoved":true}
 ][
 {"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":18,"draw":7,"loss":5,"for":54,"against":29,"isChampion":true},
 {"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":14,"draw":12,"loss":4,"for":49,"against":26},

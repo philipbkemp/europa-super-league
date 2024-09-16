@@ -149,7 +149,7 @@
 	{"country":"irl","name":"Bray Unknowns","id":"Bray_Unknowns_F.C.","win":2,"draw":4,"loss":12,"for":24,"against":58},
 	{"country":"yug","name":"Građanski","id":"HŠK_Građanski_Zagreb","win":4,"draw":1,"loss":0,"for":10,"against":5,"isChampion":true,"isNew":true},
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":2,"draw":2,"loss":1,"for":13,"against":7},
-	{"country":"yug","name":"BSK","id":"OFK_Beograd","win":3,"draw":0,"loss":2,"for":12,"against":15},
+	{"country":"yug","name":"BSK","id":"ofk_beograd","win":3,"draw":0,"loss":2,"for":12,"against":15},
 	{"country":"yug","name":"SAŠK","id":"NK_SAŠK_Napredak","win":2,"draw":1,"loss":2,"for":13,"against":8,"isRemoved":true},
 	{"country":"yug","name":"HAŠK","id":"HAŠK","win":1,"draw":0,"loss":4,"for":9,"against":13},
 	{"country":"yug","name":"SK Jugoslavija","id":"SK_Jugoslavija","win":0,"draw":2,"loss":3,"for":5,"against":14,"isNew":true},
