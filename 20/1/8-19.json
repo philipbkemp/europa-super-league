@@ -658,4 +658,21 @@
 {"country":"wal","name":"Cefn Druids","id":"Cefn_Druids_A.F.C.","win":10,"draw":9,"loss":13,"for":43,"against":49},
 {"country":"wal","name":"Llandudno","id":"Llandudno_F.C.","win":5,"draw":7,"loss":20,"for":33,"against":65,"isRemoved":true},
 {"country":"wal","name":"Llanelli Town","id":"Llanelli_Town_A.F.C.","win":4,"draw":4,"loss":24,"for":31,"against":101,"isRemoved":true,"isReturning":true}
+][
+{"country":"cze","name":"Slavia Prague","id":"sk_slavia_prague","win":26,"draw":5,"loss":4,"for":79,"against":26,"isChampion":true},
+{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":24,"draw":6,"loss":5,"for":57,"against":32},
+{"country":"cze","name":"Sparta Prague","id":"ac_sparta_prague","win":20,"draw":6,"loss":9,"for":59,"against":33},
+{"country":"cze","name":"Jablonec","id":"FK_Jablonec","win":17,"draw":6,"loss":12,"for":58,"against":32},
+{"country":"cze","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":13,"draw":8,"loss":14,"for":39,"against":43},
+{"country":"cze","name":"Slovan Liberec","id":"FC_Slovan_Liberec","win":12,"draw":10,"loss":13,"for":34,"against":32},
+{"country":"cze","name":"Mladá Boleslav","id":"FK_Mladá_Boleslav","win":11,"draw":9,"loss":10,"for":52,"against":44},
+{"country":"cze","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":12,"draw":4,"loss":14,"for":37,"against":43},
+{"country":"cze","name":"Fastav Zlín","id":"FC_Zlín","win":12,"draw":3,"loss":15,"for":32,"against":40},
+{"country":"cze","name":"Teplice","id":"FK_Teplice","win":10,"draw":6,"loss":14,"for":32,"against":42},
+{"country":"cze","name":"Bohemians 1905","id":"Bohemians_1905","win":9,"draw":13,"loss":13,"for":33,"against":43},
+{"country":"cze","name":"Slovácko","id":"1._FC_Slovácko","win":13,"draw":6,"loss":16,"for":43,"against":47},
+{"country":"cze","name":"Opava","id":"SFC_Opava","win":12,"draw":7,"loss":16,"for":47,"against":57,"isReturning":true},
+{"country":"cze","name":"Příbram","id":"FK_Příbram","win":11,"draw":7,"loss":17,"for":43,"against":73,"isReturning":true},
+{"country":"cze","name":"Karviná","id":"MFK_Karviná","win":9,"draw":5,"loss":21,"for":42,"against":58},
+{"country":"cze","name":"Dukla Prague","id":"FK_Dukla_Prague","win":5,"draw":7,"loss":23,"for":30,"against":72,"isRemoved":true}
 ]

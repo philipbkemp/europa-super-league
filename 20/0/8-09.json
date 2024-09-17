@@ -699,4 +699,21 @@
 {"country":"wal","name":"CPD Porthmadog","id":"Porthmadog_F.C.","win":10,"draw":2,"loss":22,"for":57,"against":91},
 {"country":"wal","name":"Caersws FC","id":"Caersws_F.C.","win":6,"draw":7,"loss":21,"for":28,"against":61},
 {"country":"wal","name":"Caernarfon Town","id":"Caernarfon_Town_F.C.","win":5,"draw":8,"loss":21,"for":32,"against":73,"isRemoved":true,"deduct":-3,"deductReason":"Fielding ineligible player"}
+][
+{"country":"cze","name":"Slavia Prague","id":"sk_slavia_prague","win":18,"draw":8,"loss":4,"for":57,"against":25,"isChampion":true},
+{"country":"cze","name":"Sparta Prague","id":"ac_sparta_prague","win":16,"draw":8,"loss":6,"for":48,"against":25},
+{"country":"cze","name":"Slovan Liberec","id":"FC_Slovan_Liberec","win":14,"draw":10,"loss":6,"for":41,"against":28},
+{"country":"cze","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":13,"draw":9,"loss":8,"for":39,"against":36},
+{"country":"cze","name":"Jablonec","id":"FK_Jablonec","win":14,"draw":4,"loss":12,"for":43,"against":37},
+{"country":"cze","name":"Mladá Boleslav","id":"FK_Mladá_Boleslav","win":12,"draw":10,"loss":8,"for":39,"against":38},
+{"country":"cze","name":"Teplice","id":"FK_Teplice","win":12,"draw":7,"loss":11,"for":33,"against":25},
+{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":11,"draw":10,"loss":9,"for":45,"against":38},
+{"country":"cze","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":11,"draw":6,"loss":13,"for":38,"against":36},
+{"country":"cze","name":"Dynamo České Budějovice","id":"SK_Dynamo_České_Budějovice","win":7,"draw":15,"loss":8,"for":30,"against":37},
+{"country":"cze","name":"Brno","id":"FC_Zbrojovka_Brno","win":9,"draw":8,"loss":13,"for":32,"against":36},
+{"country":"cze","name":"Příbram","id":"FK_Příbram","win":9,"draw":7,"loss":14,"for":30,"against":40,"isReturning":true},
+{"country":"cze","name":"Bohemians Prague (Střížkov)","id":"FK_Bohemians_Prague_(Střížkov)","win":10,"draw":4,"loss":16,"for":33,"against":46,"isNew":true},
+{"country":"cze","name":"Kladno","id":"SK_Kladno","win":8,"draw":7,"loss":15,"for":21,"against":41},
+{"country":"cze","name":"Tescoma Zlín","id":"FC_Zlín","win":7,"draw":8,"loss":15,"for":26,"against":49,"isRemoved":true},
+{"country":"cze","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":5,"draw":7,"loss":18,"for":27,"against":45,"isRemoved":true}
 ]

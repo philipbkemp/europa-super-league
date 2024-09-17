@@ -770,6 +770,8 @@ function saveClubs(refresh=false) {
 				clubName = $($sr.find("th")[0]);
 				if ( v === "ofk_beograd" ) {
 					countryFlag = "srb";
+				} else if ( v === "ac_sparta_prague" || v === "sk_slavia_prague" ) {
+					countryFlag = "cze";
 				}
 				clubName.html( clubName.html().replace(clubName.text(),"<a href='../../clubs/"+countryFlag+"/"+$sr.attr("id")+".html'>"+clubName.text()+"</a>") );
 			}

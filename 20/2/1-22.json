@@ -690,4 +690,21 @@
 {"country":"wal","name":"Haverfordwest County","id":"Haverfordwest_County_A.F.C.","win":10,"draw":8,"loss":14,"for":45,"against":46},
 {"country":"wal","name":"Barry Town United","id":"Barry_Town_United_F.C.","win":8,"draw":7,"loss":17,"for":31,"against":47,"isRemoved":true},
 {"country":"wal","name":"Cefn Druids","id":"Cefn_Druids_A.F.C.","win":2,"draw":3,"loss":27,"for":22,"against":109,"isRemoved":true}
+][
+{"country":"cze","name":"Slavia Prague","id":"sk_slavia_prague","win":24,"draw":6,"loss":5,"for":80,"against":27},
+{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":26,"draw":7,"loss":2,"for":63,"against":21,"isChampion":true},
+{"country":"cze","name":"Sparta Prague","id":"ac_sparta_prague","win":22,"draw":7,"loss":6,"for":72,"against":40},
+{"country":"cze","name":"Slovácko","id":"1._FC_Slovácko","win":21,"draw":5,"loss":9,"for":59,"against":38},
+{"country":"cze","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":15,"draw":10,"loss":10,"for":60,"against":48},
+{"country":"cze","name":"Hradec Králové","id":"FC_Hradec_Králové","win":10,"draw":14,"loss":11,"for":44,"against":52,"isReturning":true},
+{"country":"cze","name":"Mladá Boleslav","id":"FK_Mladá_Boleslav","win":11,"draw":5,"loss":14,"for":45,"against":48},
+{"country":"cze","name":"Slovan Liberec","id":"FC_Slovan_Liberec","win":10,"draw":7,"loss":13,"for":29,"against":38},
+{"country":"cze","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":9,"draw":10,"loss":11,"for":39,"against":37},
+{"country":"cze","name":"České Budějovice","id":"SK_Dynamo_České_Budějovice","win":9,"draw":9,"loss":12,"for":40,"against":46},
+{"country":"cze","name":"Fastav Zlín","id":"FC_Zlín","win":9,"draw":9,"loss":17,"for":43,"against":60},
+{"country":"cze","name":"Teplice","id":"FK_Teplice","win":8,"draw":5,"loss":22,"for":33,"against":59},
+{"country":"cze","name":"Jablonec","id":"FK_Jablonec","win":6,"draw":16,"loss":13,"for":27,"against":48},
+{"country":"cze","name":"Bohemians 1905","id":"Bohemians_1905","win":8,"draw":10,"loss":17,"for":45,"against":61},
+{"country":"cze","name":"Pardubice","id":"FK_Pardubice","win":9,"draw":10,"loss":16,"for":42,"against":68},
+{"country":"cze","name":"Karviná","id":"MFK_Karviná","win":3,"draw":10,"loss":22,"for":33,"against":63,"isRemoved":true}
 ]

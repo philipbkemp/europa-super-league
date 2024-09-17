@@ -694,4 +694,21 @@
 {"country":"wal","name":"Afan Lido","id":"Afan_Lido_F.C.","win":7,"draw":11,"loss":14,"for":40,"against":55,"isReturning":true},
 {"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":10,"draw":2,"loss":20,"for":33,"against":67},
 {"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":7,"draw":5,"loss":20,"for":44,"against":82,"deduct":-3,"deductReason":"Fielding ineligible players"}
+][
+{"country":"cze","name":"Slovan Liberec","id":"FC_Slovan_Liberec","win":20,"draw":6,"loss":4,"for":68,"against":29,"isChampion":true},
+{"country":"cze","name":"Sparta Prague","id":"ac_sparta_prague","win":20,"draw":4,"loss":6,"for":51,"against":25},
+{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":19,"draw":6,"loss":5,"for":66,"against":33},
+{"country":"cze","name":"Mladá Boleslav","id":"FK_Mladá_Boleslav","win":15,"draw":5,"loss":10,"for":49,"against":34},
+{"country":"cze","name":"Teplice","id":"FK_Teplice","win":12,"draw":10,"loss":8,"for":36,"against":30},
+{"country":"cze","name":"Dukla Prague","id":"FK_Dukla_Prague","win":11,"draw":9,"loss":10,"for":42,"against":35,"isNew":true},
+{"country":"cze","name":"Slovácko","id":"1._FC_Slovácko","win":12,"draw":5,"loss":13,"for":29,"against":32},
+{"country":"cze","name":"Jablonec","id":"FK_Jablonec","win":11,"draw":7,"loss":12,"for":54,"against":43},
+{"country":"cze","name":"Příbram","id":"FK_Příbram","win":11,"draw":6,"loss":13,"for":44,"against":56},
+{"country":"cze","name":"Dynamo České Budějovice","id":"SK_Dynamo_České_Budějovice","win":9,"draw":8,"loss":13,"for":30,"against":51},
+{"country":"cze","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":11,"draw":10,"loss":9,"for":42,"against":38,"deduct":"Corruption in 2009"},
+{"country":"cze","name":"Slavia Prague","id":"sk_slavia_prague","win":8,"draw":10,"loss":12,"for":28,"against":34},
+{"country":"cze","name":"Hradec Králové","id":"FC_Hradec_Králové","win":8,"draw":7,"loss":15,"for":22,"against":38},
+{"country":"cze","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":7,"draw":7,"loss":16,"for":31,"against":48},
+{"country":"cze","name":"Bohemians 1905","id":"Bohemians_1905","win":6,"draw":6,"loss":18,"for":20,"against":54,"isRemoved":true},
+{"country":"cze","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":5,"draw":4,"loss":21,"for":23,"against":55,"isRemoved":true,"isReturning":true}
 ]

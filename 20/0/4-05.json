@@ -690,4 +690,21 @@
 {"country":"wal","name":"Airbus UK","id":"Airbus_UK_Broughton_F.C.","win":5,"draw":9,"loss":20,"for":36,"against":76,"isNew":true},
 {"country":"wal","name":"NEWI Cefn Druids","id":"Cefn_Druids_A.F.C.","win":5,"draw":7,"loss":22,"for":30,"against":72},
 {"country":"wal","name":"Afan Lido","id":"Afan_Lido_F.C.","win":6,"draw":6,"loss":22,"for":29,"against":52,"isRemoved":true,"deduct":-3,"deductReason":"Fielding a suspended player"}
+][
+{"country":"cze","name":"Sparta Prague","id":"ac_sparta_prague","win":20,"draw":4,"loss":6,"for":53,"against":28,"isChampion":true},
+{"country":"cze","name":"Slavia Prague","id":"sk_slavia_prague","win":15,"draw":8,"loss":7,"for":39,"against":25},
+{"country":"cze","name":"Teplice","id":"FK_Teplice","win":14,"draw":11,"loss":5,"for":36,"against":27},
+{"country":"cze","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":15,"draw":6,"loss":9,"for":39,"against":34},
+{"country":"cze","name":"Slovan Liberec","id":"FC_Slovan_Liberec","win":14,"draw":10,"loss":6,"for":45,"against":26,"deduct":-6,"deductReason":"Corruption"},
+{"country":"cze","name":"Jablonec","id":"FK_Jablonec","win":12,"draw":9,"loss":9,"for":33,"against":27},
+{"country":"cze","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":9,"draw":10,"loss":11,"for":33,"against":36},
+{"country":"cze","name":"Drnovice","id":"1._FK_Drnovice","win":9,"draw":8,"loss":13,"for":30,"against":34,"isRemoved":true,"removedNote":"Denied a license from the Czech FA","isReturning":true},
+{"country":"cze","name":"Marila Příbram","id":"FK_Příbram","win":9,"draw":8,"loss":13,"for":30,"against":41},
+{"country":"cze","name":"Tescoma Zlín","id":"FC_Zlín","win":7,"draw":12,"loss":11,"for":29,"against":35},
+{"country":"cze","name":"Brno","id":"FC_Zbrojovka_Brno","win":9,"draw":6,"loss":15,"for":30,"against":42},
+{"country":"cze","name":"Blšany","id":"FK_Chmel_Blšany","win":7,"draw":11,"loss":12,"for":25,"against":38},
+{"country":"cze","name":"Slovácko","id":"1._FC_Slovácko","win":10,"draw":14,"loss":6,"for":30,"against":22,"deduct":-12,"deductReason":"Corruption"},
+{"country":"cze","name":"Mladá Boleslav","id":"FK_Mladá_Boleslav","win":6,"draw":13,"loss":11,"for":26,"against":35,"isNew":true},
+{"country":"cze","name":"Dynamo České Budějovice","id":"SK_Dynamo_České_Budějovice","win":6,"draw":7,"loss":17,"for":28,"against":39,"isRemoved":true},
+{"country":"cze","name":"Opava","id":"SFC_Opava","win":5,"draw":9,"loss":16,"for":25,"against":42,"isRemoved":true,"deduct":-6,"deductReason":"Corruption"}
 ]

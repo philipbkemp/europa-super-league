@@ -734,4 +734,21 @@
 {"country":"wal","name":"Llanelli","id":"Llanelli_Town_A.F.C.","win":10,"draw":6,"loss":22,"for":64,"against":104},
 {"country":"wal","name":"Mold Alexandra","id":"Mold_Alexandra_F.C.","win":10,"draw":4,"loss":24,"for":57,"against":90,"isRemoved":true},
 {"country":"wal","name":"Maesteg Park","id":"Maesteg_Park_A.F.C.","win":2,"draw":6,"loss":30,"for":23,"against":113,"isRemoved":true}
+][
+{"country":"cze","name":"Sparta Prague","id":"ac_sparta_prague","win":22,"draw":4,"loss":4,"for":64,"against":17,"isChampion":true},
+{"country":"cze","name":"Slavia Prague","id":"sk_slavia_prague","win":19,"draw":7,"loss":4,"for":52,"against":20},
+{"country":"cze","name":"Boby Brno","id":"FC_Zbrojovka_Brno","win":15,"draw":9,"loss":6,"for":52,"against":27},
+{"country":"cze","name":"Slovan Liberec","id":"FC_Slovan_Liberec","win":16,"draw":3,"loss":11,"for":49,"against":46},
+{"country":"cze","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":15,"draw":4,"loss":11,"for":61,"against":38},
+{"country":"cze","name":"Drnovice","id":"1._FK_Drnovice","win":15,"draw":3,"loss":12,"for":46,"against":44},
+{"country":"cze","name":"České Budějovice","id":"SK_Dynamo_České_Budějovice","win":12,"draw":10,"loss":8,"for":29,"against":28},
+{"country":"cze","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":12,"draw":7,"loss":11,"for":31,"against":31},
+{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":12,"draw":4,"loss":14,"for":32,"against":37},
+{"country":"cze","name":"Jablonec","id":"FK_Jablonec","win":11,"draw":6,"loss":13,"for":37,"against":33,"isReturning":true},
+{"country":"cze","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":10,"draw":8,"loss":12,"for":36,"against":41},
+{"country":"cze","name":"Hradec Králové","id":"FC_Hradec_Králové","win":10,"draw":6,"loss":14,"for":35,"against":45},
+{"country":"cze","name":"Union Cheb","id":"FK_Hvězda_Cheb","win":8,"draw":7,"loss":15,"for":29,"against":45},
+{"country":"cze","name":"Svit Zlín","id":"FC_Zlín","win":8,"draw":6,"loss":16,"for":21,"against":40},
+{"country":"cze","name":"Bohemians Prague","id":"Bohemians_1905","win":6,"draw":5,"loss":19,"for":35,"against":62,"isRemoved":true},
+{"country":"cze","name":"Švarc Benešov","id":"SK_Benešov","win":3,"draw":3,"loss":24,"for":23,"against":78,"isRemoved":true,"isNew":true}
 ]

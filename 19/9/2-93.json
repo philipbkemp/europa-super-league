@@ -505,21 +505,21 @@
 {"country":"fro","name":"SÍF Sandavágur","id":"SÍF_Sandavágur","win":4,"draw":4,"loss":10,"for":29,"against":40,"isReturning":true,"isRemoved":true},
 {"country":"fro","name":"NSÍ Runavík","id":"NSÍ_Runavík","win":2,"draw":2,"loss":14,"for":17,"against":49,"isRemoved":true}
 ][
-{"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":23,"draw":2,"loss":5,"for":66,"against":24,"isChampion":true}, // status unknown as CSK split
-{"country":"csk","name":"Slavia Prague","id":"sk_slavia_prague","win":18,"draw":7,"loss":5,"for":70,"against":28}, // status unknown as CSK split
+{"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":23,"draw":2,"loss":5,"for":66,"against":24,"isChampion":true},
+{"country":"csk","name":"Slavia Prague","id":"sk_slavia_prague","win":18,"draw":7,"loss":5,"for":70,"against":28},
 {"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":19,"draw":4,"loss":7,"for":61,"against":31}, // status unknown as CSK split
 {"country":"csk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":16,"draw":5,"loss":9,"for":46,"against":36}, // status unknown as CSK split
-{"country":"csk","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":14,"draw":7,"loss":9,"for":44,"against":38}, // status unknown as CSK split
-{"country":"csk","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":10,"draw":11,"loss":9,"for":47,"against":38}, // status unknown as CSK split
+{"country":"csk","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":14,"draw":7,"loss":9,"for":44,"against":38},
+{"country":"csk","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":10,"draw":11,"loss":9,"for":47,"against":38},
 {"country":"csk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":14,"draw":3,"loss":13,"for":46,"against":42}, // status unknown as CSK split
-{"country":"csk","name":"Boby Brno","id":"FC_Zbrojovka_Brno","win":13,"draw":5,"loss":12,"for":40,"against":51,"isReturning":true}, // status unknown as CSK split
-{"country":"csk","name":"Hradec Králové","id":"FC_Hradec_Králové","win":10,"draw":7,"loss":13,"for":32,"against":36}, // status unknown as CSK split
-{"country":"csk","name":"Vítkovice","id":"MFK_Vítkovice","win":9,"draw":9,"loss":12,"for":30,"against":44}, // status unknown as CSK split
+{"country":"csk","name":"Boby Brno","id":"FC_Zbrojovka_Brno","win":13,"draw":5,"loss":12,"for":40,"against":51,"isReturning":true},
+{"country":"csk","name":"Hradec Králové","id":"FC_Hradec_Králové","win":10,"draw":7,"loss":13,"for":32,"against":36},
+{"country":"csk","name":"Vítkovice","id":"MFK_Vítkovice","win":9,"draw":9,"loss":12,"for":30,"against":44},
 {"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":9,"draw":8,"loss":13,"for":42,"against":40}, // status unknown as CSK split
 {"country":"csk","name":"Nitra","id":"FC_Nitra","win":6,"draw":13,"loss":11,"for":27,"against":38,"isReturning":true}, // status unknown as CSK split
-{"country":"csk","name":"České Budějovice","id":"SK_Dynamo_České_Budějovice","win":9,"draw":5,"loss":16,"for":36,"against":39}, // status unknown as CSK split
-{"country":"csk","name":"Dukla Prague","id":"Dukla_Prague","win":7,"draw":5,"loss":18,"for":38,"against":74}, // status unknown as CSK split
-{"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":5,"draw":9,"loss":16,"for":23,"against":53}, // status unknown as CSK split
+{"country":"csk","name":"České Budějovice","id":"SK_Dynamo_České_Budějovice","win":9,"draw":5,"loss":16,"for":36,"against":39},
+{"country":"csk","name":"Dukla Prague","id":"Dukla_Prague","win":7,"draw":5,"loss":18,"for":38,"against":74},
+{"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":5,"draw":9,"loss":16,"for":23,"against":53},
 {"country":"csk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":3,"draw":10,"loss":17,"for":24,"against":60} // status unknown as CSK split
 ][
 {"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":22,"draw":5,"loss":6,"for":64,"against":38,"isChampion":true,"isReturning":true},

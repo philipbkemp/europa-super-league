@@ -706,4 +706,21 @@
 {"country":"wal","name":"Port Talbot Town","id":"Port_Talbot_Town_F.C.","win":10,"draw":5,"loss":19,"for":49,"against":77,"isNew":true},
 {"country":"wal","name":"Llanelli","id":"Llanelli_Town_A.F.C.","win":9,"draw":2,"loss":23,"for":57,"against":97},
 {"country":"wal","name":"Inter Cardiff","id":"Inter_Cardiff_F.C.","win":3,"draw":4,"loss":27,"for":26,"against":104,"isRemoved":true}
+][
+{"country":"cze","name":"Sparta Prague","id":"ac_sparta_prague","win":21,"draw":5,"loss":4,"for":71,"against":31,"isChampion":true},
+{"country":"cze","name":"Slavia Prague","id":"sk_slavia_prague","win":14,"draw":10,"loss":6,"for":46,"against":32},
+{"country":"cze","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":14,"draw":10,"loss":6,"for":47,"against":33},
+{"country":"cze","name":"Marila Příbram","id":"FK_Příbram","win":14,"draw":9,"loss":7,"for":40,"against":26},
+{"country":"cze","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":12,"draw":10,"loss":8,"for":45,"against":40},
+{"country":"cze","name":"Slovan Liberec","id":"FC_Slovan_Liberec","win":12,"draw":9,"loss":9,"for":39,"against":31},
+{"country":"cze","name":"Drnovice","id":"1._FK_Drnovice","win":11,"draw":8,"loss":11,"for":35,"against":36},
+{"country":"cze","name":"Teplice","id":"FK_Teplice","win":12,"draw":4,"loss":14,"for":45,"against":39},
+{"country":"cze","name":"Bohemians Prague","id":"Bohemians_1905","win":10,"draw":10,"loss":10,"for":33,"against":34},
+{"country":"cze","name":"Blšany","id":"FK_Chmel_Blšany","win":10,"draw":10,"loss":10,"for":35,"against":35},
+{"country":"cze","name":"Synot","id":"1._FC_Slovácko","win":9,"draw":10,"loss":11,"for":37,"against":35,"isNew":true},
+{"country":"cze","name":"Jablonec","id":"FK_Jablonec","win":8,"draw":8,"loss":14,"for":26,"against":40},
+{"country":"cze","name":"Brno","id":"FC_Zbrojovka_Brno","win":7,"draw":9,"loss":14,"for":24,"against":35},
+{"country":"cze","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":7,"draw":9,"loss":14,"for":28,"against":45},
+{"country":"cze","name":"České Budějovice","id":"SK_Dynamo_České_Budějovice","win":6,"draw":8,"loss":16,"for":32,"against":56,"isRemoved":true},
+{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":4,"draw":9,"loss":17,"for":30,"against":65,"isRemoved":true,"isReturning":true}
 ]
