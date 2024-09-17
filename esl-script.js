@@ -6,6 +6,7 @@ const countries = {
 	"che": "Switzerland",
 	"csk": "Czechoslovakia",
 	"cyp": "Cyprus",
+	// cze has 2 clubs waiting for this country to be activated
 	"eir": "Ireland",
 	"eng": "England",
 	"esp": "Spain",
