@@ -147,7 +147,7 @@
 	{"country":"irl","name":"Brideville","id":"Brideville_F.C.","win":4,"draw":3,"loss":11,"for":28,"against":57},
 	{"country":"irl","name":"Jacobs","id":"Jacobs_F.C.","win":2,"draw":6,"loss":10,"for":26,"against":48},
 	{"country":"irl","name":"Bray Unknowns","id":"Bray_Unknowns_F.C.","win":2,"draw":4,"loss":12,"for":24,"against":58},
-	{"country":"yug","name":"Građanski","id":"HŠK_Građanski_Zagreb","win":4,"draw":1,"loss":0,"for":10,"against":5,"isChampion":true,"isNew":true},
+	{"country":"yug","name":"Građanski","id":"hsk_gradanski_zagreb","win":4,"draw":1,"loss":0,"for":10,"against":5,"isChampion":true,"isNew":true},
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":2,"draw":2,"loss":1,"for":13,"against":7},
 	{"country":"yug","name":"BSK","id":"ofk_beograd","win":3,"draw":0,"loss":2,"for":12,"against":15},
 	{"country":"yug","name":"SAŠK","id":"NK_SAŠK_Napredak","win":2,"draw":1,"loss":2,"for":13,"against":8,"isRemoved":true},

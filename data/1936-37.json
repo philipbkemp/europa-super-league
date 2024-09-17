@@ -222,7 +222,7 @@
 	{"country":"ltu","name":"CJSO Kaunas","id":"CJSO_Kaunas","win":3,"draw":0,"loss":4,"for":7,"against":15,"isNew":true},
 	{"country":"ltu","name":"KSS Klaipėda","id":"KSS_Klaipėda","win":2,"draw":1,"loss":4,"for":18,"against":15,"isReturning":true},
 	{"country":"ltu","name":"Šaulys Klaipėda","id":"Šaulys_Klaipėda","win":0,"draw":0,"loss":7,"for":5,"against":25,"isNew":true,"isRemoved":true},
-	{"country":"yug","name":"Građanski","id":"HŠK_Građanski_Zagreb","win":12,"draw":4,"loss":2,"for":50,"against":16,"isChampion":true,"isReturning":true},
+	{"country":"yug","name":"Građanski","id":"hsk_gradanski_zagreb","win":12,"draw":4,"loss":2,"for":50,"against":16,"isChampion":true,"isReturning":true},
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":9,"draw":3,"loss":6,"for":39,"against":19,"isReturning":true},
 	{"country":"yug","name":"BSK","id":"ofk_beograd","win":8,"draw":5,"loss":5,"for":48,"against":24,"isReturning":true},
 	{"country":"yug","name":"SK Jugoslavija","id":"SK_Jugoslavija","win":9,"draw":3,"loss":6,"for":39,"against":28,"isReturning":true},

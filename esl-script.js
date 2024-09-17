@@ -38,7 +38,7 @@ const countries = {
 	"yug": "Yugoslavia"
 };
 
-clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc","knattspyrnufelagio_vikingur","sliema_wanderers_fc","ac_sparta_prague","knattspyrnufelag_reykjavikur","sk_slavia_prague","boldklubben_frem","fa_red_boys_differdange","valur","sk_rapid_wien","js_estonia_tallinn","olimpia_liepaja","fc_porto","ofk_beograd"];
+clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","royale_union_saint_gilloise","kfc_rhodienne_de_hoek","floriana_fc","colentina_ac_bucuresti","wiener_ac","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc","knattspyrnufelagio_vikingur","sliema_wanderers_fc","ac_sparta_prague","knattspyrnufelag_reykjavikur","sk_slavia_prague","boldklubben_frem","fa_red_boys_differdange","valur","sk_rapid_wien","js_estonia_tallinn","olimpia_liepaja","fc_porto","ofk_beograd","hsk_gradanski_zagreb"];
 
 if ( $("h1 .placeholder").length !== 0 ) {
 
@@ -761,10 +761,14 @@ function saveClubs(refresh=false) {
 				if ( $sr.html().indexOf("<td>A1</td>") === -1 ) {
 					classes = classes.replace("champion","");
 				}
+				vc = v;
+				if ( ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb"].indexOf(vc) ) {
+					vc = countryFlag.toUpperCase() + " --- " + vc;
+				}
 				if ( original.indexOf("new.png") === -1 ) {
-					console.warn(v);
+					console.warn(vc);
 				} else {
-					console.error(v);
+					console.error(vc);
 				}
 				console.log("<tr class='"+classes+"'>"+$sr.html()+"</tr>");
 				$sr.html(original);
@@ -773,6 +777,8 @@ function saveClubs(refresh=false) {
 					countryFlag = "srb";
 				} else if ( v === "ac_sparta_prague" || v === "sk_slavia_prague" ) {
 					countryFlag = "cze";
+				} else if ( v === "hsk_gradanski_zagreb" ) {
+					countryFlag = "hrv";
 				}
 				clubName.html( clubName.html().replace(clubName.text(),"<a href='../../clubs/"+countryFlag+"/"+$sr.attr("id")+".html'>"+clubName.text()+"</a>") );
 			}

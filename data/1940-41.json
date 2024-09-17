@@ -171,7 +171,7 @@
 	{"country":"svk","name":"ZTK Zvolen","id":"HKM_Zvolen","win":7,"draw":3,"loss":12,"for":51,"against":59,"isRemoved":true},
 	{"country":"svk","name":"DSK Bratislava","id":"DSK_Bratislava","win":6,"draw":3,"loss":13,"for":35,"against":58,"isRemoved":true,"isNew":true},
 	{"country":"hrv","name":"HŠK Hajduk Split","id":"HNK_Hajduk_Split","win":14,"draw":3,"loss":1,"for":75,"against":17,"isChampion":true,"isRemoved":true},
-	{"country":"hrv","name":"1.HŠK Građanski Zagreb","id":"HŠK_Građanski_Zagreb","win":11,"draw":7,"loss":0,"for":75,"against":17},
+	{"country":"hrv","name":"1.HŠK Građanski Zagreb","id":"hsk_gradanski_zagreb","win":11,"draw":7,"loss":0,"for":75,"against":17},
 	{"country":"hrv","name":"HŠK Concordia Zagreb","id":"HŠK_Concordia","win":13,"draw":2,"loss":3,"for":62,"against":22,"isReturning":true},
 	{"country":"hrv","name":"HAŠK Zagreb","id":"HAŠK","win":7,"draw":6,"loss":5,"for":42,"against":31},
 	{"country":"hrv","name":"NK Slavija","id":"NK_Varaždin_(1931–2015)","win":7,"draw":3,"loss":8,"for":30,"against":49,"isReturning":true,"isRemoved":true},

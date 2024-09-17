@@ -182,7 +182,7 @@
 	{"country":"yug","name":"BSK","id":"ofk_beograd","win":4,"draw":2,"loss":2,"for":18,"against":16},
 	{"country":"yug","name":"SK Jugoslavija","id":"SK_Jugoslavija","win":3,"draw":2,"loss":3,"for":14,"against":10},
 	{"country":"yug","name":"HAŠK","id":"HAŠK","win":3,"draw":1,"loss":4,"for":15,"against":15,"isRemoved":true},
-	{"country":"yug","name":"Građanski Zagreb","id":"HŠK_Građanski_Zagreb","win":1,"draw":1,"loss":6,"for":8,"against":24,"isRemoved":true},
+	{"country":"yug","name":"Građanski Zagreb","id":"hsk_gradanski_zagreb","win":1,"draw":1,"loss":6,"for":8,"against":24,"isRemoved":true},
 	{"country":"csk","name":"Slavia Prague","id":"sk_slavia_prague","win":14,"draw":0,"loss":0,"for":64,"against":13,"isChampion":true},
 	{"country":"csk","name":"Sparta","id":"ac_sparta_prague","win":9,"draw":0,"loss":5,"for":46,"against":25},
 	{"country":"csk","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":8,"draw":0,"loss":6,"for":37,"against":36},

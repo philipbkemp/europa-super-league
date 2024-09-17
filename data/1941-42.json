@@ -163,7 +163,7 @@
 	{"country":"svk","name":"Slávia Prešov","id":"1._FC_Tatran_Prešov","win":7,"draw":5,"loss":10,"for":50,"against":58},
 	{"country":"svk","name":"Spišská Nová Ves","id":"AC_Spišská_Nová_Ves","win":5,"draw":5,"loss":12,"for":28,"against":62,"isRemoved":true},
 	{"country":"svk","name":"ASO Bratislava","id":"ASO_Bratislava","win":5,"draw":4,"loss":13,"for":39,"against":69,"isRemoved":true,"isNew":true},
-	{"country":"hrv","name":"HŠK Građanski Zagreb","id":"HŠK_Građanski_Zagreb","win":7,"draw":0,"loss":1,"for":41,"against":10,"isChampion":true,"isRemoved":true,"removedNote":"League contested in grouped format next season, and not restared until indepent from Yugoslavia"},
+	{"country":"hrv","name":"HŠK Građanski Zagreb","id":"hsk_gradanski_zagreb","win":7,"draw":0,"loss":1,"for":41,"against":10,"isChampion":true,"isRemoved":true,"removedNote":"League contested in grouped format next season, and not restared until indepent from Yugoslavia"},
 	{"country":"hrv","name":"HŠK Concordia Zagreb","id":"HŠK_Concordia","win":6,"draw":1,"loss":1,"for":33,"against":9,"isRemoved":true,"removedNote":"League contested in grouped format next season, and not restared until indepent from Yugoslavia"},
 	{"country":"hrv","name":"HŠK Željezničar Zagreb","id":"NK_Lokomotiva_Zagreb","win":5,"draw":2,"loss":1,"for":16,"against":12,"isRemoved":true,"removedNote":"League contested in grouped format next season, and not restared until indepent from Yugoslavia"},
 	{"country":"hrv","name":"HŠK Zrinjski Mostar","id":"HŠK_Zrinjski_Mostar","win":4,"draw":1,"loss":3,"for":16,"against":19,"isNew":true,"isRemoved":true,"removedNote":"League contested in grouped format next season, and not restared until indepent from Yugoslavia"},

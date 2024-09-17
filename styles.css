@@ -30,6 +30,7 @@ h1 span { font-weight: normal; font-size: 2rem; }
 #divisionsTables tbody tr.removed,
 #historyTables tbody tr.removed,
 .newclubs tbody tr.removed { background-color: #fd9292; }
+#historyTables tbody tr.champion.removed { background-color: #ffffe0; }
 #divisionsTables tbody tr.promoted,
 #historyTables tbody tr.promoted,
 .newclubs tbody tr.promoted { background-color: #b5e9b5; }
