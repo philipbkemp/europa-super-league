@@ -694,4 +694,17 @@
 {"country":"cze","name":"Pardubice","id":"FK_Pardubice","win":2,"draw":0,"loss":5,"for":6,"against":11,"isCurrentSeason":true},
 {"country":"cze","name":"Teplice","id":"FK_Teplice","win":1,"draw":0,"loss":6,"for":7,"against":15,"isCurrentSeason":true},
 {"country":"cze","name":"České Budějovice","id":"SK_Dynamo_České_Budějovice","win":0,"draw":1,"loss":6,"for":1,"against":19,"isCurrentSeason":true}
+][
+{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":5,"draw":0,"loss":1,"for":11,"against":8,"isCurrentSeason":true},
+{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":4,"draw":2,"loss":0,"for":15,"against":4,"isCurrentSeason":true},
+{"country":"svk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":3,"draw":1,"loss":2,"for":11,"against":5,"isCurrentSeason":true},
+{"country":"svk","name":"Ružomberok","id":"MFK_Ružomberok","win":2,"draw":3,"loss":0,"for":7,"against":5,"isCurrentSeason":true},
+{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":1,"draw":5,"loss":0,"for":5,"against":4,"isCurrentSeason":true},
+{"country":"svk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":1,"draw":4,"loss":2,"for":8,"against":10,"isCurrentSeason":true},
+{"country":"svk","name":"Zemplín Michalovce","id":"MFK_Zemplín_Michalovce","win":1,"draw":4,"loss":2,"for":7,"against":10,"isCurrentSeason":true},
+{"country":"svk","name":"Košice","id":"FC_Košice_(2018)","win":1,"draw":3,"loss":3,"for":7,"against":8,"isCurrentSeason":true},
+{"country":"svk","name":"Trenčín","id":"AS_Trenčín","win":1,"draw":3,"loss":3,"for":6,"against":11,"isCurrentSeason":true},
+{"country":"svk","name":"Komárno","id":"KFC_Komárno","win":2,"draw":0,"loss":3,"for":6,"against":11,"isCurrentSeason":true,"isNew":true},
+{"country":"svk","name":"Podbrezová","id":"FK_Železiarne_Podbrezová","win":1,"draw":2,"loss":3,"for":8,"against":7,"isCurrentSeason":true},
+{"country":"svk","name":"Skalica","id":"MFK_Skalica","win":0,"draw":3,"loss":3,"for":5,"against":13,"isCurrentSeason":true}
 ]

@@ -751,4 +751,17 @@
 {"country":"cze","name":"Svit Zlín","id":"FC_Zlín","win":8,"draw":6,"loss":16,"for":21,"against":40},
 {"country":"cze","name":"Bohemians Prague","id":"Bohemians_1905","win":6,"draw":5,"loss":19,"for":35,"against":62,"isRemoved":true},
 {"country":"cze","name":"Švarc Benešov","id":"SK_Benešov","win":3,"draw":3,"loss":24,"for":23,"against":78,"isRemoved":true,"isNew":true}
+][
+{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":21,"draw":9,"loss":2,"for":63,"against":25,"isChampion":true},
+{"country":"svk","name":"1. FC Košice","id":"FC_VSS_Košice","win":15,"draw":7,"loss":10,"for":54,"against":42},
+{"country":"svk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":12,"draw":8,"loss":12,"for":53,"against":44},
+{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":12,"draw":8,"loss":12,"for":43,"against":35},
+{"country":"svk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":13,"draw":7,"loss":12,"for":41,"against":42},
+{"country":"svk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":14,"draw":8,"loss":10,"for":47,"against":45},
+{"country":"svk","name":"Lokomotíva Košice","id":"FC_Lokomotíva_Košice","win":13,"draw":3,"loss":16,"for":55,"against":60},
+{"country":"svk","name":"Bardejov","id":"Partizán_Bardejov","win":12,"draw":7,"loss":13,"for":46,"against":46,"isNew":true},
+{"country":"svk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":9,"draw":10,"loss":13,"for":42,"against":49},
+{"country":"svk","name":"Prievidza","id":"FC_Baník_Prievidza","win":12,"draw":6,"loss":14,"for":35,"against":50},
+{"country":"svk","name":"Chemlon Humenné","id":"ŠK_Futura_Humenné","win":8,"draw":8,"loss":16,"for":32,"against":57},
+{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":9,"draw":3,"loss":20,"for":37,"against":53,"isRemoved":true}
 ]

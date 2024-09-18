@@ -711,4 +711,17 @@
 {"country":"cze","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":7,"draw":7,"loss":16,"for":31,"against":48},
 {"country":"cze","name":"Bohemians 1905","id":"Bohemians_1905","win":6,"draw":6,"loss":18,"for":20,"against":54,"isRemoved":true},
 {"country":"cze","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":5,"draw":4,"loss":21,"for":23,"against":55,"isRemoved":true,"isReturning":true}
+][
+{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":19,"draw":10,"loss":4,"for":52,"against":27,"isChampion":true},
+{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":19,"draw":8,"loss":6,"for":44,"against":22},
+{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":16,"draw":11,"loss":6,"for":48,"against":35},
+{"country":"svk","name":"Senica","id":"FK_Senica","win":15,"draw":12,"loss":6,"for":47,"against":23},
+{"country":"svk","name":"Trenčín","id":"AS_Trenčín","win":12,"draw":12,"loss":9,"for":51,"against":49,"isReturning":true},
+{"country":"svk","name":"Ružomberok","id":"MFK_Ružomberok","win":11,"draw":11,"loss":11,"for":39,"against":34},
+{"country":"svk","name":"ViOn Zlaté Moravce","id":"FC_ViOn_Zlaté_Moravce","win":11,"draw":8,"loss":14,"for":34,"against":43},
+{"country":"svk","name":"Nitra","id":"FC_Nitra","win":9,"draw":12,"loss":12,"for":33,"against":39},
+{"country":"svk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":9,"draw":10,"loss":14,"for":37,"against":44},
+{"country":"svk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":7,"draw":12,"loss":14,"for":23,"against":35},
+{"country":"svk","name":"Košice","id":"FC_VSS_Košice","win":6,"draw":11,"loss":16,"for":25,"against":40},
+{"country":"svk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":5,"draw":1,"loss":27,"for":21,"against":63,"isRemoved":true}
 ]

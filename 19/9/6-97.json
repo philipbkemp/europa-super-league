@@ -738,4 +738,21 @@
 {"country":"cze","name":"Hradec Králové","id":"FC_Hradec_Králové","win":5,"draw":13,"loss":12,"for":22,"against":39},
 {"country":"cze","name":"Karviná","id":"MFK_Karviná","win":6,"draw":7,"loss":17,"for":25,"against":50,"isRemoved":true,"isNew":true},
 {"country":"cze","name":"Bohemians Prague","id":"Bohemians_1905","win":4,"draw":7,"loss":19,"for":22,"against":53,"isRemoved":true,"isReturning":true}
+][
+{"country":"svk","name":"1. FC Košice","id":"FC_VSS_Košice","win":21,"draw":7,"loss":2,"for":61,"against":19,"isChampion":true},
+{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":21,"draw":6,"loss":3,"for":66,"against":24},
+{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":15,"draw":5,"loss":10,"for":49,"against":33},
+{"country":"svk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":13,"draw":9,"loss":8,"for":38,"against":35},
+{"country":"svk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":13,"draw":5,"loss":12,"for":48,"against":37},
+{"country":"svk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":12,"draw":7,"loss":11,"for":37,"against":38},
+{"country":"svk","name":"Bardejov","id":"Partizán_Bardejov","win":11,"draw":7,"loss":12,"for":34,"against":36},
+{"country":"svk","name":"Petrimex Prievidza","id":"FC_Baník_Prievidza","win":10,"draw":7,"loss":13,"for":41,"against":43,"isReturning":true},
+{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":11,"draw":4,"loss":15,"for":30,"against":34,"isReturning":true},
+{"country":"svk","name":"Lokomotíva Košice","id":"FC_Lokomotíva_Košice","win":8,"draw":13,"loss":9,"for":27,"against":31},
+{"country":"svk","name":"Chemlon Humenné","id":"ŠK_Futura_Humenné","win":11,"draw":3,"loss":16,"for":34,"against":44},
+{"country":"svk","name":"Rimavská Sobota","id":"MŠK_Rimavská_Sobota","win":11,"draw":3,"loss":16,"for":31,"against":46,"isNew":true},
+{"country":"svk","name":"Artmedia Petržalka","id":"FC_Petržalka","win":9,"draw":8,"loss":13,"for":29,"against":49,"isReturning":true},
+{"country":"svk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":9,"draw":7,"loss":14,"for":29,"against":45},
+{"country":"svk","name":"ZTS Kerametal Dubnica","id":"FK_Spartak_Dubnica_nad_Váhom","win":8,"draw":8,"loss":14,"for":29,"against":43,"isRemoved":true,"isNew":true},
+{"country":"svk","name":"Nitra","id":"FC_Nitra","win":5,"draw":5,"loss":20,"for":22,"against":48,"isRemoved":true}
 ]

@@ -664,4 +664,17 @@
 {"country":"cze","name":"Vysočina Jihlava","id":"FC_Vysočina_Jihlava","win":6,"draw":9,"loss":15,"for":26,"against":47},
 {"country":"cze","name":"Hradec Králové","id":"FC_Hradec_Králové","win":8,"draw":3,"loss":19,"for":29,"against":51,"isRemoved":true,"isReturning":true},
 {"country":"cze","name":"Příbram","id":"FK_Příbram","win":6,"draw":4,"loss":20,"for":29,"against":61,"isRemoved":true}
+][
+{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":23,"draw":4,"loss":3,"for":82,"against":25,"isChampion":true},
+{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":18,"draw":3,"loss":9,"for":54,"against":34},
+{"country":"svk","name":"Ružomberok","id":"MFK_Ružomberok","win":15,"draw":7,"loss":8,"for":55,"against":38},
+{"country":"svk","name":"Trenčín","id":"AS_Trenčín","win":14,"draw":5,"loss":11,"for":53,"against":48},
+{"country":"svk","name":"Podbrezová","id":"FK_Železiarne_Podbrezová","win":12,"draw":9,"loss":9,"for":34,"against":31},
+{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":12,"draw":7,"loss":11,"for":34,"against":37},
+{"country":"svk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":10,"draw":12,"loss":8,"for":37,"against":34},
+{"country":"svk","name":"Zemplín Michalovce","id":"MFK_Zemplín_Michalovce","win":8,"draw":5,"loss":17,"for":35,"against":55},
+{"country":"svk","name":"Senica","id":"FK_Senica","win":7,"draw":7,"loss":16,"for":25,"against":35},
+{"country":"svk","name":"ViOn Zlaté Moravce","id":"FC_ViOn_Zlaté_Moravce","win":5,"draw":7,"loss":18,"for":29,"against":55},
+{"country":"svk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":3,"draw":10,"loss":17,"for":17,"against":63,"isReturning":true},
+{"country":"svk","name":"Spartak Myjava (D, R)","id":"Spartak_Myjava","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew midseason; Record expunged"}
 ]

@@ -739,4 +739,21 @@
 {"country":"cze","name":"Opava","id":"SFC_Opava","win":8,"draw":8,"loss":14,"for":40,"against":54},
 {"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":8,"draw":8,"loss":14,"for":26,"against":43,"isRemoved":true},
 {"country":"cze","name":"Karviná","id":"MFK_Karviná","win":6,"draw":5,"loss":19,"for":28,"against":55,"isRemoved":true,"isReturning":true}
+][
+{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":21,"draw":7,"loss":2,"for":56,"against":11,"isChampion":true},
+{"country":"svk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":21,"draw":5,"loss":4,"for":64,"against":15},
+{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":19,"draw":7,"loss":4,"for":59,"against":20},
+{"country":"svk","name":"1. FC Košice","id":"FC_VSS_Košice","win":19,"draw":4,"loss":7,"for":51,"against":26},
+{"country":"svk","name":"Ozeta Dukla Trenčín","id":"AS_Trenčín","win":15,"draw":8,"loss":7,"for":53,"against":25},
+{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":15,"draw":3,"loss":12,"for":36,"against":42},
+{"country":"svk","name":"Ružomberok","id":"MFK_Ružomberok","win":12,"draw":10,"loss":8,"for":31,"against":31},
+{"country":"svk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":11,"draw":10,"loss":9,"for":38,"against":35},
+{"country":"svk","name":"Artmedia Petržalka","id":"FC_Petržalka","win":11,"draw":6,"loss":13,"for":37,"against":42},
+{"country":"svk","name":"Humenné","id":"ŠK_Futura_Humenné","win":10,"draw":5,"loss":15,"for":24,"against":37},
+{"country":"svk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":8,"draw":10,"loss":12,"for":34,"against":46},
+{"country":"svk","name":"Nitra","id":"FC_Nitra","win":7,"draw":7,"loss":16,"for":28,"against":48,"isReturning":true},
+{"country":"svk","name":"ZTS Dubnica","id":"FK_Spartak_Dubnica_nad_Váhom","win":8,"draw":4,"loss":18,"for":28,"against":60,"isReturning":true},
+{"country":"svk","name":"Baník Prievidza","id":"FC_Baník_Prievidza","win":6,"draw":6,"loss":18,"for":34,"against":56},
+{"country":"svk","name":"Rimavská Sobota","id":"MŠK_Rimavská_Sobota","win":5,"draw":7,"loss":18,"for":29,"against":56,"isRemoved":true},
+{"country":"svk","name":"Bardejov","id":"Partizán_Bardejov","win":2,"draw":1,"loss":27,"for":14,"against":66,"isRemoved":true}
 ]
