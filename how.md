@@ -14,6 +14,7 @@
 - run "verify()" - should return undefined, or list or failures
 - run "newTeams()" and update "data-teams" attributes
 - reload, repaste JSON
+- run "verify()" again just to double check - should return undefined, or list or failures
 - run "checkRemoved()" pasting results from previous season, making sure it gives a list of newly removed teams and no errors
 - promote and relegate using promote() and relegate() as needed
 - run nextSeason() just to check each division has (up to) 100 members

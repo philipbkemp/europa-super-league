@@ -762,7 +762,7 @@ function saveClubs(refresh=false) {
 					classes = classes.replace("champion","");
 				}
 				vc = v;
-				if ( ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb"].indexOf(vc) ) {
+				if ( ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc"].indexOf(vc) !== -1 ) {
 					vc = countryFlag.toUpperCase() + " --- " + vc;
 				}
 				if ( original.indexOf("new.png") === -1 ) {
