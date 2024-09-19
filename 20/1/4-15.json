@@ -708,4 +708,13 @@
 {"country":"svk","name":"ViOn Zlaté Moravce","id":"FC_ViOn_Zlaté_Moravce","win":8,"draw":8,"loss":17,"for":27,"against":54},
 {"country":"svk","name":"Podbrezová","id":"FK_Železiarne_Podbrezová","win":7,"draw":8,"loss":18,"for":32,"against":54,"isNew":true},
 {"country":"svk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":4,"draw":10,"loss":19,"for":29,"against":57,"isRemoved":true}
+][
+{"country":"and","name":"FC Santa Coloma","id":"FC_Santa_Coloma","win":13,"draw":3,"loss":4,"for":64,"against":14,"isChampion":true},
+{"country":"and","name":"FC Lusitanos","id":"FC_Lusitanos","win":12,"draw":3,"loss":5,"for":53,"against":26,"deduct":-1,"deductReason":"Incorrect lineup for a match"},
+{"country":"and","name":"UE Santa Coloma","id":"UE_Santa_Coloma","win":12,"draw":2,"loss":6,"for":33,"against":17,"bonusPoints":2,"bonusReason":"Opponents had incorrect lineup"},
+{"country":"and","name":"UE Sant Julià","id":"UE_Sant_Julià","win":9,"draw":5,"loss":6,"for":41,"against":23},
+{"country":"and","name":"FC Ordino","id":"FC_Ordino","win":10,"draw":3,"loss":7,"for":36,"against":29},
+{"country":"and","name":"FC Encamp","id":"FC_Encamp","win":7,"draw":3,"loss":10,"for":21,"against":34,"bonusPoints":3,"bonusReason":"Opponents had incorrect lineup"},
+{"country":"and","name":"UE Engordany","id":"UE_Engordany","win":5,"draw":2,"loss":13,"for":21,"against":72,"deduct":-3,"deductReason":"Incorrect lineup for a match","isReturning":true},
+{"country":"and","name":"Inter Club d'Escaldes","id":"Inter_Club_d%27Escaldes","win":1,"draw":1,"loss":18,"for":9,"against":63,"isRemoved":true}
 ]

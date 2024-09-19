@@ -738,4 +738,13 @@
 {"country":"svk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":6,"draw":9,"loss":15,"for":24,"against":42,"isRemoved":true,"isReturning":true},
 {"country":"svk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":7,"draw":2,"loss":21,"for":27,"against":53,"isRemoved":true},
 {"country":"svk","name":"Baník Prievidza","id":"FC_Baník_Prievidza","win":6,"draw":4,"loss":20,"for":29,"against":71,"isRemoved":true}
+][
+{"country":"and","name":"Constel·lació","id":"Constel·lació_Esportiva","win":12,"draw":0,"loss":0,"for":70,"against":6,"isChampion":true,"isRemoved":true},
+{"country":"and","name":"FC Santa Coloma","id":"FC_Santa_Coloma","win":9,"draw":1,"loss":2,"for":34,"against":10},
+{"country":"and","name":"Inter d'Escaldes","id":"Inter_Club_d%27Escaldes","win":6,"draw":2,"loss":4,"for":24,"against":25},
+{"country":"and","name":"Encamp","id":"FC_Encamp","win":5,"draw":2,"loss":5,"for":33,"against":28},
+{"country":"and","name":"Sant Julià","id":"UE_Sant_Julià","win":3,"draw":1,"loss":8,"for":23,"against":36},
+{"country":"and","name":"Principat","id":"CE_Principat","win":2,"draw":0,"loss":10,"for":16,"against":41},
+{"country":"and","name":"Sporting d'Escaldes","id":"Sporting_Club_d%27Escaldes","win":1,"draw":2,"loss":9,"for":12,"against":66},
+{"country":"and","name":"Benito","id":"CE_Benito","win":0,"draw":0,"loss":0,"for":0,"against":0,"removedNote":"Withdrew","isRemoved":true}
 ]

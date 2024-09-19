@@ -720,4 +720,13 @@
 {"country":"svk","name":"Tatran Liptovský Mikuláš","id":"MFK_Tatran_Liptovský_Mikuláš","win":11,"draw":7,"loss":14,"for":42,"against":57,"isNew":true},
 {"country":"svk","name":"Zlaté Moravce","id":"FC_ViOn_Zlaté_Moravce","win":7,"draw":9,"loss":16,"for":33,"against":50},
 {"country":"svk","name":"Pohronie","id":"FK_Pohronie","win":4,"draw":6,"loss":22,"for":27,"against":59,"isRemoved":true}
+][
+{"country":"and","name":"Inter Club d'Escaldes","id":"Inter_Club_d%27Escaldes","win":14,"draw":8,"loss":5,"for":54,"against":24,"isChampion":true},
+{"country":"and","name":"UE Santa Coloma","id":"UE_Santa_Coloma","win":13,"draw":8,"loss":6,"for":37,"against":26},
+{"country":"and","name":"Sant Julià","id":"UE_Sant_Julià","win":12,"draw":10,"loss":5,"for":41,"against":30},
+{"country":"and","name":"Atlètic Club d'Escaldes","id":"Atlètic_Club_d%27Escaldes","win":11,"draw":10,"loss":6,"for":44,"against":30},
+{"country":"and","name":"FC Santa Coloma","id":"FC_Santa_Coloma","win":15,"draw":7,"loss":5,"for":64,"against":34},
+{"country":"and","name":"Ordino","id":"FC_Ordino","win":7,"draw":6,"loss":14,"for":30,"against":49,"isReturning":true},
+{"country":"and","name":"Engordany","id":"UE_Engordany","win":5,"draw":5,"loss":17,"for":29,"against":55},
+{"country":"and","name":"Carroi","id":"CE_Carroi","win":3,"draw":2,"loss":22,"for":22,"against":73,"isRemoved":true}
 ]

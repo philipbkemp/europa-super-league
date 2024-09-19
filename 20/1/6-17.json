@@ -677,4 +677,13 @@
 {"country":"svk","name":"ViOn Zlaté Moravce","id":"FC_ViOn_Zlaté_Moravce","win":5,"draw":7,"loss":18,"for":29,"against":55},
 {"country":"svk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":3,"draw":10,"loss":17,"for":17,"against":63,"isReturning":true},
 {"country":"svk","name":"Spartak Myjava (D, R)","id":"Spartak_Myjava","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew midseason; Record expunged"}
+][
+{"country":"and","name":"FC Santa Coloma","id":"FC_Santa_Coloma","win":18,"draw":6,"loss":3,"for":57,"against":21,"isChampion":true},
+{"country":"and","name":"Sant Julià","id":"UE_Sant_Julià","win":14,"draw":8,"loss":5,"for":55,"against":23},
+{"country":"and","name":"UE Santa Coloma","id":"UE_Santa_Coloma","win":14,"draw":6,"loss":7,"for":62,"against":34},
+{"country":"and","name":"Lusitanos","id":"FC_Lusitanos","win":13,"draw":9,"loss":5,"for":49,"against":30},
+{"country":"and","name":"Engordany","id":"UE_Engordany","win":10,"draw":6,"loss":11,"for":46,"against":39},
+{"country":"and","name":"Encamp","id":"FC_Encamp","win":8,"draw":3,"loss":16,"for":45,"against":37},
+{"country":"and","name":"Ordino","id":"FC_Ordino","win":8,"draw":3,"loss":16,"for":45,"against":56,"isRemoved":true},
+{"country":"and","name":"Jenlai","id":"CE_Jenlai","win":2,"draw":1,"loss":24,"for":18,"against":137,"deduct":-3,"deductReason":"Failing to appear for a match","isRemoved":true,"isNew":true}
 ]

@@ -711,4 +711,13 @@
 {"country":"svk","name":"ZTS Dubnica","id":"FK_Spartak_Dubnica_nad_Váhom","win":9,"draw":11,"loss":16,"for":38,"against":48,"isReturning":true},
 {"country":"svk","name":"1. FC Košice","id":"FC_VSS_Košice","win":6,"draw":13,"loss":17,"for":30,"against":62},
 {"country":"svk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":8,"draw":7,"loss":21,"for":35,"against":66,"isRemoved":true}
+][
+{"country":"and","name":"Sant Julià","id":"UE_Sant_Julià","win":13,"draw":4,"loss":3,"for":51,"against":21},
+{"country":"and","name":"Encamp","id":"FC_Encamp","win":14,"draw":2,"loss":4,"for":43,"against":18,"isChampion":true},
+{"country":"and","name":"FC Santa Coloma","id":"FC_Santa_Coloma","win":12,"draw":6,"loss":2,"for":57,"against":23},
+{"country":"and","name":"Rànger's","id":"FC_Rànger%27s","win":6,"draw":5,"loss":9,"for":28,"against":36,"isNew":true},
+{"country":"and","name":"Principat","id":"CE_Principat","win":6,"draw":4,"loss":10,"for":32,"against":40},
+{"country":"and","name":"Lusitans","id":"FC_Lusitanos","win":6,"draw":4,"loss":10,"for":32,"against":39},
+{"country":"and","name":"Inter d'Escaldes","id":"Inter_Club_d%27Escaldes","win":6,"draw":2,"loss":12,"for":23,"against":42},
+{"country":"and","name":"Sporting d'Escaldes","id":"Sporting_Club_d%27Escaldes","win":2,"draw":3,"loss":15,"for":15,"against":62}
 ]

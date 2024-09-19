@@ -718,4 +718,13 @@
 {"country":"svk","name":"Trenčín","id":"AS_Trenčín","win":12,"draw":7,"loss":17,"for":36,"against":50},
 {"country":"svk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":9,"draw":11,"loss":16,"for":37,"against":60},
 {"country":"svk","name":"Rimavská Sobota","id":"MŠK_Rimavská_Sobota","win":7,"draw":11,"loss":18,"for":30,"against":57,"isRemoved":true,"isReturning":true}
+][
+{"country":"and","name":"Sant Julià","id":"UE_Sant_Julià","win":18,"draw":0,"loss":2,"for":61,"against":14,"isChampion":true},
+{"country":"and","name":"Rànger's","id":"FC_Rànger%27s","win":17,"draw":0,"loss":3,"for":59,"against":15},
+{"country":"and","name":"FC Santa Coloma","id":"FC_Santa_Coloma","win":12,"draw":1,"loss":7,"for":50,"against":26},
+{"country":"and","name":"Principat","id":"CE_Principat","win":6,"draw":2,"loss":12,"for":23,"against":45},
+{"country":"and","name":"Inter d'Escaldes","id":"Inter_Club_d%27Escaldes","win":7,"draw":4,"loss":9,"for":36,"against":44},
+{"country":"and","name":"Encamp","id":"FC_Encamp","win":4,"draw":3,"loss":13,"for":19,"against":41,"isRemoved":true},
+{"country":"and","name":"Lusitans","id":"FC_Lusitanos","win":5,"draw":2,"loss":13,"for":24,"against":48},
+{"country":"and","name":"Atlètic d'Escaldes","id":"Atlètic_Club_d%27Escaldes","win":5,"draw":0,"loss":15,"for":19,"against":58,"isNew":true}
 ]

@@ -755,4 +755,17 @@
 {"country":"svk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":9,"draw":7,"loss":14,"for":29,"against":45},
 {"country":"svk","name":"ZTS Kerametal Dubnica","id":"FK_Spartak_Dubnica_nad_Váhom","win":8,"draw":8,"loss":14,"for":29,"against":43,"isRemoved":true,"isNew":true},
 {"country":"svk","name":"Nitra","id":"FC_Nitra","win":5,"draw":5,"loss":20,"for":22,"against":48,"isRemoved":true}
+][
+{"country":"and","name":"Principat","id":"CE_Principat","win":20,"draw":1,"loss":1,"for":115,"against":12,"isChampion":true},
+{"country":"and","name":"Veterans Andorra","id":"FC_Andorra","win":19,"draw":2,"loss":1,"for":84,"against":25,"isNew":true},
+{"country":"and","name":"Encamp","id":"FC_Encamp","win":12,"draw":5,"loss":5,"for":66,"against":25},
+{"country":"and","name":"FC Santa Coloma","id":"FC_Santa_Coloma","win":10,"draw":3,"loss":9,"for":57,"against":31},
+{"country":"and","name":"Aldosa","id":"FC_Aldosa","win":10,"draw":3,"loss":9,"for":34,"against":37,"isRemoved":true},
+{"country":"and","name":"Sporting d'Escaldes","id":"Sporting_Club_d%27Escaldes","win":8,"draw":6,"loss":8,"for":51,"against":39,"isNew":true},
+{"country":"and","name":"Sant Julià","id":"UE_Sant_Julià","win":9,"draw":3,"loss":10,"for":38,"against":52},
+{"country":"and","name":"La Massana","id":"Deportivo_La_Massana","win":6,"draw":7,"loss":9,"for":32,"against":43,"isNew":true},
+{"country":"and","name":"Inter d'Escaldes","id":"Inter_Club_d%27Escaldes","win":7,"draw":4,"loss":11,"for":31,"against":48},
+{"country":"and","name":"Les Bons","id":"UE_Les_Bons","win":6,"draw":4,"loss":12,"for":37,"against":66,"isNew":true,"isRemoved":true},
+{"country":"and","name":"Gimnàstic Valira","id":"Gimnàstic_Valira","win":4,"draw":4,"loss":14,"for":31,"against":84,"isNew":true},
+{"country":"and","name":"Spordany Juvenil","id":"Spordany_Juvenil","win":0,"draw":0,"loss":22,"for":23,"against":137,"isRemoved":true}
 ]
