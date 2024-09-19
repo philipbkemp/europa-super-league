@@ -82,7 +82,7 @@
 	{"country":"aut","name":"FC Wien","id":"FC_Wien","win":7,"draw":4,"loss":9,"for":48,"against":49},
 	{"country":"aut","name":"Reichsbahn SG Wien","id":"Reichsbahn_SG_Wien","win":6,"draw":5,"loss":9,"for":38,"against":38,"isRemoved":true,"isNew":true},
 	{"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":5,"draw":7,"loss":8,"for":32,"against":40},
-	{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":6,"draw":4,"loss":10,"for":38,"against":42},
+	{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":6,"draw":4,"loss":10,"for":38,"against":42,"isRemoved":true},
 	{"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":0,"draw":1,"loss":19,"for":21,"against":99,"isRemoved":true,"isNew":true},
 	{"country":"isl","name":"Valur","id":"valur","win":3,"draw":0,"loss":1,"for":11,"against":5,"isChampion":true},
 	{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":3,"draw":0,"loss":1,"for":7,"against":7},
