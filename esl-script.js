@@ -176,6 +176,13 @@ if ( $("h1 .placeholder").length !== 0 ) {
 		rName = $("<TH></TH>").attr("scope","row").html(team.name);
 		keys.splice(keys.indexOf("name"),1);
 
+		if ( typeof(team.note) !== "undefined" ) {
+			rName.append(
+				$("<IMG />").attr("src","../../icons/note.png").attr("alt","Note: "+team.note).attr("data-bs-toggle","tooltip").attr("data-bs-title","Note: "+team.note)
+			);
+			keys.splice(keys.indexOf("note"),1);
+		}
+
 		if ( typeof(team.isNew) !== "undefined" ) {
 			rName.append(
 				$("<IMG />").attr("src","../../icons/new.png").attr("alt","New club").attr("data-bs-toggle","tooltip").attr("data-bs-title","New club")

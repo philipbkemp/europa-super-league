@@ -36,7 +36,7 @@
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":13,"draw":7,"loss":10,"for":92,"against":59},
 	{"country":"hun","name":"Újvidéki AC","id":"NAK_Novi_Sad","win":12,"draw":7,"loss":11,"for":68,"against":58,"isRemoved":true,"removedNote":"1944 was not completed and thus unofficial. The club was removed for the following season"},
 	{"country":"hun","name":"Salgótarjáni BTC","id":"Salgótarjáni_BTC","win":13,"draw":4,"loss":13,"for":71,"against":60,"isRemoved":true,"removedNote":"1944 was not completed and thus unofficial. The club was removed for the following season"},
-	{"country":"hun","name":"Szolnoki MÁV FC","id":"Szolnoki_MÁV_FC","win":13,"draw":4,"loss":13,"for":59,"against":58},
+	{"country":"hun","name":"Szolnoki MÁV FC","id":"Szolnoki_MÁV_FC","win":13,"draw":4,"loss":13,"for":59,"against":58,"isRemoved":true},
 	{"country":"hun","name":"Csepel SC","id":"Csepel_SC","win":12,"draw":5,"loss":13,"for":63,"against":66},
 	{"country":"hun","name":"Kispest AC","id":"Budapest_Honvéd_FC","win":11,"draw":6,"loss":13,"for":66,"against":64},
 	{"country":"hun","name":"DiMÁVAG","id":"Diósgyőri_VTK","win":11,"draw":6,"loss":13,"for":49,"against":59,"isRemoved":true,"removedNote":"1944 was not completed and thus unofficial. The club was removed for the following season"},
