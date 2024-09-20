@@ -763,4 +763,17 @@
 {"country":"srb","name":"Zlatibor","id":"FK_Zlatibor_Čajetina","win":7,"draw":8,"loss":23,"for":28,"against":64,"isRemoved":true,"isNew":true},
 {"country":"srb","name":"Mačva","id":"FK_Mačva_Šabac","win":7,"draw":4,"loss":27,"for":26,"against":81,"isRemoved":true},
 {"country":"srb","name":"Bačka","id":"OFK_Bačka","win":3,"draw":7,"loss":28,"for":24,"against":68,"isRemoved":true,"isReturning":true}
+][
+{"country":"gib","name":"Europa","id":"Europa_F.C.","win":15,"draw":2,"loss":3,"for":66,"against":14},
+{"country":"gib","name":"Lincoln Red Imps","id":"Lincoln_Red_Imps_F.C.","win":15,"draw":3,"loss":2,"for":62,"against":13,"isChampion":true},
+{"country":"gib","name":"St Joseph's","id":"St_Joseph%27s_F.C.","win":14,"draw":3,"loss":3,"for":71,"against":20},
+{"country":"gib","name":"Lynx","id":"Lynx_F.C.","win":8,"draw":2,"loss":10,"for":36,"against":40},
+{"country":"gib","name":"Mons Calpe","id":"Mons_Calpe_S.C.","win":10,"draw":2,"loss":8,"for":36,"against":35},
+{"country":"gib","name":"Lions Gibraltar","id":"Lions_Gibraltar_F.C.","win":4,"draw":4,"loss":12,"for":13,"against":33},
+{"country":"gib","name":"Bruno's Magpies","id":"F.C._Bruno%27s_Magpies","win":10,"draw":2,"loss":6,"for":46,"against":27},
+{"country":"gib","name":"Glacis United","id":"Glacis_United_F.C.","win":10,"draw":0,"loss":8,"for":35,"against":27},
+{"country":"gib","name":"Manchester 62","id":"Manchester_62_F.C.","win":5,"draw":2,"loss":11,"for":25,"against":60},
+{"country":"gib","name":"Europa Point","id":"Europa_Point_F.C.","win":1,"draw":0,"loss":17,"for":10,"against":73},
+{"country":"gib","name":"College 1975","id":"College_1975_F.C.","win":2,"draw":2,"loss":14,"for":23,"against":81},
+{"country":"gib","name":"Boca Gibraltar","id":"F.C._Boca_Gibraltar","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Club expelled; Record expunged"}
 ]

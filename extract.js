@@ -1,4 +1,4 @@
-country = "srb";
+country = "gib";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
@@ -8,8 +8,8 @@ tbl = $("#Standings, #League_table, #League, #Final_table, #Final_Table, #League
 if ( tbl.length === 1 ) { FOUND = true; }
 
 
-tbl2 = $("#League_table, #Championship_round, #Relegation_round");
-if ( tbl2.length === 3 ) { FOUND = true; ADD_TABLE_STATS = [false,false]; console.warn("C/R"); tbl=tbl2;}
+tbl2 = $("#Regular_season, #GFL_Championship_Group");
+if ( tbl2.length === 2 ) { FOUND = true; ADD_TABLE_STATS = [false,false]; console.warn("C/R"); tbl=tbl2;}
 
 
 if ( FOUND ) {

@@ -716,4 +716,15 @@
 {"country":"srb","name":"Radnik Surdulica","id":"FK_Radnik_Surdulica","win":9,"draw":10,"loss":18,"for":35,"against":48},
 {"country":"srb","name":"Novi Pazar","id":"FK_Novi_Pazar","win":7,"draw":6,"loss":24,"for":29,"against":68,"isRemoved":true},
 {"country":"srb","name":"Borac Čačak","id":"FK_Borac_Čačak","win":8,"draw":7,"loss":22,"for":29,"against":51}
+][
+{"country":"gib","name":"Europa FC","id":"Europa_F.C.","win":24,"draw":1,"loss":2,"for":93,"against":18,"isChampion":true},
+{"country":"gib","name":"Lincoln Red Imps","id":"Lincoln_Red_Imps_F.C.","win":23,"draw":3,"loss":1,"for":100,"against":16},
+{"country":"gib","name":"St Joseph's","id":"St_Joseph%27s_F.C.","win":16,"draw":6,"loss":5,"for":53,"against":18},
+{"country":"gib","name":"Glacis United","id":"Glacis_United_F.C.","win":12,"draw":8,"loss":7,"for":42,"against":34},
+{"country":"gib","name":"Mons Calpe","id":"Mons_Calpe_S.C.","win":13,"draw":3,"loss":11,"for":44,"against":35,"isNew":true},
+{"country":"gib","name":"Lynx","id":"Lynx_F.C.","win":8,"draw":4,"loss":15,"for":34,"against":45},
+{"country":"gib","name":"Gibraltar United","id":"Gibraltar_United_F.C.","win":4,"draw":9,"loss":14,"for":20,"against":43},
+{"country":"gib","name":"Lions Gibraltar","id":"Lions_Gibraltar_F.C.","win":4,"draw":9,"loss":14,"for":17,"against":54},
+{"country":"gib","name":"Manchester 62","id":"Manchester_62_F.C.","win":4,"draw":5,"loss":18,"for":27,"against":60},
+{"country":"gib","name":"Europa Point","id":"Europa_Point_F.C.","win":2,"draw":2,"loss":23,"for":13,"against":120,"isRemoved":true,"isNew":true}
 ]

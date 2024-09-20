@@ -766,4 +766,16 @@
 {"country":"srb","name":"Voždovac","id":"FK_Voždovac","win":9,"draw":11,"loss":17,"for":46,"against":58,"isRemoved":true},
 {"country":"srb","name":"Železničar","id":"FK_Železničar_Pančevo","win":10,"draw":9,"loss":18,"for":47,"against":65,"isNew":true},
 {"country":"srb","name":"Radnik Surdulica","id":"FK_Radnik_Surdulica","win":3,"draw":9,"loss":25,"for":24,"against":59,"isRemoved":true}
+][
+{"country":"gib","name":"Lincoln Red Imps","id":"Lincoln_Red_Imps_F.C.","win":21,"draw":2,"loss":2,"for":86,"against":15,"isChampion":true},
+{"country":"gib","name":"St Joseph's","id":"St_Joseph%27s_F.C.","win":20,"draw":3,"loss":2,"for":62,"against":16},
+{"country":"gib","name":"FCB Magpies","id":"F.C._Bruno%27s_Magpies","win":14,"draw":4,"loss":7,"for":55,"against":36},
+{"country":"gib","name":"Mons Calpe","id":"Mons_Calpe_S.C.","win":9,"draw":6,"loss":10,"for":37,"against":39},
+{"country":"gib","name":"Manchester 62","id":"Manchester_62_F.C.","win":9,"draw":2,"loss":14,"for":44,"against":64},
+{"country":"gib","name":"Europa Point","id":"Europa_Point_F.C.","win":10,"draw":5,"loss":10,"for":32,"against":31},
+{"country":"gib","name":"Lynx","id":"Lynx_F.C.","win":8,"draw":3,"loss":9,"for":29,"against":31},
+{"country":"gib","name":"Europa","id":"Europa_F.C.","win":6,"draw":2,"loss":12,"for":25,"against":34},
+{"country":"gib","name":"Glacis United","id":"Glacis_United_F.C.","win":5,"draw":1,"loss":14,"for":21,"against":47},
+{"country":"gib","name":"Lions Gibraltar","id":"Lions_Gibraltar_F.C.","win":3,"draw":4,"loss":13,"for":16,"against":50},
+{"country":"gib","name":"College 1975","id":"College_1975_F.C.","win":3,"draw":2,"loss":15,"for":21,"against":65}
 ]

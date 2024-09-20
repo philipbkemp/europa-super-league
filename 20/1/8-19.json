@@ -725,4 +725,15 @@
 {"country":"srb","name":"Rad","id":"FK_Rad","win":7,"draw":12,"loss":18,"for":22,"against":44},
 {"country":"srb","name":"Dinamo Vranje","id":"FK_Dinamo_Vranje","win":9,"draw":6,"loss":22,"for":24,"against":67,"isRemoved":true,"isNew":true},
 {"country":"srb","name":"Zemun","id":"FK_Zemun","win":6,"draw":12,"loss":19,"for":36,"against":53,"isRemoved":true}
+][
+{"country":"gib","name":"Lincoln Red Imps","id":"Lincoln_Red_Imps_F.C.","win":21,"draw":3,"loss":3,"for":84,"against":19,"isChampion":true},
+{"country":"gib","name":"Europa FC","id":"Europa_F.C.","win":20,"draw":4,"loss":3,"for":84,"against":20},
+{"country":"gib","name":"St Joseph's","id":"St_Joseph%27s_F.C.","win":17,"draw":4,"loss":6,"for":69,"against":29},
+{"country":"gib","name":"Mons Calpe","id":"Mons_Calpe_S.C.","win":15,"draw":4,"loss":8,"for":63,"against":29},
+{"country":"gib","name":"Gibraltar Phoenix","id":"Gibraltar_Phoenix_F.C.","win":13,"draw":4,"loss":10,"for":42,"against":34,"isRemoved":true},
+{"country":"gib","name":"Gibraltar United","id":"Gibraltar_United_F.C.","win":11,"draw":6,"loss":10,"for":48,"against":37,"isRemoved":true},
+{"country":"gib","name":"Lynx","id":"Lynx_F.C.","win":8,"draw":7,"loss":12,"for":29,"against":45},
+{"country":"gib","name":"Glacis United","id":"Glacis_United_F.C.","win":7,"draw":3,"loss":17,"for":28,"against":58},
+{"country":"gib","name":"Lions Gibraltar","id":"Lions_Gibraltar_F.C.","win":3,"draw":0,"loss":24,"for":17,"against":77},
+{"country":"gib","name":"Boca Gibraltar","id":"F.C._Boca_Gibraltar","win":2,"draw":1,"loss":24,"for":13,"against":129,"isNew":true}
 ]

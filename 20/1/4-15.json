@@ -747,4 +747,13 @@
 {"country":"srb","name":"Napredak Kruševac","id":"FK_Napredak_Kruševac","win":8,"draw":7,"loss":15,"for":23,"against":34,"isRemoved":true},
 {"country":"srb","name":"Donji Srem","id":"FK_Donji_Srem","win":6,"draw":8,"loss":16,"for":25,"against":42,"isRemoved":true},
 {"country":"srb","name":"Radnički 1923","id":"FK_Radnički_1923","win":4,"draw":7,"loss":19,"for":17,"against":42,"isRemoved":true}
+][
+{"country":"gib","name":"Lincoln Red Imps","id":"Lincoln_Red_Imps_F.C.","win":19,"draw":1,"loss":1,"for":80,"against":12,"isChampion":true},
+{"country":"gib","name":"College Europa","id":"Europa_F.C.","win":12,"draw":6,"loss":3,"for":42,"against":14},
+{"country":"gib","name":"Lynx","id":"Lynx_F.C.","win":10,"draw":8,"loss":3,"for":36,"against":18},
+{"country":"gib","name":"St Joseph's","id":"St_Joseph%27s_F.C.","win":12,"draw":2,"loss":7,"for":36,"against":18},
+{"country":"gib","name":"Manchester 62","id":"Manchester_62_F.C.","win":7,"draw":6,"loss":8,"for":22,"against":25},
+{"country":"gib","name":"Glacis United","id":"Glacis_United_F.C.","win":4,"draw":3,"loss":14,"for":14,"against":50},
+{"country":"gib","name":"Britannia XI","id":"F.C._Britannia_XI","win":2,"draw":3,"loss":16,"for":13,"against":67,"isNew":true},
+{"country":"gib","name":"Lions Gibraltar","id":"Lions_Gibraltar_F.C.","win":1,"draw":5,"loss":15,"for":9,"against":48}
 ]

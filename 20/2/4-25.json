@@ -737,4 +737,16 @@
 {"country":"srb","name":"Tekstilac Odžaci","id":"FK_Tekstilac_Odžaci","win":1,"draw":1,"loss":3,"for":4,"against":10,"isCurrentSeason":true,"isNew":true},
 {"country":"srb","name":"IMT","id":"FK_IMT","win":0,"draw":2,"loss":2,"for":2,"against":4,"isCurrentSeason":true},
 {"country":"srb","name":"Jedinstvo Ub","id":"FK_Jedinstvo_Ub","win":0,"draw":1,"loss":4,"for":2,"against":12,"isCurrentSeason":true,"isNew":true}
+][
+{"country":"gib","name":"Europa","id":"Europa_F.C.","win":4,"draw":0,"loss":0,"for":13,"against":5,"isCurrentSeason":true},
+{"country":"gib","name":"St Joseph's","id":"St_Joseph%27s_F.C.","win":3,"draw":0,"loss":0,"for":8,"against":1,"isCurrentSeason":true},
+{"country":"gib","name":"Manchester 62","id":"Manchester_62_F.C.","win":2,"draw":0,"loss":1,"for":7,"against":5,"isCurrentSeason":true},
+{"country":"gib","name":"Glacis United","id":"Glacis_United_F.C.","win":1,"draw":1,"loss":2,"for":6,"against":4,"isCurrentSeason":true},
+{"country":"gib","name":"Lions Gibraltar","id":"Lions_Gibraltar_F.C.","win":1,"draw":1,"loss":1,"for":3,"against":3,"isCurrentSeason":true},
+{"country":"gib","name":"Lincoln Red Imps","id":"Lincoln_Red_Imps_F.C.","win":1,"draw":0,"loss":0,"for":4,"against":1,"isCurrentSeason":true},
+{"country":"gib","name":"Mons Calpe","id":"Mons_Calpe_S.C.","win":1,"draw":0,"loss":2,"for":4,"against":6,"isCurrentSeason":true},
+{"country":"gib","name":"College 1975","id":"College_1975_F.C.","win":1,"draw":0,"loss":2,"for":2,"against":6,"isCurrentSeason":true},
+{"country":"gib","name":"FCB Magpies","id":"F.C._Bruno%27s_Magpies","win":1,"draw":0,"loss":2,"for":4,"against":7,"isCurrentSeason":true},
+{"country":"gib","name":"Lynx","id":"Lynx_F.C.","win":0,"draw":1,"loss":3,"for":5,"against":10,"isCurrentSeason":true},
+{"country":"gib","name":"Europa Point","id":"Europa_Point_F.C.","win":0,"draw":1,"loss":2,"for":3,"against":11,"isCurrentSeason":true}
 ]
