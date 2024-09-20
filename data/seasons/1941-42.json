@@ -95,7 +95,7 @@
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":4,"draw":6,"loss":8,"for":29,"against":36},
 	{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":4,"draw":6,"loss":8,"for":29,"against":49},
 	{"country":"irl","name":"Bray Unknowns","id":"Bray_Unknowns_F.C.","win":0,"draw":3,"loss":15,"for":17,"against":61},
-	{"country":"tur","name":"Beşiktaş","id":"Beşiktaş_J.K.","win":14,"draw":4,"loss":0,"for":51,"against":21,"isChampion":true,"isRemoved":true,"removedNote":"League not contested next season"},
+	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":14,"draw":4,"loss":0,"for":51,"against":21,"isChampion":true,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":12,"draw":4,"loss":2,"for":45,"against":20,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":13,"draw":2,"loss":3,"for":51,"against":24,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"tur","name":"Harp Okulu","id":"harp_okulu","win":6,"draw":4,"loss":8,"for":33,"against":34,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},

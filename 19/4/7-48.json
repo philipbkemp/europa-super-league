@@ -269,7 +269,7 @@
 {"country":"yug","name":"Spartak Subotica","id":"FK_Spartak_Subotica","win":5,"draw":1,"loss":12,"for":21,"against":38,"isRemoved":true},
 {"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":2,"draw":7,"loss":9,"for":19,"against":40,"isRemoved":true,"isNew":true}
 ][
-{"country":"tur","name":"Beşiktaş","id":"Beşiktaş_J.K.","win":10,"draw":3,"loss":1,"for":39,"against":12,"isChampion":true,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":10,"draw":3,"loss":1,"for":39,"against":12,"isChampion":true,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 {"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":9,"draw":3,"loss":2,"for":41,"against":21,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 {"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":6,"draw":5,"loss":3,"for":32,"against":20,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 {"country":"tur","name":"Vefa","id":"Vefa_S.K.","win":6,"draw":4,"loss":4,"for":29,"against":23,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},

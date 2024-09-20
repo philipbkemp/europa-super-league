@@ -164,7 +164,7 @@
 	{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":11,"draw":0,"loss":3,"for":43,"against":19,"isChampion":true},
 	{"country":"tur","name":"Ankara Demirspor","id":"Ankara_Demirspor","win":9,"draw":3,"loss":2,"for":35,"against":16,"isNew":true,"isRemoved":true},
 	{"country":"tur","name":"AS-FA Gücü","id":"MKE_Ankaragücü","win":9,"draw":1,"loss":4,"for":34,"against":21,"isReturning":true,"isRemoved":true},
-	{"country":"tur","name":"Beşiktaş","id":"Beşiktaş_J.K.","win":8,"draw":2,"loss":4,"for":37,"against":17},
+	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":8,"draw":2,"loss":4,"for":37,"against":17},
 	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":6,"draw":2,"loss":6,"for":31,"against":26},
 	{"country":"tur","name":"Vefa","id":"Vefa_S.K.","win":3,"draw":2,"loss":9,"for":28,"against":36,"isNew":true},
 	{"country":"tur","name":"Doğanspor","id":"doğanspor","win":3,"draw":1,"loss":10,"for":13,"against":49,"isReturning":true,"isRemoved":true},
