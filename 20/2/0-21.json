@@ -776,4 +776,15 @@
 {"country":"gib","name":"Europa Point","id":"Europa_Point_F.C.","win":1,"draw":0,"loss":17,"for":10,"against":73},
 {"country":"gib","name":"College 1975","id":"College_1975_F.C.","win":2,"draw":2,"loss":14,"for":23,"against":81},
 {"country":"gib","name":"Boca Gibraltar","id":"F.C._Boca_Gibraltar","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Club expelled; Record expunged"}
+][
+{"country":"kos","name":"Prishtina","id":"FC_Prishtina","win":24,"draw":6,"loss":6,"for":65,"against":27,"isChampion":true},
+{"country":"kos","name":"Drita","id":"FC_Drita","win":22,"draw":10,"loss":4,"for":59,"against":28},
+{"country":"kos","name":"Ballkani","id":"FC_Ballkani","win":23,"draw":5,"loss":8,"for":79,"against":43},
+{"country":"kos","name":"Gjilani","id":"SC_Gjilani","win":12,"draw":12,"loss":12,"for":37,"against":38},
+{"country":"kos","name":"Llapi","id":"KF_Llapi","win":13,"draw":4,"loss":19,"for":49,"against":56},
+{"country":"kos","name":"Drenica","id":"KF_Drenica","win":10,"draw":12,"loss":14,"for":34,"against":48},
+{"country":"kos","name":"Feronikeli","id":"FC_Feronikeli_74","win":10,"draw":12,"loss":14,"for":44,"against":36},
+{"country":"kos","name":"Trepça '89","id":"KF_Trepça_%2789","win":12,"draw":6,"loss":18,"for":38,"against":54,"isRemoved":true},
+{"country":"kos","name":"Arbëria","id":"KF_Arbëria","win":11,"draw":7,"loss":18,"for":42,"against":58,"isRemoved":true,"isNew":true},
+{"country":"kos","name":"Besa Pejë","id":"SC_Besa_Pejë","win":3,"draw":6,"loss":27,"for":27,"against":86,"isRemoved":true,"isReturning":true}
 ]

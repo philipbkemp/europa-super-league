@@ -1,4 +1,4 @@
-country = "gib";
+country = "kos";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
@@ -7,10 +7,10 @@ FOUND = false;
 tbl = $("#Standings, #League_table, #League, #Final_table, #Final_Table, #League_standings, #Final_league_table, #Preliminary_stage, #Final_standings");
 if ( tbl.length === 1 ) { FOUND = true; }
 
-
+/*
 tbl2 = $("#Regular_season, #GFL_Championship_Group");
 if ( tbl2.length === 2 ) { FOUND = true; ADD_TABLE_STATS = [false,false]; console.warn("C/R"); tbl=tbl2;}
-
+*/
 
 if ( FOUND ) {
 	tblTotal = tbl.length;

@@ -727,4 +727,17 @@
 {"country":"gib","name":"Lions Gibraltar","id":"Lions_Gibraltar_F.C.","win":4,"draw":9,"loss":14,"for":17,"against":54},
 {"country":"gib","name":"Manchester 62","id":"Manchester_62_F.C.","win":4,"draw":5,"loss":18,"for":27,"against":60},
 {"country":"gib","name":"Europa Point","id":"Europa_Point_F.C.","win":2,"draw":2,"loss":23,"for":13,"against":120,"isRemoved":true,"isNew":true}
+][
+{"country":"kos","name":"Trepça'89","id":"KF_Trepça_%2789","win":24,"draw":5,"loss":4,"for":72,"against":24,"isChampion":true},
+{"country":"kos","name":"Prishtina","id":"FC_Prishtina","win":22,"draw":6,"loss":5,"for":46,"against":18},
+{"country":"kos","name":"Llapi","id":"KF_Llapi","win":21,"draw":5,"loss":7,"for":44,"against":30},
+{"country":"kos","name":"Feronikeli","id":"FC_Feronikeli_74","win":20,"draw":5,"loss":8,"for":61,"against":27},
+{"country":"kos","name":"Gjilani","id":"SC_Gjilani","win":13,"draw":9,"loss":11,"for":36,"against":28},
+{"country":"kos","name":"Besa","id":"SC_Besa_Pejë","win":13,"draw":8,"loss":12,"for":42,"against":39},
+{"country":"kos","name":"Drenica","id":"KF_Drenica","win":10,"draw":10,"loss":13,"for":37,"against":47},
+{"country":"kos","name":"Liria","id":"KF_Liria_Prizren","win":10,"draw":7,"loss":16,"for":41,"against":39},
+{"country":"kos","name":"Drita","id":"FC_Drita","win":9,"draw":8,"loss":16,"for":21,"against":34},
+{"country":"kos","name":"Ferizaj","id":"FC_Ferizaj","win":6,"draw":13,"loss":14,"for":24,"against":36,"isRemoved":true,"isNew":true},
+{"country":"kos","name":"Trepça","id":"KF_Trepça","win":5,"draw":8,"loss":20,"for":37,"against":64,"isRemoved":true,"isReturning":true},
+{"country":"kos","name":"Hajvalia","id":"FC_Hajvalia","win":1,"draw":4,"loss":28,"for":12,"against":87,"isRemoved":true}
 ]

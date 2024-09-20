@@ -777,4 +777,15 @@
 {"country":"gib","name":"Manchester 62","id":"Manchester_62_F.C.","win":9,"draw":1,"loss":8,"for":34,"against":30},
 {"country":"gib","name":"Europa Point","id":"Europa_Point_F.C.","win":1,"draw":4,"loss":13,"for":12,"against":65},
 {"country":"gib","name":"College 1975","id":"College_1975_F.C.","win":2,"draw":3,"loss":13,"for":19,"against":51}
+][
+{"country":"kos","name":"Ballkani","id":"FC_Ballkani","win":20,"draw":13,"loss":3,"for":62,"against":32,"isChampion":true},
+{"country":"kos","name":"Drita","id":"FC_Drita","win":20,"draw":10,"loss":6,"for":63,"against":31},
+{"country":"kos","name":"Gjilani","id":"SC_Gjilani","win":13,"draw":15,"loss":8,"for":34,"against":34},
+{"country":"kos","name":"Dukagjini","id":"KF_Dukagjini","win":14,"draw":8,"loss":14,"for":41,"against":37},
+{"country":"kos","name":"Prishtina","id":"FC_Prishtina","win":12,"draw":12,"loss":12,"for":46,"against":36},
+{"country":"kos","name":"Malisheva","id":"KF_Malisheva","win":12,"draw":10,"loss":14,"for":52,"against":52},
+{"country":"kos","name":"Llapi","id":"KF_Llapi","win":11,"draw":10,"loss":15,"for":44,"against":50},
+{"country":"kos","name":"Ferizaj","id":"FC_Ferizaj","win":10,"draw":11,"loss":15,"for":31,"against":50,"isRemoved":true,"isReturning":true},
+{"country":"kos","name":"Trepça '89","id":"KF_Trepça_%2789","win":10,"draw":10,"loss":16,"for":46,"against":62,"isRemoved":true,"isReturning":true},
+{"country":"kos","name":"Drenica","id":"KF_Drenica","win":6,"draw":5,"loss":25,"for":27,"against":62,"isRemoved":true}
 ]

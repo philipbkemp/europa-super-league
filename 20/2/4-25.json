@@ -749,4 +749,15 @@
 {"country":"gib","name":"FCB Magpies","id":"F.C._Bruno%27s_Magpies","win":1,"draw":0,"loss":2,"for":4,"against":7,"isCurrentSeason":true},
 {"country":"gib","name":"Lynx","id":"Lynx_F.C.","win":0,"draw":1,"loss":3,"for":5,"against":10,"isCurrentSeason":true},
 {"country":"gib","name":"Europa Point","id":"Europa_Point_F.C.","win":0,"draw":1,"loss":2,"for":3,"against":11,"isCurrentSeason":true}
+][
+{"country":"kos","name":"Ballkani","id":"FC_Ballkani","win":3,"draw":1,"loss":1,"for":9,"against":5,"isCurrentSeason":true},
+{"country":"kos","name":"Malisheva","id":"KF_Malisheva","win":3,"draw":1,"loss":0,"for":8,"against":4,"isCurrentSeason":true},
+{"country":"kos","name":"Suhareka","id":"FC_Suhareka","win":3,"draw":1,"loss":0,"for":7,"against":3,"isCurrentSeason":true,"isNew":true},
+{"country":"kos","name":"Prishtina","id":"FC_Prishtina","win":2,"draw":1,"loss":1,"for":6,"against":4,"isCurrentSeason":true},
+{"country":"kos","name":"Llapi","id":"KF_Llapi","win":2,"draw":1,"loss":2,"for":6,"against":5,"isCurrentSeason":true},
+{"country":"kos","name":"Dukagjini","id":"KF_Dukagjini","win":2,"draw":0,"loss":3,"for":6,"against":9,"isCurrentSeason":true},
+{"country":"kos","name":"Gjilani","id":"SC_Gjilani","win":1,"draw":2,"loss":2,"for":7,"against":7,"isCurrentSeason":true},
+{"country":"kos","name":"Ferizaj","id":"FC_Ferizaj","win":1,"draw":1,"loss":3,"for":5,"against":9,"isCurrentSeason":true,"isReturning":true},
+{"country":"kos","name":"Drita","id":"FC_Drita","win":1,"draw":0,"loss":1,"for":3,"against":2,"isCurrentSeason":true},
+{"country":"kos","name":"Feronikeli","id":"FC_Feronikeli_74","win":0,"draw":0,"loss":5,"for":2,"against":11,"isCurrentSeason":true}
 ]
