@@ -1,4 +1,4 @@
-country = "and";
+country = "sam";
 current_season = false;
 teams = [];
 ADD_TABLE_STATS = [false];
@@ -7,8 +7,10 @@ FOUND = false;
 tbl = $("#Standings, #League_table, #League, #Final_table, #Final_Table, #League_standings, #Final_league_table, #Preliminary_stage, #Final_standings, #Regular_season");
 if ( tbl.length === 1 ) { FOUND = true; }
 
+/*
 tbl2 = $("#First_round, #Regular_season, #Championship_Round, #Championship_round, #Relegation_round, #Relegation_Round");
 if ( tbl2.length === 3 ) { FOUND = true; ADD_TABLE_STATS = [false,false]; console.warn("C/R"); tbl=tbl2;}
+*/
 
 if ( FOUND ) {
 	tblTotal = tbl.length;

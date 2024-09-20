@@ -706,4 +706,23 @@
 {"country":"and","name":"Rànger's","id":"FC_Rànger%27s","win":9,"draw":3,"loss":10,"for":54,"against":51},
 {"country":"and","name":"Extremenya","id":"UE_Extremenya","win":2,"draw":1,"loss":19,"for":21,"against":85,"isRemoved":true,"isReturning":true},
 {"country":"and","name":"Sporting d'Escaldes","id":"Sporting_Club_d%27Escaldes","win":0,"draw":0,"loss":16,"for":10,"against":101,"isRemoved":true}
+][
+{"country":"sam","name":"Partizan","id":"FK_Partizan","win":29,"draw":2,"loss":3,"for":88,"against":36,"isChampion":true},
+{"country":"sam","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":21,"draw":7,"loss":6,"for":68,"against":26},
+{"country":"sam","name":"OFK Beograd","id":"ofk_beograd","win":19,"draw":6,"loss":9,"for":57,"against":36},
+{"country":"sam","name":"Sutjeska","id":"FK_Sutjeska_Nikšić","win":19,"draw":5,"loss":10,"for":43,"against":32},
+{"country":"sam","name":"Železnik","id":"FK_Železnik","win":18,"draw":8,"loss":8,"for":56,"against":37},
+{"country":"sam","name":"Vojvodina","id":"FK_Vojvodina","win":17,"draw":5,"loss":12,"for":48,"against":36},
+{"country":"sam","name":"Obilić","id":"FK_Obilić","win":14,"draw":9,"loss":11,"for":45,"against":35},
+{"country":"sam","name":"Zeta","id":"FK_Zeta","win":15,"draw":6,"loss":13,"for":51,"against":43},
+{"country":"sam","name":"Hajduk Kula","id":"FK_Hajduk_Kula","win":13,"draw":9,"loss":12,"for":39,"against":29},
+{"country":"sam","name":"Zemun","id":"FK_Zemun","win":13,"draw":8,"loss":13,"for":42,"against":39},
+{"country":"sam","name":"Sartid","id":"FK_Smederevo_1924","win":10,"draw":15,"loss":9,"for":44,"against":44},
+{"country":"sam","name":"Radnički Obrenovac","id":"FK_Radnički_Obrenovac","win":11,"draw":11,"loss":12,"for":35,"against":41,"isNew":true},
+{"country":"sam","name":"Rad","id":"FK_Rad","win":11,"draw":10,"loss":13,"for":39,"against":43,"isRemoved":true},
+{"country":"sam","name":"Čukarički","id":"FK_Čukarički","win":10,"draw":7,"loss":17,"for":42,"against":56,"isRemoved":true},
+{"country":"sam","name":"Javor Ivanjica","id":"FK_Javor_Ivanjica","win":9,"draw":7,"loss":18,"for":21,"against":44,"isRemoved":true,"isNew":true},
+{"country":"sam","name":"Mogren","id":"FK_Mogren","win":5,"draw":6,"loss":23,"for":33,"against":76,"isRemoved":true,"isReturning":true},
+{"country":"sam","name":"Rudar Pljevlja","id":"FK_Rudar_Pljevlja","win":4,"draw":6,"loss":24,"for":19,"against":62,"isRemoved":true},
+{"country":"sam","name":"Radnički Niš","id":"FK_Radnički_Niš","win":2,"draw":5,"loss":27,"for":23,"against":78,"isRemoved":true,"isReturning":true}
 ]
