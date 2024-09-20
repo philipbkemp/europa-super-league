@@ -709,4 +709,32 @@
 {"country":"svk","name":"Skalica","id":"MFK_Skalica","win":0,"draw":3,"loss":3,"for":5,"against":13,"isCurrentSeason":true}
 ][
 	// AND / Andorra / Not yet started / September 19
+][
+{"country":"mne","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":5,"draw":2,"loss":0,"for":14,"against":3,"isCurrentSeason":true},
+{"country":"mne","name":"Petrovac","id":"OFK_Petrovac","win":4,"draw":2,"loss":1,"for":12,"against":7,"isCurrentSeason":true},
+{"country":"mne","name":"Dečić","id":"FK_Dečić","win":3,"draw":3,"loss":1,"for":8,"against":7,"isCurrentSeason":true},
+{"country":"mne","name":"Arsenal","id":"FK_Arsenal_Tivat","win":3,"draw":2,"loss":2,"for":9,"against":11,"isCurrentSeason":true},
+{"country":"mne","name":"Sutjeska","id":"FK_Sutjeska_Nikšić","win":2,"draw":3,"loss":2,"for":10,"against":8,"isCurrentSeason":true},
+{"country":"mne","name":"Otrant-Olympic","id":"FK_Otrant-Olympic","win":2,"draw":2,"loss":3,"for":10,"against":11,"isCurrentSeason":true,"isNew":true},
+{"country":"mne","name":"Jedinstvo","id":"FK_Jedinstvo_Bijelo_Polje","win":2,"draw":1,"loss":4,"for":6,"against":9,"isCurrentSeason":true},
+{"country":"mne","name":"Bokelj","id":"FK_Bokelj","win":2,"draw":1,"loss":4,"for":4,"against":10,"isCurrentSeason":true,"isReturning":true},
+{"country":"mne","name":"Mornar","id":"FK_Mornar","win":1,"draw":2,"loss":4,"for":8,"against":9,"isCurrentSeason":true},
+{"country":"mne","name":"Jezero","id":"FK_Jezero","win":1,"draw":2,"loss":4,"for":5,"against":11,"isCurrentSeason":true}
+][
+{"country":"srb","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":4,"draw":1,"loss":0,"for":18,"against":4,"isCurrentSeason":true},
+{"country":"srb","name":"Partizan","id":"FK_Partizan","win":3,"draw":1,"loss":0,"for":7,"against":0,"isCurrentSeason":true},
+{"country":"srb","name":"Čukarički","id":"FK_Čukarički","win":3,"draw":1,"loss":1,"for":9,"against":7,"isCurrentSeason":true},
+{"country":"srb","name":"OFK Beograd","id":"ofk_beograd","win":3,"draw":1,"loss":1,"for":5,"against":3,"isCurrentSeason":true,"isReturning":true},
+{"country":"srb","name":"Železničar Pančevo","id":"FK_Železničar_Pančevo","win":3,"draw":1,"loss":1,"for":7,"against":6,"isCurrentSeason":true},
+{"country":"srb","name":"TSC","id":"FK_TSC","win":2,"draw":1,"loss":2,"for":4,"against":3,"isCurrentSeason":true},
+{"country":"srb","name":"Mladost Lučani","id":"FK_Mladost_Lučani","win":2,"draw":1,"loss":2,"for":7,"against":7,"isCurrentSeason":true},
+{"country":"srb","name":"Radnički Niš","id":"FK_Radnički_Niš","win":2,"draw":0,"loss":2,"for":4,"against":7,"isCurrentSeason":true},
+{"country":"srb","name":"Napredak Kruševac","id":"FK_Napredak_Kruševac","win":1,"draw":2,"loss":2,"for":5,"against":6,"isCurrentSeason":true},
+{"country":"srb","name":"Spartak Subotica","id":"FK_Spartak_Subotica","win":1,"draw":2,"loss":2,"for":4,"against":6,"isCurrentSeason":true},
+{"country":"srb","name":"Radnički 1923","id":"FK_Radnički_1923","win":1,"draw":1,"loss":2,"for":8,"against":6,"isCurrentSeason":true},
+{"country":"srb","name":"Vojvodina","id":"FK_Vojvodina","win":1,"draw":1,"loss":2,"for":7,"against":9,"isCurrentSeason":true},
+{"country":"srb","name":"Novi Pazar","id":"FK_Novi_Pazar","win":1,"draw":1,"loss":2,"for":4,"against":7,"isCurrentSeason":true},
+{"country":"srb","name":"Tekstilac Odžaci","id":"FK_Tekstilac_Odžaci","win":1,"draw":1,"loss":3,"for":4,"against":10,"isCurrentSeason":true,"isNew":true},
+{"country":"srb","name":"IMT","id":"FK_IMT","win":0,"draw":2,"loss":2,"for":2,"against":4,"isCurrentSeason":true},
+{"country":"srb","name":"Jedinstvo Ub","id":"FK_Jedinstvo_Ub","win":0,"draw":1,"loss":4,"for":2,"against":12,"isCurrentSeason":true,"isNew":true}
 ]

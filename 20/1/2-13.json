@@ -729,4 +729,34 @@
 {"country":"and","name":"Encamp","id":"FC_Encamp","win":5,"draw":2,"loss":13,"for":18,"against":55,"isReturning":true},
 {"country":"and","name":"Engordany","id":"UE_Engordany","win":4,"draw":3,"loss":13,"for":20,"against":56,"isRemoved":true},
 {"country":"and","name":"Inter Club d'Escaldes","id":"Inter_Club_d%27Escaldes","win":6,"draw":0,"loss":14,"for":22,"against":42}
+][
+{"country":"mne","name":"Sutjeska","id":"FK_Sutjeska_Nikšić","win":20,"draw":5,"loss":8,"for":50,"against":31,"isChampion":true},
+{"country":"mne","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":17,"draw":9,"loss":7,"for":57,"against":38},
+{"country":"mne","name":"Čelik","id":"FK_Čelik_Nikšić","win":15,"draw":8,"loss":10,"for":41,"against":35,"isNew":true},
+{"country":"mne","name":"Grbalj","id":"OFK_Grbalj","win":13,"draw":12,"loss":8,"for":41,"against":21},
+{"country":"mne","name":"Rudar","id":"FK_Rudar_Pljevlja","win":15,"draw":6,"loss":12,"for":42,"against":40},
+{"country":"mne","name":"Mladost","id":"OFK_Titograd","win":9,"draw":12,"loss":12,"for":39,"against":48},
+{"country":"mne","name":"Petrovac","id":"OFK_Petrovac","win":8,"draw":14,"loss":11,"for":36,"against":42},
+{"country":"mne","name":"Zeta","id":"FK_Zeta","win":8,"draw":13,"loss":12,"for":43,"against":45},
+{"country":"mne","name":"Lovćen","id":"FK_Lovćen","win":11,"draw":4,"loss":18,"for":36,"against":52},
+{"country":"mne","name":"Mogren","id":"FK_Mogren","win":10,"draw":7,"loss":16,"for":33,"against":42,"deduct":-1},
+{"country":"mne","name":"Mornar","id":"FK_Mornar","win":9,"draw":9,"loss":15,"for":36,"against":47,"isReturning":true},
+{"country":"mne","name":"Jedinstvo","id":"FK_Jedinstvo_Bijelo_Polje","win":9,"draw":9,"loss":15,"for":31,"against":45,"isRemoved":true,"isReturning":true}
+][
+{"country":"srb","name":"Partizan","id":"FK_Partizan","win":23,"draw":4,"loss":3,"for":71,"against":16,"isChampion":true},
+{"country":"srb","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":20,"draw":2,"loss":8,"for":55,"against":35},
+{"country":"srb","name":"Vojvodina","id":"FK_Vojvodina","win":17,"draw":10,"loss":3,"for":40,"against":20},
+{"country":"srb","name":"Jagodina","id":"FK_Jagodina","win":15,"draw":5,"loss":10,"for":35,"against":26},
+{"country":"srb","name":"Sloboda Užice","id":"FK_Sloboda_Užice","win":11,"draw":12,"loss":7,"for":39,"against":37},
+{"country":"srb","name":"OFK Beograd","id":"ofk_beograd","win":13,"draw":6,"loss":11,"for":34,"against":32},
+{"country":"srb","name":"Rad","id":"FK_Rad","win":12,"draw":8,"loss":10,"for":32,"against":30},
+{"country":"srb","name":"Hajduk Kula","id":"FK_Hajduk_Kula","win":10,"draw":8,"loss":12,"for":36,"against":32,"isRemoved":true},
+{"country":"srb","name":"Spartak Zlatibor Voda","id":"FK_Spartak_Subotica","win":9,"draw":9,"loss":12,"for":36,"against":39},
+{"country":"srb","name":"Javor Ivanjica","id":"FK_Javor_Ivanjica","win":9,"draw":7,"loss":14,"for":38,"against":40},
+{"country":"srb","name":"Donji Srem","id":"FK_Donji_Srem","win":9,"draw":7,"loss":14,"for":26,"against":34,"isNew":true},
+{"country":"srb","name":"Radnički Niš","id":"FK_Radnički_Niš","win":9,"draw":7,"loss":14,"for":30,"against":44,"isReturning":true},
+{"country":"srb","name":"Radnički 1923","id":"FK_Radnički_1923","win":7,"draw":10,"loss":13,"for":25,"against":35},
+{"country":"srb","name":"Novi Pazar","id":"FK_Novi_Pazar","win":7,"draw":9,"loss":14,"for":29,"against":40},
+{"country":"srb","name":"BSK Borča","id":"FK_BSK_Borča","win":8,"draw":6,"loss":16,"for":26,"against":57,"isRemoved":true},
+{"country":"srb","name":"Smederevo","id":"FK_Smederevo_1924","win":3,"draw":6,"loss":21,"for":18,"against":53,"isRemoved":true}
 ]
