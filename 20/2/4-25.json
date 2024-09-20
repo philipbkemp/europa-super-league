@@ -708,7 +708,16 @@
 {"country":"svk","name":"Podbrezová","id":"FK_Železiarne_Podbrezová","win":1,"draw":2,"loss":3,"for":8,"against":7,"isCurrentSeason":true},
 {"country":"svk","name":"Skalica","id":"MFK_Skalica","win":0,"draw":3,"loss":3,"for":5,"against":13,"isCurrentSeason":true}
 ][
-	// AND / Andorra / Not yet started / September 19
+{"country":"and","name":"FC Santa Coloma","id":"FC_Santa_Coloma","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"and","name":"Rànger's","id":"FC_Rànger%27s","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isReturning":true},
+{"country":"and","name":"Inter Club d'Escaldes","id":"Inter_Club_d%27Escaldes","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"and","name":"Atlètic Club d'Escaldes","id":"Atlètic_Club_d%27Escaldes","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"and","name":"UE Santa Coloma","id":"UE_Santa_Coloma","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"and","name":"Penya Encarnada","id":"Penya_Encarnada_d%27Andorra","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"and","name":"La Massana","id":"FS_La_Massana","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true,"isNew":true},
+{"country":"and","name":"Ordino","id":"FC_Ordino","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"and","name":"Pas de la Casa","id":"FC_Pas_de_la_Casa","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true},
+{"country":"and","name":"Esperança","id":"CF_Esperança_d%27Andorra","win":0,"draw":0,"loss":0,"for":0,"against":0,"isCurrentSeason":true}
 ][
 {"country":"mne","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":5,"draw":2,"loss":0,"for":14,"against":3,"isCurrentSeason":true},
 {"country":"mne","name":"Petrovac","id":"OFK_Petrovac","win":4,"draw":2,"loss":1,"for":12,"against":7,"isCurrentSeason":true},
