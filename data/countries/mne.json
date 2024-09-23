@@ -1,1 +1,9 @@
-{"teams":["FK_Zeta","FK_Budućnost_Podgorica","OFK_Grbalj","FK_Rudar_Pljevlja","FK_Mogren","OFK_Petrovac","FK_Kom","FK_Sutjeska_Nikšić","OFK_Titograd","FK_Dečić","FK_Jedinstvo_Bijelo_Polje","FK_Berane","FK_Lovćen","FK_Bokelj","FK_Jezero","FK_Mornar","OFK_Bar","FK_Čelik_Nikšić","FK_Iskra_Danilovgrad","FK_Podgorica","FK_Arsenal_Tivat","OFK_Mladost_Donja_Gorica","FK_Otrant-Olympic"],"redirects":[["FK_Budu%C4%87nost_Podgorica","FK_Budućnost_Podgorica"],["FK_Sutjeska_Nik%C5%A1i%C4%87","FK_Sutjeska_Nikšić"],["FK_De%C4%8Di%C4%87","FK_Dečić"],["FK_Lov%C4%87en","FK_Lovćen"],["FK_%C4%8Celik_Nik%C5%A1i%C4%87","FK_Čelik_Nikšić"]],"previous":["FK_Budućnost_Podgorica","OFK_Petrovac","FK_Dečić","FK_Arsenal_Tivat","FK_Sutjeska_Nikšić","FK_Otrant-Olympic","FK_Jedinstvo_Bijelo_Polje","FK_Bokelj","FK_Mornar","FK_Jezero"]}
+{
+	"teams":[
+		"FK_Zeta","FK_Budućnost_Podgorica","OFK_Grbalj","FK_Rudar_Pljevlja","FK_Mogren","OFK_Petrovac","FK_Kom","FK_Sutjeska_Nikšić","OFK_Titograd","FK_Dečić","FK_Jedinstvo_Bijelo_Polje","FK_Berane","FK_Lovćen","FK_Bokelj","FK_Jezero","FK_Mornar","OFK_Bar","FK_Čelik_Nikšić","FK_Iskra_Danilovgrad","FK_Podgorica","FK_Arsenal_Tivat","OFK_Mladost_Donja_Gorica","FK_Otrant-Olympic"
+	],"redirects":[
+		["FK_Budu%C4%87nost_Podgorica","FK_Budućnost_Podgorica"],["FK_Sutjeska_Nik%C5%A1i%C4%87","FK_Sutjeska_Nikšić"],["FK_De%C4%8Di%C4%87","FK_Dečić"],["FK_Lov%C4%87en","FK_Lovćen"],["FK_%C4%8Celik_Nik%C5%A1i%C4%87","FK_Čelik_Nikšić"]
+	],"previous":[
+		"FK_Budućnost_Podgorica","OFK_Petrovac","FK_Dečić","FK_Arsenal_Tivat","FK_Sutjeska_Nikšić","FK_Otrant-Olympic","FK_Jedinstvo_Bijelo_Polje","FK_Bokelj","FK_Mornar","FK_Jezero"
+	]
+}
