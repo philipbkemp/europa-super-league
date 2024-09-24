@@ -460,7 +460,7 @@
 ][
 {"country":"cyp","name":"Omonia","id":"AC_Omonia","win":16,"draw":6,"loss":4,"for":52,"against":17,"isChampion":true},
 {"country":"cyp","name":"Anorthosis Famagusta","id":"Anorthosis_Famagusta_FC","win":12,"draw":11,"loss":3,"for":46,"against":21},
-{"country":"cyp","name":"APOEL","id":"APOEL_FC","win":11,"draw":10,"loss":5,"for":33,"against":20},
+{"country":"cyp","name":"APOEL","id":"apoel_fc","win":11,"draw":10,"loss":5,"for":33,"against":20},
 {"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":12,"draw":7,"loss":7,"for":29,"against":22},
 {"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":9,"draw":10,"loss":7,"for":26,"against":19},
 {"country":"cyp","name":"Omonia Aradippou","id":"Omonia_Aradippou","win":11,"draw":6,"loss":9,"for":34,"against":34},

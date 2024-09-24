@@ -285,7 +285,7 @@
 	{"country":"fra","name":"Lens","id":"RC_Lens","win":9,"draw":8,"loss":13,"for":45,"against":63,"isNew":true},
 	{"country":"fra","name":"Red Star","id":"Red_Star_F.C.","win":6,"draw":7,"loss":17,"for":47,"against":71,"isRemoved":true},
 	{"country":"fra","name":"Valenciennes","id":"Valenciennes_FC","win":6,"draw":6,"loss":18,"for":30,"against":77,"isRemoved":true,"isReturning":true},
-	{"country":"cyp","name":"APOEL F.C.","id":"APOEL_FC","win":5,"draw":1,"loss":0,"for":29,"against":11,"isChampion":true},
+	{"country":"cyp","name":"APOEL F.C.","id":"apoel_fc","win":5,"draw":1,"loss":0,"for":29,"against":11,"isChampion":true},
 	{"country":"cyp","name":"Trust","id":"Enosis_Neon_Trust","win":1,"draw":3,"loss":0,"for":7,"against":5,"isRemoved":true},
 	{"country":"cyp","name":"Lefkoşa Türk Spor Kulübü","id":"Çetinkaya_Türk_S.K.","win":2,"draw":1,"loss":1,"for":8,"against":10},
 	{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":1,"draw":1,"loss":3,"for":15,"against":14},

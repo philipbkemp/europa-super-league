@@ -406,7 +406,7 @@
 {"country":"fra","name":"Istres","id":"FC_Istres","win":6,"draw":14,"loss":18,"for":25,"against":51,"isRemoved":true,"isNew":true}
 ][
 {"country":"cyp","name":"Anorthosis Famagusta","id":"Anorthosis_Famagusta_FC","win":19,"draw":5,"loss":2,"for":64,"against":23,"isChampion":true},
-{"country":"cyp","name":"APOEL","id":"APOEL_FC","win":17,"draw":7,"loss":2,"for":56,"against":21},
+{"country":"cyp","name":"APOEL","id":"apoel_fc","win":17,"draw":7,"loss":2,"for":56,"against":21},
 {"country":"cyp","name":"Omonia","id":"AC_Omonia","win":13,"draw":8,"loss":5,"for":47,"against":29},
 {"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":11,"draw":6,"loss":9,"for":36,"against":38},
 {"country":"cyp","name":"Digenis Morphou","id":"Digenis_Akritas_Morphou_FC","win":10,"draw":6,"loss":10,"for":36,"against":31},

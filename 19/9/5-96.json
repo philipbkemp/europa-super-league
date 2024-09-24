@@ -424,7 +424,7 @@
 {"country":"fra","name":"Saint-Étienne","id":"AS_Saint-Étienne","win":6,"draw":16,"loss":16,"for":36,"against":59,"isRemoved":true},
 {"country":"fra","name":"Martigues","id":"FC_Martigues","win":9,"draw":7,"loss":22,"for":31,"against":58,"isRemoved":true}
 ][
-{"country":"cyp","name":"APOEL","id":"APOEL_FC","win":19,"draw":7,"loss":0,"for":65,"against":21,"isChampion":true},
+{"country":"cyp","name":"APOEL","id":"apoel_fc","win":19,"draw":7,"loss":0,"for":65,"against":21,"isChampion":true},
 {"country":"cyp","name":"Anorthosis","id":"Anorthosis_Famagusta_FC","win":16,"draw":7,"loss":3,"for":50,"against":23},
 {"country":"cyp","name":"Omonia","id":"AC_Omonia","win":16,"draw":5,"loss":5,"for":66,"against":30},
 {"country":"cyp","name":"AEK","id":"AEK_Larnaca_FC","win":16,"draw":5,"loss":5,"for":44,"against":21},

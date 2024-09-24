@@ -450,7 +450,7 @@
 {"country":"fra","name":"Red Star","id":"Red_Star_F.C.","win":7,"draw":14,"loss":17,"for":38,"against":58,"isRemoved":true},
 {"country":"fra","name":"Ajaccio","id":"AC_Ajaccio","win":7,"draw":9,"loss":22,"for":40,"against":89,"isRemoved":true}
 ][
-{"country":"cyp","name":"APOEL F.C.","id":"APOEL_FC","win":17,"draw":8,"loss":1,"for":35,"against":11,"isChampion":true},
+{"country":"cyp","name":"APOEL F.C.","id":"apoel_fc","win":17,"draw":8,"loss":1,"for":35,"against":11,"isChampion":true},
 {"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":15,"draw":4,"loss":7,"for":40,"against":22},
 {"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":9,"draw":13,"loss":4,"for":28,"against":17},
 {"country":"cyp","name":"Anorthosis Famagusta FC","id":"Anorthosis_Famagusta_FC","win":12,"draw":6,"loss":8,"for":24,"against":17},

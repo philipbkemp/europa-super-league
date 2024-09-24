@@ -399,7 +399,7 @@
 {"country":"fra","name":"Le Mans","id":"Le_Mans_FC","win":9,"draw":11,"loss":18,"for":35,"against":57,"isRemoved":true,"isNew":true},
 {"country":"fra","name":"Montpellier","id":"Montpellier_HSC","win":8,"draw":7,"loss":23,"for":41,"against":74,"isRemoved":true}
 ][
-{"country":"cyp","name":"APOEL","id":"APOEL_FC","win":20,"draw":5,"loss":1,"for":56,"against":20,"isChampion":true},
+{"country":"cyp","name":"APOEL","id":"apoel_fc","win":20,"draw":5,"loss":1,"for":56,"against":20,"isChampion":true},
 {"country":"cyp","name":"Omonia","id":"AC_Omonia","win":20,"draw":2,"loss":4,"for":68,"against":29},
 {"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":16,"draw":1,"loss":9,"for":50,"against":23},
 {"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":14,"draw":7,"loss":5,"for":52,"against":26},

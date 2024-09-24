@@ -443,7 +443,7 @@
 {"country":"fra","name":"Reims","id":"Stade_de_Reims","win":3,"draw":11,"loss":24,"for":26,"against":71,"isRemoved":true}
 ][
 {"country":"cyp","name":"AC Omonia","id":"AC_Omonia","win":18,"draw":9,"loss":3,"for":66,"against":17,"isChampion":true},
-{"country":"cyp","name":"APOEL F.C.","id":"APOEL_FC","win":20,"draw":4,"loss":6,"for":54,"against":18},
+{"country":"cyp","name":"APOEL F.C.","id":"apoel_fc","win":20,"draw":4,"loss":6,"for":54,"against":18},
 {"country":"cyp","name":"Alki Larnaca FC","id":"Alki_Larnaca_FC","win":12,"draw":9,"loss":9,"for":41,"against":39},
 {"country":"cyp","name":"Aris Limassol F.C.","id":"Aris_Limassol_FC","win":12,"draw":8,"loss":10,"for":36,"against":34},
 {"country":"cyp","name":"Anorthosis Famagusta FC","id":"Anorthosis_Famagusta_FC","win":10,"draw":11,"loss":9,"for":26,"against":21},

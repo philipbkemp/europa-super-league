@@ -154,7 +154,7 @@
 {"country":"grc","name":"Ethnikos Piraeus","id":"Ethnikos_Piraeus_F.C.","win":11,"draw":9,"loss":14,"for":38,"against":42},
 {"country":"grc","name":"Egaleo","id":"Egaleo_F.C.","win":11,"draw":7,"loss":16,"for":28,"against":44},
 {"country":"grc","name":"Kavala","id":"Kavala_F.C.","win":11,"draw":6,"loss":17,"for":32,"against":44},
-{"country":"grc-cyp","name":"APOEL","id":"APOEL_FC","win":11,"draw":5,"loss":18,"for":39,"against":48,"isRemoved":true},
+{"country":"grc-cyp","name":"APOEL","id":"apoel_fc","win":11,"draw":5,"loss":18,"for":39,"against":48,"isRemoved":true},
 {"country":"grc","name":"Panserraikos","id":"Panserraikos_F.C.","win":11,"draw":5,"loss":18,"for":28,"against":54},
 {"country":"grc","name":"Olympiacos Volos","id":"Olympiacos_Volos_F.C.","win":9,"draw":9,"loss":16,"for":28,"against":44},
 {"country":"grc","name":"Fostiras","id":"Fostiras_F.C.","win":7,"draw":9,"loss":18,"for":24,"against":63,"isRemoved":true},

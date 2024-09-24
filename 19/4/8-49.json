@@ -323,7 +323,7 @@
 {"country":"fra","name":"RC Strasbourg","id":"RC_Strasbourg_Alsace","win":10,"draw":6,"loss":18,"for":40,"against":68},
 {"country":"fra","name":"AS Cannes","id":"AS_Cannes","win":10,"draw":5,"loss":19,"for":42,"against":62,"isRemoved":true}
 ][
-{"country":"cyp","name":"APOEL F.C.","id":"APOEL_FC","win":14,"draw":0,"loss":0,"for":51,"against":20,"isChampion":true},
+{"country":"cyp","name":"APOEL F.C.","id":"apoel_fc","win":14,"draw":0,"loss":0,"for":51,"against":20,"isChampion":true},
 {"country":"cyp","name":"Anorthosis Famagusta FC","id":"Anorthosis_Famagusta_FC","win":10,"draw":1,"loss":3,"for":58,"against":26,"isReturning":true},
 {"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":9,"draw":1,"loss":4,"for":42,"against":40,"isReturning":true},
 {"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":5,"draw":5,"loss":4,"for":31,"against":25},

@@ -322,7 +322,7 @@
 {"country":"fra","name":"Olympique Lyonnais","id":"Olympique_Lyonnais","win":7,"draw":6,"loss":21,"for":38,"against":78,"isRemoved":true,"isReturning":true},
 {"country":"fra","name":"RC Strasbourg","id":"RC_Strasbourg_Alsace","win":4,"draw":8,"loss":22,"for":38,"against":80,"isRemoved":true}
 ][
-{"country":"cyp","name":"APOEL F.C.","id":"APOEL_FC","win":10,"draw":2,"loss":2,"for":48,"against":23,"isChampion":true},
+{"country":"cyp","name":"APOEL F.C.","id":"apoel_fc","win":10,"draw":2,"loss":2,"for":48,"against":23,"isChampion":true},
 {"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":7,"draw":3,"loss":4,"for":32,"against":23},
 {"country":"cyp","name":"Çetinkaya Türk S.K.","id":"Çetinkaya_Türk_S.K.","win":8,"draw":1,"loss":5,"for":31,"against":25},
 {"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":7,"draw":2,"loss":5,"for":29,"against":27},

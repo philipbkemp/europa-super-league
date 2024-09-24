@@ -410,7 +410,7 @@
 {"country":"fra","name":"OGC Nice","id":"OGC_Nice","win":7,"draw":9,"loss":18,"for":45,"against":74,"isRemoved":true}
 ][
 {"country":"cyp","name":"AC Omonia","id":"AC_Omonia","win":6,"draw":0,"loss":0,"for":13,"against":2,"isChampion":true},
-{"country":"cyp","name":"APOEL FC","id":"APOEL_FC","win":5,"draw":1,"loss":1,"for":18,"against":7},
+{"country":"cyp","name":"APOEL FC","id":"apoel_fc","win":5,"draw":1,"loss":1,"for":18,"against":7},
 {"country":"cyp","name":"Nea Salamis FC","id":"Nea_Salamis_Famagusta_FC","win":4,"draw":2,"loss":1,"for":16,"against":10},
 {"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":3,"draw":3,"loss":2,"for":6,"against":7},
 {"country":"cyp","name":"Anorthosis Famagusta FC","id":"Anorthosis_Famagusta_FC","win":3,"draw":1,"loss":3,"for":7,"against":10},

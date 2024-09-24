@@ -417,7 +417,7 @@
 {"country":"fra","name":"Lorient","id":"FC_Lorient","win":7,"draw":8,"loss":19,"for":43,"against":66,"isRemoved":true},
 {"country":"fra","name":"Clermont","id":"Clermont_Foot","win":5,"draw":10,"loss":19,"for":26,"against":60,"isRemoved":true}
 ][
-{"country":"cyp","name":"APOEL","id":"APOEL_FC","win":22,"draw":7,"loss":7,"for":63,"against":24,"isChampion":true},
+{"country":"cyp","name":"APOEL","id":"apoel_fc","win":22,"draw":7,"loss":7,"for":63,"against":24,"isChampion":true},
 {"country":"cyp","name":"Aris Limassol","id":"Aris_Limassol_FC","win":20,"draw":5,"loss":11,"for":63,"against":34},
 {"country":"cyp","name":"AEK Larnaca","id":"AEK_Larnaca_FC","win":21,"draw":10,"loss":5,"for":57,"against":31},
 {"country":"cyp","name":"Pafos","id":"Pafos_FC","win":18,"draw":8,"loss":10,"for":60,"against":33},

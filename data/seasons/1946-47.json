@@ -271,7 +271,7 @@
 	{"country":"fra","name":"Bordeaux","id":"FC_Girondins_de_Bordeaux","win":12,"draw":7,"loss":19,"for":58,"against":81,"isRemoved":true},
 	{"country":"fra","name":"Le Havre AC","id":"Le_Havre_AC","win":9,"draw":7,"loss":22,"for":44,"against":83,"isRemoved":true},
 	{"country":"fra","name":"FC Rouen","id":"FC_Rouen","win":7,"draw":10,"loss":21,"for":37,"against":63,"isRemoved":true},
-	{"country":"cyp","name":"APOEL F.C.","id":"APOEL_FC","win":12,"draw":0,"loss":0,"for":44,"against":9,"isChampion":true},
+	{"country":"cyp","name":"APOEL F.C.","id":"apoel_fc","win":12,"draw":0,"loss":0,"for":44,"against":9,"isChampion":true},
 	{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":9,"draw":0,"loss":3,"for":29,"against":13,"isRemoved":true},
 	{"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":5,"draw":1,"loss":6,"for":25,"against":27,"isRemoved":true},
 	{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":5,"draw":0,"loss":7,"for":21,"against":25},

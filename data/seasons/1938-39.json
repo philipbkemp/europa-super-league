@@ -263,7 +263,7 @@
 	{"country":"fra","name":"Rouen","id":"FC_Rouen","win":6,"draw":9,"loss":15,"for":31,"against":48,"isRemoved":true,"removedNote":"League suspended during WW2"},
 	{"country":"fra","name":"FC Antibes","id":"FC_Antibes","win":6,"draw":9,"loss":15,"for":21,"against":54,"isRemoved":true,"isRemoved":true,"removedNote":"League suspended during WW2"},
 	{"country":"fra","name":"RC Roubaix","id":"RC_Roubaix","win":4,"draw":9,"loss":17,"for":31,"against":67,"isRemoved":true,"isRemoved":true,"removedNote":"League suspended during WW2"},
-	{"country":"cyp","name":"APOEL F.C.","id":"APOEL_FC","win":9,"draw":2,"loss":0,"for":36,"against":11,"isChampion":true},
+	{"country":"cyp","name":"APOEL F.C.","id":"apoel_fc","win":9,"draw":2,"loss":0,"for":36,"against":11,"isChampion":true},
 	{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":8,"draw":0,"loss":2,"for":31,"against":8,"isReturning":true},
 	{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":6,"draw":2,"loss":2,"for":51,"against":15},
 	{"country":"cyp","name":"Lefkoşa Türk Spor Kulübü","id":"Çetinkaya_Türk_S.K.","win":2,"draw":1,"loss":5,"for":11,"against":16},

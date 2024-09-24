@@ -189,7 +189,7 @@
 	{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":3,"draw":4,"loss":5,"for":20,"against":21,"isRemoved":true,"removedNote":"Next season the league is contested as a knockout competition"},
 	{"country":"fin","name":"KPT Kuopio","id":"Koparit","win":2,"draw":3,"loss":7,"for":17,"against":29,"isRemoved":true,"isRemoved":true,"removedNote":"Next season the league is contested as a knockout competition"},
 	{"country":"fin","name":"Viipurin Reipas","id":"Viipurin_Reipas","win":2,"draw":0,"loss":9,"for":18,"against":51,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"Next season the league is contested as a knockout competition"},
-	{"country":"cyp","name":"APOEL F.C.","id":"APOEL_FC","win":7,"draw":2,"loss":1,"for":30,"against":10,"isChampion":true},
+	{"country":"cyp","name":"APOEL F.C.","id":"apoel_fc","win":7,"draw":2,"loss":1,"for":30,"against":10,"isChampion":true},
 	{"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":7,"draw":0,"loss":3,"for":37,"against":21,"isRemoved":true},
 	{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":4,"draw":3,"loss":3,"for":24,"against":22},
 	{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":4,"draw":0,"loss":6,"for":21,"against":16},
