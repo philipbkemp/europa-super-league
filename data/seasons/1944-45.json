@@ -61,7 +61,7 @@
 	{"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":3,"draw":0,"loss":3,"for":21,"against":12},
 	{"country":"lva","name":"Daugaviesi","id":"Daugavieši","win":2,"draw":2,"loss":2,"for":11,"against":14,"isReturning":true,"isRemoved":true,"removedNote":"Removed from league after Red Army attack"},
 	{"country":"lva","name":"Lure Riga","id":"Lure_Riga","win":1,"draw":1,"loss":5,"for":12,"against":17,"isNew":true,"isRemoved":true,"removedNote":"Removed from league after Red Army attack"},
-	{"country":"lva","name":"Auseklis","id":"Dinaburg_FC","win":1,"draw":1,"loss":4,"for":11,"against":18,"isNew":true},
+	{"country":"lva","name":"Auseklis","id":"Dinaburg_FC","win":1,"draw":1,"loss":4,"for":11,"against":18,"isNew":true,"isRemoved":true,"removedNote":"Removed from league after Red Army attack"},
 	{"country":"lva","name":"Rigas Vilki","id":"Rigas_Vilki","win":1,"draw":0,"loss":5,"for":8,"against":32,"isRemoved":true,"removedNote":"Removed from league after Red Army attack"},
 	{"country":"irl","name":"Cork United","id":"Cork_United_F.C._(1940–1948)","win":11,"draw":0,"loss":3,"for":59,"against":24,"isChampion":true},
 	{"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":7,"draw":3,"loss":4,"for":38,"against":25},
