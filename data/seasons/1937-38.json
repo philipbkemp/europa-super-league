@@ -129,7 +129,7 @@
 	{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":9,"draw":6,"loss":7,"for":44,"against":37},
 	{"country":"swe","name":"IK Brage","id":"IK_Brage","win":9,"draw":3,"loss":10,"for":45,"against":44,"isNew":true},
 	{"country":"swe","name":"Sandvikens IF","id":"Sandvikens_IF","win":8,"draw":5,"loss":9,"for":29,"against":32},
-	{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":6,"draw":8,"loss":8,"for":20,"against":30},
+	{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":6,"draw":8,"loss":8,"for":20,"against":30},
 	{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":7,"draw":5,"loss":10,"for":33,"against":37},
 	{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":6,"draw":4,"loss":12,"for":28,"against":35,"isRemoved":true},
 	{"country":"swe","name":"GAIS","id":"GAIS","win":3,"draw":4,"loss":15,"for":19,"against":47,"isRemoved":true},

@@ -211,7 +211,7 @@
 {"country":"rou","name":"Chimia Râmnicu Vâlcea","id":"Chimia_Râmnicu_Vâlcea","win":11,"draw":9,"loss":14,"for":35,"against":54,"isRemoved":true,"isNew":true},
 {"country":"rou","name":"FC Galați","id":"FCM_Dunărea_Galați","win":10,"draw":5,"loss":19,"for":27,"against":61,"isRemoved":true,"isNew":true}
 ][
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":19,"draw":5,"loss":2,"for":48,"against":15,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":19,"draw":5,"loss":2,"for":48,"against":15,"isChampion":true},
 {"country":"swe","name":"AIK","id":"AIK_Fotboll","win":15,"draw":4,"loss":7,"for":40,"against":28},
 {"country":"swe","name":"Östers IF","id":"Östers_IF","win":13,"draw":7,"loss":6,"for":55,"against":26},
 {"country":"swe","name":"GAIS","id":"GAIS","win":12,"draw":5,"loss":9,"for":44,"against":40},

@@ -222,7 +222,7 @@
 {"country":"rou","name":"Petrolul Ploiești","id":"FC_Petrolul_Ploiești","win":11,"draw":8,"loss":15,"for":41,"against":46,"isRemoved":true,"isReturning":true},
 {"country":"rou","name":"FCM Reșița","id":"CSM_Reșița","win":8,"draw":4,"loss":22,"for":29,"against":65,"isRemoved":true}
 ][
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":15,"draw":8,"loss":3,"for":41,"against":19,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":15,"draw":8,"loss":3,"for":41,"against":19,"isChampion":true},
 {"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":10,"draw":11,"loss":5,"for":37,"against":23},
 {"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":12,"draw":7,"loss":7,"for":37,"against":30},
 {"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":11,"draw":9,"loss":6,"for":42,"against":36},

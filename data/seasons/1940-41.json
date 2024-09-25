@@ -61,7 +61,7 @@
 	{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":8,"draw":9,"loss":5,"for":36,"against":36},
 	{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":8,"draw":6,"loss":8,"for":42,"against":36},
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":8,"draw":6,"loss":8,"for":35,"against":32,"isReturning":true},
-	{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":7,"draw":8,"loss":7,"for":33,"against":33},
+	{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":7,"draw":8,"loss":7,"for":33,"against":33},
 	{"country":"swe","name":"Gårda","id":"Gårda_BK","win":7,"draw":4,"loss":11,"for":31,"against":42},
 	{"country":"swe","name":"Sandvikens IF","id":"Sandvikens_IF","win":6,"draw":6,"loss":10,"for":30,"against":42},
 	{"country":"swe","name":"IK Brage","id":"IK_Brage","win":6,"draw":4,"loss":12,"for":39,"against":53,"isRemoved":true},

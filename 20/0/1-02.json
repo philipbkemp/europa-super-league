@@ -196,7 +196,7 @@
 {"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":10,"draw":9,"loss":7,"for":36,"against":33},
 {"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":10,"draw":8,"loss":8,"for":50,"against":31},
 {"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":8,"draw":9,"loss":9,"for":48,"against":44},
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":9,"draw":5,"loss":12,"for":39,"against":46,"isReturning":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":9,"draw":5,"loss":12,"for":39,"against":46,"isReturning":true},
 {"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":9,"draw":3,"loss":14,"for":31,"against":51},
 {"country":"swe","name":"GIF Sundsvall","id":"GIF_Sundsvall","win":7,"draw":8,"loss":11,"for":28,"against":37},
 {"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":7,"draw":8,"loss":11,"for":29,"against":40},

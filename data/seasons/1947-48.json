@@ -152,7 +152,7 @@
 	{"country":"rou","name":"Unirea Tricolor București","id":"Unirea_Tricolor_București","win":8,"draw":5,"loss":17,"for":51,"against":86,"isRemoved":true,"isReturning":true},
 	{"country":"rou","name":"UD Reșița","id":"CSM_Reșița","win":7,"draw":4,"loss":19,"for":45,"against":90,"isRemoved":true},
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":15,"draw":3,"loss":4,"for":56,"against":32,"isChampion":true},
-	{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":12,"draw":5,"loss":5,"for":60,"against":33},
+	{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":12,"draw":5,"loss":5,"for":60,"against":33},
 	{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":12,"draw":3,"loss":7,"for":51,"against":34},
 	{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":9,"draw":6,"loss":7,"for":46,"against":46},
 	{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":9,"draw":4,"loss":9,"for":40,"against":33},

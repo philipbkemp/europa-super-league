@@ -195,7 +195,7 @@
 {"country":"rou","name":"Victoria București","id":"Victoria_București","win":8,"draw":5,"loss":20,"for":24,"against":64,"isRemoved":true,"removedNote":"Dissolved after Romanian Revolution"},
 {"country":"rou","name":"Olt Scornicești","id":"FC_Olt_Scornicești","win":4,"draw":4,"loss":25,"for":16,"against":76,"isRemoved":true,"removedNote":"Dissolved after Romanian Revolution"}
 ][
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":12,"draw":7,"loss":3,"for":35,"against":11,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":12,"draw":7,"loss":3,"for":35,"against":11,"isChampion":true},
 {"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":12,"draw":5,"loss":5,"for":45,"against":24},
 {"country":"swe","name":"GAIS","id":"GAIS","win":9,"draw":8,"loss":5,"for":31,"against":20},
 {"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":10,"draw":6,"loss":6,"for":25,"against":21,"isReturning":true},

@@ -200,7 +200,7 @@
 {"country":"rou","name":"Gloria Buzău","id":"FC_Gloria_Buzău","win":10,"draw":5,"loss":19,"for":31,"against":66,"isRemoved":true},
 {"country":"rou","name":"Chimia Râmnicu Vâlcea","id":"Chimia_Râmnicu_Vâlcea","win":7,"draw":6,"loss":21,"for":30,"against":72,"isRemoved":true}
 ][
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":16,"draw":5,"loss":1,"for":49,"against":11,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":16,"draw":5,"loss":1,"for":49,"against":11,"isChampion":true},
 {"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":13,"draw":5,"loss":4,"for":44,"against":17},
 {"country":"swe","name":"AIK","id":"AIK_Fotboll","win":9,"draw":7,"loss":6,"for":29,"against":21},
 {"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":9,"draw":3,"loss":10,"for":30,"against":30},

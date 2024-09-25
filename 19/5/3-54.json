@@ -164,7 +164,7 @@
 {"country":"swe","name":"AIK","id":"AIK_Fotboll","win":10,"draw":4,"loss":8,"for":47,"against":31},
 {"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":6,"draw":12,"loss":4,"for":33,"against":28},
 {"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":7,"draw":8,"loss":7,"for":44,"against":30},
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":8,"draw":6,"loss":8,"for":33,"against":30},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":8,"draw":6,"loss":8,"for":33,"against":30},
 {"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":7,"draw":8,"loss":7,"for":22,"against":26},
 {"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":9,"draw":3,"loss":10,"for":33,"against":42,"isReturning":true},
 {"country":"swe","name":"Sandvikens IF","id":"Sandvikens_IF","win":7,"draw":5,"loss":10,"for":29,"against":37,"isRemoved":true,"isReturning":true},

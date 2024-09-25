@@ -132,7 +132,7 @@
 	{"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":7,"draw":3,"loss":10,"for":42,"against":52},
 	{"country":"swe","name":"Gefle IF","id":"Gefle_IF","win":6,"draw":4,"loss":10,"for":37,"against":56,"isNew":true},
 	{"country":"swe","name":"IS Halmia","id":"IS_Halmia","win":3,"draw":5,"loss":12,"for":23,"against":41,"isRemoved":true},
-	{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":5,"draw":0,"loss":8,"for":27,"against":38,"isRemoved":true,"removedNote":"Disqualified mid-season for paying amateur players"},
+	{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":5,"draw":0,"loss":8,"for":27,"against":38,"isRemoved":true,"removedNote":"Disqualified mid-season for paying amateur players"},
 	{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":16,"draw":1,"loss":5,"for":69,"against":41,"isChampion":true},
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":15,"draw":1,"loss":6,"for":80,"against":34},
 	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":12,"draw":3,"loss":7,"for":56,"against":36},

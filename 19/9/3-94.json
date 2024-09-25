@@ -205,7 +205,7 @@
 {"country":"swe","name":"Västra Frölunda","id":"Västra_Frölunda_IF","win":11,"draw":4,"loss":11,"for":38,"against":45},
 {"country":"swe","name":"Östers IF","id":"Östers_IF","win":10,"draw":6,"loss":10,"for":43,"against":34},
 {"country":"swe","name":"Helsingborgs IF","id":"Helsingborgs_IF","win":10,"draw":6,"loss":10,"for":43,"against":46,"isReturning":true},
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":10,"draw":5,"loss":11,"for":43,"against":38},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":10,"draw":5,"loss":11,"for":43,"against":38},
 {"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":10,"draw":3,"loss":13,"for":35,"against":38},
 {"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":6,"draw":5,"loss":15,"for":32,"against":54,"isReturning":true},
 {"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":5,"draw":6,"loss":15,"for":26,"against":44,"isRemoved":true,"isReturning":true},

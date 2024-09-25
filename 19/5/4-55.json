@@ -164,7 +164,7 @@
 {"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":9,"draw":5,"loss":8,"for":42,"against":31},
 {"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":8,"draw":6,"loss":8,"for":30,"against":33,"isReturning":true},
 {"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":8,"draw":6,"loss":8,"for":34,"against":39},
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":8,"draw":5,"loss":9,"for":33,"against":33},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":8,"draw":5,"loss":9,"for":33,"against":33},
 {"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":7,"draw":6,"loss":9,"for":32,"against":35},
 {"country":"swe","name":"GAIS","id":"GAIS","win":7,"draw":6,"loss":9,"for":35,"against":42,"isRemoved":true},
 {"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":7,"draw":3,"loss":12,"for":31,"against":53,"isRemoved":true},

@@ -194,7 +194,7 @@
 {"country":"rou","name":"Gaz Metan Mediaș","id":"CS_Gaz_Metan_Mediaș","win":8,"draw":14,"loss":18,"for":32,"against":54},
 {"country":"rou","name":"Juventus București","id":"ASC_Daco-Getica_București","win":4,"draw":10,"loss":26,"for":21,"against":72,"isRemoved":true,"isNew":true}
 ][
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":19,"draw":7,"loss":4,"for":63,"against":27,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":19,"draw":7,"loss":4,"for":63,"against":27,"isChampion":true},
 {"country":"swe","name":"AIK","id":"AIK_Fotboll","win":16,"draw":9,"loss":5,"for":47,"against":22},
 {"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":15,"draw":8,"loss":7,"for":54,"against":30},
 {"country":"swe","name":"BK Häcken","id":"BK_Häcken","win":14,"draw":10,"loss":6,"for":42,"against":28},

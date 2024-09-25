@@ -194,7 +194,7 @@
 {"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":18,"draw":9,"loss":3,"for":52,"against":22},
 {"country":"swe","name":"AIK","id":"AIK_Fotboll","win":18,"draw":7,"loss":5,"for":54,"against":34},
 {"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":16,"draw":7,"loss":7,"for":59,"against":42},
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":15,"draw":9,"loss":6,"for":54,"against":34},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":15,"draw":9,"loss":6,"for":54,"against":34},
 {"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":14,"draw":9,"loss":7,"for":52,"against":37},
 {"country":"swe","name":"BK Häcken","id":"BK_Häcken","win":13,"draw":6,"loss":11,"for":45,"against":39},
 {"country":"swe","name":"Helsingborgs IF","id":"Helsingborgs_IF","win":11,"draw":4,"loss":15,"for":43,"against":45},

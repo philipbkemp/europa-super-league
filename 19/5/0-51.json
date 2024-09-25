@@ -160,7 +160,7 @@
 {"country":"rou","name":"Locomotiva București","id":"FC_Rapid_București","win":4,"draw":8,"loss":10,"for":24,"against":35,"isRemoved":true},
 {"country":"rou","name":"Știința Timișoara","id":"FC_Politehnica_Timișoara","win":5,"draw":6,"loss":11,"for":20,"against":34,"isRemoved":true}
 ][
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":16,"draw":5,"loss":1,"for":52,"against":22,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":16,"draw":5,"loss":1,"for":52,"against":22,"isChampion":true},
 {"country":"swe","name":"Råå","id":"Råå_IF","win":12,"draw":4,"loss":6,"for":44,"against":27,"isNew":true},
 {"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":10,"draw":7,"loss":5,"for":34,"against":23},
 {"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":11,"draw":3,"loss":8,"for":43,"against":29},

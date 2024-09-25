@@ -210,7 +210,7 @@
 {"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":8,"draw":5,"loss":13,"for":32,"against":42},
 {"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":8,"draw":4,"loss":14,"for":27,"against":41,"isRemoved":true,"isReturning":true},
 {"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":8,"draw":3,"loss":15,"for":24,"against":36},
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":7,"draw":4,"loss":15,"for":30,"against":48,"isRemoved":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":7,"draw":4,"loss":15,"for":30,"against":48,"isRemoved":true},
 {"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":5,"draw":9,"loss":12,"for":27,"against":41,"isRemoved":true,"isReturning":true}
 ][
 {"country":"aut","name":"Tirol Innsbruck","id":"FC_Tirol_Innsbruck","win":24,"draw":5,"loss":7,"for":54,"against":30,"isChampion":true},

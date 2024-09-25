@@ -199,7 +199,7 @@
 {"country":"rou","name":"Brașov","id":"FC_Brașov_(1936)","win":9,"draw":5,"loss":20,"for":42,"against":61,"isRemoved":true}
 ][
 {"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":17,"draw":5,"loss":4,"for":61,"against":23,"isChampion":true},
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":13,"draw":7,"loss":6,"for":33,"against":26},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":13,"draw":7,"loss":6,"for":33,"against":26},
 {"country":"swe","name":"Helsingborgs IF","id":"Helsingborgs_IF","win":13,"draw":5,"loss":8,"for":39,"against":26},
 {"country":"swe","name":"AIK","id":"AIK_Fotboll","win":12,"draw":7,"loss":7,"for":36,"against":23},
 {"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":13,"draw":3,"loss":10,"for":34,"against":29},

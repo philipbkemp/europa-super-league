@@ -115,7 +115,7 @@
 	{"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":9,"draw":2,"loss":11,"for":47,"against":55},
 	{"country":"swe","name":"Sandvikens IF","id":"Sandvikens_IF","win":7,"draw":5,"loss":10,"for":43,"against":48,"isReturning":true},
 	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":8,"draw":3,"loss":11,"for":44,"against":54},
-	{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":8,"draw":3,"loss":11,"for":42,"against":66},
+	{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":8,"draw":3,"loss":11,"for":42,"against":66},
 	{"country":"swe","name":"IS Halmia","id":"IS_Halmia","win":7,"draw":3,"loss":12,"for":34,"against":50,"isNew":true},
 	{"country":"swe","name":"IK Sleipner","id":"IK_Sleipner","win":7,"draw":3,"loss":12,"for":34,"against":52,"isRemoved":true},
 	{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":6,"draw":3,"loss":13,"for":38,"against":60,"isRemoved":true},

@@ -200,7 +200,7 @@
 {"country":"rou","name":"Oțelul Galați","id":"ASC_Oțelul_Galați","win":7,"draw":11,"loss":16,"for":24,"against":45,"isRemoved":true},
 {"country":"rou","name":"Ceahlăul Piatra Neamț","id":"CSM_Ceahlăul_Piatra_Neamț","win":6,"draw":9,"loss":19,"for":25,"against":58,"isRemoved":true}
 ][
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":18,"draw":8,"loss":4,"for":59,"against":31,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":18,"draw":8,"loss":4,"for":59,"against":31,"isChampion":true},
 {"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":15,"draw":11,"loss":4,"for":58,"against":34},
 {"country":"swe","name":"AIK","id":"AIK_Fotboll","win":15,"draw":7,"loss":8,"for":59,"against":42},
 {"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":15,"draw":7,"loss":8,"for":40,"against":31},

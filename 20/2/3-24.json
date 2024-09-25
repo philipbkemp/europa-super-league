@@ -196,7 +196,7 @@
 {"country":"rou","name":"Voluntari","id":"FC_Voluntari","win":8,"draw":14,"loss":17,"for":42,"against":59,"isRemoved":true},
 {"country":"rou","name":"Botoșani","id":"FC_Botoșani","win":7,"draw":14,"loss":18,"for":41,"against":63}
 ][
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":20,"draw":4,"loss":6,"for":62,"against":27,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":20,"draw":4,"loss":6,"for":62,"against":27,"isChampion":true},
 {"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":20,"draw":4,"loss":6,"for":59,"against":26},
 {"country":"swe","name":"BK Häcken","id":"BK_Häcken","win":18,"draw":3,"loss":9,"for":69,"against":39},
 {"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":15,"draw":5,"loss":10,"for":41,"against":36},

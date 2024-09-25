@@ -157,7 +157,7 @@
 {"country":"rou","name":"Metalul Câmpia Turzii","id":"CSM_Câmpia_Turzii","win":3,"draw":7,"loss":12,"for":23,"against":50,"isRemoved":true,"isNew":true}
 ][
 {"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":15,"draw":5,"loss":2,"for":50,"against":21,"isChampion":true},
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":15,"draw":2,"loss":5,"for":50,"against":17},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":15,"draw":2,"loss":5,"for":50,"against":17},
 {"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":11,"draw":4,"loss":7,"for":40,"against":24},
 {"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":10,"draw":5,"loss":7,"for":46,"against":37,"isReturning":true},
 {"country":"swe","name":"GAIS","id":"GAIS","win":9,"draw":6,"loss":7,"for":41,"against":34},

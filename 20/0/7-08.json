@@ -206,7 +206,7 @@
 {"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":11,"draw":3,"loss":12,"for":35,"against":31},
 {"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":9,"draw":9,"loss":8,"for":33,"against":41},
 {"country":"swe","name":"Helsingborgs IF","id":"Helsingborgs_IF","win":9,"draw":8,"loss":9,"for":49,"against":37},
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":9,"draw":7,"loss":10,"for":29,"against":28},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":9,"draw":7,"loss":10,"for":29,"against":28},
 {"country":"swe","name":"Gefle IF","id":"Gefle_IF","win":9,"draw":7,"loss":10,"for":29,"against":30},
 {"country":"swe","name":"GAIS","id":"GAIS","win":7,"draw":8,"loss":11,"for":24,"against":37},
 {"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":6,"draw":7,"loss":13,"for":28,"against":45,"isReturning":true},

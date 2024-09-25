@@ -195,7 +195,7 @@
 {"country":"rou","name":"Petrolul Ploiești","id":"FC_Petrolul_Ploiești","win":10,"draw":6,"loss":18,"for":25,"against":52,"isRemoved":true},
 {"country":"rou","name":"CSM Suceava","id":"CSM_Suceava","win":10,"draw":5,"loss":19,"for":36,"against":69,"isRemoved":true,"isNew":true}
 ][
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":14,"draw":6,"loss":2,"for":50,"against":21,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":14,"draw":6,"loss":2,"for":50,"against":21,"isChampion":true},
 {"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":11,"draw":7,"loss":4,"for":33,"against":19},
 {"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":9,"draw":8,"loss":5,"for":39,"against":24},
 {"country":"swe","name":"Östers IF","id":"Östers_IF","win":10,"draw":4,"loss":8,"for":25,"against":26},

@@ -194,7 +194,7 @@
 {"country":"rou","name":"Academica Clinceni","id":"LPS_HD_Clinceni","win":3,"draw":5,"loss":31,"for":25,"against":96,"deduct":-44,"deductReason":"Financial reasons","isRemoved":true},
 {"country":"rou","name":"Gaz Metan Mediaș","id":"CS_Gaz_Metan_Mediaș","win":7,"draw":6,"loss":26,"for":27,"against":77,"deduct":-72,"deductReason":"22pts: Financial reasons during regular season; 50pts: Financial reasons during play-out phase","isRemoved":true}
 ][
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":17,"draw":8,"loss":5,"for":58,"against":30,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":17,"draw":8,"loss":5,"for":58,"against":30,"isChampion":true},
 {"country":"swe","name":"AIK","id":"AIK_Fotboll","win":18,"draw":5,"loss":7,"for":45,"against":25},
 {"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":17,"draw":6,"loss":7,"for":46,"against":30},
 {"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":17,"draw":4,"loss":9,"for":51,"against":35},

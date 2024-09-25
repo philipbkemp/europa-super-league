@@ -192,7 +192,7 @@
 {"country":"rou","name":"ACS Poli Timișoara","id":"ACS_Poli_Timișoara","win":12,"draw":12,"loss":16,"for":41,"against":56,"deduct":-14,"deductReason":"8pts for failing to gain enough points in te previous season; 6pts for licensing"},
 {"country":"rou","name":"Târgu Mureș","id":"ASA_2013_Târgu_Mureș","win":6,"draw":11,"loss":23,"for":25,"against":55,"deduct":-9,"deductReason":"Failing to comply with licensing requirements","isRemoved":true}
 ][
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":21,"draw":3,"loss":6,"for":60,"against":26,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":21,"draw":3,"loss":6,"for":60,"against":26,"isChampion":true},
 {"country":"swe","name":"AIK","id":"AIK_Fotboll","win":17,"draw":9,"loss":4,"for":52,"against":26},
 {"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":18,"draw":6,"loss":6,"for":59,"against":37},
 {"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":14,"draw":8,"loss":8,"for":56,"against":47},

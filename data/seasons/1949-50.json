@@ -145,7 +145,7 @@
 	{"country":"rou","name":"Partizanul București","id":"FC_Petrolul_Ploiești","win":5,"draw":8,"loss":9,"for":39,"against":49},
 	{"country":"rou","name":"Metalul Reșița","id":"CSM_Reșița","win":6,"draw":6,"loss":10,"for":38,"against":48,"isRemoved":true,"isReturning":true},
 	{"country":"rou","name":"Locomotiva Sibiu","id":"Șoimii_Sibiu","win":4,"draw":8,"loss":10,"for":28,"against":38,"isRemoved":true,"isNew":true},
-	{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":20,"draw":2,"loss":0,"for":82,"against":21,"isChampion":true},
+	{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":20,"draw":2,"loss":0,"for":82,"against":21,"isChampion":true},
 	{"country":"swe","name":"Jönköpings Södra IF","id":"Jönköpings_Södra_IF","win":12,"draw":3,"loss":7,"for":50,"against":37},
 	{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":10,"draw":6,"loss":6,"for":45,"against":38},
 	{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":10,"draw":6,"loss":6,"for":34,"against":31},

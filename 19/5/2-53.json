@@ -156,7 +156,7 @@
 {"country":"rou","name":"CA Câmpulung Moldovenesc","id":"CA_Câmpulung_Moldovenesc","win":5,"draw":5,"loss":1,"for":14,"against":6,"isRemoved":true,"removedNote":"Disbanded mid-season"},
 {"country":"rou","name":"Progresul Oradea","id":"Club_Atletic_Oradea","win":5,"draw":5,"loss":11,"for":19,"against":29}
 ][
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":14,"draw":3,"loss":5,"for":60,"against":32,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":14,"draw":3,"loss":5,"for":60,"against":32,"isChampion":true},
 {"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":12,"draw":3,"loss":7,"for":49,"against":32},
 {"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":11,"draw":4,"loss":7,"for":41,"against":34},
 {"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":8,"draw":8,"loss":6,"for":33,"against":23},

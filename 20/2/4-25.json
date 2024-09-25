@@ -668,7 +668,7 @@
 {"country":"svn","name":"Nafta 1903","id":"NK_Nafta_1903","win":2,"draw":0,"loss":7,"for":8,"against":20,"isNew":true,"isCurrentSeason":true},
 {"country":"svn","name":"Radomlje","id":"NK_Radomlje","win":1,"draw":2,"loss":5,"for":6,"against":12,"isCurrentSeason":true},
 {"country":"svn","name":"Domžale","id":"NK_Domžale","win":0,"draw":2,"loss":7,"for":5,"against":20,"isCurrentSeason":true},
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":16,"draw":5,"loss":3,"for":57,"against":19,"isCurrentSeason":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":16,"draw":5,"loss":3,"for":57,"against":19,"isCurrentSeason":true},
 {"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":13,"draw":3,"loss":7,"for":36,"against":27,"isCurrentSeason":true},
 {"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":12,"draw":5,"loss":6,"for":38,"against":21,"isCurrentSeason":true},
 {"country":"swe","name":"GAIS","id":"GAIS","win":12,"draw":4,"loss":8,"for":31,"against":27,"isReturning":true,"isCurrentSeason":true},

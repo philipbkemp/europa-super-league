@@ -196,7 +196,7 @@
 {"country":"rou","name":"Unirea Urziceni","id":"FC_Unirea_Urziceni","win":6,"draw":7,"loss":21,"for":23,"against":63,"isRemoved":true},
 {"country":"rou","name":"Sportul Studențesc București","id":"FC_Sportul_Studențesc_București","win":7,"draw":2,"loss":25,"for":38,"against":58,"isReturning":true}
 ][
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":21,"draw":4,"loss":5,"for":59,"against":24,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":21,"draw":4,"loss":5,"for":59,"against":24,"isChampion":true},
 {"country":"swe","name":"Helsingborgs IF","id":"Helsingborgs_IF","win":20,"draw":5,"loss":5,"for":49,"against":26},
 {"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":16,"draw":4,"loss":10,"for":40,"against":30},
 {"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":12,"draw":11,"loss":7,"for":55,"against":40},

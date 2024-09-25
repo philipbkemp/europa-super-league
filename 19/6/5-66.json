@@ -192,7 +192,7 @@
 {"country":"rou","name":"Crișul Oradea","id":"FC_Bihor_Oradea_(1958)","win":6,"draw":8,"loss":12,"for":26,"against":39,"isRemoved":true},
 {"country":"rou","name":"Siderurgistul Galați","id":"Siderurgistul_Galați","win":7,"draw":6,"loss":13,"for":41,"against":55,"isRemoved":true,"isReturning":true}
 ][
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":15,"draw":4,"loss":3,"for":64,"against":24,"isChampion":true,"isReturning":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":15,"draw":4,"loss":3,"for":64,"against":24,"isChampion":true,"isReturning":true},
 {"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":13,"draw":6,"loss":3,"for":52,"against":20,"isReturning":true},
 {"country":"swe","name":"AIK","id":"AIK_Fotboll","win":12,"draw":6,"loss":4,"for":40,"against":29,"isReturning":true},
 {"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":9,"draw":10,"loss":3,"for":41,"against":25,"isReturning":true},

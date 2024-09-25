@@ -202,7 +202,7 @@
 {"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":14,"draw":8,"loss":8,"for":53,"against":39},
 {"country":"swe","name":"BK Häcken","id":"BK_Häcken","win":13,"draw":9,"loss":8,"for":43,"against":30,"isReturning":true},
 {"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":12,"draw":9,"loss":9,"for":33,"against":32},
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":11,"draw":10,"loss":9,"for":40,"against":25},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":11,"draw":10,"loss":9,"for":40,"against":25},
 {"country":"swe","name":"Helsingborgs IF","id":"Helsingborgs_IF","win":13,"draw":4,"loss":13,"for":39,"against":39},
 {"country":"swe","name":"Trelleborgs FF","id":"Trelleborgs_FF","win":11,"draw":8,"loss":11,"for":41,"against":34},
 {"country":"swe","name":"Gefle IF","id":"Gefle_IF","win":10,"draw":9,"loss":11,"for":28,"against":38},

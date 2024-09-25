@@ -45,7 +45,7 @@
 	{"country":"hun","name":"Szegedi VSE","id":"Szegedi_VSE","win":9,"draw":6,"loss":15,"for":53,"against":68,"isReturning":true,"isRemoved":true,"removedNote":"1944 was not completed and thus unofficial. The club was removed for the following season"},
 	{"country":"hun","name":"Elektromos FC","id":"Elektromos_FC","win":9,"draw":2,"loss":19,"for":60,"against":97,"isRemoved":true,"removedNote":"1944 was not completed and thus unofficial. The club was removed for the following season"},
 	{"country":"hun","name":"BSZKRT","id":"BKV_Előre_SC","win":4,"draw":8,"loss":18,"for":50,"against":102,"isReturning":true,"isRemoved":true,"removedNote":"1944 was not completed and thus unofficial. The club was removed for the following season"},
-	{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":17,"draw":3,"loss":2,"for":54,"against":22,"isChampion":true},
+	{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":17,"draw":3,"loss":2,"for":54,"against":22,"isChampion":true},
 	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":15,"draw":2,"loss":5,"for":63,"against":29},
 	{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":16,"draw":0,"loss":6,"for":54,"against":25},
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":13,"draw":4,"loss":5,"for":53,"against":31},

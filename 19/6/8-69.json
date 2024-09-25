@@ -201,7 +201,7 @@
 {"country":"rou","name":"Vagonul Arad","id":"Vagonul_Arad","win":10,"draw":3,"loss":17,"for":40,"against":60,"isRemoved":true,"isReturning":true}
 ][
 {"country":"swe","name":"Östers IF","id":"Östers_IF","win":12,"draw":3,"loss":7,"for":44,"against":28,"isChampion":true,"isNew":true},
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":11,"draw":5,"loss":6,"for":42,"against":27},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":11,"draw":5,"loss":6,"for":42,"against":27},
 {"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":11,"draw":5,"loss":6,"for":36,"against":24},
 {"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":10,"draw":7,"loss":5,"for":36,"against":29},
 {"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":11,"draw":3,"loss":8,"for":34,"against":35},

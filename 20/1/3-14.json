@@ -200,7 +200,7 @@
 {"country":"rou","name":"Săgeata Năvodari","id":"AFC_Săgeata_Năvodari","win":10,"draw":8,"loss":16,"for":32,"against":54,"isRemoved":true,"isNew":true},
 {"country":"rou","name":"Corona Brașov","id":"CSM_Corona_Brașov_(football)","win":2,"draw":8,"loss":24,"for":20,"against":69,"isRemoved":true,"isNew":true}
 ][
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":19,"draw":6,"loss":5,"for":56,"against":30,"isChampion":true},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":19,"draw":6,"loss":5,"for":56,"against":30,"isChampion":true},
 {"country":"swe","name":"AIK","id":"AIK_Fotboll","win":17,"draw":7,"loss":6,"for":54,"against":32},
 {"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":16,"draw":6,"loss":8,"for":49,"against":31},
 {"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":14,"draw":10,"loss":6,"for":35,"against":26},

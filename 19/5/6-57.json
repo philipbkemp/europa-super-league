@@ -161,7 +161,7 @@
 {"country":"mlt","name":"Marsa F.C.","id":"Marsa_F.C.","win":1,"draw":4,"loss":9,"for":14,"against":43,"isRemoved":true,"isReturning":true}
 ][
 {"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":17,"draw":1,"loss":4,"for":64,"against":25,"isChampion":true},
-{"country":"swe","name":"Malmö FF","id":"Malmö_FF","win":11,"draw":6,"loss":5,"for":50,"against":30},
+{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":11,"draw":6,"loss":5,"for":50,"against":30},
 {"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":9,"draw":9,"loss":4,"for":37,"against":26},
 {"country":"swe","name":"GAIS","id":"GAIS","win":10,"draw":4,"loss":8,"for":46,"against":42,"isReturning":true},
 {"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":9,"draw":6,"loss":7,"for":35,"against":33},
