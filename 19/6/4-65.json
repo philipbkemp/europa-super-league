@@ -232,7 +232,7 @@
 ][
 {"country":"est-ssr","name":"Norma","id":"FC_Norma_Tallinn","win":12,"draw":4,"loss":2,"for":38,"against":12,"isChampion":true},
 {"country":"est-ssr","name":"Tempo","id":"Tallinna_JK_Tempo","win":9,"draw":6,"loss":3,"for":20,"against":13},
-{"country":"est-ssr","name":"Baltic Fleet","id":"Baltic_Fleet","win":7,"draw":6,"loss":5,"for":31,"against":13},
+{"country":"est-ssr","name":"Balti Laevastik Tallinn","id":"balti_laevastik_tallinn","win":7,"draw":6,"loss":5,"for":31,"against":13},
 {"country":"est-ssr","name":"Kopli Dünamo","id":"Kopli_Dünamo","win":6,"draw":7,"loss":5,"for":14,"against":11,"isNew":true},
 {"country":"est-ssr","name":"Valga Kalev","id":"BC_Valga-Valka","win":5,"draw":7,"loss":6,"for":12,"against":15,"isNew":true},
 {"country":"est-ssr","name":"Kohtla-Järve PK","id":"Kohtla-Järve_PK","win":5,"draw":6,"loss":7,"for":26,"against":20,"isReturning":true},

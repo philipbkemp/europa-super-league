@@ -88,7 +88,7 @@
 	{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":0,"draw":1,"loss":2,"for":1,"against":12},
 	{"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":0,"draw":1,"loss":2,"for":1,"against":14},
 	{"country":"est","name":"Tallinna Dünamo","id":"Tallinna_JK_Dünamo","win":6,"draw":0,"loss":1,"for":30,"against":7,"isChampion":true,"isNew":true},
-	{"country":"est","name":"Baltic Fleet","id":"Baltic_Fleet","win":5,"draw":1,"loss":1,"for":26,"against":9,"isNew":true},
+	{"country":"est","name":"balti_laevastik_tallinn","id":"balti_laevastik_tallinn","win":5,"draw":1,"loss":1,"for":26,"against":9,"isNew":true},
 	{"country":"est","name":"Rifle corps","id":"Rifle_corps_(Soviet)_1XI","win":4,"draw":2,"loss":1,"for":22,"against":9,"isNew":true,"isRemoved":true},
 	{"country":"est","name":"Rifle corps","id":"Rifle_corps_(Soviet)_2XI","win":4,"draw":1,"loss":2,"for":17,"against":9,"isNew":true,"isRemoved":true},
 	{"country":"est","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":3,"draw":1,"loss":3,"for":11,"against":16,"isReturning":true},

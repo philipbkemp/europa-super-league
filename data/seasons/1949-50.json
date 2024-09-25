@@ -188,7 +188,7 @@
 	{"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":7,"draw":4,"loss":11,"for":33,"against":64,"isRemoved":true},
 	{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":2,"draw":5,"loss":15,"for":18,"against":51,"isRemoved":true},
 	{"country":"est","name":"Tallinna Dünamo","id":"Tallinna_JK_Dünamo","win":14,"draw":2,"loss":0,"for":58,"against":11,"isChampion":true},
-	{"country":"est","name":"Baltic Fleet","id":"Baltic_Fleet","win":12,"draw":1,"loss":3,"for":54,"against":22},
+	{"country":"est","name":"balti_laevastik_tallinn","id":"balti_laevastik_tallinn","win":12,"draw":1,"loss":3,"for":54,"against":22},
 	{"country":"est","name":"Tallinna Esto","id":"Tallinna_Esto","win":8,"draw":3,"loss":5,"for":33,"against":25,"isRemoved":true},
 	{"country":"est","name":"Viljandi Dünamo","id":"Viljandi_Dünamo","win":8,"draw":1,"loss":7,"for":40,"against":42},
 	{"country":"est","name":"Tartu Kalev","id":"FA_Tartu_Kalev","win":7,"draw":3,"loss":6,"for":26,"against":25},

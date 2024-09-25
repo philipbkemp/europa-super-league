@@ -193,7 +193,7 @@
 	{"country":"pol","name":"Rymer Rybnik","id":"KS_ROW_1964_Rybnik","win":8,"draw":3,"loss":15,"for":45,"against":64,"isRemoved":true,"isNew":true},
 	{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":5,"draw":3,"loss":18,"for":31,"against":99,"isRemoved":true,"isNew":true},
 	{"country":"est","name":"Tallinna Dünamo","id":"Tallinna_JK_Dünamo","win":7,"draw":0,"loss":1,"for":35,"against":5,"isChampion":true},
-	{"country":"est","name":"Baltic Fleet","id":"Baltic_Fleet","win":5,"draw":1,"loss":2,"for":14,"against":7},
+	{"country":"est","name":"balti_laevastik_tallinn","id":"balti_laevastik_tallinn","win":5,"draw":1,"loss":2,"for":14,"against":7},
 	{"country":"est","name":"Rakvere Dünamo","id":"Rakvere_Dünamo","win":2,"draw":2,"loss":4,"for":5,"against":21},
 	{"country":"est","name":"Tallinna Esto","id":"Tallinna_Esto","win":1,"draw":3,"loss":4,"for":10,"against":10,"isNew":true},
 	{"country":"est","name":"Tallinna Kalev II","id":"JK_Tallinna_Kalev","win":1,"draw":2,"loss":5,"for":5,"against":26},
