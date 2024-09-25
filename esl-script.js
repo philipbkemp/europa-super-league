@@ -14,6 +14,7 @@ const countries = {
 	"dnk": "Denmark",
 	"fin": "Finland",
 	"fra": "France",
+	"fro": "Faroe Islands",
 	"hrv": "Croatia",
 	"hun": "Hungary",
 	"irl": "Republic of Ireland",
