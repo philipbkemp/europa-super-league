@@ -7,6 +7,7 @@ const countries = {
 	"csk": "Czechoslovakia",
 	"cyp": "Cyprus",
 	// cze has 2 clubs waiting for this country to be activated
+	"ede": "East Germany",
 	"eir": "Ireland",
 	"eng": "England",
 	"esp": "Spain",
@@ -19,6 +20,7 @@ const countries = {
 	"hun": "Hungary",
 	"irl": "Republic of Ireland",
 	"isl": "Iceland",
+	"isr": "Israel",
 	"ita": "Italy",
 	"ltu": "Lithuania",
 	"lux": "Luxembourg",
@@ -281,7 +283,7 @@ if ( $("h1 .placeholder").length !== 0 ) {
 	saveClubs();
 }
 
-function nextSeason() {
+function nextSeason(countOnly=false) {
 	diva = [];
 	divb = [];
 	divc = [];
@@ -388,14 +390,25 @@ function nextSeason() {
 		}
 	});
 
-	if ( diva.length !== 0 ) { console.log("A",diva.length,("|"+diva.join("|")+"|").replace(/\|\|/g,"|")); }
-	if ( divb.length !== 0 ) { console.log("B",divb.length,("|"+divb.join("|")+"|").replace(/\|\|/g,"|")); }
-	if ( divc.length !== 0 ) { console.log("C",divc.length,("|"+divc.join("|")+"|").replace(/\|\|/g,"|")); }
-	if ( divd.length !== 0 ) { console.log("D",divd.length,("|"+divd.join("|")+"|").replace(/\|\|/g,"|")); }
-	if ( dive.length !== 0 ) { console.log("E",dive.length,("|"+dive.join("|")+"|").replace(/\|\|/g,"|")); }
-	if ( divf.length !== 0 ) { console.log("F",divf.length,("|"+divf.join("|")+"|").replace(/\|\|/g,"|")); }
-	if ( divg.length !== 0 ) { console.log("G",divg.length,("|"+divg.join("|")+"|").replace(/\|\|/g,"|")); }
-	if ( divh.length !== 0 ) { console.log("H",divh.length,("|"+divh.join("|")+"|").replace(/\|\|/g,"|")); }
+	if ( ! countOnly ) {
+		if ( diva.length !== 0 ) { console.log("A",diva.length,("|"+diva.join("|")+"|").replace(/\|\|/g,"|")); }
+		if ( divb.length !== 0 ) { console.log("B",divb.length,("|"+divb.join("|")+"|").replace(/\|\|/g,"|")); }
+		if ( divc.length !== 0 ) { console.log("C",divc.length,("|"+divc.join("|")+"|").replace(/\|\|/g,"|")); }
+		if ( divd.length !== 0 ) { console.log("D",divd.length,("|"+divd.join("|")+"|").replace(/\|\|/g,"|")); }
+		if ( dive.length !== 0 ) { console.log("E",dive.length,("|"+dive.join("|")+"|").replace(/\|\|/g,"|")); }
+		if ( divf.length !== 0 ) { console.log("F",divf.length,("|"+divf.join("|")+"|").replace(/\|\|/g,"|")); }
+		if ( divg.length !== 0 ) { console.log("G",divg.length,("|"+divg.join("|")+"|").replace(/\|\|/g,"|")); }
+		if ( divh.length !== 0 ) { console.log("H",divh.length,("|"+divh.join("|")+"|").replace(/\|\|/g,"|")); }
+	} else {
+		if ( diva.length !== 0 ) { console.log("A",diva.length); }
+		if ( divb.length !== 0 ) { console.log("B",divb.length); }
+		if ( divc.length !== 0 ) { console.log("C",divc.length); }
+		if ( divd.length !== 0 ) { console.log("D",divd.length); }
+		if ( dive.length !== 0 ) { console.log("E",dive.length); }
+		if ( divf.length !== 0 ) { console.log("F",divf.length); }
+		if ( divg.length !== 0 ) { console.log("G",divg.length); }
+		if ( divh.length !== 0 ) { console.log("H",divh.length); }
+	}
 }
 
 function newTeams() {
