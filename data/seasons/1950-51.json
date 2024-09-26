@@ -258,7 +258,7 @@
 	{"country":"bgr","name":"Stroitel Sofia","id":"Stroitel_Sofia","win":8,"draw":6,"loss":8,"for":25,"against":24,"isRemoved":true,"isNew":true},
 	{"country":"bgr","name":"Minyor Pernik","id":"FC_Minyor_Pernik","win":9,"draw":2,"loss":11,"for":37,"against":36,"isNew":true},
 	{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":6,"draw":5,"loss":11,"for":26,"against":32,"isReturning":true},
-	{"country":"bgr","name":"Spartak Pleven","id":"OFC_Spartak_Pleven","win":1,"draw":3,"loss":18,"for":16,"against":59,"isRemoved":true},
+	{"country":"bgr","name":"Spartak Pleven","id":"OFC_Spartak_Pleven","win":1,"draw":3,"loss":18,"for":16,"against":59},
 	{"country":"bgr","name":"Dunav Ruse","id":"FC_Dunav_Ruse","win":0,"draw":4,"loss":18,"for":8,"against":83,"isRemoved":true,"isReturning":true},
 	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":8,"draw":5,"loss":1,"for":35,"against":9,"isChampion":true,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":7,"draw":7,"loss":0,"for":19,"against":5,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
