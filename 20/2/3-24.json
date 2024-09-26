@@ -375,7 +375,7 @@
 {"country":"esp","name":"Granada","id":"Granada_CF","win":4,"draw":9,"loss":25,"for":38,"against":79,"isRemoved":true,"isReturning":true}
 ][
 {"country":"alb","name":"Egnatia","id":"KF_Egnatia","win":18,"draw":9,"loss":9,"for":51,"against":38,"isChampion":true},
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":17,"draw":12,"loss":7,"for":51,"against":29},
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":17,"draw":12,"loss":7,"for":51,"against":29},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":16,"draw":11,"loss":9,"for":41,"against":34},
 {"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":15,"draw":6,"loss":15,"for":37,"against":39,"isReturning":true},
 {"country":"alb","name":"Tirana","id":"KF_Tirana","win":13,"draw":11,"loss":12,"for":56,"against":49},

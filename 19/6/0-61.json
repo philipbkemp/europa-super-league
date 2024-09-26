@@ -363,7 +363,7 @@
 {"country":"esp","name":"Granada","id":"Granada_CF","win":5,"draw":7,"loss":18,"for":32,"against":61,"isRemoved":true}
 ][
 {"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":15,"draw":2,"loss":1,"for":44,"against":9,"isChampion":true},
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":12,"draw":4,"loss":2,"for":41,"against":12},
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":12,"draw":4,"loss":2,"for":41,"against":12},
 {"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":8,"draw":4,"loss":6,"for":22,"against":17},
 {"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":7,"draw":5,"loss":6,"for":23,"against":27},
 {"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":6,"draw":6,"loss":6,"for":18,"against":19},

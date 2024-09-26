@@ -279,7 +279,7 @@
 	{"country":"esp","name":"Málaga","id":"CD_Málaga","win":8,"draw":5,"loss":13,"for":44,"against":51,"isNew":true},
 	{"country":"esp","name":"Gimnástico","id":"Gimnàstic_de_Tarragona","win":7,"draw":2,"loss":17,"for":39,"against":99,"isRemoved":true},
 	{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":4,"draw":7,"loss":15,"for":30,"against":65,"isRemoved":true},
-	{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":14,"draw":2,"loss":0,"for":61,"against":7,"isChampion":true,"isReturning":true},
+	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":14,"draw":2,"loss":0,"for":61,"against":7,"isChampion":true,"isReturning":true},
 	{"country":"alb","name":"Shkodra","id":"KF_Vllaznia_Shkodër","win":12,"draw":2,"loss":2,"for":55,"against":11,"isReturning":true},
 	{"country":"alb","name":"Ylli i Kuq Durrës","id":"KF_Teuta","win":9,"draw":2,"loss":5,"for":25,"against":14,"isReturning":true},
 	{"country":"alb","name":"Tirana","id":"KF_Tirana","win":7,"draw":2,"loss":7,"for":25,"against":19,"isReturning":true},

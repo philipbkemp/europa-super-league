@@ -397,7 +397,7 @@
 {"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":9,"draw":4,"loss":13,"for":22,"against":41},
 {"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":9,"draw":3,"loss":14,"for":25,"against":35},
 {"country":"alb","name":"Elbasani","id":"KF_Elbasani","win":8,"draw":5,"loss":13,"for":19,"against":32,"isRemoved":true},
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":6,"draw":6,"loss":14,"for":21,"against":37,"isRemoved":true}
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":6,"draw":6,"loss":14,"for":21,"against":37,"isRemoved":true}
 ][
 {"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":20,"draw":7,"loss":2,"for":54,"against":18,"isChampion":true},
 {"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":20,"draw":5,"loss":4,"for":53,"against":18},

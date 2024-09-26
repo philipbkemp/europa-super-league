@@ -396,7 +396,7 @@
 {"country":"esp","name":"Cádiz","id":"Cádiz_CF","win":5,"draw":12,"loss":21,"for":30,"against":70,"isRemoved":true},
 {"country":"esp","name":"Real Burgos","id":"Real_Burgos_CF","win":4,"draw":14,"loss":20,"for":29,"against":69,"isRemoved":true}
 ][
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":17,"draw":9,"loss":4,"for":53,"against":22,"isChampion":true},
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":17,"draw":9,"loss":4,"for":53,"against":22,"isChampion":true},
 {"country":"alb","name":"Teuta","id":"KF_Teuta","win":15,"draw":8,"loss":7,"for":32,"against":21},
 {"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":14,"draw":9,"loss":7,"for":42,"against":22},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":15,"draw":7,"loss":8,"for":44,"against":26},

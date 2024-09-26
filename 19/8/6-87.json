@@ -402,7 +402,7 @@
 {"country":"esp","name":"Sabadell","id":"CE_Sabadell_FC","win":12,"draw":14,"loss":18,"for":38,"against":59,"isReturning":true},
 {"country":"esp","name":"Cádiz","id":"Cádiz_CF","win":10,"draw":9,"loss":25,"for":31,"against":59}
 ][
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":15,"draw":6,"loss":5,"for":43,"against":18,"isChampion":true},
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":15,"draw":6,"loss":5,"for":43,"against":18,"isChampion":true},
 {"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":14,"draw":8,"loss":4,"for":40,"against":21,"deduct":-3},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":12,"draw":8,"loss":6,"for":31,"against":22},
 {"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":13,"draw":8,"loss":5,"for":36,"against":23,"deduct":-3},

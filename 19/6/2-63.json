@@ -346,7 +346,7 @@
 {"country":"esp","name":"Osasuna","id":"CA_Osasuna","win":9,"draw":6,"loss":15,"for":39,"against":50,"isRemoved":true},
 {"country":"esp","name":"Málaga","id":"CD_Málaga","win":8,"draw":4,"loss":18,"for":25,"against":70,"isRemoved":true,"isReturning":true}
 ][
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":15,"draw":6,"loss":1,"for":53,"against":15,"isChampion":true},
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":15,"draw":6,"loss":1,"for":53,"against":15,"isChampion":true},
 {"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":11,"draw":10,"loss":1,"for":43,"against":25},
 {"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":13,"draw":5,"loss":4,"for":41,"against":23},
 {"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":7,"draw":10,"loss":5,"for":33,"against":28},

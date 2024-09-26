@@ -371,7 +371,7 @@
 ][
 {"country":"alb","name":"Teuta","id":"KF_Teuta","win":17,"draw":15,"loss":4,"for":42,"against":16,"isChampion":true},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":19,"draw":9,"loss":8,"for":44,"against":22},
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":17,"draw":14,"loss":5,"for":53,"against":23},
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":17,"draw":14,"loss":5,"for":53,"against":23},
 {"country":"alb","name":"Laçi","id":"KF_Laçi","win":16,"draw":13,"loss":7,"for":41,"against":26},
 {"country":"alb","name":"Tirana","id":"KF_Tirana","win":15,"draw":13,"loss":8,"for":41,"against":26},
 {"country":"alb","name":"Kukësi","id":"FK_Kukësi","win":13,"draw":6,"loss":17,"for":47,"against":48},

@@ -364,7 +364,7 @@
 {"country":"esp","name":"Pontevedra","id":"Pontevedra_CF","win":8,"draw":5,"loss":17,"for":30,"against":45,"isRemoved":true,"isNew":true},
 {"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":7,"draw":5,"loss":18,"for":27,"against":58,"isRemoved":true}
 ][
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":15,"draw":7,"loss":0,"for":46,"against":10,"isChampion":true},
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":15,"draw":7,"loss":0,"for":46,"against":10,"isChampion":true},
 {"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":14,"draw":4,"loss":4,"for":44,"against":26},
 {"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":11,"draw":7,"loss":4,"for":31,"against":19},
 {"country":"alb","name":"Labinoti","id":"KF_Elbasani","win":11,"draw":5,"loss":6,"for":37,"against":29},

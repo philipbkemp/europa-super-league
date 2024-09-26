@@ -366,7 +366,7 @@
 {"country":"alb","name":"Laçi","id":"KF_Laçi","win":19,"draw":7,"loss":10,"for":61,"against":34},
 {"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":17,"draw":7,"loss":12,"for":42,"against":43},
 {"country":"alb","name":"Teuta","id":"KF_Teuta","win":15,"draw":12,"loss":9,"for":41,"against":34},
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":15,"draw":8,"loss":13,"for":51,"against":40},
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":15,"draw":8,"loss":13,"for":51,"against":40},
 {"country":"alb","name":"Bylis","id":"KF_Bylis","win":12,"draw":15,"loss":9,"for":46,"against":38,"isReturning":true},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":12,"draw":10,"loss":14,"for":36,"against":41,"isReturning":true},
 {"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":2,"draw":9,"loss":25,"for":32,"against":72,"isRemoved":true},

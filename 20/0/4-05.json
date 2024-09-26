@@ -365,7 +365,7 @@
 {"country":"alb","name":"Teuta","id":"KF_Teuta","win":16,"draw":4,"loss":16,"for":47,"against":49},
 {"country":"alb","name":"Shkumbini","id":"KF_Shkumbini_Peqin","win":14,"draw":6,"loss":16,"for":49,"against":47},
 {"country":"alb","name":"Lushnja","id":"KF_Lushnja","win":13,"draw":9,"loss":14,"for":43,"against":47},
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":13,"draw":7,"loss":16,"for":59,"against":58},
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":13,"draw":7,"loss":16,"for":59,"against":58},
 {"country":"alb","name":"Egnatia","id":"KF_Egnatia","win":7,"draw":7,"loss":22,"for":26,"against":48,"isRemoved":true,"isNew":true},
 {"country":"alb","name":"Laçi","id":"KF_Laçi","win":0,"draw":2,"loss":34,"for":13,"against":124,"isRemoved":true,"isReturning":true}
 ][

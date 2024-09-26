@@ -333,7 +333,7 @@
 {"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":9,"draw":5,"loss":16,"for":45,"against":73,"isRemoved":true},
 {"country":"esp","name":"Jaén","id":"Real_Jaén","win":9,"draw":2,"loss":19,"for":29,"against":58,"isRemoved":true}
 ][
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":10,"draw":3,"loss":1,"for":28,"against":7,"isChampion":true},
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":10,"draw":3,"loss":1,"for":28,"against":7,"isChampion":true},
 {"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":11,"draw":1,"loss":2,"for":33,"against":8},
 {"country":"alb","name":"Puna Korçë","id":"KF_Skënderbeu_Korçë","win":7,"draw":3,"loss":4,"for":17,"against":15},
 {"country":"alb","name":"Puna Tiranë","id":"KF_Tirana","win":5,"draw":6,"loss":3,"for":22,"against":17},

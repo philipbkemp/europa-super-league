@@ -332,7 +332,7 @@
 {"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":9,"draw":5,"loss":16,"for":37,"against":49,"isRemoved":true},
 {"country":"esp","name":"Tenerife","id":"CD_Tenerife","win":6,"draw":7,"loss":17,"for":33,"against":57,"isRemoved":true,"isNew":true}
 ][
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":14,"draw":2,"loss":2,"for":46,"against":13,"isChampion":true},
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":14,"draw":2,"loss":2,"for":46,"against":13,"isChampion":true},
 {"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":14,"draw":2,"loss":2,"for":41,"against":12},
 {"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":9,"draw":5,"loss":4,"for":27,"against":18},
 {"country":"alb","name":"Labinoti","id":"KF_Elbasani","win":8,"draw":2,"loss":8,"for":23,"against":26},

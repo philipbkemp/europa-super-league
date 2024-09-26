@@ -367,7 +367,7 @@
 {"country":"esp","name":"Las Palmas","id":"UD_Las_Palmas","win":8,"draw":2,"loss":20,"for":42,"against":75,"isRemoved":true},
 {"country":"esp","name":"Osasuna","id":"CA_Osasuna","win":5,"draw":3,"loss":22,"for":24,"against":77,"isRemoved":true}
 ][
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":9,"draw":5,"loss":0,"for":27,"against":6,"isChampion":true},
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":9,"draw":5,"loss":0,"for":27,"against":6,"isChampion":true},
 {"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":8,"draw":3,"loss":3,"for":20,"against":11},
 {"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":5,"draw":4,"loss":5,"for":17,"against":15},
 {"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":4,"draw":6,"loss":4,"for":16,"against":14},

@@ -407,7 +407,7 @@
 {"country":"esp","name":"Salamanca","id":"UD_Salamanca","win":7,"draw":7,"loss":20,"for":32,"against":67,"isRemoved":true},
 {"country":"esp","name":"Almería","id":"AD_Almería","win":6,"draw":7,"loss":21,"for":30,"against":66,"isRemoved":true}
 ][
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":15,"draw":7,"loss":4,"for":36,"against":17,"isChampion":true},
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":15,"draw":7,"loss":4,"for":36,"against":17,"isChampion":true},
 {"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":14,"draw":8,"loss":4,"for":32,"against":17},
 {"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":14,"draw":7,"loss":5,"for":38,"against":21},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":9,"draw":9,"loss":8,"for":30,"against":33},

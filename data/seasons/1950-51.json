@@ -285,7 +285,7 @@
 	{"country":"esp","name":"Alcoyano","id":"CD_Alcoyano","win":6,"draw":2,"loss":22,"for":36,"against":92,"isRemoved":true,"isReturning":true},
 	{"country":"esp","name":"Lérida","id":"UE_Lleida","win":6,"draw":1,"loss":23,"for":41,"against":134,"isRemoved":true,"isNew":true},
 	{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":14,"draw":1,"loss":1,"for":60,"against":6,"isChampion":true,"isNew":true},
-	{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":14,"draw":1,"loss":1,"for":77,"against":10},
+	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":14,"draw":1,"loss":1,"for":77,"against":10},
 	{"country":"alb","name":"Shkodra","id":"KF_Vllaznia_Shkodër","win":11,"draw":1,"loss":4,"for":45,"against":18},
 	{"country":"alb","name":"Kavaja","id":"KF_Besa_Kavajë","win":6,"draw":3,"loss":7,"for":21,"against":32},
 	{"country":"alb","name":"Lezha","id":"KF_Besëlidhja_Lezhë","win":5,"draw":3,"loss":8,"for":20,"against":26,"isRemoved":true,"isReturning":true},

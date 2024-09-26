@@ -402,7 +402,7 @@
 {"country":"esp","name":"Burgos","id":"Burgos_CF_(1936)","win":9,"draw":6,"loss":19,"for":36,"against":63,"isRemoved":true}
 ][
 {"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":16,"draw":9,"loss":1,"for":38,"against":11,"isChampion":true},
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":12,"draw":10,"loss":4,"for":44,"against":17},
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":12,"draw":10,"loss":4,"for":44,"against":17},
 {"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":12,"draw":10,"loss":4,"for":33,"against":17},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":12,"draw":9,"loss":5,"for":39,"against":24},
 {"country":"alb","name":"Traktori","id":"KF_Lushnja","win":10,"draw":9,"loss":7,"for":22,"against":25},

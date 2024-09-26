@@ -362,7 +362,7 @@
 {"country":"esp","name":"Huesca","id":"SD_Huesca","win":7,"draw":12,"loss":19,"for":43,"against":65,"isRemoved":true,"isNew":true},
 {"country":"esp","name":"Rayo Vallecano","id":"Rayo_Vallecano","win":8,"draw":8,"loss":22,"for":41,"against":70,"isRemoved":true,"isReturning":true}
 ][
-{"country":"alb","name":"Partizani","id":"FK_Partizani_Tirana","win":20,"draw":10,"loss":6,"for":45,"against":22,"isChampion":true},
+{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":20,"draw":10,"loss":6,"for":45,"against":22,"isChampion":true},
 {"country":"alb","name":"Kukësi","id":"FK_Kukësi","win":17,"draw":8,"loss":11,"for":42,"against":29},
 {"country":"alb","name":"Teuta","id":"KF_Teuta","win":15,"draw":12,"loss":9,"for":43,"against":36},
 {"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":17,"draw":4,"loss":15,"for":45,"against":30},
