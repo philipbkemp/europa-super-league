@@ -197,7 +197,7 @@
 	{"country":"est","name":"Narva Dünamo","id":"Narva_Dünamo","win":3,"draw":3,"loss":12,"for":22,"against":53,"isRemoved":true},
 	{"country":"est","name":"Pärnu Kalev","id":"Pärnu_Kalev","win":3,"draw":1,"loss":14,"for":23,"against":46},
 	{"country":"est","name":"Tartu Kalev","id":"FA_Tartu_Kalev","win":0,"draw":0,"loss":18,"for":4,"against":44,"isRemoved":true},
-	{"country":"lva","name":"AVN","id":"FK_ASK#FK_AVN","win":30,"draw":2,"loss":0,"for":139,"against":9,"isChampion":true},
+	{"country":"lva","name":"AVN","id":"fk_avn","win":30,"draw":2,"loss":0,"for":139,"against":9,"isChampion":true},
 	{"country":"lva","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":27,"draw":3,"loss":2,"for":122,"against":18},
 	{"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":26,"draw":1,"loss":5,"for":104,"against":27},
 	{"country":"lva","name":"Daugava Daugavpils","id":"FC_Daugava","win":15,"draw":9,"loss":8,"for":41,"against":33,"isRemoved":true},

@@ -183,7 +183,7 @@
 	{"country":"est","name":"Tartu ÜSK","id":"Tartu_ÜSK","win":4,"draw":2,"loss":12,"for":21,"against":56,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
 	{"country":"est","name":"Viljandi Dünamo","id":"Viljandi_Dünamo","win":3,"draw":3,"loss":12,"for":24,"against":38,"isRemoved":true,"removedNote":"Next season is a grouped format"},
 	{"country":"lva","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":4,"draw":1,"loss":0,"for":16,"against":2,"isChampion":true},
-	{"country":"lva","name":"AVN","id":"FK_ASK#FK_AVN","win":4,"draw":1,"loss":0,"for":8,"against":3},
+	{"country":"lva","name":"AVN","id":"fk_avn","win":4,"draw":1,"loss":0,"for":8,"against":3},
 	{"country":"lva","name":"Vulkans","id":"Vulkans","win":2,"draw":0,"loss":3,"for":2,"against":8},
 	{"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":2,"draw":0,"loss":3,"for":8,"against":9},
 	{"country":"lva","name":"Daugava Riga","id":"FC_Daugava_Riga","win":1,"draw":1,"loss":3,"for":3,"against":11},

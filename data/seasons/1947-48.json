@@ -202,7 +202,7 @@
 	{"country":"lva","name":"PAK Goncharov","id":"PAK_Goncharov","win":5,"draw":4,"loss":3,"for":21,"against":17,"isNew":true},
 	{"country":"lva","name":"Daugava Riga","id":"FC_Daugava_Riga","win":3,"draw":5,"loss":4,"for":21,"against":33},
 	{"country":"lva","name":"Dinamo Rīga","id":"Dinamo_Riga","win":4,"draw":2,"loss":6,"for":28,"against":31},
-	{"country":"lva","name":"AVN","id":"FK_ASK#FK_AVN","win":2,"draw":3,"loss":7,"for":16,"against":27},
+	{"country":"lva","name":"AVN","id":"fk_avn","win":2,"draw":3,"loss":7,"for":16,"against":27},
 	{"country":"lva","name":"Spartak","id":"Spartak_Riga","win":1,"draw":3,"loss":8,"for":17,"against":30},
 	{"country":"nir","name":"Belfast Celtic","id":"Belfast_Celtic_F.C.","win":19,"draw":1,"loss":2,"for":84,"against":26,"isChampion":true,"isReturning":true},
 	{"country":"nir","name":"Linfield","id":"linfield_fc","win":15,"draw":5,"loss":2,"for":55,"against":19,"isReturning":true},

@@ -187,7 +187,7 @@
 	{"country":"est","name":"Tallinna Spartak","id":"Tallinna_Spartak","win":1,"draw":0,"loss":9,"for":8,"against":33,"isRemoved":true},
 	{"country":"lva","name":"Daugava Liepaja","id":"Daugava_Liepaja","win":11,"draw":0,"loss":3,"for":60,"against":16,"isChampion":true},
 	{"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":10,"draw":2,"loss":2,"for":30,"against":18},
-	{"country":"lva","name":"AVN","id":"FK_ASK#FK_AVN","win":10,"draw":1,"loss":3,"for":56,"against":16},
+	{"country":"lva","name":"AVN","id":"fk_avn","win":10,"draw":1,"loss":3,"for":56,"against":16},
 	{"country":"lva","name":"Dinamo Rīga","id":"Dinamo_Riga","win":8,"draw":1,"loss":5,"for":40,"against":24},
 	{"country":"lva","name":"Daugava Riga","id":"FC_Daugava_Riga","win":7,"draw":1,"loss":6,"for":34,"against":32,"isNew":true},
 	{"country":"lva","name":"Spartak","id":"Spartak_Riga","win":4,"draw":0,"loss":10,"for":22,"against":66,"isNew":true},
