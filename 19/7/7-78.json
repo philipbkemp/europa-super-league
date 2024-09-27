@@ -300,7 +300,7 @@
 {"country":"lva-ssr","name":"Masinbuvetajs","id":"SK_Blāzma","win":7,"draw":2,"loss":15,"for":20,"against":43,"isReturning":true},
 {"country":"lva-ssr","name":"RPI","id":"RPI_Riga","win":5,"draw":5,"loss":14,"for":24,"against":31},
 {"country":"lva-ssr","name":"Starts","id":"FK_Starts","win":6,"draw":3,"loss":15,"for":30,"against":45},
-{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":5,"draw":5,"loss":14,"for":25,"against":46,"isReturning":true},
+{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"fk_liepajas_metalurgs","win":5,"draw":5,"loss":14,"for":25,"against":46,"isReturning":true},
 {"country":"lva-ssr","name":"Lielupe","id":"Lielupe,_Latvia","win":2,"draw":0,"loss":22,"for":10,"against":135,"deduct":-1,"isRemoved":true}
 ][
 {"country":"nir","name":"Linfield","id":"linfield_fc","win":19,"draw":2,"loss":1,"for":65,"against":22,"isChampion":true},

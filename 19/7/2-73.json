@@ -277,7 +277,7 @@
 {"country":"lva-ssr","name":"Pilots","id":"Pilots_Rīga","win":7,"draw":10,"loss":7,"for":20,"against":22},
 {"country":"lva-ssr","name":"Venta","id":"FK_Venta","win":9,"draw":6,"loss":9,"for":31,"against":37},
 {"country":"lva-ssr","name":"Ogres TK","id":"Ogres_TK","win":5,"draw":10,"loss":9,"for":17,"against":23,"isNew":true},
-{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":8,"draw":3,"loss":13,"for":28,"against":39,"isReturning":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"fk_liepajas_metalurgs","win":8,"draw":3,"loss":13,"for":28,"against":39,"isReturning":true,"isRemoved":true},
 {"country":"lva-ssr","name":"Radiotehnikis","id":"Radiotehnikis","win":6,"draw":7,"loss":11,"for":22,"against":34},
 {"country":"lva-ssr","name":"Starts","id":"FK_Starts","win":5,"draw":8,"loss":11,"for":27,"against":35},
 {"country":"lva-ssr","name":"Daugava Daugavpils","id":"FC_Daugava","win":6,"draw":5,"loss":13,"for":19,"against":32,"isRemoved":true},

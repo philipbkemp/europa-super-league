@@ -278,7 +278,7 @@
 {"country":"lva-ssr","name":"Automobilists","id":"Automobilists","win":9,"draw":11,"loss":10,"for":40,"against":38,"isNew":true},
 {"country":"lva-ssr","name":"Jurnieks","id":"FK_Jūrnieks","win":9,"draw":10,"loss":11,"for":38,"against":37},
 {"country":"lva-ssr","name":"Torpedo","id":"Torpedo_Rīga","win":8,"draw":11,"loss":11,"for":28,"against":35},
-{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":9,"draw":9,"loss":12,"for":35,"against":48,"isRemoved":true},
+{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"fk_liepajas_metalurgs","win":9,"draw":9,"loss":12,"for":35,"against":48,"isRemoved":true},
 {"country":"lva-ssr","name":"RPI","id":"RPI_Riga","win":11,"draw":3,"loss":16,"for":29,"against":38},
 {"country":"lva-ssr","name":"Gauja","id":"FK_Gauja","win":9,"draw":7,"loss":14,"for":35,"against":60},
 {"country":"lva-ssr","name":"Radiotehnikis","id":"Radiotehnikis","win":7,"draw":10,"loss":13,"for":34,"against":48},

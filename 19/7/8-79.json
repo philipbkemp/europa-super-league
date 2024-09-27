@@ -265,7 +265,7 @@
 {"country":"lva-ssr","name":"Energija","id":"FK_Apgaismes_tehnika","win":13,"draw":7,"loss":6,"for":48,"against":30},
 {"country":"lva-ssr","name":"RER","id":"RER_Riga","win":14,"draw":4,"loss":8,"for":52,"against":30,"isRemoved":true},
 {"country":"lva-ssr","name":"Jurnieks","id":"FK_Jūrnieks","win":14,"draw":3,"loss":9,"for":45,"against":30},
-{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":10,"draw":9,"loss":7,"for":30,"against":25,"deduct":-1},
+{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"fk_liepajas_metalurgs","win":10,"draw":9,"loss":7,"for":30,"against":25,"deduct":-1},
 {"country":"lva-ssr","name":"Celtnieks","id":"Celtnieks_Rīga","win":7,"draw":9,"loss":10,"for":37,"against":45,"isReturning":true},
 {"country":"lva-ssr","name":"Starts","id":"FK_Starts","win":5,"draw":10,"loss":11,"for":23,"against":38,"deduct":-1},
 {"country":"lva-ssr","name":"Metalists","id":"RAF_Jelgava","win":6,"draw":6,"loss":14,"for":30,"against":39},

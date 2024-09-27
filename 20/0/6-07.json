@@ -264,7 +264,7 @@
 {"country":"est","name":"Warrior","id":"FC_Warrior_Valga","win":3,"draw":2,"loss":31,"for":16,"against":110,"isRemoved":true,"isNew":true}
 ][
 {"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":19,"draw":5,"loss":4,"for":48,"against":23,"isChampion":true},
-{"country":"lva","name":"Liepājas Metalurgs","id":"FK_Liepājas_Metalurgs","win":18,"draw":6,"loss":4,"for":66,"against":20},
+{"country":"lva","name":"Liepājas Metalurgs","id":"fk_liepajas_metalurgs","win":18,"draw":6,"loss":4,"for":66,"against":20},
 {"country":"lva","name":"Skonto","id":"Skonto_FC","win":16,"draw":6,"loss":6,"for":55,"against":21},
 {"country":"lva","name":"Dinaburg","id":"Dinaburg_FC","win":12,"draw":5,"loss":11,"for":33,"against":38},
 {"country":"lva","name":"Ditton","id":"FC_Daugava","win":10,"draw":8,"loss":10,"for":33,"against":31,"isReturning":true},

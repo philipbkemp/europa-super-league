@@ -267,7 +267,7 @@
 {"country":"lva","name":"Daugava Rīga","id":"Torpedo_Rīga","win":13,"draw":4,"loss":7,"for":35,"against":27},
 {"country":"lva","name":"Dinaburg","id":"Dinaburg_FC","win":12,"draw":6,"loss":6,"for":37,"against":19},
 {"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":12,"draw":6,"loss":6,"for":32,"against":21,"isReturning":true},
-{"country":"lva","name":"Liepājas Metalurgs","id":"FK_Liepājas_Metalurgs","win":9,"draw":4,"loss":11,"for":27,"against":32},
+{"country":"lva","name":"Liepājas Metalurgs","id":"fk_liepajas_metalurgs","win":9,"draw":4,"loss":11,"for":27,"against":32},
 {"country":"lva","name":"Universitāte","id":"RAF_Jelgava","win":8,"draw":5,"loss":11,"for":25,"against":42,"isRemoved":true,"removedNote":"Dissolved"},
 {"country":"lva","name":"Valmiera","id":"Valmiera_FC","win":8,"draw":4,"loss":12,"for":29,"against":43,"isReturning":true},
 {"country":"lva","name":"Lokomotīve","id":"FK_Lokomotīve_Daugavpils","win":5,"draw":2,"loss":17,"for":29,"against":52,"isRemoved":true,"removedNote":"Dissolved"},

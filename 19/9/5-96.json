@@ -268,7 +268,7 @@
 {"country":"lva","name":"Vairogs","id":"SK_Blāzma","win":7,"draw":7,"loss":14,"for":35,"against":52},
 {"country":"lva","name":"Amstrig","id":"Torpedo_Rīga","win":9,"draw":8,"loss":11,"for":47,"against":38},
 {"country":"lva","name":"Skonto/Metāls","id":"Skonto/Metāls","win":8,"draw":4,"loss":12,"for":37,"against":51,"isNew":true},
-{"country":"lva","name":"DAG-Liepāja","id":"FK_Liepājas_Metalurgs","win":7,"draw":7,"loss":10,"for":26,"against":34,"isReturning":true},
+{"country":"lva","name":"DAG-Liepāja","id":"fk_liepajas_metalurgs","win":7,"draw":7,"loss":10,"for":26,"against":34,"isReturning":true},
 {"country":"lva","name":"Olimpija Rīga","id":"Olimpija_Rīga","win":5,"draw":5,"loss":14,"for":29,"against":57,"isRemoved":true},
 {"country":"lva","name":"Kvadrāts","id":"FK_Kvadrāts","win":5,"draw":2,"loss":17,"for":22,"against":63,"isRemoved":true,"isNew":true}
 ][

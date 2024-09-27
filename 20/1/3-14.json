@@ -273,7 +273,7 @@
 {"country":"lva","name":"Skonto","id":"Skonto_FC","win":18,"draw":8,"loss":1,"for":68,"against":11},
 {"country":"lva","name":"Daugava Daugavpils","id":"FC_Daugava","win":15,"draw":7,"loss":5,"for":44,"against":19},
 {"country":"lva","name":"Daugava Rīga","id":"FK_Daugava_(2003)","win":14,"draw":6,"loss":7,"for":44,"against":21},
-{"country":"lva","name":"Liepājas Metalurgs","id":"FK_Liepājas_Metalurgs","win":11,"draw":7,"loss":9,"for":54,"against":35,"isRemoved":true,"removedNote":"Dissolved"},
+{"country":"lva","name":"Liepājas Metalurgs","id":"fk_liepajas_metalurgs","win":11,"draw":7,"loss":9,"for":54,"against":35,"isRemoved":true,"removedNote":"Dissolved"},
 {"country":"lva","name":"Jūrmala","id":"FC_Jūrmala","win":7,"draw":5,"loss":15,"for":20,"against":52},
 {"country":"lva","name":"Spartaks Jūrmala","id":"FK_Spartaks_Jūrmala","win":7,"draw":4,"loss":16,"for":30,"against":49},
 {"country":"lva","name":"Jelgava","id":"FK_Jelgava","win":5,"draw":8,"loss":14,"for":26,"against":46},

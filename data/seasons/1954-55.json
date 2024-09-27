@@ -196,7 +196,7 @@
 	{"country":"est","name":"Kohtla-Järve Kalev","id":"Kohtla-Järve_Kalev","win":6,"draw":2,"loss":10,"for":21,"against":38},
 	{"country":"est","name":"Tallinna Kalev II","id":"JK_Tallinna_Kalev","win":5,"draw":3,"loss":10,"for":20,"against":28,"isRemoved":true},
 	{"country":"est","name":"Rakvere Dünamo","id":"Rakvere_Dünamo","win":3,"draw":6,"loss":9,"for":8,"against":14,"isRemoved":true},
-	{"country":"lva","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":18,"draw":0,"loss":0,"for":76,"against":6,"isChampion":true},
+	{"country":"lva","name":"Sarkanais Metalurgs","id":"fk_liepajas_metalurgs","win":18,"draw":0,"loss":0,"for":76,"against":6,"isChampion":true},
 	{"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":12,"draw":2,"loss":4,"for":58,"against":22},
 	{"country":"lva","name":"Darba Rezerves","id":"Darba_Rezerves","win":11,"draw":0,"loss":7,"for":47,"against":40,"isNew":true},
 	{"country":"lva","name":"Dinamo Rīga","id":"Dinamo_Riga","win":7,"draw":5,"loss":6,"for":29,"against":26},

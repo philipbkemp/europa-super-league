@@ -264,7 +264,7 @@
 {"country":"est","name":"Lasnamäe Ajax","id":"FC_Ajax_Lasnamäe","win":1,"draw":2,"loss":33,"for":14,"against":153,"isRemoved":true}
 ][
 {"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":18,"draw":6,"loss":4,"for":59,"against":16,"isChampion":true},
-{"country":"lva","name":"Liepājas Metalurgs","id":"FK_Liepājas_Metalurgs","win":18,"draw":4,"loss":6,"for":42,"against":21},
+{"country":"lva","name":"Liepājas Metalurgs","id":"fk_liepajas_metalurgs","win":18,"draw":4,"loss":6,"for":42,"against":21},
 {"country":"lva","name":"Rīga","id":"FK_Rīga","win":17,"draw":6,"loss":5,"for":48,"against":28},
 {"country":"lva","name":"Skonto","id":"Skonto_FC","win":16,"draw":7,"loss":5,"for":54,"against":27},
 {"country":"lva","name":"Daugava Daugavpils","id":"FC_Daugava","win":9,"draw":6,"loss":13,"for":33,"against":38},

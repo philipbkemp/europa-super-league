@@ -218,7 +218,7 @@
 {"country":"est-ssr","name":"Järvakandi Kalev","id":"Järvakandi_Kalev","win":5,"draw":1,"loss":10,"for":18,"against":29},
 {"country":"est-ssr","name":"Kiviõli Kalev","id":"Kiviõli_Kalev","win":1,"draw":3,"loss":12,"for":14,"against":58,"isRemoved":true}
 ][
-{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":24,"draw":2,"loss":0,"for":82,"against":13,"isChampion":true},
+{"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"fk_liepajas_metalurgs","win":24,"draw":2,"loss":0,"for":82,"against":13,"isChampion":true},
 {"country":"lva-ssr","name":"RVR","id":"RVR_Riga","win":16,"draw":6,"loss":4,"for":66,"against":21,"isNew":true,"isReturning":true},
 {"country":"lva-ssr","name":"RER","id":"RER_Riga","win":16,"draw":5,"loss":5,"for":63,"against":15},
 {"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":14,"draw":3,"loss":9,"for":44,"against":31},

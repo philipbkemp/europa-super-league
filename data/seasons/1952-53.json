@@ -185,7 +185,7 @@
 	{"country":"pol","name":"Odra Opole","id":"Odra_Opole","win":4,"draw":8,"loss":10,"for":25,"against":38,"isRemoved":true,"isNew":true},
 	{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":2,"draw":8,"loss":12,"for":21,"against":35,"isRemoved":true,"isReturning":true},
 	{"country":"lva","name":"AVN","id":"fk_avn","win":18,"draw":2,"loss":0,"for":97,"against":11,"isChampion":true,"isRemoved":true},
-	{"country":"lva","name":"Sarkanais Metalurgs","id":"FK_Liepājas_Metalurgs","win":17,"draw":2,"loss":1,"for":56,"against":11},
+	{"country":"lva","name":"Sarkanais Metalurgs","id":"fk_liepajas_metalurgs","win":17,"draw":2,"loss":1,"for":56,"against":11},
 	{"country":"lva","name":"Spartak Riga","id":"Spartak_Riga","win":11,"draw":3,"loss":6,"for":31,"against":23,"isReturning":true,"isRemoved":true},
 	{"country":"lva","name":"Vulkans","id":"Vulkans","win":10,"draw":2,"loss":8,"for":48,"against":29},
 	{"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":9,"draw":3,"loss":8,"for":57,"against":31},

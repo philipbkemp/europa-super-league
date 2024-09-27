@@ -266,7 +266,7 @@
 ][
 {"country":"lva-ssr","name":"Forums Skonto","id":"Skonto_FC","win":15,"draw":2,"loss":1,"for":33,"against":7,"isChampion":true,"isNew":true},
 {"country":"lva-ssr","name":"Pārdaugava","id":"FK_Pārdaugava","win":12,"draw":2,"loss":4,"for":38,"against":13,"isReturning":true},
-{"country":"lva-ssr","name":"Olimpija","id":"FK_Liepājas_Metalurgs","win":10,"draw":5,"loss":3,"for":34,"against":13,"isReturning":true,"isRemoved":true},
+{"country":"lva-ssr","name":"Olimpija","id":"fk_liepajas_metalurgs","win":10,"draw":5,"loss":3,"for":34,"against":13,"isReturning":true,"isRemoved":true},
 {"country":"lva-ssr","name":"Celtnieks Daugavpils","id":"Dinaburg_FC","win":10,"draw":2,"loss":6,"for":39,"against":20},
 {"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":5,"draw":7,"loss":6,"for":18,"against":19},
 {"country":"lva-ssr","name":"Gauja","id":"FK_Gauja","win":6,"draw":4,"loss":8,"for":21,"against":33},

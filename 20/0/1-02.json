@@ -236,7 +236,7 @@
 ][
 {"country":"lva","name":"Skonto","id":"Skonto_FC","win":22,"draw":2,"loss":4,"for":94,"against":26,"isChampion":true},
 {"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":22,"draw":1,"loss":5,"for":69,"against":21},
-{"country":"lva","name":"Liepājas Metalurgs","id":"FK_Liepājas_Metalurgs","win":20,"draw":4,"loss":4,"for":60,"against":24},
+{"country":"lva","name":"Liepājas Metalurgs","id":"fk_liepajas_metalurgs","win":20,"draw":4,"loss":4,"for":60,"against":24},
 {"country":"lva","name":"Dinaburg","id":"Dinaburg_FC","win":15,"draw":5,"loss":8,"for":60,"against":29},
 {"country":"lva","name":"PFK Daugava","id":"Policijas_FK","win":12,"draw":2,"loss":14,"for":37,"against":38},
 {"country":"lva","name":"Valmiera","id":"Valmiera_FC","win":5,"draw":4,"loss":19,"for":28,"against":56},
