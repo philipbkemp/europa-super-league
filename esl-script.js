@@ -562,7 +562,7 @@ if ( typeof(winners) !== "undefined" ) {
 		countryOrder[ countryOrder.findIndex(c=>{return c[0]===w[2];}) ][1]++;
 
 		winningCountries[ w[2] ].push( [ w[0],w[1] ] );
-		winningClubs[ w[3] ].push( [ w[0],w[1] ] );
+		winningClubs[ w[3] ].push( [ w[0],w[1],w[2] ] );
 	});
 
 	clubOrder.sort(function(a,b){
@@ -583,7 +583,22 @@ if ( typeof(winners) !== "undefined" ) {
 
 		flag = $("<TD></TD>").append(
 			$("<IMG />").attr("src","flags/"+wc[0][2]+".png").attr("alt",countries[wc[0][2].toLowerCase()]).attr("data-bs-toggle","tooltip").attr("data-bs-title",countries[wc[0][2].toLowerCase()])
-		);
+		);;
+
+		if ( multiCountryClubs.indexOf(wc[0][3]) !== -1 ) {
+			flagsWon = [];
+			flagsWon.push(wc[0][2]);
+			for ( i=1 ; i!==wc.length ; i++ ) {
+				if ( flagsWon.indexOf(wc[i][2]) === -1 ) {
+					console.log(wc[0],"ALSO",wc[i][2]);
+					 flag.append(
+						$("<IMG />").addClass("ms-1").attr("src","flags/"+wc[i][2]+".png").attr("alt",countries[wc[i][2].toLowerCase()]).attr("data-bs-toggle","tooltip").attr("data-bs-title",countries[wc[i][2].toLowerCase()])
+					);
+					flagsWon.push(wc[i][2]);
+				}
+			}
+		}
+
 		teamRow.append(flag);
 
 		teamName = $("<TH></TH>");
