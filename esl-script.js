@@ -27,6 +27,7 @@ const countries = {
 	"lva": "Latvia",
 	"mlt": "Malta",
 	"nir": "Northern Ireland",
+	"nld": "Netherlands",
 	"pol": "Poland",
 	"prt": "Portugal",
 	"pse": "Palestine",
@@ -590,7 +591,6 @@ if ( typeof(winners) !== "undefined" ) {
 			flagsWon.push(wc[0][2]);
 			for ( i=1 ; i!==wc.length ; i++ ) {
 				if ( flagsWon.indexOf(wc[i][2]) === -1 ) {
-					console.log(wc[0],"ALSO",wc[i][2]);
 					 flag.append(
 						$("<IMG />").addClass("ms-1").attr("src","flags/"+wc[i][2]+".png").attr("alt",countries[wc[i][2].toLowerCase()]).attr("data-bs-toggle","tooltip").attr("data-bs-title",countries[wc[i][2].toLowerCase()])
 					);
