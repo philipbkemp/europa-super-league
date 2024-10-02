@@ -189,7 +189,7 @@
 	{"country":"aut","name":"Kremser SC","id":"Kremser_SC","win":8,"draw":4,"loss":14,"for":39,"against":67},
 	{"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":7,"draw":3,"loss":16,"for":42,"against":81,"isRemoved":true},
 	{"country":"aut","name":"FC Wien","id":"FC_Wien","win":3,"draw":6,"loss":17,"for":26,"against":70,"isReturning":true,"isRemoved":true},
-	{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":5,"draw":0,"loss":0,"for":14,"against":2,"isChampion":true},
+	{"country":"isl","name":"ÍA","id":"iprottabandalag_akraness","win":5,"draw":0,"loss":0,"for":14,"against":2,"isChampion":true},
 	{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":3,"draw":1,"loss":1,"for":7,"against":3},
 	{"country":"isl","name":"Valur","id":"valur","win":2,"draw":2,"loss":1,"for":11,"against":7},
 	{"country":"isl","name":"ÍBH","id":"Íþróttabandalag_Hafnarfjarðar","win":1,"draw":1,"loss":3,"for":5,"against":9,"isNew":true},

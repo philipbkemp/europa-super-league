@@ -227,7 +227,7 @@
 {"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":9,"draw":11,"loss":16,"for":39,"against":60,"isReturning":true},
 {"country":"aut","name":"Austria Klagenfurt","id":"FC_Kärnten","win":6,"draw":11,"loss":19,"for":30,"against":66,"isRemoved":true}
 ][
-{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":8,"draw":3,"loss":3,"for":29,"against":14,"isChampion":true},
+{"country":"isl","name":"ÍA","id":"iprottabandalag_akraness","win":8,"draw":3,"loss":3,"for":29,"against":14,"isChampion":true},
 {"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":8,"draw":1,"loss":5,"for":20,"against":17},
 {"country":"isl","name":"Valur","id":"valur","win":6,"draw":4,"loss":4,"for":20,"against":17},
 {"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":6,"draw":3,"loss":5,"for":17,"against":12},

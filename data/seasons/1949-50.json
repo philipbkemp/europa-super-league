@@ -174,7 +174,7 @@
 	{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":2,"draw":1,"loss":1,"for":12,"against":9},
 	{"country":"isl","name":"Valur","id":"valur","win":1,"draw":2,"loss":1,"for":6,"against":6},
 	{"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":2,"draw":0,"loss":2,"for":7,"against":8},
-	{"country":"isl","name":"ÍA","id":"Íþróttabandalag_Akraness","win":0,"draw":2,"loss":2,"for":5,"against":9,"isReturning":true},
+	{"country":"isl","name":"ÍA","id":"iprottabandalag_akraness","win":0,"draw":2,"loss":2,"for":5,"against":9,"isReturning":true},
 	{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":16,"draw":1,"loss":5,"for":51,"against":17,"isChampion":true},
 	{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":14,"draw":4,"loss":4,"for":50,"against":24},
 	{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":11,"draw":4,"loss":7,"for":52,"against":37},
