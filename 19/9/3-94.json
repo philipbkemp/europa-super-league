@@ -39,7 +39,7 @@
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":15,"draw":20,"loss":9,"for":51,"against":38},
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":16,"draw":15,"loss":13,"for":53,"against":48},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":11,"draw":20,"loss":13,"for":47,"against":48},
-{"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":11,"draw":20,"loss":13,"for":37,"against":43},
+{"country":"sco","name":"Heart of Midlothian","id":"heart_of_midlothian_fc","win":11,"draw":20,"loss":13,"for":37,"against":43},
 {"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":12,"draw":16,"loss":16,"for":36,"against":45,"isReturning":true},
 {"country":"sco","name":"Partick Thistle","id":"Partick_Thistle_F.C.","win":12,"draw":16,"loss":16,"for":46,"against":57},
 {"country":"sco","name":"St Johnstone","id":"St_Johnstone_F.C.","win":10,"draw":20,"loss":14,"for":35,"against":47,"isRemoved":true},

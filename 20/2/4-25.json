@@ -613,7 +613,7 @@
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":1,"draw":2,"loss":2,"for":5,"against":8,"isCurrentSeason":true},
 {"country":"sco","name":"St Johnstone","id":"St_Johnstone_F.C.","win":1,"draw":1,"loss":4,"for":8,"against":11,"isCurrentSeason":true},
 {"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":0,"draw":2,"loss":3,"for":3,"against":12,"isCurrentSeason":true},
-{"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":0,"draw":1,"loss":5,"for":3,"against":11,"isCurrentSeason":true},
+{"country":"sco","name":"Heart of Midlothian","id":"heart_of_midlothian_fc","win":0,"draw":1,"loss":5,"for":3,"against":11,"isCurrentSeason":true},
 {"country":"smr","name":"La Fiorita","id":"SP_La_Fiorita","win":2,"draw":1,"loss":0,"for":12,"against":4,"isCurrentSeason":true},
 {"country":"smr","name":"Murata","id":"SS_Murata","win":2,"draw":1,"loss":0,"for":7,"against":3,"isCurrentSeason":true},
 {"country":"smr","name":"Fiorentino","id":"FC_Fiorentino","win":2,"draw":1,"loss":0,"for":3,"against":1,"isCurrentSeason":true},

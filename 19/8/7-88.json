@@ -37,7 +37,7 @@
 {"country":"dnk","name":"Randers Freja","id":"Randers_Sportsklub_Freja","win":2,"draw":4,"loss":20,"for":28,"against":74,"isRemoved":true,"isReturning":true}
 ][
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":31,"draw":10,"loss":3,"for":79,"against":23,"isChampion":true},
-{"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":23,"draw":16,"loss":5,"for":74,"against":32},
+{"country":"sco","name":"Heart of Midlothian","id":"heart_of_midlothian_fc","win":23,"draw":16,"loss":5,"for":74,"against":32},
 {"country":"sco","name":"Rangers","id":"rangers_fc","win":26,"draw":8,"loss":10,"for":85,"against":34},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":21,"draw":17,"loss":6,"for":56,"against":25},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":16,"draw":15,"loss":13,"for":54,"against":47},

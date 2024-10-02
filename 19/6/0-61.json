@@ -41,7 +41,7 @@
 {"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":15,"draw":9,"loss":10,"for":64,"against":46},
 {"country":"sco","name":"Motherwell","id":"Motherwell_F.C.","win":15,"draw":8,"loss":11,"for":70,"against":57},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":14,"draw":8,"loss":12,"for":72,"against":72},
-{"country":"sco","name":"Hearts","id":"Heart_of_Midlothian_F.C.","win":13,"draw":8,"loss":13,"for":51,"against":53},
+{"country":"sco","name":"Hearts","id":"heart_of_midlothian_fc","win":13,"draw":8,"loss":13,"for":51,"against":53},
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":15,"draw":4,"loss":15,"for":66,"against":69},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":13,"draw":7,"loss":14,"for":60,"against":58,"isReturning":true},
 {"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":13,"draw":6,"loss":15,"for":61,"against":53},

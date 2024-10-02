@@ -30,7 +30,7 @@
 	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":15,"draw":3,"loss":0,"for":56,"against":13,"isChampion":true},
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":13,"draw":3,"loss":2,"for":71,"against":15},
 	{"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":10,"draw":2,"loss":6,"for":47,"against":29},
-	{"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":8,"draw":4,"loss":6,"for":54,"against":33},
+	{"country":"sco","name":"Heart of Midlothian","id":"heart_of_midlothian_fc","win":8,"draw":4,"loss":6,"for":54,"against":33},
 	{"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":8,"draw":2,"loss":8,"for":30,"against":36},
 	{"country":"sco","name":"Third Lanark","id":"Third_Lanark_A.C.","win":8,"draw":2,"loss":8,"for":37,"against":38},
 	{"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":5,"draw":3,"loss":10,"for":29,"against":36},

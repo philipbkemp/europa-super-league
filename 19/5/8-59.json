@@ -36,7 +36,7 @@
 {"country":"dnk","name":"Boldklubben af 1893","id":"Boldklubben_af_1893","win":2,"draw":2,"loss":18,"for":27,"against":62,"isReturning":true,"isRemoved":true}
 ][
 {"country":"sco","name":"Rangers","id":"rangers_fc","win":21,"draw":8,"loss":5,"for":92,"against":51,"isChampion":true},
-{"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":21,"draw":6,"loss":7,"for":92,"against":51},
+{"country":"sco","name":"Heart of Midlothian","id":"heart_of_midlothian_fc","win":21,"draw":6,"loss":7,"for":92,"against":51},
 {"country":"sco","name":"Motherwell","id":"Motherwell_F.C.","win":18,"draw":8,"loss":8,"for":83,"against":50},
 {"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":16,"draw":9,"loss":9,"for":61,"against":51},
 {"country":"sco","name":"Airdrieonians","id":"Airdrieonians_F.C._(1878)","win":15,"draw":7,"loss":12,"for":64,"against":62},

@@ -30,7 +30,7 @@
 	{"country":"eir","name":"YMCA","id":"YMCA_F.C._(Belfast)","win":0,"draw":1,"loss":8,"for":14,"against":40,"isRemoved":true,"removedNote":"Withdrew","isNew":true},
 	{"country":"sco","name":"Dumbarton","id":"Dumbarton_F.C.","win":18,"draw":1,"loss":3,"for":79,"against":28,"isChampion":true},
 	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":16,"draw":3,"loss":3,"for":62,"against":21},
-	{"country":"sco","name":"Heart of Midlothian","id":"Heart_of_Midlothian_F.C.","win":15,"draw":4,"loss":3,"for":65,"against":35},
+	{"country":"sco","name":"Heart of Midlothian","id":"heart_of_midlothian_fc","win":15,"draw":4,"loss":3,"for":65,"against":35},
 	{"country":"sco","name":"Leith Athletic","id":"Leith_Athletic_F.C.","win":12,"draw":1,"loss":9,"for":51,"against":40,"isNew":true},
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":11,"draw":2,"loss":9,"for":59,"against":46},
 	{"country":"sco","name":"Renton","id":"Renton_F.C.","win":8,"draw":5,"loss":9,"for":38,"against":44},
