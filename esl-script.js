@@ -6,7 +6,6 @@ const countries = {
 	"che": "Switzerland",
 	"csk": "Czechoslovakia",
 	"cyp": "Cyprus",
-	// cze has 2 clubs waiting for this country to be activated
 	"ede": "East Germany",
 	"eir": "Ireland",
 	"eng": "England",
@@ -29,6 +28,7 @@ const countries = {
 	"mlt": "Malta",
 	"nir": "Northern Ireland",
 	"nld": "Netherlands",
+	"nor": "Norway",
 	"pol": "Poland",
 	"prt": "Portugal",
 	"pse": "Palestine",
@@ -279,7 +279,7 @@ if ( $("h1 .placeholder").length !== 0 ) {
 	}
 
 	if ( data.length !== $("tr[id]").length ) {
-		console.error("Something's wrong...");
+		console.error("Something's wrong...",data.length,$("tr[id]").length);
 	}
 } else {
 	saveClubs();
