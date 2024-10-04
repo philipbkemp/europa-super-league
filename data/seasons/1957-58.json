@@ -222,7 +222,7 @@
 	{"country":"lva","name":"RER","id":"RER_Riga","win":9,"draw":3,"loss":6,"for":28,"against":21},
 	{"country":"lva","name":"RVR","id":"RVR_Riga","win":6,"draw":6,"loss":6,"for":23,"against":21},
 	{"country":"lva","name":"Vulkans","id":"Vulkans","win":7,"draw":4,"loss":7,"for":22,"against":27},
-	{"country":"lva","name":"ASK","id":"FK_ASK","win":7,"draw":3,"loss":8,"for":35,"against":30},
+	{"country":"lva","name":"ASK","id":"fk_ask","win":7,"draw":3,"loss":8,"for":35,"against":30},
 	{"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":6,"draw":5,"loss":7,"for":30,"against":27},
 	{"country":"lva","name":"Lokomotive","id":"Lokomotive_Riga","win":7,"draw":2,"loss":9,"for":25,"against":32},
 	{"country":"lva","name":"Rezekne","id":"SK_Blāzma","win":5,"draw":4,"loss":9,"for":18,"against":26},

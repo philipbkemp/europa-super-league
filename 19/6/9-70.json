@@ -270,7 +270,7 @@
 {"country":"lva-ssr","name":"Venta","id":"FK_Venta","win":20,"draw":3,"loss":3,"for":45,"against":16,"isChampion":true},
 {"country":"lva-ssr","name":"Energija","id":"FK_Apgaismes_tehnika","win":17,"draw":6,"loss":3,"for":55,"against":28},
 {"country":"lva-ssr","name":"Elektrons","id":"FK_Alfa","win":12,"draw":9,"loss":5,"for":45,"against":20},
-{"country":"lva-ssr","name":"ASK","id":"FK_ASK","win":13,"draw":6,"loss":7,"for":43,"against":23},
+{"country":"lva-ssr","name":"ASK","id":"fk_ask","win":13,"draw":6,"loss":7,"for":43,"against":23},
 {"country":"lva-ssr","name":"Starts","id":"FK_Starts","win":13,"draw":5,"loss":8,"for":42,"against":27},
 {"country":"lva-ssr","name":"Pilots","id":"Pilots_Rīga","win":12,"draw":5,"loss":9,"for":29,"against":35},
 {"country":"lva-ssr","name":"Lielupe","id":"Lielupe,_Latvia","win":10,"draw":6,"loss":10,"for":30,"against":26,"isNew":true},

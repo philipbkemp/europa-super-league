@@ -201,7 +201,7 @@
 	{"country":"lva","name":"Darba Rezerves","id":"Darba_Rezerves","win":16,"draw":0,"loss":2,"for":61,"against":16,"isChampion":true,"isRemoved":true},
 	{"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":12,"draw":1,"loss":5,"for":40,"against":22},
 	{"country":"lva","name":"RER","id":"RER_Riga","win":11,"draw":2,"loss":5,"for":40,"against":12},
-	{"country":"lva","name":"ASK","id":"FK_ASK","win":10,"draw":2,"loss":6,"for":30,"against":26,"isReturning":true},
+	{"country":"lva","name":"ASK","id":"fk_ask","win":10,"draw":2,"loss":6,"for":30,"against":26,"isReturning":true},
 	{"country":"lva","name":"Sarkanais Metalurgs","id":"fk_liepajas_metalurgs","win":9,"draw":3,"loss":6,"for":25,"against":15},
 	{"country":"lva","name":"Vulkans","id":"Vulkans","win":8,"draw":0,"loss":10,"for":36,"against":32},
 	{"country":"lva","name":"Varpa","id":"FK_Gauja","win":4,"draw":3,"loss":11,"for":29,"against":48,"isReturning":true},

@@ -221,7 +221,7 @@
 	{"country":"lva","name":"RVR","id":"RVR_Riga","win":10,"draw":4,"loss":4,"for":35,"against":21},
 	{"country":"lva","name":"Tosmares c","id":"Tosmares_c","win":10,"draw":4,"loss":4,"for":26,"against":23,"isNew":true},
 	{"country":"lva","name":"Dinamo Rīga","id":"Dinamo_Riga","win":9,"draw":5,"loss":4,"for":30,"against":19},
-	{"country":"lva","name":"ASK","id":"FK_ASK","win":9,"draw":4,"loss":5,"for":24,"against":20},
+	{"country":"lva","name":"ASK","id":"fk_ask","win":9,"draw":4,"loss":5,"for":24,"against":20},
 	{"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":9,"draw":2,"loss":7,"for":15,"against":19},
 	{"country":"lva","name":"RER","id":"RER_Riga","win":8,"draw":2,"loss":8,"for":18,"against":16},
 	{"country":"lva","name":"Vulkans","id":"Vulkans","win":6,"draw":4,"loss":8,"for":22,"against":23},

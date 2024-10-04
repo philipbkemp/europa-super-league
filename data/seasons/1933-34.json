@@ -169,7 +169,7 @@
 	{"country":"est","name":"Narva THK","id":"Narva_THK","win":1,"draw":0,"loss":9,"for":10,"against":37,"isRemoved":true},
 	{"country":"lva","name":"Olimpija","id":"olimpia_liepaja","win":10,"draw":2,"loss":2,"for":37,"against":17,"isChampion":true},
 	{"country":"lva","name":"RFK","id":"RFK_Riga","win":9,"draw":2,"loss":3,"for":38,"against":21},
-	{"country":"lva","name":"ASK","id":"FK_ASK","win":8,"draw":1,"loss":5,"for":32,"against":17},
+	{"country":"lva","name":"ASK","id":"fk_ask","win":8,"draw":1,"loss":5,"for":32,"against":17},
 	{"country":"lva","name":"Riga Wanderer","id":"Riga_Vanderer","win":8,"draw":1,"loss":5,"for":23,"against":20},
 	{"country":"lva","name":"JKS","id":"JKS_Riga","win":5,"draw":1,"loss":8,"for":21,"against":23},
 	{"country":"lva","name":"Union","id":"Union_Riga","win":4,"draw":3,"loss":7,"for":24,"against":33},

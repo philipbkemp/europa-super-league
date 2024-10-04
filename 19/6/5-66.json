@@ -253,7 +253,7 @@
 {"country":"est-ssr","name":"Valga Kalev","id":"BC_Valga-Valka","win":2,"draw":3,"loss":13,"for":14,"against":29,"isRemoved":true},
 {"country":"est-ssr","name":"EAT Tallinn","id":"EAT_Tallinn","win":1,"draw":2,"loss":15,"for":11,"against":72,"isRemoved":true,"isReturning":true}
 ][
-{"country":"lva-ssr","name":"ASK","id":"FK_ASK","win":20,"draw":6,"loss":0,"for":61,"against":15,"isChampion":true},
+{"country":"lva-ssr","name":"ASK","id":"fk_ask","win":20,"draw":6,"loss":0,"for":61,"against":15,"isChampion":true},
 {"country":"lva-ssr","name":"Ventspils","id":"FK_Ventspils","win":16,"draw":2,"loss":8,"for":37,"against":25,"isReturning":true},
 {"country":"lva-ssr","name":"Pilots","id":"Pilots_Rīga","win":13,"draw":7,"loss":6,"for":37,"against":17,"isReturning":true},
 {"country":"lva-ssr","name":"Daugavpils","id":"Dinaburg_FC","win":14,"draw":5,"loss":7,"for":46,"against":26},

@@ -272,7 +272,7 @@
 {"country":"lva-ssr","name":"Pilots","id":"Pilots_Rīga","win":13,"draw":7,"loss":6,"for":40,"against":27},
 {"country":"lva-ssr","name":"Energija","id":"FK_Apgaismes_tehnika","win":13,"draw":6,"loss":7,"for":48,"against":38},
 {"country":"lva-ssr","name":"Jurnieks","id":"FK_Jūrnieks","win":11,"draw":9,"loss":6,"for":30,"against":22},
-{"country":"lva-ssr","name":"ASK","id":"FK_ASK","win":12,"draw":6,"loss":8,"for":27,"against":30,"isRemoved":true},
+{"country":"lva-ssr","name":"ASK","id":"fk_ask","win":12,"draw":6,"loss":8,"for":27,"against":30,"isRemoved":true},
 {"country":"lva-ssr","name":"Lielupe","id":"Lielupe,_Latvia","win":10,"draw":9,"loss":7,"for":33,"against":28,"isRemoved":true},
 {"country":"lva-ssr","name":"Starts","id":"FK_Starts","win":9,"draw":10,"loss":7,"for":34,"against":31},
 {"country":"lva-ssr","name":"Elektrons","id":"FK_Alfa","win":8,"draw":9,"loss":9,"for":31,"against":27},

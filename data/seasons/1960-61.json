@@ -237,7 +237,7 @@
 	{"country":"est","name":"Türi Jõud","id":"Türi_Jõud","win":5,"draw":3,"loss":10,"for":18,"against":47,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped league"},
 	{"country":"est","name":"Tartu Kalev","id":"FA_Tartu_Kalev","win":3,"draw":3,"loss":12,"for":21,"against":40,"isReturning":true,"isRemoved":true,"removedNote":"Next season is a grouped league"},
 	{"country":"est","name":"Viljandi Jõud","id":"Viljandi_Jõud","win":2,"draw":4,"loss":12,"for":17,"against":65,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"Next season is a grouped league"},
-	{"country":"lva","name":"ASK","id":"FK_ASK","win":19,"draw":2,"loss":1,"for":88,"against":14,"isChampion":true},
+	{"country":"lva","name":"ASK","id":"fk_ask","win":19,"draw":2,"loss":1,"for":88,"against":14,"isChampion":true},
 	{"country":"lva","name":"Pilots","id":"Pilots_Rīga","win":13,"draw":4,"loss":5,"for":44,"against":22},
 	{"country":"lva","name":"RVR","id":"RVR_Riga","win":12,"draw":5,"loss":5,"for":48,"against":34},
 	{"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":10,"draw":7,"loss":5,"for":63,"against":43,"isRemoved":true},

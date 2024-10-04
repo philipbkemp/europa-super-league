@@ -185,7 +185,7 @@
 	{"country":"lva","name":"US","id":"Riga_US","win":7,"draw":2,"loss":5,"for":29,"against":31,"isNew":true},
 	{"country":"lva","name":"Riga Wanderer","id":"Riga_Vanderer","win":6,"draw":2,"loss":6,"for":33,"against":24},
 	{"country":"lva","name":"Hakoah","id":"Hakoah_Riga","win":6,"draw":2,"loss":6,"for":28,"against":25},
-	{"country":"lva","name":"ASK","id":"FK_ASK","win":4,"draw":3,"loss":7,"for":17,"against":20},
+	{"country":"lva","name":"ASK","id":"fk_ask","win":4,"draw":3,"loss":7,"for":17,"against":20},
 	{"country":"lva","name":"JKS","id":"JKS_Riga","win":4,"draw":3,"loss":7,"for":21,"against":34},
 	{"country":"lva","name":"Union","id":"Union_Riga","win":1,"draw":2,"loss":11,"for":12,"against":42,"isRemoved":true},
 	{"country":"nir","name":"Belfast Celtic","id":"Belfast_Celtic_F.C.","win":20,"draw":3,"loss":3,"for":66,"against":23,"isChampion":true},

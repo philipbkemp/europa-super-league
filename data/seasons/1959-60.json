@@ -235,7 +235,7 @@
 	{"country":"est","name":"Viljandi Kalev","id":"Viljandi_Kalev","win":2,"draw":0,"loss":16,"for":11,"against":73,"isRemoved":true,"isNew":true},
 	{"country":"lva","name":"RER","id":"RER_Riga","win":13,"draw":2,"loss":3,"for":40,"against":8,"isChampion":true,"championNote":"Championship decided by playoff matches"},
 	{"country":"lva","name":"Sarkanais Metalurgs","id":"fk_liepajas_metalurgs","win":13,"draw":2,"loss":3,"for":42,"against":18,"isRemoved":true},
-	{"country":"lva","name":"ASK","id":"FK_ASK","win":13,"draw":2,"loss":3,"for":49,"against":8},
+	{"country":"lva","name":"ASK","id":"fk_ask","win":13,"draw":2,"loss":3,"for":49,"against":8},
 	{"country":"lva","name":"RVR","id":"RVR_Riga","win":10,"draw":3,"loss":5,"for":42,"against":20},
 	{"country":"lva","name":"Tosmares c","id":"Tosmares_c","win":8,"draw":3,"loss":7,"for":30,"against":29},
 	{"country":"lva","name":"Pilots","id":"Pilots_Rīga","win":7,"draw":1,"loss":10,"for":30,"against":44,"isNew":true},

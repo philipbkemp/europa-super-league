@@ -152,7 +152,7 @@
 	{"country":"lva","name":"Olimpija","id":"olimpia_liepaja","win":6,"draw":2,"loss":0,"for":27,"against":9,"isChampion":true},
 	{"country":"lva","name":"RFK","id":"RFK_Riga","win":6,"draw":0,"loss":2,"for":31,"against":10},
 	{"country":"lva","name":"Amatieris","id":"Amatieris","win":3,"draw":2,"loss":3,"for":14,"against":14},
-	{"country":"lva","name":"ASK","id":"FK_ASK","win":1,"draw":2,"loss":5,"for":14,"against":25,"isNew":true},
+	{"country":"lva","name":"ASK","id":"fk_ask","win":1,"draw":2,"loss":5,"for":14,"against":25,"isReturning":true},
 	{"country":"lva","name":"LSB","id":"LSB_Rīga","win":1,"draw":0,"loss":7,"for":6,"against":34},
 	{"country":"nir","name":"Linfield","id":"linfield_fc","win":19,"draw":4,"loss":3,"for":94,"against":46,"isChampion":true},
 	{"country":"nir","name":"Glentoran","id":"Glentoran_F.C.","win":16,"draw":4,"loss":6,"for":79,"against":53},

@@ -204,7 +204,7 @@
 	{"country":"lva","name":"RVR","id":"RVR_Riga","win":16,"draw":6,"loss":4,"for":66,"against":21,"isNew":true},
 	{"country":"lva","name":"RER","id":"RER_Riga","win":16,"draw":5,"loss":5,"for":63,"against":15},
 	{"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":14,"draw":3,"loss":9,"for":44,"against":31},
-	{"country":"lva","name":"ASK","id":"FK_ASK","win":13,"draw":4,"loss":9,"for":46,"against":30},
+	{"country":"lva","name":"ASK","id":"fk_ask","win":13,"draw":4,"loss":9,"for":46,"against":30},
 	{"country":"lva","name":"Vulkans","id":"Vulkans","win":13,"draw":4,"loss":9,"for":53,"against":50},
 	{"country":"lva","name":"Lokomotive","id":"Lokomotive_Riga","win":12,"draw":3,"loss":11,"for":65,"against":43,"isReturning":true},
 	{"country":"lva","name":"Rezekne","id":"SK_Blāzma","win":11,"draw":3,"loss":12,"for":29,"against":38,"isNew":true},
