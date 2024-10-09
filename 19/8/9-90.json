@@ -404,7 +404,7 @@
 {"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":16,"draw":9,"loss":5,"for":45,"against":22,"winByThree":3,"lossByThree":0,"isChampion":true},
 {"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":16,"draw":8,"loss":4,"for":56,"against":25,"winByThree":4,"lossByThree":1,"deduct":-2},
 {"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":13,"draw":7,"loss":11,"for":39,"against":27,"winByThree":2,"lossByThree":0},
-{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":11,"draw":8,"loss":12,"for":40,"against":34,"winByThree":2,"lossByThree":0},
+{"country":"alb","name":"17 Nëntori","id":"kf_tirana","win":11,"draw":8,"loss":12,"for":40,"against":34,"winByThree":2,"lossByThree":0},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":11,"draw":9,"loss":11,"for":45,"against":46,"winByThree":1,"lossByThree":1},
 {"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":13,"draw":7,"loss":11,"for":42,"against":46,"winByThree":0,"lossByThree":2,"deduct":-1},
 {"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":11,"draw":5,"loss":12,"for":31,"against":39,"winByThree":2,"lossByThree":3,"isReturning":true},

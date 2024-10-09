@@ -361,7 +361,7 @@
 {"country":"esp","name":"Mallorca","id":"RCD_Mallorca","win":9,"draw":6,"loss":23,"for":40,"against":65,"isRemoved":true,"isReturning":true},
 {"country":"esp","name":"Espanyol","id":"RCD_Espanyol","win":5,"draw":10,"loss":23,"for":27,"against":58,"isRemoved":true}
 ][
-{"country":"alb","name":"Tirana","id":"KF_Tirana","win":21,"draw":7,"loss":8,"for":67,"against":35,"isChampion":true},
+{"country":"alb","name":"Tirana","id":"kf_tirana","win":21,"draw":7,"loss":8,"for":67,"against":35,"isChampion":true},
 {"country":"alb","name":"Kukësi","id":"FK_Kukësi","win":19,"draw":9,"loss":8,"for":59,"against":31},
 {"country":"alb","name":"Laçi","id":"KF_Laçi","win":19,"draw":7,"loss":10,"for":61,"against":34},
 {"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":17,"draw":7,"loss":12,"for":42,"against":43},

@@ -401,7 +401,7 @@
 {"country":"esp","name":"Sabadell","id":"CE_Sabadell_FC","win":9,"draw":11,"loss":18,"for":27,"against":48,"isRemoved":true},
 {"country":"esp","name":"Las Palmas","id":"UD_Las_Palmas","win":12,"draw":5,"loss":21,"for":43,"against":65,"isRemoved":true}
 ][
-{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":18,"draw":12,"loss":6,"for":59,"against":29,"isChampion":true},
+{"country":"alb","name":"17 Nëntori","id":"kf_tirana","win":18,"draw":12,"loss":6,"for":59,"against":29,"isChampion":true},
 {"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":15,"draw":11,"loss":10,"for":55,"against":38},
 {"country":"alb","name":"Labinoti","id":"KF_Elbasani","win":14,"draw":11,"loss":11,"for":31,"against":33},
 {"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":16,"draw":6,"loss":14,"for":51,"against":43},

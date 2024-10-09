@@ -368,7 +368,7 @@
 {"country":"alb","name":"Laçi","id":"KF_Laçi","win":10,"draw":10,"loss":16,"for":23,"against":35},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":8,"draw":16,"loss":12,"for":29,"against":35},
 {"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":12,"draw":10,"loss":14,"for":42,"against":34,"deduct":-6,"deductReason":"Failing to fulfil financial obligations"},
-{"country":"alb","name":"Tirana","id":"KF_Tirana","win":8,"draw":15,"loss":13,"for":29,"against":32,"isRemoved":true},
+{"country":"alb","name":"Tirana","id":"kf_tirana","win":8,"draw":15,"loss":13,"for":29,"against":32,"isRemoved":true},
 {"country":"alb","name":"Korabi","id":"KF_Korabi_Peshkopi","win":2,"draw":7,"loss":27,"for":11,"against":68,"isRemoved":true,"isReturning":true}
 ][
 {"country":"fin","name":"IFK Mariehamn","id":"IFK_Mariehamn","win":17,"draw":10,"loss":6,"for":40,"against":25,"isChampion":true},

@@ -374,7 +374,7 @@
 {"country":"esp","name":"Elche","id":"Elche_CF","win":5,"draw":10,"loss":23,"for":30,"against":67,"isRemoved":true}
 ][
 {"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":20,"draw":7,"loss":9,"for":56,"against":37,"isChampion":true},
-{"country":"alb","name":"Tirana","id":"KF_Tirana","win":20,"draw":7,"loss":9,"for":56,"against":33},
+{"country":"alb","name":"Tirana","id":"kf_tirana","win":20,"draw":7,"loss":9,"for":56,"against":33},
 {"country":"alb","name":"Egnatia","id":"KF_Egnatia","win":14,"draw":10,"loss":12,"for":46,"against":32},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":13,"draw":11,"loss":12,"for":39,"against":37},
 {"country":"alb","name":"Laçi","id":"KF_Laçi","win":14,"draw":6,"loss":16,"for":45,"against":46},

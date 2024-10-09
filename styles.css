@@ -80,3 +80,4 @@ h2 { font-size: 1.5rem; font-weight: normal; }
 h2 img { margin-right: 10px; position: relative; top: -2px; height: 24px; }
 .old-league { color: #c7c8c9; }
 table.newclubs * { background-color: #eee !important; }
+#historyTables .removed td, #historyTables .removed th { border-bottom: 20px solid white; }

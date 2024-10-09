@@ -282,7 +282,7 @@
 	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":14,"draw":2,"loss":0,"for":61,"against":7,"isChampion":true,"isReturning":true},
 	{"country":"alb","name":"Shkodra","id":"KF_Vllaznia_Shkodër","win":12,"draw":2,"loss":2,"for":55,"against":11,"isReturning":true},
 	{"country":"alb","name":"Ylli i Kuq Durrës","id":"KF_Teuta","win":9,"draw":2,"loss":5,"for":25,"against":14,"isReturning":true},
-	{"country":"alb","name":"Tirana","id":"KF_Tirana","win":7,"draw":2,"loss":7,"for":25,"against":19,"isReturning":true},
+	{"country":"alb","name":"Tirana","id":"kf_tirana","win":7,"draw":2,"loss":7,"for":25,"against":19,"isReturning":true},
 	{"country":"alb","name":"Kavaja","id":"KF_Besa_Kavajë","win":7,"draw":2,"loss":7,"for":32,"against":27,"isReturning":true},
 	{"country":"alb","name":"Korça","id":"KF_Skënderbeu_Korçë","win":4,"draw":4,"loss":8,"for":17,"against":41,"isReturning":true},
 	{"country":"alb","name":"Elbasani","id":"KF_Elbasani","win":4,"draw":1,"loss":11,"for":17,"against":41,"isReturning":true},

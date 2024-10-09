@@ -293,7 +293,7 @@
 	{"country":"esp","name":"Condal","id":"CD_Condal","win":7,"draw":8,"loss":15,"for":37,"against":57,"isRemoved":true,"isNew":true},
 	{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":13,"draw":3,"loss":0,"for":35,"against":8,"isChampion":true},
 	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":10,"draw":3,"loss":3,"for":37,"against":10},
-	{"country":"alb","name":"Puna Tiranë","id":"KF_Tirana","win":7,"draw":3,"loss":6,"for":24,"against":19},
+	{"country":"alb","name":"Puna Tiranë","id":"kf_tirana","win":7,"draw":3,"loss":6,"for":24,"against":19},
 	{"country":"alb","name":"Puna Vlorë","id":"Flamurtari_FC","win":6,"draw":4,"loss":6,"for":21,"against":20},
 	{"country":"alb","name":"Puna Korçë","id":"KF_Skënderbeu_Korçë","win":6,"draw":3,"loss":7,"for":20,"against":33},
 	{"country":"alb","name":"Puna Durrës","id":"KF_Teuta","win":6,"draw":1,"loss":9,"for":12,"against":23},

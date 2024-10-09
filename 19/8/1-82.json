@@ -410,7 +410,7 @@
 {"country":"esp","name":"Hércules","id":"Hércules_CF","win":11,"draw":5,"loss":18,"for":41,"against":52,"isRemoved":true},
 {"country":"esp","name":"Castellón","id":"CD_Castellón","win":3,"draw":6,"loss":25,"for":33,"against":82,"isRemoved":true,"isReturning":true}
 ][
-{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":15,"draw":7,"loss":4,"for":42,"against":15,"isChampion":true},
+{"country":"alb","name":"17 Nëntori","id":"kf_tirana","win":15,"draw":7,"loss":4,"for":42,"against":15,"isChampion":true},
 {"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":13,"draw":7,"loss":6,"for":26,"against":12},
 {"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":14,"draw":4,"loss":8,"for":33,"against":19},
 {"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":11,"draw":9,"loss":6,"for":31,"against":18},

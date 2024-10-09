@@ -339,7 +339,7 @@
 	{"country":"esp","name":"Levante","id":"Levante_UD","win":8,"draw":5,"loss":17,"for":37,"against":51,"isRemoved":true},
 	{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":7,"draw":6,"loss":17,"for":22,"against":54,"isRemoved":true},
 	{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":6,"draw":3,"loss":21,"for":18,"against":50,"isRemoved":true,"isReturning":true},
-	{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":13,"draw":5,"loss":4,"for":42,"against":20,"isChampion":true},
+	{"country":"alb","name":"17 Nëntori","id":"kf_tirana","win":13,"draw":5,"loss":4,"for":42,"against":20,"isChampion":true},
 	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":11,"draw":8,"loss":3,"for":31,"against":15},
 	{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":12,"draw":6,"loss":4,"for":36,"against":21},
 	{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":12,"draw":5,"loss":5,"for":33,"against":21},

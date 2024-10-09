@@ -351,7 +351,7 @@
 	{"country":"esp","name":"Sabadell","id":"CE_Sabadell_FC","win":10,"draw":3,"loss":17,"for":30,"against":46,"isReturning":true},
 	{"country":"esp","name":"Mallorca","id":"RCD_Mallorca","win":9,"draw":5,"loss":16,"for":40,"against":55,"isRemoved":true,"isReturning":true},
 	{"country":"esp","name":"Real Betis","id":"Real_Betis","win":7,"draw":9,"loss":14,"for":36,"against":60,"isRemoved":true},
-	{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":18,"draw":2,"loss":2,"for":53,"against":14,"isChampion":true},
+	{"country":"alb","name":"17 Nëntori","id":"kf_tirana","win":18,"draw":2,"loss":2,"for":53,"against":14,"isChampion":true},
 	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":17,"draw":4,"loss":1,"for":45,"against":12},
 	{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":11,"draw":7,"loss":4,"for":40,"against":17},
 	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":7,"draw":9,"loss":6,"for":29,"against":20},

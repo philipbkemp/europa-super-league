@@ -270,7 +270,7 @@
 	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":13,"draw":2,"loss":1,"for":63,"against":9,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
 	{"country":"alb","name":"Dinamo Korça","id":"KF_Skënderbeu_Korçë","win":9,"draw":6,"loss":1,"for":48,"against":16,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
 	{"country":"alb","name":"Ylli i Kuq Durrës","id":"KF_Teuta","win":6,"draw":3,"loss":7,"for":30,"against":25,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
-	{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":5,"draw":4,"loss":7,"for":26,"against":51,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+	{"country":"alb","name":"17 Nëntori","id":"kf_tirana","win":5,"draw":4,"loss":7,"for":26,"against":51,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
 	{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":4,"draw":2,"loss":10,"for":27,"against":48,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
 	{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":3,"draw":3,"loss":10,"for":20,"against":42,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
 	{"country":"alb","name":"Bashkimi Elbasanas","id":"KF_Elbasani","win":2,"draw":4,"loss":10,"for":16,"against":37,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},

@@ -353,7 +353,7 @@
 {"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":9,"draw":10,"loss":19,"for":35,"against":54,"isRemoved":true}
 ][
 {"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":19,"draw":6,"loss":1,"for":55,"against":15,"isChampion":true},
-{"country":"alb","name":"Tirana","id":"KF_Tirana","win":19,"draw":5,"loss":2,"for":52,"against":15},
+{"country":"alb","name":"Tirana","id":"kf_tirana","win":19,"draw":5,"loss":2,"for":52,"against":15},
 {"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":13,"draw":7,"loss":6,"for":41,"against":24,"isReturning":true},
 {"country":"alb","name":"Teuta","id":"KF_Teuta","win":12,"draw":6,"loss":8,"for":31,"against":19},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":12,"draw":4,"loss":10,"for":44,"against":27},

@@ -401,7 +401,7 @@
 {"country":"alb","name":"Lokomotiva Durrës","id":"KF_Teuta","win":7,"draw":9,"loss":10,"for":17,"against":23},
 {"country":"alb","name":"Naftëtari","id":"KF_Naftëtari","win":6,"draw":10,"loss":10,"for":16,"against":24,"isReturning":true},
 {"country":"alb","name":"Besëlidhja","id":"KF_Besëlidhja_Lezhë","win":6,"draw":10,"loss":10,"for":14,"against":23},
-{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":7,"draw":7,"loss":12,"for":21,"against":28},
+{"country":"alb","name":"17 Nëntori","id":"kf_tirana","win":7,"draw":7,"loss":12,"for":21,"against":28},
 {"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":5,"draw":11,"loss":10,"for":13,"against":22,"isRemoved":true}
 ][
 {"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":14,"draw":5,"loss":3,"for":36,"against":21,"isChampion":true},

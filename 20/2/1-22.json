@@ -369,7 +369,7 @@
 {"country":"esp","name":"Levante","id":"Levante_UD","win":8,"draw":11,"loss":19,"for":51,"against":76,"isRemoved":true},
 {"country":"esp","name":"Alavés","id":"Deportivo_Alavés","win":8,"draw":7,"loss":23,"for":31,"against":65,"isRemoved":true}
 ][
-{"country":"alb","name":"Tirana","id":"KF_Tirana","win":22,"draw":7,"loss":7,"for":64,"against":27,"isChampion":true},
+{"country":"alb","name":"Tirana","id":"kf_tirana","win":22,"draw":7,"loss":7,"for":64,"against":27,"isChampion":true},
 {"country":"alb","name":"Laçi","id":"KF_Laçi","win":18,"draw":9,"loss":9,"for":52,"against":33},
 {"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":15,"draw":13,"loss":8,"for":52,"against":30},
 {"country":"alb","name":"Kukësi","id":"FK_Kukësi","win":15,"draw":10,"loss":11,"for":50,"against":44},

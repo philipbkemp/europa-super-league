@@ -292,7 +292,7 @@
 	{"country":"alb","name":"Vlora","id":"Flamurtari_FC","win":5,"draw":3,"loss":8,"for":20,"against":38,"isReturning":true},
 	{"country":"alb","name":"Korça","id":"KF_Skënderbeu_Korçë","win":8,"draw":3,"loss":5,"for":31,"against":24},
 	{"country":"alb","name":"Durrësi","id":"KF_Teuta","win":6,"draw":3,"loss":7,"for":24,"against":31},
-	{"country":"alb","name":"Tirana","id":"KF_Tirana","win":6,"draw":2,"loss":8,"for":34,"against":24},
+	{"country":"alb","name":"Tirana","id":"kf_tirana","win":6,"draw":2,"loss":8,"for":34,"against":24},
 	{"country":"alb","name":"Elbasani","id":"KF_Elbasani","win":5,"draw":3,"loss":8,"for":18,"against":28},
 	{"country":"alb","name":"Fieri","id":"FK_Apolonia_Fier","win":4,"draw":1,"loss":11,"for":25,"against":45},
 	{"country":"alb","name":"Spartak Pogradeci","id":"KS_Pogradeci","win":0,"draw":0,"loss":16,"for":6,"against":99,"isRemoved":true,"isReturning":true},

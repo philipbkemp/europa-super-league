@@ -384,7 +384,7 @@
 {"country":"esp","name":"Tenerife","id":"CD_Tenerife","win":7,"draw":13,"loss":18,"for":41,"against":63,"isRemoved":true},
 {"country":"esp","name":"Salamanca","id":"UD_Salamanca","win":7,"draw":6,"loss":25,"for":29,"against":66,"isRemoved":true}
 ][
-{"country":"alb","name":"Tirana","id":"KF_Tirana","win":18,"draw":7,"loss":5,"for":48,"against":20,"isChampion":true},
+{"country":"alb","name":"Tirana","id":"kf_tirana","win":18,"draw":7,"loss":5,"for":48,"against":20,"isChampion":true},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":18,"draw":6,"loss":6,"for":57,"against":18},
 {"country":"alb","name":"Bylis","id":"KF_Bylis","win":18,"draw":5,"loss":7,"for":51,"against":19},
 {"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":13,"draw":7,"loss":10,"for":31,"against":25},

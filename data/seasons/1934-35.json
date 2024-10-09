@@ -253,7 +253,7 @@
 	{"country":"esp","name":"Racing Santander","id":"Racing_de_Santander","win":7,"draw":3,"loss":12,"for":37,"against":46},
 	{"country":"esp","name":"Donostia","id":"Real_Sociedad","win":5,"draw":1,"loss":16,"for":28,"against":67,"isRemoved":true},
 	{"country":"esp","name":"Arenas","id":"Arenas_Club_de_Getxo","win":3,"draw":3,"loss":16,"for":17,"against":56,"isRemoved":true},
-	{"country":"alb","name":"Tirana","id":"KF_Tirana","win":10,"draw":1,"loss":1,"for":54,"against":8,"isChampion":true,"isRemoved":true,"removedNote":"League not contested next season"},
+	{"country":"alb","name":"Tirana","id":"kf_tirana","win":10,"draw":1,"loss":1,"for":54,"against":8,"isChampion":true,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":8,"draw":2,"loss":2,"for":27,"against":8,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"alb","name":"Bashkimi Shkodran","id":"KF_Vllaznia_Shkodër","win":8,"draw":1,"loss":3,"for":25,"against":11,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"alb","name":"Teuta","id":"KF_Teuta","win":6,"draw":0,"loss":6,"for":18,"against":23,"isRemoved":true,"removedNote":"League not contested next season"},

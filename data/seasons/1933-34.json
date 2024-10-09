@@ -229,7 +229,7 @@
 	{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":5,"draw":2,"loss":1,"for":18,"against":6,"isChampion":true},
 	{"country":"alb","name":"Bashkimi Shkodran","id":"KF_Vllaznia_Shkodër","win":5,"draw":0,"loss":3,"for":14,"against":9},
 	{"country":"alb","name":"Teuta","id":"KF_Teuta","win":3,"draw":2,"loss":3,"for":12,"against":10},
-	{"country":"alb","name":"Tirana","id":"KF_Tirana","win":3,"draw":2,"loss":3,"for":14,"against":12},
+	{"country":"alb","name":"Tirana","id":"kf_tirana","win":3,"draw":2,"loss":3,"for":14,"against":12},
 	{"country":"alb","name":"Kavaja","id":"KF_Besa_Kavajë","win":1,"draw":0,"loss":7,"for":5,"against":26,"isNew":true},
 	{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":13,"draw":1,"loss":0,"for":67,"against":13,"isChampion":true},
 	{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":5,"draw":6,"loss":3,"for":20,"against":14,"isReturning":true},

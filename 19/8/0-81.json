@@ -409,7 +409,7 @@
 ][
 {"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":15,"draw":7,"loss":4,"for":36,"against":17,"isChampion":true},
 {"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":14,"draw":8,"loss":4,"for":32,"against":17},
-{"country":"alb","name":"17 Nëntori","id":"KF_Tirana","win":14,"draw":7,"loss":5,"for":38,"against":21},
+{"country":"alb","name":"17 Nëntori","id":"kf_tirana","win":14,"draw":7,"loss":5,"for":38,"against":21},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":9,"draw":9,"loss":8,"for":30,"against":33},
 {"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":10,"draw":5,"loss":11,"for":25,"against":24},
 {"country":"alb","name":"Naftëtari","id":"KF_Naftëtari","win":10,"draw":5,"loss":11,"for":24,"against":32},

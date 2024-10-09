@@ -368,7 +368,7 @@
 {"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":17,"draw":4,"loss":15,"for":45,"against":30},
 {"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":15,"draw":9,"loss":12,"for":35,"against":32},
 {"country":"alb","name":"Laçi","id":"KF_Laçi","win":12,"draw":13,"loss":11,"for":33,"against":30},
-{"country":"alb","name":"Tirana","id":"KF_Tirana","win":12,"draw":11,"loss":13,"for":44,"against":35,"isReturning":true},
+{"country":"alb","name":"Tirana","id":"kf_tirana","win":12,"draw":11,"loss":13,"for":44,"against":35,"isReturning":true},
 {"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":13,"draw":8,"loss":15,"for":37,"against":39},
 {"country":"alb","name":"Kastrioti","id":"KF_Kastrioti_Krujë","win":12,"draw":6,"loss":18,"for":35,"against":53,"isRemoved":true,"isReturning":true},
 {"country":"alb","name":"Kamza","id":"FC_Kamza","win":4,"draw":5,"loss":27,"for":13,"against":66,"isRemoved":true}

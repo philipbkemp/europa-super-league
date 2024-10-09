@@ -352,7 +352,7 @@
 {"country":"esp","name":"Celta de Vigo","id":"RC_Celta_de_Vigo","win":9,"draw":12,"loss":17,"for":48,"against":68,"isRemoved":true},
 {"country":"esp","name":"Murcia","id":"Real_Murcia_CF","win":5,"draw":11,"loss":22,"for":29,"against":57,"isRemoved":true,"isReturning":true}
 ][
-{"country":"alb","name":"Tirana","id":"KF_Tirana","win":24,"draw":8,"loss":4,"for":90,"against":36,"isChampion":true},
+{"country":"alb","name":"Tirana","id":"kf_tirana","win":24,"draw":8,"loss":4,"for":90,"against":36,"isChampion":true},
 {"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":21,"draw":8,"loss":7,"for":68,"against":39},
 {"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":21,"draw":5,"loss":10,"for":77,"against":51},
 {"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":20,"draw":7,"loss":9,"for":65,"against":39},
