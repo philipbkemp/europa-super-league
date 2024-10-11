@@ -286,7 +286,7 @@
 	{"country":"ltu","name":"Atletas Kaunas","id":"FK_Atletas_Kaunas","win":7,"draw":11,"loss":10,"for":36,"against":42},
 	{"country":"ltu","name":"Cementininkas N.Akmene","id":"Cementininkas_N.Akmene","win":7,"draw":10,"loss":11,"for":26,"against":48,"isNew":true,"isRemoved":true},
 	{"country":"ltu","name":"Minija Kretinga","id":"FK_Minija_Kretinga","win":7,"draw":6,"loss":15,"for":30,"against":40},
-	{"country":"ltu","name":"Baltija Klaipeda","id":"Baltija_Klaipėda","win":5,"draw":9,"loss":14,"for":31,"against":37,"isRemoved":true},
+	{"country":"ltu","name":"Baltija Klaipeda","id":"Baltija_Klaipėda","win":5,"draw":9,"loss":14,"for":31,"against":37},
 	{"country":"ltu","name":"Elektra Mazeikiai","id":"Elektra_Mazeikiai","win":1,"draw":1,"loss":26,"for":9,"against":80,"isRemoved":true},
 	{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":18,"draw":6,"loss":6,"for":51,"against":29,"isChampion":true},
 	{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":15,"draw":10,"loss":5,"for":42,"against":21},
