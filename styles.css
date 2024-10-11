@@ -81,3 +81,9 @@ h2 img { margin-right: 10px; position: relative; top: -2px; height: 24px; }
 .old-league { color: #c7c8c9; }
 table.newclubs * { background-color: #eee !important; }
 #historyTables .removed td, #historyTables .removed th { border-bottom: 20px solid white; }
+@media (min-width: 992px) {
+    .row-cols-lg-10>* {
+        flex: 0 0 auto;
+        width: 10%;
+    }
+}
