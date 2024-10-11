@@ -582,6 +582,7 @@ if ( typeof(winners) !== "undefined" ) {
 		wc = winningClubs[c[0]];
 
 		pos = $("<TD></TD>").html( club.children().length );
+		pos.addClass("d-none").addClass("d-sm-table-cell");
 		teamRow.append(pos);
 
 		flag = $("<TD></TD>").append(
@@ -620,6 +621,7 @@ if ( typeof(winners) !== "undefined" ) {
 			year = $("<A></A>").attr("href",wc[i][0]).html(wc[i][1]).addClass("me-2");
 			years.append(year);
 		}
+		years.addClass("d-none").addClass("d-sm-table-cell");
 		teamRow.append(years);
 
 		club.append(teamRow);
@@ -633,6 +635,7 @@ if ( typeof(winners) !== "undefined" ) {
 		wc = winningCountries[c[0]];
 
 		pos = $("<TD></TD>").html( country.children().length );
+		pos.addClass("d-none").addClass("d-sm-table-cell");
 		teamRow.append(pos);
 		
 		flag = $("<TD></TD>").append(
@@ -651,6 +654,7 @@ if ( typeof(winners) !== "undefined" ) {
 			year = $("<A></A>").attr("href",wc[i][0]).html(wc[i][1]).addClass("me-2");
 			years.append(year);
 		}
+		years.addClass("d-none").addClass("d-sm-table-cell");
 		teamRow.append(years);
 
 		country.append(teamRow);
