@@ -35,7 +35,7 @@
 {"country":"dnk","name":"Boldklubben 1909","id":"Boldklubben_1909","win":6,"draw":4,"loss":12,"for":44,"against":56,"isRemoved":true},
 {"country":"dnk","name":"Esbjerg fB","id":"Esbjerg_fB","win":5,"draw":2,"loss":15,"for":30,"against":49,"isRemoved":true}
 ][
-{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":23,"draw":8,"loss":3,"for":89,"against":32,"isChampion":true},
+{"country":"sco","name":"Celtic","id":"celtic_fc","win":23,"draw":8,"loss":3,"for":89,"against":32,"isChampion":true},
 {"country":"sco","name":"Rangers","id":"rangers_fc","win":21,"draw":7,"loss":6,"for":81,"against":32},
 {"country":"sco","name":"Dunfermline Athletic","id":"Dunfermline_Athletic_F.C.","win":19,"draw":7,"loss":8,"for":63,"against":45},
 {"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":15,"draw":14,"loss":5,"for":50,"against":32},

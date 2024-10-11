@@ -31,7 +31,7 @@
 	{"country":"dnk","name":"Aarhus Gymnastikforening","id":"Aarhus_Gymnastikforening","win":6,"draw":3,"loss":9,"for":21,"against":34},
 	{"country":"dnk","name":"Hellerup IK","id":"Hellerup_IK","win":3,"draw":6,"loss":9,"for":27,"against":38},
 	{"country":"dnk","name":"Esbjerg fB","id":"Esbjerg_fB","win":4,"draw":2,"loss":12,"for":18,"against":54,"isRemoved":true},
-	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":27,"draw":7,"loss":4,"for":114,"against":42,"isChampion":true},
+	{"country":"sco","name":"Celtic","id":"celtic_fc","win":27,"draw":7,"loss":4,"for":114,"against":42,"isChampion":true},
 	{"country":"sco","name":"Heart of Midlothian","id":"heart_of_midlothian_fc","win":26,"draw":6,"loss":6,"for":90,"against":50},
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":18,"draw":13,"loss":7,"for":75,"against":49},
 	{"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":19,"draw":9,"loss":10,"for":82,"against":52},

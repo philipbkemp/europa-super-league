@@ -33,7 +33,7 @@
 {"country":"dnk","name":"Lyngby","id":"Lyngby_Boldklub","win":6,"draw":10,"loss":16,"for":30,"against":49,"isReturning":true},
 {"country":"dnk","name":"AaB","id":"AaB_Fodbold","win":6,"draw":9,"loss":17,"for":34,"against":45,"isRemoved":true}
 ][
-{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":32,"draw":3,"loss":3,"for":114,"against":34,"isChampion":true},
+{"country":"sco","name":"Celtic","id":"celtic_fc","win":32,"draw":3,"loss":3,"for":114,"against":34,"isChampion":true},
 {"country":"sco","name":"Rangers","id":"rangers_fc","win":29,"draw":5,"loss":4,"for":93,"against":37},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":18,"draw":3,"loss":17,"for":56,"against":60},
 {"country":"sco","name":"Heart of Midlothian","id":"heart_of_midlothian_fc","win":15,"draw":9,"loss":14,"for":63,"against":57},

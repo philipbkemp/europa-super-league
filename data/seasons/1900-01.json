@@ -29,7 +29,7 @@
 	{"country":"eir","name":"Linfield","id":"linfield_fc","win":3,"draw":2,"loss":5,"for":10,"against":12},
 	{"country":"eir","name":"Derry Celtic","id":"Derry_Celtic_F.C.","win":0,"draw":1,"loss":9,"for":12,"against":43,"isNew":true},
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":17,"draw":1,"loss":2,"for":60,"against":25,"isChampion":true},
-	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":13,"draw":3,"loss":4,"for":49,"against":28},
+	{"country":"sco","name":"Celtic","id":"celtic_fc","win":13,"draw":3,"loss":4,"for":49,"against":28},
 	{"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":9,"draw":7,"loss":4,"for":29,"against":22},
 	{"country":"sco","name":"Morton","id":"Greenock_Morton_F.C.","win":9,"draw":3,"loss":8,"for":40,"against":40,"isNew":true},
 	{"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":7,"draw":4,"loss":9,"for":35,"against":47},

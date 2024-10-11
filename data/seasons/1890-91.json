@@ -28,7 +28,7 @@
 	{"country":"eir","name":"Milford","id":"Milford_F.C.","win":0,"draw":0,"loss":14,"for":10,"against":61,"isRemoved":true,"isNew":true},
 	{"country":"sco","name":"Dumbarton","id":"Dumbarton_F.C.","win":13,"draw":3,"loss":2,"for":61,"against":21,"isChampion":true,"championNote":"Joint domestic champion","isNew":true},
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":13,"draw":3,"loss":2,"for":58,"against":25,"isChampion":true,"championNote":"Joint domestic champion","isNew":true},
-	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":11,"draw":3,"loss":4,"for":48,"against":21,"deduct":-3,"deductReason":"Fielding ineligible player","isNew":true},
+	{"country":"sco","name":"Celtic","id":"celtic_fc","win":11,"draw":3,"loss":4,"for":48,"against":21,"deduct":-3,"deductReason":"Fielding ineligible player","isNew":true},
 	{"country":"sco","name":"Cambuslang","id":"Cambuslang_F.C.","win":8,"draw":4,"loss":6,"for":47,"against":42,"isNew":true},
 	{"country":"sco","name":"3rd LRV","id":"Third_Lanark_A.C.","win":8,"draw":3,"loss":7,"for":38,"against":39,"deduct":-3,"deductReason":"Fielding ineligible player","isNew":true},
 	{"country":"sco","name":"Heart of Midlothian","id":"heart_of_midlothian_fc","win":6,"draw":2,"loss":10,"for":31,"against":37,"isNew":true},

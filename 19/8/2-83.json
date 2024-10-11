@@ -40,7 +40,7 @@
 {"country":"dnk","name":"Kolding IF","id":"Kolding_IF","win":5,"draw":6,"loss":19,"for":24,"against":43,"isRemoved":true}
 ][
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":24,"draw":8,"loss":4,"for":90,"against":35,"isChampion":true},
-{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":25,"draw":5,"loss":6,"for":90,"against":36},
+{"country":"sco","name":"Celtic","id":"celtic_fc","win":25,"draw":5,"loss":6,"for":90,"against":36},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":25,"draw":5,"loss":6,"for":76,"against":25},
 {"country":"sco","name":"Rangers","id":"rangers_fc","win":13,"draw":12,"loss":11,"for":53,"against":41},
 {"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":11,"draw":12,"loss":13,"for":47,"against":51},

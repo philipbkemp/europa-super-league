@@ -33,7 +33,7 @@
 {"country":"dnk","name":"Esbjerg","id":"Esbjerg_fB","win":7,"draw":9,"loss":17,"for":38,"against":64},
 {"country":"dnk","name":"Hobro","id":"Hobro_IK","win":4,"draw":6,"loss":23,"for":26,"against":70,"isRemoved":true}
 ][
-{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":26,"draw":8,"loss":4,"for":93,"against":31,"isChampion":true},
+{"country":"sco","name":"Celtic","id":"celtic_fc","win":26,"draw":8,"loss":4,"for":93,"against":31,"isChampion":true},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":22,"draw":5,"loss":11,"for":62,"against":48},
 {"country":"sco","name":"Heart of Midlothian","id":"heart_of_midlothian_fc","win":18,"draw":11,"loss":9,"for":59,"against":40,"isReturning":true},
 {"country":"sco","name":"St Johnstone","id":"St_Johnstone_F.C.","win":16,"draw":8,"loss":14,"for":58,"against":55},

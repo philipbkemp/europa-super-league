@@ -32,7 +32,7 @@
 	{"country":"eir","name":"Shelbourne","id":"Shelbourne_F.C.","win":5,"draw":2,"loss":7,"for":16,"against":18},
 	{"country":"eir","name":"Derry Celtic","id":"Derry_Celtic_F.C.","win":4,"draw":3,"loss":7,"for":13,"against":22},
 	{"country":"eir","name":"Glentoran","id":"Glentoran_F.C.","win":2,"draw":3,"loss":9,"for":13,"against":26},
-	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":24,"draw":1,"loss":5,"for":76,"against":19,"isChampion":true},
+	{"country":"sco","name":"Celtic","id":"celtic_fc","win":24,"draw":1,"loss":5,"for":76,"against":19,"isChampion":true},
 	{"country":"sco","name":"Hearts","id":"heart_of_midlothian_fc","win":18,"draw":7,"loss":5,"for":64,"against":27},
 	{"country":"sco","name":"Airdrieonians","id":"Airdrieonians_F.C._(1878)","win":15,"draw":8,"loss":7,"for":53,"against":31},
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":15,"draw":7,"loss":8,"for":58,"against":48},

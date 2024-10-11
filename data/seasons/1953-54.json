@@ -31,7 +31,7 @@
 	{"country":"dnk","name":"Boldklubben 1903","id":"Boldklubben_1903","win":5,"draw":6,"loss":7,"for":25,"against":28},
 	{"country":"dnk","name":"Esbjerg fB","id":"Esbjerg_fB","win":6,"draw":4,"loss":8,"for":26,"against":35},
 	{"country":"dnk","name":"Boldklubben af 1893","id":"Boldklubben_af_1893","win":5,"draw":5,"loss":8,"for":27,"against":32,"isRemoved":true},
-	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":20,"draw":3,"loss":7,"for":72,"against":29,"isChampion":true},
+	{"country":"sco","name":"Celtic","id":"celtic_fc","win":20,"draw":3,"loss":7,"for":72,"against":29,"isChampion":true},
 	{"country":"sco","name":"Heart of Midlothian","id":"heart_of_midlothian_fc","win":16,"draw":6,"loss":8,"for":70,"against":45},
 	{"country":"sco","name":"Partick Thistle","id":"Partick_Thistle_F.C.","win":17,"draw":1,"loss":12,"for":76,"against":54},
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":13,"draw":8,"loss":9,"for":56,"against":35},

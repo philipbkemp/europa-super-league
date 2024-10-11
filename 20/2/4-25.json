@@ -602,7 +602,7 @@
 {"country":"rus","name":"Khimki","id":"FC_Khimki","win":1,"draw":4,"loss":4,"for":9,"against":16,"isReturning":true,"isCurrentSeason":true},
 {"country":"rus","name":"Fakel Voronezh","id":"FC_Fakel_Voronezh","win":1,"draw":2,"loss":6,"for":4,"against":17,"isCurrentSeason":true},
 {"country":"rus","name":"Akhmat Grozny","id":"FC_Akhmat_Grozny","win":0,"draw":5,"loss":3,"for":6,"against":14,"isCurrentSeason":true},
-{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":5,"draw":0,"loss":0,"for":14,"against":0,"isCurrentSeason":true},
+{"country":"sco","name":"Celtic","id":"celtic_fc","win":5,"draw":0,"loss":0,"for":14,"against":0,"isCurrentSeason":true},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":5,"draw":0,"loss":0,"for":10,"against":3,"isCurrentSeason":true},
 {"country":"sco","name":"Rangers","id":"Rangers_F.C.","win":3,"draw":1,"loss":1,"for":9,"against":4,"isCurrentSeason":true},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":2,"draw":2,"loss":1,"for":6,"against":4,"isReturning":true,"isCurrentSeason":true},

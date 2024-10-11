@@ -32,7 +32,7 @@
 	{"country":"dnk","name":"Skovshoved IF","id":"Skovshoved_IF","win":4,"draw":6,"loss":8,"for":26,"against":37},
 	{"country":"dnk","name":"Odense Boldklub","id":"Odense_Boldklub","win":6,"draw":1,"loss":11,"for":30,"against":42,"isRemoved":true},
 	{"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":24,"draw":1,"loss":5,"for":73,"against":26,"isChampion":true},
-	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":19,"draw":8,"loss":3,"for":76,"against":37},
+	{"country":"sco","name":"Celtic","id":"celtic_fc","win":19,"draw":8,"loss":3,"for":76,"against":37},
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":19,"draw":3,"loss":8,"for":67,"against":33},
 	{"country":"sco","name":"Hearts","id":"heart_of_midlothian_fc","win":16,"draw":7,"loss":7,"for":74,"against":45},
 	{"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":15,"draw":4,"loss":11,"for":64,"against":54},

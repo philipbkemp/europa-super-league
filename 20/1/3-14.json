@@ -33,7 +33,7 @@
 {"country":"dnk","name":"AGF","id":"Aarhus_Gymnastikforening","win":9,"draw":5,"loss":19,"for":38,"against":60,"isRemoved":true},
 {"country":"dnk","name":"Viborg FF","id":"Viborg_FF","win":6,"draw":10,"loss":17,"for":38,"against":63,"isRemoved":true,"isReturning":true}
 ][
-{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":31,"draw":6,"loss":1,"for":102,"against":25,"isChampion":true},
+{"country":"sco","name":"Celtic","id":"celtic_fc","win":31,"draw":6,"loss":1,"for":102,"against":25,"isChampion":true},
 {"country":"sco","name":"Motherwell","id":"Motherwell_F.C.","win":22,"draw":4,"loss":12,"for":64,"against":60},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":20,"draw":8,"loss":10,"for":53,"against":38},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":16,"draw":10,"loss":12,"for":65,"against":50},

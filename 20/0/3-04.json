@@ -33,7 +33,7 @@
 {"country":"dnk","name":"BK Frem","id":"boldklubben_frem","win":8,"draw":3,"loss":22,"for":40,"against":65,"isRemoved":true,"isReturning":true},
 {"country":"dnk","name":"AB Copenhagen","id":"akademisk_boldklub","win":8,"draw":2,"loss":23,"for":31,"against":70,"isRemoved":true,"deduct":-9,"deductReason":"Use of fake passport in player registration"}
 ][
-{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":31,"draw":5,"loss":2,"for":105,"against":25,"isChampion":true},
+{"country":"sco","name":"Celtic","id":"celtic_fc","win":31,"draw":5,"loss":2,"for":105,"against":25,"isChampion":true},
 {"country":"sco","name":"Rangers","id":"rangers_fc","win":25,"draw":6,"loss":7,"for":76,"against":33},
 {"country":"sco","name":"Heart of Midlothian","id":"heart_of_midlothian_fc","win":19,"draw":11,"loss":8,"for":56,"against":40},
 {"country":"sco","name":"Dunfermline Athletic","id":"Dunfermline_Athletic_F.C.","win":14,"draw":11,"loss":13,"for":45,"against":52},

@@ -31,7 +31,7 @@
 	{"country":"eir","name":"Ulster","id":"Ulster_F.C.","win":2,"draw":3,"loss":9,"for":22,"against":44,"isReturning":true},
 	{"country":"eir","name":"St Columb's Court","id":"St_Columb%27s_Court_F.C.","win":0,"draw":1,"loss":13,"for":13,"against":62,"isRemoved":true,"isNew":true},
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":13,"draw":2,"loss":3,"for":43,"against":29,"isChampion":true},
-	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":11,"draw":4,"loss":3,"for":38,"against":28},
+	{"country":"sco","name":"Celtic","id":"celtic_fc","win":11,"draw":4,"loss":3,"for":38,"against":28},
 	{"country":"sco","name":"Heart of Midlothian","id":"heart_of_midlothian_fc","win":10,"draw":2,"loss":6,"for":32,"against":21},
 	{"country":"sco","name":"Third Lanark","id":"Third_Lanark_A.C.","win":7,"draw":5,"loss":6,"for":30,"against":26},
 	{"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":8,"draw":3,"loss":7,"for":29,"against":28},

@@ -34,7 +34,7 @@
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":28,"draw":4,"loss":6,"for":94,"against":32,"isChampion":true},
 	{"country":"sco","name":"Motherwell","id":"Motherwell_F.C.","win":25,"draw":5,"loss":8,"for":104,"against":48},
 	{"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":23,"draw":7,"loss":8,"for":85,"against":61},
-	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":22,"draw":5,"loss":11,"for":88,"against":46},
+	{"country":"sco","name":"Celtic","id":"celtic_fc","win":22,"draw":5,"loss":11,"for":88,"against":46},
 	{"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":18,"draw":5,"loss":15,"for":73,"against":56},
 	{"country":"sco","name":"Partick Thistle","id":"Partick_Thistle_F.C.","win":16,"draw":9,"loss":13,"for":72,"against":61},
 	{"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":16,"draw":9,"loss":13,"for":62,"against":64},

@@ -33,7 +33,7 @@
 {"country":"dnk","name":"Horsens","id":"AC_Horsens","win":8,"draw":10,"loss":15,"for":31,"against":49,"isRemoved":true},
 {"country":"dnk","name":"Silkeborg IF","id":"Silkeborg_IF","win":8,"draw":7,"loss":18,"for":38,"against":66,"isRemoved":true}
 ][
-{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":24,"draw":7,"loss":7,"for":92,"against":35,"isChampion":true},
+{"country":"sco","name":"Celtic","id":"celtic_fc","win":24,"draw":7,"loss":7,"for":92,"against":35,"isChampion":true},
 {"country":"sco","name":"Motherwell","id":"Motherwell_F.C.","win":18,"draw":9,"loss":11,"for":67,"against":51},
 {"country":"sco","name":"St Johnstone","id":"St_Johnstone_F.C.","win":14,"draw":14,"loss":10,"for":45,"against":44},
 {"country":"sco","name":"Inverness Caledonian Thistle","id":"Inverness_Caledonian_Thistle_F.C.","win":13,"draw":15,"loss":10,"for":64,"against":60},

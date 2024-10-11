@@ -33,7 +33,7 @@
 	{"country":"eir","name":"Bohemians","id":"Bohemian_F.C.","win":4,"draw":3,"loss":7,"for":20,"against":31},
 	{"country":"eir","name":"Glentoran","id":"Glentoran_F.C.","win":5,"draw":1,"loss":8,"for":23,"against":23},
 	{"country":"eir","name":"Shelbourne","id":"Shelbourne_F.C.","win":2,"draw":7,"loss":5,"for":15,"against":24},
-	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":24,"draw":6,"loss":4,"for":63,"against":22,"isChampion":true},
+	{"country":"sco","name":"Celtic","id":"celtic_fc","win":24,"draw":6,"loss":4,"for":63,"against":22,"isChampion":true},
 	{"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":22,"draw":8,"loss":4,"for":71,"against":28},
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":20,"draw":6,"loss":8,"for":70,"against":35},
 	{"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":16,"draw":8,"loss":10,"for":44,"against":29},

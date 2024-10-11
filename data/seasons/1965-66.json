@@ -33,7 +33,7 @@
 	{"country":"dnk","name":"Køge BK","id":"Køge_Boldklub","win":8,"draw":3,"loss":11,"for":40,"against":45,"isReturning":true},
 	{"country":"dnk","name":"Boldklubben 1909","id":"Boldklubben_1909","win":6,"draw":4,"loss":12,"for":35,"against":59,"isRemoved":true},
 	{"country":"dnk","name":"Boldklubben 1913","id":"Boldklubben_1913","win":5,"draw":5,"loss":12,"for":26,"against":48,"isRemoved":true},
-	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":27,"draw":3,"loss":4,"for":106,"against":30,"isChampion":true},
+	{"country":"sco","name":"Celtic","id":"celtic_fc","win":27,"draw":3,"loss":4,"for":106,"against":30,"isChampion":true},
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":25,"draw":5,"loss":4,"for":91,"against":29},
 	{"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":20,"draw":5,"loss":9,"for":73,"against":46},
 	{"country":"sco","name":"Dunfermline","id":"Dunfermline_Athletic_F.C.","win":19,"draw":6,"loss":9,"for":94,"against":55},

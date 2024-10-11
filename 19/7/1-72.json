@@ -50,7 +50,7 @@
 {"country":"dnk","name":"Brønshøj BK","id":"Brønshøj_Boldklub","win":6,"draw":4,"loss":12,"for":29,"against":49,"isRemoved":true},
 {"country":"dnk","name":"Boldklubben 1909","id":"Boldklubben_1909","win":5,"draw":5,"loss":12,"for":35,"against":45,"isRemoved":true}
 ][
-{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":28,"draw":4,"loss":2,"for":96,"against":28,"isChampion":true},
+{"country":"sco","name":"Celtic","id":"celtic_fc","win":28,"draw":4,"loss":2,"for":96,"against":28,"isChampion":true},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":21,"draw":8,"loss":5,"for":80,"against":26},
 {"country":"sco","name":"Rangers","id":"rangers_fc","win":21,"draw":2,"loss":11,"for":71,"against":38},
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":19,"draw":6,"loss":9,"for":62,"against":34},

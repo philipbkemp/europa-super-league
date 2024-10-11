@@ -39,7 +39,7 @@
 {"country":"dnk","name":"IK Skovbakken","id":"VSK_Aarhus","win":4,"draw":11,"loss":15,"for":30,"against":61,"isRemoved":true},
 {"country":"dnk","name":"Slagelse B&I","id":"Slagelse_B%26I","win":5,"draw":6,"loss":19,"for":34,"against":64,"isRemoved":true}
 ][
-{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":21,"draw":6,"loss":9,"for":61,"against":37,"isChampion":true},
+{"country":"sco","name":"Celtic","id":"celtic_fc","win":21,"draw":6,"loss":9,"for":61,"against":37,"isChampion":true},
 {"country":"sco","name":"Rangers","id":"rangers_fc","win":18,"draw":9,"loss":9,"for":52,"against":35},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":18,"draw":8,"loss":10,"for":56,"against":37},
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":13,"draw":14,"loss":9,"for":59,"against":36},

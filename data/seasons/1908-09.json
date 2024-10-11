@@ -33,7 +33,7 @@
 	{"country":"eir","name":"Belfast Celtic","id":"Belfast_Celtic_F.C.","win":4,"draw":2,"loss":7,"for":21,"against":32},
 	{"country":"eir","name":"Cliftonville","id":"Cliftonville_F.C.","win":4,"draw":2,"loss":7,"for":17,"against":19},
 	{"country":"eir","name":"Derry Celtic","id":"Derry_Celtic_F.C.","win":4,"draw":0,"loss":10,"for":12,"against":26},
-	{"country":"sco","name":"Celtic","id":"Celtic_F.C.","win":23,"draw":5,"loss":6,"for":71,"against":24,"isChampion":true},
+	{"country":"sco","name":"Celtic","id":"celtic_fc","win":23,"draw":5,"loss":6,"for":71,"against":24,"isChampion":true},
 	{"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":22,"draw":6,"loss":6,"for":70,"against":32},
 	{"country":"sco","name":"Clyde","id":"Clyde_F.C.","win":21,"draw":6,"loss":7,"for":61,"against":37},
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":19,"draw":7,"loss":8,"for":91,"against":38},
