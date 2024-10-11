@@ -47,7 +47,7 @@
 {"country":"sco","name":"Livingston","id":"Livingston_F.C.","win":5,"draw":10,"loss":23,"for":29,"against":70,"isRemoved":true}
 ][
 {"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":29,"draw":4,"loss":1,"for":111,"against":21,"isChampion":true},
-{"country":"nld","name":"Feyenoord","id":"Feyenoord","win":26,"draw":6,"loss":2,"for":92,"against":26},
+{"country":"nld","name":"Feyenoord","id":"feyenoord","win":26,"draw":6,"loss":2,"for":92,"against":26},
 {"country":"nld","name":"Twente","id":"FC_Twente","win":21,"draw":6,"loss":7,"for":69,"against":36},
 {"country":"nld","name":"AZ","id":"AZ_Alkmaar","win":19,"draw":8,"loss":7,"for":70,"against":39},
 {"country":"nld","name":"Ajax","id":"AFC_Ajax","win":15,"draw":11,"loss":8,"for":74,"against":61},

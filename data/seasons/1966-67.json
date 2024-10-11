@@ -52,7 +52,7 @@
 	{"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":4,"draw":7,"loss":23,"for":25,"against":81,"isRemoved":true},
 	{"country":"sco","name":"Ayr United","id":"Ayr_United_F.C.","win":1,"draw":7,"loss":26,"for":20,"against":86,"isRemoved":true,"isReturning":true},
 	{"country":"nld","name":"AFC Ajax","id":"AFC_Ajax","win":26,"draw":4,"loss":4,"for":122,"against":34,"isChampion":true},
-	{"country":"nld","name":"Feijenoord","id":"Feyenoord","win":21,"draw":9,"loss":4,"for":81,"against":33},
+	{"country":"nld","name":"Feijenoord","id":"feyenoord","win":21,"draw":9,"loss":4,"for":81,"against":33},
 	{"country":"nld","name":"Sparta Rotterdam","id":"Sparta_Rotterdam","win":20,"draw":8,"loss":6,"for":50,"against":25},
 	{"country":"nld","name":"ADO Den Haag","id":"ADO_Den_Haag","win":18,"draw":10,"loss":6,"for":70,"against":40},
 	{"country":"nld","name":"Go Ahead","id":"Go_Ahead_Eagles","win":17,"draw":6,"loss":11,"for":57,"against":37},

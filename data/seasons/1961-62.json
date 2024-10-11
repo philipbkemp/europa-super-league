@@ -51,7 +51,7 @@
 	{"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":10,"draw":5,"loss":19,"for":52,"against":80},
 	{"country":"sco","name":"St Johnstone","id":"St_Johnstone_F.C.","win":9,"draw":7,"loss":18,"for":35,"against":61,"isRemoved":true},
 	{"country":"sco","name":"Stirling Albion","id":"Stirling_Albion_F.C.","win":6,"draw":6,"loss":22,"for":34,"against":76,"isRemoved":true,"isReturning":true},
-	{"country":"nld","name":"Feijenoord","id":"Feyenoord","win":20,"draw":10,"loss":4,"for":88,"against":35,"isChampion":true},
+	{"country":"nld","name":"Feijenoord","id":"feyenoord","win":20,"draw":10,"loss":4,"for":88,"against":35,"isChampion":true},
 	{"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":21,"draw":7,"loss":6,"for":85,"against":43},
 	{"country":"nld","name":"Blauw-Wit Amsterdam","id":"Blauw-Wit_Amsterdam","win":16,"draw":9,"loss":9,"for":71,"against":54,"isReturning":true},
 	{"country":"nld","name":"AFC Ajax","id":"AFC_Ajax","win":16,"draw":7,"loss":11,"for":80,"against":59},

@@ -51,7 +51,7 @@
 	{"country":"sco","name":"Raith Rovers","id":"Raith_Rovers_F.C.","win":10,"draw":7,"loss":17,"for":46,"against":67},
 	{"country":"sco","name":"Clyde","id":"Clyde_F.C.","win":6,"draw":11,"loss":17,"for":55,"against":77,"isRemoved":true},
 	{"country":"sco","name":"Ayr United","id":"Ayr_United_F.C.","win":5,"draw":12,"loss":17,"for":51,"against":81,"isRemoved":true},
-	{"country":"nld","name":"Feijenoord","id":"Feyenoord","win":24,"draw":5,"loss":5,"for":100,"against":40,"isChampion":true},
+	{"country":"nld","name":"Feijenoord","id":"feyenoord","win":24,"draw":5,"loss":5,"for":100,"against":40,"isChampion":true},
 	{"country":"nld","name":"AFC Ajax","id":"AFC_Ajax","win":22,"draw":7,"loss":5,"for":102,"against":51},
 	{"country":"nld","name":"VVV '03","id":"VVV-Venlo","win":18,"draw":6,"loss":10,"for":77,"against":47},
 	{"country":"nld","name":"Sparta Rotterdam","id":"Sparta_Rotterdam","win":16,"draw":9,"loss":9,"for":71,"against":54},

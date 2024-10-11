@@ -51,7 +51,7 @@
 	{"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":7,"draw":7,"loss":20,"for":43,"against":85},
 	{"country":"sco","name":"Airdrieonians","id":"Airdrieonians_F.C._(1878)","win":5,"draw":4,"loss":25,"for":48,"against":110,"isRemoved":true},
 	{"country":"sco","name":"Third Lanark","id":"Third_Lanark_A.C.","win":3,"draw":1,"loss":30,"for":22,"against":99,"isRemoved":true},
-	{"country":"nld","name":"Feijenoord","id":"Feyenoord","win":21,"draw":3,"loss":6,"for":77,"against":30,"isChampion":true},
+	{"country":"nld","name":"Feijenoord","id":"feyenoord","win":21,"draw":3,"loss":6,"for":77,"against":30,"isChampion":true},
 	{"country":"nld","name":"DWS","id":"AFC_DWS","win":15,"draw":10,"loss":5,"for":55,"against":28},
 	{"country":"nld","name":"ADO Den Haag","id":"ADO_Den_Haag","win":13,"draw":7,"loss":10,"for":37,"against":32},
 	{"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":13,"draw":7,"loss":10,"for":48,"against":45},

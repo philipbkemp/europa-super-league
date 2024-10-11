@@ -56,7 +56,7 @@
 {"country":"nld","name":"RKC Waalwijk","id":"RKC_Waalwijk","win":13,"draw":11,"loss":10,"for":45,"against":47},
 {"country":"nld","name":"FC Groningen","id":"FC_Groningen","win":10,"draw":15,"loss":9,"for":50,"against":46},
 {"country":"nld","name":"FC Den Haag","id":"ADO_Den_Haag","win":13,"draw":7,"loss":14,"for":58,"against":63,"isReturning":true},
-{"country":"nld","name":"Feyenoord","id":"Feyenoord","win":9,"draw":13,"loss":12,"for":51,"against":45},
+{"country":"nld","name":"Feyenoord","id":"feyenoord","win":9,"draw":13,"loss":12,"for":51,"against":45},
 {"country":"nld","name":"Sparta","id":"Sparta_Rotterdam","win":12,"draw":7,"loss":15,"for":51,"against":61},
 {"country":"nld","name":"Willem II","id":"Willem_II_(football_club)","win":7,"draw":13,"loss":14,"for":42,"against":49},
 {"country":"nld","name":"FC Utrecht","id":"FC_Utrecht","win":8,"draw":11,"loss":15,"for":27,"against":45},

@@ -59,7 +59,7 @@
 {"country":"sco","name":"Arbroath","id":"Arbroath_F.C.","win":5,"draw":7,"loss":22,"for":34,"against":66,"isRemoved":true}
 ][
 {"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":23,"draw":9,"loss":2,"for":82,"against":26,"isChampion":true},
-{"country":"nld","name":"Feyenoord","id":"Feyenoord","win":23,"draw":7,"loss":4,"for":94,"against":29},
+{"country":"nld","name":"Feyenoord","id":"feyenoord","win":23,"draw":7,"loss":4,"for":94,"against":29},
 {"country":"nld","name":"AFC Ajax","id":"AFC_Ajax","win":21,"draw":7,"loss":6,"for":76,"against":34},
 {"country":"nld","name":"FC Twente","id":"FC_Twente","win":17,"draw":8,"loss":9,"for":56,"against":35},
 {"country":"nld","name":"AZ '67","id":"AZ_Alkmaar","win":14,"draw":12,"loss":8,"for":50,"against":32},

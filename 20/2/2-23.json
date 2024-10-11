@@ -46,7 +46,7 @@
 {"country":"sco","name":"Ross County","id":"Ross_County_F.C.","win":9,"draw":7,"loss":22,"for":37,"against":60},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":8,"draw":7,"loss":23,"for":40,"against":70,"isRemoved":true}
 ][
-{"country":"nld","name":"Feyenoord","id":"Feyenoord","win":25,"draw":7,"loss":2,"for":81,"against":30,"isChampion":true},
+{"country":"nld","name":"Feyenoord","id":"feyenoord","win":25,"draw":7,"loss":2,"for":81,"against":30,"isChampion":true},
 {"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":23,"draw":6,"loss":5,"for":89,"against":40},
 {"country":"nld","name":"Ajax","id":"AFC_Ajax","win":20,"draw":9,"loss":5,"for":86,"against":38},
 {"country":"nld","name":"AZ","id":"AZ_Alkmaar","win":20,"draw":7,"loss":7,"for":68,"against":35},

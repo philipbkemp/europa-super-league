@@ -47,7 +47,7 @@
 {"country":"sco","name":"Dunfermline Athletic","id":"Dunfermline_Athletic_F.C.","win":5,"draw":10,"loss":23,"for":40,"against":82,"isRemoved":true,"isReturning":true}
 ][
 {"country":"nld","name":"Ajax","id":"AFC_Ajax","win":23,"draw":7,"loss":4,"for":93,"against":36,"isChampion":true},
-{"country":"nld","name":"Feyenoord","id":"Feyenoord","win":21,"draw":7,"loss":6,"for":70,"against":37},
+{"country":"nld","name":"Feyenoord","id":"feyenoord","win":21,"draw":7,"loss":6,"for":70,"against":37},
 {"country":"nld","name":"PSV","id":"PSV_Eindhoven","win":21,"draw":6,"loss":7,"for":87,"against":47},
 {"country":"nld","name":"AZ","id":"AZ_Alkmaar","win":19,"draw":8,"loss":7,"for":64,"against":35},
 {"country":"nld","name":"Heerenveen","id":"SC_Heerenveen","win":18,"draw":10,"loss":6,"for":79,"against":59},

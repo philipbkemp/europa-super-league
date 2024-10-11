@@ -61,7 +61,7 @@
 	{"country":"nld","name":"NAC","id":"NAC_Breda","win":15,"draw":5,"loss":14,"for":69,"against":70},
 	{"country":"nld","name":"Sparta Rotterdam","id":"Sparta_Rotterdam","win":11,"draw":12,"loss":11,"for":63,"against":62},
 	{"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":13,"draw":6,"loss":15,"for":73,"against":70},
-	{"country":"nld","name":"Feijenoord","id":"Feyenoord","win":13,"draw":6,"loss":15,"for":74,"against":76},
+	{"country":"nld","name":"Feijenoord","id":"feyenoord","win":13,"draw":6,"loss":15,"for":74,"against":76},
 	{"country":"nld","name":"Rapid JC","id":"Roda_JC_Kerkrade","win":13,"draw":5,"loss":16,"for":56,"against":67},
 	{"country":"nld","name":"Blauw-Wit Amsterdam","id":"Blauw-Wit_Amsterdam","win":11,"draw":8,"loss":15,"for":56,"against":59,"isNew":true},
 	{"country":"nld","name":"BVC Amsterdam","id":"AFC_DWS","win":9,"draw":12,"loss":13,"for":54,"against":63},

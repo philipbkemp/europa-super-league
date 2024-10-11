@@ -48,7 +48,7 @@
 {"country":"sco","name":"Hamilton Academical","id":"Hamilton_Academical_F.C.","win":7,"draw":14,"loss":17,"for":37,"against":56},
 {"country":"sco","name":"Inverness Caledonian Thistle","id":"Inverness_Caledonian_Thistle_F.C.","win":7,"draw":13,"loss":18,"for":44,"against":71,"isRemoved":true}
 ][
-{"country":"nld","name":"Feyenoord","id":"Feyenoord","win":26,"draw":4,"loss":4,"for":86,"against":25,"isChampion":true},
+{"country":"nld","name":"Feyenoord","id":"feyenoord","win":26,"draw":4,"loss":4,"for":86,"against":25,"isChampion":true},
 {"country":"nld","name":"Ajax","id":"AFC_Ajax","win":25,"draw":6,"loss":3,"for":79,"against":23},
 {"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":22,"draw":10,"loss":2,"for":68,"against":23},
 {"country":"nld","name":"Utrecht","id":"FC_Utrecht","win":18,"draw":8,"loss":8,"for":54,"against":38},

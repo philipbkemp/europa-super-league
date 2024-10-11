@@ -55,7 +55,7 @@
 {"country":"sco","name":"Partick Thistle","id":"Partick_Thistle_F.C.","win":5,"draw":7,"loss":22,"for":41,"against":82,"isRemoved":true}
 ][
 {"country":"nld","name":"AFC Ajax","id":"AFC_Ajax","win":27,"draw":6,"loss":1,"for":100,"against":23,"isChampion":true},
-{"country":"nld","name":"Feijenoord","id":"Feyenoord","win":22,"draw":11,"loss":1,"for":81,"against":22},
+{"country":"nld","name":"Feijenoord","id":"feyenoord","win":22,"draw":11,"loss":1,"for":81,"against":22},
 {"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":19,"draw":8,"loss":7,"for":70,"against":34},
 {"country":"nld","name":"FC Twente","id":"FC_Twente","win":17,"draw":8,"loss":9,"for":62,"against":43},
 {"country":"nld","name":"Sparta Rotterdam","id":"Sparta_Rotterdam","win":16,"draw":9,"loss":9,"for":56,"against":41},

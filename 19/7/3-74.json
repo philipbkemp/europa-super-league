@@ -54,7 +54,7 @@
 {"country":"sco","name":"East Fife","id":"East_Fife_F.C.","win":9,"draw":6,"loss":19,"for":26,"against":51,"isRemoved":true},
 {"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":4,"draw":14,"loss":16,"for":33,"against":58,"isRemoved":true}
 ][
-{"country":"nld","name":"Feyenoord","id":"Feyenoord","win":25,"draw":6,"loss":3,"for":96,"against":28,"isChampion":true},
+{"country":"nld","name":"Feyenoord","id":"feyenoord","win":25,"draw":6,"loss":3,"for":96,"against":28,"isChampion":true},
 {"country":"nld","name":"FC Twente","id":"FC_Twente","win":23,"draw":8,"loss":3,"for":65,"against":27},
 {"country":"nld","name":"AFC Ajax","id":"AFC_Ajax","win":21,"draw":9,"loss":4,"for":88,"against":30},
 {"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":20,"draw":9,"loss":5,"for":96,"against":40},

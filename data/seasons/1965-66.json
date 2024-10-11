@@ -52,7 +52,7 @@
 	{"country":"sco","name":"Morton","id":"Greenock_Morton_F.C.","win":8,"draw":5,"loss":21,"for":42,"against":84,"isRemoved":true},
 	{"country":"sco","name":"Hamilton Academical","id":"Hamilton_Academical_F.C.","win":3,"draw":2,"loss":29,"for":27,"against":117,"isRemoved":true,"isReturning":true},
 	{"country":"nld","name":"Ajax","id":"AFC_Ajax","win":24,"draw":4,"loss":2,"for":79,"against":25,"isChampion":true},
-	{"country":"nld","name":"Feijenoord","id":"Feyenoord","win":21,"draw":3,"loss":6,"for":65,"against":30},
+	{"country":"nld","name":"Feijenoord","id":"feyenoord","win":21,"draw":3,"loss":6,"for":65,"against":30},
 	{"country":"nld","name":"ADO","id":"ADO_Den_Haag","win":15,"draw":9,"loss":6,"for":72,"against":37},
 	{"country":"nld","name":"DWS","id":"AFC_DWS","win":15,"draw":6,"loss":9,"for":48,"against":30},
 	{"country":"nld","name":"Go Ahead","id":"Go_Ahead_Eagles","win":14,"draw":8,"loss":8,"for":49,"against":33},
