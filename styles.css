@@ -81,9 +81,28 @@ h2 img { margin-right: 10px; position: relative; top: -2px; height: 24px; }
 .old-league { color: #c7c8c9; }
 table.newclubs * { background-color: #eee !important; }
 #historyTables .removed td, #historyTables .removed th { border-bottom: 20px solid white; }
+#historyTables thead tr th:nth-child(n+3):nth-child(-n+15),
+#historyTables tbody tr td:nth-child(n+3):nth-child(-n+15),
+#historyTables tbody tr th { display: none; }
+@media (min-width: 576px) {
+    #historyTables thead tr th:nth-child(3),
+    #historyTables tbody tr th { display: table-cell !important; }
+}
+@media (min-width: 768px) {
+    #historyTables thead tr th:nth-child(n+4):nth-child(-n+10),
+    #historyTables tbody tr td:nth-child(n+4):nth-child(-n+10) { display: table-cell; }
+    #historyTables thead tr th:nth-child(3),
+    #historyTables tbody tr th { display: none !important; }
+}
 @media (min-width: 992px) {
+    #historyTables thead tr th:nth-child(n+4):nth-child(-n+15),
+    #historyTables tbody tr td:nth-child(n+4):nth-child(-n+15) { display: table-cell !important; }
     .row-cols-lg-10>* {
         flex: 0 0 auto;
         width: 10%;
     }
+}
+@media (min-width: 1200px) {
+    #historyTables thead tr th:nth-child(3),
+    #historyTables tbody tr th { display: table-cell !important; }
 }
