@@ -450,7 +450,7 @@
 	{"country":"nor","name":"Hødd","id":"IL_Hødd","win":4,"draw":4,"loss":10,"for":24,"against":39,"isReturning":true},
 	{"country":"nor","name":"Start","id":"IK_Start","win":5,"draw":2,"loss":11,"for":20,"against":35,"isRemoved":true,"isNew":true},
 	{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":4,"draw":4,"loss":10,"for":21,"against":39,"isRemoved":true},
-	{"country":"fro","name":"KÍ Klaksvík","id":"Klaksvíkar_Ítróttarfelag","win":8,"draw":0,"loss":0,"for":25,"against":12,"isChampion":true},
+	{"country":"fro","name":"KÍ Klaksvík","id":"klaksvikar_itrottarfelag","win":8,"draw":0,"loss":0,"for":25,"against":12,"isChampion":true},
 	{"country":"fro","name":"Havnar Bóltfelag","id":"Havnar_Bóltfelag","win":6,"draw":0,"loss":2,"for":32,"against":13},
 	{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":2,"draw":1,"loss":5,"for":12,"against":18},
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":2,"draw":0,"loss":6,"for":12,"against":19},

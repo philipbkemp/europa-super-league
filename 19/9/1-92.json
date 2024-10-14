@@ -518,7 +518,7 @@
 {"country":"sov","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":8,"draw":9,"loss":13,"for":32,"against":43,"note":"Quit USSR FA to join newly formed national FA"},
 {"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":5,"draw":8,"loss":17,"for":18,"against":47,"isReturning":true,"isRemoved":true,"removedNote":"The following season was cancelled after numerous clubs quit the USSR FA"}
 ][
-{"country":"fro","name":"KÍ Klaksvík","id":"Klaksvíkar_Ítróttarfelag","win":10,"draw":4,"loss":4,"for":31,"against":19,"isChampion":true},
+{"country":"fro","name":"KÍ Klaksvík","id":"klaksvikar_itrottarfelag","win":10,"draw":4,"loss":4,"for":31,"against":19,"isChampion":true},
 {"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":10,"draw":4,"loss":4,"for":37,"against":28},
 {"country":"fro","name":"GÍ Gøta","id":"Gøtu_Ítróttarfelag","win":10,"draw":3,"loss":5,"for":38,"against":27},
 {"country":"fro","name":"VB Vágur","id":"Vágs_Bóltfelag","win":10,"draw":3,"loss":5,"for":29,"against":19},
