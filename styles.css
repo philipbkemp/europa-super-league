@@ -1,5 +1,5 @@
 .disabled { opacity: 0.2 !important; }
-h1 span { font-weight: normal; font-size: 2rem; }
+h1 span { font-weight: normal; font-size: 0.9rem; }
 #divisionsTables thead th:nth-of-type(3),
 .newclubs thead th:nth-of-type(3) { text-align: left; }
 #divisionsTables thead th,
@@ -84,20 +84,32 @@ table.newclubs * { background-color: #eee !important; }
 #historyTables thead tr th:nth-child(n+3):nth-child(-n+15),
 #historyTables tbody tr td:nth-child(n+3):nth-child(-n+15),
 #historyTables tbody tr th { display: none; }
+#divisionsTables thead tr th:nth-child(n+4):nth-child(-n+15),
+#divisionsTables tbody tr td:nth-child(n+4):nth-child(-n+15){ display: none; }
 @media (min-width: 576px) {
     #historyTables thead tr th:nth-child(3),
     #historyTables tbody tr th { display: table-cell !important; }
+    #divisionsTables thead tr th:nth-child(3),
+    #divisionsTables tbody tr th { display: table-cell !important; }
+    .row-cols-sm-8 > * {
+        flex: 0 0 auto;
+        width: 12.5%;
+    }
 }
 @media (min-width: 768px) {
     #historyTables thead tr th:nth-child(n+4):nth-child(-n+10),
     #historyTables tbody tr td:nth-child(n+4):nth-child(-n+10) { display: table-cell; }
     #historyTables thead tr th:nth-child(3),
     #historyTables tbody tr th { display: none !important; }
+    #divisionsTables thead tr th:nth-child(n+4):nth-child(-n+10),
+    #divisionsTables tbody tr td:nth-child(n+4):nth-child(-n+10) { display: table-cell; }
 }
 @media (min-width: 992px) {
     #historyTables thead tr th:nth-child(n+4):nth-child(-n+15),
     #historyTables tbody tr td:nth-child(n+4):nth-child(-n+15) { display: table-cell !important; }
-    .row-cols-lg-10>* {
+    #divisionsTables thead tr th:nth-child(n+4):nth-child(-n+15),
+    #divisionsTables tbody tr td:nth-child(n+4):nth-child(-n+15) { display: table-cell !important; }
+    .row-cols-lg-10 > * {
         flex: 0 0 auto;
         width: 10%;
     }
@@ -105,4 +117,6 @@ table.newclubs * { background-color: #eee !important; }
 @media (min-width: 1200px) {
     #historyTables thead tr th:nth-child(3),
     #historyTables tbody tr th { display: table-cell !important; }
+    #divisionsTables thead tr th:nth-child(3),
+    #divisionsTables tbody tr th { display: table-cell !important; }
 }

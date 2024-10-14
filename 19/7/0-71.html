@@ -9,25 +9,27 @@
 	<body>
 		<div class="container pt-4 placeholder-glow">
 
-			<h1><span>Europa Super League</span> 1970-71<a href="../../index.html" class="btn btn-outline-dark float-end mt-2">Home</a></h1>
+			<h1><span class="d-block">Europa Super League</span> 1970-71<a href="../../index.html" class="btn btn-outline-dark float-end">Home</a></h1>
 			<hr>
 
 			<div class="row pt-3 pb-3">
-				<div class="col-1">
-					<a href="../6/9-70.html" disabled="" class="btn btn-outline-dark w-100" id="goPrev">1969-70</a>
+				<div class="col-6 col-sm-2 col-lg-1">
+					<a href="../6/9-70.html" disabled="" class="btn btn-outline-dark w-100 px-md-0" id="goPrev">1969-70</a>
 				</div>
-				<div class="col-10 text-center" id="divisions" role="tablist">
-					<button class="btn btn-outline-dark active" id="diva" data-bs-toggle="tab" data-bs-target="#diva-pane" type="button" role="tab" aria-controls="diva-pane" aria-selected="true">Division A</button>
-					<button class="btn btn-outline-dark" id="divb" data-bs-toggle="tab" data-bs-target="#divb-pane" type="button" role="tab" aria-controls="divb-pane" aria-selected="false" tabindex="-1">Division B</button>
-					<button class="btn btn-outline-dark" id="divc" data-bs-toggle="tab" data-bs-target="#divc-pane" type="button" role="tab" aria-controls="divc-pane" aria-selected="false" tabindex="-1">Division C</button>
-					<button class="btn btn-outline-dark" id="divd" data-bs-toggle="tab" data-bs-target="#divd-pane" type="button" role="tab" aria-controls="divd-pane" aria-selected="false" tabindex="-1">Division D</button>
-					<button class="btn btn-outline-dark" id="dive" data-bs-toggle="tab" data-bs-target="#dive-pane" type="button" role="tab" aria-controls="dive-pane" aria-selected="false" tabindex="-1">Division E</button>
-					<button class="btn btn-outline-dark" id="divf" data-bs-toggle="tab" data-bs-target="#divf-pane" type="button" role="tab" aria-controls="divf-pane" aria-selected="false" tabindex="-1">Division F</button>
-					<button class="btn btn-outline-dark disabled" id="divg" data-bs-toggle="tab" data-bs-target="#divg-pane" type="button" role="tab" aria-controls="divg-pane" aria-selected="false" tabindex="-1">Division G</button>
-					<button class="btn btn-outline-dark disabled" id="divh" data-bs-toggle="tab" data-bs-target="#divh-pane" type="button" role="tab" aria-controls="divh-pane" aria-selected="false" tabindex="-1">Division H</button>
+				<div class="col-12 col-sm-8 offset-lg-1 text-center order-3 order-sm-2" id="divisions" role="tablist">
+					<div class="row row-cols-4 row-cols-sm-8">
+						<div class="col mt-2 px-sm-1 mt-sm-0"><button class="w-100 btn btn-outline-dark px-1 active" id="diva" data-bs-toggle="tab" data-bs-target="#diva-pane" type="button" role="tab" aria-controls="diva-pane" aria-selected="true"><span class="d-none d-lg-inline-block me-1">Division</span>A</button></div>
+						<div class="col mt-2 px-sm-1 mt-sm-0"><button class="w-100 btn btn-outline-dark px-1" id="divb" data-bs-toggle="tab" data-bs-target="#divb-pane" type="button" role="tab" aria-controls="divb-pane" aria-selected="false" tabindex="-1"><span class="d-none d-lg-inline-block me-1">Division</span>B</button></div>
+						<div class="col mt-2 px-sm-1 mt-sm-0"><button class="w-100 btn btn-outline-dark px-1" id="divc" data-bs-toggle="tab" data-bs-target="#divc-pane" type="button" role="tab" aria-controls="divc-pane" aria-selected="false" tabindex="-1"><span class="d-none d-lg-inline-block me-1">Division</span>C</button></div>
+						<div class="col mt-2 px-sm-1 mt-sm-0"><button class="w-100 btn btn-outline-dark px-1" id="divd" data-bs-toggle="tab" data-bs-target="#divd-pane" type="button" role="tab" aria-controls="divd-pane" aria-selected="false" tabindex="-1"><span class="d-none d-lg-inline-block me-1">Division</span>D</button></div>
+						<div class="col mt-2 px-sm-1 mt-sm-0"><button class="w-100 btn btn-outline-dark px-1" id="dive" data-bs-toggle="tab" data-bs-target="#dive-pane" type="button" role="tab" aria-controls="dive-pane" aria-selected="false" tabindex="-1"><span class="d-none d-lg-inline-block me-1">Division</span>E</button></div>
+						<div class="col mt-2 px-sm-1 mt-sm-0"><button class="w-100 btn btn-outline-dark px-1" id="divf" data-bs-toggle="tab" data-bs-target="#divf-pane" type="button" role="tab" aria-controls="divf-pane" aria-selected="false" tabindex="-1"><span class="d-none d-lg-inline-block me-1">Division</span>F</button></div>
+						<div class="col mt-2 px-sm-1 mt-sm-0"><button class="w-100 btn btn-outline-dark px-1 disabled" id="divg" data-bs-toggle="tab" data-bs-target="#divg-pane" type="button" role="tab" aria-controls="divg-pane" aria-selected="false" tabindex="-1"><span class="d-none d-lg-inline-block me-1">Division</span>G</button></div>
+						<div class="col mt-2 px-sm-1 mt-sm-0"><button class="w-100 btn btn-outline-dark px-1 disabled" id="divh" data-bs-toggle="tab" data-bs-target="#divh-pane" type="button" role="tab" aria-controls="divh-pane" aria-selected="false" tabindex="-1"><span class="d-none d-lg-inline-block me-1">Division</span>H</button></div>
+					</div>
 				</div>
-				<div class="col-1">
-					<a href="../../19/7/1-72.html" disabled="" class="btn btn-outline-dark w-100" id="goNext">1971-72</a>
+				<div class="col-6 col-sm-2 col-lg-1 order-2 order-sm-3 offset-lg-1">
+					<a href="../../19/7/1-72.html" disabled="" class="btn btn-outline-dark w-100 px-md-0" id="goNext">1971-72</a>
 				</div>
 			</div>
 
