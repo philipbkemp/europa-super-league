@@ -52,7 +52,7 @@
 ][
 {"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":24,"draw":5,"loss":5,"for":89,"against":27,"isChampion":true},
 {"country":"nld","name":"Feyenoord","id":"feyenoord","win":23,"draw":6,"loss":5,"for":88,"against":40},
-{"country":"nld","name":"AFC Ajax","id":"AFC_Ajax","win":21,"draw":8,"loss":5,"for":74,"against":38},
+{"country":"nld","name":"AFC Ajax","id":"afc_ajax","win":21,"draw":8,"loss":5,"for":74,"against":38},
 {"country":"nld","name":"FC Twente","id":"FC_Twente","win":19,"draw":8,"loss":7,"for":64,"against":32},
 {"country":"nld","name":"AZ '67","id":"AZ_Alkmaar","win":15,"draw":9,"loss":10,"for":46,"against":39},
 {"country":"nld","name":"FC Den Haag","id":"ADO_Den_Haag","win":15,"draw":7,"loss":12,"for":65,"against":51},

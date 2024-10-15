@@ -46,7 +46,7 @@
 {"country":"sco","name":"Raith Rovers","id":"Raith_Rovers_F.C.","win":6,"draw":19,"loss":19,"for":46,"against":80,"isRemoved":true,"isReturning":true},
 {"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":8,"draw":13,"loss":23,"for":42,"against":57,"isRemoved":true}
 ][
-{"country":"nld","name":"Ajax","id":"AFC_Ajax","win":26,"draw":2,"loss":6,"for":86,"against":26,"isChampion":true},
+{"country":"nld","name":"Ajax","id":"afc_ajax","win":26,"draw":2,"loss":6,"for":86,"against":26,"isChampion":true},
 {"country":"nld","name":"Feyenoord","id":"feyenoord","win":19,"draw":13,"loss":2,"for":61,"against":27},
 {"country":"nld","name":"PSV","id":"PSV_Eindhoven","win":17,"draw":10,"loss":7,"for":60,"against":36},
 {"country":"nld","name":"Vitesse Arnhem","id":"SBV_Vitesse","win":17,"draw":6,"loss":11,"for":63,"against":37},

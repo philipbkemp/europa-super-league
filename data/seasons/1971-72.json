@@ -51,7 +51,7 @@
 	{"country":"sco","name":"East Fife","id":"East_Fife_F.C.","win":5,"draw":15,"loss":14,"for":34,"against":61,"isReturning":true},
 	{"country":"sco","name":"Clyde","id":"Clyde_F.C.","win":7,"draw":10,"loss":17,"for":33,"against":66,"isRemoved":true},
 	{"country":"sco","name":"Dunfermline Athletic","id":"Dunfermline_Athletic_F.C.","win":7,"draw":9,"loss":18,"for":31,"against":50,"isRemoved":true},
-	{"country":"nld","name":"AFC Ajax","id":"AFC_Ajax","win":30,"draw":3,"loss":1,"for":104,"against":20,"isChampion":true},
+	{"country":"nld","name":"AFC Ajax","id":"afc_ajax","win":30,"draw":3,"loss":1,"for":104,"against":20,"isChampion":true},
 	{"country":"nld","name":"Feijenoord","id":"feyenoord","win":26,"draw":3,"loss":5,"for":73,"against":24},
 	{"country":"nld","name":"FC Twente","id":"FC_Twente","win":17,"draw":14,"loss":3,"for":50,"against":13},
 	{"country":"nld","name":"Sparta Rotterdam","id":"Sparta_Rotterdam","win":18,"draw":10,"loss":6,"for":73,"against":38},

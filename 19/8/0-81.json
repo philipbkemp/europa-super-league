@@ -51,7 +51,7 @@
 {"country":"sco","name":"Heart of Midlothian","id":"heart_of_midlothian_fc","win":6,"draw":6,"loss":24,"for":27,"against":71,"isRemoved":true,"isReturning":true}
 ][
 {"country":"nld","name":"AZ '67","id":"AZ_Alkmaar","win":27,"draw":6,"loss":1,"for":101,"against":30,"isChampion":true},
-{"country":"nld","name":"AFC Ajax","id":"AFC_Ajax","win":22,"draw":4,"loss":8,"for":88,"against":54},
+{"country":"nld","name":"AFC Ajax","id":"afc_ajax","win":22,"draw":4,"loss":8,"for":88,"against":54},
 {"country":"nld","name":"FC Utrecht","id":"FC_Utrecht","win":18,"draw":9,"loss":7,"for":67,"against":33},
 {"country":"nld","name":"Feyenoord","id":"feyenoord","win":18,"draw":9,"loss":7,"for":74,"against":48},
 {"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":18,"draw":8,"loss":8,"for":62,"against":31},

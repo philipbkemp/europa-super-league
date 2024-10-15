@@ -52,7 +52,7 @@
 	{"country":"sco","name":"Clyde","id":"Clyde_F.C.","win":9,"draw":5,"loss":20,"for":49,"against":83,"isRemoved":true,"isReturning":true},
 	{"country":"sco","name":"Raith Rovers","id":"Raith_Rovers_F.C.","win":2,"draw":5,"loss":27,"for":35,"against":118,"isRemoved":true},
 	{"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":17,"draw":8,"loss":5,"for":67,"against":38,"isChampion":true},
-	{"country":"nld","name":"AFC Ajax","id":"AFC_Ajax","win":17,"draw":5,"loss":8,"for":73,"against":41},
+	{"country":"nld","name":"AFC Ajax","id":"afc_ajax","win":17,"draw":5,"loss":8,"for":73,"against":41},
 	{"country":"nld","name":"Sparta Rotterdam","id":"Sparta_Rotterdam","win":17,"draw":5,"loss":8,"for":60,"against":38},
 	{"country":"nld","name":"Feijenoord","id":"feyenoord","win":14,"draw":9,"loss":7,"for":58,"against":40},
 	{"country":"nld","name":"SC Enschede","id":"Sportclub_Enschede","win":12,"draw":9,"loss":9,"for":58,"against":46},

@@ -44,7 +44,7 @@
 {"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":10,"draw":11,"loss":15,"for":43,"against":46},
 {"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":9,"draw":9,"loss":18,"for":40,"against":56,"isRemoved":true}
 ][
-{"country":"nld","name":"Ajax","id":"AFC_Ajax","win":27,"draw":7,"loss":0,"for":106,"against":28,"isChampion":true},
+{"country":"nld","name":"Ajax","id":"afc_ajax","win":27,"draw":7,"loss":0,"for":106,"against":28,"isChampion":true},
 {"country":"nld","name":"Roda JC","id":"Roda_JC_Kerkrade","win":22,"draw":10,"loss":2,"for":70,"against":28},
 {"country":"nld","name":"PSV","id":"PSV_Eindhoven","win":20,"draw":7,"loss":7,"for":85,"against":46},
 {"country":"nld","name":"Feyenoord","id":"feyenoord","win":19,"draw":5,"loss":10,"for":66,"against":56},

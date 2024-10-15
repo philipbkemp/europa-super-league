@@ -51,7 +51,7 @@
 {"country":"sco","name":"Hamilton Academical","id":"Hamilton_Academical_F.C.","win":6,"draw":9,"loss":29,"for":39,"against":93,"isRemoved":true,"isReturning":true}
 ][
 {"country":"nld","name":"PSV","id":"PSV_Eindhoven","win":27,"draw":5,"loss":2,"for":99,"against":21,"isChampion":true},
-{"country":"nld","name":"Ajax","id":"AFC_Ajax","win":25,"draw":3,"loss":6,"for":92,"against":30},
+{"country":"nld","name":"Ajax","id":"afc_ajax","win":25,"draw":3,"loss":6,"for":92,"against":30},
 {"country":"nld","name":"Feyenoord","id":"feyenoord","win":15,"draw":12,"loss":7,"for":73,"against":43},
 {"country":"nld","name":"Roda JC","id":"Roda_JC_Kerkrade","win":15,"draw":9,"loss":10,"for":51,"against":45},
 {"country":"nld","name":"VVV","id":"VVV-Venlo","win":10,"draw":17,"loss":7,"for":46,"against":45},

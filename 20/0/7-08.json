@@ -47,7 +47,7 @@
 {"country":"sco","name":"Gretna","id":"Gretna_F.C.","win":5,"draw":8,"loss":25,"for":32,"against":83,"isRemoved":true,"deduct":-10,"deductReason":"Entered Adminstration","isNew":true}
 ][
 {"country":"nld","name":"PSV","id":"PSV_Eindhoven","win":21,"draw":9,"loss":4,"for":65,"against":24,"isChampion":true},
-{"country":"nld","name":"Ajax","id":"AFC_Ajax","win":20,"draw":9,"loss":5,"for":94,"against":45},
+{"country":"nld","name":"Ajax","id":"afc_ajax","win":20,"draw":9,"loss":5,"for":94,"against":45},
 {"country":"nld","name":"NAC Breda","id":"NAC_Breda","win":19,"draw":6,"loss":9,"for":48,"against":40},
 {"country":"nld","name":"Twente","id":"FC_Twente","win":17,"draw":11,"loss":6,"for":52,"against":32},
 {"country":"nld","name":"Heerenveen","id":"SC_Heerenveen","win":18,"draw":6,"loss":10,"for":88,"against":48},

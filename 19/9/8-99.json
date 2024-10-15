@@ -49,7 +49,7 @@
 {"country":"nld","name":"PSV","id":"PSV_Eindhoven","win":17,"draw":10,"loss":7,"for":87,"against":55},
 {"country":"nld","name":"Vitesse Arnhem","id":"SBV_Vitesse","win":18,"draw":7,"loss":9,"for":61,"against":44},
 {"country":"nld","name":"Roda JC","id":"Roda_JC_Kerkrade","win":17,"draw":9,"loss":8,"for":59,"against":40},
-{"country":"nld","name":"Ajax","id":"AFC_Ajax","win":16,"draw":9,"loss":9,"for":73,"against":41},
+{"country":"nld","name":"Ajax","id":"afc_ajax","win":16,"draw":9,"loss":9,"for":73,"against":41},
 {"country":"nld","name":"sc Heerenveen","id":"SC_Heerenveen","win":14,"draw":12,"loss":8,"for":53,"against":41},
 {"country":"nld","name":"FC Twente","id":"FC_Twente","win":13,"draw":13,"loss":8,"for":51,"against":45},
 {"country":"nld","name":"AZ","id":"AZ_Alkmaar","win":12,"draw":12,"loss":10,"for":52,"against":60,"isReturning":true},

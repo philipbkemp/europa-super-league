@@ -44,7 +44,7 @@
 {"country":"sco","name":"Partick Thistle","id":"Partick_Thistle_F.C.","win":8,"draw":6,"loss":22,"for":29,"against":62,"isRemoved":true},
 {"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":6,"draw":6,"loss":24,"for":31,"against":60,"isRemoved":true}
 ][
-{"country":"nld","name":"Ajax","id":"AFC_Ajax","win":26,"draw":5,"loss":3,"for":97,"against":24,"isChampion":true},
+{"country":"nld","name":"Ajax","id":"afc_ajax","win":26,"draw":5,"loss":3,"for":97,"against":24,"isChampion":true},
 {"country":"nld","name":"PSV","id":"PSV_Eindhoven","win":24,"draw":5,"loss":5,"for":97,"against":25},
 {"country":"nld","name":"Feyenoord","id":"feyenoord","win":18,"draw":9,"loss":7,"for":66,"against":36},
 {"country":"nld","name":"Roda JC","id":"Roda_JC_Kerkrade","win":15,"draw":12,"loss":7,"for":51,"against":35},

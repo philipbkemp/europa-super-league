@@ -50,7 +50,7 @@
 {"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":10,"draw":6,"loss":20,"for":47,"against":73,"isRemoved":true,"isReturning":true},
 {"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":6,"draw":6,"loss":24,"for":29,"against":67,"isRemoved":true}
 ][
-{"country":"nld","name":"AFC Ajax","id":"AFC_Ajax","win":22,"draw":6,"loss":6,"for":77,"against":41,"isChampion":true},
+{"country":"nld","name":"AFC Ajax","id":"afc_ajax","win":22,"draw":6,"loss":6,"for":77,"against":41,"isChampion":true},
 {"country":"nld","name":"AZ '67","id":"AZ_Alkmaar","win":20,"draw":7,"loss":7,"for":77,"against":36},
 {"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":18,"draw":8,"loss":8,"for":66,"against":37},
 {"country":"nld","name":"Feyenoord","id":"feyenoord","win":15,"draw":13,"loss":6,"for":58,"against":36},

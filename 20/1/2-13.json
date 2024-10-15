@@ -46,7 +46,7 @@
 {"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":9,"draw":14,"loss":15,"for":47,"against":60},
 {"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":7,"draw":9,"loss":22,"for":28,"against":66,"isRemoved":true,"isReturning":true}
 ][
-{"country":"nld","name":"Ajax","id":"AFC_Ajax","win":22,"draw":10,"loss":2,"for":83,"against":31,"isChampion":true},
+{"country":"nld","name":"Ajax","id":"afc_ajax","win":22,"draw":10,"loss":2,"for":83,"against":31,"isChampion":true},
 {"country":"nld","name":"PSV","id":"PSV_Eindhoven","win":22,"draw":3,"loss":9,"for":103,"against":43},
 {"country":"nld","name":"Feyenoord","id":"feyenoord","win":21,"draw":6,"loss":7,"for":64,"against":38},
 {"country":"nld","name":"Vitesse Arnhem","id":"SBV_Vitesse","win":19,"draw":7,"loss":8,"for":68,"against":42},

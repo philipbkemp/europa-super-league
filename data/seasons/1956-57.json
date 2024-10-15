@@ -49,7 +49,7 @@
 	{"country":"sco","name":"Queen of the South","id":"Queen_of_the_South_F.C.","win":10,"draw":5,"loss":19,"for":54,"against":96},
 	{"country":"sco","name":"Dunfermline Athletic","id":"Dunfermline_Athletic_F.C.","win":9,"draw":6,"loss":19,"for":54,"against":74,"isRemoved":true},
 	{"country":"sco","name":"Ayr United","id":"Ayr_United_F.C.","win":7,"draw":5,"loss":22,"for":48,"against":89,"isRemoved":true,"isReturning":true},
-	{"country":"nld","name":"AFC Ajax","id":"AFC_Ajax","win":22,"draw":5,"loss":7,"for":64,"against":40,"isChampion":true,"isNew":true},
+	{"country":"nld","name":"AFC Ajax","id":"afc_ajax","win":22,"draw":5,"loss":7,"for":64,"against":40,"isChampion":true,"isNew":true},
 	{"country":"nld","name":"Fortuna '54","id":"Fortuna_Sittard","win":20,"draw":5,"loss":9,"for":76,"against":48,"isNew":true},
 	{"country":"nld","name":"SC Enschede","id":"Sportclub_Enschede","win":15,"draw":11,"loss":8,"for":81,"against":47,"isNew":true},
 	{"country":"nld","name":"MVV Maastricht","id":"MVV_Maastricht","win":15,"draw":10,"loss":9,"for":53,"against":42,"isNew":true},

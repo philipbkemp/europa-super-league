@@ -54,7 +54,7 @@
 {"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":7,"draw":8,"loss":19,"for":40,"against":71,"isRemoved":true},
 {"country":"sco","name":"Airdrieonians","id":"Airdrieonians_F.C._(1878)","win":4,"draw":8,"loss":22,"for":34,"against":75,"isRemoved":true}
 ][
-{"country":"nld","name":"AFC Ajax","id":"AFC_Ajax","win":30,"draw":0,"loss":4,"for":102,"against":18,"isChampion":true},
+{"country":"nld","name":"AFC Ajax","id":"afc_ajax","win":30,"draw":0,"loss":4,"for":102,"against":18,"isChampion":true},
 {"country":"nld","name":"Feijenoord","id":"feyenoord","win":27,"draw":4,"loss":3,"for":89,"against":28},
 {"country":"nld","name":"FC Twente","id":"FC_Twente","win":22,"draw":6,"loss":6,"for":53,"against":22},
 {"country":"nld","name":"Sparta Rotterdam","id":"Sparta_Rotterdam","win":21,"draw":5,"loss":8,"for":85,"against":37},
