@@ -24,7 +24,7 @@
 - run "getWinner()" and paste into winners file
 - verify HTML version of winners file
 - add link to new season on homepage
-- delete from years file
+- formatFix()
 - push to GIT
 
 - does the champion have their own page? if not, make it
