@@ -829,3 +829,125 @@ function saveClubs(refresh=false) {
 		}
 	});
 }
+
+function formatFixer() {
+	formatted = [];
+
+	theSeason = document.querySelector('h1').innerText.replace("\nHome","").replace("Europa Super League","").trim();
+	prevLink = document.querySelector("a#goPrev");
+	prevLinkHref = prevLink.getAttribute("href").split("/");
+	nextLink = document.querySelector("a#goNext");
+	nextLinkHref = nextLink.getAttribute("href").split("/");
+	thisPage = window.location.href.substring(window.location.href.indexOf("esl")).split("/");
+	goPrev = prevLinkHref.pop(); // season
+	pd = prevLinkHref.pop();
+	goPrev = (pd?pd:thisPage[2]) + "/" + goPrev; // decade
+	pc = prevLinkHref.pop();
+	goPrev = (pc===".."||!pc?thisPage[1]:pc) + "/" + goPrev; // century
+	goPrev = "../../" + goPrev; 
+	goNext = nextLinkHref.pop(); // season
+	nd = nextLinkHref.pop();
+	goNext = (nd?nd:thisPage[2]) + "/" + goNext; // decade
+	nc = nextLinkHref.pop();
+	goNext =  (nc===".."||!nc?thisPage[1]:nc) + "/" + goNext; // century
+	goNext = "../../" + goNext;
+	tabs = [
+		document.querySelector("#diva"),
+		document.querySelector("#divb"),
+		document.querySelector("#divc"),
+		document.querySelector("#divd"),
+		document.querySelector("#dive"),
+		document.querySelector("#divf"),
+		document.querySelector("#divg"),
+		document.querySelector("#divh"),
+	];
+	tabLabels = ["a","b","c","d","e","f","g","h"];
+
+
+	formatted.push('<!doctype html>');
+	formatted.push('<html>');
+		formatted.push('\t<head>');
+			formatted.push('\t\t<meta charset="utf-8" />');
+			formatted.push('\t\t<meta name="viewport" content="width=device-width, initial-scale=1" />');
+			formatted.push('\t\t<title>Europa Super League > '+theSeason+'</title>');
+			formatted.push('\t\t<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous" />');
+			formatted.push('\t\t<link rel="stylesheet" href="../../styles.css" />');
+		formatted.push('\t</head>');
+		formatted.push('\t<body>');
+			formatted.push('\t\t<div class="container pt-4">');
+				formatted.push('\t\t\t');
+				formatted.push('\t\t\t<h1>');
+					formatted.push('\t\t\t\t<span class="d-block">Europa Super League</span>');
+					formatted.push('\t\t\t\t'+theSeason);
+					formatted.push('\t\t\t\t<a href="../../index.html" class="btn btn-outline-dark float-end">Home</a>');
+				formatted.push('\t\t\t</h1>');
+				formatted.push('\t\t\t');
+				formatted.push('\t\t\t<hr />');
+				formatted.push('\t\t\t');
+				
+				formatted.push('\t\t\t<div class="row pt-3 pb-3">');
+					formatted.push('\t\t\t\t<div class="col-6 col-sm-2 col-lg-1">');
+						formatted.push('\t\t\t\t\t<a href="'+goPrev+'" '+(prevLink.classList.contains("disabled") ? "disabled " : "") +'class="btn btn-outline-dark w-100 px-md-0'+(prevLink.classList.contains("disabled") ? " disabled" : "")+'">'+prevLink.innerText+'</a>');
+					formatted.push('\t\t\t\t</div>');
+					formatted.push('\t\t\t\t');
+					formatted.push('\t\t\t\t<div class="col-12 col-sm-8 offset-lg-1 text-center order-3 order-sm-2" id="divisions" role="tablist">');
+					formatted.push('\t\t\t\t\t<div class="row row-cols-4 row-cols-sm-8">');
+					for ( i=0 ; i!==8 ; i++ ) {
+						formatted.push('\t\t\t\t\t\t<div class="col mt-2 px-sm-1 mt-sm-0">');
+							if ( tabs[i].classList.contains("disabled") ) {
+								formatted.push('\t\t\t\t\t\t\t<button class="w-100 btn btn-outline-dark px-1 disabled" id="div'+tabLabels[i]+'" type="button">');
+							} else {
+								formatted.push('\t\t\t\t\t\t\t<button class="w-100 btn btn-outline-dark px-1'+(i===0?' active':'')+'" id="div'+tabLabels[i]+'" data-bs-toggle="tab" data-bs-target="#div'+tabLabels[i]+'-pane" type="button" role="tab" aria-controls="div'+tabLabels[i]+'" aria-selected="'+(i===0?'true':'false')+'">');
+							}
+								formatted.push('\t\t\t\t\t\t\t\t<span class="d-none d-lg-inline-block me-1">Division</span>'+tabLabels[i].toUpperCase());
+							formatted.push('\t\t\t\t\t\t\t</button>');
+						formatted.push('\t\t\t\t\t\t</div>');
+					}
+					formatted.push('\t\t\t\t\t</div>');
+					formatted.push('\t\t\t\t</div>');
+					formatted.push('\t\t\t\t');
+					formatted.push('\t\t\t\t<div class="col-6 col-sm-2 col-lg-1 order-2 order-sm-3 offset-lg-1">');
+						formatted.push('\t\t\t\t\t<a href="'+goNext+'" '+(nextLink.classList.contains("disabled") ? "disabled " : "") +'class="btn btn-outline-dark w-100 px-md-0'+(nextLink.classList.contains("disabled") ? " disabled" : "")+'">'+nextLink.innerText+'</a>');
+					formatted.push('\t\t\t\t</div>');
+				formatted.push('\t\t\t</div>');
+
+				formatted.push('\t\t\t');
+				
+				formatted.push('\t\t\t<div class="tab-content" id="divisionsTables">');
+					for ( i=0 ; i!==8 ; i++ ) {
+						if ( ! tabs[i].classList.contains("disabled") ) {
+							formatted.push('\t\t\t\t<div class="tab-pane'+(i===0?' active show':'')+'" id="div'+tabLabels[i]+'-pane" role="tabpanel" aria-labelledby="div'+tabLabels[i]+'" tabindex="0">');
+								formatted.push('\t\t\t\t\t<div>');
+									formatted.push('\t\t\t\t\t\t<table class="table table-hover table-sm">');
+										formatted.push('\t\t\t\t\t\t\t<thead>');
+											formatted.push('\t\t\t\t\t\t\t\t<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>');
+										formatted.push('\t\t\t\t\t\t\t</thead>');
+										formatted.push('\t\t\t\t\t\t\t<tbody class="table-group-divider league" id="league_'+tabLabels[i]+'">');
+											formatted.push('\t\t\t\t\t\t\t\t');
+											clubs = document.querySelectorAll("#league_"+tabLabels[i]+" tr");
+
+											clubs.forEach(row=>{
+												clubClass = row.getAttribute("class");
+												clubClass = ! clubClass ? "" : ' class="'+clubClass+'"';
+												formatted.push('\t\t\t\t\t\t\t\t<tr id="'+row.getAttribute("id")+'"'+clubClass+'>'+row.innerHTML+'</tr>');
+											});
+
+											formatted.push('\t\t\t\t\t\t\t\t');
+										formatted.push('\t\t\t\t\t\t\t</tbody>');
+									formatted.push('\t\t\t\t\t\t</table>');
+								formatted.push('\t\t\t\t\t</div>');
+							formatted.push('\t\t\t\t</div>');
+						}
+					}
+				formatted.push('\t\t\t</div>');
+				
+				formatted.push('\t\t\t');
+			formatted.push('\t\t</div>');
+			formatted.push('\t\t<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>');
+			formatted.push('\t\t<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>');
+			formatted.push('\t\t<script src="../../esl-script.js"></script>');
+		formatted.push('\t</body>');
+	formatted.push('</html>');
+
+	console.log(formatted.join("\n"));
+}

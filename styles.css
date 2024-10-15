@@ -120,3 +120,4 @@ table.newclubs * { background-color: #eee !important; }
     #divisionsTables thead tr th:nth-child(3),
     #divisionsTables tbody tr th { display: table-cell !important; }
 }
+a[istodo] { border: 1px dotted red; }
