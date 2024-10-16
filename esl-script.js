@@ -107,6 +107,8 @@ if ( $("h1 .placeholder").length !== 0 ) {
 	data.forEach(team=>{
 		team.played = team.win + team.draw + team.loss;
 		if ( team.played !== 0 ) {
+			if ( team.penWins ) { team.draw += team.penWins; }
+			if ( team.penLoss ) { team.draw += team.penLoss; }
 			team.points = (team.win*3) + team.draw;
 			if ( typeof(team.deduct) !== "undefined" ) {
 				team.points = team.points + team.deduct;
@@ -267,6 +269,9 @@ if ( $("h1 .placeholder").length !== 0 ) {
 		});
 
 		tbody.append(teamRow);
+
+		keys.splice(keys.indexOf("penWin"),1);
+		keys.splice(keys.indexOf("penLoss"),1);
 
 		if ( keys.length !== 0 ) {
 			console.error("deal with " + keys);
@@ -823,6 +828,8 @@ function saveClubs(refresh=false) {
 					countryFlag = "cze";
 				} else if ( v === "hsk_gradanski_zagreb" ) {
 					countryFlag = "hrv";
+				} else if ( v === "apoel_fc" ) {
+					countryFlag = "cyp";
 				}
 				clubName.html( clubName.html().replace(clubName.text(),"<a href='../../clubs/"+countryFlag+"/"+$sr.attr("id")+".html'>"+clubName.text()+"</a>") );
 			}
