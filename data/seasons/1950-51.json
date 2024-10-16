@@ -367,7 +367,7 @@
 	{"country":"sov","name":"Neftyanik Baku","id":"Neftçi_PFK","win":6,"draw":9,"loss":21,"for":37,"against":73,"isRemoved":true},
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":6,"draw":2,"loss":0,"for":22,"against":6,"isChampion":true},
 	{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":4,"draw":1,"loss":3,"for":25,"against":10},
-	{"country":"fro","name":"HB Tórshavn","id":"Havnar_Bóltfelag","win":4,"draw":1,"loss":3,"for":19,"against":11},
+	{"country":"fro","name":"HB Tórshavn","id":"havnar_boltfelag","win":4,"draw":1,"loss":3,"for":19,"against":11},
 	{"country":"fro","name":"KÍ Klaksvík","id":"klaksvikar_itrottarfelag","win":2,"draw":2,"loss":4,"for":11,"against":13},
 	{"country":"fro","name":"VB Vágur","id":"Vágs_Bóltfelag","win":1,"draw":0,"loss":7,"for":3,"against":40,"isRemoved":true},
 	{"country":"csk","name":"NV Bratislava","id":"ŠK_Slovan_Bratislava","win":16,"draw":3,"loss":7,"for":62,"against":35,"isChampion":true},

@@ -463,7 +463,7 @@
 {"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":6,"draw":10,"loss":14,"for":29,"against":53,"isRemoved":true},
 {"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":2,"draw":10,"loss":18,"for":29,"against":59,"isRemoved":true}
 ][
-{"country":"fro","name":"HB","id":"Havnar_Bóltfelag","win":16,"draw":7,"loss":4,"for":59,"against":37,"isChampion":true},
+{"country":"fro","name":"HB","id":"havnar_boltfelag","win":16,"draw":7,"loss":4,"for":59,"against":37,"isChampion":true},
 {"country":"fro","name":"EB/Streymur","id":"EB/Streymur","win":15,"draw":5,"loss":7,"for":56,"against":34},
 {"country":"fro","name":"Víkingur Gøta","id":"Víkingur_Gøta","win":14,"draw":5,"loss":8,"for":51,"against":36},
 {"country":"fro","name":"NSÍ Runavík","id":"NSÍ_Runavík","win":13,"draw":5,"loss":9,"for":56,"against":46},

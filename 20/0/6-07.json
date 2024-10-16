@@ -465,7 +465,7 @@
 {"country":"nor","name":"Ham-Kam","id":"Hamarkameratene","win":7,"draw":7,"loss":12,"for":35,"against":39,"isRemoved":true},
 {"country":"nor","name":"Molde","id":"Molde_FK","win":7,"draw":4,"loss":15,"for":29,"against":50,"isRemoved":true}
 ][
-{"country":"fro","name":"HB","id":"Havnar_Bóltfelag","win":16,"draw":7,"loss":4,"for":61,"against":36,"isChampion":true},
+{"country":"fro","name":"HB","id":"havnar_boltfelag","win":16,"draw":7,"loss":4,"for":61,"against":36,"isChampion":true},
 {"country":"fro","name":"EB/Streymur","id":"EB/Streymur","win":16,"draw":6,"loss":5,"for":63,"against":30},
 {"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":13,"draw":8,"loss":6,"for":45,"against":32},
 {"country":"fro","name":"KÍ","id":"klaksvikar_itrottarfelag","win":12,"draw":9,"loss":6,"for":54,"against":39},

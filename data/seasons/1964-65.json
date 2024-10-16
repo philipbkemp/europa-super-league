@@ -433,7 +433,7 @@
 	{"country":"sov","name":"Kairat Alma-Ata","id":"FC_Kairat","win":8,"draw":10,"loss":14,"for":23,"against":27,"isRemoved":true},
 	{"country":"sov","name":"Shinnik Yaroslavl","id":"FC_Shinnik_Yaroslavl","win":6,"draw":9,"loss":17,"for":20,"against":48,"isRemoved":true,"isNew":true},
 	{"country":"sov","name":"Moldova Chișinău","id":"FC_Zimbru_Chișinău","win":6,"draw":6,"loss":20,"for":15,"against":44,"isRemoved":true},
-	{"country":"fro","name":"Havnar Bóltfelag","id":"Havnar_Bóltfelag","win":3,"draw":0,"loss":1,"for":15,"against":6,"isChampion":true},
+	{"country":"fro","name":"Havnar Bóltfelag","id":"havnar_boltfelag","win":3,"draw":0,"loss":1,"for":15,"against":6,"isChampion":true},
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":2,"draw":0,"loss":2,"for":6,"against":7},
 	{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":1,"draw":0,"loss":3,"for":8,"against":16},
 	{"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":18,"draw":6,"loss":2,"for":59,"against":22,"isChampion":true,"deduct":-2},

@@ -340,7 +340,7 @@
 	{"country":"sov","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":1,"draw":3,"loss":9,"for":10,"against":29,"isRemoved":true,"isReturning":true},
 	{"country":"fro","name":"KÍ Klaksvík","id":"klaksvikar_itrottarfelag","win":7,"draw":0,"loss":1,"for":21,"against":6,"isChampion":true},
 	{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":7,"draw":0,"loss":1,"for":24,"against":7},
-	{"country":"fro","name":"HB Tórshavn","id":"Havnar_Bóltfelag","win":3,"draw":0,"loss":5,"for":10,"against":17},
+	{"country":"fro","name":"HB Tórshavn","id":"havnar_boltfelag","win":3,"draw":0,"loss":5,"for":10,"against":17},
 	{"country":"fro","name":"VB Vagur","id":"Vágs_Bóltfelag","win":1,"draw":2,"loss":5,"for":7,"against":21,"isReturning":true},
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":0,"draw":2,"loss":6,"for":3,"against":14},
 	{"country":"csk","name":"Sparta ČKD Sokolovo","id":"ac_sparta_prague","win":18,"draw":5,"loss":3,"for":63,"against":22,"isChampion":true},

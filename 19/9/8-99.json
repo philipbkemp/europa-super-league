@@ -480,7 +480,7 @@
 {"country":"nor","name":"Haugesund","id":"FK_Haugesund","win":6,"draw":5,"loss":15,"for":41,"against":55,"isRemoved":true},
 {"country":"nor","name":"Sogndal","id":"Sogndal_Fotball","win":4,"draw":4,"loss":18,"for":26,"against":80,"isRemoved":true}
 ][
-{"country":"fro","name":"Havnar Bóltfelag","id":"Havnar_Bóltfelag","win":14,"draw":3,"loss":1,"for":57,"against":19,"isChampion":true},
+{"country":"fro","name":"Havnar Bóltfelag","id":"havnar_boltfelag","win":14,"draw":3,"loss":1,"for":57,"against":19,"isChampion":true},
 {"country":"fro","name":"KÍ Klaksvík","id":"klaksvikar_itrottarfelag","win":11,"draw":5,"loss":2,"for":54,"against":24},
 {"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":11,"draw":4,"loss":3,"for":59,"against":24},
 {"country":"fro","name":"GÍ Gøta","id":"Gøtu_Ítróttarfelag","win":8,"draw":4,"loss":6,"for":48,"against":30},

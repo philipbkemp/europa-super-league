@@ -467,7 +467,7 @@
 {"country":"nor","name":"Kongsvinger","id":"Kongsvinger_IL_Toppfotball","win":4,"draw":8,"loss":18,"for":27,"against":58,"isRemoved":true,"isReturning":true},
 {"country":"nor","name":"Sandefjord","id":"Sandefjord_Fotball","win":2,"draw":6,"loss":22,"for":25,"against":58,"isRemoved":true}
 ][
-{"country":"fro","name":"HB","id":"Havnar_Bóltfelag","win":16,"draw":6,"loss":5,"for":49,"against":32,"isChampion":true},
+{"country":"fro","name":"HB","id":"havnar_boltfelag","win":16,"draw":6,"loss":5,"for":49,"against":32,"isChampion":true},
 {"country":"fro","name":"EB/Streymur","id":"EB/Streymur","win":14,"draw":9,"loss":4,"for":65,"against":30},
 {"country":"fro","name":"NSÍ Runavík","id":"NSÍ_Runavík","win":14,"draw":6,"loss":7,"for":60,"against":33},
 {"country":"fro","name":"ÍF","id":"Ítróttarfelag_Fuglafjarðar","win":12,"draw":7,"loss":8,"for":50,"against":41},

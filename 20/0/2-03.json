@@ -449,7 +449,7 @@
 {"country":"nor","name":"Moss","id":"Moss_FK","win":6,"draw":6,"loss":14,"for":32,"against":49,"isRemoved":true},
 {"country":"nor","name":"Start","id":"IK_Start","win":2,"draw":5,"loss":19,"for":21,"against":72,"isRemoved":true,"isReturning":true}
 ][
-{"country":"fro","name":"Havnar Bóltfelag","id":"Havnar_Bóltfelag","win":13,"draw":2,"loss":3,"for":52,"against":19,"isChampion":true},
+{"country":"fro","name":"Havnar Bóltfelag","id":"havnar_boltfelag","win":13,"draw":2,"loss":3,"for":52,"against":19,"isChampion":true},
 {"country":"fro","name":"NSÍ Runavík","id":"NSÍ_Runavík","win":11,"draw":3,"loss":4,"for":38,"against":21},
 {"country":"fro","name":"KÍ Klaksvík","id":"klaksvikar_itrottarfelag","win":10,"draw":3,"loss":5,"for":45,"against":25},
 {"country":"fro","name":"GÍ Gøta","id":"Gøtu_Ítróttarfelag","win":10,"draw":2,"loss":6,"for":33,"against":30},
