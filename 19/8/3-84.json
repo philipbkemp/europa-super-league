@@ -470,7 +470,7 @@
 {"country":"cyp","name":"Ethnikos Achna","id":"Ethnikos_Achna_FC","win":6,"draw":4,"loss":16,"for":29,"against":56,"isRemoved":true,"isNew":true},
 {"country":"cyp","name":"Ermis Aradippou","id":"Ermis_Aradippou_FC","win":3,"draw":7,"loss":16,"for":23,"against":56,"isRemoved":true,"isNew":true}
 ][
-{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":24,"draw":4,"loss":2,"for":86,"against":22,"isChampion":true},
+{"country":"prt","name":"Benfica","id":"sl_benfica","win":24,"draw":4,"loss":2,"for":86,"against":22,"isChampion":true},
 {"country":"prt","name":"Porto","id":"fc_porto","win":22,"draw":5,"loss":3,"for":65,"against":9},
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":19,"draw":4,"loss":7,"for":58,"against":24},
 {"country":"prt","name":"Braga","id":"S.C._Braga","win":15,"draw":7,"loss":8,"for":40,"against":32},

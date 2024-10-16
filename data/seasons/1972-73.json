@@ -433,7 +433,7 @@
 	{"country":"cyp","name":"Alki Larnaca FC","id":"Alki_Larnaca_FC","win":5,"draw":10,"loss":11,"for":18,"against":26},
 	{"country":"cyp","name":"Nea Salamis FC","id":"Nea_Salamis_Famagusta_FC","win":8,"draw":4,"loss":14,"for":18,"against":28},
 	{"country":"cyp","name":"ASIL Lysi","id":"ASIL_Lysi","win":5,"draw":8,"loss":13,"for":17,"against":37,"isRemoved":true,"isReturning":true},
-	{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":28,"draw":2,"loss":0,"for":101,"against":13,"isChampion":true},
+	{"country":"prt","name":"Benfica","id":"sl_benfica","win":28,"draw":2,"loss":0,"for":101,"against":13,"isChampion":true},
 	{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":14,"draw":12,"loss":4,"for":53,"against":30},
 	{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":16,"draw":6,"loss":8,"for":65,"against":26},
 	{"country":"prt","name":"Porto","id":"fc_porto","win":15,"draw":7,"loss":8,"for":56,"against":28},

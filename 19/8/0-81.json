@@ -471,7 +471,7 @@
 {"country":"cyp","name":"Alki Larnaca","id":"Alki_Larnaca_FC","win":7,"draw":7,"loss":12,"for":25,"against":40,"isRemoved":true},
 {"country":"cyp","name":"Aris Limassol","id":"Aris_Limassol_FC","win":7,"draw":3,"loss":16,"for":29,"against":52,"isRemoved":true}
 ][
-{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":22,"draw":6,"loss":2,"for":72,"against":15,"isChampion":true},
+{"country":"prt","name":"Benfica","id":"sl_benfica","win":22,"draw":6,"loss":2,"for":72,"against":15,"isChampion":true},
 {"country":"prt","name":"Porto","id":"fc_porto","win":21,"draw":6,"loss":3,"for":53,"against":18},
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":14,"draw":9,"loss":7,"for":48,"against":28},
 {"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":14,"draw":8,"loss":8,"for":36,"against":25},

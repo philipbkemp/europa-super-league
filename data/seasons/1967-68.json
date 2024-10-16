@@ -403,7 +403,7 @@
 	{"country":"cyp","name":"ASIL Lysi","id":"ASIL_Lysi","win":7,"draw":2,"loss":13,"for":31,"against":58,"isNew":true},
 	{"country":"cyp","name":"Aris Limassol F.C.","id":"Aris_Limassol_FC","win":5,"draw":1,"loss":16,"for":32,"against":80},
 	{"country":"cyp","name":"APOP Paphos","id":"APOP_Paphos_FC","win":2,"draw":1,"loss":19,"for":15,"against":90,"isRemoved":true},
-	{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":18,"draw":5,"loss":3,"for":75,"against":19,"isChampion":true},
+	{"country":"prt","name":"Benfica","id":"sl_benfica","win":18,"draw":5,"loss":3,"for":75,"against":19,"isChampion":true},
 	{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":17,"draw":3,"loss":6,"for":48,"against":24},
 	{"country":"prt","name":"Porto","id":"fc_porto","win":16,"draw":4,"loss":6,"for":60,"against":24},
 	{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":15,"draw":5,"loss":6,"for":53,"against":24},

@@ -283,7 +283,7 @@
 	{"country":"cyp","name":"Aris Limassol F.C.","id":"Aris_Limassol_FC","win":1,"draw":3,"loss":8,"for":20,"against":30},
 	{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":1,"draw":3,"loss":8,"for":18,"against":49,"isRemoved":true},
 	{"country":"cyp","name":"Anorthosis Famagusta FC","id":"Anorthosis_Famagusta_FC","win":2,"draw":1,"loss":9,"for":10,"against":51,"isRemoved":true},
-	{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":12,"draw":0,"loss":2,"for":57,"against":13,"isChampion":true},
+	{"country":"prt","name":"Benfica","id":"sl_benfica","win":12,"draw":0,"loss":2,"for":57,"against":13,"isChampion":true},
 	{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":11,"draw":1,"loss":2,"for":46,"against":17},
 	{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":9,"draw":2,"loss":3,"for":54,"against":25},
 	{"country":"prt","name":"Porto","id":"fc_porto","win":6,"draw":2,"loss":6,"for":31,"against":31},

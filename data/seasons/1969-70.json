@@ -427,7 +427,7 @@
 	{"country":"cyp","name":"Alki Larnaca FC","id":"Alki_Larnaca_FC","win":7,"draw":3,"loss":12,"for":25,"against":36},
 	{"country":"cyp","name":"Aris Limassol F.C.","id":"Aris_Limassol_FC","win":1,"draw":9,"loss":12,"for":10,"against":40,"isRemoved":true},
 	{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":21,"draw":4,"loss":1,"for":61,"against":17,"isChampion":true},
-	{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":17,"draw":4,"loss":5,"for":58,"against":14},
+	{"country":"prt","name":"Benfica","id":"sl_benfica","win":17,"draw":4,"loss":5,"for":58,"against":14},
 	{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":16,"draw":4,"loss":6,"for":58,"against":26},
 	{"country":"prt","name":"Barreirense","id":"F.C._Barreirense","win":11,"draw":6,"loss":9,"for":42,"against":33,"isReturning":true},
 	{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":12,"draw":4,"loss":10,"for":38,"against":36},

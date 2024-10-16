@@ -428,7 +428,7 @@
 {"country":"cyp","name":"Othellos Athienou","id":"Othellos_Athienou_FC","win":5,"draw":10,"loss":17,"for":26,"against":42,"isRemoved":true,"isNew":true},
 {"country":"cyp","name":"Doxa Katokopias","id":"Doxa_Katokopias_FC","win":7,"draw":7,"loss":18,"for":29,"against":55}
 ][
-{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":27,"draw":4,"loss":3,"for":86,"against":16,"isChampion":true},
+{"country":"prt","name":"Benfica","id":"sl_benfica","win":27,"draw":4,"loss":3,"for":86,"against":16,"isChampion":true},
 {"country":"prt","name":"Porto","id":"fc_porto","win":25,"draw":7,"loss":2,"for":74,"against":13},
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":22,"draw":10,"loss":2,"for":67,"against":29},
 {"country":"prt","name":"Braga","id":"S.C._Braga","win":17,"draw":7,"loss":10,"for":55,"against":28},

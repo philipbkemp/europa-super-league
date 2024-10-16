@@ -409,7 +409,7 @@
 	{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":6,"draw":3,"loss":13,"for":36,"against":53},
 	{"country":"cyp","name":"Aris Limassol F.C.","id":"Aris_Limassol_FC","win":1,"draw":3,"loss":18,"for":17,"against":102},
 	{"country":"cyp","name":"APOP Paphos","id":"APOP_Paphos_FC","win":1,"draw":2,"loss":19,"for":21,"against":107,"isNew":true},
-	{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":20,"draw":3,"loss":3,"for":64,"against":19,"isChampion":true},
+	{"country":"prt","name":"Benfica","id":"sl_benfica","win":20,"draw":3,"loss":3,"for":64,"against":19,"isChampion":true},
 	{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":18,"draw":4,"loss":4,"for":50,"against":18},
 	{"country":"prt","name":"Porto","id":"fc_porto","win":17,"draw":5,"loss":4,"for":56,"against":22},
 	{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":11,"draw":8,"loss":7,"for":36,"against":24},

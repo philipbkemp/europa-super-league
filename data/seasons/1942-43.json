@@ -124,7 +124,7 @@
 	{"country":"esp","name":"Granada","id":"Granada_CF","win":9,"draw":4,"loss":13,"for":56,"against":68},
 	{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":2,"draw":9,"loss":15,"for":25,"against":57,"isRemoved":true,"isReturning":true},
 	{"country":"esp","name":"Real Betis","id":"Real_Betis","win":2,"draw":6,"loss":18,"for":28,"against":74,"isRemoved":true,"isReturning":true},
-	{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":15,"draw":0,"loss":3,"for":74,"against":38,"isChampion":true},
+	{"country":"prt","name":"Benfica","id":"sl_benfica","win":15,"draw":0,"loss":3,"for":74,"against":38,"isChampion":true},
 	{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":14,"draw":1,"loss":3,"for":66,"against":37},
 	{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":14,"draw":0,"loss":4,"for":78,"against":20},
 	{"country":"prt","name":"Unidos de Lisboa","id":"C.F._Os_Unidos","win":9,"draw":2,"loss":7,"for":70,"against":46,"isRemoved":true},

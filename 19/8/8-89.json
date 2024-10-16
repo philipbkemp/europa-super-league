@@ -462,7 +462,7 @@
 {"country":"cyp","name":"Keravnos","id":"Keravnos_Strovolou_FC","win":6,"draw":9,"loss":13,"for":27,"against":39,"isRemoved":true,"isReturning":true},
 {"country":"cyp","name":"Omonia Ar.","id":"Omonia_Aradippou","win":1,"draw":3,"loss":24,"for":13,"against":81,"isRemoved":true,"isReturning":true}
 ][
-{"country":"prt","name":"Benfica","id":"S.L._Benfica","win":27,"draw":9,"loss":2,"for":60,"against":15,"isChampion":true},
+{"country":"prt","name":"Benfica","id":"sl_benfica","win":27,"draw":9,"loss":2,"for":60,"against":15,"isChampion":true},
 {"country":"prt","name":"Porto","id":"fc_porto","win":21,"draw":14,"loss":3,"for":52,"against":17},
 {"country":"prt","name":"Boavista","id":"Boavista_F.C.","win":19,"draw":11,"loss":8,"for":56,"against":29},
 {"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":18,"draw":9,"loss":11,"for":50,"against":33},
