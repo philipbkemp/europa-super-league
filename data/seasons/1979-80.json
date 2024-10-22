@@ -251,7 +251,7 @@
 	{"country":"est","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":7,"draw":2,"loss":11,"for":23,"against":42},
 	{"country":"est","name":"TPI Tallinn","id":"TPI_Tallinn","win":0,"draw":4,"loss":16,"for":21,"against":71,"isRemoved":true,"isNew":true},
 	{"country":"est","name":"Aseri SK","id":"Aseri_SK","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true},
-	{"country":"lva","name":"Elektrons","id":"FK_Alfa","win":22,"draw":3,"loss":1,"for":63,"against":14,"isChampion":true},
+	{"country":"lva","name":"Elektrons","id":"fk_alfa","win":22,"draw":3,"loss":1,"for":63,"against":14,"isChampion":true},
 	{"country":"lva","name":"Energija","id":"FK_Apgaismes_tehnika","win":15,"draw":7,"loss":4,"for":48,"against":17},
 	{"country":"lva","name":"Kimikis","id":"Kimikis","win":15,"draw":6,"loss":5,"for":36,"against":21},
 	{"country":"lva","name":"Torpedo","id":"Torpedo_Rīga","win":13,"draw":7,"loss":6,"for":32,"against":15,"isNew":true},

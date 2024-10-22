@@ -257,7 +257,7 @@
 	{"country":"est","name":"Jõhvi Kaevur","id":"Jõhvi_Kaevur","win":6,"draw":3,"loss":13,"for":32,"against":48,"isRemoved":true,"isReturning":true},
 	{"country":"est","name":"Narva Energoremont","id":"Narva_Energoremont","win":1,"draw":1,"loss":20,"for":19,"against":85,"isRemoved":true,"isNew":true},
 	{"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":15,"draw":7,"loss":0,"for":59,"against":15,"isChampion":true},
-	{"country":"lva","name":"Elektrons","id":"FK_Alfa","win":17,"draw":3,"loss":2,"for":51,"against":20},
+	{"country":"lva","name":"Elektrons","id":"fk_alfa","win":17,"draw":3,"loss":2,"for":51,"against":20},
 	{"country":"lva","name":"Energija","id":"FK_Apgaismes_tehnika","win":12,"draw":8,"loss":2,"for":37,"against":20},
 	{"country":"lva","name":"Lielupe","id":"Lielupe,_Latvia","win":9,"draw":9,"loss":4,"for":35,"against":21},
 	{"country":"lva","name":"Starts","id":"FK_Starts","win":7,"draw":8,"loss":7,"for":43,"against":43},

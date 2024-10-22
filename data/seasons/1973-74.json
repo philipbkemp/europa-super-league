@@ -259,7 +259,7 @@
 	{"country":"lva","name":"VEF","id":"FK_VEF_Rīga","win":15,"draw":3,"loss":4,"for":46,"against":13,"isChampion":true},
 	{"country":"lva","name":"Starts","id":"FK_Starts","win":15,"draw":2,"loss":5,"for":47,"against":21},
 	{"country":"lva","name":"Energija","id":"FK_Apgaismes_tehnika","win":14,"draw":2,"loss":6,"for":45,"against":16},
-	{"country":"lva","name":"Elektrons","id":"FK_Alfa","win":14,"draw":2,"loss":6,"for":48,"against":20},
+	{"country":"lva","name":"Elektrons","id":"fk_alfa","win":14,"draw":2,"loss":6,"for":48,"against":20},
 	{"country":"lva","name":"Lielupe","id":"Lielupe,_Latvia","win":11,"draw":4,"loss":7,"for":36,"against":21},
 	{"country":"lva","name":"Jurnieks","id":"FK_Jūrnieks","win":10,"draw":6,"loss":6,"for":28,"against":25},
 	{"country":"lva","name":"RPI","id":"RPI_Riga","win":6,"draw":1,"loss":15,"for":29,"against":37,"isReturning":true},

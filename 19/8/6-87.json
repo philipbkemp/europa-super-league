@@ -275,7 +275,7 @@
 {"country":"lva-ssr","name":"Sarkanais Metalurgs","id":"fk_liepajas_metalurgs","win":11,"draw":6,"loss":9,"for":50,"against":27},
 {"country":"lva-ssr","name":"Junioru izlase","id":"Junioru_izlase","win":9,"draw":8,"loss":9,"for":50,"against":37},
 {"country":"lva-ssr","name":"Energija","id":"FK_Apgaismes_tehnika","win":8,"draw":8,"loss":10,"for":36,"against":29,"isRemoved":true},
-{"country":"lva-ssr","name":"Alfa","id":"FK_Alfa","win":7,"draw":9,"loss":10,"for":20,"against":27},
+{"country":"lva-ssr","name":"Alfa","id":"fk_alfa","win":7,"draw":9,"loss":10,"for":20,"against":27},
 {"country":"lva-ssr","name":"Gauja","id":"FK_Gauja","win":7,"draw":6,"loss":13,"for":25,"against":51},
 {"country":"lva-ssr","name":"Sarkanais Kvadrats","id":"Sarkanais_Kvadrāts","win":7,"draw":5,"loss":14,"for":27,"against":51},
 {"country":"lva-ssr","name":"Aditajs","id":"Aditajs","win":6,"draw":5,"loss":15,"for":25,"against":54},

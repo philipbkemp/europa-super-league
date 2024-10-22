@@ -273,7 +273,7 @@
 {"country":"est-ssr","name":"FK Viljandi","id":"FK_Viljandi","win":2,"draw":4,"loss":16,"for":15,"against":74,"isRemoved":true},
 {"country":"est-ssr","name":"Tallinna Elektrotehnika","id":"Tallinna_Elektrotehnika","win":1,"draw":2,"loss":19,"for":18,"against":76,"isRemoved":true,"isNew":true}
 ][
-{"country":"lva-ssr","name":"Elektrons","id":"FK_Alfa","win":16,"draw":6,"loss":0,"for":34,"against":5,"isChampion":true},
+{"country":"lva-ssr","name":"Elektrons","id":"fk_alfa","win":16,"draw":6,"loss":0,"for":34,"against":5,"isChampion":true},
 {"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":16,"draw":3,"loss":3,"for":58,"against":14},
 {"country":"lva-ssr","name":"Celtnieks","id":"Celtnieks_Rīga","win":14,"draw":6,"loss":2,"for":45,"against":14},
 {"country":"lva-ssr","name":"Energija","id":"FK_Apgaismes_tehnika","win":12,"draw":4,"loss":6,"for":36,"against":19},

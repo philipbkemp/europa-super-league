@@ -271,7 +271,7 @@
 {"country":"est-ssr","name":"Narva Energia","id":"Narva_Energia","win":5,"draw":2,"loss":15,"for":25,"against":50,"isRemoved":true},
 {"country":"est-ssr","name":"Tallinna Autobussipark","id":"Tallinna_Autobussipark","win":3,"draw":3,"loss":16,"for":28,"against":64,"isRemoved":true,"isReturning":true}
 ][
-{"country":"lva-ssr","name":"Elektrons","id":"FK_Alfa","win":21,"draw":8,"loss":1,"for":83,"against":18,"isChampion":true},
+{"country":"lva-ssr","name":"Elektrons","id":"fk_alfa","win":21,"draw":8,"loss":1,"for":83,"against":18,"isChampion":true},
 {"country":"lva-ssr","name":"Celtnieks","id":"Celtnieks_Rīga","win":19,"draw":9,"loss":2,"for":73,"against":18},
 {"country":"lva-ssr","name":"Ķīmiķis","id":"Kimikis","win":20,"draw":5,"loss":5,"for":71,"against":21,"isNew":true},
 {"country":"lva-ssr","name":"VEF","id":"FK_VEF_Rīga","win":17,"draw":11,"loss":2,"for":65,"against":24},

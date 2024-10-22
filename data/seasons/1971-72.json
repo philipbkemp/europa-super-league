@@ -253,7 +253,7 @@
 	{"country":"lva","name":"Pilots","id":"Pilots_Rīga","win":12,"draw":6,"loss":6,"for":23,"against":14},
 	{"country":"lva","name":"Venta","id":"FK_Venta","win":10,"draw":9,"loss":5,"for":31,"against":22},
 	{"country":"lva","name":"Radiotehnikis","id":"Radiotehnikis","win":8,"draw":10,"loss":6,"for":31,"against":26},
-	{"country":"lva","name":"Elektrons","id":"FK_Alfa","win":10,"draw":6,"loss":8,"for":23,"against":21},
+	{"country":"lva","name":"Elektrons","id":"fk_alfa","win":10,"draw":6,"loss":8,"for":23,"against":21},
 	{"country":"lva","name":"Energija","id":"FK_Apgaismes_tehnika","win":8,"draw":9,"loss":7,"for":32,"against":28},
 	{"country":"lva","name":"Atlantija","id":"Atlantija","win":7,"draw":10,"loss":7,"for":26,"against":23,"isRemoved":true},
 	{"country":"lva","name":"Starts","id":"FK_Starts","win":7,"draw":10,"loss":7,"for":34,"against":32},

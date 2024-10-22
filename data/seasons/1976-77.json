@@ -256,7 +256,7 @@
 	{"country":"lva","name":"Jurnieks","id":"FK_Jūrnieks","win":9,"draw":8,"loss":7,"for":29,"against":22},
 	{"country":"lva","name":"RPI","id":"RPI_Riga","win":8,"draw":8,"loss":8,"for":23,"against":33},
 	{"country":"lva","name":"Starts","id":"FK_Starts","win":8,"draw":5,"loss":11,"for":36,"against":42},
-	{"country":"lva","name":"Elektrons","id":"FK_Alfa","win":5,"draw":10,"loss":9,"for":27,"against":33},
+	{"country":"lva","name":"Elektrons","id":"fk_alfa","win":5,"draw":10,"loss":9,"for":27,"against":33},
 	{"country":"lva","name":"Venta","id":"FK_Venta","win":4,"draw":9,"loss":11,"for":17,"against":28},
 	{"country":"lva","name":"Radiotehnikis","id":"Radiotehnikis","win":6,"draw":5,"loss":13,"for":22,"against":41,"isRemoved":true},
 	{"country":"lva","name":"Rezekne","id":"Rezekne","win":4,"draw":1,"loss":19,"for":16,"against":53,"isReturning":true,"isRemoved":true},
