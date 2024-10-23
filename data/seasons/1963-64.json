@@ -437,7 +437,7 @@
 	{"country":"fro","name":"Havnar Bóltfelag","id":"havnar_boltfelag","win":5,"draw":0,"loss":1,"for":17,"against":4,"isChampion":true},
 	{"country":"fro","name":"KÍ Klaksvík","id":"klaksvikar_itrottarfelag","win":3,"draw":2,"loss":1,"for":13,"against":11,"isRemoved":true},
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":2,"draw":2,"loss":2,"for":12,"against":17},
-	{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":0,"draw":0,"loss":6,"for":6,"against":16},
+	{"country":"fro","name":"TB Tvøroyri","id":"tvoroyrar_boltfelag","win":0,"draw":0,"loss":6,"for":6,"against":16},
 	{"country":"csk","name":"Dukla Prague","id":"Dukla_Prague","win":16,"draw":5,"loss":5,"for":52,"against":26,"isChampion":true},
 	{"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":14,"draw":7,"loss":5,"for":50,"against":25},
 	{"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":13,"draw":5,"loss":8,"for":46,"against":29},

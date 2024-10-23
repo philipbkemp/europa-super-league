@@ -417,7 +417,7 @@
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":5,"draw":2,"loss":1,"for":17,"against":6,"isChampion":true},
 	{"country":"fro","name":"Havnar Bóltfelag","id":"havnar_boltfelag","win":4,"draw":1,"loss":3,"for":18,"against":13},
 	{"country":"fro","name":"KÍ Klaksvík","id":"klaksvikar_itrottarfelag","win":4,"draw":1,"loss":3,"for":18,"against":15},
-	{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":3,"draw":0,"loss":5,"for":20,"against":24},
+	{"country":"fro","name":"TB Tvøroyri","id":"tvoroyrar_boltfelag","win":3,"draw":0,"loss":5,"for":20,"against":24},
 	{"country":"fro","name":"VB Vágur","id":"Vágs_Bóltfelag","win":2,"draw":0,"loss":6,"for":17,"against":32,"isRemoved":true},
 	{"country":"csk","name":"Spartak Hradec Králové","id":"FC_Hradec_Králové","win":13,"draw":8,"loss":5,"for":43,"against":27,"isChampion":true,"isReturning":true},
 	{"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":12,"draw":8,"loss":6,"for":53,"against":31},

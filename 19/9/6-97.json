@@ -466,7 +466,7 @@
 {"country":"fro","name":"B68 Toftir","id":"B68_Toftir","win":5,"draw":3,"loss":10,"for":23,"against":34},
 {"country":"fro","name":"B71 Sandur","id":"B71_Sandoy","win":4,"draw":6,"loss":8,"for":20,"against":40},
 {"country":"fro","name":"FS Vágar","id":"07_Vestur","win":4,"draw":1,"loss":13,"for":20,"against":47},
-{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":3,"draw":4,"loss":11,"for":21,"against":51,"isRemoved":true}
+{"country":"fro","name":"TB Tvøroyri","id":"tvoroyrar_boltfelag","win":3,"draw":4,"loss":11,"for":21,"against":51,"isRemoved":true}
 ][
 {"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":21,"draw":6,"loss":3,"for":62,"against":20,"isChampion":true},
 {"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":18,"draw":6,"loss":6,"for":57,"against":37},

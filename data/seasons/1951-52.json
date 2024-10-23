@@ -330,7 +330,7 @@
 	{"country":"sov","name":"VMS Moscow","id":"VMS_Moscow","win":7,"draw":9,"loss":12,"for":30,"against":50,"isRemoved":true,"isNew":true},
 	{"country":"sov","name":"Spartak Tbilisi","id":"FC_Spartaki_Tbilisi","win":7,"draw":2,"loss":19,"for":32,"against":56,"isRemoved":true},
 	{"country":"sov","name":"Torpedo Gorky","id":"FC_Torpedo_NN_Nizhny_Novgorod","win":4,"draw":6,"loss":18,"for":20,"against":62,"isRemoved":true,"isNew":true},
-	{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":5,"draw":0,"loss":1,"for":13,"against":6,"isChampion":true},
+	{"country":"fro","name":"TB Tvøroyri","id":"tvoroyrar_boltfelag","win":5,"draw":0,"loss":1,"for":13,"against":6,"isChampion":true},
 	{"country":"fro","name":"KÍ Klaksvík","id":"klaksvikar_itrottarfelag","win":2,"draw":1,"loss":3,"for":7,"against":5},
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":2,"draw":1,"loss":3,"for":5,"against":6},
 	{"country":"fro","name":"HB Tórshavn","id":"havnar_boltfelag","win":2,"draw":0,"loss":4,"for":7,"against":15},

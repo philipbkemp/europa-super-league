@@ -477,7 +477,7 @@
 {"country":"fro","name":"B68 Toftir","id":"B68_Toftir","win":4,"draw":11,"loss":12,"for":29,"against":48},
 {"country":"fro","name":"ÍF","id":"Ítróttarfelag_Fuglafjarðar","win":6,"draw":2,"loss":19,"for":23,"against":67,"isReturning":true},
 {"country":"fro","name":"AB Argir","id":"Argja_Bóltfelag","win":5,"draw":3,"loss":19,"for":27,"against":63,"isRemoved":true},
-{"country":"fro","name":"TB Tvøroyri","id":"Tvøroyrar_Bóltfelag","win":4,"draw":4,"loss":19,"for":15,"against":61,"isRemoved":true,"isReturning":true}
+{"country":"fro","name":"TB Tvøroyri","id":"tvoroyrar_boltfelag","win":4,"draw":4,"loss":19,"for":15,"against":61,"isRemoved":true,"isReturning":true}
 ][
 {"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":26,"draw":7,"loss":3,"for":75,"against":25,"isChampion":true},
 {"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":23,"draw":7,"loss":6,"for":75,"against":28,"deduct":-2},
