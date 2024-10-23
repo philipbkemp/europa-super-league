@@ -408,7 +408,7 @@
 	{"country":"fra","name":"Nancy","id":"AS_Nancy_Lorraine","win":10,"draw":13,"loss":15,"for":51,"against":67,"isRemoved":true},
 	{"country":"fra","name":"Paris FC","id":"Paris_FC","win":9,"draw":9,"loss":20,"for":54,"against":79,"isRemoved":true},
 	{"country":"fra","name":"Sedan","id":"CS_Sedan_Ardennes","win":8,"draw":9,"loss":21,"for":42,"against":80,"isRemoved":true},
-	{"country":"cyp","name":"AC Omonia","id":"AC_Omonia","win":20,"draw":4,"loss":2,"for":69,"against":14,"isChampion":true},
+	{"country":"cyp","name":"AC Omonia","id":"ac_omonia","win":20,"draw":4,"loss":2,"for":69,"against":14,"isChampion":true},
 	{"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":17,"draw":8,"loss":1,"for":34,"against":8},
 	{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":10,"draw":13,"loss":3,"for":29,"against":21},
 	{"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":12,"draw":5,"loss":9,"for":29,"against":30},

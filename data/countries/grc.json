@@ -1,6 +1,6 @@
 {
 	"teams":[
-		"Panathinaikos_F.C.","AEK_Athens_F.C.","Olympiacos_F.C.","Apollon_Smyrnis_F.C.","Panionios_F.C.","Doxa_Drama_F.C.","PAOK_FC","Aris_Thessaloniki_F.C.","Iraklis_F.C._(Thessaloniki)","Proodeftiki_F.C.","Apollon_Kalamarias_F.C.","Ethnikos_Piraeus_F.C.","Panegialios_F.C.","P.A.S._Korinthos","S.F.K._Pierikos_(football)","AE_Nikaia","Fostiras_F.C.","Thermaikos","Atromitos_Piraeus_F.C.","Niki_Volos_F.C.","Egaleo_F.C.","Panelefsiniakos_F.C.","Chalkida_F.C.","Trikala_F.C.","Panserraikos_F.C.","Vyzas_F.C.","Veria_F.C.","Olympiakos_Nicosia","Olympiacos_Volos_F.C.","OFI_Crete_F.C.","AEL_Limassol","Kavala_F.C.","Panachaiki_F.C.","EPA_Larnaca_FC","Kalamata_F.C.","Atromitos_F.C.","AC_Omonia","Athlitiki_Enosi_Larissa_F.C.","apoel_fc","PAS_Giannina_F.C.","Kastoria_1980_F.C.","Panetolikos_F.C.","A.E._Rodos","Makedonikos_F.C.","P.A.E._G.S._Diagoras","Levadiakos_F.C.","Xanthi_F.C.","Ionikos_F.C.","Athinaikos_F.C.","Edessaikos_F.C.","Naoussa_F.C.","Paniliakos_F.C.","Ethnikos_Asteras_F.C.","A.P.O._Akratitos_Ano_Liosia","Athens_Kallithea_F.C.","Chalkidona_F.C.","Ergotelis_F.C.","A.O._Kerkyra","Asteras_Tripolis_F.C.","Panthrakikos_F.C.","Thrasyvoulos_F.C.","Platanias_F.C.","AEL_Kalloni_F.C.","PAE_Kerkyra","PAS_Lamia_1964","Volos_F.C.","A.E._Kifisia_F.C."
+		"Panathinaikos_F.C.","AEK_Athens_F.C.","Olympiacos_F.C.","Apollon_Smyrnis_F.C.","Panionios_F.C.","Doxa_Drama_F.C.","PAOK_FC","Aris_Thessaloniki_F.C.","Iraklis_F.C._(Thessaloniki)","Proodeftiki_F.C.","Apollon_Kalamarias_F.C.","Ethnikos_Piraeus_F.C.","Panegialios_F.C.","P.A.S._Korinthos","S.F.K._Pierikos_(football)","AE_Nikaia","Fostiras_F.C.","Thermaikos","Atromitos_Piraeus_F.C.","Niki_Volos_F.C.","Egaleo_F.C.","Panelefsiniakos_F.C.","Chalkida_F.C.","Trikala_F.C.","Panserraikos_F.C.","Vyzas_F.C.","Veria_F.C.","Olympiakos_Nicosia","Olympiacos_Volos_F.C.","OFI_Crete_F.C.","AEL_Limassol","Kavala_F.C.","Panachaiki_F.C.","EPA_Larnaca_FC","Kalamata_F.C.","Atromitos_F.C.","ac_omonia","Athlitiki_Enosi_Larissa_F.C.","apoel_fc","PAS_Giannina_F.C.","Kastoria_1980_F.C.","Panetolikos_F.C.","A.E._Rodos","Makedonikos_F.C.","P.A.E._G.S._Diagoras","Levadiakos_F.C.","Xanthi_F.C.","Ionikos_F.C.","Athinaikos_F.C.","Edessaikos_F.C.","Naoussa_F.C.","Paniliakos_F.C.","Ethnikos_Asteras_F.C.","A.P.O._Akratitos_Ano_Liosia","Athens_Kallithea_F.C.","Chalkidona_F.C.","Ergotelis_F.C.","A.O._Kerkyra","Asteras_Tripolis_F.C.","Panthrakikos_F.C.","Thrasyvoulos_F.C.","Platanias_F.C.","AEL_Kalloni_F.C.","PAE_Kerkyra","PAS_Lamia_1964","Volos_F.C.","A.E._Kifisia_F.C."
 	],"redirects":[
 		["AE Nikaia","AE_Nikaia"],["Kastoria_F.C.","Kastoria_1980_F.C."],["Rodos_F.C.","A.E._Rodos"],["Diagoras_F.C.","P.A.E._G.S._Diagoras"],["Akratitos_F.C.","A.P.O._Akratitos_Ano_Liosia"],["Kallithea_F.C.","Athens_Kallithea_F.C."],["Skoda_Xanthi_F.C.","Xanthi_F.C."],["OFI_Crete","OFI_Crete_F.C."],["PAOK_F.C.","PAOK_FC"]
 	],"previous":[
@@ -9,5 +9,6 @@
 }
 
 /*
+	AC_Omonia	=> ac_omonia
 	APOEL_FC		=> apoel_fc
 */

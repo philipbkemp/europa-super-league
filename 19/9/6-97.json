@@ -410,7 +410,7 @@
 ][
 {"country":"cyp","name":"Anorthosis","id":"Anorthosis_Famagusta_FC","win":20,"draw":5,"loss":1,"for":58,"against":14,"isChampion":true},
 {"country":"cyp","name":"Apollon","id":"Apollon_Limassol_FC","win":16,"draw":4,"loss":6,"for":43,"against":22},
-{"country":"cyp","name":"Omonia","id":"AC_Omonia","win":14,"draw":4,"loss":8,"for":39,"against":30},
+{"country":"cyp","name":"Omonia","id":"ac_omonia","win":14,"draw":4,"loss":8,"for":39,"against":30},
 {"country":"cyp","name":"AEK","id":"AEK_Larnaca_FC","win":11,"draw":8,"loss":7,"for":49,"against":37},
 {"country":"cyp","name":"APOEL","id":"apoel_fc","win":12,"draw":4,"loss":10,"for":57,"against":43},
 {"country":"cyp","name":"Ethnikos","id":"Ethnikos_Achna_FC","win":11,"draw":4,"loss":11,"for":48,"against":36},

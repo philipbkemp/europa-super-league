@@ -458,7 +458,7 @@
 {"country":"fra","name":"Tours","id":"Tours_FC","win":9,"draw":11,"loss":18,"for":44,"against":66,"isRemoved":true,"isReturning":true},
 {"country":"fra","name":"Racing Paris","id":"Racing_Club_de_France_Football","win":9,"draw":8,"loss":21,"for":32,"against":55,"isRemoved":true,"isReturning":true}
 ][
-{"country":"cyp","name":"Omonia","id":"AC_Omonia","win":17,"draw":9,"loss":0,"for":70,"against":22,"isChampion":true},
+{"country":"cyp","name":"Omonia","id":"ac_omonia","win":17,"draw":9,"loss":0,"for":70,"against":22,"isChampion":true},
 {"country":"cyp","name":"APOEL","id":"apoel_fc","win":13,"draw":8,"loss":5,"for":43,"against":26},
 {"country":"cyp","name":"Anorthosis Famagusta","id":"Anorthosis_Famagusta_FC","win":12,"draw":9,"loss":5,"for":38,"against":22},
 {"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":9,"draw":10,"loss":7,"for":35,"against":30},

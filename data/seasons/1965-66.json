@@ -395,7 +395,7 @@
 	{"country":"fra","name":"Lille","id":"Lille_OSC","win":12,"draw":6,"loss":20,"for":51,"against":71},
 	{"country":"fra","name":"Cannes","id":"AS_Cannes","win":6,"draw":9,"loss":23,"for":37,"against":86,"isRemoved":true,"isReturning":true},
 	{"country":"fra","name":"Red Star","id":"Red_Star_F.C.","win":5,"draw":10,"loss":23,"for":44,"against":100,"isRemoved":true,"isReturning":true},
-	{"country":"cyp","name":"AC Omonia","id":"AC_Omonia","win":13,"draw":4,"loss":3,"for":42,"against":23,"isChampion":true},
+	{"country":"cyp","name":"AC Omonia","id":"ac_omonia","win":13,"draw":4,"loss":3,"for":42,"against":23,"isChampion":true},
 	{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":14,"draw":1,"loss":5,"for":60,"against":30},
 	{"country":"cyp","name":"Nea Salamis FC","id":"Nea_Salamis_Famagusta_FC","win":12,"draw":4,"loss":4,"for":39,"against":21},
 	{"country":"cyp","name":"Anorthosis Famagusta FC","id":"Anorthosis_Famagusta_FC","win":8,"draw":7,"loss":5,"for":41,"against":31},

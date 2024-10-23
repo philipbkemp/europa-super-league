@@ -409,7 +409,7 @@
 	{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":7,"draw":13,"loss":14,"for":33,"against":50,"isRemoved":true},
 	{"country":"fra","name":"Nice","id":"OGC_Nice","win":6,"draw":9,"loss":19,"for":30,"against":61,"isRemoved":true},
 	{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":12,"draw":6,"loss":4,"for":51,"against":18,"isChampion":true},
-	{"country":"cyp","name":"AC Omonia","id":"AC_Omonia","win":12,"draw":6,"loss":4,"for":41,"against":18},
+	{"country":"cyp","name":"AC Omonia","id":"ac_omonia","win":12,"draw":6,"loss":4,"for":41,"against":18},
 	{"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":12,"draw":4,"loss":6,"for":35,"against":25},
 	{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":8,"draw":8,"loss":6,"for":39,"against":41},
 	{"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":8,"draw":7,"loss":7,"for":40,"against":33},

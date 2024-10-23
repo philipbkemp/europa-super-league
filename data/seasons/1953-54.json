@@ -323,7 +323,7 @@
 	{"country":"cyp","name":"Çetinkaya Türk S.K.","id":"Çetinkaya_Türk_S.K.","win":7,"draw":3,"loss":6,"for":28,"against":26},
 	{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":7,"draw":2,"loss":7,"for":39,"against":29},
 	{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":8,"draw":0,"loss":8,"for":31,"against":27},
-	{"country":"cyp","name":"AC Omonia","id":"AC_Omonia","win":5,"draw":2,"loss":9,"for":21,"against":33,"isNew":true},
+	{"country":"cyp","name":"AC Omonia","id":"ac_omonia","win":5,"draw":2,"loss":9,"for":21,"against":33,"isNew":true},
 	{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":4,"draw":1,"loss":11,"for":17,"against":34},
 	{"country":"cyp","name":"AYMA","id":"Armenian_Young_Men%27s_Association","win":4,"draw":0,"loss":12,"for":30,"against":46},
 	{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":20,"draw":3,"loss":3,"for":80,"against":25,"isChampion":true},

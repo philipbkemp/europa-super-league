@@ -392,7 +392,7 @@
 	{"country":"fra","name":"Lille","id":"Lille_OSC","win":9,"draw":9,"loss":20,"for":35,"against":52,"isRemoved":true},
 	{"country":"fra","name":"Aix-en-Provence","id":"Pays_d%27Aix_FC","win":6,"draw":8,"loss":24,"for":48,"against":95,"isRemoved":true,"isNew":true},
 	{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":17,"draw":3,"loss":2,"for":65,"against":20,"isChampion":true},
-	{"country":"cyp","name":"AC Omonia","id":"AC_Omonia","win":15,"draw":3,"loss":4,"for":50,"against":28},
+	{"country":"cyp","name":"AC Omonia","id":"ac_omonia","win":15,"draw":3,"loss":4,"for":50,"against":28},
 	{"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":13,"draw":4,"loss":5,"for":46,"against":19},
 	{"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":12,"draw":5,"loss":5,"for":48,"against":26},
 	{"country":"cyp","name":"Anorthosis Famagusta FC","id":"Anorthosis_Famagusta_FC","win":9,"draw":5,"loss":8,"for":48,"against":35},

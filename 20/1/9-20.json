@@ -406,7 +406,7 @@
 {"country":"fra","name":"Amiens","id":"Amiens_SC","win":4,"draw":11,"loss":13,"for":31,"against":50,"isRemoved":true},
 {"country":"fra","name":"Toulouse","id":"Toulouse_FC","win":3,"draw":4,"loss":21,"for":22,"against":58,"isRemoved":true}
 ][
-{"country":"cyp","name":"Omonia","id":"AC_Omonia","win":13,"draw":7,"loss":3,"for":34,"against":13,"note":"Not awarded championship as season suspended early due to COVID-19"},
+{"country":"cyp","name":"Omonia","id":"ac_omonia","win":13,"draw":7,"loss":3,"for":34,"against":13,"note":"Not awarded championship as season suspended early due to COVID-19"},
 {"country":"cyp","name":"Anorthosis Famagusta","id":"Anorthosis_Famagusta_FC","win":14,"draw":4,"loss":5,"for":45,"against":21},
 {"country":"cyp","name":"APOEL","id":"apoel_fc","win":11,"draw":7,"loss":5,"for":36,"against":16},
 {"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":12,"draw":3,"loss":8,"for":39,"against":30},

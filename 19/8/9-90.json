@@ -449,7 +449,7 @@
 {"country":"fra","name":"Mulhouse","id":"FC_Mulhouse","win":9,"draw":10,"loss":19,"for":42,"against":58,"isRemoved":true,"isReturning":true}
 ][
 {"country":"cyp","name":"APOEL","id":"apoel_fc","win":18,"draw":5,"loss":3,"for":46,"against":19,"isChampion":true},
-{"country":"cyp","name":"Omonia","id":"AC_Omonia","win":15,"draw":6,"loss":5,"for":53,"against":21},
+{"country":"cyp","name":"Omonia","id":"ac_omonia","win":15,"draw":6,"loss":5,"for":53,"against":21},
 {"country":"cyp","name":"Pezoporikos","id":"Pezoporikos_Larnaca_FC","win":10,"draw":11,"loss":5,"for":37,"against":27},
 {"country":"cyp","name":"Aris","id":"Aris_Limassol_FC","win":11,"draw":8,"loss":7,"for":43,"against":31},
 {"country":"cyp","name":"Apollon","id":"Apollon_Limassol_FC","win":11,"draw":7,"loss":8,"for":43,"against":28},

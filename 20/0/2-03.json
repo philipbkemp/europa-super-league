@@ -400,7 +400,7 @@
 {"country":"fra","name":"Sedan","id":"CS_Sedan_Ardennes","win":9,"draw":9,"loss":20,"for":41,"against":59,"isRemoved":true},
 {"country":"fra","name":"Troyes","id":"ES_Troyes_AC","win":7,"draw":10,"loss":21,"for":23,"against":48,"isRemoved":true}
 ][
-{"country":"cyp","name":"Omonia","id":"AC_Omonia","win":18,"draw":6,"loss":2,"for":68,"against":22,"isChampion":true},
+{"country":"cyp","name":"Omonia","id":"ac_omonia","win":18,"draw":6,"loss":2,"for":68,"against":22,"isChampion":true},
 {"country":"cyp","name":"Anorthosis Famagusta","id":"Anorthosis_Famagusta_FC","win":19,"draw":2,"loss":5,"for":65,"against":30},
 {"country":"cyp","name":"APOEL","id":"apoel_fc","win":16,"draw":7,"loss":3,"for":55,"against":24},
 {"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":16,"draw":4,"loss":6,"for":56,"against":29},

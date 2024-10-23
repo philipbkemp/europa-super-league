@@ -148,7 +148,7 @@
 	{"country":"grc","name":"Kalamata","id":"Kalamata_F.C.","win":8,"draw":10,"loss":16,"for":30,"against":45,"isRemoved":true,"isNew":true},
 	{"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":7,"draw":10,"loss":17,"for":17,"against":49,"isRemoved":true,"isNew":true},
 	{"country":"grc","name":"Trikala","id":"Trikala_F.C.","win":5,"draw":9,"loss":20,"for":26,"against":52,"isRemoved":true},
-	{"country":"grc","name":"Omonia","id":"AC_Omonia","win":1,"draw":7,"loss":26,"for":22,"against":71,"deduct":-1},
+	{"country":"grc","name":"Omonia","id":"ac_omonia","win":1,"draw":7,"loss":26,"for":22,"against":71,"deduct":-1},
 	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":17,"draw":4,"loss":1,"for":69,"against":19,"isChampion":true},
 	{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":11,"draw":8,"loss":3,"for":55,"against":34},
 	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":10,"draw":7,"loss":5,"for":47,"against":29,"isReturning":true},

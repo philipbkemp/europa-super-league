@@ -421,7 +421,7 @@
 {"country":"fra","name":"Cannes","id":"AS_Cannes","win":7,"draw":7,"loss":20,"for":32,"against":59,"isRemoved":true}
 ][
 {"country":"cyp","name":"Anorthosis","id":"Anorthosis_Famagusta_FC","win":21,"draw":3,"loss":2,"for":87,"against":18,"isChampion":true},
-{"country":"cyp","name":"Omonia","id":"AC_Omonia","win":19,"draw":5,"loss":2,"for":90,"against":20},
+{"country":"cyp","name":"Omonia","id":"ac_omonia","win":19,"draw":5,"loss":2,"for":90,"against":20},
 {"country":"cyp","name":"Apollon","id":"Apollon_Limassol_FC","win":16,"draw":7,"loss":3,"for":50,"against":25},
 {"country":"cyp","name":"Ethnikos Achna","id":"Ethnikos_Achna_FC","win":13,"draw":8,"loss":5,"for":35,"against":28},
 {"country":"cyp","name":"AEK","id":"AEK_Larnaca_FC","win":9,"draw":7,"loss":10,"for":42,"against":40},

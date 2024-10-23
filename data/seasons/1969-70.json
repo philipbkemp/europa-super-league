@@ -416,7 +416,7 @@
 	{"country":"fra","name":"Valenciennes","id":"Valenciennes_FC","win":8,"draw":6,"loss":20,"for":32,"against":63},
 	{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":12,"draw":7,"loss":3,"for":46,"against":18,"isChampion":true},
 	{"country":"cyp","name":"Pezoporikos Larnaca","id":"Pezoporikos_Larnaca_FC","win":13,"draw":5,"loss":4,"for":28,"against":12},
-	{"country":"cyp","name":"AC Omonia","id":"AC_Omonia","win":12,"draw":7,"loss":3,"for":31,"against":16},
+	{"country":"cyp","name":"AC Omonia","id":"ac_omonia","win":12,"draw":7,"loss":3,"for":31,"against":16},
 	{"country":"cyp","name":"APOEL F.C.","id":"apoel_fc","win":9,"draw":5,"loss":8,"for":35,"against":32},
 	{"country":"cyp","name":"Anorthosis Famagusta FC","id":"Anorthosis_Famagusta_FC","win":8,"draw":7,"loss":7,"for":27,"against":25},
 	{"country":"cyp","name":"Nea Salamis FC","id":"Nea_Salamis_Famagusta_FC","win":6,"draw":9,"loss":7,"for":26,"against":24},

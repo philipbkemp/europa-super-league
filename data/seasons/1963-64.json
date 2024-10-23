@@ -379,7 +379,7 @@
 	{"country":"fra","name":"RC Paris","id":"Racing_Club_de_France_Football","win":12,"draw":7,"loss":15,"for":66,"against":76,"isRemoved":true},
 	{"country":"fra","name":"Stade de Reims","id":"Stade_de_Reims","win":8,"draw":11,"loss":15,"for":37,"against":56,"isRemoved":true},
 	{"country":"fra","name":"OGC Nice","id":"OGC_Nice","win":7,"draw":9,"loss":18,"for":45,"against":74,"isRemoved":true},
-	{"country":"cyp","name":"AC Omonia","id":"AC_Omonia","win":6,"draw":0,"loss":0,"for":13,"against":2,"isChampion":true},
+	{"country":"cyp","name":"AC Omonia","id":"ac_omonia","win":6,"draw":0,"loss":0,"for":13,"against":2,"isChampion":true},
 	{"country":"cyp","name":"APOEL FC","id":"apoel_fc","win":5,"draw":1,"loss":1,"for":18,"against":7},
 	{"country":"cyp","name":"Nea Salamis FC","id":"Nea_Salamis_Famagusta_FC","win":4,"draw":2,"loss":1,"for":16,"against":10},
 	{"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":3,"draw":3,"loss":2,"for":6,"against":7},
