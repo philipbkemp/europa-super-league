@@ -1,3 +1,5 @@
+history.scrollRestoration = 'manual';
+
 const countries = {
 	"alb": "Albania",
 	"aut": "Austria",
