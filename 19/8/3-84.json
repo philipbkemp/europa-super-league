@@ -545,7 +545,7 @@
 {"country":"csk","name":"Sklo Union Teplice","id":"FK_Teplice","win":5,"draw":10,"loss":15,"for":29,"against":51,"isRemoved":true,"isReturning":true},
 {"country":"csk","name":"Plastika Nitra","id":"FC_Nitra","win":6,"draw":7,"loss":17,"for":31,"against":53,"isRemoved":true}
 ][
-{"country":"ede","name":"Berliner FC Dynamo","id":"Berliner_FC_Dynamo","win":17,"draw":5,"loss":4,"for":66,"against":36,"isChampion":true},
+{"country":"ede","name":"Berliner FC Dynamo","id":"berliner_fc_dynamo","win":17,"draw":5,"loss":4,"for":66,"against":36,"isChampion":true},
 {"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":14,"draw":9,"loss":3,"for":61,"against":28},
 {"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":16,"draw":5,"loss":5,"for":56,"against":28},
 {"country":"ede","name":"FC Vorwärts Frankfurt","id":"1._FC_Frankfurt","win":13,"draw":7,"loss":6,"for":56,"against":36},

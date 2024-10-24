@@ -416,7 +416,7 @@
 	{"country":"ede","name":"BSG Motor Zwickau","id":"FSV_Zwickau","win":10,"draw":5,"loss":11,"for":38,"against":41},
 	{"country":"ede","name":"SC Turbine Erfurt","id":"FC_Rot-Weiß_Erfurt","win":10,"draw":4,"loss":12,"for":45,"against":45},
 	{"country":"ede","name":"SC Rotation Leipzig","id":"1._FC_Lokomotive_Leipzig","win":8,"draw":8,"loss":10,"for":29,"against":35},
-	{"country":"ede","name":"SC Dynamo Berlin","id":"Berliner_FC_Dynamo","win":8,"draw":7,"loss":11,"for":37,"against":32},
+	{"country":"ede","name":"SC Dynamo Berlin","id":"berliner_fc_dynamo","win":8,"draw":7,"loss":11,"for":37,"against":32},
 	{"country":"ede","name":"SC Aufbau Magdeburg","id":"1._FC_Magdeburg","win":10,"draw":3,"loss":13,"for":44,"against":46},
 	{"country":"ede","name":"SC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":6,"draw":11,"loss":9,"for":39,"against":44,"isReturning":true},
 	{"country":"ede","name":"Dynamo Dresden","id":"Dynamo_Dresden","win":8,"draw":6,"loss":12,"for":36,"against":45,"isRemoved":true,"isReturning":true},

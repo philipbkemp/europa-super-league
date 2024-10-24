@@ -498,7 +498,7 @@
 	{"country":"csk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":8,"draw":8,"loss":14,"for":35,"against":42,"isRemoved":true},
 	{"country":"csk","name":"Jednota Trenčín","id":"TTS_Trenčín","win":9,"draw":6,"loss":15,"for":31,"against":52,"isRemoved":true},
 	{"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":17,"draw":4,"loss":5,"for":48,"against":23,"isChampion":true},
-	{"country":"ede","name":"BFC Dynamo","id":"Berliner_FC_Dynamo","win":13,"draw":9,"loss":4,"for":45,"against":20},
+	{"country":"ede","name":"BFC Dynamo","id":"berliner_fc_dynamo","win":13,"draw":9,"loss":4,"for":45,"against":20},
 	{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":12,"draw":9,"loss":5,"for":59,"against":30},
 	{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":12,"draw":7,"loss":7,"for":42,"against":34},
 	{"country":"ede","name":"FC Vorwärts Frankfurt","id":"1._FC_Frankfurt","win":9,"draw":9,"loss":8,"for":33,"against":36},

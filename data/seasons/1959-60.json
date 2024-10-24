@@ -435,7 +435,7 @@
 	{"country":"csk","name":"Dukla Pardubice","id":"Dukla_Pardubice","win":4,"draw":4,"loss":18,"for":23,"against":56,"isRemoved":true},
 	{"country":"ede","name":"SC Wismut Karl-Marx-Stadt","id":"FC_Erzgebirge_Aue","win":17,"draw":5,"loss":4,"for":44,"against":25,"isChampion":true},
 	{"country":"ede","name":"ASK Vorwärts Berlin","id":"1._FC_Frankfurt","win":13,"draw":9,"loss":4,"for":49,"against":24},
-	{"country":"ede","name":"SC Dynamo Berlin","id":"Berliner_FC_Dynamo","win":14,"draw":5,"loss":7,"for":46,"against":26},
+	{"country":"ede","name":"SC Dynamo Berlin","id":"berliner_fc_dynamo","win":14,"draw":5,"loss":7,"for":46,"against":26},
 	{"country":"ede","name":"SC Empor Rostock","id":"FC_Hansa_Rostock","win":10,"draw":9,"loss":7,"for":36,"against":26},
 	{"country":"ede","name":"SC Motor Jena","id":"FC_Carl_Zeiss_Jena","win":10,"draw":9,"loss":7,"for":29,"against":27},
 	{"country":"ede","name":"SC Fortschritt Weißenfels","id":"SC_Fortschritt_Weißenfels","win":10,"draw":7,"loss":9,"for":36,"against":39},

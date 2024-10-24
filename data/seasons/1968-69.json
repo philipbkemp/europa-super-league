@@ -492,7 +492,7 @@
 	{"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":10,"draw":6,"loss":10,"for":35,"against":36},
 	{"country":"ede","name":"FC Rot-Weiss Erfurt","id":"FC_Rot-Weiß_Erfurt","win":10,"draw":5,"loss":11,"for":32,"against":27},
 	{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":9,"draw":7,"loss":10,"for":33,"against":31},
-	{"country":"ede","name":"Berliner FC Dynamo","id":"Berliner_FC_Dynamo","win":10,"draw":5,"loss":11,"for":25,"against":36,"isReturning":true},
+	{"country":"ede","name":"Berliner FC Dynamo","id":"berliner_fc_dynamo","win":10,"draw":5,"loss":11,"for":25,"against":36,"isReturning":true},
 	{"country":"ede","name":"Hallescher FC Chemie","id":"Hallescher_FC","win":6,"draw":10,"loss":10,"for":32,"against":35},
 	{"country":"ede","name":"BSG Stahl Riesa","id":"BSG_Stahl_Riesa","win":9,"draw":4,"loss":13,"for":26,"against":43,"isNew":true},
 	{"country":"ede","name":"1. FC Union Berlin","id":"1._FC_Union_Berlin","win":6,"draw":8,"loss":12,"for":29,"against":41,"isRemoved":true},

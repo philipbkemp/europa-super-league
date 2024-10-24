@@ -391,7 +391,7 @@
 	{"country":"ede","name":"SC Aktivist Brieske-Senftenberg","id":"FSV_Glückauf_Brieske-Senftenberg","win":12,"draw":6,"loss":8,"for":41,"against":25},
 	{"country":"ede","name":"SC Wismut Karl-Marx-Stadt","id":"FC_Erzgebirge_Aue","win":10,"draw":8,"loss":8,"for":43,"against":32},
 	{"country":"ede","name":"SC Einheit Dresden","id":"Dresdner_SC","win":11,"draw":6,"loss":9,"for":38,"against":39},
-	{"country":"ede","name":"SC Dynamo Berlin","id":"Berliner_FC_Dynamo","win":10,"draw":6,"loss":10,"for":37,"against":34,"isReturning":true},
+	{"country":"ede","name":"SC Dynamo Berlin","id":"berliner_fc_dynamo","win":10,"draw":6,"loss":10,"for":37,"against":34,"isReturning":true},
 	{"country":"ede","name":"SC Empor Rostock","id":"FC_Hansa_Rostock","win":10,"draw":6,"loss":10,"for":33,"against":31,"isReturning":true},
 	{"country":"ede","name":"BSG Motor Zwickau","id":"FSV_Zwickau","win":8,"draw":10,"loss":8,"for":38,"against":41},
 	{"country":"ede","name":"SC Lokomotive Leipzig","id":"FC_Sachsen_Leipzig","win":8,"draw":9,"loss":9,"for":40,"against":28},

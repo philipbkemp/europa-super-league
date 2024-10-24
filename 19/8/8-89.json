@@ -542,7 +542,7 @@
 {"country":"csk","name":"Spartak Hradec Králové","id":"FC_Hradec_Králové","win":6,"draw":7,"loss":17,"for":32,"against":58,"isRemoved":true}
 ][
 {"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":16,"draw":8,"loss":2,"for":61,"against":26,"isChampion":true},
-{"country":"ede","name":"Berliner FC Dynamo","id":"Berliner_FC_Dynamo","win":12,"draw":8,"loss":6,"for":51,"against":32},
+{"country":"ede","name":"Berliner FC Dynamo","id":"berliner_fc_dynamo","win":12,"draw":8,"loss":6,"for":51,"against":32},
 {"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":12,"draw":6,"loss":8,"for":38,"against":36},
 {"country":"ede","name":"F.C. Hansa Rostock","id":"FC_Hansa_Rostock","win":12,"draw":5,"loss":9,"for":34,"against":31},
 {"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":11,"draw":6,"loss":9,"for":39,"against":26},

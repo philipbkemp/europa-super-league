@@ -545,7 +545,7 @@
 {"country":"ede","name":"BSV Stahl Brandenburg","id":"BSG_Stahl_Brandenburg","win":9,"draw":9,"loss":8,"for":34,"against":31,"isRemoved":true},
 {"country":"ede","name":"Eisenhüttenstädter FC Stahl","id":"Eisenhüttenstädter_FC_Stahl","win":7,"draw":12,"loss":7,"for":29,"against":25,"isRemoved":true},
 {"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":9,"draw":8,"loss":9,"for":34,"against":32,"isRemoved":true},
-{"country":"ede","name":"FC Berlin","id":"Berliner_FC_Dynamo","win":7,"draw":8,"loss":11,"for":25,"against":39,"isRemoved":true},
+{"country":"ede","name":"FC Berlin","id":"berliner_fc_dynamo","win":7,"draw":8,"loss":11,"for":25,"against":39,"isRemoved":true},
 {"country":"ede","name":"FC Sachsen Leipzig","id":"FC_Sachsen_Leipzig","win":6,"draw":10,"loss":10,"for":23,"against":38,"isReturning":true,"isRemoved":true},
 {"country":"ede","name":"FC Energie Cottbus","id":"FC_Energie_Cottbus","win":3,"draw":10,"loss":13,"for":21,"against":38,"isRemoved":true},
 {"country":"ede","name":"FC Viktoria 91 Frankfurt","id":"1._FC_Frankfurt","win":4,"draw":5,"loss":17,"for":29,"against":54,"isReturning":true,"isRemoved":true}

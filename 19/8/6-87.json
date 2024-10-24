@@ -541,7 +541,7 @@
 {"country":"csk","name":"Škoda Plzeň","id":"FC_Viktoria_Plzeň","win":8,"draw":7,"loss":15,"for":37,"against":51,"isRemoved":true,"isReturning":true},
 {"country":"csk","name":"Dynamo České Budějovice","id":"SK_Dynamo_České_Budějovice","win":8,"draw":4,"loss":18,"for":24,"against":58,"isRemoved":true}
 ][
-{"country":"ede","name":"Berliner FC Dynamo","id":"Berliner_FC_Dynamo","win":19,"draw":4,"loss":3,"for":59,"against":20,"isChampion":true},
+{"country":"ede","name":"Berliner FC Dynamo","id":"berliner_fc_dynamo","win":19,"draw":4,"loss":3,"for":59,"against":20,"isChampion":true},
 {"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":13,"draw":10,"loss":3,"for":52,"against":24},
 {"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":13,"draw":8,"loss":5,"for":34,"against":22},
 {"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":12,"draw":8,"loss":6,"for":40,"against":26},

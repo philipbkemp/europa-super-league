@@ -509,7 +509,7 @@
 	{"country":"csk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":10,"draw":5,"loss":15,"for":31,"against":43},
 	{"country":"csk","name":"Spartak Hradec Králové","id":"FC_Hradec_Králové","win":10,"draw":5,"loss":15,"for":31,"against":43,"isRemoved":true,"isReturning":true},
 	{"country":"csk","name":"Košice","id":"FC_VSS_Košice","win":5,"draw":4,"loss":21,"for":29,"against":54,"isRemoved":true},
-	{"country":"ede","name":"Berliner FC Dynamo","id":"Berliner_FC_Dynamo","win":17,"draw":5,"loss":4,"for":74,"against":31,"isChampion":true},
+	{"country":"ede","name":"Berliner FC Dynamo","id":"berliner_fc_dynamo","win":17,"draw":5,"loss":4,"for":74,"against":31,"isChampion":true},
 	{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":16,"draw":4,"loss":6,"for":57,"against":29},
 	{"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":15,"draw":4,"loss":7,"for":58,"against":35},
 	{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":16,"draw":2,"loss":8,"for":49,"against":37},

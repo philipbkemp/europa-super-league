@@ -478,7 +478,7 @@
 	{"country":"csk","name":"LIAZ Jablonec","id":"FK_Jablonec","win":7,"draw":10,"loss":13,"for":28,"against":51,"isRemoved":true},
 	{"country":"csk","name":"TŽ Třinec","id":"FK_Třinec","win":8,"draw":4,"loss":18,"for":22,"against":37,"isRemoved":true},
 	{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":19,"draw":5,"loss":2,"for":70,"against":23,"isChampion":true},
-	{"country":"ede","name":"BFC Dynamo","id":"Berliner_FC_Dynamo","win":17,"draw":3,"loss":6,"for":67,"against":24},
+	{"country":"ede","name":"BFC Dynamo","id":"berliner_fc_dynamo","win":17,"draw":3,"loss":6,"for":67,"against":24},
 	{"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":15,"draw":6,"loss":5,"for":59,"against":33},
 	{"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":13,"draw":5,"loss":8,"for":40,"against":34},
 	{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":11,"draw":7,"loss":8,"for":50,"against":43},

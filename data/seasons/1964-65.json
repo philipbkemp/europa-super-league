@@ -461,7 +461,7 @@
 	{"country":"ede","name":"BSG Wismut Aue","id":"FC_Erzgebirge_Aue","win":6,"draw":12,"loss":8,"for":23,"against":36},
 	{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":9,"draw":5,"loss":12,"for":34,"against":38,"isReturning":true},
 	{"country":"ede","name":"SC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":8,"draw":7,"loss":11,"for":36,"against":41},
-	{"country":"ede","name":"SC Dynamo Berlin","id":"Berliner_FC_Dynamo","win":8,"draw":6,"loss":12,"for":27,"against":37},
+	{"country":"ede","name":"SC Dynamo Berlin","id":"berliner_fc_dynamo","win":8,"draw":6,"loss":12,"for":27,"against":37},
 	{"country":"ede","name":"SC Neubrandenburg","id":"1._FC_Neubrandenburg_04","win":7,"draw":6,"loss":13,"for":34,"against":58,"isRemoved":true,"isNew":true},
 	{"country":"ede","name":"BSG Motor Steinach","id":"SV_08_Steinach","win":8,"draw":3,"loss":15,"for":28,"against":49,"isRemoved":true},
 	{"country":"isr","name":"Hakoah Ramat Gan","id":"Hakoah_Amidar_Ramat_Gan_F.C.","win":13,"draw":11,"loss":6,"for":42,"against":24,"isChampion":true},

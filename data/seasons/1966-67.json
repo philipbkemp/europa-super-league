@@ -483,7 +483,7 @@
 	{"country":"ede","name":"F.C. Hansa Rostock","id":"FC_Hansa_Rostock","win":9,"draw":8,"loss":9,"for":27,"against":27},
 	{"country":"ede","name":"Hallescher FC Chemie","id":"Hallescher_FC","win":11,"draw":4,"loss":11,"for":38,"against":41},
 	{"country":"ede","name":"BSG Chemie Leipzig","id":"FC_Sachsen_Leipzig","win":9,"draw":7,"loss":10,"for":35,"against":38},
-	{"country":"ede","name":"Berliner FC Dynamo","id":"Berliner_FC_Dynamo","win":6,"draw":9,"loss":11,"for":28,"against":40,"isRemoved":true},
+	{"country":"ede","name":"Berliner FC Dynamo","id":"berliner_fc_dynamo","win":6,"draw":9,"loss":11,"for":28,"against":40,"isRemoved":true},
 	{"country":"ede","name":"BSG Wismut Gera","id":"BSG_Wismut_Gera","win":4,"draw":4,"loss":18,"for":27,"against":57,"isRemoved":true,"isReturning":true},
 	{"country":"wde","name":"Eintracht Braunschweig","id":"Eintracht_Braunschweig","win":17,"draw":9,"loss":8,"for":49,"against":27,"isChampion":true},
 	{"country":"wde","name":"1860 Munich","id":"TSV_1860_Munich","win":17,"draw":7,"loss":10,"for":60,"against":47},
