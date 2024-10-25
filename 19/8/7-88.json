@@ -21,7 +21,7 @@
 {"country":"eng","name":"Watford","id":"Watford_F.C.","win":7,"draw":11,"loss":22,"for":27,"against":51,"isRemoved":true},
 {"country":"eng","name":"Oxford United","id":"Oxford_United_F.C.","win":6,"draw":13,"loss":21,"for":44,"against":80,"isRemoved":true}
 ][
-{"country":"dnk","name":"Brøndby IF","id":"Brøndby_IF","win":17,"draw":6,"loss":3,"for":57,"against":22,"isChampion":true},
+{"country":"dnk","name":"Brøndby IF","id":"brondby_if","win":17,"draw":6,"loss":3,"for":57,"against":22,"isChampion":true},
 {"country":"dnk","name":"Næstved IF","id":"Næstved_Boldklub","win":13,"draw":9,"loss":4,"for":41,"against":26},
 {"country":"dnk","name":"Lyngby BK","id":"Lyngby_Boldklub","win":15,"draw":5,"loss":6,"for":41,"against":27},
 {"country":"dnk","name":"B 1903","id":"Boldklubben_1903","win":12,"draw":8,"loss":6,"for":44,"against":27},

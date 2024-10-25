@@ -21,7 +21,7 @@
 {"country":"eng","name":"Sunderland","id":"Sunderland_A.F.C.","win":4,"draw":7,"loss":27,"for":21,"against":65,"isRemoved":true}
 ][
 {"country":"dnk","name":"FC København","id":"F.C._Copenhagen","win":17,"draw":10,"loss":6,"for":51,"against":32,"isChampion":true},
-{"country":"dnk","name":"Brøndby IF","id":"Brøndby_IF","win":15,"draw":11,"loss":7,"for":61,"against":35},
+{"country":"dnk","name":"Brøndby IF","id":"brondby_if","win":15,"draw":11,"loss":7,"for":61,"against":35},
 {"country":"dnk","name":"Farum BK","id":"FC_Nordsjælland","win":16,"draw":3,"loss":14,"for":49,"against":58,"isNew":true},
 {"country":"dnk","name":"Odense BK","id":"Odense_Boldklub","win":12,"draw":12,"loss":9,"for":55,"against":50},
 {"country":"dnk","name":"Esbjerg fB","id":"Esbjerg_fB","win":12,"draw":11,"loss":10,"for":65,"against":57},

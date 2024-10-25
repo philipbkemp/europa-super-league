@@ -21,7 +21,7 @@
 {"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":7,"draw":12,"loss":19,"for":38,"against":77,"isRemoved":true,"isReturning":true}
 ][
 {"country":"dnk","name":"FC København","id":"F.C._Copenhagen","win":20,"draw":8,"loss":5,"for":56,"against":27,"isChampion":true},
-{"country":"dnk","name":"Brøndby IF","id":"Brøndby_IF","win":20,"draw":7,"loss":6,"for":55,"against":29},
+{"country":"dnk","name":"Brøndby IF","id":"brondby_if","win":20,"draw":7,"loss":6,"for":55,"against":29},
 {"country":"dnk","name":"Esbjerg fB","id":"Esbjerg_fB","win":18,"draw":8,"loss":7,"for":71,"against":44},
 {"country":"dnk","name":"Odense BK","id":"Odense_Boldklub","win":16,"draw":9,"loss":8,"for":66,"against":46},
 {"country":"dnk","name":"Aalborg BK","id":"AaB_Fodbold","win":16,"draw":9,"loss":8,"for":55,"against":41},

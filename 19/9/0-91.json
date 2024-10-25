@@ -20,7 +20,7 @@
 {"country":"eng","name":"Sunderland","id":"Sunderland_A.F.C.","win":8,"draw":10,"loss":20,"for":38,"against":60,"isRemoved":true,"isReturning":true},
 {"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":5,"draw":9,"loss":24,"for":37,"against":75,"isRemoved":true}
 ][
-{"country":"dnk","name":"Brøndby","id":"Brøndby_IF","win":10,"draw":6,"loss":2,"for":26,"against":15,"isChampion":true},
+{"country":"dnk","name":"Brøndby","id":"brondby_if","win":10,"draw":6,"loss":2,"for":26,"against":15,"isChampion":true},
 {"country":"dnk","name":"Lyngby Boldklub","id":"Lyngby_Boldklub","win":10,"draw":4,"loss":4,"for":35,"against":18},
 {"country":"dnk","name":"AGF","id":"Aarhus_Gymnastikforening","win":6,"draw":8,"loss":4,"for":29,"against":26},
 {"country":"dnk","name":"Frem","id":"boldklubben_frem","win":6,"draw":7,"loss":5,"for":25,"against":24},

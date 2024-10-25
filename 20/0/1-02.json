@@ -20,7 +20,7 @@
 {"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":8,"draw":6,"loss":24,"for":33,"against":63,"isRemoved":true},
 {"country":"eng","name":"Leicester City","id":"Leicester_City_F.C.","win":5,"draw":13,"loss":20,"for":30,"against":64,"isRemoved":true}
 ][
-{"country":"dnk","name":"Brøndby IF","id":"Brøndby_IF","win":20,"draw":9,"loss":4,"for":74,"against":28,"isChampion":true},
+{"country":"dnk","name":"Brøndby IF","id":"brondby_if","win":20,"draw":9,"loss":4,"for":74,"against":28,"isChampion":true},
 {"country":"dnk","name":"FC København","id":"F.C._Copenhagen","win":20,"draw":9,"loss":4,"for":62,"against":25},
 {"country":"dnk","name":"FC Midtjylland","id":"FC_Midtjylland","win":16,"draw":9,"loss":8,"for":47,"against":27},
 {"country":"dnk","name":"Aalborg BK","id":"AaB_Fodbold","win":16,"draw":6,"loss":11,"for":52,"against":45},

@@ -25,7 +25,7 @@
 {"country":"dnk","name":"AaB","id":"AaB_Fodbold","win":18,"draw":7,"loss":8,"for":55,"against":35},
 {"country":"dnk","name":"OB","id":"Odense_Boldklub","win":17,"draw":7,"loss":9,"for":45,"against":36},
 {"country":"dnk","name":"Nordsjælland","id":"FC_Nordsjælland","win":16,"draw":9,"loss":8,"for":68,"against":40},
-{"country":"dnk","name":"Brøndby IF","id":"Brøndby_IF","win":13,"draw":10,"loss":10,"for":50,"against":38},
+{"country":"dnk","name":"Brøndby IF","id":"brondby_if","win":13,"draw":10,"loss":10,"for":50,"against":38},
 {"country":"dnk","name":"Esbjerg fB","id":"Esbjerg_fB","win":10,"draw":10,"loss":13,"for":46,"against":51},
 {"country":"dnk","name":"Randers","id":"Randers_FC","win":10,"draw":8,"loss":15,"for":41,"against":53,"isReturning":true},
 {"country":"dnk","name":"Viborg","id":"Viborg_FF","win":8,"draw":5,"loss":20,"for":34,"against":64},

@@ -21,7 +21,7 @@
 {"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":7,"draw":10,"loss":21,"for":32,"against":63,"isRemoved":true}
 ][
 {"country":"dnk","name":"Odense BK","id":"Odense_Boldklub","win":17,"draw":7,"loss":2,"for":45,"against":19,"isChampion":true},
-{"country":"dnk","name":"Brøndby IF","id":"Brøndby_IF","win":17,"draw":4,"loss":5,"for":52,"against":26},
+{"country":"dnk","name":"Brøndby IF","id":"brondby_if","win":17,"draw":4,"loss":5,"for":52,"against":26},
 {"country":"dnk","name":"Lyngby BK","id":"Lyngby_Boldklub","win":15,"draw":8,"loss":3,"for":48,"against":24},
 {"country":"dnk","name":"Vejle BK","id":"Vejle_Boldklub","win":14,"draw":6,"loss":6,"for":45,"against":27},
 {"country":"dnk","name":"Aarhus GF","id":"Aarhus_Gymnastikforening","win":10,"draw":13,"loss":3,"for":39,"against":22},

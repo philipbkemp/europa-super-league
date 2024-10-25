@@ -20,7 +20,7 @@
 {"country":"eng","name":"Middlesbrough","id":"Middlesbrough_F.C.","win":10,"draw":12,"loss":16,"for":51,"against":60,"isRemoved":true,"deduct":-3,"deductReason":"Failing to fulfil a fixture"},
 {"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":6,"draw":16,"loss":16,"for":31,"against":59,"isRemoved":true}
 ][
-{"country":"dnk","name":"Brøndby IF","id":"Brøndby_IF","win":20,"draw":8,"loss":5,"for":64,"against":39,"isChampion":true},
+{"country":"dnk","name":"Brøndby IF","id":"brondby_if","win":20,"draw":8,"loss":5,"for":64,"against":39,"isChampion":true},
 {"country":"dnk","name":"Vejle BK","id":"Vejle_Boldklub","win":14,"draw":12,"loss":7,"for":57,"against":38},
 {"country":"dnk","name":"Aarhus GF","id":"Aarhus_Gymnastikforening","win":14,"draw":10,"loss":9,"for":75,"against":51},
 {"country":"dnk","name":"Herfølge BK","id":"Herfølge_Boldklub","win":15,"draw":7,"loss":11,"for":46,"against":42},

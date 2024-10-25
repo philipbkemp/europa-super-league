@@ -21,7 +21,7 @@
 {"country":"eng","name":"Bradford City","id":"Bradford_City_A.F.C.","win":5,"draw":11,"loss":22,"for":30,"against":70,"isRemoved":true}
 ][
 {"country":"dnk","name":"FC København","id":"F.C._Copenhagen","win":17,"draw":12,"loss":4,"for":55,"against":27,"isChampion":true},
-{"country":"dnk","name":"Brøndby IF","id":"Brøndby_IF","win":17,"draw":7,"loss":9,"for":71,"against":42},
+{"country":"dnk","name":"Brøndby IF","id":"brondby_if","win":17,"draw":7,"loss":9,"for":71,"against":42},
 {"country":"dnk","name":"Silkeborg IF","id":"Silkeborg_IF","win":15,"draw":11,"loss":7,"for":49,"against":36},
 {"country":"dnk","name":"FC Midtjylland","id":"FC_Midtjylland","win":14,"draw":11,"loss":8,"for":54,"against":43,"isNew":true},
 {"country":"dnk","name":"Aalborg BK","id":"AaB_Fodbold","win":13,"draw":10,"loss":10,"for":51,"against":49},

@@ -20,7 +20,7 @@
 {"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":5,"draw":11,"loss":22,"for":35,"against":76,"isRemoved":true,"isReturning":true},
 {"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":7,"draw":2,"loss":29,"for":20,"against":63,"isRemoved":true}
 ][
-{"country":"dnk","name":"Brøndby","id":"Brøndby_IF","win":19,"draw":4,"loss":9,"for":58,"against":38,"isChampion":true},
+{"country":"dnk","name":"Brøndby","id":"brondby_if","win":19,"draw":4,"loss":9,"for":58,"against":38,"isChampion":true},
 {"country":"dnk","name":"Midtjylland","id":"FC_Midtjylland","win":18,"draw":6,"loss":8,"for":57,"against":33},
 {"country":"dnk","name":"AGF","id":"Aarhus_Gymnastikforening","win":13,"draw":9,"loss":10,"for":48,"against":42},
 {"country":"dnk","name":"Copenhagen","id":"F.C._Copenhagen","win":16,"draw":7,"loss":9,"for":61,"against":53},

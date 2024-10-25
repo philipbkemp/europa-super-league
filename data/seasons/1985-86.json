@@ -22,7 +22,7 @@
 	{"country":"eng","name":"Birmingham City","id":"Birmingham_City_F.C.","win":8,"draw":5,"loss":29,"for":30,"against":73,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":4,"draw":12,"loss":26,"for":35,"against":89,"isRemoved":true},
 	{"country":"dnk","name":"Aarhus GF","id":"Aarhus_Gymnastikforening","win":17,"draw":7,"loss":2,"for":49,"against":22,"isChampion":true},
-	{"country":"dnk","name":"Brøndby IF","id":"Brøndby_IF","win":18,"draw":1,"loss":7,"for":52,"against":30},
+	{"country":"dnk","name":"Brøndby IF","id":"brondby_if","win":18,"draw":1,"loss":7,"for":52,"against":30},
 	{"country":"dnk","name":"Næstved IF","id":"Næstved_Boldklub","win":13,"draw":9,"loss":4,"for":43,"against":23},
 	{"country":"dnk","name":"Lyngby BK","id":"Lyngby_Boldklub","win":12,"draw":8,"loss":6,"for":40,"against":29},
 	{"country":"dnk","name":"B 1903","id":"Boldklubben_1903","win":10,"draw":9,"loss":7,"for":40,"against":33},

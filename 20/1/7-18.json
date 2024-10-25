@@ -20,7 +20,7 @@
 {"country":"eng","name":"Stoke City","id":"Stoke_City_F.C.","win":7,"draw":12,"loss":19,"for":35,"against":68,"isRemoved":true},
 {"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":6,"draw":13,"loss":19,"for":31,"against":56,"isRemoved":true}
 ][
-{"country":"dnk","name":"Brøndby","id":"Brøndby_IF","win":24,"draw":9,"loss":3,"for":82,"against":37},
+{"country":"dnk","name":"Brøndby","id":"brondby_if","win":24,"draw":9,"loss":3,"for":82,"against":37},
 {"country":"dnk","name":"Midtjylland","id":"FC_Midtjylland","win":27,"draw":4,"loss":5,"for":80,"against":39,"isChampion":true},
 {"country":"dnk","name":"Nordsjælland","id":"FC_Nordsjælland","win":17,"draw":8,"loss":11,"for":76,"against":58},
 {"country":"dnk","name":"Copenhagen","id":"F.C._Copenhagen","win":17,"draw":7,"loss":12,"for":65,"against":47},
