@@ -169,7 +169,7 @@
 	{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":3,"draw":7,"loss":8,"for":17,"against":31,"isRemoved":true,"removedNote":"Malta switched to a grouped format for new season"},
 	{"country":"mlt","name":"Birkirkara F.C.","id":"Birkirkara_F.C.","win":3,"draw":2,"loss":13,"for":11,"against":38,"isRemoved":true,"isReturning":true},
 	{"country":"mlt","name":"Vittoriosa Stars F.C.","id":"Vittoriosa_Stars_F.C.","win":1,"draw":2,"loss":15,"for":9,"against":58,"isRemoved":true},
-	{"country":"rou","name":"Steaua București","id":"FCSB","win":17,"draw":7,"loss":10,"for":75,"against":49,"isChampion":true},
+	{"country":"rou","name":"Steaua București","id":"fcsb","win":17,"draw":7,"loss":10,"for":75,"against":49,"isChampion":true},
 	{"country":"rou","name":"Argeș Pitești","id":"FC_Argeș_Pitești","win":18,"draw":5,"loss":11,"for":60,"against":49},
 	{"country":"rou","name":"Politehnica Timișoara","id":"FC_Politehnica_Timișoara","win":16,"draw":6,"loss":12,"for":48,"against":38},
 	{"country":"rou","name":"Sportul Studenţesc București","id":"FC_Sportul_Studențesc_București","win":18,"draw":2,"loss":14,"for":49,"against":42},

@@ -165,7 +165,7 @@
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":4,"draw":3,"loss":7,"for":19,"against":22},
 	{"country":"mlt","name":"Birkirkara F.C.","id":"Birkirkara_F.C.","win":1,"draw":4,"loss":9,"for":9,"against":25,"isRemoved":true,"isReturning":true},
 	{"country":"mlt","name":"Mqabba F.C.","id":"Mqabba_F.C.","win":1,"draw":4,"loss":9,"for":9,"against":32,"isRemoved":true,"isNew":true},
-	{"country":"rou","name":"Steaua București","id":"FCSB","win":26,"draw":5,"loss":3,"for":79,"against":25,"isChampion":true},
+	{"country":"rou","name":"Steaua București","id":"fcsb","win":26,"draw":5,"loss":3,"for":79,"against":25,"isChampion":true},
 	{"country":"rou","name":"Sportul Studenţesc București","id":"FC_Sportul_Studențesc_București","win":19,"draw":10,"loss":5,"for":87,"against":41},
 	{"country":"rou","name":"Universitatea Craiova","id":"CS_Universitatea_Craiova","win":20,"draw":6,"loss":8,"for":65,"against":36},
 	{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":20,"draw":6,"loss":8,"for":49,"against":27},

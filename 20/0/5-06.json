@@ -177,7 +177,7 @@
 {"country":"mlt","name":"Pietà Hotspurs","id":"Pietà_Hotspurs_F.C.","win":6,"draw":6,"loss":12,"for":31,"against":47},
 {"country":"mlt","name":"Mosta","id":"Mosta_F.C.","win":5,"draw":5,"loss":14,"for":34,"against":65,"isRemoved":true,"isReturning":true}
 ][
-{"country":"rou","name":"Steaua București","id":"FCSB","win":19,"draw":7,"loss":4,"for":49,"against":16,"isChampion":true},
+{"country":"rou","name":"Steaua București","id":"fcsb","win":19,"draw":7,"loss":4,"for":49,"against":16,"isChampion":true},
 {"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":17,"draw":8,"loss":5,"for":47,"against":23},
 {"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":17,"draw":5,"loss":8,"for":56,"against":32},
 {"country":"rou","name":"Sportul Studențesc București","id":"FC_Sportul_Studențesc_București","win":17,"draw":5,"loss":8,"for":54,"against":35,"isRemoved":true,"removedDate":"Failed to meet licencing requirements"},

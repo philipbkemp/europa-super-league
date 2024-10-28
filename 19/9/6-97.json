@@ -179,7 +179,7 @@
 {"country":"mlt","name":"Rabat Ajax F.C.","id":"Rabat_Ajax_F.C.","win":5,"draw":3,"loss":19,"for":32,"against":73,"isRemoved":true},
 {"country":"mlt","name":"Lija Athletic F.C.","id":"Lija_Athletic_F.C.","win":2,"draw":0,"loss":25,"for":22,"against":94,"isRemoved":true,"isNew":true}
 ][
-{"country":"rou","name":"Steaua București","id":"FCSB","win":23,"draw":4,"loss":7,"for":87,"against":40,"isChampion":true},
+{"country":"rou","name":"Steaua București","id":"fcsb","win":23,"draw":4,"loss":7,"for":87,"against":40,"isChampion":true},
 {"country":"rou","name":"Național București","id":"FC_Progresul_București","win":21,"draw":5,"loss":8,"for":69,"against":36},
 {"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":18,"draw":5,"loss":11,"for":56,"against":34},
 {"country":"rou","name":"Oțelul Galați","id":"ASC_Oțelul_Galați","win":17,"draw":7,"loss":10,"for":54,"against":39},

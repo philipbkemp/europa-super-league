@@ -131,7 +131,7 @@
 	{"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":3,"draw":5,"loss":6,"for":14,"against":25},
 	{"country":"mlt","name":"Rabat","id":"Rabat_Ajax_F.C.","win":2,"draw":6,"loss":6,"for":16,"against":25},
 	{"country":"mlt","name":"Vittoriosa Stars F.C.","id":"Vittoriosa_Stars_F.C.","win":3,"draw":2,"loss":9,"for":11,"against":26,"isRemoved":true,"isReturning":true},
-	{"country":"rou","name":"CCA București","id":"FCSB","win":15,"draw":3,"loss":6,"for":64,"against":28,"isChampion":true,"isRemoved":true,"removedNote":"League run as single year event, switching to standard two year format results in no season next season"},
+	{"country":"rou","name":"CCA București","id":"fcsb","win":15,"draw":3,"loss":6,"for":64,"against":28,"isChampion":true,"isRemoved":true,"removedNote":"League run as single year event, switching to standard two year format results in no season next season"},
 	{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":13,"draw":3,"loss":8,"for":48,"against":34,"isRemoved":true,"removedNote":"League run as single year event, switching to standard two year format results in no season next season"},
 	{"country":"rou","name":"Știința Timișoara","id":"FC_Politehnica_Timișoara","win":11,"draw":7,"loss":6,"for":40,"against":31,"isRemoved":true,"removedNote":"League run as single year event, switching to standard two year format results in no season next season"},
 	{"country":"rou","name":"Locomotiva București","id":"FC_Rapid_București","win":9,"draw":10,"loss":5,"for":46,"against":27,"isRemoved":true,"isReturning":true,"removedNote":"League run as single year event, switching to standard two year format results in no season next season"},

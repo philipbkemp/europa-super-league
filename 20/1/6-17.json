@@ -178,7 +178,7 @@
 {"country":"mlt","name":"Pembroke Athleta","id":"Pembroke_Athleta_F.C.","win":4,"draw":6,"loss":23,"for":28,"against":84,"isRemoved":true}
 ][
 {"country":"rou","name":"Viitorul Constanța","id":"FC_Viitorul_Constanța","win":21,"draw":6,"loss":9,"for":51,"against":30,"isChampion":true},
-{"country":"rou","name":"Steaua București","id":"FCSB","win":19,"draw":10,"loss":7,"for":49,"against":29},
+{"country":"rou","name":"Steaua București","id":"fcsb","win":19,"draw":10,"loss":7,"for":49,"against":29},
 {"country":"rou","name":"Astra Giurgiu","id":"FC_Astra_Giurgiu","win":14,"draw":7,"loss":15,"for":42,"against":45},
 {"country":"rou","name":"CFR Cluj","id":"CFR_Cluj","win":17,"draw":9,"loss":10,"for":50,"against":37,"deduct":-6,"deductReason":"Failing to comply with licensing requirements"},
 {"country":"rou","name":"Universitatea Craiova","id":"CS_Universitatea_Craiova","win":15,"draw":7,"loss":14,"for":44,"against":40},

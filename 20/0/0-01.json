@@ -177,7 +177,7 @@
 {"country":"mlt","name":"Rabat Ajax","id":"Rabat_Ajax_F.C.","win":5,"draw":6,"loss":13,"for":35,"against":63,"isRemoved":true},
 {"country":"mlt","name":"Xgħajra Tornadoes","id":"Xgħajra_Tornados_F.C.","win":0,"draw":2,"loss":22,"for":11,"against":93,"isRemoved":true,"isReturning":true}
 ][
-{"country":"rou","name":"Steaua București","id":"FCSB","win":17,"draw":9,"loss":4,"for":56,"against":32,"isChampion":true},
+{"country":"rou","name":"Steaua București","id":"fcsb","win":17,"draw":9,"loss":4,"for":56,"against":32,"isChampion":true},
 {"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":15,"draw":6,"loss":9,"for":56,"against":44},
 {"country":"rou","name":"Brașov","id":"FC_Brașov_(1936)","win":15,"draw":5,"loss":10,"for":33,"against":25},
 {"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":13,"draw":10,"loss":7,"for":38,"against":25},

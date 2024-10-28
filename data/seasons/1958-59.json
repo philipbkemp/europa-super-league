@@ -153,7 +153,7 @@
 	{"country":"mlt","name":"Rabat","id":"Rabat_Ajax_F.C.","win":3,"draw":2,"loss":9,"for":19,"against":33,"isRemoved":true},
 	{"country":"rou","name":"Petrolul Ploiești","id":"FC_Petrolul_Ploiești","win":15,"draw":1,"loss":6,"for":47,"against":23,"isChampion":true},
 	{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":13,"draw":4,"loss":5,"for":47,"against":27},
-	{"country":"rou","name":"CCA București","id":"FCSB","win":12,"draw":5,"loss":5,"for":35,"against":26},
+	{"country":"rou","name":"CCA București","id":"fcsb","win":12,"draw":5,"loss":5,"for":35,"against":26},
 	{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":11,"draw":4,"loss":7,"for":46,"against":28},
 	{"country":"rou","name":"Dinamo Bacău","id":"FCM_Bacău","win":9,"draw":5,"loss":8,"for":32,"against":35,"isReturning":true},
 	{"country":"rou","name":"Progresul București","id":"FC_Progresul_București","win":9,"draw":3,"loss":10,"for":39,"against":34},

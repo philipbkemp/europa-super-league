@@ -176,7 +176,7 @@
 	{"country":"rou","name":"Corvinul Hunedoara","id":"CS_Corvinul_Hunedoara","win":15,"draw":9,"loss":10,"for":64,"against":42},
 	{"country":"rou","name":"Olt Scornicești","id":"FC_Olt_Scornicești","win":17,"draw":5,"loss":12,"for":48,"against":41},
 	{"country":"rou","name":"Sportul Studenţesc București","id":"FC_Sportul_Studențesc_București","win":12,"draw":14,"loss":8,"for":36,"against":36},
-	{"country":"rou","name":"Steaua București","id":"FCSB","win":14,"draw":9,"loss":11,"for":41,"against":33},
+	{"country":"rou","name":"Steaua București","id":"fcsb","win":14,"draw":9,"loss":11,"for":41,"against":33},
 	{"country":"rou","name":"SC Bacău","id":"FCM_Bacău","win":11,"draw":11,"loss":12,"for":40,"against":47},
 	{"country":"rou","name":"Chimia Râmnicu Vâlcea","id":"Chimia_Râmnicu_Vâlcea","win":12,"draw":9,"loss":13,"for":37,"against":48},
 	{"country":"rou","name":"CS Târgoviște","id":"FCM_Târgoviște","win":12,"draw":9,"loss":13,"for":30,"against":43,"isReturning":true},

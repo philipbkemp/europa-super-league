@@ -167,7 +167,7 @@
 	{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":5,"draw":3,"loss":6,"for":12,"against":17},
 	{"country":"mlt","name":"Rabat Ajax F.C.","id":"Rabat_Ajax_F.C.","win":4,"draw":4,"loss":6,"for":21,"against":13,"isRemoved":true},
 	{"country":"mlt","name":"Tarxien Rainbows F.C.","id":"Tarxien_Rainbows_F.C.","win":1,"draw":1,"loss":12,"for":6,"against":41,"isRemoved":true,"isNew":true},
-	{"country":"rou","name":"Steaua București","id":"FCSB","win":25,"draw":9,"loss":0,"for":87,"against":17,"isChampion":true},
+	{"country":"rou","name":"Steaua București","id":"fcsb","win":25,"draw":9,"loss":0,"for":87,"against":17,"isChampion":true},
 	{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":17,"draw":10,"loss":7,"for":84,"against":46},
 	{"country":"rou","name":"Victoria București","id":"Victoria_București","win":15,"draw":8,"loss":11,"for":43,"against":39},
 	{"country":"rou","name":"Sportul Studenţesc București","id":"FC_Sportul_Studențesc_București","win":14,"draw":7,"loss":13,"for":55,"against":46},

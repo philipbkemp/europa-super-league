@@ -129,7 +129,7 @@
 	{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":5,"draw":1,"loss":8,"for":18,"against":28},
 	{"country":"mlt","name":"Rabat","id":"Rabat_Ajax_F.C.","win":1,"draw":3,"loss":10,"for":10,"against":37,"isNew":true},
 	{"country":"mlt","name":"St. Patrick F.C.","id":"Żabbar_St._Patrick_F.C.","win":0,"draw":2,"loss":12,"for":10,"against":63,"isRemoved":true,"bonusPoints":2},
-	{"country":"rou","name":"CCA București","id":"FCSB","win":15,"draw":6,"loss":1,"for":46,"against":16,"isChampion":true},
+	{"country":"rou","name":"CCA București","id":"fcsb","win":15,"draw":6,"loss":1,"for":46,"against":16,"isChampion":true},
 	{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":14,"draw":6,"loss":2,"for":51,"against":23},
 	{"country":"rou","name":"CA Câmpulung Moldovenesc","id":"CA_Câmpulung_Moldovenesc","win":10,"draw":5,"loss":7,"for":36,"against":25,"isNew":true},
 	{"country":"rou","name":"Locomotiva Târgu Mureş","id":"CS_Târgu_Mureș","win":9,"draw":5,"loss":8,"for":37,"against":35},

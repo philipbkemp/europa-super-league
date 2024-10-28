@@ -148,7 +148,7 @@
 	{"country":"rou","name":"Dermata Cluj","id":"Dermata_Cluj","win":7,"draw":11,"loss":12,"for":41,"against":50,"isRemoved":true,"isNew":true},
 	{"country":"rou","name":"CSM Mediaș","id":"CS_Gaz_Metan_Mediaș","win":10,"draw":5,"loss":15,"for":48,"against":77,"isNew":true},
 	{"country":"rou","name":"FC Ploiești","id":"FC_Ploiești","win":10,"draw":4,"loss":16,"for":48,"against":86,"isRemoved":true,"isReturning":true},
-	{"country":"rou","name":"ASA București","id":"FCSB","win":8,"draw":6,"loss":16,"for":44,"against":66,"isNew":true},
+	{"country":"rou","name":"ASA București","id":"fcsb","win":8,"draw":6,"loss":16,"for":44,"against":66,"isNew":true},
 	{"country":"rou","name":"Unirea Tricolor București","id":"Unirea_Tricolor_București","win":8,"draw":5,"loss":17,"for":51,"against":86,"isRemoved":true,"isReturning":true},
 	{"country":"rou","name":"UD Reșița","id":"CSM_Reșița","win":7,"draw":4,"loss":19,"for":45,"against":90,"isRemoved":true},
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":15,"draw":3,"loss":4,"for":56,"against":32,"isChampion":true},

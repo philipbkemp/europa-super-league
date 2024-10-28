@@ -168,7 +168,7 @@
 	{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":4,"draw":6,"loss":8,"for":17,"against":25},
 	{"country":"mlt","name":"Marsa F.C.","id":"Marsa_F.C.","win":3,"draw":6,"loss":9,"for":20,"against":35,"isRemoved":true},
 	{"country":"mlt","name":"Birkirkara F.C.","id":"Birkirkara_F.C.","win":1,"draw":9,"loss":8,"for":10,"against":18,"isRemoved":true},
-	{"country":"rou","name":"Steaua București","id":"FCSB","win":21,"draw":9,"loss":4,"for":79,"against":33,"isChampion":true},
+	{"country":"rou","name":"Steaua București","id":"fcsb","win":21,"draw":9,"loss":4,"for":79,"against":33,"isChampion":true},
 	{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":18,"draw":8,"loss":8,"for":68,"against":35},
 	{"country":"rou","name":"ASA Târgu Mureș","id":"ASA_Târgu_Mureș_(1962)","win":17,"draw":4,"loss":13,"for":48,"against":42},
 	{"country":"rou","name":"Sportul Studenţesc București","id":"FC_Sportul_Studențesc_București","win":14,"draw":9,"loss":11,"for":52,"against":41},

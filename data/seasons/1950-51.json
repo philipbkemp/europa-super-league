@@ -133,7 +133,7 @@
 	{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":5,"draw":1,"loss":8,"for":18,"against":32},
 	{"country":"mlt","name":"St. Patrick F.C.","id":"Żabbar_St._Patrick_F.C.","win":3,"draw":0,"loss":11,"for":12,"against":50,"isNew":true},
 	{"country":"mlt","name":"St. Andrews F.C.","id":"St._Andrews_F.C._(Malta)","win":0,"draw":1,"loss":13,"for":8,"against":45,"isRemoved":true},
-	{"country":"rou","name":"CCA București","id":"FCSB","win":13,"draw":6,"loss":3,"for":43,"against":19,"isChampion":true},
+	{"country":"rou","name":"CCA București","id":"fcsb","win":13,"draw":6,"loss":3,"for":43,"against":19,"isChampion":true},
 	{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":14,"draw":4,"loss":4,"for":52,"against":29},
 	{"country":"rou","name":"Progresul Oradea","id":"Club_Atletic_Oradea","win":11,"draw":4,"loss":7,"for":46,"against":36},
 	{"country":"rou","name":"Flamura Roșie Arad","id":"FC_UTA_Arad","win":8,"draw":8,"loss":6,"for":37,"against":31},

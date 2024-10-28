@@ -177,7 +177,7 @@
 {"country":"mlt","name":"Żabbar St. Patrick","id":"Żabbar_St._Patrick_F.C.","win":2,"draw":3,"loss":13,"for":17,"against":45,"isRemoved":true,"isReturning":true},
 {"country":"mlt","name":"Lija Athletic","id":"Lija_Athletic_F.C.","win":3,"draw":2,"loss":19,"for":13,"against":60,"isRemoved":true,"isReturning":true}
 ][
-{"country":"rou","name":"Steaua București","id":"FCSB","win":19,"draw":6,"loss":5,"for":47,"against":18,"isChampion":true},
+{"country":"rou","name":"Steaua București","id":"fcsb","win":19,"draw":6,"loss":5,"for":47,"against":18,"isChampion":true},
 {"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":20,"draw":2,"loss":8,"for":60,"against":30},
 {"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":16,"draw":9,"loss":5,"for":51,"against":27},
 {"country":"rou","name":"Național București","id":"FC_Progresul_București","win":17,"draw":6,"loss":7,"for":50,"against":33},

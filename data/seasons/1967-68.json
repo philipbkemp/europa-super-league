@@ -169,7 +169,7 @@
 	{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":3,"draw":4,"loss":7,"for":13,"against":25},
 	{"country":"mlt","name":"Msida Saint-Joseph F.C.","id":"Msida_Saint-Joseph_F.C.","win":4,"draw":0,"loss":10,"for":11,"against":23,"isRemoved":true,"isReturning":true},
 	{"country":"mlt","name":"Qormi F.C.","id":"Qormi_F.C.","win":2,"draw":2,"loss":10,"for":10,"against":31,"isRemoved":true,"isNew":true},
-	{"country":"rou","name":"Steaua București","id":"FCSB","win":14,"draw":7,"loss":5,"for":45,"against":26,"isChampion":true},
+	{"country":"rou","name":"Steaua București","id":"fcsb","win":14,"draw":7,"loss":5,"for":45,"against":26,"isChampion":true},
 	{"country":"rou","name":"Argeș Pitești","id":"FC_Argeș_Pitești","win":14,"draw":5,"loss":7,"for":40,"against":23},
 	{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":13,"draw":5,"loss":8,"for":34,"against":31},
 	{"country":"rou","name":"UTA Arad","id":"FC_UTA_Arad","win":11,"draw":4,"loss":11,"for":25,"against":24},
