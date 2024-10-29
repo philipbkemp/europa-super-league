@@ -299,7 +299,7 @@
 	{"country":"ltu","name":"Tauras Siauliai","id":"Tauras_Siauliai","win":5,"draw":6,"loss":21,"for":29,"against":61,"isRemoved":true},
 	{"country":"ltu","name":"Ausra Vilnius","id":"Ausra_Vilnius","win":2,"draw":11,"loss":19,"for":29,"against":63,"isRemoved":true},
 	{"country":"ltu","name":"Utenis Utena","id":"FK_Utenis_Utena","win":5,"draw":4,"loss":23,"for":27,"against":67,"isRemoved":true},
-	{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":17,"draw":11,"loss":6,"for":66,"against":39,"isChampion":true},
+	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":17,"draw":11,"loss":6,"for":66,"against":39,"isChampion":true},
 	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":17,"draw":10,"loss":7,"for":62,"against":37},
 	{"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":15,"draw":12,"loss":7,"for":61,"against":34},
 	{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":16,"draw":10,"loss":8,"for":55,"against":36},

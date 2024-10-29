@@ -320,7 +320,7 @@
 {"country":"ltu","name":"Sveikata Kybartai","id":"FK_Sveikata_Kybartai","win":5,"draw":6,"loss":19,"for":20,"against":61,"isNew":true,"isRemoved":true},
 {"country":"ltu","name":"Sirvinta Vilkaviskis","id":"FK_Širvinta_Vilkaviškis","win":2,"draw":4,"loss":24,"for":19,"against":77,"isNew":true,"isRemoved":true}
 ][
-{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":25,"draw":0,"loss":5,"for":88,"against":35,"penWin":4,"penLoss":2,"isChampion":true},
+{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":25,"draw":0,"loss":5,"for":88,"against":35,"penWin":4,"penLoss":2,"isChampion":true},
 {"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":20,"draw":0,"loss":6,"for":72,"against":36,"penWin":6,"penLoss":4},
 {"country":"yug","name":"Partizan","id":"FK_Partizan","win":18,"draw":0,"loss":10,"for":62,"against":36,"penWin":5,"penLoss":3},
 {"country":"yug","name":"Proleter Zrenjanin","id":"FK_Proleter_Zrenjanin","win":17,"draw":0,"loss":15,"for":50,"against":49,"penWin":1,"penLoss":3,"isReturning":true},

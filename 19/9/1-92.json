@@ -330,7 +330,7 @@
 {"country":"ltu","name":"Tauras Šiauliai","id":"FC_Šiauliai","win":3,"draw":1,"loss":21,"for":14,"against":49,"isRemoved":true},
 {"country":"ltu","name":"Vienybė","id":"FK_Vienybė","win":1,"draw":3,"loss":9,"for":8,"against":27,"isRemoved":true,"isNew":true}
 ][
-{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":23,"draw":0,"loss":5,"for":77,"against":24,"penWin":4,"penLoss":1,"isChampion":true},
+{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":23,"draw":0,"loss":5,"for":77,"against":24,"penWin":4,"penLoss":1,"isChampion":true},
 {"country":"yug","name":"Partizan","id":"FK_Partizan","win":21,"draw":0,"loss":2,"for":59,"against":18,"penWin":4,"penLoss":6},
 {"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":19,"draw":0,"loss":9,"for":45,"against":31,"penWin":4,"penLoss":1},
 {"country":"yug","name":"OFK Beograd","id":"ofk_beograd","win":19,"draw":0,"loss":6,"for":62,"against":36,"penWin":3,"penLoss":5,"isReturning":true},

@@ -279,7 +279,7 @@
 	{"country":"ltu","name":"CF Kapsukas","id":"FK_Sūduva","win":7,"draw":3,"loss":12,"for":26,"against":45,"isRemoved":true,"removedNote":"League moved to a groupped format next season"},
 	{"country":"ltu","name":"Lima Kaunas","id":"Lima_Kaunas","win":6,"draw":4,"loss":12,"for":27,"against":42,"isRemoved":true,"removedNote":"League moved to a groupped format next season"},
 	{"country":"ltu","name":"Statybininkas Šiauliai","id":"FK_Kareda_Kaunas","win":6,"draw":1,"loss":15,"for":32,"against":53,"isNew":true,"isRemoved":true,"removedNote":"League moved to a groupped format next season"},
-	{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":15,"draw":3,"loss":4,"for":47,"against":25,"isChampion":true},
+	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":15,"draw":3,"loss":4,"for":47,"against":25,"isChampion":true},
 	{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":14,"draw":4,"loss":4,"for":48,"against":20},
 	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":11,"draw":5,"loss":6,"for":49,"against":29},
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":10,"draw":7,"loss":5,"for":36,"against":22},

@@ -732,7 +732,7 @@
 {"country":"and","name":"Principat","id":"CE_Principat","win":3,"draw":2,"loss":15,"for":18,"against":55},
 {"country":"and","name":"Extremenya","id":"UE_Extremenya","win":0,"draw":1,"loss":19,"for":11,"against":98,"isRemoved":true,"isReturning":true}
 ][
-{"country":"sam","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":25,"draw":3,"loss":2,"for":73,"against":23,"isChampion":true},
+{"country":"sam","name":"Red Star Belgrade","id":"red_star_belgrade","win":25,"draw":3,"loss":2,"for":73,"against":23,"isChampion":true},
 {"country":"sam","name":"Partizan","id":"FK_Partizan","win":22,"draw":5,"loss":3,"for":53,"against":17},
 {"country":"sam","name":"Voždovac","id":"FK_Voždovac","win":15,"draw":6,"loss":9,"for":52,"against":38,"isNew":true},
 {"country":"sam","name":"Hajduk Kula","id":"FK_Hajduk_Kula","win":13,"draw":11,"loss":6,"for":41,"against":26},

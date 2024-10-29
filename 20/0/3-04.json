@@ -721,7 +721,7 @@
 {"country":"and","name":"Inter d'Escaldes","id":"Inter_Club_d%27Escaldes","win":3,"draw":3,"loss":14,"for":20,"against":43},
 {"country":"and","name":"Engordany","id":"UE_Engordany","win":3,"draw":2,"loss":15,"for":20,"against":93,"isRemoved":true,"isNew":true}
 ][
-{"country":"sam","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":23,"draw":5,"loss":2,"for":59,"against":13,"isChampion":true},
+{"country":"sam","name":"Red Star Belgrade","id":"red_star_belgrade","win":23,"draw":5,"loss":2,"for":59,"against":13,"isChampion":true},
 {"country":"sam","name":"Partizan","id":"FK_Partizan","win":19,"draw":6,"loss":5,"for":48,"against":20},
 {"country":"sam","name":"Železnik","id":"FK_Železnik","win":17,"draw":7,"loss":6,"for":48,"against":20},
 {"country":"sam","name":"OFK Beograd","id":"ofk_beograd","win":14,"draw":9,"loss":7,"for":50,"against":57},

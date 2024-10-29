@@ -310,7 +310,7 @@
 	{"country":"ltu","name":"Ekranas Panevezys","id":"FK_Ekranas","win":6,"draw":10,"loss":16,"for":29,"against":56},
 	{"country":"ltu","name":"Sviesa Vilnius","id":"FC_Vilnius","win":7,"draw":7,"loss":18,"for":33,"against":52,"isRemoved":true},
 	{"country":"ltu","name":"Kooperatininkas Plunge","id":"Kooperatininkas_Plunge","win":5,"draw":6,"loss":21,"for":30,"against":69,"isRemoved":true},
-	{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":19,"draw":10,"loss":5,"for":54,"against":26,"isChampion":true},
+	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":19,"draw":10,"loss":5,"for":54,"against":26,"isChampion":true},
 	{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":17,"draw":7,"loss":10,"for":55,"against":41},
 	{"country":"yug","name":"Radnički Niš","id":"FK_Radnički_Niš","win":14,"draw":11,"loss":9,"for":49,"against":32},
 	{"country":"yug","name":"Napredak Kruševac","id":"FK_Napredak_Kruševac","win":13,"draw":13,"loss":8,"for":41,"against":27},

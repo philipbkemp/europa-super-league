@@ -299,7 +299,7 @@
 	{"country":"ltu","name":"Nevezis Kedainiai","id":"FK_Nevėžis","win":5,"draw":7,"loss":18,"for":37,"against":59,"isRemoved":true},
 	{"country":"ltu","name":"Automobilistas Klaipeda","id":"Automobilistas_Klaipeda","win":1,"draw":1,"loss":28,"for":17,"against":129,"isNew":true,"isRemoved":true},
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":18,"draw":0,"loss":10,"for":50,"against":38,"penWin":5,"penLoss":1,"isChampion":true},
-	{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":18,"draw":0,"loss":9,"for":55,"against":30,"penWin":2,"penLoss":5},
+	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":18,"draw":0,"loss":9,"for":55,"against":30,"penWin":2,"penLoss":5},
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":15,"draw":0,"loss":9,"for":50,"against":29,"penWin":6,"penLoss":4},
 	{"country":"yug","name":"Rad","id":"FK_Rad","win":13,"draw":0,"loss":10,"for":46,"against":38,"penWin":9,"penLoss":2},
 	{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":16,"draw":0,"loss":9,"for":42,"against":29,"penWin":2,"penLoss":7},

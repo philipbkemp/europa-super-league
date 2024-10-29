@@ -743,7 +743,7 @@
 {"country":"mne","name":"Petrovac","id":"OFK_Petrovac","win":7,"draw":11,"loss":18,"for":29,"against":45},
 {"country":"mne","name":"OFK Titograd","id":"OFK_Titograd","win":7,"draw":10,"loss":19,"for":23,"against":51,"isRemoved":true}
 ][
-{"country":"srb","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":35,"draw":3,"loss":0,"for":114,"against":20,"isChampion":true},
+{"country":"srb","name":"Red Star Belgrade","id":"red_star_belgrade","win":35,"draw":3,"loss":0,"for":114,"against":20,"isChampion":true},
 {"country":"srb","name":"Partizan","id":"FK_Partizan","win":31,"draw":2,"loss":5,"for":95,"against":20},
 {"country":"srb","name":"Čukarički","id":"FK_Čukarički","win":22,"draw":8,"loss":8,"for":69,"against":34},
 {"country":"srb","name":"Vojvodina","id":"FK_Vojvodina","win":21,"draw":8,"loss":9,"for":62,"against":41},

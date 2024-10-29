@@ -305,7 +305,7 @@
 {"country":"ltu","name":"Ardena","id":"KS_Polonia_Vilnius","win":2,"draw":5,"loss":11,"for":10,"against":26,"isNew":true},
 {"country":"ltu","name":"Dainava","id":"FK_Dainava_Alytus","win":1,"draw":3,"loss":14,"for":9,"against":44}
 ][
-{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":33,"draw":6,"loss":1,"for":85,"against":19,"isChampion":true},
+{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":33,"draw":6,"loss":1,"for":85,"against":19,"isChampion":true},
 {"country":"yug","name":"Partizan","id":"FK_Partizan","win":32,"draw":5,"loss":3,"for":111,"against":30},
 {"country":"yug","name":"Obilić","id":"FK_Obilić","win":28,"draw":5,"loss":7,"for":71,"against":32},
 {"country":"yug","name":"Rad","id":"FK_Rad","win":17,"draw":9,"loss":14,"for":56,"against":46},

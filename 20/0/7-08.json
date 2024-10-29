@@ -754,7 +754,7 @@
 {"country":"mne","name":"Mladost","id":"OFK_Titograd","win":4,"draw":7,"loss":22,"for":16,"against":44,"isRemoved":true}
 ][
 {"country":"srb","name":"Partizan","id":"FK_Partizan","win":24,"draw":8,"loss":1,"for":63,"against":23,"isChampion":true},
-{"country":"srb","name":"Red Star","id":"Red_Star_Belgrade","win":21,"draw":12,"loss":0,"for":65,"against":22},
+{"country":"srb","name":"Red Star","id":"red_star_belgrade","win":21,"draw":12,"loss":0,"for":65,"against":22},
 {"country":"srb","name":"Vojvodina","id":"FK_Vojvodina","win":18,"draw":8,"loss":7,"for":53,"against":33},
 {"country":"srb","name":"Borac Čačak","id":"FK_Borac_Čačak","win":12,"draw":10,"loss":11,"for":29,"against":33},
 {"country":"srb","name":"Napredak","id":"FK_Napredak_Kruševac","win":11,"draw":8,"loss":14,"for":25,"against":33,"isReturning":true},

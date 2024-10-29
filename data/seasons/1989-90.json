@@ -301,7 +301,7 @@
 {"country":"ltu","name":"Suduva Marijampole","id":"FK_Sūduva","win":6,"draw":4,"loss":19,"for":26,"against":43,"isRemoved":true},
 {"country":"ltu","name":"Lithuania j.r.","id":"Lithuania_national_under-21_football_team","win":6,"draw":3,"loss":6,"for":16,"against":17,"isNew":true,"isRemoved":true},
 {"country":"ltu","name":"Statyba Jonava","id":"BC_Jonava","win":3,"draw":5,"loss":21,"for":22,"against":54,"isRemoved":true},
-{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":24,"draw":0,"loss":5,"for":79,"against":29,"penWin":3,"penLoss":2,"isChampion":true},
+{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":24,"draw":0,"loss":5,"for":79,"against":29,"penWin":3,"penLoss":2,"isChampion":true},
 {"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":16,"draw":0,"loss":7,"for":53,"against":25,"penWin":8,"penLoss":3},
 {"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":18,"draw":0,"loss":13,"for":50,"against":35,"penWin":2,"penLoss":1},
 {"country":"yug","name":"Partizan","id":"FK_Partizan","win":18,"draw":0,"loss":12,"for":51,"against":42,"penWin":1,"penLoss":3},

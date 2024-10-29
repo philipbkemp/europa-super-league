@@ -263,7 +263,7 @@
 	{"country":"ltu","name":"Lima Kaunas","id":"Lima_Kaunas","win":2,"draw":4,"loss":5,"for":7,"against":19},
 	{"country":"ltu","name":"CF Kapsukas","id":"FK_Sūduva","win":3,"draw":1,"loss":7,"for":14,"against":26,"isReturning":true},
 	{"country":"ltu","name":"Elfa Vilnius","id":"Elfa_Vilnius","win":0,"draw":2,"loss":9,"for":6,"against":24,"isRemoved":true},
-	{"country":"yug","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":14,"draw":3,"loss":5,"for":50,"against":19,"isChampion":true},
+	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":14,"draw":3,"loss":5,"for":50,"against":19,"isChampion":true},
 	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":14,"draw":3,"loss":5,"for":39,"against":29},
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":13,"draw":4,"loss":5,"for":47,"against":22},
 	{"country":"yug","name":"Radnički Beograd","id":"FK_Radnički_Beograd","win":9,"draw":4,"loss":9,"for":35,"against":27},

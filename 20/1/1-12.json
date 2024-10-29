@@ -748,7 +748,7 @@
 {"country":"mne","name":"Bokelj","id":"FK_Bokelj","win":5,"draw":6,"loss":22,"for":21,"against":57,"isRemoved":true,"isReturning":true}
 ][
 {"country":"srb","name":"Partizan","id":"FK_Partizan","win":26,"draw":2,"loss":2,"for":67,"against":12,"isChampion":true},
-{"country":"srb","name":"Red Star Belgrade","id":"Red_Star_Belgrade","win":21,"draw":5,"loss":4,"for":57,"against":18},
+{"country":"srb","name":"Red Star Belgrade","id":"red_star_belgrade","win":21,"draw":5,"loss":4,"for":57,"against":18},
 {"country":"srb","name":"Vojvodina","id":"FK_Vojvodina","win":14,"draw":10,"loss":6,"for":44,"against":26},
 {"country":"srb","name":"Jagodina","id":"FK_Jagodina","win":14,"draw":9,"loss":7,"for":34,"against":20},
 {"country":"srb","name":"Sloboda Užice","id":"FK_Sloboda_Užice","win":15,"draw":6,"loss":9,"for":42,"against":35},
