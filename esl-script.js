@@ -17,6 +17,7 @@ const countries = {
 	"fin": "Finland",
 	"fra": "France",
 	"fro": "Faroe Islands",
+	"geo": "Georgia",
 	"grc": "Greece",
 	"hrv": "Croatia",
 	"hun": "Hungary",
