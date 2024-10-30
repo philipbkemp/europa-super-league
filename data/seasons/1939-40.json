@@ -66,7 +66,7 @@
 	{"country":"mlt","name":"Melita F.C.","id":"Melita_F.C.","win":5,"draw":0,"loss":5,"for":17,"against":20,"isRemoved":true,"removedNote":"League suspended for WW2"},
 	{"country":"mlt","name":"Xewkija Tigers F.C.","id":"Xewkija_Tigers_F.C.","win":3,"draw":3,"loss":4,"for":15,"against":14,"isRemoved":true,"isNew":true,"removedNote":"League suspended for WW2"},
 	{"country":"mlt","name":"Msida Saint-Joseph F.C.","id":"Msida_Saint-Joseph_F.C.","win":2,"draw":1,"loss":7,"for":10,"against":32,"isRemoved":true,"isReturning":true,"removedNote":"League suspended for WW2"},
-	{"country":"mlt","name":"Valletta St. Paul's","id":"Valletta_F.C.","win":1,"draw":2,"loss":7,"for":11,"against":25,"isRemoved":true,"removedNote":"League suspended for WW2"},
+	{"country":"mlt","name":"Valletta St. Paul's","id":"valletta_fc","win":1,"draw":2,"loss":7,"for":11,"against":25,"isRemoved":true,"removedNote":"League suspended for WW2"},
 	{"country":"rou","name":"Venus București","id":"FC_Venus_București","win":14,"draw":3,"loss":5,"for":59,"against":19,"isChampion":true},
 	{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":11,"draw":7,"loss":4,"for":64,"against":31},
 	{"country":"rou","name":"Sportul Studențesc București","id":"FC_Sportul_Studențesc_București","win":8,"draw":11,"loss":3,"for":42,"against":31},

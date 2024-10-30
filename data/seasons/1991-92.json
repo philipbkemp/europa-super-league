@@ -153,7 +153,7 @@
 	{"country":"lux","name":"FC Swift Hesperange","id":"FC_Swift_Hesperange","win":9,"draw":8,"loss":11,"for":51,"against":54,"isRemoved":true},
 	{"country":"lux","name":"FC Koeppchen Wormeldange","id":"FC_Koeppchen_Wormeldange","win":4,"draw":9,"loss":15,"for":27,"against":61,"isNew":true,"isRemoved":true},
 	{"country":"lux","name":"FC Wiltz 71","id":"FC_Wiltz_71","win":6,"draw":7,"loss":15,"for":41,"against":65,"isReturning":true,"isRemoved":true},
-	{"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":15,"draw":3,"loss":0,"for":45,"against":7,"isChampion":true},
+	{"country":"mlt","name":"Valletta F.C.","id":"valletta_fc","win":15,"draw":3,"loss":0,"for":45,"against":7,"isChampion":true},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":10,"draw":5,"loss":3,"for":26,"against":10},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":10,"draw":4,"loss":4,"for":37,"against":20},
 	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":10,"draw":3,"loss":5,"for":52,"against":28},

@@ -161,7 +161,7 @@
 	{"country":"lux","name":"FC Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":7,"draw":3,"loss":12,"for":30,"against":44},
 	{"country":"lux","name":"Chiers Rodange","id":"FC_Chiers","win":6,"draw":4,"loss":12,"for":18,"against":44,"isRemoved":true},
 	{"country":"lux","name":"US Rumelange","id":"US_Rumelange","win":4,"draw":3,"loss":15,"for":21,"against":56,"isRemoved":true},
-	{"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":14,"draw":3,"loss":1,"for":59,"against":8,"isChampion":true,"isReturning":true},
+	{"country":"mlt","name":"Valletta F.C.","id":"valletta_fc","win":14,"draw":3,"loss":1,"for":59,"against":8,"isChampion":true,"isReturning":true},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":13,"draw":2,"loss":3,"for":47,"against":11,"isReturning":true},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":12,"draw":4,"loss":2,"for":35,"against":6,"isReturning":true},
 	{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":11,"draw":4,"loss":3,"for":46,"against":11,"isReturning":true},

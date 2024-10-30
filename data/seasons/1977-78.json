@@ -159,7 +159,7 @@
 	{"country":"lux","name":"CS Grevenmacher","id":"CS_Grevenmacher","win":5,"draw":9,"loss":8,"for":28,"against":37},
 	{"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":6,"draw":6,"loss":10,"for":49,"against":47,"isReturning":true,"isRemoved":true},
 	{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":7,"draw":4,"loss":11,"for":34,"against":45,"isRemoved":true},
-	{"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":12,"draw":4,"loss":2,"for":44,"against":6,"isChampion":true,"isRemoved":true,"removedNote":"Malta switched to a grouped format for new season"},
+	{"country":"mlt","name":"Valletta F.C.","id":"valletta_fc","win":12,"draw":4,"loss":2,"for":44,"against":6,"isChampion":true,"isRemoved":true,"removedNote":"Malta switched to a grouped format for new season"},
 	{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":11,"draw":4,"loss":3,"for":39,"against":14,"isRemoved":true,"removedNote":"Malta switched to a grouped format for new season"},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":8,"draw":8,"loss":2,"for":28,"against":14,"isRemoved":true,"removedNote":"Malta switched to a grouped format for new season"},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":9,"draw":6,"loss":3,"for":34,"against":13,"deduct":-1,"isRemoved":true,"removedNote":"Malta switched to a grouped format for new season"},

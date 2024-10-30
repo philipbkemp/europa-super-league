@@ -119,7 +119,7 @@
 	{"country":"lux","name":"FA Red Boys Differdange","id":"fa_red_boys_differdange","win":3,"draw":3,"loss":12,"for":23,"against":48,"isRemoved":true},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":4,"draw":2,"loss":0,"for":13,"against":4,"isChampion":true},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":3,"draw":2,"loss":1,"for":11,"against":5,"isRemoved":true},
-	{"country":"mlt","name":"Valletta City","id":"Valletta_F.C.","win":0,"draw":3,"loss":3,"for":4,"against":9,"isReturning":true},
+	{"country":"mlt","name":"Valletta City","id":"valletta_fc","win":0,"draw":3,"loss":3,"for":4,"against":9,"isReturning":true},
 	{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":1,"draw":1,"loss":4,"for":3,"against":13},
 	{"country":"swe","name":"IK Sleipner","id":"IK_Sleipner","win":12,"draw":6,"loss":4,"for":46,"against":28,"isChampion":true},
 	{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":12,"draw":2,"loss":8,"for":36,"against":27,"isReturning":true},

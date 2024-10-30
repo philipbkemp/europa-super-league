@@ -105,7 +105,7 @@
 	{"country":"lux","name":"FC Red Black Pfaffenthal","id":"FC_Red_Black_Pfaffenthal","win":2,"draw":5,"loss":7,"for":16,"against":30,"isRemoved":true},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":6,"draw":0,"loss":0,"for":13,"against":1,"isChampion":true,"isReturning":true,"isRemoved":true},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":2,"draw":2,"loss":2,"for":10,"against":9},
-	{"country":"mlt","name":"Valletta United","id":"Valletta_F.C.","win":1,"draw":2,"loss":3,"for":8,"against":11},
+	{"country":"mlt","name":"Valletta United","id":"valletta_fc","win":1,"draw":2,"loss":3,"for":8,"against":11},
 	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":0,"draw":2,"loss":4,"for":5,"against":15,"isReturning":true},
 	{"country":"swe","name":"GAIS","id":"GAIS","win":16,"draw":4,"loss":2,"for":70,"against":34,"isChampion":true},
 	{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":12,"draw":6,"loss":4,"for":67,"against":41},

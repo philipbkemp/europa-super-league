@@ -77,7 +77,7 @@
 	{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":1,"draw":3,"loss":10,"for":19,"against":41,"isRemoved":true},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":3,"draw":1,"loss":0,"for":9,"against":4,"isChampion":true,"isRemoved":true},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":1,"draw":2,"loss":1,"for":5,"against":6},
-	{"country":"mlt","name":"Valletta United","id":"Valletta_F.C.","win":0,"draw":1,"loss":3,"for":1,"against":5},
+	{"country":"mlt","name":"Valletta United","id":"valletta_fc","win":0,"draw":1,"loss":3,"for":1,"against":5},
 	{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":16,"draw":3,"loss":3,"for":89,"against":35,"isChampion":true},
 	{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":15,"draw":3,"loss":4,"for":71,"against":41},
 	{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":14,"draw":4,"loss":4,"for":56,"against":34},

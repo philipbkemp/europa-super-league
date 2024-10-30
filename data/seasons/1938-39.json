@@ -120,7 +120,7 @@
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":5,"draw":1,"loss":0,"for":17,"against":4,"isChampion":true},
 	{"country":"mlt","name":"Melita F.C.","id":"Melita_F.C.","win":2,"draw":1,"loss":3,"for":9,"against":12,"isNew":true},
 	{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":1,"draw":2,"loss":3,"for":5,"against":10},
-	{"country":"mlt","name":"Valletta City","id":"Valletta_F.C.","win":1,"draw":2,"loss":3,"for":4,"against":9},
+	{"country":"mlt","name":"Valletta City","id":"valletta_fc","win":1,"draw":2,"loss":3,"for":4,"against":9},
 	{"country":"rou","name":"Venus București","id":"FC_Venus_București","win":14,"draw":7,"loss":1,"for":51,"against":20,"isChampion":true,"isReturning":true},
 	{"country":"rou","name":"Ripensia Timișoara","id":"FC_Ripensia_Timișoara","win":11,"draw":4,"loss":7,"for":53,"against":39,"isReturning":true},
 	{"country":"rou","name":"AMEF Arad","id":"Vagonul_Arad","win":10,"draw":5,"loss":7,"for":40,"against":35,"isReturning":true},

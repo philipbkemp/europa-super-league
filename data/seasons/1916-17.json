@@ -40,7 +40,7 @@
 	{"country":"mlt","name":"St. George's","id":"St._George%27s_F.C.","win":4,"draw":0,"loss":1,"for":5,"against":1,"isChampion":true,"isReturning":true},
 	{"country":"mlt","name":"Sliema Wanderers","id":"sliema_wanderers_fc","win":4,"draw":0,"loss":1,"for":16,"against":5,"isReturning":true},
 	{"country":"mlt","name":"Ħamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":3,"draw":1,"loss":1,"for":13,"against":6,"isReturning":true},
-	{"country":"mlt","name":"Valletta United","id":"Valletta_F.C.","win":2,"draw":1,"loss":2,"for":8,"against":6,"isReturning":true},
+	{"country":"mlt","name":"Valletta United","id":"valletta_fc","win":2,"draw":1,"loss":2,"for":8,"against":6,"isReturning":true},
 	{"country":"mlt","name":"Floriana Liberty","id":"Floriana_Liberty","win":1,"draw":1,"loss":4,"for":4,"against":12,"isNew":true},
 	{"country":"mlt","name":"Vittoriosa Rovers","id":"Vittoriosa_Stars_F.C.","win":0,"draw":0,"loss":5,"for":1,"against":17,"isReturning":true,"isRemoved":true},
 	{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":8,"draw":0,"loss":2,"for":34,"against":8,"isChampion":true,"isRemoved":true,"removedNote":"League suspended during WW1"},

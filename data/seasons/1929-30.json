@@ -105,7 +105,7 @@
 	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":3,"draw":2,"loss":9,"for":24,"against":41,"isRemoved":true},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":3,"draw":1,"loss":0,"for":14,"against":5,"isChampion":true},
 	{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":3,"draw":1,"loss":0,"for":15,"against":4,"isReturning":true,"isRemoved":true},
-	{"country":"mlt","name":"Valletta United","id":"Valletta_F.C.","win":1,"draw":1,"loss":2,"for":8,"against":12},
+	{"country":"mlt","name":"Valletta United","id":"valletta_fc","win":1,"draw":1,"loss":2,"for":8,"against":12},
 	{"country":"mlt","name":"Sliema Rangers","id":"sliema_rangers","win":0,"draw":2,"loss":2,"for":3,"against":10,"isReturning":true,"isRemoved":true},
 	{"country":"mlt","name":"Cottonera","id":"cottonera","win":0,"draw":1,"loss":3,"for":3,"against":12,"isReturning":true,"isRemoved":true},
 	{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":13,"draw":5,"loss":4,"for":78,"against":33,"isChampion":true},

@@ -153,7 +153,7 @@
 {"country":"lux","name":"FC Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":12,"draw":7,"loss":9,"for":40,"against":38,"isReturning":true},
 {"country":"lux","name":"FC Swift Hesperange","id":"FC_Swift_Hesperange","win":8,"draw":4,"loss":16,"for":41,"against":57},
 {"country":"lux","name":"Alliance Dudelange","id":"Alliance_Dudelange","win":3,"draw":5,"loss":20,"for":19,"against":70,"isReturning":true,"isRemoved":true},
-{"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":13,"draw":2,"loss":1,"for":31,"against":6,"isChampion":true,"deduct":-2},
+{"country":"mlt","name":"Valletta F.C.","id":"valletta_fc","win":13,"draw":2,"loss":1,"for":31,"against":6,"isChampion":true,"deduct":-2},
 {"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":11,"draw":2,"loss":3,"for":36,"against":11},
 {"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":10,"draw":3,"loss":3,"for":30,"against":12},
 {"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":10,"draw":3,"loss":3,"for":37,"against":13},

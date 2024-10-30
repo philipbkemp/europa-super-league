@@ -157,7 +157,7 @@
 	{"country":"lux","name":"FC Avenir Beggen","id":"FC_Avenir_Beggen","win":8,"draw":2,"loss":12,"for":41,"against":51,"isReturning":true},
 	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":4,"draw":7,"loss":11,"for":29,"against":47,"isRemoved":true},
 	{"country":"lux","name":"FC The Belval Belvaux","id":"FC_The_Belval_Belvaux","win":2,"draw":2,"loss":18,"for":27,"against":75,"isNew":true,"isRemoved":true},
-	{"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":11,"draw":2,"loss":1,"for":46,"against":9,"isChampion":true},
+	{"country":"mlt","name":"Valletta F.C.","id":"valletta_fc","win":11,"draw":2,"loss":1,"for":46,"against":9,"isChampion":true},
 	{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":10,"draw":1,"loss":3,"for":35,"against":11},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":9,"draw":3,"loss":2,"for":26,"against":13},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":7,"draw":2,"loss":5,"for":30,"against":22},

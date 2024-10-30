@@ -164,7 +164,7 @@
 {"country":"lux","name":"Rodange 91","id":"FC_Rodange_91","win":4,"draw":10,"loss":12,"for":27,"against":55,"isRemoved":true,"isReturning":true},
 {"country":"lux","name":"Esch","id":"US_Esch","win":1,"draw":1,"loss":24,"for":15,"against":73,"isRemoved":true,"isReturning":true}
 ][
-{"country":"mlt","name":"Valletta","id":"Valletta_F.C.","win":17,"draw":7,"loss":2,"for":40,"against":11,"isChampion":true},
+{"country":"mlt","name":"Valletta","id":"valletta_fc","win":17,"draw":7,"loss":2,"for":40,"against":11,"isChampion":true},
 {"country":"mlt","name":"Balzan","id":"Balzan_F.C.","win":16,"draw":7,"loss":3,"for":42,"against":19},
 {"country":"mlt","name":"Gżira United","id":"Gżira_United_F.C.","win":15,"draw":6,"loss":5,"for":52,"against":33},
 {"country":"mlt","name":"Birkirkara","id":"Birkirkara_F.C.","win":15,"draw":2,"loss":9,"for":44,"against":28},

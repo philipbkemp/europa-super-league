@@ -77,7 +77,7 @@
 	{"country":"lux","name":"US Esch-sur-Alzette","id":"US_Esch","win":1,"draw":3,"loss":10,"for":17,"against":58,"isNew":true,"isRemoved":true},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":6,"draw":0,"loss":0,"for":27,"against":2,"isChampion":true},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":4,"draw":1,"loss":1,"for":15,"against":7},
-	{"country":"mlt","name":"Valletta United","id":"Valletta_F.C.","win":3,"draw":0,"loss":3,"for":16,"against":8,"isRemoved":true},
+	{"country":"mlt","name":"Valletta United","id":"valletta_fc","win":3,"draw":0,"loss":3,"for":16,"against":8,"isRemoved":true},
 	{"country":"mlt","name":"Valletta Rovers","id":"valletta_rovers","win":2,"draw":1,"loss":3,"for":5,"against":23},
 	{"country":"mlt","name":"Msida Rovers","id":"Msida_Saint-Joseph_F.C.","win":2,"draw":0,"loss":4,"for":3,"against":7,"isRemoved":true},
 	{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":0,"draw":3,"loss":3,"for":3,"against":10,"isReturning":true},

@@ -77,7 +77,7 @@
 	{"country":"lux","name":"Eclair Bettembourg","id":"Eclair_Bettembourg","win":1,"draw":3,"loss":10,"for":18,"against":51,"isNew":true,"isRemoved":true},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":4,"draw":0,"loss":0,"for":9,"against":1,"isChampion":true},
 	{"country":"mlt","name":"Vittoriosa Rovers","id":"Vittoriosa_Stars_F.C.","win":2,"draw":0,"loss":2,"for":5,"against":4},
-	{"country":"mlt","name":"Valletta United","id":"Valletta_F.C.","win":2,"draw":0,"loss":2,"for":4,"against":4},
+	{"country":"mlt","name":"Valletta United","id":"valletta_fc","win":2,"draw":0,"loss":2,"for":4,"against":4},
 	{"country":"mlt","name":"Sliema Rangers","id":"sliema_rangers","win":1,"draw":0,"loss":3,"for":5,"against":8},
 	{"country":"mlt","name":"Msida Rovers","id":"Msida_Saint-Joseph_F.C.","win":1,"draw":0,"loss":3,"for":3,"against":9,"isReturning":true},
 	{"country":"aut","name":"SV Amateure","id":"FK_Austria_Wien","win":16,"draw":4,"loss":2,"for":53,"against":19,"isChampion":true},

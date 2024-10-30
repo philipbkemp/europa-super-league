@@ -150,7 +150,7 @@
 	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":9,"draw":1,"loss":18,"for":25,"against":57,"isRemoved":true},
 	{"country":"lux","name":"FC Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":3,"draw":9,"loss":16,"for":18,"against":44},
 	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":10,"draw":4,"loss":2,"for":31,"against":18,"isChampion":true},
-	{"country":"mlt","name":"Valletta F.C.","id":"Valletta_F.C.","win":8,"draw":3,"loss":5,"for":28,"against":17},
+	{"country":"mlt","name":"Valletta F.C.","id":"valletta_fc","win":8,"draw":3,"loss":5,"for":28,"against":17},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":6,"draw":6,"loss":4,"for":15,"against":11},
 	{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":5,"draw":7,"loss":4,"for":18,"against":15},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":4,"draw":7,"loss":5,"for":24,"against":20},
