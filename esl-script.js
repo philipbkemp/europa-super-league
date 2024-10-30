@@ -5,6 +5,7 @@ const countries = {
 	"aut": "Austria",
 	"bel": "Belgium",
 	"bgr": "Bulgaria",
+	"blr": "Belarus",
 	"che": "Switzerland",
 	"csk": "Czechoslovakia",
 	"cyp": "Cyprus",
@@ -13,6 +14,7 @@ const countries = {
 	"eng": "England",
 	"esp": "Spain",
 	"est": "Estonia",
+	"deu": "Germany",
 	"dnk": "Denmark",
 	"fin": "Finland",
 	"fra": "France",
@@ -28,6 +30,7 @@ const countries = {
 	"ltu": "Lithuania",
 	"lux": "Luxembourg",
 	"lva": "Latvia",
+	"mda": "Moldova",
 	"mlt": "Malta",
 	"nir": "Northern Ireland",
 	"nld": "Netherlands",
@@ -111,8 +114,8 @@ if ( $("h1 .placeholder").length !== 0 ) {
 	data.forEach(team=>{
 		team.played = team.win + team.draw + team.loss;
 		if ( team.played !== 0 ) {
-			if ( team.penWins ) { team.draw += team.penWins; }
-			if ( team.penLoss ) { team.draw += team.penLoss; }
+			if ( team.penWins ) { team.draw += team.penWins; team.played += team.penWins; }
+			if ( team.penLoss ) { team.draw += team.penLoss; team.played += team.penLoss; }
 			team.points = (team.win*3) + team.draw;
 			if ( typeof(team.deduct) !== "undefined" ) {
 				team.points = team.points + team.deduct;
