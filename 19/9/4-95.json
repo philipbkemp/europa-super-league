@@ -317,7 +317,7 @@
 {"country":"ltu","name":"Sirijus","id":"FK_Sirijus_Klaipėda","win":2,"draw":3,"loss":17,"for":12,"against":39},
 {"country":"ltu","name":"Interas-AE","id":"FK_Interas_Visaginas","win":1,"draw":3,"loss":18,"for":8,"against":63,"isRemoved":true,"isNew":true}
 ][
-{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":26,"draw":1,"loss":3,"for":84,"against":15,"isChampion":true},
+{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":26,"draw":1,"loss":3,"for":84,"against":15,"isChampion":true},
 {"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":21,"draw":5,"loss":4,"for":59,"against":30},
 {"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":18,"draw":6,"loss":6,"for":66,"against":31},
 {"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":16,"draw":5,"loss":9,"for":63,"against":35},

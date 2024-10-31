@@ -69,7 +69,7 @@
 {"country":"bel","name":"Cercle Brugge","id":"Cercle_Brugge_K.S.V.","win":1,"draw":1,"loss":5,"for":8,"against":15,"isCurrentSeason":true},
 {"country":"bel","name":"Beerschot","id":"K_Beerschot_VA","win":0,"draw":1,"loss":7,"for":6,"against":20,"isReturning":true,"isCurrentSeason":true},
 {"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":7,"draw":1,"loss":0,"for":14,"against":1,"isCurrentSeason":true},
-{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":7,"draw":1,"loss":1,"for":21,"against":4,"isCurrentSeason":true},
+{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":7,"draw":1,"loss":1,"for":21,"against":4,"isCurrentSeason":true},
 {"country":"bgr","name":"Cherno More","id":"PFC_Cherno_More_Varna","win":5,"draw":3,"loss":1,"for":13,"against":5,"isCurrentSeason":true},
 {"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":5,"draw":1,"loss":1,"for":9,"against":4,"isCurrentSeason":true},
 {"country":"bgr","name":"Spartak Varna","id":"FC_Spartak_Varna","win":4,"draw":3,"loss":2,"for":11,"against":8,"isReturning":true,"isCurrentSeason":true},

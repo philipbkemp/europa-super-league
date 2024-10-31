@@ -222,7 +222,7 @@
 	{"country":"bgr","name":"FC 13 Sofia","id":"FK_13_Sofia","win":8,"draw":4,"loss":6,"for":31,"against":30,"isNew":true},
 	{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":8,"draw":4,"loss":6,"for":30,"against":30,"isNew":true},
 	{"country":"bgr","name":"Levski Ruse","id":"FC_Dunav_Ruse","win":7,"draw":5,"loss":6,"for":27,"against":23,"isNew":true},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":7,"draw":4,"loss":7,"for":30,"against":26,"isNew":true},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":7,"draw":4,"loss":7,"for":30,"against":26,"isNew":true},
 	{"country":"bgr","name":"Chernomorets Burgas","id":"FC_Chernomorets_Burgas","win":4,"draw":4,"loss":10,"for":30,"against":40,"isNew":true},
 	{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":5,"draw":2,"loss":11,"for":28,"against":44,"isRemoved":true,"isNew":true},
 	{"country":"bgr","name":"Georgi Drazhev Yambol","id":"FC_Yambol","win":3,"draw":4,"loss":11,"for":18,"against":44,"isRemoved":true,"isNew":true},

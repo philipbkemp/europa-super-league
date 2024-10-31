@@ -324,7 +324,7 @@
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":22,"draw":7,"loss":5,"for":80,"against":40,"isChampion":true},
 	{"country":"bgr","name":"Lokomotiv Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":18,"draw":7,"loss":9,"for":62,"against":38},
 	{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":16,"draw":11,"loss":6,"for":55,"against":33},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":15,"draw":10,"loss":9,"for":62,"against":37},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":15,"draw":10,"loss":9,"for":62,"against":37},
 	{"country":"bgr","name":"Akademik Sofia","id":"PFC_Akademik_Sofia","win":15,"draw":8,"loss":11,"for":61,"against":43},
 	{"country":"bgr","name":"Dunav Ruse","id":"FC_Dunav_Ruse","win":14,"draw":9,"loss":11,"for":42,"against":41,"isRemoved":true,"removedNote":"Relegated due to allegations of match fixing and bibery"},
 	{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":14,"draw":9,"loss":11,"for":44,"against":44},

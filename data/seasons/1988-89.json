@@ -317,7 +317,7 @@
 	{"country":"yug","name":"Napredak Kruševac","id":"FK_Napredak_Kruševac","win":11,"draw":0,"loss":18,"for":42,"against":59,"penWin":1,"penLoss":4,"isRemoved":true,"isReturning":true},
 	{"country":"yug","name":"Čelik","id":"NK_Čelik_Zenica","win":9,"draw":0,"loss":18,"for":31,"against":60,"penWin":5,"penLoss":2,"isRemoved":true,"deduct":-6},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":20,"draw":9,"loss":1,"for":86,"against":24,"isChampion":true},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":17,"draw":5,"loss":8,"for":63,"against":38},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":17,"draw":5,"loss":8,"for":63,"against":38},
 	{"country":"bgr","name":"Etar Veliko Tarnovo","id":"FC_Etar_(Veliko_Tarnovo)","win":13,"draw":8,"loss":9,"for":48,"against":30},
 	{"country":"bgr","name":"Trakia Plovdiv","id":"Botev_Plovdiv","win":12,"draw":9,"loss":9,"for":49,"against":36},
 	{"country":"bgr","name":"Beroe Stara Zagora","id":"PFC_Beroe_Stara_Zagora","win":13,"draw":7,"loss":10,"for":41,"against":46},

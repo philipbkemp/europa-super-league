@@ -309,7 +309,7 @@
 ][
 {"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":27,"draw":7,"loss":2,"for":91,"against":22,"isChampion":true},
 {"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":24,"draw":9,"loss":3,"for":80,"against":26},
-{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":18,"draw":10,"loss":8,"for":55,"against":27},
+{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":18,"draw":10,"loss":8,"for":55,"against":27},
 {"country":"bgr","name":"Beroe","id":"PFC_Beroe_Stara_Zagora","win":16,"draw":11,"loss":9,"for":45,"against":43},
 {"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":15,"draw":11,"loss":10,"for":62,"against":49},
 {"country":"bgr","name":"Vereya","id":"FC_Vereya","win":10,"draw":6,"loss":20,"for":27,"against":61},

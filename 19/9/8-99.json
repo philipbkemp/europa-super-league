@@ -328,7 +328,7 @@
 {"country":"yug","name":"Spartak Subotica","id":"FK_Spartak_Subotica","win":6,"draw":0,"loss":18,"for":33,"against":58,"isReturning":true}
 ][
 {"country":"bgr","name":"Litex Lovech","id":"FC_Lovech","win":24,"draw":4,"loss":2,"for":83,"against":25,"isChampion":true,"deduct":-3,"deductReason":"Fixing a match"},
-{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":23,"draw":5,"loss":2,"for":51,"against":11,"deduct":-3,"deductReason":"Fixing a match"},
+{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":23,"draw":5,"loss":2,"for":51,"against":11,"deduct":-3,"deductReason":"Fixing a match"},
 {"country":"bgr","name":"Levski Kyustendil","id":"Velbazhd_Kyustendil","win":18,"draw":4,"loss":8,"for":57,"against":29},
 {"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":17,"draw":4,"loss":9,"for":46,"against":30},
 {"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":15,"draw":6,"loss":9,"for":54,"against":39},

@@ -332,7 +332,7 @@
 	{"country":"yug","name":"Teteks","id":"FK_Teteks","win":8,"draw":7,"loss":19,"for":31,"against":68,"isRemoved":true,"isNew":true},
 	{"country":"yug","name":"NK Zagreb","id":"Borac_Zagreb","win":7,"draw":5,"loss":22,"for":27,"against":68,"isRemoved":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":22,"draw":3,"loss":5,"for":73,"against":27,"isChampion":true},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":20,"draw":6,"loss":4,"for":71,"against":32},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":20,"draw":6,"loss":4,"for":71,"against":32},
 	{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":15,"draw":5,"loss":10,"for":35,"against":33},
 	{"country":"bgr","name":"Cherno More Varna","id":"PFC_Cherno_More_Varna","win":14,"draw":5,"loss":11,"for":41,"against":37},
 	{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":13,"draw":6,"loss":11,"for":41,"against":37},

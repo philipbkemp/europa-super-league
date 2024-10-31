@@ -316,7 +316,7 @@
 {"country":"ltu","name":"REO","id":"FK_REO_Vilnius","win":5,"draw":4,"loss":27,"for":26,"against":81,"isRemoved":true,"isNew":true}
 ][
 {"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":22,"draw":6,"loss":2,"for":58,"against":13,"isChampion":true},
-{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":22,"draw":5,"loss":3,"for":59,"against":20},
+{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":22,"draw":5,"loss":3,"for":59,"against":20},
 {"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":19,"draw":6,"loss":5,"for":54,"against":20},
 {"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":18,"draw":6,"loss":6,"for":51,"against":21,"isReturning":true},
 {"country":"bgr","name":"Litex Lovech","id":"FC_Lovech","win":15,"draw":5,"loss":10,"for":56,"against":24},

@@ -322,7 +322,7 @@
 	{"country":"yug","name":"Dinamo Vinkovci","id":"HNK_Cibalia","win":10,"draw":8,"loss":16,"for":29,"against":51,"isRemoved":true},
 	{"country":"yug","name":"Spartak Subotica","id":"FK_Spartak_Subotica","win":5,"draw":9,"loss":20,"for":30,"against":49,"isRemoved":true,"isReturning":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":21,"draw":5,"loss":4,"for":73,"against":30,"isChampion":true},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":19,"draw":6,"loss":5,"for":75,"against":35},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":19,"draw":6,"loss":5,"for":75,"against":35},
 	{"country":"bgr","name":"Trakia Plovdiv","id":"Botev_Plovdiv","win":16,"draw":7,"loss":7,"for":57,"against":30},
 	{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":14,"draw":8,"loss":8,"for":67,"against":45},
 	{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":15,"draw":5,"loss":10,"for":59,"against":46},

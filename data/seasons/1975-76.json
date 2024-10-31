@@ -303,7 +303,7 @@
 	{"country":"yug","name":"Vardar","id":"FK_Vardar","win":8,"draw":12,"loss":14,"for":27,"against":36,"isRemoved":true},
 	{"country":"yug","name":"Radnički Kragujevac","id":"FK_Radnički_1923","win":8,"draw":7,"loss":19,"for":29,"against":57,"isRemoved":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":17,"draw":9,"loss":4,"for":61,"against":30,"isChampion":true},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":16,"draw":9,"loss":5,"for":58,"against":33},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":16,"draw":9,"loss":5,"for":58,"against":33},
 	{"country":"bgr","name":"Akademik Sofia","id":"PFC_Akademik_Sofia","win":14,"draw":9,"loss":7,"for":35,"against":25},
 	{"country":"bgr","name":"Lokomotiv Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":12,"draw":9,"loss":9,"for":43,"against":33},
 	{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":11,"draw":10,"loss":9,"for":43,"against":41},

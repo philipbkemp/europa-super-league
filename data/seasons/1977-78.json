@@ -310,7 +310,7 @@
 	{"country":"yug","name":"Trepça","id":"KF_Trepça","win":7,"draw":10,"loss":17,"for":28,"against":52,"isRemoved":true,"isNew":true},
 	{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":16,"draw":10,"loss":4,"for":40,"against":16,"isChampion":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":18,"draw":5,"loss":7,"for":60,"against":35},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":15,"draw":8,"loss":7,"for":53,"against":30},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":15,"draw":8,"loss":7,"for":53,"against":30},
 	{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":13,"draw":6,"loss":11,"for":39,"against":36},
 	{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":12,"draw":6,"loss":12,"for":54,"against":35},
 	{"country":"bgr","name":"Beroe Stara Zagora","id":"PFC_Beroe_Stara_Zagora","win":12,"draw":5,"loss":13,"for":37,"against":37},

@@ -322,7 +322,7 @@
 	{"country":"yug","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":13,"draw":4,"loss":17,"for":43,"against":52},
 	{"country":"yug","name":"Vardar","id":"FK_Vardar","win":9,"draw":8,"loss":17,"for":25,"against":46,"isRemoved":true},
 	{"country":"yug","name":"NK Zagreb","id":"Borac_Zagreb","win":4,"draw":7,"loss":23,"for":22,"against":64,"isRemoved":true},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":23,"draw":4,"loss":3,"for":67,"against":17,"isChampion":true},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":23,"draw":4,"loss":3,"for":67,"against":17,"isChampion":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":21,"draw":5,"loss":4,"for":73,"against":29},
 	{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":15,"draw":8,"loss":7,"for":41,"against":31},
 	{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":15,"draw":4,"loss":11,"for":48,"against":34},

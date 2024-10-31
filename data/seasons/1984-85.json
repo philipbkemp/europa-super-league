@@ -329,7 +329,7 @@
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":9,"draw":11,"loss":14,"for":36,"against":47},
 	{"country":"yug","name":"Iskra","id":"NK_Iskra_Bugojno","win":8,"draw":11,"loss":15,"for":32,"against":50,"isRemoved":true,"isNew":true},
 	{"country":"yug","name":"Radnički Niš","id":"FK_Radnički_Niš","win":8,"draw":11,"loss":15,"for":27,"against":46,"isRemoved":true},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":18,"draw":6,"loss":6,"for":66,"against":37,"isChampion":true},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":18,"draw":6,"loss":6,"for":66,"against":37,"isChampion":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":15,"draw":7,"loss":8,"for":66,"against":36},
 	{"country":"bgr","name":"Trakia Plovdiv","id":"Botev_Plovdiv","win":15,"draw":5,"loss":10,"for":68,"against":32},
 	{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":13,"draw":8,"loss":9,"for":45,"against":41},

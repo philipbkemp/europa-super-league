@@ -306,7 +306,7 @@
 	{"country":"yug","name":"Čelik","id":"NK_Čelik_Zenica","win":7,"draw":7,"loss":16,"for":20,"against":40,"isRemoved":true,"deduct":-4,"isNew":true},
 	{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":13,"draw":12,"loss":5,"for":39,"against":24,"isChampion":true},
 	{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":13,"draw":11,"loss":6,"for":33,"against":27},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":13,"draw":10,"loss":7,"for":46,"against":32},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":13,"draw":10,"loss":7,"for":46,"against":32},
 	{"country":"bgr","name":"Spartak Sofia","id":"FC_Spartak_Sofia","win":13,"draw":9,"loss":8,"for":40,"against":26},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":11,"draw":12,"loss":7,"for":42,"against":34},
 	{"country":"bgr","name":"Cherno More Varna","id":"PFC_Cherno_More_Varna","win":12,"draw":9,"loss":9,"for":40,"against":29},

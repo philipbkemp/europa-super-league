@@ -152,7 +152,7 @@
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":1,"draw":3,"loss":6,"for":14,"against":29},
 	{"country":"yug","name":"HAŠK","id":"HAŠK","win":1,"draw":0,"loss":9,"for":12,"against":32},
 	{"country":"bgr","name":"ZhSK Sofia","id":"FC_Lokomotiv_1929_Sofia","win":10,"draw":3,"loss":5,"for":31,"against":27,"isChampion":true,"isNew":true,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":9,"draw":4,"loss":5,"for":29,"against":18,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":9,"draw":4,"loss":5,"for":29,"against":18,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},
 	{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":9,"draw":4,"loss":5,"for":30,"against":20,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},
 	{"country":"bgr","name":"AS 23 Sofia","id":"OSK_AS-23","win":9,"draw":2,"loss":7,"for":41,"against":27,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},
 	{"country":"bgr","name":"FC 13 Sofia","id":"FK_13_Sofia","win":6,"draw":7,"loss":5,"for":37,"against":29,"isRemoved":true,"removedNote":"League not run next seaosn, and returned as a knockout tournament"},

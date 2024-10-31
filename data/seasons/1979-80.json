@@ -330,7 +330,7 @@
 	{"country":"yug","name":"Čelik","id":"NK_Čelik_Zenica","win":5,"draw":12,"loss":17,"for":22,"against":43,"isRemoved":true,"isReturning":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":18,"draw":10,"loss":2,"for":60,"against":30,"isChampion":true},
 	{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":21,"draw":3,"loss":6,"for":66,"against":27},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":15,"draw":7,"loss":8,"for":45,"against":38},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":15,"draw":7,"loss":8,"for":45,"against":38},
 	{"country":"bgr","name":"Beroe Stara Zagora","id":"PFC_Beroe_Stara_Zagora","win":13,"draw":8,"loss":9,"for":49,"against":37},
 	{"country":"bgr","name":"Trakia Plovdiv","id":"Botev_Plovdiv","win":14,"draw":5,"loss":11,"for":39,"against":38},
 	{"country":"bgr","name":"Marek Dupnitsa","id":"FC_Marek_Dupnitsa","win":11,"draw":9,"loss":10,"for":51,"against":42},

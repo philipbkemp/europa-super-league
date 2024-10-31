@@ -297,7 +297,7 @@
 {"country":"ltu","name":"Nevėžis","id":"FK_Nevėžis","win":2,"draw":6,"loss":24,"for":19,"against":70,"isRemoved":true}
 ][
 {"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":21,"draw":3,"loss":2,"for":67,"against":16,"isChampion":true},
-{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":19,"draw":3,"loss":4,"for":61,"against":19},
+{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":19,"draw":3,"loss":4,"for":61,"against":19},
 {"country":"bgr","name":"Litex Lovech","id":"FC_Lovech","win":17,"draw":4,"loss":5,"for":49,"against":22},
 {"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":16,"draw":3,"loss":7,"for":57,"against":30},
 {"country":"bgr","name":"Cherno More","id":"PFC_Cherno_More_Varna","win":14,"draw":6,"loss":6,"for":42,"against":21},

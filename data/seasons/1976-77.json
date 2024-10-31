@@ -305,7 +305,7 @@
 	{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":10,"draw":10,"loss":14,"for":40,"against":55},
 	{"country":"yug","name":"Napredak Kruševac","id":"FK_Napredak_Kruševac","win":10,"draw":8,"loss":16,"for":38,"against":55,"isRemoved":true,"isReturning":true},
 	{"country":"yug","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":8,"draw":10,"loss":16,"for":33,"against":53,"isRemoved":true},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":17,"draw":9,"loss":4,"for":73,"against":34,"isChampion":true},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":17,"draw":9,"loss":4,"for":73,"against":34,"isChampion":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":14,"draw":11,"loss":5,"for":45,"against":27},
 	{"country":"bgr","name":"Marek Dupnitsa","id":"FC_Marek_Dupnitsa","win":15,"draw":8,"loss":7,"for":43,"against":28,"isReturning":true},
 	{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":14,"draw":9,"loss":7,"for":52,"against":36},

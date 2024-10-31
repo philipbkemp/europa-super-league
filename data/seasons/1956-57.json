@@ -265,7 +265,7 @@
 	{"country":"yug","name":"Lokomotiva","id":"NK_Lokomotiva_Zagreb","win":10,"draw":2,"loss":14,"for":44,"against":63,"isReturning":true,"isRemoved":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":15,"draw":4,"loss":3,"for":53,"against":16,"isChampion":true},
 	{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":16,"draw":1,"loss":5,"for":33,"against":19},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":12,"draw":6,"loss":4,"for":46,"against":21},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":12,"draw":6,"loss":4,"for":46,"against":21},
 	{"country":"bgr","name":"Spartak Pleven","id":"OFC_Spartak_Pleven","win":8,"draw":8,"loss":6,"for":28,"against":28},
 	{"country":"bgr","name":"Minyor Pernik","id":"FC_Minyor_Pernik","win":8,"draw":6,"loss":8,"for":30,"against":26},
 	{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":7,"draw":6,"loss":9,"for":38,"against":39},

@@ -315,7 +315,7 @@
 {"country":"ltu","name":"Vienybė","id":"FK_Vienybė","win":2,"draw":1,"loss":27,"for":15,"against":125,"isRemoved":true,"isReturning":true}
 ][
 {"country":"bgr","name":"Litex Lovech","id":"FC_Lovech","win":21,"draw":6,"loss":3,"for":73,"against":25,"isChampion":true,"isReturning":true},
-{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":19,"draw":7,"loss":4,"for":73,"against":27},
+{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":19,"draw":7,"loss":4,"for":73,"against":27},
 {"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":18,"draw":7,"loss":5,"for":71,"against":29},
 {"country":"bgr","name":"Neftochimic Burgas","id":"PFC_Naftex_Burgas","win":17,"draw":4,"loss":9,"for":59,"against":31},
 {"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":15,"draw":9,"loss":6,"for":51,"against":30},

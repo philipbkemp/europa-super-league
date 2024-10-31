@@ -317,7 +317,7 @@
 	{"country":"yug","name":"Čelik","id":"NK_Čelik_Zenica","win":12,"draw":5,"loss":17,"for":39,"against":45},
 	{"country":"yug","name":"Sutjeska Nikšić","id":"FK_Sutjeska_Nikšić","win":10,"draw":9,"loss":15,"for":42,"against":49,"isRemoved":true},
 	{"country":"yug","name":"Prishtina","id":"FC_Prishtina","win":10,"draw":7,"loss":17,"for":43,"against":59,"isRemoved":true},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":20,"draw":8,"loss":2,"for":67,"against":29,"isChampion":true},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":20,"draw":8,"loss":2,"for":67,"against":29,"isChampion":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":20,"draw":6,"loss":4,"for":76,"against":32},
 	{"country":"bgr","name":"Trakia Plovdiv","id":"Botev_Plovdiv","win":15,"draw":9,"loss":6,"for":52,"against":31},
 	{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":14,"draw":10,"loss":6,"for":48,"against":30},

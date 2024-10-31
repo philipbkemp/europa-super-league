@@ -326,7 +326,7 @@
 	{"country":"yug","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":12,"draw":7,"loss":15,"for":41,"against":53},
 	{"country":"yug","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":10,"draw":8,"loss":16,"for":29,"against":40,"isRemoved":true},
 	{"country":"yug","name":"Čelik","id":"NK_Čelik_Zenica","win":9,"draw":6,"loss":19,"for":36,"against":66,"isRemoved":true,"isReturning":true},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":19,"draw":9,"loss":2,"for":64,"against":29,"isChampion":true},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":19,"draw":9,"loss":2,"for":64,"against":29,"isChampion":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":18,"draw":9,"loss":3,"for":72,"against":24},
 	{"country":"bgr","name":"Spartak Varna","id":"FC_Spartak_Varna","win":13,"draw":5,"loss":12,"for":41,"against":37},
 	{"country":"bgr","name":"Beroe Stara Zagora","id":"PFC_Beroe_Stara_Zagora","win":11,"draw":9,"loss":10,"for":38,"against":40,"isReturning":true},

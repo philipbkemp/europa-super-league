@@ -327,7 +327,7 @@
 {"country":"yug","name":"Spartak Subotica","id":"FK_Spartak_Subotica","win":8,"draw":5,"loss":27,"for":34,"against":84,"isRemoved":true},
 {"country":"yug","name":"Borac Čačak","id":"FK_Borac_Čačak","win":6,"draw":4,"loss":30,"for":36,"against":100,"isRemoved":true,"isNew":true}
 ][
-{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":23,"draw":5,"loss":2,"for":66,"against":17,"isChampion":true},
+{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":23,"draw":5,"loss":2,"for":66,"against":17,"isChampion":true},
 {"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":20,"draw":4,"loss":6,"for":60,"against":26},
 {"country":"bgr","name":"Velbazhd Kyustendil","id":"Velbazhd_Kyustendil","win":17,"draw":4,"loss":9,"for":52,"against":32},
 {"country":"bgr","name":"Neftochimic Burgas","id":"PFC_Naftex_Burgas","win":14,"draw":11,"loss":5,"for":42,"against":21},

@@ -277,7 +277,7 @@
 	{"country":"yug","name":"Vardar","id":"FK_Vardar","win":4,"draw":3,"loss":15,"for":23,"against":47,"isRemoved":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":13,"draw":6,"loss":3,"for":37,"against":16,"isChampion":true},
 	{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":10,"draw":7,"loss":5,"for":29,"against":17},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":10,"draw":4,"loss":8,"for":27,"against":15},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":10,"draw":4,"loss":8,"for":27,"against":15},
 	{"country":"bgr","name":"Spartak Plovdiv","id":"PFC_Spartak_Plovdiv","win":8,"draw":8,"loss":6,"for":33,"against":29},
 	{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":10,"draw":3,"loss":9,"for":33,"against":28},
 	{"country":"bgr","name":"Dunav Ruse","id":"FC_Dunav_Ruse","win":8,"draw":6,"loss":8,"for":25,"against":27},

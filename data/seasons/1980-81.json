@@ -330,7 +330,7 @@
 	{"country":"yug","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":10,"draw":9,"loss":15,"for":35,"against":44,"isRemoved":true},
 	{"country":"yug","name":"Napredak Kruševac","id":"FK_Napredak_Kruševac","win":9,"draw":8,"loss":17,"for":45,"against":60,"isRemoved":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":14,"draw":12,"loss":4,"for":70,"against":32,"isChampion":true},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":13,"draw":10,"loss":7,"for":44,"against":25},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":13,"draw":10,"loss":7,"for":44,"against":25},
 	{"country":"bgr","name":"Trakia Plovdiv","id":"Botev_Plovdiv","win":15,"draw":5,"loss":10,"for":64,"against":40},
 	{"country":"bgr","name":"Akademik Sofia","id":"PFC_Akademik_Sofia","win":13,"draw":8,"loss":9,"for":42,"against":40,"isReturning":true},
 	{"country":"bgr","name":"Spartak Pleven","id":"OFC_Spartak_Pleven","win":12,"draw":7,"loss":11,"for":38,"against":41},

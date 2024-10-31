@@ -310,7 +310,7 @@
 	{"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":9,"draw":8,"loss":13,"for":33,"against":40},
 	{"country":"yug","name":"OFK Belgrade","id":"ofk_beograd","win":9,"draw":7,"loss":14,"for":38,"against":46},
 	{"country":"yug","name":"Rijeka","id":"HNK_Rijeka","win":8,"draw":7,"loss":15,"for":37,"against":48},
-	{"country":"bgr","name":"Levski Sofia","id":"PFC_Levski_Sofia","win":18,"draw":9,"loss":3,"for":61,"against":29,"isChampion":true},
+	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":18,"draw":9,"loss":3,"for":61,"against":29,"isChampion":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":18,"draw":6,"loss":6,"for":63,"against":27},
 	{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":18,"draw":4,"loss":8,"for":65,"against":40},
 	{"country":"bgr","name":"Spartak Sofia","id":"FC_Spartak_Sofia","win":16,"draw":6,"loss":8,"for":49,"against":38,"isRemoved":true},
