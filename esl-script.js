@@ -31,6 +31,7 @@ const countries = {
 	"lux": "Luxembourg",
 	"lva": "Latvia",
 	"mda": "Moldova",
+	"mkd": "North Macedonia",
 	"mlt": "Malta",
 	"nir": "Northern Ireland",
 	"nld": "Netherlands",
@@ -47,6 +48,8 @@ const countries = {
 	"svn": "Slovenia",
 	"swe": "Sweden",
 	"tur": "Turkey",
+	"ukr": "Ukraine",
+	"wal": "Wales",
 	"wde": "West Germany",
 	"yug": "Yugoslavia"
 };
