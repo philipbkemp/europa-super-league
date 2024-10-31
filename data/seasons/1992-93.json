@@ -231,7 +231,7 @@
 	{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":9,"draw":5,"loss":20,"for":33,"against":72,"isRemoved":true},
 	{"country":"pol","name":"Olimpia Poznań","id":"Olimpia_Poznań","win":7,"draw":7,"loss":19,"for":27,"against":49,"isRemoved":true},
 	{"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":2,"draw":5,"loss":27,"for":28,"against":91,"isRemoved":true,"isReturning":true},
-	{"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":20,"draw":2,"loss":0,"for":102,"against":16,"isChampion":true},
+	{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":20,"draw":2,"loss":0,"for":102,"against":16,"isChampion":true},
 	{"country":"est","name":"Flora","id":"FC_Flora","win":15,"draw":4,"loss":3,"for":63,"against":13,"isReturning":true},
 	{"country":"est","name":"Nikol","id":"FC_TVMK","win":15,"draw":3,"loss":4,"for":58,"against":17},
 	{"country":"est","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":13,"draw":6,"loss":3,"for":53,"against":20},

@@ -233,7 +233,7 @@
 	{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":7,"draw":7,"loss":12,"for":19,"against":30,"isRemoved":true},
 	{"country":"pol","name":"ROW Rybnik","id":"KS_ROW_1964_Rybnik","win":3,"draw":10,"loss":13,"for":23,"against":41,"isRemoved":true,"isReturning":true},
 	{"country":"est","name":"Balti Laevastik Tallinn","id":"balti_laevastik_tallinn","win":16,"draw":5,"loss":1,"for":51,"against":10,"isChampion":true},
-	{"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":15,"draw":5,"loss":2,"for":54,"against":18},
+	{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":15,"draw":5,"loss":2,"for":54,"against":18},
 	{"country":"est","name":"Tallinna Start","id":"Tallinna_Start","win":12,"draw":4,"loss":6,"for":37,"against":23,"isNew":true},
 	{"country":"est","name":"Tallinna Tekstiil","id":"Tallinna_Tekstiil","win":10,"draw":6,"loss":6,"for":35,"against":36},
 	{"country":"est","name":"Narva Kreenholm","id":"Narva_Kreenholm","win":8,"draw":5,"loss":9,"for":39,"against":35},

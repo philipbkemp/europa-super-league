@@ -234,7 +234,7 @@
 	{"country":"est","name":"Jõhvi Estonia Kaevandus/RMT","id":"Jõhvi_Estonia_Kaevandus/RMT","win":17,"draw":2,"loss":3,"for":54,"against":19,"isNew":true,"isRemoved":true},
 	{"country":"est","name":"Zvezda","id":"Tallinna_FC_Zvezda","win":16,"draw":2,"loss":4,"for":68,"against":25},
 	{"country":"est","name":"Pärnu Kalakombinaat/MEK","id":"Pärnu_Kalakombinaat/MEK","win":14,"draw":2,"loss":6,"for":50,"against":26},
-	{"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":9,"draw":6,"loss":7,"for":39,"against":35},
+	{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":9,"draw":6,"loss":7,"for":39,"against":35},
 	{"country":"est","name":"Kohtla-Järve Keemik","id":"JHK_Kohtla-Järve_Keemik","win":11,"draw":2,"loss":9,"for":37,"against":33,"isRemoved":true},
 	{"country":"est","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":8,"draw":4,"loss":10,"for":32,"against":41},
 	{"country":"est","name":"Tallinna Elektrotehnik","id":"Tallinna_Elektrotehnik","win":6,"draw":5,"loss":11,"for":25,"against":30,"isRemoved":true},

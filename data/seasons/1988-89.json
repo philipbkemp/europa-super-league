@@ -228,7 +228,7 @@
 	{"country":"pol","name":"GKS Jastrzębie","id":"GKS_Jastrzębie","win":8,"draw":8,"loss":9,"for":24,"against":43,"winByThree":0,"lossByThree":5,"isRemoved":true,"isNew":true},
 	{"country":"pol","name":"Górnik Wałbrzych","id":"Górnik_Wałbrzych_(football)","win":7,"draw":5,"loss":14,"for":22,"against":44,"winByThree":0,"lossByThree":4,"isRemoved":true},
 	{"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":4,"draw":9,"loss":13,"for":33,"against":57,"winByThree":0,"lossByThree":4,"isRemoved":true},
-	{"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":17,"draw":2,"loss":3,"for":64,"against":12,"isChampion":true},
+	{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":17,"draw":2,"loss":3,"for":64,"against":12,"isChampion":true},
 	{"country":"est","name":"Kohtla-Järve Keemik","id":"Kohtla-Järve_JK_Keemik","win":15,"draw":3,"loss":4,"for":53,"against":27,"isReturning":true},
 	{"country":"est","name":"Kalakombinaat/MEK","id":"Pärnu_Kalakombinaat/MEK","win":14,"draw":3,"loss":5,"for":44,"against":26},
 	{"country":"est","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":12,"draw":6,"loss":4,"for":33,"against":18,"isNew":true},

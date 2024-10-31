@@ -245,7 +245,7 @@
 	{"country":"est","name":"Kohtla-Järve Keemik","id":"JHK_Kohtla-Järve_Keemik","win":8,"draw":9,"loss":5,"for":29,"against":21},
 	{"country":"est","name":"Pärnu Kalakombinaat","id":"Pärnu_Kalakombinaat","win":9,"draw":3,"loss":10,"for":30,"against":34,"isNew":true},
 	{"country":"est","name":"Tempo","id":"Tallinna_JK_Tempo","win":6,"draw":6,"loss":10,"for":35,"against":42},
-	{"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":5,"draw":6,"loss":11,"for":18,"against":29},
+	{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":5,"draw":6,"loss":11,"for":18,"against":29},
 	{"country":"est","name":"Jõhvi Estonia Kaevandus","id":"Jõhvi_Estonia_Kaevandus","win":5,"draw":6,"loss":11,"for":24,"against":44,"isNew":true},
 	{"country":"est","name":"Tartu Remonditehas","id":"Tartu_Remonditehas","win":4,"draw":6,"loss":12,"for":22,"against":40,"isRemoved":true},
 	{"country":"est","name":"Narva Energeetik","id":"Narva_Energeetik","win":4,"draw":3,"loss":15,"for":17,"against":50,"isRemoved":true,"isReturning":true},

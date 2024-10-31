@@ -228,7 +228,7 @@
 	{"country":"est","name":"Tallinna Punane Koit","id":"Tallinna_Punane_Koit","win":12,"draw":1,"loss":5,"for":33,"against":24,"isRemoved":true},
 	{"country":"est","name":"Narva Kalev","id":"Narva_Kalev","win":9,"draw":2,"loss":7,"for":28,"against":29,"isRemoved":true},
 	{"country":"est","name":"Pärnu Kalev","id":"Pärnu_Kalev","win":8,"draw":3,"loss":7,"for":36,"against":29},
-	{"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":7,"draw":4,"loss":7,"for":29,"against":25,"isNew":true},
+	{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":7,"draw":4,"loss":7,"for":29,"against":25,"isNew":true},
 	{"country":"est","name":"Rakvere Kalev","id":"Rakvere_Kalev","win":6,"draw":4,"loss":8,"for":22,"against":27},
 	{"country":"est","name":"Tartu Dünamo","id":"Tartu_Dünamo","win":4,"draw":5,"loss":9,"for":26,"against":44,"isRemoved":true},
 	{"country":"est","name":"Kohtla-Järve PK","id":"Kohtla-Järve_PK","win":3,"draw":3,"loss":12,"for":20,"against":37,"isNew":true},

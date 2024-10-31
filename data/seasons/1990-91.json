@@ -227,7 +227,7 @@
 	{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":3,"draw":10,"loss":17,"for":25,"against":49},
 	{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":2,"draw":6,"loss":22,"for":21,"against":69},
 	{"country":"est","name":"TVMK","id":"FC_TVMK","win":16,"draw":5,"loss":1,"for":63,"against":19,"isChampion":true},
-	{"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":16,"draw":3,"loss":3,"for":68,"against":34},
+	{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":16,"draw":3,"loss":3,"for":68,"against":34},
 	{"country":"est","name":"Kohtla-Järve Keemik","id":"Kohtla-Järve_JK_Keemik","win":16,"draw":3,"loss":3,"for":49,"against":20,"isRemoved":true},
 	{"country":"est","name":"Estonia Jõhvi","id":"Estonia_Jõhvi","win":15,"draw":4,"loss":3,"for":57,"against":16,"isNew":true,"isRemoved":true},
 	{"country":"est","name":"Kalakombinaat/MEK Pärnu","id":"Pärnu_Linnameeskond","win":8,"draw":6,"loss":8,"for":39,"against":46,"isNew":true,"isRemoved":true},

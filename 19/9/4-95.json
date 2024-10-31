@@ -257,7 +257,7 @@
 {"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":11,"draw":6,"loss":7,"for":32,"against":24},
 {"country":"est","name":"Tallinna Sadam","id":"JK_Tallinna_Sadam","win":11,"draw":4,"loss":9,"for":40,"against":25},
 {"country":"est","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":9,"draw":3,"loss":12,"for":42,"against":40},
-{"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":4,"draw":1,"loss":19,"for":15,"against":79,"isRemoved":true},
+{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":4,"draw":1,"loss":19,"for":15,"against":79,"isRemoved":true},
 {"country":"est","name":"PJK Kalev","id":"Pärnu_JK","win":8,"draw":1,"loss":15,"for":47,"against":59,"isReturning":true},
 {"country":"est","name":"DAG","id":"FC_DAG","win":1,"draw":4,"loss":19,"for":14,"against":81,"isRemoved":true,"isNew":true}
 ][

@@ -238,7 +238,7 @@
 	{"country":"est","name":"Kopli Dünamo","id":"Kopli_Dünamo","win":11,"draw":6,"loss":3,"for":34,"against":16},
 	{"country":"est","name":"Kohtla-Järve Keemik","id":"JHK_Kohtla-Järve_Keemik","win":10,"draw":6,"loss":4,"for":34,"against":18,"isReturning":true},
 	{"country":"est","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":9,"draw":4,"loss":7,"for":37,"against":25},
-	{"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":9,"draw":4,"loss":7,"for":31,"against":25},
+	{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":9,"draw":4,"loss":7,"for":31,"against":25},
 	{"country":"est","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":7,"draw":7,"loss":6,"for":30,"against":25,"isReturning":true},
 	{"country":"est","name":"Tempo","id":"Tallinna_JK_Tempo","win":7,"draw":4,"loss":9,"for":29,"against":28},
 	{"country":"est","name":"Tartu Remonditehas","id":"Tartu_Remonditehas","win":4,"draw":7,"loss":9,"for":19,"against":29},

@@ -239,7 +239,7 @@
 	{"country":"est","name":"Tempo","id":"Tallinna_JK_Tempo","win":12,"draw":6,"loss":3,"for":38,"against":17,"isChampion":true},
 	{"country":"est","name":"Kopli Dünamo","id":"Kopli_Dünamo","win":12,"draw":5,"loss":4,"for":39,"against":25,"isReturning":true},
 	{"country":"est","name":"Tallinna Start","id":"Tallinna_Start","win":11,"draw":6,"loss":4,"for":31,"against":25},
-	{"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":9,"draw":7,"loss":5,"for":34,"against":15},
+	{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":9,"draw":7,"loss":5,"for":34,"against":15},
 	{"country":"est","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":10,"draw":5,"loss":6,"for":31,"against":21},
 	{"country":"est","name":"Narva Kreenholm","id":"Narva_Kreenholm","win":8,"draw":7,"loss":6,"for":31,"against":20},
 	{"country":"est","name":"Valga Lokomotiv","id":"Valga_Lokomotiv","win":8,"draw":7,"loss":6,"for":22,"against":23,"isNew":true},

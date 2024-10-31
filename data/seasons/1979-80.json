@@ -239,7 +239,7 @@
 	{"country":"pol","name":"Zawisza Bydgoszcz","id":"Zawisza_Bydgoszcz","win":8,"draw":8,"loss":14,"for":35,"against":52,"isReturning":true},
 	{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":7,"draw":7,"loss":16,"for":32,"against":44,"isRemoved":true},
 	{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":3,"draw":10,"loss":17,"for":23,"against":47,"isRemoved":true},
-	{"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":12,"draw":6,"loss":2,"for":34,"against":16,"isChampion":true},
+	{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":12,"draw":6,"loss":2,"for":34,"against":16,"isChampion":true},
 	{"country":"est","name":"Tallinna Dünamo","id":"Tallinna_JK_Dünamo","win":13,"draw":3,"loss":4,"for":40,"against":13},
 	{"country":"est","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":10,"draw":6,"loss":4,"for":29,"against":17},
 	{"country":"est","name":"Tempo","id":"Tallinna_JK_Tempo","win":7,"draw":8,"loss":5,"for":18,"against":14},

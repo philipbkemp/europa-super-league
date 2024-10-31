@@ -246,7 +246,7 @@
 	{"country":"est","name":"Tempo","id":"Tallinna_JK_Tempo","win":9,"draw":5,"loss":8,"for":28,"against":31},
 	{"country":"est","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":8,"draw":7,"loss":7,"for":36,"against":30},
 	{"country":"est","name":"TPI Tallinn","id":"TPI_Tallinn","win":6,"draw":7,"loss":9,"for":38,"against":31,"isReturning":true},
-	{"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":6,"draw":6,"loss":10,"for":30,"against":29},
+	{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":6,"draw":6,"loss":10,"for":30,"against":29},
 	{"country":"est","name":"FK Viljandi","id":"FK_Viljandi","win":6,"draw":5,"loss":11,"for":21,"against":45,"isNew":true},
 	{"country":"est","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":5,"draw":6,"loss":11,"for":22,"against":28},
 	{"country":"est","name":"Narva Energia","id":"Narva_Energia","win":5,"draw":2,"loss":15,"for":25,"against":50,"isRemoved":true},

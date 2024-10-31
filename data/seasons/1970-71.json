@@ -235,7 +235,7 @@
 	{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":5,"draw":13,"loss":8,"for":15,"against":22},
 	{"country":"pol","name":"ROW Rybnik","id":"KS_ROW_1964_Rybnik","win":7,"draw":8,"loss":11,"for":15,"against":22,"isRemoved":true,"isReturning":true},
 	{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":4,"draw":13,"loss":9,"for":20,"against":30,"isRemoved":true},
-	{"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":14,"draw":6,"loss":2,"for":42,"against":9,"isChampion":true},
+	{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":14,"draw":6,"loss":2,"for":42,"against":9,"isChampion":true},
 	{"country":"est","name":"Narva Kreenholm","id":"Narva_Kreenholm","win":13,"draw":2,"loss":7,"for":35,"against":19},
 	{"country":"est","name":"Kohtla-Järve Keemik","id":"JHK_Kohtla-Järve_Keemik","win":11,"draw":6,"loss":5,"for":32,"against":19},
 	{"country":"est","name":"Tallinna Tekstiil","id":"Tallinna_Tekstiil","win":10,"draw":8,"loss":4,"for":27,"against":15},

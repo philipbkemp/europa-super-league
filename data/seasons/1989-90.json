@@ -235,7 +235,7 @@
 {"country":"est","name":"Kalakombinaat/MEK","id":"Pärnu_Kalakombinaat/MEK","win":14,"draw":4,"loss":4,"for":51,"against":34,"isRemoved":true},
 {"country":"est","name":"Kohtla-Järve Keemik","id":"Kohtla-Järve_JK_Keemik","win":12,"draw":2,"loss":8,"for":47,"against":29},
 {"country":"est","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":10,"draw":4,"loss":8,"for":37,"against":30,"isRemoved":true},
-{"country":"est","name":"Norma","id":"FC_Norma_Tallinn","win":8,"draw":6,"loss":8,"for":35,"against":42},
+{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":8,"draw":6,"loss":8,"for":35,"against":42},
 {"country":"est","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":8,"draw":1,"loss":13,"for":34,"against":44},
 {"country":"est","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":6,"draw":5,"loss":11,"for":31,"against":42},
 {"country":"est","name":"Narva Baltika","id":"Narva_Baltika","win":7,"draw":2,"loss":13,"for":32,"against":59,"isReturning":true,"isRemoved":true},
