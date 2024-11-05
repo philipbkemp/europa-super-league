@@ -2,11 +2,13 @@ history.scrollRestoration = 'manual';
 
 const countries = {
 	"alb": "Albania",
+	"and": "Andorra",
 	"arm": "Armenia",
 	"aut": "Austria",
 	"aze": "Azerbaijan",
 	"bel": "Belgium",
 	"bgr": "Bulgaria",
+	"bih": "Bosnia and Herzegovina",
 	"blr": "Belarus",
 	"che": "Switzerland",
 	"csk": "Czechoslovakia",

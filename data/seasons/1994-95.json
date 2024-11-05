@@ -251,7 +251,7 @@
 	{"country":"lva","name":"Interskonto","id":"FK_Interskonto","win":5,"draw":7,"loss":10,"for":17,"against":27,"isNew":true,"isRemoved":true},
 	{"country":"lva","name":"Auseklis","id":"Dinaburg_FC","win":5,"draw":7,"loss":10,"for":26,"against":29},
 	{"country":"lva","name":"Gemma","id":"FK_Gemma","win":4,"draw":6,"loss":12,"for":18,"against":45,"isRemoved":true,"removedNote":"Dissolved","isNew":true},
-	{"country":"lva","name":"Liepāja","id":"fk_liepajas_metalurgs","win":2,"draw":5,"loss":15,"for":16,"against":46,"isRemoved":true,"isReturning":true},
+	{"country":"lva","name":"Liepāja","id":"fk_liepajas_metalurgs","win":2,"draw":5,"loss":15,"for":16,"against":46,"isReturning":true},
 	{"country":"lva","name":"Ķīmiķis","id":"Kimikis","win":1,"draw":6,"loss":15,"for":10,"against":53,"isRemoved":true,"isReturning":true},
 	{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":20,"draw":7,"loss":3,"for":58,"against":25,"isChampion":true},
 	{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":18,"draw":6,"loss":6,"for":76,"against":40},
