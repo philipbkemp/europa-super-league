@@ -270,7 +270,7 @@
 {"country":"est","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":3,"draw":3,"loss":30,"for":21,"against":146,"isRemoved":true}
 ][
 {"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":26,"draw":5,"loss":5,"for":73,"against":20,"isChampion":true},
-{"country":"lva","name":"Skonto","id":"Skonto_FC","win":25,"draw":1,"loss":10,"for":77,"against":34,"deduct":-5},
+{"country":"lva","name":"Skonto","id":"skonto_fc","win":25,"draw":1,"loss":10,"for":77,"against":34,"deduct":-5},
 {"country":"lva","name":"Jelgava","id":"FK_Jelgava","win":20,"draw":10,"loss":6,"for":57,"against":27},
 {"country":"lva","name":"Liepāja","id":"FK_Liepāja","win":21,"draw":3,"loss":12,"for":72,"against":45,"isNew":true},
 {"country":"lva","name":"Daugava Daugavpils","id":"FC_Daugava","win":19,"draw":8,"loss":9,"for":53,"against":39,"isRemoved":true},

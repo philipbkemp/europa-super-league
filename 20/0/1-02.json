@@ -234,7 +234,7 @@
 {"country":"est","name":"Lootus","id":"Kohtla-Järve_FC_Lootus","win":4,"draw":5,"loss":19,"for":21,"against":53},
 {"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":2,"draw":1,"loss":25,"for":18,"against":114,"isRemoved":true}
 ][
-{"country":"lva","name":"Skonto","id":"Skonto_FC","win":22,"draw":2,"loss":4,"for":94,"against":26,"isChampion":true},
+{"country":"lva","name":"Skonto","id":"skonto_fc","win":22,"draw":2,"loss":4,"for":94,"against":26,"isChampion":true},
 {"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":22,"draw":1,"loss":5,"for":69,"against":21},
 {"country":"lva","name":"Liepājas Metalurgs","id":"fk_liepajas_metalurgs","win":20,"draw":4,"loss":4,"for":60,"against":24},
 {"country":"lva","name":"Dinaburg","id":"Dinaburg_FC","win":15,"draw":5,"loss":8,"for":60,"against":29},

@@ -244,7 +244,7 @@
 	{"country":"est","name":"Tempo","id":"Tempo_Tallinn","win":4,"draw":6,"loss":14,"for":27,"against":70,"isNew":true,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
 	{"country":"est","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":4,"draw":4,"loss":16,"for":37,"against":73},
 	{"country":"est","name":"Dvigatel","id":"Tallinna_SK_Dvigatel","win":2,"draw":1,"loss":21,"for":16,"against":77,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
-	{"country":"lva","name":"Forums Skonto","id":"Skonto_FC","win":15,"draw":2,"loss":1,"for":33,"against":7,"isChampion":true,"isNew":true},
+	{"country":"lva","name":"Forums Skonto","id":"skonto_fc","win":15,"draw":2,"loss":1,"for":33,"against":7,"isChampion":true,"isNew":true},
 	{"country":"lva","name":"Pārdaugava","id":"FK_Pārdaugava","win":12,"draw":2,"loss":4,"for":38,"against":13,"isReturning":true},
 	{"country":"lva","name":"Olimpija","id":"fk_liepajas_metalurgs","win":10,"draw":5,"loss":3,"for":34,"against":13,"isReturning":true,"isRemoved":true},
 	{"country":"lva","name":"Celtnieks Daugavpils","id":"Dinaburg_FC","win":10,"draw":2,"loss":6,"for":39,"against":20},

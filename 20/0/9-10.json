@@ -267,7 +267,7 @@
 ][
 {"country":"lva","name":"Liepājas Metalurgs","id":"fk_liepajas_metalurgs","win":25,"draw":4,"loss":3,"for":96,"against":23,"isChampion":true},
 {"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":23,"draw":5,"loss":4,"for":89,"against":21},
-{"country":"lva","name":"Skonto","id":"Skonto_FC","win":23,"draw":4,"loss":5,"for":98,"against":30},
+{"country":"lva","name":"Skonto","id":"skonto_fc","win":23,"draw":4,"loss":5,"for":98,"against":30},
 {"country":"lva","name":"Jūrmala-VV","id":"FK_Daugava_(2003)","win":12,"draw":4,"loss":16,"for":42,"against":60},
 {"country":"lva","name":"Olimps/RFS","id":"JFK_Olimps","win":11,"draw":5,"loss":16,"for":53,"against":60},
 {"country":"lva","name":"Blāzma Rēzekne","id":"SK_Blāzma","win":7,"draw":5,"loss":20,"for":30,"against":71},

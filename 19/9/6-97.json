@@ -263,7 +263,7 @@
 {"country":"est","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":12,"draw":2,"loss":10,"for":38,"against":25},
 {"country":"est","name":"Vall","id":"JK_Vall_Tallinn","win":7,"draw":2,"loss":15,"for":38,"against":59,"isNew":true,"isRemoved":true}
 ][
-{"country":"lva","name":"Skonto","id":"Skonto_FC","win":23,"draw":4,"loss":1,"for":98,"against":12,"isChampion":true},
+{"country":"lva","name":"Skonto","id":"skonto_fc","win":23,"draw":4,"loss":1,"for":98,"against":12,"isChampion":true},
 {"country":"lva","name":"Daugava Rīga","id":"Torpedo_Rīga","win":18,"draw":7,"loss":3,"for":61,"against":18},
 {"country":"lva","name":"Dinaburg","id":"Dinaburg_FC","win":13,"draw":8,"loss":7,"for":53,"against":31},
 {"country":"lva","name":"Baltika Liepāja","id":"fk_liepajas_metalurgs","win":11,"draw":5,"loss":12,"for":32,"against":44},

@@ -270,7 +270,7 @@
 {"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":22,"draw":5,"loss":5,"for":75,"against":19,"isChampion":true},
 {"country":"lva","name":"Liepājas Metalurgs","id":"fk_liepajas_metalurgs","win":22,"draw":4,"loss":6,"for":74,"against":26},
 {"country":"lva","name":"Daugava Daugavpils","id":"FC_Daugava","win":19,"draw":6,"loss":7,"for":58,"against":30},
-{"country":"lva","name":"Skonto","id":"Skonto_FC","win":17,"draw":9,"loss":6,"for":62,"against":21},
+{"country":"lva","name":"Skonto","id":"skonto_fc","win":17,"draw":9,"loss":6,"for":62,"against":21},
 {"country":"lva","name":"Jūrmala","id":"FC_Jūrmala","win":12,"draw":8,"loss":12,"for":45,"against":42,"isReturning":true},
 {"country":"lva","name":"Jelgava","id":"FK_Jelgava","win":13,"draw":4,"loss":15,"for":47,"against":54},
 {"country":"lva","name":"FB Gulbene","id":"FB_Gulbene","win":7,"draw":7,"loss":18,"for":39,"against":67,"isNew":true},

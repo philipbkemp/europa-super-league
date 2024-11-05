@@ -270,7 +270,7 @@
 {"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":2,"draw":5,"loss":29,"for":22,"against":87,"isRemoved":true}
 ][
 {"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":21,"draw":4,"loss":2,"for":65,"against":19,"isChampion":true},
-{"country":"lva","name":"Skonto","id":"Skonto_FC","win":18,"draw":8,"loss":1,"for":68,"against":11},
+{"country":"lva","name":"Skonto","id":"skonto_fc","win":18,"draw":8,"loss":1,"for":68,"against":11},
 {"country":"lva","name":"Daugava Daugavpils","id":"FC_Daugava","win":15,"draw":7,"loss":5,"for":44,"against":19},
 {"country":"lva","name":"Daugava Rīga","id":"FK_Daugava_(2003)","win":14,"draw":6,"loss":7,"for":44,"against":21},
 {"country":"lva","name":"Liepājas Metalurgs","id":"fk_liepajas_metalurgs","win":11,"draw":7,"loss":9,"for":54,"against":35,"isRemoved":true,"removedNote":"Dissolved"},

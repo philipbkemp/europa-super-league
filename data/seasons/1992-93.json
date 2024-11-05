@@ -243,7 +243,7 @@
 	{"country":"est","name":"Merkuur","id":"Tartu_JK_Merkuur","win":4,"draw":4,"loss":14,"for":17,"against":63,"isReturning":true},
 	{"country":"est","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":4,"draw":1,"loss":17,"for":17,"against":65},
 	{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":3,"draw":1,"loss":18,"for":24,"against":88,"isRemoved":true},
-	{"country":"lva","name":"Skonto","id":"Skonto_FC","win":18,"draw":2,"loss":2,"for":51,"against":10,"isChampion":true},
+	{"country":"lva","name":"Skonto","id":"skonto_fc","win":18,"draw":2,"loss":2,"for":51,"against":10,"isChampion":true},
 	{"country":"lva","name":"RAF Jelgava","id":"RAF_Jelgava","win":17,"draw":4,"loss":1,"for":43,"against":6,"isReturning":true},
 	{"country":"lva","name":"VEF Rīga","id":"FK_VEF_Rīga","win":14,"draw":5,"loss":3,"for":46,"against":14},
 	{"country":"lva","name":"Pārdaugava","id":"FK_Pārdaugava","win":13,"draw":3,"loss":6,"for":45,"against":22},
