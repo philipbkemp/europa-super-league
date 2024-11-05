@@ -753,7 +753,7 @@ function promoteTwo(fromDivision,number) {
 		if ( promoted !== number && ! $(v).hasClass("removed") ) {
 			$(v).addClass("promoted").addClass("promoted-twice");
 			promoted++;
-			icon = $("<IMG />").attr("src","../../icons/promoted.png").attr("alt","Promoted").attr("data-bs-toggle","tooltip").attr("data-bs-title","Promoted to Division "+newDivision);
+			icon = $("<IMG />").attr("src","../../icons/promoted-twice.png").attr("alt","Promoted").attr("data-bs-toggle","tooltip").attr("data-bs-title","Promoted to Division "+newDivision);
 			$($(v).find("th")[0]).append(icon);
 		}
 	});
