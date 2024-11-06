@@ -704,7 +704,7 @@
 	{"country":"svk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":11,"draw":7,"loss":14,"for":42,"against":45},
 	{"country":"svk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":10,"draw":3,"loss":19,"for":41,"against":76},
 	{"country":"svk","name":"Nitra","id":"FC_Nitra","win":7,"draw":5,"loss":20,"for":30,"against":59,"isReturning":true},
-	{"country":"svk","name":"Petrimex Prievidza","id":"FC_Baník_Prievidza","win":7,"draw":4,"loss":21,"for":31,"against":65,"isRemoved":true},
+	{"country":"svk","name":"Petrimex Prievidza","id":"FC_Baník_Prievidza","win":7,"draw":4,"loss":21,"for":31,"against":65},
 	{"country":"and","name":"FC Encamp","id":"FC_Encamp","win":15,"draw":2,"loss":1,"for":64,"against":18,"isChampion":true,"isNew":true},
 	{"country":"and","name":"CE Principat","id":"CE_Principat","win":14,"draw":3,"loss":1,"for":85,"against":22,"isNew":true},
 	{"country":"and","name":"FC Santa Coloma","id":"FC_Santa_Coloma","win":13,"draw":3,"loss":2,"for":52,"against":26,"isNew":true},
