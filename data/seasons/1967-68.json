@@ -427,7 +427,7 @@
 	{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":7,"draw":1,"loss":10,"for":30,"against":34,"isNew":true},
 	{"country":"nor","name":"Steinkjer","id":"Steinkjer_FK","win":5,"draw":5,"loss":8,"for":21,"against":31,"isRemoved":true},
 	{"country":"nor","name":"Odd","id":"Odds_BK","win":5,"draw":2,"loss":11,"for":18,"against":35,"isRemoved":true},
-	{"country":"sov","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":21,"draw":12,"loss":3,"for":51,"against":11,"isChampion":true},
+	{"country":"sov","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":21,"draw":12,"loss":3,"for":51,"against":11,"isChampion":true},
 	{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":18,"draw":13,"loss":5,"for":55,"against":28},
 	{"country":"sov","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":16,"draw":13,"loss":7,"for":53,"against":33},
 	{"country":"sov","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":13,"draw":17,"loss":6,"for":47,"against":31},

@@ -599,7 +599,7 @@
 {"country":"svn","name":"Rudar Velenje","id":"NK_Rudar_Velenje","win":6,"draw":7,"loss":18,"for":32,"against":51,"isRemoved":true},
 {"country":"svn","name":"Korotan Prevalje","id":"NK_Korotan_Prevalje_(1933)","win":2,"draw":4,"loss":5,"for":7,"against":14,"isRemoved":true,"deduct":-7,"removedNote":"Excluded mid-season"}
 ][
-{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":23,"draw":4,"loss":3,"for":66,"against":20,"isChampion":true},
+{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":23,"draw":4,"loss":3,"for":66,"against":20,"isChampion":true},
 {"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":22,"draw":4,"loss":4,"for":61,"against":24},
 {"country":"ukr","name":"Metalurh Donetsk","id":"FC_Metalurh_Donetsk","win":18,"draw":6,"loss":6,"for":44,"against":26},
 {"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":18,"draw":5,"loss":7,"for":48,"against":27},

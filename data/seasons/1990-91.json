@@ -459,7 +459,7 @@
 	{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":7,"draw":4,"loss":11,"for":30,"against":30},
 	{"country":"nor","name":"VIF Fotball","id":"Vålerenga_Fotball","win":4,"draw":4,"loss":14,"for":26,"against":53,"isRemoved":true},
 	{"country":"nor","name":"Moss","id":"Moss_FK","win":3,"draw":4,"loss":15,"for":24,"against":47,"isRemoved":true},
-	{"country":"sov","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":14,"draw":6,"loss":4,"for":44,"against":20,"isChampion":true},
+	{"country":"sov","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":14,"draw":6,"loss":4,"for":44,"against":20,"isChampion":true},
 	{"country":"sov","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":13,"draw":5,"loss":6,"for":43,"against":26,"isReturning":true},
 	{"country":"sov","name":"Dinamo Moscow","id":"FC_Dynamo_Moscow","win":12,"draw":7,"loss":5,"for":27,"against":24},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":13,"draw":4,"loss":7,"for":28,"against":24},

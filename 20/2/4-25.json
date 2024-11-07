@@ -703,7 +703,7 @@
 {"country":"tur","name":"Gaziantep","id":"Gaziantep_F.K.","win":1,"draw":0,"loss":3,"for":4,"against":7,"isCurrentSeason":true},
 {"country":"tur","name":"Hatayspor","id":"Hatayspor","win":0,"draw":2,"loss":4,"for":4,"against":10,"isCurrentSeason":true},
 {"country":"tur","name":"Adana Demirspor","id":"Adana_Demirspor","win":0,"draw":1,"loss":5,"for":5,"against":14,"isCurrentSeason":true},
-{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":5,"draw":1,"loss":0,"for":11,"against":3,"isCurrentSeason":true},
+{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":5,"draw":1,"loss":0,"for":11,"against":3,"isCurrentSeason":true},
 {"country":"ukr","name":"Oleksandriya","id":"FC_Oleksandriya","win":5,"draw":1,"loss":0,"for":12,"against":5,"isCurrentSeason":true},
 {"country":"ukr","name":"Polissya Zhytomyr","id":"FC_Polissya_Zhytomyr","win":4,"draw":2,"loss":0,"for":13,"against":4,"isCurrentSeason":true},
 {"country":"ukr","name":"LNZ Cherkasy","id":"FC_LNZ_Cherkasy","win":3,"draw":2,"loss":2,"for":8,"against":7,"isCurrentSeason":true},

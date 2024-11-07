@@ -347,7 +347,7 @@
 	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":11,"draw":1,"loss":8,"for":25,"against":21},
 	{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":6,"draw":6,"loss":8,"for":21,"against":28},
 	{"country":"sov","name":"Krylia Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":6,"draw":5,"loss":9,"for":22,"against":25},
-	{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":6,"draw":5,"loss":9,"for":21,"against":26},
+	{"country":"sov","name":"Dynamo Kiev","id":"fc_dynamo_kyiv","win":6,"draw":5,"loss":9,"for":21,"against":26},
 	{"country":"sov","name":"Lokomotiv Kharkov","id":"FC_Lokomotyv_Kharkiv","win":6,"draw":4,"loss":10,"for":19,"against":34,"isReturning":true},
 	{"country":"sov","name":"Dynamo Leningrad (W)","id":"FC_Dynamo_Saint_Petersburg","win":5,"draw":4,"loss":11,"for":20,"against":33,"isRemoved":true},
 	{"country":"sov","name":"Spartak Vilnius","id":"FK_Žalgiris","win":2,"draw":7,"loss":11,"for":10,"against":33,"isRemoved":true,"isReturning":true},

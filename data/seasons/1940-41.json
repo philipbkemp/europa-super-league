@@ -139,7 +139,7 @@
 	{"country":"sov","name":"Dynamo Leningrad","id":"FC_Dynamo_Saint_Petersburg","win":11,"draw":5,"loss":8,"for":47,"against":44,"isRemoved":true,"removedNote":"Next season was suspended due to WW2"},
 	{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":10,"draw":5,"loss":9,"for":36,"against":52,"isRemoved":true,"removedNote":"Next season was suspended due to WW2"},
 	{"country":"sov","name":"Traktor Stalingrad","id":"FC_Rotor_Volgograd","win":8,"draw":7,"loss":9,"for":38,"against":37,"isRemoved":true,"removedNote":"Next season was suspended due to WW2"},
-	{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":6,"draw":9,"loss":9,"for":32,"against":49,"isRemoved":true,"removedNote":"Next season was suspended due to WW2"},
+	{"country":"sov","name":"Dynamo Kiev","id":"fc_dynamo_kyiv","win":6,"draw":9,"loss":9,"for":32,"against":49,"isRemoved":true,"removedNote":"Next season was suspended due to WW2"},
 	{"country":"sov","name":"Krylia Sovetov Moscow","id":"FC_Krylia_Sovetov_Moscow","win":6,"draw":7,"loss":11,"for":26,"against":34,"isReturning":true,"isRemoved":true,"removedNote":"Next season was suspended due to WW2"},
 	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":6,"draw":6,"loss":12,"for":37,"against":42,"isRemoved":true,"removedNote":"Next season was suspended due to WW2"},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":6,"draw":6,"loss":12,"for":36,"against":50,"isRemoved":true,"removedNote":"Next season was suspended due to WW2"},

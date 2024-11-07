@@ -459,7 +459,7 @@
 	{"country":"nor","name":"Hødd","id":"IL_Hødd","win":3,"draw":5,"loss":10,"for":17,"against":32},
 	{"country":"nor","name":"Brann","id":"SK_Brann","win":3,"draw":5,"loss":10,"for":16,"against":31},
 	{"country":"nor","name":"Frigg","id":"Frigg_Oslo_FK","win":4,"draw":1,"loss":13,"for":16,"against":55,"isRemoved":true,"isReturning":true},
-	{"country":"sov","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":17,"draw":10,"loss":3,"for":41,"against":17,"isChampion":true},
+	{"country":"sov","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":17,"draw":10,"loss":3,"for":41,"against":17,"isChampion":true},
 	{"country":"sov","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":13,"draw":11,"loss":6,"for":37,"against":28},
 	{"country":"sov","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":14,"draw":8,"loss":8,"for":33,"against":33},
 	{"country":"sov","name":"Zarya Voroshilovgrad","id":"FC_Zorya_Luhansk","win":11,"draw":11,"loss":8,"for":29,"against":23},

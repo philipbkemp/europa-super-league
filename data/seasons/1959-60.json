@@ -408,7 +408,7 @@
 	{"country":"sov","name":"SKA Rostov-on-Don","id":"FC_SKA_Rostov-on-Don","win":11,"draw":4,"loss":7,"for":37,"against":31,"isNew":true,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":11,"draw":3,"loss":8,"for":27,"against":23,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":8,"draw":8,"loss":6,"for":32,"against":28,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
-	{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":6,"draw":8,"loss":8,"for":26,"against":33,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
+	{"country":"sov","name":"Dynamo Kiev","id":"fc_dynamo_kyiv","win":6,"draw":8,"loss":8,"for":26,"against":33,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
 	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":8,"draw":4,"loss":10,"for":29,"against":38,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
 	{"country":"sov","name":"CSK MO Moscow","id":"PFC_CSKA_Moscow","win":8,"draw":3,"loss":11,"for":29,"against":27,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
 	{"country":"sov","name":"Moldova Kishinyov","id":"FC_Zimbru_Chișinău","win":6,"draw":5,"loss":11,"for":22,"against":45,"isRemoved":true,"removedNote":"League moved to grouped format next season"},

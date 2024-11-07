@@ -643,7 +643,7 @@
 {"country":"svn","name":"Aluminij","id":"NK_Aluminij","win":8,"draw":7,"loss":21,"for":37,"against":71,"isRemoved":true,"isReturning":true}
 ][
 {"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":22,"draw":5,"loss":3,"for":63,"against":24,"isChampion":true},
-{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":22,"draw":3,"loss":5,"for":72,"against":28},
+{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":22,"draw":3,"loss":5,"for":72,"against":28},
 {"country":"ukr","name":"Kryvbas Kryvyi Rih","id":"FC_Kryvbas_Kryvyi_Rih_(2020)","win":17,"draw":6,"loss":7,"for":51,"against":30},
 {"country":"ukr","name":"Dnipro-1","id":"SC_Dnipro-1","win":14,"draw":10,"loss":6,"for":40,"against":27,"isRemoved":true,"removedNote":"Withdrew due to financial hardship"},
 {"country":"ukr","name":"Polissya Zhytomyr","id":"FC_Polissya_Zhytomyr","win":14,"draw":8,"loss":8,"for":39,"against":30,"isNew":true},

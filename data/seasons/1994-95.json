@@ -632,7 +632,7 @@
 	{"country":"svn","name":"Naklo","id":"NK_Naklo","win":5,"draw":9,"loss":16,"for":34,"against":48,"isRemoved":true},
 	{"country":"svn","name":"Kočevje","id":"NK_Kočevje","win":4,"draw":9,"loss":17,"for":24,"against":91,"isRemoved":true,"deduct":-1,"isNew":true},
 	{"country":"svn","name":"Jadran Dekani","id":"NK_Dekani","win":0,"draw":3,"loss":27,"for":12,"against":113,"isRemoved":true},
-	{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":25,"draw":8,"loss":1,"for":87,"against":24,"isChampion":true},
+	{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":25,"draw":8,"loss":1,"for":87,"against":24,"isChampion":true},
 	{"country":"ukr","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":22,"draw":7,"loss":5,"for":62,"against":29},
 	{"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":19,"draw":8,"loss":7,"for":60,"against":33},
 	{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":18,"draw":8,"loss":8,"for":52,"against":29},

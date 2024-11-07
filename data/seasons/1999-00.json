@@ -592,7 +592,7 @@
 	{"country":"svn","name":"Mura","id":"NK_Mura","win":10,"draw":6,"loss":17,"for":47,"against":53},
 	{"country":"svn","name":"Pohorje","id":"NK_Pohorje","win":4,"draw":6,"loss":23,"for":26,"against":73,"isRemoved":true,"isNew":true},
 	{"country":"svn","name":"Beltinci","id":"NK_Beltinci","win":3,"draw":6,"loss":24,"for":21,"against":88,"isRemoved":true},
-	{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":27,"draw":3,"loss":0,"for":85,"against":18,"isChampion":true},
+	{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":27,"draw":3,"loss":0,"for":85,"against":18,"isChampion":true},
 	{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":21,"draw":3,"loss":6,"for":60,"against":16},
 	{"country":"ukr","name":"Kryvbas Kryvyi Rih","id":"FC_Kryvbas_Kryvyi_Rih_(1959–2013)","win":18,"draw":6,"loss":6,"for":54,"against":30},
 	{"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":14,"draw":7,"loss":9,"for":50,"against":34},

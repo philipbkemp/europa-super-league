@@ -630,7 +630,7 @@
 {"country":"svn","name":"Rudar","id":"NK_Rudar_Velenje","win":2,"draw":9,"loss":25,"for":28,"against":83,"isRemoved":true,"isReturning":true}
 ][
 {"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":23,"draw":6,"loss":1,"for":64,"against":14,"isChampion":true},
-{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":23,"draw":6,"loss":1,"for":68,"against":20},
+{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":23,"draw":6,"loss":1,"for":68,"against":20},
 {"country":"ukr","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":13,"draw":6,"loss":11,"for":36,"against":31},
 {"country":"ukr","name":"Illychivets Mariupol","id":"FC_Mariupol","win":12,"draw":7,"loss":11,"for":30,"against":34},
 {"country":"ukr","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":12,"draw":7,"loss":11,"for":35,"against":42},

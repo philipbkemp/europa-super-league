@@ -636,7 +636,7 @@
 {"country":"svn","name":"Nafta","id":"NK_Nafta_Lendava","win":5,"draw":10,"loss":21,"for":34,"against":71,"isRemoved":true}
 ][
 {"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":25,"draw":4,"loss":1,"for":80,"against":18,"isChampion":true},
-{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":23,"draw":6,"loss":1,"for":56,"against":12},
+{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":23,"draw":6,"loss":1,"for":56,"against":12},
 {"country":"ukr","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":16,"draw":11,"loss":3,"for":54,"against":32},
 {"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":15,"draw":7,"loss":8,"for":52,"against":35},
 {"country":"ukr","name":"Arsenal Kyiv","id":"FC_Arsenal_Kyiv","win":14,"draw":9,"loss":7,"for":44,"against":27},

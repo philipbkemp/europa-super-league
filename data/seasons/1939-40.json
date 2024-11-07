@@ -212,7 +212,7 @@
 	{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":12,"draw":6,"loss":8,"for":42,"against":39},
 	{"country":"sov","name":"Metallurg Moscow","id":"FC_Serp_i_Molot_Moscow","win":12,"draw":5,"loss":9,"for":53,"against":50},
 	{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":12,"draw":4,"loss":10,"for":60,"against":46},
-	{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":9,"draw":8,"loss":9,"for":39,"against":44},
+	{"country":"sov","name":"Dynamo Kiev","id":"fc_dynamo_kyiv","win":9,"draw":8,"loss":9,"for":39,"against":44},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":8,"draw":7,"loss":11,"for":51,"against":51},
 	{"country":"sov","name":"Dynamo Leningrad","id":"FC_Dynamo_Saint_Petersburg","win":8,"draw":6,"loss":12,"for":41,"against":56},
 	{"country":"sov","name":"Stalinets Leningrad","id":"FC_Zenit_Saint_Petersburg","win":7,"draw":7,"loss":12,"for":30,"against":46},

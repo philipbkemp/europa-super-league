@@ -326,7 +326,7 @@
 	{"country":"prt","name":"Braga","id":"S.C._Braga","win":8,"draw":2,"loss":16,"for":37,"against":58},
 	{"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":5,"draw":4,"loss":17,"for":28,"against":64,"isRemoved":true},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":9,"draw":2,"loss":2,"for":26,"against":12,"isChampion":true},
-	{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":7,"draw":3,"loss":3,"for":26,"against":14},
+	{"country":"sov","name":"Dynamo Kiev","id":"fc_dynamo_kyiv","win":7,"draw":3,"loss":3,"for":26,"against":14},
 	{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":7,"draw":3,"loss":3,"for":24,"against":14},
 	{"country":"sov","name":"Dynamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":5,"draw":6,"loss":2,"for":19,"against":12},
 	{"country":"sov","name":"Dynamo Leningrad","id":"FC_Dynamo_Saint_Petersburg","win":5,"draw":5,"loss":3,"for":17,"against":17},

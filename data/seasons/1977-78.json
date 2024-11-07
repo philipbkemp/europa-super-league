@@ -446,7 +446,7 @@
 	{"country":"nor","name":"Hamarkameratene","id":"Hamarkameratene","win":6,"draw":6,"loss":10,"for":37,"against":42,"isRemoved":true},
 	{"country":"nor","name":"Mjøndalen","id":"Mjøndalen_IF_Fotball","win":7,"draw":4,"loss":11,"for":17,"against":32,"isRemoved":true},
 	{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":1,"draw":5,"loss":16,"for":17,"against":48,"isRemoved":true},
-	{"country":"sov","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":14,"draw":15,"loss":1,"for":51,"against":12,"isChampion":true,"isReturning":true},
+	{"country":"sov","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":14,"draw":15,"loss":1,"for":51,"against":12,"isChampion":true,"isReturning":true},
 	{"country":"sov","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":13,"draw":13,"loss":4,"for":43,"against":26,"isReturning":true},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":12,"draw":13,"loss":5,"for":30,"against":23,"isReturning":true},
 	{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":9,"draw":17,"loss":4,"for":34,"against":20,"isReturning":true},

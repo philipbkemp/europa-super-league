@@ -450,7 +450,7 @@
 	{"country":"nor","name":"HamKam","id":"Hamarkameratene","win":5,"draw":5,"loss":12,"for":21,"against":47,"isRemoved":true},
 	{"country":"nor","name":"Sarpsborg FK","id":"Sarpsborg_FK","win":4,"draw":3,"loss":15,"for":21,"against":47,"isRemoved":true,"isReturning":true},
 	{"country":"nor","name":"Raufoss","id":"Raufoss_IL","win":1,"draw":4,"loss":17,"for":16,"against":51,"isRemoved":true},
-	{"country":"sov","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":14,"draw":12,"loss":4,"for":49,"against":24,"isChampion":true},
+	{"country":"sov","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":14,"draw":12,"loss":4,"for":49,"against":24,"isChampion":true},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":15,"draw":9,"loss":6,"for":41,"against":23},
 	{"country":"sov","name":"Chornomorets Odessa","id":"FC_Chornomorets_Odesa","win":12,"draw":11,"loss":7,"for":35,"against":31,"isReturning":true},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":13,"draw":7,"loss":10,"for":35,"against":28},

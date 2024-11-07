@@ -633,7 +633,7 @@
 ][
 {"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":25,"draw":4,"loss":1,"for":82,"against":18,"isChampion":true},
 {"country":"ukr","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":20,"draw":6,"loss":4,"for":59,"against":25},
-{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":20,"draw":2,"loss":8,"for":55,"against":23},
+{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":20,"draw":2,"loss":8,"for":55,"against":23},
 {"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":16,"draw":8,"loss":6,"for":54,"against":27},
 {"country":"ukr","name":"Metalurh Donetsk","id":"FC_Metalurh_Donetsk","win":14,"draw":7,"loss":9,"for":45,"against":35},
 {"country":"ukr","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":12,"draw":7,"loss":11,"for":32,"against":36},

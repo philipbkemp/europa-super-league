@@ -463,7 +463,7 @@
 {"country":"nor","name":"Mjølner","id":"FK_Mjølner","win":4,"draw":3,"loss":15,"for":23,"against":50,"isRemoved":true,"isReturning":true},
 {"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":17,"draw":10,"loss":3,"for":49,"against":19,"isChampion":true},
 {"country":"sov","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":18,"draw":6,"loss":6,"for":47,"against":27},
-{"country":"sov","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":13,"draw":12,"loss":5,"for":44,"against":27},
+{"country":"sov","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":13,"draw":12,"loss":5,"for":44,"against":27},
 {"country":"sov","name":"Žalgiris Vilnius","id":"FK_Žalgiris","win":14,"draw":8,"loss":8,"for":39,"against":29,"isRemoved":true,"removedNote":"Quit USSR FA to join newly formed national FA"},
 {"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":11,"draw":13,"loss":6,"for":40,"against":26},
 {"country":"sov","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":11,"draw":9,"loss":10,"for":40,"against":41},

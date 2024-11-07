@@ -636,7 +636,7 @@
 {"country":"svn","name":"Aluminij","id":"NK_Aluminij","win":4,"draw":12,"loss":20,"for":33,"against":72,"isRemoved":true}
 ][
 {"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":15,"draw":2,"loss":1,"for":49,"against":10,"isChampion":true},
-{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":14,"draw":3,"loss":1,"for":47,"against":9},
+{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":14,"draw":3,"loss":1,"for":47,"against":9},
 {"country":"ukr","name":"Dnipro-1","id":"SC_Dnipro-1","win":13,"draw":1,"loss":4,"for":35,"against":17},
 {"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":11,"draw":3,"loss":4,"for":37,"against":19},
 {"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":9,"draw":6,"loss":3,"for":30,"against":18},

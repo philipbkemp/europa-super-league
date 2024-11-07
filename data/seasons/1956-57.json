@@ -354,7 +354,7 @@
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":15,"draw":4,"loss":3,"for":68,"against":28,"isChampion":true},
 	{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":10,"draw":8,"loss":4,"for":45,"against":31},
 	{"country":"sov","name":"CDSA Moscow","id":"PFC_CSKA_Moscow","win":10,"draw":5,"loss":7,"for":40,"against":32},
-	{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":7,"draw":10,"loss":5,"for":32,"against":31},
+	{"country":"sov","name":"Dynamo Kiev","id":"fc_dynamo_kyiv","win":7,"draw":10,"loss":5,"for":32,"against":31},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":8,"draw":7,"loss":7,"for":40,"against":37},
 	{"country":"sov","name":"Burevestnik Kishinyov","id":"FC_Zimbru_Chișinău","win":9,"draw":5,"loss":8,"for":38,"against":49,"isNew":true},
 	{"country":"sov","name":"Shakhtyor Stalino","id":"FC_Shakhtar_Donetsk","win":7,"draw":7,"loss":8,"for":30,"against":39},

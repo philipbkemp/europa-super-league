@@ -472,7 +472,7 @@
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":17,"draw":7,"loss":6,"for":57,"against":30,"isRemoved":true,"removedNote":"The following season was cancelled after numerous clubs quit the USSR FA"},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":13,"draw":10,"loss":7,"for":36,"against":20,"isRemoved":true,"removedNote":"The following season was cancelled after numerous clubs quit the USSR FA"},
 	{"country":"sov","name":"Chornomorets","id":"FC_Chornomorets_Odesa","win":10,"draw":16,"loss":4,"for":39,"against":24,"note":"Quit USSR FA to join newly formed national FA"},
-	{"country":"sov","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":13,"draw":9,"loss":8,"for":43,"against":34,"note":"Quit USSR FA to join newly formed national FA"},
+	{"country":"sov","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":13,"draw":9,"loss":8,"for":43,"against":34,"note":"Quit USSR FA to join newly formed national FA"},
 	{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":12,"draw":7,"loss":11,"for":43,"against":42,"isRemoved":true,"removedNote":"The following season was cancelled after numerous clubs quit the USSR FA"},
 	{"country":"sov","name":"Ararat","id":"FC_Ararat_Yerevan","win":11,"draw":7,"loss":12,"for":29,"against":36,"isRemoved":true,"removedNote":"Quit USSR FA to join newly formed national FA"},
 	{"country":"sov","name":"Dnipro","id":"FC_Dnipro","win":9,"draw":10,"loss":11,"for":31,"against":36,"note":"Quit USSR FA to join newly formed national FA"},

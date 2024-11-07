@@ -444,7 +444,7 @@
 	{"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":6,"draw":2,"loss":10,"for":28,"against":34},
 	{"country":"nor","name":"Frigg","id":"Frigg_Oslo_FK","win":3,"draw":5,"loss":10,"for":15,"against":37,"isRemoved":true},
 	{"country":"nor","name":"Vålerengen","id":"Vålerenga_Fotball","win":3,"draw":4,"loss":11,"for":18,"against":38,"isRemoved":true},
-	{"country":"sov","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":21,"draw":15,"loss":2,"for":58,"against":25,"isChampion":true,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
+	{"country":"sov","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":21,"draw":15,"loss":2,"for":58,"against":25,"isChampion":true,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":21,"draw":10,"loss":7,"for":64,"against":43,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":18,"draw":14,"loss":6,"for":60,"against":32,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
 	{"country":"sov","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":20,"draw":10,"loss":8,"for":50,"against":30,"isRemoved":true,"removedNote":"League moved to grouped format next season"},

@@ -623,7 +623,7 @@
 {"country":"svn","name":"Gorica","id":"ND_Gorica","win":10,"draw":7,"loss":19,"for":40,"against":46},
 {"country":"svn","name":"Radomlje","id":"NK_Radomlje","win":4,"draw":4,"loss":28,"for":21,"against":85,"isRemoved":true,"isNew":true}
 ][
-{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":20,"draw":6,"loss":0,"for":65,"against":12,"isChampion":true},
+{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":20,"draw":6,"loss":0,"for":65,"against":12,"isChampion":true},
 {"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":17,"draw":5,"loss":4,"for":71,"against":21},
 {"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":16,"draw":6,"loss":4,"for":47,"against":17},
 {"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":13,"draw":6,"loss":7,"for":40,"against":31},

@@ -456,7 +456,7 @@
 	{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":3,"draw":5,"loss":14,"for":23,"against":53,"isRemoved":true,"isReturning":true},
 	{"country":"nor","name":"Steinkjer","id":"Steinkjer_FK","win":1,"draw":9,"loss":12,"for":20,"against":51,"isRemoved":true,"isReturning":true},
 	{"country":"sov","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":17,"draw":8,"loss":5,"for":45,"against":24,"isChampion":true},
-	{"country":"sov","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":15,"draw":9,"loss":6,"for":42,"against":20},
+	{"country":"sov","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":15,"draw":9,"loss":6,"for":42,"against":20},
 	{"country":"sov","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":16,"draw":5,"loss":9,"for":42,"against":31},
 	{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":14,"draw":10,"loss":6,"for":37,"against":23},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":14,"draw":5,"loss":11,"for":42,"against":33,"isReturning":true},

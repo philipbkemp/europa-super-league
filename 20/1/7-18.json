@@ -611,7 +611,7 @@
 {"country":"svn","name":"Ankaran","id":"NK_Ankaran","win":5,"draw":11,"loss":20,"for":33,"against":84,"isRemoved":true,"isNew":true}
 ][
 {"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":24,"draw":3,"loss":5,"for":71,"against":24,"isChampion":true},
-{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":22,"draw":7,"loss":3,"for":64,"against":25},
+{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":22,"draw":7,"loss":3,"for":64,"against":25},
 {"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":14,"draw":7,"loss":11,"for":37,"against":35},
 {"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":11,"draw":10,"loss":11,"for":44,"against":44},
 {"country":"ukr","name":"Veres Rivne","id":"NK_Veres_Rivne","win":7,"draw":14,"loss":11,"for":28,"against":30,"isRemoved":true,"removedNote":"Club suspended","isReturning":true},

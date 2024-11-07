@@ -646,7 +646,7 @@
 {"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":22,"draw":6,"loss":2,"for":69,"against":21,"isChampion":true},
 {"country":"ukr","name":"Dnipro-1","id":"SC_Dnipro-1","win":21,"draw":4,"loss":5,"for":61,"against":27},
 {"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":20,"draw":4,"loss":6,"for":61,"against":34},
-{"country":"ukr","name":"Dynamo Kyiv","id":"FC_Dynamo_Kyiv","win":18,"draw":6,"loss":6,"for":51,"against":25},
+{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":18,"draw":6,"loss":6,"for":51,"against":25},
 {"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":13,"draw":6,"loss":11,"for":38,"against":37},
 {"country":"ukr","name":"Oleksandriya","id":"FC_Oleksandriya","win":10,"draw":14,"loss":6,"for":42,"against":39},
 {"country":"ukr","name":"Kryvbas Kryvyi Rih","id":"FC_Kryvbas_Kryvyi_Rih_(2020)","win":12,"draw":5,"loss":13,"for":26,"against":30,"isNew":true},

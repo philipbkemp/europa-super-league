@@ -315,7 +315,7 @@
 	{"country":"sov","name":"CDKA Moscow","id":"PFC_CSKA_Moscow","win":17,"draw":6,"loss":1,"for":61,"against":16,"isChampion":true},
 	{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":19,"draw":2,"loss":3,"for":57,"against":15},
 	{"country":"sov","name":"Dynamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":14,"draw":5,"loss":5,"for":57,"against":30},
-	{"country":"sov","name":"Dynamo Kiev","id":"FC_Dynamo_Kyiv","win":9,"draw":9,"loss":6,"for":27,"against":31},
+	{"country":"sov","name":"Dynamo Kiev","id":"fc_dynamo_kyiv","win":9,"draw":9,"loss":6,"for":27,"against":31},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":9,"draw":6,"loss":9,"for":36,"against":29},
 	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":10,"draw":2,"loss":12,"for":35,"against":49},
 	{"country":"sov","name":"Krylia Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":8,"draw":6,"loss":10,"for":32,"against":45},
