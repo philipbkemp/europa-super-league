@@ -123,7 +123,7 @@
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":1,"draw":3,"loss":2,"for":7,"against":5},
 	{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":2,"draw":1,"loss":3,"for":5,"against":10,"isReturning":true},
 	{"country":"rou","name":"Venus București","id":"FC_Venus_București","win":13,"draw":6,"loss":3,"for":63,"against":26,"isChampion":true,"isRemoved":true,"removedNote":"Romanian league moved to grouped format for next season"},
-	{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":13,"draw":4,"loss":5,"for":58,"against":27,"isRemoved":true,"removedNote":"Romanian league moved to grouped format for next season"},
+	{"country":"rou","name":"Rapid București","id":"fc_rapid_bucuresti","win":13,"draw":4,"loss":5,"for":58,"against":27,"isRemoved":true,"removedNote":"Romanian league moved to grouped format for next season"},
 	{"country":"rou","name":"Ripensia Timișoara","id":"FC_Ripensia_Timișoara","win":13,"draw":1,"loss":8,"for":59,"against":39,"isRemoved":true,"removedNote":"Romanian league moved to grouped format for next season"},
 	{"country":"rou","name":"AMEF Arad","id":"Vagonul_Arad","win":10,"draw":7,"loss":5,"for":46,"against":27,"isRemoved":true,"removedNote":"Romanian league moved to grouped format for next season"},
 	{"country":"rou","name":"Victoria Cluj","id":"FC_Victoria_Cluj","win":12,"draw":1,"loss":9,"for":55,"against":47,"isRemoved":true,"removedNote":"Romanian league moved to grouped format for next season"},

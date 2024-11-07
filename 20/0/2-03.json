@@ -173,7 +173,7 @@
 {"country":"mlt","name":"Marsa","id":"Marsa_F.C.","win":6,"draw":6,"loss":12,"for":33,"against":53,"isRemoved":true},
 {"country":"mlt","name":"Mosta","id":"Mosta_F.C.","win":2,"draw":5,"loss":17,"for":17,"against":60,"isRemoved":true,"isReturning":true}
 ][
-{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":20,"draw":3,"loss":7,"for":59,"against":25,"isChampion":true},
+{"country":"rou","name":"Rapid București","id":"fc_rapid_bucuresti","win":20,"draw":3,"loss":7,"for":59,"against":25,"isChampion":true},
 {"country":"rou","name":"Steaua București","id":"fcsb","win":16,"draw":8,"loss":6,"for":42,"against":27},
 {"country":"rou","name":"Gloria Bistrița","id":"ACF_Gloria_Bistrița","win":13,"draw":6,"loss":11,"for":32,"against":33},
 {"country":"rou","name":"Brașov","id":"FC_Brașov_(1936)","win":13,"draw":6,"loss":11,"for":37,"against":33},

@@ -181,7 +181,7 @@
 	{"country":"rou","name":"Argeș Pitești","id":"FC_Argeș_Pitești","win":12,"draw":8,"loss":14,"for":36,"against":47},
 	{"country":"rou","name":"Jiul Petroșani","id":"CSM_Jiul_Petroșani","win":12,"draw":8,"loss":14,"for":42,"against":54},
 	{"country":"rou","name":"Politehnica Iași","id":"FC_Politehnica_Iași_(1945)","win":13,"draw":5,"loss":16,"for":46,"against":50},
-	{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":12,"draw":7,"loss":15,"for":40,"against":47,"isReturning":true},
+	{"country":"rou","name":"Rapid București","id":"fc_rapid_bucuresti","win":12,"draw":7,"loss":15,"for":40,"against":47,"isReturning":true},
 	{"country":"rou","name":"UTA Arad","id":"FC_UTA_Arad","win":13,"draw":5,"loss":16,"for":46,"against":56},
 	{"country":"rou","name":"Olimpia Satu Mare","id":"FC_Olimpia_Satu_Mare","win":12,"draw":7,"loss":15,"for":36,"against":56,"isRemoved":true},
 	{"country":"rou","name":"CFR Cluj","id":"CFR_Cluj","win":9,"draw":10,"loss":15,"for":30,"against":39,"isRemoved":true},

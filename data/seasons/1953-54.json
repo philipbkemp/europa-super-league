@@ -140,7 +140,7 @@
 	{"country":"rou","name":"Minerul Petroșani","id":"CSM_Jiul_Petroșani","win":6,"draw":12,"loss":8,"for":28,"against":35},
 	{"country":"rou","name":"Locomotiva Târgu Mureş","id":"CS_Târgu_Mureș","win":8,"draw":7,"loss":11,"for":30,"against":38},
 	{"country":"rou","name":"Metalul Hunedoara","id":"CS_Corvinul_Hunedoara","win":9,"draw":5,"loss":12,"for":35,"against":51,"isRemoved":true,"isNew":true},
-	{"country":"rou","name":"Locomotiva București","id":"FC_Rapid_București","win":9,"draw":4,"loss":13,"for":38,"against":45,"isRemoved":true},
+	{"country":"rou","name":"Locomotiva București","id":"fc_rapid_bucuresti","win":9,"draw":4,"loss":13,"for":38,"against":45,"isRemoved":true},
 	{"country":"rou","name":"Metalul Câmpia Turzii","id":"CSM_Câmpia_Turzii","win":4,"draw":12,"loss":10,"for":23,"against":36,"isRemoved":true,"isReturning":true},
 	{"country":"rou","name":"Progresul Oradea","id":"Club_Atletic_Oradea","win":4,"draw":10,"loss":12,"for":22,"against":42,"isRemoved":true},
 	{"country":"swe","name":"GAIS","id":"GAIS","win":10,"draw":7,"loss":5,"for":46,"against":39,"isChampion":true},

@@ -170,7 +170,7 @@
 	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":3,"draw":5,"loss":6,"for":11,"against":19,"isRemoved":true},
 	{"country":"mlt","name":"Msida Saint-Joseph F.C.","id":"Msida_Saint-Joseph_F.C.","win":0,"draw":1,"loss":13,"for":8,"against":34,"isRemoved":true,"isReturning":true},
 	{"country":"rou","name":"UTA Arad","id":"FC_UTA_Arad","win":18,"draw":3,"loss":9,"for":54,"against":42,"isChampion":true},
-	{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":14,"draw":9,"loss":7,"for":39,"against":31},
+	{"country":"rou","name":"Rapid București","id":"fc_rapid_bucuresti","win":14,"draw":9,"loss":7,"for":39,"against":31},
 	{"country":"rou","name":"Steaua București","id":"fcsb","win":14,"draw":6,"loss":10,"for":56,"against":37},
 	{"country":"rou","name":"Universitatea Craiova","id":"CS_Universitatea_Craiova","win":13,"draw":7,"loss":10,"for":40,"against":37},
 	{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":14,"draw":4,"loss":12,"for":51,"against":41},

@@ -176,7 +176,7 @@
 	{"country":"rou","name":"Universitatea Cluj","id":"FC_Universitatea_Cluj","win":11,"draw":8,"loss":15,"for":43,"against":55},
 	{"country":"rou","name":"Corvinul Hunedoara","id":"CS_Corvinul_Hunedoara","win":13,"draw":3,"loss":18,"for":47,"against":68},
 	{"country":"rou","name":"Oțelul Galați","id":"ASC_Oțelul_Galați","win":11,"draw":6,"loss":17,"for":36,"against":59,"isRemoved":true},
-	{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":10,"draw":3,"loss":21,"for":39,"against":67,"isRemoved":true},
+	{"country":"rou","name":"Rapid București","id":"fc_rapid_bucuresti","win":10,"draw":3,"loss":21,"for":39,"against":67,"isRemoved":true},
 	{"country":"rou","name":"ASA Târgu Mureș","id":"ASA_Târgu_Mureș_(1962)","win":2,"draw":2,"loss":30,"for":23,"against":101,"isRemoved":true},
 	{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":15,"draw":2,"loss":5,"for":45,"against":26,"isChampion":true},
 	{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":13,"draw":5,"loss":4,"for":37,"against":18},

@@ -185,7 +185,7 @@
 {"country":"rou","name":"Voluntari","id":"FC_Voluntari","win":16,"draw":10,"loss":14,"for":40,"against":41},
 {"country":"rou","name":"Botoșani","id":"FC_Botoșani","win":17,"draw":13,"loss":9,"for":51,"against":37},
 {"country":"rou","name":"UTA Arad","id":"FC_UTA_Arad","win":13,"draw":14,"loss":12,"for":34,"against":26},
-{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":15,"draw":14,"loss":10,"for":56,"against":38,"isReturning":true},
+{"country":"rou","name":"Rapid București","id":"fc_rapid_bucuresti","win":15,"draw":14,"loss":10,"for":56,"against":38,"isReturning":true},
 {"country":"rou","name":"Sepsi OSK","id":"Sepsi_OSK_Sfântu_Gheorghe","win":16,"draw":13,"loss":10,"for":54,"against":33},
 {"country":"rou","name":"Chindia Târgoviște","id":"AFC_Chindia_Târgoviște","win":10,"draw":13,"loss":16,"for":31,"against":31},
 {"country":"rou","name":"FC U Craiova 1948","id":"FC_U_Craiova_1948","win":13,"draw":11,"loss":15,"for":45,"against":46,"isReturning":true},

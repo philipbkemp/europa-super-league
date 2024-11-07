@@ -180,7 +180,7 @@
 	{"country":"rou","name":"Oțelul Galați","id":"ASC_Oțelul_Galați","win":11,"draw":10,"loss":13,"for":37,"against":36,"isNew":true},
 	{"country":"rou","name":"SC Bacău","id":"FCM_Bacău","win":12,"draw":8,"loss":14,"for":45,"against":52},
 	{"country":"rou","name":"FCM Brașov","id":"FC_Brașov_(1936)","win":14,"draw":4,"loss":16,"for":33,"against":46},
-	{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":13,"draw":6,"loss":15,"for":42,"against":55},
+	{"country":"rou","name":"Rapid București","id":"fc_rapid_bucuresti","win":13,"draw":6,"loss":15,"for":42,"against":55},
 	{"country":"rou","name":"Flacăra Moreni","id":"CSM_Flacăra_Moreni","win":14,"draw":4,"loss":16,"for":40,"against":55,"isNew":true},
 	{"country":"rou","name":"Jiul Petroșani","id":"CSM_Jiul_Petroșani","win":10,"draw":7,"loss":17,"for":39,"against":49,"isRemoved":true,"isReturning":true},
 	{"country":"rou","name":"Gloria Buzău","id":"FC_Gloria_Buzău","win":10,"draw":5,"loss":19,"for":31,"against":66,"isRemoved":true},

@@ -137,7 +137,7 @@
 	{"country":"mlt","name":"Melita F.C.","id":"Melita_F.C.","win":0,"draw":1,"loss":13,"for":13,"against":49,"isRemoved":true},
 	{"country":"rou","name":"ITA Arad","id":"FC_UTA_Arad","win":22,"draw":6,"loss":2,"for":129,"against":31,"isChampion":true},
 	{"country":"rou","name":"CFR Timișoara","id":"CSF_CFR_Timișoara","win":21,"draw":3,"loss":6,"for":84,"against":43},
-	{"country":"rou","name":"CFR București","id":"FC_Rapid_București","win":20,"draw":2,"loss":8,"for":87,"against":42},
+	{"country":"rou","name":"CFR București","id":"fc_rapid_bucuresti","win":20,"draw":2,"loss":8,"for":87,"against":42},
 	{"country":"rou","name":"Universitatea Cluj","id":"FC_Universitatea_Cluj","win":14,"draw":6,"loss":10,"for":58,"against":50},
 	{"country":"rou","name":"Distribuția București","id":"FC_Petrolul_Ploiești","win":13,"draw":7,"loss":10,"for":69,"against":50},
 	{"country":"rou","name":"Libertatea Oradea","id":"Club_Atletic_Oradea","win":10,"draw":10,"loss":10,"for":52,"against":49},

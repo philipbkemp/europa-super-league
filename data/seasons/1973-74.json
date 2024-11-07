@@ -186,7 +186,7 @@
 	{"country":"rou","name":"Politehnica Iași","id":"FC_Politehnica_Iași_(1945)","win":13,"draw":5,"loss":16,"for":39,"against":50,"isReturning":true},
 	{"country":"rou","name":"CFR Cluj","id":"CFR_Cluj","win":11,"draw":9,"loss":14,"for":40,"against":53},
 	{"country":"rou","name":"Jiul Petroșani","id":"CSM_Jiul_Petroșani","win":12,"draw":6,"loss":16,"for":40,"against":42},
-	{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":9,"draw":12,"loss":13,"for":30,"against":38,"isRemoved":true},
+	{"country":"rou","name":"Rapid București","id":"fc_rapid_bucuresti","win":9,"draw":12,"loss":13,"for":30,"against":38,"isRemoved":true},
 	{"country":"rou","name":"SC Bacău","id":"FCM_Bacău","win":12,"draw":4,"loss":18,"for":40,"against":49,"isRemoved":true},
 	{"country":"rou","name":"Petrolul Ploiești","id":"FC_Petrolul_Ploiești","win":10,"draw":7,"loss":17,"for":31,"against":42,"isRemoved":true},
 	{"country":"swe","name":"Åtvidabergs FF","id":"Åtvidabergs_FF","win":16,"draw":5,"loss":5,"for":53,"against":32,"isChampion":true},

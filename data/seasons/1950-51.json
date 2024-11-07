@@ -143,7 +143,7 @@
 	{"country":"rou","name":"Locomotiva Timișoara","id":"CSF_CFR_Timișoara","win":6,"draw":8,"loss":8,"for":28,"against":37},
 	{"country":"rou","name":"Dinamo Orașul Stalin","id":"Unirea_Tricolor_București","win":6,"draw":7,"loss":9,"for":27,"against":37,"isReturning":true},
 	{"country":"rou","name":"Locomotiva Târgu Mureş","id":"CS_Târgu_Mureș","win":7,"draw":2,"loss":13,"for":26,"against":36},
-	{"country":"rou","name":"Locomotiva București","id":"FC_Rapid_București","win":4,"draw":8,"loss":10,"for":24,"against":35,"isRemoved":true},
+	{"country":"rou","name":"Locomotiva București","id":"fc_rapid_bucuresti","win":4,"draw":8,"loss":10,"for":24,"against":35,"isRemoved":true},
 	{"country":"rou","name":"Știința Timișoara","id":"FC_Politehnica_Timișoara","win":5,"draw":6,"loss":11,"for":20,"against":34,"isRemoved":true},
 	{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":16,"draw":5,"loss":1,"for":52,"against":22,"isChampion":true},
 	{"country":"swe","name":"Råå","id":"Råå_IF","win":12,"draw":4,"loss":6,"for":44,"against":27,"isNew":true},

@@ -158,7 +158,7 @@
 	{"country":"rou","name":"Minerul Petroșani","id":"CSM_Jiul_Petroșani","win":11,"draw":4,"loss":7,"for":27,"against":19,"isReturning":true},
 	{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":10,"draw":4,"loss":8,"for":33,"against":26,"isReturning":true},
 	{"country":"rou","name":"Steagul Roşu Oraşul Stalin","id":"FC_Brașov_(1936)","win":9,"draw":5,"loss":8,"for":37,"against":33,"isNew":true},
-	{"country":"rou","name":"Locomotiva București","id":"FC_Rapid_București","win":9,"draw":4,"loss":9,"for":25,"against":25,"isReturning":true},
+	{"country":"rou","name":"Locomotiva București","id":"fc_rapid_bucuresti","win":9,"draw":4,"loss":9,"for":25,"against":25,"isReturning":true},
 	{"country":"rou","name":"Dinamo Cluj","id":"Unirea_Tricolor_București","win":9,"draw":2,"loss":11,"for":34,"against":41,"isReturning":true,"isRemoved":true},
 	{"country":"rou","name":"UTA Arad","id":"FC_UTA_Arad","win":7,"draw":6,"loss":9,"for":30,"against":47,"isReturning":true},
 	{"country":"rou","name":"Energia Recolta Târgu Mureş","id":"CS_Târgu_Mureș","win":7,"draw":3,"loss":12,"for":23,"against":42,"isRemoved":true,"isReturning":true},

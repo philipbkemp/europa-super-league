@@ -176,7 +176,7 @@
 	{"country":"rou","name":"UTA Arad","id":"FC_UTA_Arad","win":8,"draw":6,"loss":8,"for":26,"against":30},
 	{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":6,"draw":9,"loss":7,"for":29,"against":29},
 	{"country":"rou","name":"Progresul București","id":"FC_Progresul_București","win":7,"draw":5,"loss":10,"for":36,"against":39},
-	{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":5,"draw":8,"loss":9,"for":30,"against":34},
+	{"country":"rou","name":"Rapid București","id":"fc_rapid_bucuresti","win":5,"draw":8,"loss":9,"for":30,"against":34},
 	{"country":"rou","name":"Minerul Lupeni","id":"CS_Viitorul_Minerul_Lupeni","win":5,"draw":6,"loss":11,"for":27,"against":37,"isNew":true},
 	{"country":"rou","name":"Jiul Petroșani","id":"CSM_Jiul_Petroșani","win":2,"draw":7,"loss":13,"for":17,"against":49,"isRemoved":true},
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":17,"draw":4,"loss":1,"for":75,"against":26,"isChampion":true},

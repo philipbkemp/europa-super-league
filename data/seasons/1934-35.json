@@ -131,7 +131,7 @@
 	{"country":"rou","name":"Crișana Oradea","id":"Crișana_Oradea","win":8,"draw":6,"loss":8,"for":46,"against":50,"isNew":true},
 	{"country":"rou","name":"Gloria Arad","id":"AFC_Gloria_Arad","win":7,"draw":7,"loss":8,"for":45,"against":57,"isNew":true},
 	{"country":"rou","name":"Unirea Tricolor București","id":"Unirea_Tricolor_București","win":6,"draw":7,"loss":9,"for":49,"against":54,"isReturning":true},
-	{"country":"rou","name":"CFR București","id":"FC_Rapid_București","win":8,"draw":1,"loss":13,"for":39,"against":51,"isNew":true},
+	{"country":"rou","name":"CFR București","id":"fc_rapid_bucuresti","win":8,"draw":1,"loss":13,"for":39,"against":51,"isNew":true},
 	{"country":"rou","name":"Juventus București","id":"FC_Petrolul_Ploiești","win":6,"draw":4,"loss":12,"for":32,"against":46,"isNew":true},
 	{"country":"rou","name":"AMEF Arad","id":"Vagonul_Arad","win":2,"draw":4,"loss":16,"for":24,"against":53,"isNew":true},
 	{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":15,"draw":3,"loss":4,"for":48,"against":22,"isChampion":true},

@@ -125,7 +125,7 @@
 	{"country":"rou","name":"Ripensia Timișoara","id":"FC_Ripensia_Timișoara","win":11,"draw":4,"loss":7,"for":53,"against":39,"isReturning":true},
 	{"country":"rou","name":"AMEF Arad","id":"Vagonul_Arad","win":10,"draw":5,"loss":7,"for":40,"against":35,"isReturning":true},
 	{"country":"rou","name":"UD Reșița","id":"CSM_Reșița","win":9,"draw":5,"loss":8,"for":30,"against":33,"isNew":true},
-	{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":8,"draw":5,"loss":9,"for":40,"against":33,"isReturning":true},
+	{"country":"rou","name":"Rapid București","id":"fc_rapid_bucuresti","win":8,"draw":5,"loss":9,"for":40,"against":33,"isReturning":true},
 	{"country":"rou","name":"Victoria Cluj","id":"FC_Victoria_Cluj","win":9,"draw":3,"loss":10,"for":38,"against":38,"isReturning":true},
 	{"country":"rou","name":"Carpaţi Baia Mare","id":"Phoenix_Baia_Mare","win":8,"draw":5,"loss":9,"for":25,"against":35,"isNew":true},
 	{"country":"rou","name":"Juventus București","id":"FC_Petrolul_Ploiești","win":8,"draw":4,"loss":10,"for":37,"against":37,"isReturning":true},

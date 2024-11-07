@@ -174,7 +174,7 @@
 	{"country":"rou","name":"Universitatea Cluj","id":"FC_Universitatea_Cluj","win":11,"draw":7,"loss":16,"for":39,"against":54},
 	{"country":"rou","name":"ASA Târgu Mureș","id":"ASA_Târgu_Mureș_(1962)","win":13,"draw":3,"loss":18,"for":49,"against":66,"isReturning":true},
 	{"country":"rou","name":"SC Bacău","id":"FCM_Bacău","win":10,"draw":9,"loss":15,"for":37,"against":54},
-	{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":10,"draw":9,"loss":15,"for":36,"against":58},
+	{"country":"rou","name":"Rapid București","id":"fc_rapid_bucuresti","win":10,"draw":9,"loss":15,"for":36,"against":58},
 	{"country":"rou","name":"Sportul Studenţesc București","id":"FC_Sportul_Studențesc_București","win":10,"draw":8,"loss":16,"for":43,"against":50},
 	{"country":"rou","name":"Olt Scornicești","id":"FC_Olt_Scornicești","win":12,"draw":4,"loss":18,"for":38,"against":63},
 	{"country":"rou","name":"Politehnica Timișoara","id":"FC_Politehnica_Timișoara","win":10,"draw":6,"loss":18,"for":35,"against":53,"isRemoved":true,"isReturning":true},

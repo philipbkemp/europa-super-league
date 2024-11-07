@@ -133,7 +133,7 @@
 	{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":10,"draw":5,"loss":6,"for":37,"against":29},
 	{"country":"rou","name":"Flamura Roșie Arad","id":"FC_UTA_Arad","win":9,"draw":6,"loss":6,"for":31,"against":24},
 	{"country":"rou","name":"Dinamo Orașul Stalin","id":"Unirea_Tricolor_București","win":7,"draw":9,"loss":5,"for":35,"against":27},
-	{"country":"rou","name":"Locomotiva București","id":"FC_Rapid_București","win":5,"draw":11,"loss":5,"for":23,"against":22,"isReturning":true},
+	{"country":"rou","name":"Locomotiva București","id":"fc_rapid_bucuresti","win":5,"draw":11,"loss":5,"for":23,"against":22,"isReturning":true},
 	{"country":"rou","name":"Știința Timișoara","id":"FC_Politehnica_Timișoara","win":6,"draw":8,"loss":7,"for":19,"against":22,"isReturning":true},
 	{"country":"rou","name":"Locomotiva Târgu Mureş","id":"CS_Târgu_Mureș","win":7,"draw":4,"loss":10,"for":28,"against":35},
 	{"country":"rou","name":"Știința Cluj","id":"FC_Universitatea_Cluj","win":7,"draw":4,"loss":10,"for":24,"against":31},

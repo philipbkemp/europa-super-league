@@ -168,7 +168,7 @@
 	{"country":"rou","name":"Argeș Pitești","id":"FC_Argeș_Pitești","win":13,"draw":8,"loss":13,"for":49,"against":42},
 	{"country":"rou","name":"Brașov","id":"FC_Brașov_(1936)","win":14,"draw":6,"loss":14,"for":47,"against":45},
 	{"country":"rou","name":"Farul Constanța","id":"FCV_Farul_Constanța","win":12,"draw":10,"loss":12,"for":40,"against":40},
-	{"country":"rou","name":"Rapid București","id":"FC_Rapid_București","win":13,"draw":6,"loss":15,"for":44,"against":45,"isReturning":true},
+	{"country":"rou","name":"Rapid București","id":"fc_rapid_bucuresti","win":13,"draw":6,"loss":15,"for":44,"against":45,"isReturning":true},
 	{"country":"rou","name":"Sportul Studenţesc București","id":"FC_Sportul_Studențesc_București","win":10,"draw":12,"loss":12,"for":45,"against":53},
 	{"country":"rou","name":"Dacia Unirea Brăila","id":"AFC_Dacia_Unirea_Brăila","win":13,"draw":5,"loss":16,"for":33,"against":49,"isReturning":true},
 	{"country":"rou","name":"Corvinul Hunedoara","id":"CS_Corvinul_Hunedoara","win":15,"draw":2,"loss":17,"for":47,"against":62,"deduct":-2},
