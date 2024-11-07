@@ -240,7 +240,7 @@
 	{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":5,"draw":3,"loss":6,"for":15,"against":25},
 	{"country":"est","name":"TVMK","id":"FC_TVMK","win":3,"draw":4,"loss":7,"for":15,"against":27},
 	{"country":"est","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":2,"draw":0,"loss":12,"for":10,"against":44},
-	{"country":"est","name":"Lelle","id":"Pärnu_JK_Tervis","win":0,"draw":3,"loss":11,"for":10,"against":39,"isRemoved":true},
+	{"country":"est","name":"Lelle","id":"Pärnu_JK_Tervis","win":0,"draw":3,"loss":11,"for":10,"against":39},
 	{"country":"lva","name":"Skonto","id":"skonto_fc","win":21,"draw":4,"loss":3,"for":98,"against":27,"isChampion":true},
 	{"country":"lva","name":"Liepājas Metalurgs","id":"fk_liepajas_metalurgs","win":17,"draw":6,"loss":5,"for":62,"against":25},
 	{"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":16,"draw":6,"loss":6,"for":56,"against":23},
