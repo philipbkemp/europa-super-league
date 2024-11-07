@@ -486,7 +486,7 @@
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":7,"draw":6,"loss":5,"for":32,"against":21},
 	{"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":5,"draw":4,"loss":9,"for":31,"against":33},
 	{"country":"arm","name":"Karabakh Yerevan","id":"Lernayin_Artsakh_FC","win":5,"draw":3,"loss":10,"for":13,"against":28},
-	{"country":"arm","name":"Dvin Artashat","id":"FC_Dvin_Artashat","win":1,"draw":4,"loss":13,"for":16,"against":52,"isRemoved":true,"isNew":true},
+	{"country":"arm","name":"Dvin Artashat","id":"FC_Dvin_Artashat","win":1,"draw":4,"loss":13,"for":16,"against":52,"isNew":true},
 	{"country":"arm","name":"Lori Vanadzor","id":"Lori_FC","win":0,"draw":1,"loss":17,"for":7,"against":76,"isRemoved":true,"isReturning":true},
 	{"country":"arm","name":"Van Yerevan","id":"FC_Van_Yerevan","win":null,"draw":null,"loss":null,"for":null,"against":null,"isRemoved":true,"removedNote":"Withdrew after bankruptcy"},
 	{"country":"aze","name":"Kapaz","id":"Kapaz_PFK","win":22,"draw":4,"loss":0,"for":67,"against":10,"isChampion":true},
