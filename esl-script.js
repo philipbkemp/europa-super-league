@@ -184,7 +184,7 @@ if ( $("h1 .placeholder").length !== 0 ) {
 		position = tbody.find("tr").length +1;
 
 		teamRow = $("<TR></TR>").attr("id",team.id);
-		keys.splice(keys.indexOf("id"),1);
+		keys = keys.filter(k=>{return k !== "id"; });
 
 		rPos = $("<TD></TD>").html(position);
 		teamRow.append(rPos);
@@ -194,34 +194,34 @@ if ( $("h1 .placeholder").length !== 0 ) {
 				$("<IMG />").attr("src","../../flags/"+team.country.toUpperCase()+".png").attr("alt",countries[team.country]).attr("data-bs-toggle","tooltip").attr("data-bs-title",countries[team.country])
 			);
 			teamRow.append(rFlag);
-			keys.splice(keys.indexOf("country"),1);
+			keys = keys.filter(k=>{return k !== "country"; });
 		} else {
 			teamRow.append("<TD>"+team.country+"</TD>");
 			console.error("deal with country / " + team.country);
 		}
 
 		rName = $("<TH></TH>").attr("scope","row").html(team.name);
-		keys.splice(keys.indexOf("name"),1);
+		keys = keys.filter(k=>{return k !== "name"; });
 
 		if ( typeof(team.isNew) !== "undefined" ) {
 			rName.append(
 				$("<IMG />").attr("src","../../icons/new.png").attr("alt","New club").attr("data-bs-toggle","tooltip").attr("data-bs-title","New club")
 			);
-			keys.splice(keys.indexOf("isNew"),1);
+			keys = keys.filter(k=>{return k !== "isNew"; });
 		}
 
 		if ( typeof(team.isReturning) !== "undefined" ) {
 			rName.append(
 				$("<IMG />").attr("src","../../icons/returning.png").attr("alt","Returning club").attr("data-bs-toggle","tooltip").attr("data-bs-title","Returning club")
 			);
-			keys.splice(keys.indexOf("isReturning"),1);
+			keys = keys.filter(k=>{return k !== "isReturning"; });
 		}
 
 		if ( typeof(team.note) !== "undefined" ) {
 			rName.append(
 				$("<IMG />").attr("src","../../icons/note.png").attr("alt","Note: "+team.note).attr("data-bs-toggle","tooltip").attr("data-bs-title","Note: "+team.note)
 			);
-			keys.splice(keys.indexOf("note"),1);
+			keys = keys.filter(k=>{return k !== "note"; });
 		}
 
 		if ( typeof(team.isChampion) !== "undefined" ) {
@@ -229,36 +229,36 @@ if ( $("h1 .placeholder").length !== 0 ) {
 			championNote = "Domestic Champion";
 			if ( typeof(team.championNote) !== "undefined" ) {
 				championNote = team.championNote;
-				keys.splice(keys.indexOf("championNote"),1);
+				keys = keys.filter(k=>{return k !== "championNote"; });
 			}
 			rName.append(
 				$("<IMG />").attr("src","../../icons/trophy.png").attr("alt",championNote).attr("data-bs-toggle","tooltip").attr("data-bs-title",championNote)
 			);
-			keys.splice(keys.indexOf("isChampion"),1);
+			keys = keys.filter(k=>{return k !== "isChampion"; });
 		}
 
 		if ( typeof(team.deduct) !== "undefined" ) {
 			deduct = "Deducted " + Math.abs(team.deduct) + " point" + (Math.abs(team.deduct) !== 1 ? "s" : "");
 			if ( typeof(team.deductReason) !== "undefined" ) {
 				deduct += "<br />" + team.deductReason;
-				keys.splice(keys.indexOf("deductReason"),1);
+				keys = keys.filter(k=>{return k !== "deductReason"; });
 			}
 			rName.append(
 				$("<IMG />").attr("src","../../icons/deduction.png").attr("alt",deduct).attr("data-bs-toggle","tooltip").attr("data-bs-title",deduct)
 			);
-			keys.splice(keys.indexOf("deduct"),1);
+			keys = keys.filter(k=>{return k !== "deduct"; });
 		}
 
 		if ( typeof(team.bonusPoints) !== "undefined" ) {
 			bonusPoints = "Awarded " + Math.abs(team.bonusPoints) + " bonus point" + (Math.abs(team.bonusPoints) !== 1 ? "s" : "");
 			if ( typeof(team.bonusPointsReason) !== "undefined" ) {
 				bonusPoints += "<br />" + team.bonusPointsReason;
-				keys.splice(keys.indexOf("bonusPointsReason"),1);
+				keys = keys.filter(k=>{return k !== "bonusPointsReason"; });
 			}
 			rName.append(
 				$("<IMG />").attr("src","../../icons/bonus.png").attr("alt",bonusPoints).attr("data-bs-toggle","tooltip").attr("data-bs-title",bonusPoints)
 			);
-			keys.splice(keys.indexOf("bonusPoints"),1);
+			keys = keys.filter(k=>{return k !== "bonusPoints"; });
 		}
 
 		if ( typeof(team.isRemoved) !== "undefined" ) {
@@ -266,29 +266,29 @@ if ( $("h1 .placeholder").length !== 0 ) {
 			removed = "Relegated from top flight";
 			if ( typeof(team.removedNote) !== "undefined" ) {
 				removed = team.removedNote;
-				keys.splice(keys.indexOf("removedNote"),1);
+				keys = keys.filter(k=>{return k !== "removedNote"; });
 			}
 			if ( typeof(team.removedReason) !== "undefined" ) {
 				removed = team.removedReason;
-				keys.splice(keys.indexOf("removedReason"),1);
+				keys = keys.filter(k=>{return k !== "removedReason"; });
 			}
 			rName.append(
 				$("<IMG />").attr("src","../../icons/removed.png").attr("alt",removed).attr("data-bs-toggle","tooltip").attr("data-bs-title",removed)
 			);
-			keys.splice(keys.indexOf("isRemoved"),1);
+			keys = keys.filter(k=>{return k !== "isRemoved"; });
 		}
 
 		teamRow.append(rName);
 
 		["played","win","draw","loss","for","against","points","goalDifference","forPerGame","againstPerGame","winPercentage","goalDiffPerGame","pointsPerGame"].forEach(col=>{
 			teamRow.append( $("<TD></TD>").html(team[col]) );
-			keys.splice(keys.indexOf(col),1);
+			keys = keys.filter(k=>{return k !== col; });
 		});
 
 		tbody.append(teamRow);
 
-		keys.splice(keys.indexOf("penWin"),1);
-		keys.splice(keys.indexOf("penLoss"),1);
+		keys = keys.filter(k=>{return k !== "penWin"; });
+		keys = keys.filter(k=>{return k !== "penLoss"; });
 
 		if ( keys.length !== 0 ) {
 			console.error("deal with " + keys);
