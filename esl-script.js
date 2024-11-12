@@ -47,6 +47,7 @@ const countries = {
 	"pse": "Palestine",
 	"rou": "Romania",
 	"rus": "Russia",
+	"sam": "Serbia and Montegro",
 	"sco": "Scotland",
 	"smr": "San Marino",
 	"sov": "Soviet Union",
