@@ -226,7 +226,7 @@
 {"country":"esp","name":"Las Palmas","id":"UD_Las_Palmas","win":0,"draw":2,"loss":4,"for":7,"against":12,"isCurrentSeason":true},
 {"country":"est","name":"FCI Levadia","id":"FCI_Levadia_Tallinn","win":22,"draw":4,"loss":2,"for":64,"against":13,"isCurrentSeason":true},
 {"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":17,"draw":7,"loss":4,"for":64,"against":30,"isCurrentSeason":true},
-{"country":"est","name":"Flora","id":"FC_Flora","win":16,"draw":7,"loss":5,"for":48,"against":31,"isCurrentSeason":true},
+{"country":"est","name":"Flora","id":"fc_flora","win":16,"draw":7,"loss":5,"for":48,"against":31,"isCurrentSeason":true},
 {"country":"est","name":"Paide Linnameeskond","id":"Paide_Linnameeskond","win":17,"draw":2,"loss":9,"for":56,"against":34,"isCurrentSeason":true},
 {"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":8,"draw":8,"loss":13,"for":36,"against":40,"isCurrentSeason":true},
 {"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":8,"draw":8,"loss":11,"for":38,"against":48,"isCurrentSeason":true},

@@ -241,7 +241,7 @@
 {"country":"est","name":"Narva Baltika","id":"Narva_Baltika","win":7,"draw":2,"loss":13,"for":32,"against":59,"isReturning":true,"isRemoved":true},
 {"country":"est","name":"Tallinna Tempo","id":"Tallinna_JK_Tempo","win":7,"draw":2,"loss":13,"for":30,"against":44},
 {"country":"est","name":"Narva Autobaas","id":"JK_Narva_Trans","win":5,"draw":1,"loss":16,"for":31,"against":48,"isRemoved":true,"isReturning":true},
-{"country":"est","name":"Eesti Tööstus/Flora","id":"FC_Flora","win":4,"draw":3,"loss":15,"for":22,"against":62},
+{"country":"est","name":"Eesti Tööstus/Flora","id":"fc_flora","win":4,"draw":3,"loss":15,"for":22,"against":62},
 {"country":"lva","name":"RAF","id":"RAF_Jelgava","win":22,"draw":7,"loss":2,"for":72,"against":26,"isChampion":true,"isRemoved":true},
 {"country":"lva","name":"Torpedo Rīga","id":"Torpedo_Rīga","win":19,"draw":7,"loss":5,"for":70,"against":26,"isRemoved":true},
 {"country":"lva","name":"Celtnieks Daugavpils","id":"Dinaburg_FC","win":18,"draw":7,"loss":6,"for":72,"against":23},

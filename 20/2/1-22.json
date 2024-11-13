@@ -257,7 +257,7 @@
 {"country":"pol","name":"Górnik Łęczna","id":"GKS_Górnik_Łęczna","win":6,"draw":10,"loss":18,"for":29,"against":60,"isRemoved":true,"isReturning":true}
 ][
 {"country":"est","name":"FCI Levadia","id":"FCI_Levadia_Tallinn","win":25,"draw":3,"loss":4,"for":84,"against":38,"isChampion":true},
-{"country":"est","name":"Flora","id":"FC_Flora","win":23,"draw":8,"loss":1,"for":90,"against":23},
+{"country":"est","name":"Flora","id":"fc_flora","win":23,"draw":8,"loss":1,"for":90,"against":23},
 {"country":"est","name":"Paide Linnameeskond","id":"Paide_Linnameeskond","win":18,"draw":8,"loss":6,"for":66,"against":35},
 {"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":13,"draw":6,"loss":13,"for":57,"against":44},
 {"country":"est","name":"Legion","id":"Tallinna_JK_Legion","win":11,"draw":7,"loss":14,"for":49,"against":48},

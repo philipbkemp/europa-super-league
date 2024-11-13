@@ -230,7 +230,7 @@
 	{"country":"pol","name":"Orlen Płock","id":"Wisła_Płock","win":9,"draw":4,"loss":17,"for":37,"against":55,"isRemoved":true,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
 	{"country":"pol","name":"Ruch Radzionków","id":"Ruch_Radzionków","win":9,"draw":4,"loss":17,"for":29,"against":51,"isRemoved":true,"isRemoved":true,"removedNote":"League contested as a grouped format next season"},
 	{"country":"est","name":"Levadia","id":"FCI_Levadia_Tallinn","win":23,"draw":5,"loss":0,"for":88,"against":20,"isChampion":true},
-	{"country":"est","name":"Flora","id":"FC_Flora","win":16,"draw":7,"loss":5,"for":51,"against":25},
+	{"country":"est","name":"Flora","id":"fc_flora","win":16,"draw":7,"loss":5,"for":51,"against":25},
 	{"country":"est","name":"TVMK","id":"FC_TVMK","win":14,"draw":6,"loss":8,"for":54,"against":29},
 	{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":12,"draw":9,"loss":7,"for":45,"against":34},
 	{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":12,"draw":7,"loss":9,"for":64,"against":40},

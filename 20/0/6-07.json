@@ -254,7 +254,7 @@
 ][
 {"country":"est","name":"Levadia","id":"FCI_Levadia_Tallinn","win":30,"draw":4,"loss":2,"for":114,"against":29,"isChampion":true},
 {"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":25,"draw":8,"loss":3,"for":106,"against":36},
-{"country":"est","name":"Flora","id":"FC_Flora","win":26,"draw":4,"loss":6,"for":93,"against":34},
+{"country":"est","name":"Flora","id":"fc_flora","win":26,"draw":4,"loss":6,"for":93,"against":34},
 {"country":"est","name":"TVMK","id":"FC_TVMK","win":22,"draw":6,"loss":8,"for":83,"against":37},
 {"country":"est","name":"Maag","id":"Tartu_JK_Merkuur","win":13,"draw":9,"loss":14,"for":65,"against":68,"isReturning":true},
 {"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":12,"draw":7,"loss":17,"for":45,"against":57,"isRemoved":true},

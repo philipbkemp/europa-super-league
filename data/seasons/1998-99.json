@@ -233,7 +233,7 @@
 	{"country":"pol","name":"Odra Wodzisław","id":"Odra_Wodzisław_Śląski","win":8,"draw":8,"loss":14,"for":33,"against":41},
 	{"country":"pol","name":"GKS Bełchatów","id":"GKS_Bełchatów","win":7,"draw":7,"loss":16,"for":26,"against":48,"isRemoved":true,"isReturning":true},
 	{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":5,"draw":8,"loss":17,"for":25,"against":49,"isRemoved":true},
-	{"country":"est","name":"Flora","id":"FC_Flora","win":11,"draw":2,"loss":1,"for":46,"against":14,"isChampion":true},
+	{"country":"est","name":"Flora","id":"fc_flora","win":11,"draw":2,"loss":1,"for":46,"against":14,"isChampion":true},
 	{"country":"est","name":"Tallinna Sadam","id":"JK_Tallinna_Sadam","win":11,"draw":1,"loss":2,"for":48,"against":10,"isRemoved":true},
 	{"country":"est","name":"Lantana","id":"FC_Lantana_Tallinn","win":7,"draw":4,"loss":3,"for":27,"against":20},
 	{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":6,"draw":5,"loss":3,"for":28,"against":20},

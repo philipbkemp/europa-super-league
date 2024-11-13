@@ -254,7 +254,7 @@
 {"country":"pol","name":"Arka Gdynia","id":"Arka_Gdynia","win":6,"draw":10,"loss":14,"for":22,"against":43,"isRemoved":true},
 {"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":6,"draw":9,"loss":15,"for":29,"against":45,"isRemoved":true}
 ][
-{"country":"est","name":"Flora","id":"FC_Flora","win":29,"draw":4,"loss":3,"for":104,"against":32,"isChampion":true},
+{"country":"est","name":"Flora","id":"fc_flora","win":29,"draw":4,"loss":3,"for":104,"against":32,"isChampion":true},
 {"country":"est","name":"Levadia","id":"FCI_Levadia_Tallinn","win":26,"draw":8,"loss":2,"for":100,"against":16},
 {"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":23,"draw":7,"loss":6,"for":67,"against":31},
 {"country":"est","name":"Kalju","id":"Nõmme_Kalju_FC","win":18,"draw":8,"loss":10,"for":59,"against":42},

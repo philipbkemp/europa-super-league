@@ -31,7 +31,7 @@ switch ( page ) {
 	case "Football_Superleague_of_Kosovo": 						country = "kos";		tbl = "#League_table";			break;
 	case "Gibraltar_Football_League": 								country = "gib";		tbl = "#League_table";			console.warn("Season will break into playoffs");	break;
 	case "Kategoria_Superiore": 										country = "alb";		tbl = "#League_table";			console.warn("Season will break into playoffs");	break;
-	case "Kazakhstan_Premier_League": 							country = "kza";		tbl = "#League_table";			break;
+	case "Kazakhstan_Premier_League": 							country = "kaz";		tbl = "#League_table";			break;
 	case "Israeli_Premier_League": 									country = "isr";		tbl = "#Regular_season";		console.warn("Season will break into playoffs");	break;
 	case "La_Liga": 															country = "esp";	tbl = "#League_table";			break;
 	case "Latvian_Higher_League": 									country = "lva";		tbl = "#League_table";			break;

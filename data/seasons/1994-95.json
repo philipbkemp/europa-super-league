@@ -233,7 +233,7 @@
 	{"country":"pol","name":"Stal Stalowa Wola","id":"Stal_Stalowa_Wola","win":10,"draw":9,"loss":15,"for":34,"against":47,"isRemoved":true},
 	{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":7,"draw":15,"loss":12,"for":39,"against":46,"isRemoved":true},
 	{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":7,"draw":5,"loss":22,"for":35,"against":75,"isRemoved":true},
-	{"country":"est","name":"Flora","id":"FC_Flora","win":17,"draw":7,"loss":0,"for":59,"against":10,"isChampion":true},
+	{"country":"est","name":"Flora","id":"fc_flora","win":17,"draw":7,"loss":0,"for":59,"against":10,"isChampion":true},
 	{"country":"est","name":"Lantana-Marlekor","id":"FC_Lantana_Tallinn","win":17,"draw":5,"loss":2,"for":70,"against":16},
 	{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":11,"draw":6,"loss":7,"for":32,"against":24},
 	{"country":"est","name":"Tallinna Sadam","id":"JK_Tallinna_Sadam","win":11,"draw":4,"loss":9,"for":40,"against":25},

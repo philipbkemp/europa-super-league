@@ -235,7 +235,7 @@
 	{"country":"pol","name":"Groclin Grodzisk","id":"Dyskobolia_Grodzisk_Wielkopolski","win":8,"draw":5,"loss":21,"for":30,"against":55,"isRemoved":true,"isNew":true},
 	{"country":"pol","name":"KSZO Ostrowiec Świętokrzyski","id":"KSZO_Ostrowiec_Świętokrzyski","win":6,"draw":6,"loss":22,"for":24,"against":47,"isRemoved":true,"isNew":true},
 	{"country":"pol","name":"Raków Częstochowa","id":"Raków_Częstochowa","win":4,"draw":5,"loss":25,"for":21,"against":68,"isRemoved":true},
-	{"country":"est","name":"Flora","id":"FC_Flora","win":19,"draw":3,"loss":2,"for":73,"against":16,"isChampion":true},
+	{"country":"est","name":"Flora","id":"fc_flora","win":19,"draw":3,"loss":2,"for":73,"against":16,"isChampion":true},
 	{"country":"est","name":"Tallinna Sadam","id":"JK_Tallinna_Sadam","win":14,"draw":5,"loss":5,"for":68,"against":37},
 	{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":8,"draw":5,"loss":11,"for":32,"against":35,"isReturning":true},
 	{"country":"est","name":"Lantana","id":"FC_Lantana_Tallinn","win":9,"draw":7,"loss":8,"for":33,"against":26},

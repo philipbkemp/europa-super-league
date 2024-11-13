@@ -258,7 +258,7 @@
 {"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":8,"draw":6,"loss":20,"for":28,"against":56,"isRemoved":true},
 {"country":"pol","name":"Miedź Legnica","id":"Miedź_Legnica","win":4,"draw":11,"loss":19,"for":33,"against":55,"isRemoved":true,"isReturning":true}
 ][
-{"country":"est","name":"Flora","id":"FC_Flora","win":31,"draw":4,"loss":1,"for":94,"against":21,"isChampion":true},
+{"country":"est","name":"Flora","id":"fc_flora","win":31,"draw":4,"loss":1,"for":94,"against":21,"isChampion":true},
 {"country":"est","name":"FCI Levadia","id":"FCI_Levadia_Tallinn","win":24,"draw":7,"loss":5,"for":74,"against":25},
 {"country":"est","name":"Paide Linnameeskond","id":"Paide_Linnameeskond","win":19,"draw":8,"loss":9,"for":84,"against":37},
 {"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":19,"draw":8,"loss":9,"for":59,"against":30},

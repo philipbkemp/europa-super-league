@@ -258,7 +258,7 @@
 {"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":6,"draw":14,"loss":14,"for":40,"against":55,"isRemoved":true,"isReturning":true},
 {"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":6,"draw":6,"loss":22,"for":34,"against":75,"isRemoved":true,"isReturning":true}
 ][
-{"country":"est","name":"Flora","id":"FC_Flora","win":23,"draw":10,"loss":3,"for":74,"against":24,"isChampion":true},
+{"country":"est","name":"Flora","id":"fc_flora","win":23,"draw":10,"loss":3,"for":74,"against":24,"isChampion":true},
 {"country":"est","name":"FCI Levadia","id":"FCI_Levadia_Tallinn","win":22,"draw":11,"loss":3,"for":67,"against":24},
 {"country":"est","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":14,"draw":11,"loss":11,"for":49,"against":41},
 {"country":"est","name":"Paide Linnameeskond","id":"Paide_Linnameeskond","win":13,"draw":14,"loss":9,"for":50,"against":34},
