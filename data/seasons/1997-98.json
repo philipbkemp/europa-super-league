@@ -696,7 +696,7 @@
 	{"country":"and","name":"Engolasters","id":"FC_Engolasters","win":7,"draw":3,"loss":10,"for":30,"against":45,"isNew":true},
 	{"country":"and","name":"Benito","id":"CE_Benito","win":7,"draw":2,"loss":11,"for":30,"against":52,"isNew":true},
 	{"country":"and","name":"La Massana","id":"Deportivo_La_Massana","win":6,"draw":4,"loss":10,"for":24,"against":39},
-	{"country":"and","name":"Sant Julià","id":"UE_Sant_Julià","win":6,"draw":2,"loss":12,"for":35,"against":54},
+	{"country":"and","name":"Sant Julià","id":"ue_sant_julia","win":6,"draw":2,"loss":12,"for":35,"against":54},
 	{"country":"and","name":"Veterans Andorra","id":"FC_Andorra","win":3,"draw":3,"loss":14,"for":20,"against":70,"isRemoved":true},
 	{"country":"and","name":"Gimnàstic Valira","id":"Gimnàstic_Valira","win":2,"draw":0,"loss":18,"for":27,"against":84}
 ]
