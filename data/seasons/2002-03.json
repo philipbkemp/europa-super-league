@@ -227,7 +227,7 @@
 	{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":2,"draw":3,"loss":25,"for":14,"against":77,"isRemoved":true,"isReturning":true},
 	{"country":"est","name":"Flora","id":"fc_flora","win":20,"draw":4,"loss":4,"for":79,"against":25,"isChampion":true},
 	{"country":"est","name":"Maardu Levadia","id":"FCI_Levadia_Tallinn","win":18,"draw":8,"loss":2,"for":70,"against":25},
-	{"country":"est","name":"TVMK","id":"FC_TVMK","win":16,"draw":5,"loss":7,"for":90,"against":35},
+	{"country":"est","name":"TVMK","id":"fc_tvmk","win":16,"draw":5,"loss":7,"for":90,"against":35},
 	{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":14,"draw":5,"loss":9,"for":54,"against":49},
 	{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":10,"draw":6,"loss":12,"for":51,"against":52},
 	{"country":"est","name":"Tallinna Levadia","id":"FCI_Levadia_U21","win":6,"draw":5,"loss":17,"for":32,"against":70},

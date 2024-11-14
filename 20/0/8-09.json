@@ -265,7 +265,7 @@
 {"country":"est","name":"Maag Tammeka","id":"Tartu_JK_Tammeka","win":9,"draw":4,"loss":23,"for":45,"against":76},
 {"country":"est","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":6,"draw":8,"loss":22,"for":37,"against":70},
 {"country":"est","name":"Vaprus","id":"Pärnu_JK_Vaprus","win":5,"draw":2,"loss":29,"for":41,"against":125,"isRemoved":true},
-{"country":"est","name":"TVMK","id":"FC_TVMK","win":20,"draw":6,"loss":10,"for":91,"against":47,"isRemoved":true,"removedNote":"Disbanded after being denied a license"}
+{"country":"est","name":"TVMK","id":"fc_tvmk","win":20,"draw":6,"loss":10,"for":91,"against":47,"isRemoved":true,"removedNote":"Disbanded after being denied a license"}
 ][
 {"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":19,"draw":6,"loss":3,"for":53,"against":14,"isChampion":true},
 {"country":"lva","name":"Skonto","id":"skonto_fc","win":15,"draw":7,"loss":6,"for":43,"against":31},

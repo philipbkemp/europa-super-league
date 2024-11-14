@@ -231,7 +231,7 @@
 {"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":4,"draw":12,"loss":11,"for":22,"against":39,"winByThree":0,"lossByThree":3,"isRemoved":true},
 {"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":3,"draw":13,"loss":7,"for":19,"against":45,"winByThree":0,"lossByThree":6,"isRemoved":true},
 {"country":"est","name":"Zvezda","id":"Tallinna_FC_Zvezda","win":17,"draw":3,"loss":2,"for":57,"against":15,"isChampion":true,"isRemoved":true},
-{"country":"est","name":"TVMK","id":"FC_TVMK","win":16,"draw":3,"loss":3,"for":62,"against":20},
+{"country":"est","name":"TVMK","id":"fc_tvmk","win":16,"draw":3,"loss":3,"for":62,"against":20},
 {"country":"est","name":"Kalakombinaat/MEK","id":"Pärnu_Kalakombinaat/MEK","win":14,"draw":4,"loss":4,"for":51,"against":34,"isRemoved":true},
 {"country":"est","name":"Kohtla-Järve Keemik","id":"Kohtla-Järve_JK_Keemik","win":12,"draw":2,"loss":8,"for":47,"against":29},
 {"country":"est","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":10,"draw":4,"loss":8,"for":37,"against":30,"isRemoved":true},

@@ -226,7 +226,7 @@
 	{"country":"pol","name":"Zawisza Bydgoszcz","id":"Zawisza_Bydgoszcz","win":8,"draw":7,"loss":15,"for":27,"against":41},
 	{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":3,"draw":10,"loss":17,"for":25,"against":49},
 	{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":2,"draw":6,"loss":22,"for":21,"against":69},
-	{"country":"est","name":"TVMK","id":"FC_TVMK","win":16,"draw":5,"loss":1,"for":63,"against":19,"isChampion":true},
+	{"country":"est","name":"TVMK","id":"fc_tvmk","win":16,"draw":5,"loss":1,"for":63,"against":19,"isChampion":true},
 	{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":16,"draw":3,"loss":3,"for":68,"against":34},
 	{"country":"est","name":"Kohtla-Järve Keemik","id":"Kohtla-Järve_JK_Keemik","win":16,"draw":3,"loss":3,"for":49,"against":20,"isRemoved":true},
 	{"country":"est","name":"Estonia Jõhvi","id":"Estonia_Jõhvi","win":15,"draw":4,"loss":3,"for":57,"against":16,"isNew":true,"isRemoved":true},

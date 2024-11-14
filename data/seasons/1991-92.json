@@ -231,7 +231,7 @@
 	{"country":"pol","name":"Stal Stalowa Wola","id":"Stal_Stalowa_Wola","win":8,"draw":12,"loss":14,"for":23,"against":33,"isRemoved":true,"isReturning":true},
 	{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":6,"draw":12,"loss":16,"for":28,"against":50,"isRemoved":true},
 	{"country":"pol","name":"Igloopol Dębica","id":"Igloopol_Dębica","win":2,"draw":7,"loss":25,"for":15,"against":76,"isRemoved":true},
-	{"country":"est","name":"TVMK","id":"FC_TVMK","win":18,"draw":3,"loss":3,"for":73,"against":17,"isChampion":true,"championNote":"Due to reformation of Estonia, not counted as official champion"},
+	{"country":"est","name":"TVMK","id":"fc_tvmk","win":18,"draw":3,"loss":3,"for":73,"against":17,"isChampion":true,"championNote":"Due to reformation of Estonia, not counted as official champion"},
 	{"country":"est","name":"Norma","id":"fc_norma_tallinn","win":17,"draw":3,"loss":4,"for":73,"against":16},
 	{"country":"est","name":"Eesti Põlevkivi Jõhvi","id":"JK_Eesti_Põlevkivi_Jõhvi","win":16,"draw":5,"loss":3,"for":63,"against":24,"isReturning":true},
 	{"country":"est","name":"Eesti Fosforiit","id":"JK_Eesti_Fosforiit","win":17,"draw":3,"loss":4,"for":77,"against":25,"isNew":true,"isRemoved":true,"removedNote":"League reformatted next season ready for following season's restart as Estonia"},
