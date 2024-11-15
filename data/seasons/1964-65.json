@@ -283,7 +283,7 @@
 	{"country":"yug","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":13,"draw":7,"loss":8,"for":39,"against":30},
 	{"country":"yug","name":"NK Zagreb","id":"Borac_Zagreb","win":12,"draw":5,"loss":11,"for":47,"against":42,"isReturning":true},
 	{"country":"yug","name":"Radnički Niš","id":"FK_Radnički_Niš","win":9,"draw":10,"loss":9,"for":39,"against":33},
-	{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":11,"draw":4,"loss":13,"for":35,"against":34},
+	{"country":"yug","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":11,"draw":4,"loss":13,"for":35,"against":34},
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":8,"draw":10,"loss":10,"for":32,"against":37},
 	{"country":"yug","name":"OFK Belgrade","id":"ofk_beograd","win":9,"draw":6,"loss":13,"for":35,"against":40},
 	{"country":"yug","name":"Vardar","id":"FK_Vardar","win":6,"draw":11,"loss":11,"for":23,"against":33},

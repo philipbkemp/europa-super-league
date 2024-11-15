@@ -553,7 +553,7 @@
 {"country":"blr","name":"Smorgon","id":"FC_Smorgon","win":4,"draw":9,"loss":17,"for":26,"against":66,"isRemoved":true,"isReturning":true},
 {"country":"blr","name":"Sputnik Rechitsa","id":"FC_Sputnik_Rechitsa","win":2,"draw":1,"loss":27,"for":12,"against":82,"isRemoved":true,"removedNote":"Withdrew","isNew":true}
 ][
-{"country":"hrv","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":24,"draw":7,"loss":5,"for":68,"against":22,"isChampion":true},
+{"country":"hrv","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":24,"draw":7,"loss":5,"for":68,"against":22,"isChampion":true},
 {"country":"hrv","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":21,"draw":9,"loss":6,"for":64,"against":31},
 {"country":"hrv","name":"Osijek","id":"NK_Osijek","win":19,"draw":12,"loss":5,"for":49,"against":29},
 {"country":"hrv","name":"Rijeka","id":"HNK_Rijeka","win":20,"draw":5,"loss":11,"for":71,"against":51},

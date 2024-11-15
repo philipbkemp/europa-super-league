@@ -313,7 +313,7 @@
 	{"country":"ltu","name":"Dainava Alytus","id":"DFK_Dainava","win":7,"draw":7,"loss":20,"for":21,"against":55,"isRemoved":true},
 	{"country":"ltu","name":"Utenis Utena","id":"FK_Utenis_Utena","win":7,"draw":4,"loss":23,"for":25,"against":42,"isRemoved":true},
 	{"country":"ltu","name":"Sveikata Kybartai","id":"Sveikata_Kybartai","win":3,"draw":6,"loss":25,"for":30,"against":86,"isReturning":true,"isRemoved":true},
-	{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":20,"draw":9,"loss":5,"for":67,"against":32,"isChampion":true},
+	{"country":"yug","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":20,"draw":9,"loss":5,"for":67,"against":32,"isChampion":true},
 	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":17,"draw":10,"loss":7,"for":68,"against":40},
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":17,"draw":10,"loss":7,"for":53,"against":31},
 	{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":16,"draw":7,"loss":11,"for":57,"against":54},

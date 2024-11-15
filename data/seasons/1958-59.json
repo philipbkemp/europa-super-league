@@ -267,7 +267,7 @@
 	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":14,"draw":3,"loss":5,"for":39,"against":29},
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":13,"draw":4,"loss":5,"for":47,"against":22},
 	{"country":"yug","name":"Radnički Beograd","id":"FK_Radnički_Beograd","win":9,"draw":4,"loss":9,"for":35,"against":27},
-	{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":9,"draw":4,"loss":9,"for":35,"against":28},
+	{"country":"yug","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":9,"draw":4,"loss":9,"for":35,"against":28},
 	{"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":10,"draw":2,"loss":10,"for":35,"against":38},
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":7,"draw":7,"loss":8,"for":33,"against":35},
 	{"country":"yug","name":"Rijeka","id":"HNK_Rijeka","win":8,"draw":4,"loss":10,"for":29,"against":44,"isReturning":true},

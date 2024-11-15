@@ -528,7 +528,7 @@
 	{"country":"blr","name":"Molodechno","id":"FC_Molodechno","win":4,"draw":4,"loss":20,"for":21,"against":51},
 	{"country":"blr","name":"Kommunalnik Slonim","id":"FC_Kommunalnik_Slonim","win":3,"draw":5,"loss":20,"for":14,"against":63,"isRemoved":true},
 	{"country":"blr","name":"Dinamo-93 Minsk","id":"FC_Dinamo-93_Minsk","win":4,"draw":6,"loss":5,"for":19,"against":23,"isRemoved":true,"removedNote":"Dissolved mid-season and classified last"},
-	{"country":"hrv","name":"Croatia Zagreb","id":"GNK_Dinamo_Zagreb","win":22,"draw":5,"loss":5,"for":55,"against":20,"isChampion":true},
+	{"country":"hrv","name":"Croatia Zagreb","id":"gnk_dinamo_zagreb","win":22,"draw":5,"loss":5,"for":55,"against":20,"isChampion":true},
 	{"country":"hrv","name":"Rijeka","id":"HNK_Rijeka","win":22,"draw":4,"loss":6,"for":53,"against":33},
 	{"country":"hrv","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":17,"draw":9,"loss":6,"for":62,"against":32},
 	{"country":"hrv","name":"Osijek","id":"NK_Osijek","win":14,"draw":6,"loss":12,"for":51,"against":39},

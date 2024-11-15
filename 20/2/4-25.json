@@ -311,7 +311,7 @@
 {"country":"grc","name":"Panserraikos","id":"Panserraikos_F.C.","win":0,"draw":1,"loss":4,"for":5,"against":12,"isCurrentSeason":true},
 {"country":"hrv","name":"Rijeka","id":"HNK_Rijeka","win":5,"draw":2,"loss":0,"for":15,"against":1,"isCurrentSeason":true},
 {"country":"hrv","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":5,"draw":2,"loss":0,"for":12,"against":5,"isCurrentSeason":true},
-{"country":"hrv","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":4,"draw":1,"loss":2,"for":14,"against":8,"isCurrentSeason":true},
+{"country":"hrv","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":4,"draw":1,"loss":2,"for":14,"against":8,"isCurrentSeason":true},
 {"country":"hrv","name":"Varaždin","id":"NK_Varaždin_(2012)","win":3,"draw":3,"loss":1,"for":5,"against":2,"isCurrentSeason":true},
 {"country":"hrv","name":"Šibenik","id":"HNK_Šibenik","win":3,"draw":1,"loss":3,"for":6,"against":9,"isReturning":true,"isCurrentSeason":true},
 {"country":"hrv","name":"Osijek","id":"NK_Osijek","win":2,"draw":1,"loss":4,"for":6,"against":9,"isCurrentSeason":true},

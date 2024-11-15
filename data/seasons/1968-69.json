@@ -299,7 +299,7 @@
 	{"country":"ltu","name":"Linu audiniai Plunge","id":"Linu_audiniai_Plunge","win":5,"draw":3,"loss":22,"for":30,"against":59,"isRemoved":true},
 	{"country":"ltu","name":"Autoparkas Kaunas","id":"Autoparkas_Kaunas","win":3,"draw":5,"loss":22,"for":21,"against":82,"isNew":true,"isRemoved":true},
 	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":18,"draw":12,"loss":4,"for":75,"against":30,"isChampion":true},
-	{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":20,"draw":5,"loss":9,"for":75,"against":33},
+	{"country":"yug","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":20,"draw":5,"loss":9,"for":75,"against":33},
 	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":13,"draw":14,"loss":7,"for":55,"against":40},
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":15,"draw":9,"loss":10,"for":42,"against":44},
 	{"country":"yug","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":15,"draw":8,"loss":11,"for":51,"against":38},

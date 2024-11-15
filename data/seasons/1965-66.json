@@ -288,7 +288,7 @@
 	{"country":"ltu","name":"Alytis Alytus","id":"DFK_Dainava","win":5,"draw":6,"loss":19,"for":32,"against":74,"isNew":true,"isRemoved":true},
 	{"country":"ltu","name":"Atletas Kaunas","id":"FK_Atletas_Kaunas","win":5,"draw":6,"loss":19,"for":25,"against":79},
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":17,"draw":9,"loss":4,"for":53,"against":28,"isChampion":true},
-	{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":13,"draw":9,"loss":8,"for":49,"against":35},
+	{"country":"yug","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":13,"draw":9,"loss":8,"for":49,"against":35},
 	{"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":14,"draw":7,"loss":9,"for":48,"against":37},
 	{"country":"yug","name":"Rijeka","id":"HNK_Rijeka","win":14,"draw":5,"loss":11,"for":46,"against":40},
 	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":12,"draw":7,"loss":11,"for":54,"against":54},

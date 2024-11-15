@@ -492,7 +492,7 @@
 	{"country":"blr","name":"Lokomotiv Minsk","id":"FC_SKVICh_Minsk","win":5,"draw":9,"loss":16,"for":16,"against":42,"isRemoved":true,"isNew":true},
 	{"country":"blr","name":"Molodechno-2000","id":"FC_Molodechno","win":3,"draw":7,"loss":20,"for":19,"against":52,"isRemoved":true},
 	{"country":"hrv","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":25,"draw":3,"loss":4,"for":63,"against":24,"isChampion":true},
-	{"country":"hrv","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":23,"draw":7,"loss":2,"for":77,"against":25},
+	{"country":"hrv","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":23,"draw":7,"loss":2,"for":77,"against":25},
 	{"country":"hrv","name":"Rijeka","id":"HNK_Rijeka","win":11,"draw":9,"loss":12,"for":36,"against":41},
 	{"country":"hrv","name":"Osijek","id":"NK_Osijek","win":11,"draw":6,"loss":15,"for":50,"against":57},
 	{"country":"hrv","name":"Varteks","id":"NK_Varaždin_(1931–2015)","win":9,"draw":11,"loss":12,"for":33,"against":42},

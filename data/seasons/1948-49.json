@@ -230,7 +230,7 @@
 	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":14,"draw":1,"loss":3,"for":39,"against":14,"isChampion":true},
 	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":11,"draw":4,"loss":3,"for":37,"against":19},
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":10,"draw":5,"loss":3,"for":41,"against":20},
-	{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":7,"draw":5,"loss":6,"for":29,"against":25},
+	{"country":"yug","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":7,"draw":5,"loss":6,"for":29,"against":25},
 	{"country":"yug","name":"Naša Krila","id":"FK_Naša_Krila_Zemun","win":6,"draw":4,"loss":8,"for":32,"against":28,"isNew":true},
 	{"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":6,"draw":4,"loss":8,"for":29,"against":36,"isReturning":true},
 	{"country":"yug","name":"Metalac Belgrade","id":"ofk_beograd","win":5,"draw":4,"loss":9,"for":31,"against":34},

@@ -504,7 +504,7 @@
 	{"country":"blr","name":"Neman Grodno","id":"FC_Neman_Grodno","win":7,"draw":3,"loss":16,"for":20,"against":50},
 	{"country":"blr","name":"Zvezda-BGU Minsk","id":"FC_Energetik-BGU_Minsk","win":3,"draw":5,"loss":18,"for":24,"against":60,"isRemoved":true},
 	{"country":"blr","name":"Slavia Mozyr","id":"FC_Slavia_Mozyr","win":2,"draw":5,"loss":19,"for":14,"against":60,"isRemoved":true},
-	{"country":"hrv","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":24,"draw":4,"loss":4,"for":78,"against":21,"isChampion":true},
+	{"country":"hrv","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":24,"draw":4,"loss":4,"for":78,"against":21,"isChampion":true},
 	{"country":"hrv","name":"Rijeka","id":"HNK_Rijeka","win":20,"draw":5,"loss":7,"for":61,"against":36},
 	{"country":"hrv","name":"Osijek","id":"NK_Osijek","win":13,"draw":5,"loss":14,"for":31,"against":48},
 	{"country":"hrv","name":"Varteks","id":"NK_Varaždin_(1931–2015)","win":15,"draw":2,"loss":15,"for":51,"against":48},

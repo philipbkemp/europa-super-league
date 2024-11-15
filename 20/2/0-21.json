@@ -555,7 +555,7 @@
 {"country":"blr","name":"Belshina Bobruisk","id":"FC_Belshina_Bobruisk","win":5,"draw":6,"loss":19,"for":34,"against":71,"isRemoved":true,"isReturning":true},
 {"country":"blr","name":"Smolevichi","id":"FC_Smolevichi","win":3,"draw":5,"loss":21,"for":27,"against":72,"isRemoved":true,"isReturning":true}
 ][
-{"country":"hrv","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":26,"draw":7,"loss":3,"for":84,"against":28,"isChampion":true},
+{"country":"hrv","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":26,"draw":7,"loss":3,"for":84,"against":28,"isChampion":true},
 {"country":"hrv","name":"Osijek","id":"NK_Osijek","win":23,"draw":8,"loss":5,"for":59,"against":25},
 {"country":"hrv","name":"Rijeka","id":"HNK_Rijeka","win":18,"draw":7,"loss":11,"for":51,"against":46},
 {"country":"hrv","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":18,"draw":6,"loss":12,"for":48,"against":37},

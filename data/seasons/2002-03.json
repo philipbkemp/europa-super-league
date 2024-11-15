@@ -477,7 +477,7 @@
 	{"country":"blr","name":"Zvezda-VA-BGU Minsk","id":"FC_Energetik-BGU_Minsk","win":4,"draw":6,"loss":16,"for":28,"against":48,"isNew":true},
 	{"country":"blr","name":"Molodechno-2000","id":"FC_Molodechno","win":3,"draw":3,"loss":20,"for":23,"against":59},
 	{"country":"blr","name":"Lokomotiv-96 Vitebsk","id":"FC_Vitebsk","win":3,"draw":0,"loss":23,"for":20,"against":77,"isRemoved":true},
-	{"country":"hrv","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":25,"draw":3,"loss":4,"for":76,"against":27,"isChampion":true},
+	{"country":"hrv","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":25,"draw":3,"loss":4,"for":76,"against":27,"isChampion":true},
 	{"country":"hrv","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":22,"draw":4,"loss":6,"for":56,"against":22},
 	{"country":"hrv","name":"Varteks","id":"NK_Varaždin_(1931–2015)","win":18,"draw":3,"loss":11,"for":52,"against":38},
 	{"country":"hrv","name":"Cibalia","id":"HNK_Cibalia","win":12,"draw":7,"loss":13,"for":39,"against":44},

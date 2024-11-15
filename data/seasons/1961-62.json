@@ -247,7 +247,7 @@
 	{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":1,"draw":3,"loss":18,"for":31,"against":87,"isRemoved":true},
 	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":13,"draw":5,"loss":4,"for":42,"against":22,"isChampion":true},
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":9,"draw":8,"loss":5,"for":30,"against":25},
-	{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":10,"draw":5,"loss":7,"for":36,"against":23},
+	{"country":"yug","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":10,"draw":5,"loss":7,"for":36,"against":23},
 	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":9,"draw":6,"loss":7,"for":35,"against":25},
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":8,"draw":8,"loss":6,"for":30,"against":30},
 	{"country":"yug","name":"OFK Belgrade","id":"ofk_beograd","win":7,"draw":8,"loss":7,"for":37,"against":28},

@@ -537,7 +537,7 @@
 	{"country":"blr","name":"Gomselmash Gomel","id":"FC_Gomel","win":6,"draw":6,"loss":18,"for":26,"against":59,"isRemoved":true},
 	{"country":"blr","name":"Lokomotiv Vitebsk","id":"FC_Lokomotiv_Vitebsk_(1986)","win":3,"draw":5,"loss":22,"for":14,"against":74,"isRemoved":true},
 	{"country":"hrv","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":19,"draw":8,"loss":3,"for":68,"against":26,"isChampion":true,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
-	{"country":"hrv","name":"Croatia Zagreb","id":"GNK_Dinamo_Zagreb","win":19,"draw":7,"loss":4,"for":53,"against":26,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
+	{"country":"hrv","name":"Croatia Zagreb","id":"gnk_dinamo_zagreb","win":19,"draw":7,"loss":4,"for":53,"against":26,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
 	{"country":"hrv","name":"Osijek","id":"NK_Osijek","win":16,"draw":11,"loss":3,"for":65,"against":30,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
 	{"country":"hrv","name":"NK Zagreb","id":"NK_Zagreb","win":14,"draw":11,"loss":5,"for":41,"against":26,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
 	{"country":"hrv","name":"Marsonia","id":"NK_Marsonia","win":13,"draw":8,"loss":9,"for":42,"against":32,"isNew":true,"isRemoved":true,"removedNote":"Next season the league is split into groups"},

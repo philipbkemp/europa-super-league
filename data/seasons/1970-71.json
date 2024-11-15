@@ -306,7 +306,7 @@
 	{"country":"ltu","name":"Suduva Kapsukas","id":"Suduva_Kapsukas","win":2,"draw":3,"loss":27,"for":14,"against":77,"isRemoved":true},
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":18,"draw":13,"loss":3,"for":61,"against":31,"isChampion":true},
 	{"country":"yug","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":18,"draw":9,"loss":7,"for":59,"against":34},
-	{"country":"yug","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":17,"draw":9,"loss":8,"for":55,"against":32},
+	{"country":"yug","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":17,"draw":9,"loss":8,"for":55,"against":32},
 	{"country":"yug","name":"OFK Belgrade","id":"ofk_beograd","win":15,"draw":8,"loss":11,"for":54,"against":44},
 	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":14,"draw":10,"loss":10,"for":44,"against":34},
 	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":14,"draw":8,"loss":12,"for":62,"against":46},

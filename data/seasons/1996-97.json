@@ -511,7 +511,7 @@
 	{"country":"blr","name":"Torpedo-Kadino Mogilev","id":"FC_Torpedo_Mogilev","win":7,"draw":6,"loss":17,"for":27,"against":64},
 	{"country":"blr","name":"Obuvshchik Lida","id":"FC_Lida","win":6,"draw":6,"loss":18,"for":26,"against":43,"isRemoved":true},
 	{"country":"blr","name":"Vedrich Rechitsa","id":"FC_Rechitsa-2014","win":4,"draw":3,"loss":23,"for":14,"against":57,"isRemoved":true},
-	{"country":"hrv","name":"Croatia Zagreb","id":"GNK_Dinamo_Zagreb","win":26,"draw":3,"loss":1,"for":90,"against":23,"isChampion":true,"isReturning":true},
+	{"country":"hrv","name":"Croatia Zagreb","id":"gnk_dinamo_zagreb","win":26,"draw":3,"loss":1,"for":90,"against":23,"isChampion":true,"isReturning":true},
 	{"country":"hrv","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":18,"draw":6,"loss":6,"for":53,"against":22,"isReturning":true},
 	{"country":"hrv","name":"Hrvatski Dragovoljac","id":"NK_Hrvatski_Dragovoljac","win":13,"draw":10,"loss":7,"for":51,"against":37,"isNew":true},
 	{"country":"hrv","name":"Rijeka","id":"HNK_Rijeka","win":13,"draw":7,"loss":10,"for":44,"against":32,"isReturning":true},

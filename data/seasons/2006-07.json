@@ -505,7 +505,7 @@
 	{"country":"blr","name":"Dnepr Mogilev","id":"FC_Dnepr_Mogilev","win":6,"draw":5,"loss":15,"for":29,"against":47},
 	{"country":"blr","name":"Lokomotiv Minsk","id":"FC_SKVICh_Minsk","win":5,"draw":4,"loss":17,"for":26,"against":52,"isRemoved":true},
 	{"country":"blr","name":"Belshina Bobruisk","id":"FC_Belshina_Bobruisk","win":1,"draw":6,"loss":19,"for":16,"against":46,"isRemoved":true,"isReturning":true},
-	{"country":"hrv","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":30,"draw":2,"loss":1,"for":84,"against":22,"isChampion":true},
+	{"country":"hrv","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":30,"draw":2,"loss":1,"for":84,"against":22,"isChampion":true},
 	{"country":"hrv","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":22,"draw":6,"loss":5,"for":60,"against":25},
 	{"country":"hrv","name":"NK Zagreb","id":"NK_Zagreb","win":18,"draw":4,"loss":11,"for":57,"against":40},
 	{"country":"hrv","name":"Šibenik","id":"HNK_Šibenik","win":14,"draw":7,"loss":12,"for":50,"against":47,"isReturning":true},

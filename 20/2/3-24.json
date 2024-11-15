@@ -560,7 +560,7 @@
 {"country":"blr","name":"Energetik-BGU Minsk","id":"FC_Energetik-BGU_Minsk","win":7,"draw":6,"loss":15,"for":25,"against":42,"isRemoved":true,"deduct":-23,"deductReason":"Match fixing"},
 {"country":"blr","name":"Belshina Bobruisk","id":"FC_Belshina_Bobruisk","win":3,"draw":5,"loss":20,"for":21,"against":61,"isRemoved":true,"deduct":-11,"deductReason":"Match fixing"}
 ][
-{"country":"hrv","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":25,"draw":7,"loss":4,"for":67,"against":30,"isChampion":true},
+{"country":"hrv","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":25,"draw":7,"loss":4,"for":67,"against":30,"isChampion":true},
 {"country":"hrv","name":"Rijeka","id":"HNK_Rijeka","win":23,"draw":5,"loss":8,"for":69,"against":30},
 {"country":"hrv","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":21,"draw":5,"loss":10,"for":54,"against":26},
 {"country":"hrv","name":"Osijek","id":"NK_Osijek","win":16,"draw":9,"loss":11,"for":62,"against":43},

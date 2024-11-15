@@ -508,7 +508,7 @@
 	{"country":"blr","name":"Lida","id":"FC_Lida","win":3,"draw":10,"loss":17,"for":16,"against":60,"isRemoved":true},
 	{"country":"blr","name":"Torpedo-Kadino Mogilev","id":"FC_Torpedo_Mogilev","win":5,"draw":2,"loss":23,"for":31,"against":71,"isRemoved":true},
 	{"country":"blr","name":"Kommunalnik Slonim","id":"FC_Kommunalnik_Slonim","win":3,"draw":8,"loss":19,"for":19,"against":66,"isRemoved":true,"isReturning":true},
-	{"country":"hrv","name":"Dinamo Zagreb","id":"GNK_Dinamo_Zagreb","win":19,"draw":8,"loss":5,"for":70,"against":36},
+	{"country":"hrv","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":19,"draw":8,"loss":5,"for":70,"against":36},
 	{"country":"hrv","name":"Osijek","id":"NK_Osijek","win":17,"draw":6,"loss":9,"for":61,"against":47},
 	{"country":"hrv","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":20,"draw":6,"loss":6,"for":66,"against":23,"isChampion":true},
 	{"country":"hrv","name":"NK Zagreb","id":"NK_Zagreb","win":11,"draw":5,"loss":16,"for":51,"against":58},
