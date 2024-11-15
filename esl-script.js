@@ -39,6 +39,7 @@ const countries = {
 	"mda": "Moldova",
 	"mkd": "North Macedonia",
 	"mlt": "Malta",
+	"mne": "Montenegro",
 	"nir": "Northern Ireland",
 	"nld": "Netherlands",
 	"nor": "Norway",
