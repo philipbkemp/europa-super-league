@@ -141,7 +141,7 @@
 	{"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":8,"draw":5,"loss":17,"for":23,"against":36,"isRemoved":true},
 	{"country":"grc","name":"Veria","id":"Veria_F.C.","win":5,"draw":8,"loss":17,"for":21,"against":44,"isRemoved":true,"isReturning":true},
 	{"country":"grc","name":"Apollon Kalamarias","id":"Apollon_Kalamarias_F.C.","win":5,"draw":8,"loss":17,"for":27,"against":57,"isRemoved":true,"deduct":-1,"deductReason":"Fielding an illegible player"},
-	{"country":"lux","name":"F91 Dudelange","id":"F91_Dudelange","win":23,"draw":2,"loss":1,"for":74,"against":12,"isChampion":true},
+	{"country":"lux","name":"F91 Dudelange","id":"f91_dudelange","win":23,"draw":2,"loss":1,"for":74,"against":12,"isChampion":true},
 	{"country":"lux","name":"Racing FC","id":"Racing_FC_Union_Luxembourg","win":14,"draw":8,"loss":4,"for":50,"against":28},
 	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":13,"draw":6,"loss":7,"for":51,"against":39},
 	{"country":"lux","name":"Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":13,"draw":5,"loss":8,"for":54,"against":48},

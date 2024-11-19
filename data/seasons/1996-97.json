@@ -151,7 +151,7 @@
 	{"country":"lux","name":"Sporting Mertzig","id":"FC_Sporting_Mertzig","win":8,"draw":8,"loss":6,"for":45,"against":39},
 	{"country":"lux","name":"Hobscheid","id":"CS_Hobscheid","win":7,"draw":5,"loss":10,"for":23,"against":42,"isNew":true},
 	{"country":"lux","name":"Spora Luxembourg","id":"CA_Spora_Luxembourg","win":6,"draw":5,"loss":11,"for":33,"against":40},
-	{"country":"lux","name":"F91 Dudelange","id":"F91_Dudelange","win":6,"draw":4,"loss":12,"for":27,"against":43},
+	{"country":"lux","name":"F91 Dudelange","id":"f91_dudelange","win":6,"draw":4,"loss":12,"for":27,"against":43},
 	{"country":"lux","name":"Rumelange","id":"US_Rumelange","win":5,"draw":3,"loss":14,"for":33,"against":59,"isReturning":true},
 	{"country":"lux","name":"Rodange 91","id":"FC_Rodange_91","win":4,"draw":4,"loss":14,"for":25,"against":42,"isRemoved":true},
 	{"country":"lux","name":"Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":2,"draw":5,"loss":15,"for":22,"against":55,"isRemoved":true},

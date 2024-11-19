@@ -141,7 +141,7 @@
 	{"country":"grc","name":"Kerkyra","id":"A.O._Kerkyra","win":8,"draw":11,"loss":11,"for":34,"against":36,"isRemoved":true,"isReturning":true},
 	{"country":"grc","name":"Egaleo","id":"Egaleo_F.C.","win":7,"draw":7,"loss":16,"for":27,"against":45,"isRemoved":true},
 	{"country":"grc","name":"Ionikos","id":"Ionikos_F.C.","win":2,"draw":3,"loss":25,"for":14,"against":62,"isRemoved":true,"deduct":-5,"deductReason":"3pts for their Chairman attacking a referee; 2pts for an incident against Iraklis"},
-	{"country":"lux","name":"F91 Dudelange","id":"F91_Dudelange","win":21,"draw":2,"loss":3,"for":71,"against":20,"isChampion":true},
+	{"country":"lux","name":"F91 Dudelange","id":"f91_dudelange","win":21,"draw":2,"loss":3,"for":71,"against":20,"isChampion":true},
 	{"country":"lux","name":"Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":16,"draw":4,"loss":6,"for":60,"against":30},
 	{"country":"lux","name":"Differdange 03","id":"FC_Differdange_03","win":14,"draw":6,"loss":6,"for":71,"against":41,"isNew":true},
 	{"country":"lux","name":"Racing FC","id":"Racing_FC_Union_Luxembourg","win":11,"draw":8,"loss":7,"for":52,"against":35},

@@ -141,7 +141,7 @@
 	{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":5,"draw":13,"loss":12,"for":26,"against":37,"isRemoved":true,"deduct":-3,"deductReason":"Incidents in a game against Iraklis"},
 	{"country":"grc","name":"Ergotelis","id":"Ergotelis_F.C.","win":5,"draw":5,"loss":20,"for":19,"against":50,"isRemoved":true,"isNew":true},
 	{"country":"grc","name":"Kerkyra","id":"A.O._Kerkyra","win":3,"draw":8,"loss":19,"for":21,"against":49,"isRemoved":true,"isNew":true},
-	{"country":"lux","name":"F91 Dudelange","id":"F91_Dudelange","win":22,"draw":4,"loss":2,"for":74,"against":15,"isChampion":true},
+	{"country":"lux","name":"F91 Dudelange","id":"f91_dudelange","win":22,"draw":4,"loss":2,"for":74,"against":15,"isChampion":true},
 	{"country":"lux","name":"Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":20,"draw":4,"loss":4,"for":68,"against":29},
 	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":13,"draw":6,"loss":9,"for":58,"against":45},
 	{"country":"lux","name":"Victoria Rosport","id":"FC_Victoria_Rosport","win":13,"draw":5,"loss":10,"for":45,"against":47},

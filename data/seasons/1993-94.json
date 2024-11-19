@@ -147,7 +147,7 @@
 	{"country":"lux","name":"CS Grevenmacher","id":"CS_Grevenmacher","win":16,"draw":5,"loss":7,"for":45,"against":24},
 	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":10,"draw":10,"loss":8,"for":27,"against":23},
 	{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":15,"draw":4,"loss":9,"for":39,"against":30},
-	{"country":"lux","name":"F91 Dudelange","id":"F91_Dudelange","win":10,"draw":6,"loss":12,"for":41,"against":41},
+	{"country":"lux","name":"F91 Dudelange","id":"f91_dudelange","win":10,"draw":6,"loss":12,"for":41,"against":41},
 	{"country":"lux","name":"FC Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":8,"draw":8,"loss":12,"for":28,"against":36},
 	{"country":"lux","name":"CS Pétange","id":"CS_Pétange","win":9,"draw":7,"loss":12,"for":49,"against":52,"isReturning":true},
 	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":7,"draw":9,"loss":12,"for":38,"against":50,"isRemoved":true},

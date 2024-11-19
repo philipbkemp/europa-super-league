@@ -136,7 +136,7 @@
 	{"country":"grc","name":"Paniliakos","id":"Paniliakos_F.C.","win":4,"draw":9,"loss":17,"for":28,"against":56,"isRemoved":true,"isReturning":true},
 	{"country":"grc","name":"Proodeftiki","id":"Proodeftiki_F.C.","win":4,"draw":8,"loss":18,"for":26,"against":56,"isRemoved":true},
 	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":22,"draw":2,"loss":4,"for":70,"against":23,"isChampion":true},
-	{"country":"lux","name":"F91 Dudelange","id":"F91_Dudelange","win":18,"draw":5,"loss":5,"for":62,"against":26},
+	{"country":"lux","name":"F91 Dudelange","id":"f91_dudelange","win":18,"draw":5,"loss":5,"for":62,"against":26},
 	{"country":"lux","name":"Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":13,"draw":9,"loss":6,"for":63,"against":41,"isReturning":true},
 	{"country":"lux","name":"Grevenmacher","id":"CS_Grevenmacher","win":13,"draw":4,"loss":11,"for":56,"against":44},
 	{"country":"lux","name":"Spora Luxembourg","id":"CA_Spora_Luxembourg","win":14,"draw":2,"loss":12,"for":56,"against":57,"isReturning":true},
