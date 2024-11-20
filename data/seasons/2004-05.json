@@ -227,7 +227,7 @@
 	{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":6,"draw":10,"loss":10,"for":31,"against":41,"isReturning":true},
 	{"country":"pol","name":"Odra Wodzisław","id":"Odra_Wodzisław_Śląski","win":7,"draw":3,"loss":16,"for":27,"against":41},
 	{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":4,"draw":4,"loss":18,"for":23,"against":58,"isRemoved":true},
-	{"country":"est","name":"Levadia","id":"FCI_Levadia_Tallinn","win":21,"draw":6,"loss":1,"for":82,"against":14,"isChampion":true},
+	{"country":"est","name":"Levadia","id":"fci_levadia_tallinn","win":21,"draw":6,"loss":1,"for":82,"against":14,"isChampion":true},
 	{"country":"est","name":"TVMK","id":"fc_tvmk","win":19,"draw":6,"loss":3,"for":89,"against":29},
 	{"country":"est","name":"Flora","id":"fc_flora","win":18,"draw":4,"loss":6,"for":83,"against":25},
 	{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":15,"draw":2,"loss":11,"for":43,"against":39},

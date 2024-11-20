@@ -253,7 +253,7 @@
 {"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":6,"draw":6,"loss":25,"for":33,"against":68,"isRemoved":true,"isReturning":true}
 ][
 {"country":"est","name":"Flora","id":"fc_flora","win":29,"draw":3,"loss":4,"for":110,"against":21,"isChampion":true},
-{"country":"est","name":"FCI Levadia","id":"FCI_Levadia_Tallinn","win":24,"draw":6,"loss":6,"for":98,"against":32},
+{"country":"est","name":"FCI Levadia","id":"fci_levadia_tallinn","win":24,"draw":6,"loss":6,"for":98,"against":32},
 {"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":22,"draw":11,"loss":3,"for":79,"against":34},
 {"country":"est","name":"Paide Linnameeskond","id":"Paide_Linnameeskond","win":23,"draw":5,"loss":8,"for":78,"against":30},
 {"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":14,"draw":7,"loss":15,"for":57,"against":62},

@@ -233,7 +233,7 @@
 	{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":8,"draw":8,"loss":14,"for":42,"against":41},
 	{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":7,"draw":7,"loss":16,"for":29,"against":42,"isRemoved":true},
 	{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":6,"draw":7,"loss":17,"for":34,"against":57,"isRemoved":true},
-	{"country":"est","name":"Levadia","id":"FCI_Levadia_Tallinn","win":23,"draw":4,"loss":1,"for":77,"against":12,"isChampion":true,"isNew":true},
+	{"country":"est","name":"Levadia","id":"fci_levadia_tallinn","win":23,"draw":4,"loss":1,"for":77,"against":12,"isChampion":true,"isNew":true},
 	{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":16,"draw":5,"loss":7,"for":57,"against":34},
 	{"country":"est","name":"Flora","id":"fc_flora","win":13,"draw":8,"loss":7,"for":60,"against":33},
 	{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":11,"draw":7,"loss":10,"for":40,"against":28},

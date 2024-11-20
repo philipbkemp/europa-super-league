@@ -249,7 +249,7 @@
 {"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":6,"draw":18,"loss":13,"for":38,"against":51,"deduct":-1,"deductReason":"Failing licensing requirements","isRemoved":true}
 ][
 {"country":"est","name":"Flora","id":"fc_flora","win":27,"draw":3,"loss":6,"for":72,"against":24,"isChampion":true},
-{"country":"est","name":"Levadia","id":"FCI_Levadia_Tallinn","win":22,"draw":10,"loss":4,"for":78,"against":32},
+{"country":"est","name":"Levadia","id":"fci_levadia_tallinn","win":22,"draw":10,"loss":4,"for":78,"against":32},
 {"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":22,"draw":5,"loss":9,"for":69,"against":36},
 {"country":"est","name":"Infonet","id":"FCI_Tallinn","win":17,"draw":11,"loss":8,"for":50,"against":32},
 {"country":"est","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":17,"draw":8,"loss":11,"for":63,"against":43},

@@ -253,7 +253,7 @@
 {"country":"pol","name":"Sandecja Nowy Sącz","id":"Sandecja_Nowy_Sącz","win":6,"draw":15,"loss":16,"for":34,"against":54,"isRemoved":true,"isNew":true}
 ][
 {"country":"est","name":"Flora","id":"fc_flora","win":28,"draw":6,"loss":2,"for":100,"against":28,"isChampion":true},
-{"country":"est","name":"Levadia","id":"FCI_Levadia_Tallinn","win":25,"draw":9,"loss":2,"for":106,"against":20},
+{"country":"est","name":"Levadia","id":"fci_levadia_tallinn","win":25,"draw":9,"loss":2,"for":106,"against":20},
 {"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":24,"draw":6,"loss":6,"for":101,"against":32},
 {"country":"est","name":"FCI Tallinn","id":"FCI_Tallinn","win":20,"draw":5,"loss":11,"for":103,"against":47,"isRemoved":true},
 {"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":13,"draw":6,"loss":17,"for":46,"against":63},

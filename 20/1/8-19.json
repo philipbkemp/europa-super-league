@@ -255,7 +255,7 @@
 {"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":7,"draw":8,"loss":22,"for":49,"against":80,"isRemoved":true,"isReturning":true}
 ][
 {"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":25,"draw":11,"loss":0,"for":114,"against":32,"isChampion":true},
-{"country":"est","name":"FCI Levadia","id":"FCI_Levadia_Tallinn","win":26,"draw":6,"loss":4,"for":109,"against":26},
+{"country":"est","name":"FCI Levadia","id":"fci_levadia_tallinn","win":26,"draw":6,"loss":4,"for":109,"against":26},
 {"country":"est","name":"Flora","id":"fc_flora","win":25,"draw":8,"loss":3,"for":116,"against":32},
 {"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":18,"draw":7,"loss":11,"for":76,"against":57},
 {"country":"est","name":"Paide Linnameeskond","id":"Paide_Linnameeskond","win":14,"draw":9,"loss":13,"for":64,"against":74},

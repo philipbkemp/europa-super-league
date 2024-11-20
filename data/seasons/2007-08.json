@@ -233,7 +233,7 @@
 	{"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":7,"draw":6,"loss":17,"for":27,"against":57,"isReturning":true},
 	{"country":"pol","name":"Widzew Łódź","id":"Widzew_Łódź","win":5,"draw":11,"loss":14,"for":27,"against":42,"isRemoved":true},
 	{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":4,"draw":4,"loss":22,"for":19,"against":58,"isRemoved":true,"isReturning":true},
-	{"country":"est","name":"Levadia","id":"FCI_Levadia_Tallinn","win":29,"draw":4,"loss":3,"for":126,"against":20,"isChampion":true},
+	{"country":"est","name":"Levadia","id":"fci_levadia_tallinn","win":29,"draw":4,"loss":3,"for":126,"against":20,"isChampion":true},
 	{"country":"est","name":"Flora","id":"fc_flora","win":26,"draw":5,"loss":5,"for":108,"against":30},
 	{"country":"est","name":"TVMK","id":"fc_tvmk","win":25,"draw":4,"loss":7,"for":116,"against":36},
 	{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":25,"draw":3,"loss":8,"for":89,"against":28},
