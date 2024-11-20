@@ -487,7 +487,7 @@
 	{"country":"aze","name":"Simurq","id":"Simurq_PIK","win":9,"draw":9,"loss":8,"for":31,"against":25},
 	{"country":"aze","name":"Baku","id":"FC_Baku","win":8,"draw":11,"loss":7,"for":35,"against":26},
 	{"country":"aze","name":"Standard Baku","id":"FK_Standard_Sumgayit","win":8,"draw":8,"loss":10,"for":36,"against":26,"isReturning":true},
-	{"country":"aze","name":"FK Masallı","id":"FK_Viləş_Masallı","win":8,"draw":6,"loss":12,"for":30,"against":40,"isReturning":true},
+	{"country":"aze","name":"FK Masallı","id":"FK_Viləş_Masallı","win":8,"draw":6,"loss":12,"for":30,"against":40,"isReturning":true,"isRemoved":true},
 	{"country":"aze","name":"Karvan","id":"Karvan_FK","win":6,"draw":5,"loss":15,"for":23,"against":36},
 	{"country":"aze","name":"Turan","id":"Turan_Tovuz","win":4,"draw":6,"loss":16,"for":21,"against":49},
 	{"country":"aze","name":"Gänclärbirliyi Sumqayit","id":"FK_Genclerbirliyi_Sumqayit","win":4,"draw":2,"loss":20,"for":21,"against":68,"isRemoved":true},
@@ -710,6 +710,6 @@
 	{"country":"srb","name":"Hajduk Kula","id":"FK_Hajduk_Kula","win":8,"draw":13,"loss":12,"for":25,"against":31},
 	{"country":"srb","name":"OFK Beograd","id":"ofk_beograd","win":9,"draw":9,"loss":15,"for":31,"against":45},
 	{"country":"srb","name":"Smederevo","id":"FK_Smederevo_1924","win":10,"draw":6,"loss":17,"for":33,"against":44,"isRemoved":true},
-	{"country":"srb","name":"Banat","id":"FK_Banat_Zrenjanin","win":6,"draw":10,"loss":17,"for":34,"against":57,"isRemoved":true},
+	{"country":"srb","name":"Banat","id":"FK_Banat_Zrenjanin","win":6,"draw":10,"loss":17,"for":34,"against":57},
 	{"country":"srb","name":"Bežanija","id":"FK_Bežanija","win":5,"draw":4,"loss":24,"for":31,"against":58,"isRemoved":true}
 ]
