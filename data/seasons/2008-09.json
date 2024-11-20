@@ -633,7 +633,7 @@
 	{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":7,"draw":7,"loss":16,"for":25,"against":42},
 	{"country":"mkd","name":"Napredok","id":"FK_Napredok","win":4,"draw":9,"loss":17,"for":26,"against":52,"isRemoved":true},
 	{"country":"mkd","name":"Bashkimi","id":"KF_Bashkimi_(1947–2008)","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before start of season"},
-	{"country":"wal","name":"Rhyl","id":"Rhyl_F.C.","win":29,"draw":3,"loss":2,"for":95,"against":29,"isChampion":true},
+	{"country":"wal","name":"Rhyl","id":"rhyl_fc","win":29,"draw":3,"loss":2,"for":95,"against":29,"isChampion":true},
 	{"country":"wal","name":"Llanelli","id":"Llanelli_Town_A.F.C.","win":26,"draw":5,"loss":3,"for":98,"against":38},
 	{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":20,"draw":11,"loss":3,"for":79,"against":27},
 	{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":19,"draw":5,"loss":10,"for":52,"against":47},

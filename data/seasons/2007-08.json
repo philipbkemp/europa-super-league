@@ -636,7 +636,7 @@
 	{"country":"mkd","name":"Cementarnica 55","id":"FK_Cementarnica_55","win":5,"draw":9,"loss":19,"for":24,"against":46,"isRemoved":true,"isReturning":true},
 	{"country":"wal","name":"Llanelli","id":"Llanelli_Town_A.F.C.","win":27,"draw":4,"loss":3,"for":99,"against":35,"isChampion":true},
 	{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":25,"draw":3,"loss":6,"for":85,"against":30},
-	{"country":"wal","name":"Rhyl","id":"Rhyl_F.C.","win":21,"draw":6,"loss":7,"for":60,"against":24},
+	{"country":"wal","name":"Rhyl","id":"rhyl_fc","win":21,"draw":6,"loss":7,"for":60,"against":24},
 	{"country":"wal","name":"Port Talbot Town","id":"Port_Talbot_Town_F.C.","win":17,"draw":8,"loss":9,"for":57,"against":48},
 	{"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":15,"draw":10,"loss":9,"for":62,"against":31},
 	{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":15,"draw":9,"loss":10,"for":59,"against":47},

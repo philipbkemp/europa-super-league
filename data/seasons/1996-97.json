@@ -671,7 +671,7 @@
 	{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":11,"draw":7,"loss":22,"for":41,"against":79,"isNew":true},
 	{"country":"wal","name":"Welshpool Town","id":"Welshpool_Town_F.C.","win":10,"draw":9,"loss":21,"for":50,"against":80,"isNew":true},
 	{"country":"wal","name":"Ton Pentre","id":"Ton_Pentre_F.C.","win":12,"draw":3,"loss":25,"for":59,"against":99,"isRemoved":true},
-	{"country":"wal","name":"Rhyl","id":"Rhyl_F.C.","win":10,"draw":8,"loss":22,"for":51,"against":71},
+	{"country":"wal","name":"Rhyl","id":"rhyl_fc","win":10,"draw":8,"loss":22,"for":51,"against":71},
 	{"country":"wal","name":"Holywell Town","id":"Holywell_Town_F.C.","win":7,"draw":8,"loss":25,"for":52,"against":81,"isRemoved":true},
 	{"country":"wal","name":"Briton Ferry Athletic","id":"Briton_Ferry_Athletic_F.C.","win":5,"draw":1,"loss":34,"for":39,"against":129,"isRemoved":true},
 	{"country":"cze","name":"Sparta Prague","id":"ac_sparta_prague","win":19,"draw":8,"loss":3,"for":61,"against":20,"isChampion":true},

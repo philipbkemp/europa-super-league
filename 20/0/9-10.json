@@ -683,7 +683,7 @@
 {"country":"wal","name":"Port Talbot Town","id":"Port_Talbot_Town_F.C.","win":19,"draw":8,"loss":7,"for":56,"against":23},
 {"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":19,"draw":7,"loss":8,"for":54,"against":41},
 {"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":19,"draw":6,"loss":9,"for":75,"against":45},
-{"country":"wal","name":"Rhyl","id":"Rhyl_F.C.","win":18,"draw":8,"loss":8,"for":74,"against":43,"isRemoved":true,"removedNote":"Administratively relegated after failing to earn a license"},
+{"country":"wal","name":"Rhyl","id":"rhyl_fc","win":18,"draw":8,"loss":8,"for":74,"against":43,"isRemoved":true,"removedNote":"Administratively relegated after failing to earn a license"},
 {"country":"wal","name":"Airbus UK Broughton","id":"Airbus_UK_Broughton_F.C.","win":12,"draw":13,"loss":9,"for":49,"against":37},
 {"country":"wal","name":"Prestatyn Town","id":"Prestatyn_Town_F.C.","win":12,"draw":12,"loss":10,"for":53,"against":53},
 {"country":"wal","name":"Neath","id":"Neath_F.C.","win":12,"draw":11,"loss":11,"for":41,"against":38},

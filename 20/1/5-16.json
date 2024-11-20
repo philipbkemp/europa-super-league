@@ -665,7 +665,7 @@
 {"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":13,"draw":7,"loss":12,"for":51,"against":47},
 {"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":13,"draw":6,"loss":13,"for":49,"against":52},
 {"country":"wal","name":"Port Talbot Town","id":"Port_Talbot_Town_F.C.","win":10,"draw":9,"loss":13,"for":39,"against":56,"isRemoved":true},
-{"country":"wal","name":"Rhyl","id":"Rhyl_F.C.","win":5,"draw":12,"loss":15,"for":36,"against":50},
+{"country":"wal","name":"Rhyl","id":"rhyl_fc","win":5,"draw":12,"loss":15,"for":36,"against":50},
 {"country":"wal","name":"Haverfordwest County","id":"Haverfordwest_County_A.F.C.","win":5,"draw":6,"loss":21,"for":27,"against":57,"isRemoved":true,"isReturning":true}
 ][
 {"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":23,"draw":2,"loss":5,"for":57,"against":25,"isChampion":true},

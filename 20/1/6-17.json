@@ -645,7 +645,7 @@
 {"country":"wal","name":"Cefn Druids","id":"Cefn_Druids_A.F.C.","win":9,"draw":12,"loss":11,"for":40,"against":48,"isReturning":true},
 {"country":"wal","name":"Llandudno","id":"Llandudno_F.C.","win":7,"draw":14,"loss":11,"for":31,"against":45},
 {"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":10,"draw":4,"loss":18,"for":41,"against":63},
-{"country":"wal","name":"Rhyl","id":"Rhyl_F.C.","win":8,"draw":6,"loss":18,"for":38,"against":76,"isRemoved":true},
+{"country":"wal","name":"Rhyl","id":"rhyl_fc","win":8,"draw":6,"loss":18,"for":38,"against":76,"isRemoved":true},
 {"country":"wal","name":"Airbus UK Broughton","id":"Airbus_UK_Broughton_F.C.","win":5,"draw":6,"loss":21,"for":37,"against":78,"isRemoved":true}
 ][
 {"country":"cze","name":"Slavia Prague","id":"sk_slavia_prague","win":20,"draw":9,"loss":1,"for":65,"against":22,"isChampion":true},
