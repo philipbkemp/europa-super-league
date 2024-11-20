@@ -728,7 +728,7 @@ function promote(fromDivision,number) {
 	if ( fromDivision === "g" ) { newDivision = "F"; }
 	if ( fromDivision === "h" ) { newDivision = "G"; }
 	$.each( $("#"+target+" tr") , function(k,v) {
-		if ( promoted !== number && ! $(v).hasClass("removed") ) {
+		if ( promoted !== number && ! $(v).hasClass("removed") && ! $(v).hasClass("promoted") ) {
 			$(v).addClass("promoted");
 			promoted++;
 			icon = $("<IMG />").attr("src","../../icons/promoted.png").attr("alt","Promoted").attr("data-bs-toggle","tooltip").attr("data-bs-title","Promoted to Division "+newDivision);
@@ -752,7 +752,7 @@ function promoteTwo(fromDivision,number) {
 	if ( fromDivision === "g" ) { newDivision = "E"; }
 	if ( fromDivision === "h" ) { newDivision = "F"; }
 	$.each( $("#"+target+" tr") , function(k,v) {
-		if ( promoted !== number && ! $(v).hasClass("removed") ) {
+		if ( promoted !== number && ! $(v).hasClass("removed") && ! $(v).hasClass("promoted") ) {
 			$(v).addClass("promoted").addClass("promoted-twice");
 			promoted++;
 			icon = $("<IMG />").attr("src","../../icons/promoted-twice.png").attr("alt","Promoted").attr("data-bs-toggle","tooltip").attr("data-bs-title","Promoted to Division "+newDivision);
