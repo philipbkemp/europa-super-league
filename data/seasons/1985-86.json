@@ -303,7 +303,7 @@
 	{"country":"ltu","name":"Statybininkas Siauliai","id":"FK_Kareda_Kaunas","win":5,"draw":9,"loss":17,"for":16,"against":44,"isRemoved":true},
 	{"country":"ltu","name":"Statyba Jonava","id":"BC_Jonava","win":4,"draw":7,"loss":20,"for":26,"against":57,"isRemoved":true},
 	{"country":"ltu","name":"Jauniu rinktine","id":"Jauniu_rinktine","win":2,"draw":0,"loss":14,"for":7,"against":36,"isNew":true,"isRemoved":true},
-	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":21,"draw":7,"loss":6,"for":65,"against":29,"isChampion":true},
+	{"country":"yug","name":"Partizan","id":"fk_partizan","win":21,"draw":7,"loss":6,"for":65,"against":29,"isChampion":true},
 	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":21,"draw":7,"loss":6,"for":73,"against":38},
 	{"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":13,"draw":11,"loss":10,"for":64,"against":50},
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":15,"draw":7,"loss":12,"for":55,"against":44},

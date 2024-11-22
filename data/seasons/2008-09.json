@@ -699,7 +699,7 @@
 	{"country":"mne","name":"Jezero","id":"FK_Jezero","win":9,"draw":6,"loss":18,"for":30,"against":62,"isRemoved":true,"isNew":true},
 	{"country":"mne","name":"Dečić","id":"FK_Dečić","win":9,"draw":4,"loss":20,"for":23,"against":45},
 	{"country":"mne","name":"Jedinstvo","id":"FK_Jedinstvo_Bijelo_Polje","win":7,"draw":8,"loss":18,"for":28,"against":56,"isRemoved":true,"isReturning":true},
-	{"country":"srb","name":"Partizan","id":"FK_Partizan","win":25,"draw":5,"loss":3,"for":63,"against":15,"isChampion":true},
+	{"country":"srb","name":"Partizan","id":"fk_partizan","win":25,"draw":5,"loss":3,"for":63,"against":15,"isChampion":true},
 	{"country":"srb","name":"Vojvodina","id":"FK_Vojvodina","win":18,"draw":7,"loss":8,"for":46,"against":25},
 	{"country":"srb","name":"Red Star Belgrade","id":"red_star_belgrade","win":17,"draw":8,"loss":8,"for":59,"against":32},
 	{"country":"srb","name":"Javor Ivanjica","id":"FK_Javor_Ivanjica","win":13,"draw":14,"loss":6,"for":39,"against":27,"isReturning":true},

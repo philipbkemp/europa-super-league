@@ -676,7 +676,7 @@
 	{"country":"and","name":"Encamp","id":"FC_Encamp","win":4,"draw":3,"loss":13,"for":19,"against":41,"isRemoved":true},
 	{"country":"and","name":"Lusitans","id":"FC_Lusitanos","win":5,"draw":2,"loss":13,"for":24,"against":48},
 	{"country":"and","name":"Atlètic d'Escaldes","id":"Atlètic_Club_d%27Escaldes","win":5,"draw":0,"loss":15,"for":19,"against":58,"isNew":true},
-	{"country":"sam","name":"Partizan","id":"FK_Partizan","win":25,"draw":5,"loss":0,"for":81,"against":20,"isChampion":true},
+	{"country":"sam","name":"Partizan","id":"fk_partizan","win":25,"draw":5,"loss":0,"for":81,"against":20,"isChampion":true},
 	{"country":"sam","name":"Red Star Belgrade","id":"red_star_belgrade","win":23,"draw":5,"loss":2,"for":66,"against":18},
 	{"country":"sam","name":"Zeta","id":"FK_Zeta","win":18,"draw":5,"loss":7,"for":52,"against":30},
 	{"country":"sam","name":"OFK Beograd","id":"ofk_beograd","win":16,"draw":2,"loss":12,"for":51,"against":36},

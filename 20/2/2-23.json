@@ -752,7 +752,7 @@
 {"country":"srb","name":"Red Star Belgrade","id":"red_star_belgrade","win":30,"draw":7,"loss":0,"for":96,"against":19,"isChampion":true},
 {"country":"srb","name":"TSC","id":"FK_TSC","win":22,"draw":9,"loss":6,"for":66,"against":32},
 {"country":"srb","name":"Čukarički","id":"FK_Čukarički","win":23,"draw":6,"loss":8,"for":65,"against":38},
-{"country":"srb","name":"Partizan","id":"FK_Partizan","win":21,"draw":8,"loss":8,"for":68,"against":34},
+{"country":"srb","name":"Partizan","id":"fk_partizan","win":21,"draw":8,"loss":8,"for":68,"against":34},
 {"country":"srb","name":"Vojvodina","id":"FK_Vojvodina","win":16,"draw":15,"loss":6,"for":59,"against":35},
 {"country":"srb","name":"Novi Pazar","id":"FK_Novi_Pazar","win":15,"draw":6,"loss":16,"for":40,"against":49},
 {"country":"srb","name":"Voždovac","id":"FK_Voždovac","win":13,"draw":7,"loss":17,"for":29,"against":52},

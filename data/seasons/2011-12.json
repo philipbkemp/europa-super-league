@@ -694,7 +694,7 @@
 	{"country":"mne","name":"Dečić","id":"FK_Dečić","win":10,"draw":4,"loss":19,"for":34,"against":51,"isRemoved":true},
 	{"country":"mne","name":"Berane","id":"FK_Berane","win":8,"draw":5,"loss":20,"for":32,"against":54,"isRemoved":true,"deduct":-1,"deductReason":"Failing to attend fixture","isReturning":true},
 	{"country":"mne","name":"Bokelj","id":"FK_Bokelj","win":5,"draw":6,"loss":22,"for":21,"against":57,"isRemoved":true,"isReturning":true},
-	{"country":"srb","name":"Partizan","id":"FK_Partizan","win":26,"draw":2,"loss":2,"for":67,"against":12,"isChampion":true},
+	{"country":"srb","name":"Partizan","id":"fk_partizan","win":26,"draw":2,"loss":2,"for":67,"against":12,"isChampion":true},
 	{"country":"srb","name":"Red Star Belgrade","id":"red_star_belgrade","win":21,"draw":5,"loss":4,"for":57,"against":18},
 	{"country":"srb","name":"Vojvodina","id":"FK_Vojvodina","win":14,"draw":10,"loss":6,"for":44,"against":26},
 	{"country":"srb","name":"Jagodina","id":"FK_Jagodina","win":14,"draw":9,"loss":7,"for":34,"against":20},

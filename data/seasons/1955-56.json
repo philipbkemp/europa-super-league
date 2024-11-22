@@ -244,7 +244,7 @@
 	{"country":"ltu","name":"Gubernija Šiauliai","id":"Gubernija_Šiauliai","win":4,"draw":2,"loss":14,"for":20,"against":62},
 	{"country":"ltu","name":"JJPF Kaunas","id":"JJPF_Kaunas","win":2,"draw":1,"loss":17,"for":18,"against":56,"isRemoved":true},
 	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":16,"draw":8,"loss":2,"for":62,"against":29,"isChampion":true},
-	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":14,"draw":7,"loss":5,"for":65,"against":35},
+	{"country":"yug","name":"Partizan","id":"fk_partizan","win":14,"draw":7,"loss":5,"for":65,"against":35},
 	{"country":"yug","name":"Radnički Beograd","id":"FK_Radnički_Beograd","win":13,"draw":5,"loss":8,"for":54,"against":45},
 	{"country":"yug","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":12,"draw":4,"loss":10,"for":42,"against":47},
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":9,"draw":9,"loss":8,"for":57,"against":41},

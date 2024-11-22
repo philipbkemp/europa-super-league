@@ -696,7 +696,7 @@
 	{"country":"mne","name":"Mornar","id":"FK_Mornar","win":9,"draw":8,"loss":16,"for":29,"against":49,"deduct":-1,"deductReason":"Fielding ineligible player","isNew":true},
 	{"country":"mne","name":"Berane","id":"FK_Berane","win":8,"draw":6,"loss":19,"for":28,"against":49,"isRemoved":true,"isReturning":true},
 	{"country":"mne","name":"Kom","id":"FK_Kom","win":5,"draw":3,"loss":25,"for":16,"against":59,"isRemoved":true},
-	{"country":"srb","name":"Partizan","id":"FK_Partizan","win":24,"draw":6,"loss":0,"for":63,"against":14,"isChampion":true},
+	{"country":"srb","name":"Partizan","id":"fk_partizan","win":24,"draw":6,"loss":0,"for":63,"against":14,"isChampion":true},
 	{"country":"srb","name":"Red Star Belgrade","id":"red_star_belgrade","win":23,"draw":2,"loss":5,"for":53,"against":17},
 	{"country":"srb","name":"OFK Beograd","id":"ofk_beograd","win":15,"draw":5,"loss":10,"for":38,"against":33},
 	{"country":"srb","name":"Spartak Zlatibor Voda","id":"FK_Spartak_Subotica","win":14,"draw":7,"loss":9,"for":34,"against":27,"isReturning":true},

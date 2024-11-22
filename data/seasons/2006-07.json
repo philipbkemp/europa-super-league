@@ -697,7 +697,7 @@
 	{"country":"mne","name":"Jedinstvo","id":"FK_Jedinstvo_Bijelo_Polje","win":6,"draw":13,"loss":14,"for":27,"against":51,"isRemoved":true},
 	{"country":"mne","name":"Berane","id":"FK_Berane","win":7,"draw":7,"loss":19,"for":25,"against":48,"isRemoved":true,"isNew":true},
 	{"country":"srb","name":"Red Star Belgrade","id":"red_star_belgrade","win":23,"draw":5,"loss":4,"for":55,"against":27,"isChampion":true},
-	{"country":"srb","name":"Partizan","id":"FK_Partizan","win":18,"draw":3,"loss":11,"for":47,"against":31},
+	{"country":"srb","name":"Partizan","id":"fk_partizan","win":18,"draw":3,"loss":11,"for":47,"against":31},
 	{"country":"srb","name":"Vojvodina","id":"FK_Vojvodina","win":16,"draw":6,"loss":10,"for":38,"against":25},
 	{"country":"srb","name":"Mladost Apatin","id":"FK_Mladost_Apatin","win":11,"draw":8,"loss":13,"for":25,"against":33,"isReturning":true,"isRemoved":true},
 	{"country":"srb","name":"Hajduk Kula","id":"FK_Hajduk_Kula","win":14,"draw":4,"loss":14,"for":29,"against":30},

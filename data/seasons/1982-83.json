@@ -311,7 +311,7 @@
 	{"country":"ltu","name":"Politechnika Kaunas","id":"Politechnika_Kaunas","win":6,"draw":8,"loss":15,"for":29,"against":46},
 	{"country":"ltu","name":"Sirvinta Vilkaviskis","id":"Sirvinta_Vilkaviskis","win":4,"draw":3,"loss":22,"for":20,"against":72,"isNew":true,"isRemoved":true},
 	{"country":"ltu","name":"Jaunimo rinktine","id":"Jaunimo_rinktine","win":2,"draw":3,"loss":10,"for":5,"against":32,"isNew":true,"isRemoved":true},
-	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":17,"draw":11,"loss":6,"for":58,"against":37,"isChampion":true},
+	{"country":"yug","name":"Partizan","id":"fk_partizan","win":17,"draw":11,"loss":6,"for":58,"against":37,"isChampion":true},
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":14,"draw":15,"loss":5,"for":51,"against":33},
 	{"country":"yug","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":14,"draw":15,"loss":5,"for":56,"against":40},
 	{"country":"yug","name":"Radnički Niš","id":"FK_Radnički_Niš","win":15,"draw":10,"loss":9,"for":45,"against":39},

@@ -311,7 +311,7 @@
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":11,"draw":7,"loss":16,"for":35,"against":38},
 	{"country":"yug","name":"Osijek","id":"NK_Osijek","win":8,"draw":13,"loss":13,"for":32,"against":39},
 	{"country":"yug","name":"Napredak Kruševac","id":"FK_Napredak_Kruševac","win":9,"draw":11,"loss":14,"for":43,"against":51,"isReturning":true},
-	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":9,"draw":11,"loss":14,"for":39,"against":47},
+	{"country":"yug","name":"Partizan","id":"fk_partizan","win":9,"draw":11,"loss":14,"for":39,"against":47},
 	{"country":"yug","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":11,"draw":7,"loss":16,"for":34,"against":53},
 	{"country":"yug","name":"NK Zagreb","id":"Borac_Zagreb","win":8,"draw":12,"loss":14,"for":32,"against":39,"isRemoved":true},
 	{"country":"yug","name":"OFK Belgrade","id":"ofk_beograd","win":5,"draw":12,"loss":17,"for":30,"against":55,"isRemoved":true},

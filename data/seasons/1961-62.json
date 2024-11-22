@@ -245,7 +245,7 @@
 	{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":7,"draw":3,"loss":12,"for":39,"against":49},
 	{"country":"irl","name":"Transport","id":"Transport_F.C.","win":2,"draw":3,"loss":17,"for":29,"against":76,"isRemoved":true},
 	{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":1,"draw":3,"loss":18,"for":31,"against":87,"isRemoved":true},
-	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":13,"draw":5,"loss":4,"for":42,"against":22,"isChampion":true},
+	{"country":"yug","name":"Partizan","id":"fk_partizan","win":13,"draw":5,"loss":4,"for":42,"against":22,"isChampion":true},
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":9,"draw":8,"loss":5,"for":30,"against":25},
 	{"country":"yug","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":10,"draw":5,"loss":7,"for":36,"against":23},
 	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":9,"draw":6,"loss":7,"for":35,"against":25},

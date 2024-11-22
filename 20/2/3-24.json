@@ -751,7 +751,7 @@
 {"country":"mne","name":"Rudar","id":"FK_Rudar_Pljevlja","win":7,"draw":6,"loss":23,"for":25,"against":54,"isRemoved":true}
 ][
 {"country":"srb","name":"Red Star Belgrade","id":"red_star_belgrade","win":31,"draw":3,"loss":3,"for":94,"against":28,"isChampion":true},
-{"country":"srb","name":"Partizan","id":"FK_Partizan","win":24,"draw":6,"loss":7,"for":80,"against":48},
+{"country":"srb","name":"Partizan","id":"fk_partizan","win":24,"draw":6,"loss":7,"for":80,"against":48},
 {"country":"srb","name":"TSC","id":"FK_TSC","win":22,"draw":9,"loss":6,"for":75,"against":39},
 {"country":"srb","name":"Vojvodina","id":"FK_Vojvodina","win":17,"draw":10,"loss":10,"for":62,"against":50},
 {"country":"srb","name":"Radnički 1923","id":"FK_Radnički_1923","win":19,"draw":4,"loss":14,"for":64,"against":61},

@@ -247,7 +247,7 @@
 	{"country":"ltu","name":"Žalgiris Panevėžys","id":"Statyba_Panevėžys","win":1,"draw":0,"loss":13,"for":17,"against":47,"isReturning":true,"isRemoved":true,"removedNote":"Next season is a grouped format"},
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":10,"draw":8,"loss":0,"for":28,"against":13,"isChampion":true},
 	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":12,"draw":2,"loss":4,"for":44,"against":18},
-	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":12,"draw":2,"loss":4,"for":46,"against":19},
+	{"country":"yug","name":"Partizan","id":"fk_partizan","win":12,"draw":2,"loss":4,"for":46,"against":19},
 	{"country":"yug","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":9,"draw":4,"loss":5,"for":23,"against":17},
 	{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":7,"draw":3,"loss":8,"for":30,"against":27,"isReturning":true},
 	{"country":"yug","name":"Naša Krila","id":"FK_Naša_Krila_Zemun","win":5,"draw":4,"loss":9,"for":18,"against":29,"isRemoved":true},

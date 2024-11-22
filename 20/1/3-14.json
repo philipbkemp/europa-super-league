@@ -736,7 +736,7 @@
 {"country":"mne","name":"Dečić","id":"FK_Dečić","win":5,"draw":9,"loss":19,"for":32,"against":61,"isRemoved":true,"isReturning":true}
 ][
 {"country":"srb","name":"Red Star Belgrade (C, D)","id":"red_star_belgrade","win":23,"draw":3,"loss":4,"for":66,"against":27,"isChampion":true},
-{"country":"srb","name":"Partizan (Q)","id":"FK_Partizan","win":22,"draw":5,"loss":3,"for":64,"against":20},
+{"country":"srb","name":"Partizan (Q)","id":"fk_partizan","win":22,"draw":5,"loss":3,"for":64,"against":20},
 {"country":"srb","name":"Jagodina (Q)","id":"FK_Jagodina","win":13,"draw":9,"loss":8,"for":40,"against":30},
 {"country":"srb","name":"Vojvodina (Q)","id":"FK_Vojvodina","win":11,"draw":12,"loss":7,"for":38,"against":32},
 {"country":"srb","name":"Čukarički (Q)","id":"FK_Čukarički","win":12,"draw":8,"loss":10,"for":30,"against":31,"isReturning":true},

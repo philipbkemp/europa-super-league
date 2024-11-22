@@ -701,7 +701,7 @@
 {"country":"mne","name":"Jedinstvo","id":"FK_Jedinstvo_Bijelo_Polje","win":3,"draw":5,"loss":25,"for":20,"against":69,"isRemoved":true,"isReturning":true}
 ][
 {"country":"srb","name":"Red Star Belgrade","id":"red_star_belgrade","win":30,"draw":4,"loss":3,"for":93,"against":33},
-{"country":"srb","name":"Partizan","id":"FK_Partizan","win":30,"draw":4,"loss":3,"for":78,"against":22,"isChampion":true},
+{"country":"srb","name":"Partizan","id":"fk_partizan","win":30,"draw":4,"loss":3,"for":78,"against":22,"isChampion":true},
 {"country":"srb","name":"Vojvodina","id":"FK_Vojvodina","win":22,"draw":6,"loss":9,"for":58,"against":31},
 {"country":"srb","name":"Napredak Kruševac","id":"FK_Napredak_Kruševac","win":16,"draw":8,"loss":13,"for":44,"against":36,"isReturning":true},
 {"country":"srb","name":"Mladost Lučani","id":"FK_Mladost_Lučani","win":18,"draw":6,"loss":13,"for":46,"against":44},

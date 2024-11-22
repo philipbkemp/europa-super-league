@@ -273,7 +273,7 @@
 	{"country":"irl","name":"Transport","id":"Transport_F.C.","win":6,"draw":2,"loss":14,"for":27,"against":39},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":4,"draw":4,"loss":14,"for":25,"against":52},
 	{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":1,"draw":4,"loss":17,"for":35,"against":97},
-	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":15,"draw":2,"loss":5,"for":53,"against":23,"isChampion":true},
+	{"country":"yug","name":"Partizan","id":"fk_partizan","win":15,"draw":2,"loss":5,"for":53,"against":23,"isChampion":true},
 	{"country":"yug","name":"Red Star Belgrade","id":"red_star_belgrade","win":13,"draw":5,"loss":4,"for":38,"against":21},
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":13,"draw":4,"loss":5,"for":34,"against":22},
 	{"country":"yug","name":"Dinamo Zagreb","id":"gnk_dinamo_zagreb","win":10,"draw":7,"loss":5,"for":36,"against":27},

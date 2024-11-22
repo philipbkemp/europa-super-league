@@ -711,7 +711,7 @@
 ][
 {"country":"srb","name":"Red Star Belgrade","id":"red_star_belgrade","win":33,"draw":3,"loss":1,"for":97,"against":20,"isChampion":true},
 {"country":"srb","name":"Radnički Niš","id":"FK_Radnički_Niš","win":25,"draw":10,"loss":2,"for":71,"against":30},
-{"country":"srb","name":"Partizan","id":"FK_Partizan","win":20,"draw":9,"loss":8,"for":58,"against":28},
+{"country":"srb","name":"Partizan","id":"fk_partizan","win":20,"draw":9,"loss":8,"for":58,"against":28},
 {"country":"srb","name":"Čukarički","id":"FK_Čukarički","win":18,"draw":12,"loss":7,"for":63,"against":36},
 {"country":"srb","name":"Mladost Lučani","id":"FK_Mladost_Lučani","win":16,"draw":9,"loss":12,"for":49,"against":37},
 {"country":"srb","name":"Napredak Kruševac","id":"FK_Napredak_Kruševac","win":12,"draw":12,"loss":13,"for":46,"against":50},

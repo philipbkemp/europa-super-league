@@ -297,7 +297,7 @@
 	{"country":"ltu","name":"Sakalas","id":"FK_Kareda_Kaunas","win":9,"draw":3,"loss":11,"for":23,"against":30},
 	{"country":"ltu","name":"Tauras-Karšuva","id":"FK_Tauras_Tauragė","win":6,"draw":6,"loss":11,"for":14,"against":33},
 	{"country":"ltu","name":"Minija","id":"FK_Minija_Kretinga","win":2,"draw":4,"loss":17,"for":12,"against":56,"isReturning":true,"isRemoved":true},
-	{"country":"yug","name":"Partizan","id":"FK_Partizan","win":31,"draw":3,"loss":2,"for":103,"against":20,"isChampion":true},
+	{"country":"yug","name":"Partizan","id":"fk_partizan","win":31,"draw":3,"loss":2,"for":103,"against":20,"isChampion":true},
 	{"country":"yug","name":"Red Star","id":"red_star_belgrade","win":19,"draw":13,"loss":4,"for":70,"against":25},
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":19,"draw":8,"loss":9,"for":72,"against":47},
 	{"country":"yug","name":"Zemun","id":"FK_Zemun","win":16,"draw":8,"loss":12,"for":62,"against":48},

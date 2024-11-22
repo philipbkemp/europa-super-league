@@ -692,7 +692,7 @@
 	{"country":"mne","name":"Mornar","id":"FK_Mornar","win":9,"draw":7,"loss":17,"for":25,"against":45,"isRemoved":true},
 	{"country":"mne","name":"Sutjeska","id":"FK_Sutjeska_Nikšić","win":9,"draw":7,"loss":17,"for":32,"against":54},
 	{"country":"mne","name":"Bar","id":"OFK_Bar","win":7,"draw":11,"loss":15,"for":30,"against":43,"isRemoved":true,"isNew":true},
-	{"country":"srb","name":"Partizan","id":"FK_Partizan","win":24,"draw":4,"loss":2,"for":75,"against":21,"isChampion":true},
+	{"country":"srb","name":"Partizan","id":"fk_partizan","win":24,"draw":4,"loss":2,"for":75,"against":21,"isChampion":true},
 	{"country":"srb","name":"Red Star Belgrade","id":"red_star_belgrade","win":22,"draw":4,"loss":4,"for":52,"against":18},
 	{"country":"srb","name":"Vojvodina","id":"FK_Vojvodina","win":20,"draw":7,"loss":3,"for":44,"against":14},
 	{"country":"srb","name":"Rad","id":"FK_Rad","win":14,"draw":10,"loss":6,"for":38,"against":21},
