@@ -527,7 +527,7 @@
 	{"country":"wde","name":"Schalke 04","id":"FC_Schalke_04","win":16,"draw":7,"loss":11,"for":52,"against":37},
 	{"country":"wde","name":"Kickers Offenbach","id":"Kickers_Offenbach","win":17,"draw":4,"loss":13,"for":72,"against":62},
 	{"country":"wde","name":"Eintracht Braunschweig","id":"Eintracht_Braunschweig","win":14,"draw":8,"loss":12,"for":52,"against":42,"isReturning":true},
-	{"country":"wde","name":"Bayern Munich","id":"FC_Bayern_Munich","win":14,"draw":6,"loss":14,"for":57,"against":63},
+	{"country":"wde","name":"Bayern Munich","id":"fc_bayern_munich","win":14,"draw":6,"loss":14,"for":57,"against":63},
 	{"country":"wde","name":"VfL Bochum","id":"VfL_Bochum","win":14,"draw":5,"loss":15,"for":53,"against":53},
 	{"country":"wde","name":"Rot-Weiss Essen","id":"Rot-Weiss_Essen","win":10,"draw":12,"loss":12,"for":56,"against":68},
 	{"country":"wde","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":13,"draw":5,"loss":16,"for":56,"against":55},

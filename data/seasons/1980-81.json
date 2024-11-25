@@ -539,7 +539,7 @@
 	{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":8,"draw":10,"loss":12,"for":30,"against":44,"isRemoved":true},
 	{"country":"isr","name":"Maccabi Ramat Amidar","id":"Maccabi_Ramat_Amidar_F.C.","win":7,"draw":11,"loss":12,"for":21,"against":30,"isRemoved":true},
 	{"country":"isr","name":"Hapoel Ramat Gan","id":"Hapoel_Ramat_Gan_Givatayim_F.C.","win":3,"draw":6,"loss":21,"for":15,"against":58,"isRemoved":true,"isReturning":true},
-	{"country":"wde","name":"Bayern Munich","id":"FC_Bayern_Munich","win":22,"draw":9,"loss":3,"for":89,"against":41,"isChampion":true},
+	{"country":"wde","name":"Bayern Munich","id":"fc_bayern_munich","win":22,"draw":9,"loss":3,"for":89,"against":41,"isChampion":true},
 	{"country":"wde","name":"Hamburger SV","id":"Hamburger_SV","win":21,"draw":7,"loss":6,"for":73,"against":43},
 	{"country":"wde","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":19,"draw":8,"loss":7,"for":70,"against":44},
 	{"country":"wde","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":17,"draw":10,"loss":7,"for":60,"against":37},

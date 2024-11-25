@@ -502,7 +502,7 @@
 	{"country":"isr","name":"Maccabi Jaffa","id":"Maccabi_Jaffa_F.C.","win":7,"draw":12,"loss":11,"for":17,"against":29,"isRemoved":true},
 	{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":10,"draw":5,"loss":15,"for":24,"against":49,"isRemoved":true},
 	{"country":"wde","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":23,"draw":5,"loss":6,"for":71,"against":29,"isChampion":true},
-	{"country":"wde","name":"Bayern Munich","id":"FC_Bayern_Munich","win":21,"draw":5,"loss":8,"for":88,"against":37},
+	{"country":"wde","name":"Bayern Munich","id":"fc_bayern_munich","win":21,"draw":5,"loss":8,"for":88,"against":37},
 	{"country":"wde","name":"Hertha BSC","id":"Hertha_BSC","win":20,"draw":5,"loss":9,"for":67,"against":41},
 	{"country":"wde","name":"1. FC Köln","id":"1._FC_Köln","win":20,"draw":3,"loss":11,"for":83,"against":38},
 	{"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":14,"draw":8,"loss":12,"for":60,"against":67},

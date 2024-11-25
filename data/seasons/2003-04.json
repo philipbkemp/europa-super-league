@@ -504,7 +504,7 @@
 	{"country":"hrv","name":"NK Zagreb","id":"NK_Zagreb","win":8,"draw":12,"loss":12,"for":33,"against":41},
 	{"country":"hrv","name":"Marsonia","id":"NK_Marsonia","win":5,"draw":10,"loss":17,"for":32,"against":64,"isRemoved":true,"isReturning":true},
 	{"country":"deu","name":"Werder Bremen","id":"SV_Werder_Bremen","win":22,"draw":8,"loss":4,"for":79,"against":38,"isChampion":true},
-	{"country":"deu","name":"Bayern Munich","id":"FC_Bayern_Munich","win":20,"draw":8,"loss":6,"for":70,"against":39},
+	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":20,"draw":8,"loss":6,"for":70,"against":39},
 	{"country":"deu","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":19,"draw":8,"loss":7,"for":73,"against":39},
 	{"country":"deu","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":18,"draw":10,"loss":6,"for":52,"against":24},
 	{"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":15,"draw":11,"loss":8,"for":57,"against":39},

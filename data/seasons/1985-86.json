@@ -534,7 +534,7 @@
 	{"country":"isr","name":"Hapoel Jerusalem","id":"Hapoel_Jerusalem_F.C.","win":8,"draw":6,"loss":16,"for":31,"against":45,"isRemoved":true,"isReturning":true},
 	{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":6,"draw":6,"loss":18,"for":24,"against":60,"isRemoved":true},
 	{"country":"isr","name":"Maccabi Sha'arayim","id":"Maccabi_Sha%27arayim_F.C.","win":4,"draw":10,"loss":16,"for":22,"against":41,"isRemoved":true,"isReturning":true},
-	{"country":"wde","name":"Bayern Munich","id":"FC_Bayern_Munich","win":21,"draw":7,"loss":6,"for":82,"against":31,"isChampion":true},
+	{"country":"wde","name":"Bayern Munich","id":"fc_bayern_munich","win":21,"draw":7,"loss":6,"for":82,"against":31,"isChampion":true},
 	{"country":"wde","name":"Werder Bremen","id":"SV_Werder_Bremen","win":20,"draw":9,"loss":5,"for":83,"against":41},
 	{"country":"wde","name":"Bayer 05 Uerdingen","id":"KFC_Uerdingen_05","win":19,"draw":7,"loss":8,"for":63,"against":60},
 	{"country":"wde","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":15,"draw":12,"loss":7,"for":65,"against":51},

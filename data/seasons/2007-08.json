@@ -518,7 +518,7 @@
 	{"country":"hrv","name":"Šibenik","id":"HNK_Šibenik","win":9,"draw":12,"loss":12,"for":34,"against":52},
 	{"country":"hrv","name":"Inter Zaprešić","id":"NK_Inter_Zaprešić","win":8,"draw":9,"loss":16,"for":27,"against":59,"isReturning":true},
 	{"country":"hrv","name":"Međimurje","id":"NK_Međimurje","win":3,"draw":6,"loss":24,"for":37,"against":81,"isRemoved":true},
-	{"country":"deu","name":"Bayern Munich","id":"FC_Bayern_Munich","win":22,"draw":10,"loss":2,"for":68,"against":21,"isChampion":true},
+	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":22,"draw":10,"loss":2,"for":68,"against":21,"isChampion":true},
 	{"country":"deu","name":"Werder Bremen","id":"SV_Werder_Bremen","win":20,"draw":6,"loss":8,"for":75,"against":45},
 	{"country":"deu","name":"Schalke 04","id":"FC_Schalke_04","win":18,"draw":10,"loss":6,"for":55,"against":32},
 	{"country":"deu","name":"Hamburger SV","id":"Hamburger_SV","win":14,"draw":12,"loss":8,"for":47,"against":26},

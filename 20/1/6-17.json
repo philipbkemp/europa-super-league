@@ -526,7 +526,7 @@
 {"country":"hrv","name":"Cibalia","id":"HNK_Cibalia","win":4,"draw":9,"loss":23,"for":26,"against":79,"isReturning":true},
 {"country":"hrv","name":"RNK Split","id":"RNK_Split","win":3,"draw":9,"loss":24,"for":12,"against":52,"isRemoved":true}
 ][
-{"country":"deu","name":"Bayern Munich","id":"FC_Bayern_Munich","win":25,"draw":7,"loss":2,"for":89,"against":22,"isChampion":true},
+{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":25,"draw":7,"loss":2,"for":89,"against":22,"isChampion":true},
 {"country":"deu","name":"RB Leipzig","id":"RB_Leipzig","win":20,"draw":7,"loss":7,"for":66,"against":39,"isNew":true},
 {"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":18,"draw":10,"loss":6,"for":72,"against":40},
 {"country":"deu","name":"1899 Hoffenheim","id":"TSG_1899_Hoffenheim","win":16,"draw":14,"loss":4,"for":64,"against":37},

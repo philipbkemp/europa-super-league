@@ -532,7 +532,7 @@
 	{"country":"blr","name":"Shinnik Bobruisk","id":"FC_Belshina_Bobruisk","win":4,"draw":3,"loss":8,"for":17,"against":29},
 	{"country":"blr","name":"Bobruisk","id":"FC_Bobruisk","win":0,"draw":2,"loss":13,"for":6,"against":54,"isRemoved":true},
 	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":19,"draw":11,"loss":4,"for":76,"against":38,"isChampion":true},
-	{"country":"deu","name":"Bayern Munich","id":"FC_Bayern_Munich","win":19,"draw":5,"loss":10,"for":66,"against":46},
+	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":19,"draw":5,"loss":10,"for":66,"against":46},
 	{"country":"deu","name":"Schalke 04","id":"FC_Schalke_04","win":14,"draw":14,"loss":6,"for":45,"against":36},
 	{"country":"deu","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":15,"draw":8,"loss":11,"for":52,"against":51},
 	{"country":"deu","name":"Hamburger SV","id":"Hamburger_SV","win":12,"draw":14,"loss":8,"for":52,"against":47},

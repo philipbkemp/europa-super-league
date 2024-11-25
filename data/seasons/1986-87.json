@@ -534,7 +534,7 @@
 	{"country":"isr","name":"Maccabi Yavne","id":"Maccabi_Yavne_F.C.","win":6,"draw":12,"loss":12,"for":28,"against":35,"isRemoved":true},
 	{"country":"isr","name":"Maccabi Jaffa","id":"Maccabi_Jaffa_F.C.","win":4,"draw":10,"loss":16,"for":23,"against":48,"isRemoved":true},
 	{"country":"isr","name":"Beitar Netanya","id":"Beitar_Nes_Tubruk_F.C.","win":3,"draw":1,"loss":26,"for":22,"against":92,"isRemoved":true,"isNew":true},
-	{"country":"wde","name":"Bayern Munich","id":"FC_Bayern_Munich","win":20,"draw":13,"loss":1,"for":67,"against":31,"isChampion":true},
+	{"country":"wde","name":"Bayern Munich","id":"fc_bayern_munich","win":20,"draw":13,"loss":1,"for":67,"against":31,"isChampion":true},
 	{"country":"wde","name":"Hamburger SV","id":"Hamburger_SV","win":19,"draw":9,"loss":6,"for":69,"against":37},
 	{"country":"wde","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":18,"draw":7,"loss":9,"for":74,"against":44},
 	{"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":15,"draw":10,"loss":9,"for":70,"against":50},

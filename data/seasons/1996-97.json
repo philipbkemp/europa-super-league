@@ -527,7 +527,7 @@
 	{"country":"hrv","name":"Orijent","id":"HNK_Orijent","win":5,"draw":11,"loss":14,"for":28,"against":53,"isRemoved":true,"isNew":true},
 	{"country":"hrv","name":"Istra Pula","id":"NK_Istra","win":6,"draw":7,"loss":17,"for":25,"against":54,"isRemoved":true,"isReturning":true},
 	{"country":"hrv","name":"Inker Zaprešić","id":"NK_Inter_Zaprešić","win":6,"draw":3,"loss":21,"for":22,"against":65,"isRemoved":true,"isReturning":true},
-	{"country":"deu","name":"Bayern Munich","id":"FC_Bayern_Munich","win":20,"draw":11,"loss":3,"for":68,"against":34,"isChampion":true},
+	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":20,"draw":11,"loss":3,"for":68,"against":34,"isChampion":true},
 	{"country":"deu","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":21,"draw":6,"loss":7,"for":69,"against":41},
 	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":19,"draw":6,"loss":9,"for":63,"against":41},
 	{"country":"deu","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":18,"draw":7,"loss":9,"for":78,"against":40},

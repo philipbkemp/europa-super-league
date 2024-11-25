@@ -525,7 +525,7 @@
 	{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":8,"draw":4,"loss":20,"for":25,"against":46,"isRemoved":true},
 	{"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":6,"draw":8,"loss":18,"for":30,"against":55,"isRemoved":true},
 	{"country":"wde","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":19,"draw":10,"loss":5,"for":72,"against":45,"isChampion":true},
-	{"country":"wde","name":"Bayern Munich","id":"FC_Bayern_Munich","win":18,"draw":9,"loss":7,"for":74,"against":41},
+	{"country":"wde","name":"Bayern Munich","id":"fc_bayern_munich","win":18,"draw":9,"loss":7,"for":74,"against":41},
 	{"country":"wde","name":"Werder Bremen","id":"SV_Werder_Bremen","win":14,"draw":14,"loss":6,"for":46,"against":29},
 	{"country":"wde","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":15,"draw":10,"loss":9,"for":63,"against":40},
 	{"country":"wde","name":"Hamburger SV","id":"Hamburger_SV","win":16,"draw":8,"loss":10,"for":60,"against":38},

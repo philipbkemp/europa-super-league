@@ -154,7 +154,7 @@
 {"country":"cze","name":"Pardubice","id":"FK_Pardubice","win":2,"draw":1,"loss":5,"for":8,"against":13,"isCurrentSeason":true},
 {"country":"cze","name":"Teplice","id":"FK_Teplice","win":1,"draw":0,"loss":7,"for":9,"against":18,"isCurrentSeason":true},
 {"country":"cze","name":"České Budějovice","id":"SK_Dynamo_České_Budějovice","win":0,"draw":1,"loss":7,"for":1,"against":21,"isCurrentSeason":true},
-{"country":"deu","name":"Bayern Munich","id":"FC_Bayern_Munich","win":4,"draw":0,"loss":0,"for":16,"against":3,"isCurrentSeason":true},
+{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":4,"draw":0,"loss":0,"for":16,"against":3,"isCurrentSeason":true},
 {"country":"deu","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":3,"draw":0,"loss":1,"for":13,"against":9,"isCurrentSeason":true},
 {"country":"deu","name":"SC Freiburg","id":"SC_Freiburg","win":3,"draw":0,"loss":1,"for":8,"against":4,"isCurrentSeason":true},
 {"country":"deu","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":3,"draw":0,"loss":1,"for":7,"against":4,"isCurrentSeason":true},

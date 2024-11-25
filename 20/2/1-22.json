@@ -564,7 +564,7 @@
 {"country":"hrv","name":"Istra 1961","id":"NK_Istra_1961","win":7,"draw":10,"loss":19,"for":42,"against":67},
 {"country":"hrv","name":"Hrvatski Dragovoljac","id":"NK_Hrvatski_Dragovoljac","win":4,"draw":7,"loss":25,"for":31,"against":75,"isRemoved":true,"isReturning":true}
 ][
-{"country":"deu","name":"Bayern Munich","id":"FC_Bayern_Munich","win":24,"draw":5,"loss":5,"for":97,"against":37,"isChampion":true},
+{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":24,"draw":5,"loss":5,"for":97,"against":37,"isChampion":true},
 {"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":22,"draw":3,"loss":9,"for":85,"against":52},
 {"country":"deu","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":19,"draw":7,"loss":8,"for":80,"against":47},
 {"country":"deu","name":"RB Leipzig","id":"RB_Leipzig","win":17,"draw":7,"loss":10,"for":72,"against":37},

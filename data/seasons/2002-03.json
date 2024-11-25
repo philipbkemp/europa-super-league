@@ -489,7 +489,7 @@
 	{"country":"hrv","name":"Rijeka","id":"HNK_Rijeka","win":9,"draw":6,"loss":17,"for":40,"against":41},
 	{"country":"hrv","name":"Pomorac","id":"NK_Pomorac_1921","win":7,"draw":11,"loss":14,"for":42,"against":52,"isRemoved":true},
 	{"country":"hrv","name":"Šibenik","id":"HNK_Šibenik","win":8,"draw":7,"loss":17,"for":37,"against":53,"isRemoved":true},
-	{"country":"deu","name":"Bayern Munich","id":"FC_Bayern_Munich","win":23,"draw":6,"loss":5,"for":70,"against":25,"isChampion":true},
+	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":23,"draw":6,"loss":5,"for":70,"against":25,"isChampion":true},
 	{"country":"deu","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":17,"draw":8,"loss":9,"for":53,"against":39},
 	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":15,"draw":13,"loss":6,"for":51,"against":27},
 	{"country":"deu","name":"Hamburger SV","id":"Hamburger_SV","win":15,"draw":11,"loss":8,"for":46,"against":36},

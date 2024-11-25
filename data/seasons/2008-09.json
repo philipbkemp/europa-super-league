@@ -518,7 +518,7 @@
 	{"country":"hrv","name":"Zadar","id":"NK_Zadar","win":7,"draw":8,"loss":18,"for":28,"against":49},
 	{"country":"hrv","name":"Croatia Sesvete","id":"NK_Croatia_Sesvete","win":6,"draw":8,"loss":19,"for":31,"against":66,"deduct":-1,"deductReason":"Unpaid debts","isNew":true},
 	{"country":"deu","name":"VfL Wolfsburg","id":"VfL_Wolfsburg","win":21,"draw":6,"loss":7,"for":80,"against":41,"isChampion":true},
-	{"country":"deu","name":"Bayern Munich","id":"FC_Bayern_Munich","win":20,"draw":7,"loss":7,"for":71,"against":42},
+	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":20,"draw":7,"loss":7,"for":71,"against":42},
 	{"country":"deu","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":19,"draw":7,"loss":8,"for":63,"against":43},
 	{"country":"deu","name":"Hertha BSC","id":"Hertha_BSC","win":19,"draw":6,"loss":9,"for":48,"against":41},
 	{"country":"deu","name":"Hamburger SV","id":"Hamburger_SV","win":19,"draw":4,"loss":11,"for":49,"against":47},

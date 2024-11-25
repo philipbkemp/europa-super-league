@@ -507,7 +507,7 @@
 	{"country":"hrv","name":"Pula 1856","id":"NK_Istra_1961","win":7,"draw":14,"loss":11,"for":28,"against":31,"isNew":true},
 	{"country":"hrv","name":"Zadar","id":"NK_Zadar","win":10,"draw":2,"loss":20,"for":36,"against":70,"isRemoved":true},
 	{"country":"hrv","name":"Međimurje","id":"NK_Međimurje","win":9,"draw":6,"loss":17,"for":29,"against":52,"isNew":true},
-	{"country":"deu","name":"Bayern Munich","id":"FC_Bayern_Munich","win":24,"draw":5,"loss":5,"for":75,"against":33,"isChampion":true},
+	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":24,"draw":5,"loss":5,"for":75,"against":33,"isChampion":true},
 	{"country":"deu","name":"Schalke 04","id":"FC_Schalke_04","win":20,"draw":3,"loss":11,"for":56,"against":46},
 	{"country":"deu","name":"Werder Bremen","id":"SV_Werder_Bremen","win":18,"draw":5,"loss":11,"for":68,"against":37},
 	{"country":"deu","name":"Hertha BSC","id":"Hertha_BSC","win":15,"draw":13,"loss":6,"for":59,"against":31},

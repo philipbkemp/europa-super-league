@@ -544,7 +544,7 @@
 	{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":3,"draw":8,"loss":19,"for":13,"against":39,"isRemoved":true},
 	{"country":"wde","name":"Hamburger SV","id":"Hamburger_SV","win":18,"draw":12,"loss":4,"for":95,"against":45,"isChampion":true},
 	{"country":"wde","name":"1. FC Köln","id":"1._FC_Köln","win":18,"draw":9,"loss":7,"for":72,"against":38},
-	{"country":"wde","name":"Bayern Munich","id":"FC_Bayern_Munich","win":20,"draw":3,"loss":11,"for":77,"against":56},
+	{"country":"wde","name":"Bayern Munich","id":"fc_bayern_munich","win":20,"draw":3,"loss":11,"for":77,"against":56},
 	{"country":"wde","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":16,"draw":10,"loss":8,"for":70,"against":61},
 	{"country":"wde","name":"Werder Bremen","id":"SV_Werder_Bremen","win":17,"draw":8,"loss":9,"for":61,"against":52,"isReturning":true},
 	{"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":18,"draw":5,"loss":11,"for":59,"against":40},

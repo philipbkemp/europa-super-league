@@ -532,7 +532,7 @@
 	{"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":8,"draw":14,"loss":11,"for":31,"against":29},
 	{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":8,"draw":8,"loss":17,"for":33,"against":51,"deduct":-4,"deductReason":"Violating Budget rules","isRemoved":true},
 	{"country":"isr","name":"Hapoel Tiberias","id":"Hapoel_Tiberias_F.C.","win":9,"draw":5,"loss":19,"for":31,"against":52,"isRemoved":true,"isReturning":true},
-	{"country":"wde","name":"Bayern Munich","id":"FC_Bayern_Munich","win":19,"draw":12,"loss":3,"for":67,"against":26,"isChampion":true},
+	{"country":"wde","name":"Bayern Munich","id":"fc_bayern_munich","win":19,"draw":12,"loss":3,"for":67,"against":26,"isChampion":true},
 	{"country":"wde","name":"1. FC Köln","id":"1._FC_Köln","win":18,"draw":9,"loss":7,"for":58,"against":30},
 	{"country":"wde","name":"Werder Bremen","id":"SV_Werder_Bremen","win":18,"draw":8,"loss":8,"for":55,"against":32},
 	{"country":"wde","name":"Hamburger SV","id":"Hamburger_SV","win":17,"draw":9,"loss":8,"for":60,"against":36},
