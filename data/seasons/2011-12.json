@@ -493,7 +493,7 @@
 	{"country":"aze","name":"Kapaz","id":"Kapaz_PFK","win":9,"draw":5,"loss":18,"for":35,"against":55},
 	{"country":"aze","name":"Simurq","id":"Simurq_PIK","win":8,"draw":10,"loss":14,"for":27,"against":41},
 	{"country":"aze","name":"Sumgayit","id":"Sumgayit_FK","win":6,"draw":6,"loss":20,"for":27,"against":52,"isNew":true},
-	{"country":"aze","name":"Turan","id":"Turan_Tovuz","win":6,"draw":7,"loss":19,"for":26,"against":42,"isRemoved":true},
+	{"country":"aze","name":"Turan","id":"Turan_Tovuz","win":6,"draw":7,"loss":19,"for":26,"against":42},
 	{"country":"blr","name":"BATE Borisov","id":"FC_BATE_Borisov","win":18,"draw":12,"loss":3,"for":53,"against":20,"isChampion":true},
 	{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":17,"draw":10,"loss":6,"for":46,"against":24},
 	{"country":"blr","name":"Gomel","id":"FC_Gomel","win":13,"draw":15,"loss":5,"for":36,"against":24,"isReturning":true},
