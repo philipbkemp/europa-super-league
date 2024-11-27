@@ -119,7 +119,7 @@
 	{"country":"lux","name":"FC Red Black Pfaffenthal","id":"FC_Red_Black_Pfaffenthal","win":1,"draw":2,"loss":15,"for":22,"against":61,"isRemoved":true},
 	{"country":"lux","name":"FC Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":1,"draw":0,"loss":17,"for":21,"against":103,"isRemoved":true},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":3,"draw":2,"loss":1,"for":10,"against":6,"isChampion":true},
-	{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":2,"draw":2,"loss":2,"for":5,"against":6,"isRemoved":true},
+	{"country":"mlt","name":"Hibernians F.C.","id":"hibernians_fc","win":2,"draw":2,"loss":2,"for":5,"against":6,"isRemoved":true},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":1,"draw":3,"loss":2,"for":7,"against":5},
 	{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":2,"draw":1,"loss":3,"for":5,"against":10,"isReturning":true},
 	{"country":"rou","name":"Venus București","id":"FC_Venus_București","win":13,"draw":6,"loss":3,"for":63,"against":26,"isChampion":true,"isRemoved":true,"removedNote":"Romanian league moved to grouped format for next season"},

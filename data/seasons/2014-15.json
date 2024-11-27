@@ -155,7 +155,7 @@
 	{"country":"lux","name":"UN Käerjéng 97","id":"UN_Käerjéng_97","win":8,"draw":3,"loss":15,"for":33,"against":52,"isRemoved":true},
 	{"country":"lux","name":"US Hostert","id":"US_Hostert","win":5,"draw":8,"loss":13,"for":35,"against":52,"isRemoved":true,"isReturning":true},
 	{"country":"lux","name":"Jeunesse Canach","id":"FC_Jeunesse_Canach","win":3,"draw":6,"loss":17,"for":16,"against":45,"isRemoved":true},
-	{"country":"mlt","name":"Hibernians","id":"Hibernians_F.C.","win":27,"draw":5,"loss":1,"for":97,"against":24,"isChampion":true},
+	{"country":"mlt","name":"Hibernians","id":"hibernians_fc","win":27,"draw":5,"loss":1,"for":97,"against":24,"isChampion":true},
 	{"country":"mlt","name":"Valletta","id":"valletta_fc","win":22,"draw":3,"loss":8,"for":74,"against":30},
 	{"country":"mlt","name":"Birkirkara","id":"Birkirkara_F.C.","win":19,"draw":7,"loss":7,"for":59,"against":31},
 	{"country":"mlt","name":"Balzan","id":"Balzan_F.C.","win":17,"draw":8,"loss":8,"for":59,"against":45},

@@ -126,7 +126,7 @@
 	{"country":"lux","name":"US Dudelange","id":"US_Dudelange","win":4,"draw":4,"loss":14,"for":35,"against":68,"isRemoved":true},
 	{"country":"lux","name":"FCM Young Boys Diekirch","id":"FCM_Young_Boys_Diekirch","win":2,"draw":2,"loss":18,"for":30,"against":82,"isReturning":true,"isRemoved":true},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":10,"draw":3,"loss":1,"for":37,"against":12,"isChampion":true},
-	{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":9,"draw":2,"loss":3,"for":21,"against":12},
+	{"country":"mlt","name":"Hibernians F.C.","id":"hibernians_fc","win":9,"draw":2,"loss":3,"for":21,"against":12},
 	{"country":"mlt","name":"Valletta F.C.","id":"valletta_fc","win":8,"draw":2,"loss":4,"for":38,"against":13},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":8,"draw":2,"loss":4,"for":25,"against":11},
 	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":7,"draw":1,"loss":6,"for":30,"against":14},

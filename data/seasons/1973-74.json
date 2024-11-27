@@ -162,7 +162,7 @@
 	{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":3,"draw":3,"loss":16,"for":26,"against":50,"isReturning":true,"isRemoved":true},
 	{"country":"lux","name":"National Schifflange","id":"National_Schifflange","win":1,"draw":2,"loss":19,"for":12,"against":82,"isRemoved":true},
 	{"country":"mlt","name":"Valletta F.C.","id":"valletta_fc","win":12,"draw":4,"loss":2,"for":23,"against":8,"isChampion":true},
-	{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":10,"draw":4,"loss":4,"for":21,"against":9},
+	{"country":"mlt","name":"Hibernians F.C.","id":"hibernians_fc","win":10,"draw":4,"loss":4,"for":21,"against":9},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":7,"draw":7,"loss":4,"for":32,"against":21},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":8,"draw":5,"loss":5,"for":25,"against":14},
 	{"country":"mlt","name":"Zebbug Rangers","id":"Żebbuġ_Rangers_F.C.","win":4,"draw":7,"loss":7,"for":8,"against":13,"isReturning":true},

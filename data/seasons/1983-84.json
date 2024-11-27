@@ -161,7 +161,7 @@
 	{"country":"lux","name":"FC Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":3,"draw":3,"loss":16,"for":20,"against":76,"isReturning":true,"isRemoved":true},
 	{"country":"mlt","name":"Valletta F.C.","id":"valletta_fc","win":9,"draw":4,"loss":3,"for":17,"against":9,"isChampion":true,"deduct":-1},
 	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":6,"draw":6,"loss":4,"for":16,"against":11},
-	{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":4,"draw":6,"loss":6,"for":12,"against":16},
+	{"country":"mlt","name":"Hibernians F.C.","id":"hibernians_fc","win":4,"draw":6,"loss":6,"for":12,"against":16},
 	{"country":"mlt","name":"Rabat Ajax F.C.","id":"Rabat_Ajax_F.C.","win":5,"draw":8,"loss":3,"for":13,"against":8},
 	{"country":"mlt","name":"Żurrieq F.C.","id":"Żurrieq_F.C.","win":7,"draw":8,"loss":1,"for":15,"against":4},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":6,"draw":5,"loss":5,"for":12,"against":10},

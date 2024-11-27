@@ -145,7 +145,7 @@
 	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":5,"draw":3,"loss":6,"for":14,"against":16},
 	{"country":"mlt","name":"Rabat","id":"Rabat_Ajax_F.C.","win":4,"draw":2,"loss":8,"for":17,"against":34},
 	{"country":"mlt","name":"Birkirkara F.C.","id":"Birkirkara_F.C.","win":2,"draw":5,"loss":7,"for":17,"against":26},
-	{"country":"mlt","name":"Hibernians F.C.","id":"Hibernians_F.C.","win":3,"draw":3,"loss":8,"for":13,"against":21},
+	{"country":"mlt","name":"Hibernians F.C.","id":"hibernians_fc","win":3,"draw":3,"loss":8,"for":13,"against":21},
 	{"country":"mlt","name":"Marsa F.C.","id":"Marsa_F.C.","win":1,"draw":4,"loss":9,"for":14,"against":43,"isRemoved":true,"isReturning":true},
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":17,"draw":1,"loss":4,"for":64,"against":25,"isChampion":true},
 	{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":11,"draw":6,"loss":5,"for":50,"against":30},
