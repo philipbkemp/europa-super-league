@@ -134,7 +134,7 @@
 ][
 {"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":23,"draw":9,"loss":4,"for":47,"against":16},
 {"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":26,"draw":5,"loss":5,"for":69,"against":17,"isChampion":true},
-{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":21,"draw":10,"loss":5,"for":70,"against":24},
+{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":21,"draw":10,"loss":5,"for":70,"against":24},
 {"country":"grc","name":"PAOK","id":"PAOK_FC","win":19,"draw":10,"loss":7,"for":57,"against":32},
 {"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":15,"draw":6,"loss":15,"for":55,"against":41},
 {"country":"grc","name":"Volos","id":"Volos_F.C.","win":11,"draw":7,"loss":18,"for":35,"against":66},

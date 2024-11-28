@@ -125,7 +125,7 @@
 	{"country":"hun","name":"Rákospalota","id":"Rákospalotai_EAC","win":9,"draw":7,"loss":14,"for":42,"against":55},
 	{"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":7,"draw":12,"loss":11,"for":31,"against":41,"isRemoved":true},
 	{"country":"hun","name":"Vác","id":"Vác_FC","win":4,"draw":7,"loss":19,"for":21,"against":57,"isRemoved":true,"isReturning":true},
-	{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":22,"draw":5,"loss":3,"for":62,"against":23,"isChampion":true},
+	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":22,"draw":5,"loss":3,"for":62,"against":23,"isChampion":true},
 	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":18,"draw":8,"loss":4,"for":60,"against":27},
 	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":16,"draw":6,"loss":8,"for":47,"against":28},
 	{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":11,"draw":13,"loss":6,"for":32,"against":26,"isReturning":true},

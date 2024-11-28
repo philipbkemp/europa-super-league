@@ -131,7 +131,7 @@
 	{"country":"hun","name":"Székesfehérvári MÁV Előre","id":"Székesfehérvári_MÁV_Előre_SC","win":6,"draw":10,"loss":18,"for":28,"against":60,"isRemoved":true},
 	{"country":"hun","name":"Salgótarján","id":"Salgótarjáni_BTC","win":5,"draw":10,"loss":19,"for":35,"against":59,"isRemoved":true},
 	{"country":"hun","name":"Pécsi VSK","id":"Pécsi_Vasutas_SK","win":4,"draw":7,"loss":23,"for":25,"against":78,"isRemoved":true,"isReturning":true},
-	{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":20,"draw":7,"loss":7,"for":49,"against":21,"isChampion":true},
+	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":20,"draw":7,"loss":7,"for":49,"against":21,"isChampion":true},
 	{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":19,"draw":9,"loss":6,"for":46,"against":20},
 	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":15,"draw":15,"loss":4,"for":38,"against":24},
 	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":18,"draw":9,"loss":7,"for":64,"against":39},

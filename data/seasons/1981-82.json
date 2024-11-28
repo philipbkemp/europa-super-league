@@ -133,7 +133,7 @@
 	{"country":"hun","name":"Volán","id":"Volán_FC","win":5,"draw":11,"loss":18,"for":43,"against":61,"isRemoved":true},
 	{"country":"hun","name":"SZEOL","id":"Szegedi_EAC","win":8,"draw":4,"loss":22,"for":35,"against":74,"isRemoved":true,"isReturning":true},
 	{"country":"hun","name":"Ózdi Kohasz","id":"Ózdi_Kohász_SE","win":7,"draw":5,"loss":22,"for":41,"against":75,"isRemoved":true,"isReturning":true},
-	{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":18,"draw":14,"loss":2,"for":46,"against":21,"isChampion":true},
+	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":18,"draw":14,"loss":2,"for":46,"against":21,"isChampion":true},
 	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":19,"draw":12,"loss":3,"for":58,"against":28},
 	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":18,"draw":10,"loss":6,"for":55,"against":22},
 	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":17,"draw":11,"loss":6,"for":54,"against":36},

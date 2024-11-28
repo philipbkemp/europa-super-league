@@ -123,7 +123,7 @@
 	{"country":"hun","name":"Pápa","id":"Pápai_FC","win":7,"draw":7,"loss":16,"for":26,"against":46},
 	{"country":"hun","name":"Siófok","id":"BFC_Siófok","win":7,"draw":4,"loss":19,"for":31,"against":61,"isRemoved":true},
 	{"country":"hun","name":"Eger","id":"Egri_FC","win":3,"draw":6,"loss":21,"for":25,"against":67,"isRemoved":true,"isReturning":true},
-	{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":24,"draw":5,"loss":1,"for":64,"against":16,"isChampion":true},
+	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":24,"draw":5,"loss":1,"for":64,"against":16,"isChampion":true},
 	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":18,"draw":8,"loss":4,"for":46,"against":19},
 	{"country":"grc","name":"Asteras Tripolis","id":"Asteras_Tripolis_F.C.","win":17,"draw":5,"loss":8,"for":41,"against":25},
 	{"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":11,"draw":13,"loss":6,"for":26,"against":22},

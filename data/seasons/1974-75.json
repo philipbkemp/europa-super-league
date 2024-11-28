@@ -138,7 +138,7 @@
 	{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":8,"draw":6,"loss":14,"for":28,"against":44},
 	{"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":6,"draw":9,"loss":13,"for":24,"against":33,"isNew":true},
 	{"country":"hun","name":"Pécsi MSC","id":"Pécsi_MFC","win":6,"draw":8,"loss":14,"for":26,"against":40,"isRemoved":true},
-	{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":24,"draw":9,"loss":1,"for":65,"against":21,"isChampion":true},
+	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":24,"draw":9,"loss":1,"for":65,"against":21,"isChampion":true},
 	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":23,"draw":9,"loss":2,"for":73,"against":20},
 	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":19,"draw":8,"loss":7,"for":73,"against":28},
 	{"country":"grc","name":"Ethnikos Piraeus","id":"Ethnikos_Piraeus_F.C.","win":17,"draw":11,"loss":6,"for":48,"against":28},

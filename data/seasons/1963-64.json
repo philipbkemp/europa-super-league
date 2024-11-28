@@ -130,7 +130,7 @@
 	{"country":"hun","name":"Pécsi Dózsa","id":"Pécsi_MFC","win":3,"draw":0,"loss":10,"for":21,"against":31},
 	{"country":"hun","name":"Debreceni VSC","id":"Debreceni_VSC","win":2,"draw":2,"loss":9,"for":15,"against":31},
 	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":24,"draw":6,"loss":0,"for":67,"against":19,"isChampion":true},
-	{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":20,"draw":7,"loss":3,"for":62,"against":17},
+	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":20,"draw":7,"loss":3,"for":62,"against":17},
 	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":18,"draw":5,"loss":7,"for":72,"against":25},
 	{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":12,"draw":9,"loss":9,"for":48,"against":31},
 	{"country":"grc","name":"Apollon Athens","id":"Apollon_Smyrnis_F.C.","win":13,"draw":7,"loss":10,"for":41,"against":36},

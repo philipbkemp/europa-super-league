@@ -124,7 +124,7 @@
 	{"country":"hun","name":"Nagykanizsa","id":"Nagykanizsa_FC","win":7,"draw":6,"loss":17,"for":24,"against":57,"isRemoved":true,"isNew":true},
 	{"country":"hun","name":"EMDSZ Sopron","id":"Anger_réti_SFAC_1900_SE","win":6,"draw":10,"loss":14,"for":36,"against":56,"isRemoved":true},
 	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":26,"draw":5,"loss":3,"for":83,"against":21,"isChampion":true},
-	{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":20,"draw":7,"loss":7,"for":69,"against":31},
+	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":20,"draw":7,"loss":7,"for":69,"against":31},
 	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":20,"draw":5,"loss":9,"for":55,"against":29},
 	{"country":"grc","name":"Apollon Athens","id":"Apollon_Smyrnis_F.C.","win":20,"draw":3,"loss":11,"for":61,"against":37},
 	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":17,"draw":11,"loss":6,"for":61,"against":33},

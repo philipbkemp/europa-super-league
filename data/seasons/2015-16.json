@@ -119,7 +119,7 @@
 	{"country":"hun","name":"Vasas","id":"Vasas_SC","win":9,"draw":5,"loss":19,"for":32,"against":54,"isReturning":true},
 	{"country":"hun","name":"Puskás Akadémia","id":"Puskás_Akadémia_FC","win":7,"draw":10,"loss":16,"for":35,"against":51,"isRemoved":true},
 	{"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":6,"draw":9,"loss":18,"for":25,"against":55,"isRemoved":true,"isReturning":true},
-	{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":28,"draw":1,"loss":1,"for":81,"against":16,"isChampion":true},
+	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":28,"draw":1,"loss":1,"for":81,"against":16,"isChampion":true},
 	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":18,"draw":4,"loss":8,"for":52,"against":26,"deduct":-3,"deductReason":"Extreme fan behaviour"},
 	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":17,"draw":6,"loss":7,"for":43,"against":21,"deduct":-3,"deductReason":"Extreme fan behaviour","isReturning":true},
 	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":13,"draw":9,"loss":8,"for":45,"against":32,"deduct":-3,"deductReason":"Extreme fan behaviour"},

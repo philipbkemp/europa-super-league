@@ -125,7 +125,7 @@
 	{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":7,"draw":10,"loss":17,"for":43,"against":58},
 	{"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":7,"draw":10,"loss":17,"for":28,"against":61,"isRemoved":true},
 	{"country":"hun","name":"Stadler","id":"Kiskőrösi_FC","win":4,"draw":10,"loss":20,"for":29,"against":67,"isRemoved":true},
-	{"country":"grc","name":"Olympiacos","id":"Olympiacos_F.C.","win":29,"draw":1,"loss":4,"for":88,"against":27,"isChampion":true},
+	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":29,"draw":1,"loss":4,"for":88,"against":27,"isChampion":true},
 	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":28,"draw":1,"loss":5,"for":90,"against":24},
 	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":22,"draw":8,"loss":4,"for":61,"against":30},
 	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":21,"draw":7,"loss":6,"for":74,"against":41},
