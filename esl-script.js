@@ -34,6 +34,7 @@ const countries = {
 	"isr": "Israel",
 	"ita": "Italy",
 	"kaz": "Kazakhstan",
+	"kos": "Kosovo",
 	"ltu": "Lithuania",
 	"lux": "Luxembourg",
 	"lva": "Latvia",
