@@ -682,7 +682,7 @@
 	{"country":"mne","name":"Mogren","id":"FK_Mogren","win":11,"draw":9,"loss":13,"for":45,"against":56,"deduct":-3},
 	{"country":"mne","name":"Mornar","id":"FK_Mornar","win":9,"draw":9,"loss":15,"for":35,"against":47},
 	{"country":"mne","name":"Dečić","id":"FK_Dečić","win":5,"draw":9,"loss":19,"for":32,"against":61,"isRemoved":true,"isReturning":true},
-	{"country":"srb","name":"Red Star Belgrade (C, D)","id":"red_star_belgrade","win":23,"draw":3,"loss":4,"for":66,"against":27,"isChampion":true},
+	{"country":"srb","name":"Red Star Belgrade","id":"red_star_belgrade","win":23,"draw":3,"loss":4,"for":66,"against":27,"isChampion":true},
 	{"country":"srb","name":"Partizan","id":"fk_partizan","win":22,"draw":5,"loss":3,"for":64,"against":20},
 	{"country":"srb","name":"Jagodina","id":"FK_Jagodina","win":13,"draw":9,"loss":8,"for":40,"against":30},
 	{"country":"srb","name":"Vojvodina","id":"FK_Vojvodina","win":11,"draw":12,"loss":7,"for":38,"against":32},
