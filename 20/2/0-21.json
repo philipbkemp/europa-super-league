@@ -764,7 +764,7 @@
 {"country":"srb","name":"Mačva","id":"FK_Mačva_Šabac","win":7,"draw":4,"loss":27,"for":26,"against":81,"isRemoved":true},
 {"country":"srb","name":"Bačka","id":"OFK_Bačka","win":3,"draw":7,"loss":28,"for":24,"against":68,"isRemoved":true,"isReturning":true}
 ][
-{"country":"gib","name":"Europa","id":"Europa_F.C.","win":15,"draw":2,"loss":3,"for":66,"against":14},
+{"country":"gib","name":"Europa","id":"europa_fc","win":15,"draw":2,"loss":3,"for":66,"against":14},
 {"country":"gib","name":"Lincoln Red Imps","id":"Lincoln_Red_Imps_F.C.","win":15,"draw":3,"loss":2,"for":62,"against":13,"isChampion":true},
 {"country":"gib","name":"St Joseph's","id":"St_Joseph%27s_F.C.","win":14,"draw":3,"loss":3,"for":71,"against":20},
 {"country":"gib","name":"Lynx","id":"Lynx_F.C.","win":8,"draw":2,"loss":10,"for":36,"against":40},
