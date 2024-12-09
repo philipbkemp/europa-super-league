@@ -486,7 +486,7 @@
 	{"country":"blr","name":"Isloch Minsk Raion","id":"FC_Isloch_Minsk_Raion","win":8,"draw":9,"loss":13,"for":20,"against":37},
 	{"country":"blr","name":"Minsk","id":"FC_Minsk","win":7,"draw":9,"loss":14,"for":34,"against":42},
 	{"country":"blr","name":"Gomel","id":"FC_Gomel","win":7,"draw":7,"loss":16,"for":16,"against":36},
-	{"country":"blr","name":"Luch Minsk","id":"FC_Luch_Minsk_(2012)","win":4,"draw":12,"loss":14,"for":24,"against":44,"isNew":true},
+	{"country":"blr","name":"Luch Minsk","id":"FC_Luch_Minsk_(2012)","win":4,"draw":12,"loss":14,"for":24,"against":44,"isNew":true,"isRemoved":true},
 	{"country":"blr","name":"Torpedo Minsk","id":"FC_Torpedo_Minsk","win":6,"draw":6,"loss":18,"for":20,"against":41,"isReturning":true},
 	{"country":"blr","name":"Smolevichi","id":"FC_Smolevichi","win":5,"draw":9,"loss":16,"for":21,"against":39,"isRemoved":true,"isNew":true},
 	{"country":"blr","name":"Dnepr Mogilev","id":"FC_Dnepr_Mogilev","win":3,"draw":7,"loss":20,"for":17,"against":53,"isRemoved":true},
