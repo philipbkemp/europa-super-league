@@ -1,13 +1,14 @@
 {
 	"teams":[
-		"Lincoln_Red_Imps_F.C.","St_Joseph%27s_F.C.","Manchester_62_F.C.","Lynx_F.C.","Lions_Gibraltar_F.C.","Glacis_United_F.C.","europa_fc","Gibraltar_Phoenix_F.C.","F.C._Britannia_XI","Gibraltar_United_F.C.","Angels_F.C.","Mons_Calpe_S.C.","Europa_Point_F.C.","F.C._Boca_Gibraltar","F.C._Bruno%27s_Magpies","College_1975_F.C."
+		"lincoln_red_imps_fc","St_Joseph%27s_F.C.","Manchester_62_F.C.","Lynx_F.C.","Lions_Gibraltar_F.C.","Glacis_United_F.C.","europa_fc","Gibraltar_Phoenix_F.C.","F.C._Britannia_XI","Gibraltar_United_F.C.","Angels_F.C.","Mons_Calpe_S.C.","Europa_Point_F.C.","F.C._Boca_Gibraltar","F.C._Bruno%27s_Magpies","College_1975_F.C."
 	],"redirects":[
 		["FC_Britannia_XI","F.C._Britannia_XI"]
 	],"previous":[
-		"europa_fc","St_Joseph%27s_F.C.","Manchester_62_F.C.","Glacis_United_F.C.","Lions_Gibraltar_F.C.","Lincoln_Red_Imps_F.C.","Mons_Calpe_S.C.","College_1975_F.C.","F.C._Bruno%27s_Magpies","Lynx_F.C.","Europa_Point_F.C."
+		"europa_fc","St_Joseph%27s_F.C.","Manchester_62_F.C.","Glacis_United_F.C.","Lions_Gibraltar_F.C.","lincoln_red_imps_fc","Mons_Calpe_S.C.","College_1975_F.C.","F.C._Bruno%27s_Magpies","Lynx_F.C.","Europa_Point_F.C."
 	]
 }
 
 /*
-	Europa_F.C.	=>	europa_fc
+	Europa_F.C.					=>	europa_fc
+	Lincoln_Red_Imps_F.C.	=>	lincoln_red_imps_fc
 */

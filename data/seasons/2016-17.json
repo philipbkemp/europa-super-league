@@ -665,7 +665,7 @@
 	{"country":"srb","name":"Novi Pazar","id":"FK_Novi_Pazar","win":7,"draw":6,"loss":24,"for":29,"against":68,"isRemoved":true},
 	{"country":"srb","name":"Borac Čačak","id":"FK_Borac_Čačak","win":8,"draw":7,"loss":22,"for":29,"against":51},
 	{"country":"gib","name":"Europa FC","id":"europa_fc","win":24,"draw":1,"loss":2,"for":93,"against":18,"isChampion":true},
-	{"country":"gib","name":"Lincoln Red Imps","id":"Lincoln_Red_Imps_F.C.","win":23,"draw":3,"loss":1,"for":100,"against":16},
+	{"country":"gib","name":"Lincoln Red Imps","id":"lincoln_red_imps_fc","win":23,"draw":3,"loss":1,"for":100,"against":16},
 	{"country":"gib","name":"St Joseph's","id":"St_Joseph%27s_F.C.","win":16,"draw":6,"loss":5,"for":53,"against":18},
 	{"country":"gib","name":"Glacis United","id":"Glacis_United_F.C.","win":12,"draw":8,"loss":7,"for":42,"against":34},
 	{"country":"gib","name":"Mons Calpe","id":"Mons_Calpe_S.C.","win":13,"draw":3,"loss":11,"for":44,"against":35,"isNew":true},

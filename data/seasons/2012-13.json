@@ -706,7 +706,7 @@
 	{"country":"srb","name":"Novi Pazar","id":"FK_Novi_Pazar","win":7,"draw":9,"loss":14,"for":29,"against":40},
 	{"country":"srb","name":"BSK Borča","id":"FK_BSK_Borča","win":8,"draw":6,"loss":16,"for":26,"against":57,"isRemoved":true},
 	{"country":"srb","name":"Smederevo","id":"FK_Smederevo_1924","win":3,"draw":6,"loss":21,"for":18,"against":53,"isRemoved":true},
-	{"country":"gib","name":"Lincoln","id":"Lincoln_Red_Imps_F.C.","win":13,"draw":2,"loss":0,"for":68,"against":13,"isChampion":true,"isNew":true},
+	{"country":"gib","name":"Lincoln","id":"lincoln_red_imps_fc","win":13,"draw":2,"loss":0,"for":68,"against":13,"isChampion":true,"isNew":true},
 	{"country":"gib","name":"St Joseph's","id":"St_Joseph%27s_F.C.","win":10,"draw":0,"loss":5,"for":43,"against":20,"isNew":true},
 	{"country":"gib","name":"Manchester United","id":"Manchester_62_F.C.","win":7,"draw":2,"loss":6,"for":22,"against":31,"isNew":true},
 	{"country":"gib","name":"Lynx","id":"Lynx_F.C.","win":4,"draw":2,"loss":9,"for":18,"against":42,"isNew":true},

@@ -672,7 +672,7 @@
 	{"country":"srb","name":"Rad","id":"FK_Rad","win":7,"draw":12,"loss":18,"for":22,"against":44},
 	{"country":"srb","name":"Dinamo Vranje","id":"FK_Dinamo_Vranje","win":9,"draw":6,"loss":22,"for":24,"against":67,"isRemoved":true,"isNew":true},
 	{"country":"srb","name":"Zemun","id":"FK_Zemun","win":6,"draw":12,"loss":19,"for":36,"against":53,"isRemoved":true},
-	{"country":"gib","name":"Lincoln Red Imps","id":"Lincoln_Red_Imps_F.C.","win":21,"draw":3,"loss":3,"for":84,"against":19,"isChampion":true},
+	{"country":"gib","name":"Lincoln Red Imps","id":"lincoln_red_imps_fc","win":21,"draw":3,"loss":3,"for":84,"against":19,"isChampion":true},
 	{"country":"gib","name":"Europa FC","id":"europa_fc","win":20,"draw":4,"loss":3,"for":84,"against":20},
 	{"country":"gib","name":"St Joseph's","id":"St_Joseph%27s_F.C.","win":17,"draw":4,"loss":6,"for":69,"against":29},
 	{"country":"gib","name":"Mons Calpe","id":"Mons_Calpe_S.C.","win":15,"draw":4,"loss":8,"for":63,"against":29},
