@@ -630,7 +630,7 @@
 	{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":9,"draw":10,"loss":14,"for":27,"against":36,"isReturning":true},
 	{"country":"mkd","name":"Teteks","id":"FK_Teteks","win":6,"draw":7,"loss":20,"for":22,"against":47,"isRemoved":true},
 	{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":6,"draw":5,"loss":22,"for":33,"against":61,"isRemoved":true},
-	{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":24,"draw":4,"loss":4,"for":86,"against":22,"isChampion":true},
+	{"country":"wal","name":"The New Saints","id":"the_new_saints_fc","win":24,"draw":4,"loss":4,"for":86,"against":22,"isChampion":true},
 	{"country":"wal","name":"Airbus UK Broughton","id":"Airbus_UK_Broughton_F.C.","win":17,"draw":3,"loss":12,"for":76,"against":42},
 	{"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":14,"draw":9,"loss":9,"for":65,"against":53},
 	{"country":"wal","name":"Port Talbot Town","id":"Port_Talbot_Town_F.C.","win":13,"draw":8,"loss":11,"for":51,"against":52},

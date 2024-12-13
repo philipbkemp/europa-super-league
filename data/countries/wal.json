@@ -1,13 +1,14 @@
 {
 	"teams":[
-		"Cwmbrân_Town_A.F.C.","Aberystwyth_Town_F.C.","Ebbw_Vale_F.C.","Bangor_City_F.C.","Holywell_Town_F.C.","Conwy_Borough_F.C.","Connah%27s_Quay_Nomads_F.C.","Porthmadog_F.C.","Haverfordwest_County_A.F.C.","Caersws_F.C.","Afan_Lido_F.C.","Mold_Alexandra_F.C.","Llanelli_Town_A.F.C.","Maesteg_Park_A.F.C.","Flint_Town_United_F.C.","Briton_Ferry_Athletic_F.C.","Newtown_A.F.C.","Llanidloes_Town_F.C.","Abergavenny_Thursdays_F.C.","Inter_Cardiff_F.C.","Ton_Pentre_F.C.","The_New_Saints_F.C.","Barry_Town_United_F.C.","rhyl_fc","Caernarfon_Town_F.C.","Cemaes_Bay_F.C.","Carmarthen_Town_A.F.C.","Welshpool_Town_F.C.","Rhayader_Town_F.C.","Cefn_Druids_A.F.C.","Oswestry_Town_F.C.","Port_Talbot_Town_F.C.","Airbus_UK_Broughton_F.C.","Cardiff_Grange_Harlequins_A.F.C.","Neath_F.C.","Llangefni_Town_F.C.","Prestatyn_Town_F.C.","Bala_Town_F.C.","Llandudno_F.C.","Cardiff_Metropolitan_University_F.C.","Penybont_F.C.","Pontypridd_United_F.C.","Colwyn_Bay_F.C.","Briton_Ferry_Llansawel_A.F.C."
+		"Cwmbrân_Town_A.F.C.","Aberystwyth_Town_F.C.","Ebbw_Vale_F.C.","Bangor_City_F.C.","Holywell_Town_F.C.","Conwy_Borough_F.C.","Connah%27s_Quay_Nomads_F.C.","Porthmadog_F.C.","Haverfordwest_County_A.F.C.","Caersws_F.C.","Afan_Lido_F.C.","Mold_Alexandra_F.C.","Llanelli_Town_A.F.C.","Maesteg_Park_A.F.C.","Flint_Town_United_F.C.","Briton_Ferry_Athletic_F.C.","Newtown_A.F.C.","Llanidloes_Town_F.C.","Abergavenny_Thursdays_F.C.","Inter_Cardiff_F.C.","Ton_Pentre_F.C.","the_new_saints_fc","Barry_Town_United_F.C.","rhyl_fc","Caernarfon_Town_F.C.","Cemaes_Bay_F.C.","Carmarthen_Town_A.F.C.","Welshpool_Town_F.C.","Rhayader_Town_F.C.","Cefn_Druids_A.F.C.","Oswestry_Town_F.C.","Port_Talbot_Town_F.C.","Airbus_UK_Broughton_F.C.","Cardiff_Grange_Harlequins_A.F.C.","Neath_F.C.","Llangefni_Town_F.C.","Prestatyn_Town_F.C.","Bala_Town_F.C.","Llandudno_F.C.","Cardiff_Metropolitan_University_F.C.","Penybont_F.C.","Pontypridd_United_F.C.","Colwyn_Bay_F.C.","Briton_Ferry_Llansawel_A.F.C."
 	],"redirects":[
 		["Cwmbran_Town_A.F.C.","Cwmbrân_Town_A.F.C."],["Conwy_United_F.C.","Conwy_Borough_F.C."],["Llanelli_A.F.C.","Llanelli_Town_A.F.C."],["Newtown_F.C.","Newtown_A.F.C."],["Cwmbran_Town_F.C.","Cwmbrân_Town_A.F.C."],["Llanelli_F.C.","Llanelli_Town_A.F.C."],["Maesteg_Park_F.C.","Maesteg_Park_A.F.C."],["Carmarthen_Town_F.C.","Carmarthen_Town_A.F.C."],["Haverfordwest_County_F.C.","Haverfordwest_County_A.F.C."],["NEWI_Cefn_Druids_F.C.","Cefn_Druids_A.F.C."],["Airbus_UK_F.C.","Airbus_UK_Broughton_F.C."],["Grange_Harlequins_A.F.C.","Cardiff_Grange_Harlequins_A.F.C."],["Neath_Athletic_A.F.C.","Neath_F.C."],["Technogroup_Welshpool_Town_F.C.","Welshpool_Town_F.C."],["Gap_Connah%27s_Quay_F.C.","Connah%27s_Quay_Nomads_F.C."],["Pontypridd_United_A.F.C.","Pontypridd_United_F.C."]
 	],"previous":[
-		"Penybont_F.C.","Cardiff_Metropolitan_University_F.C.","Newtown_A.F.C.","The_New_Saints_F.C.","Bala_Town_F.C.","Haverfordwest_County_A.F.C.","Barry_Town_United_F.C.","Connah%27s_Quay_Nomads_F.C.","Caernarfon_Town_F.C.","Flint_Town_United_F.C.","Aberystwyth_Town_F.C.","Briton_Ferry_Llansawel_A.F.C."
+		"Penybont_F.C.","Cardiff_Metropolitan_University_F.C.","Newtown_A.F.C.","the_new_saints_fc","Bala_Town_F.C.","Haverfordwest_County_A.F.C.","Barry_Town_United_F.C.","Connah%27s_Quay_Nomads_F.C.","Caernarfon_Town_F.C.","Flint_Town_United_F.C.","Aberystwyth_Town_F.C.","Briton_Ferry_Llansawel_A.F.C."
 	]
 }
 
 /*
-	Rhyl_F.C.	=>	rhyl_fc
+	Rhyl_F.C.						=>	rhyl_fc
+	The_New_Saints_F.C.		=>	the_new_saints_fc
 */

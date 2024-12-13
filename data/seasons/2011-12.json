@@ -634,7 +634,7 @@
 	{"country":"mkd","name":"Teteks","id":"FK_Teteks","win":8,"draw":11,"loss":14,"for":23,"against":48},
 	{"country":"mkd","name":"Ohrid","id":"FK_Ohrid","win":6,"draw":8,"loss":19,"for":26,"against":62,"isRemoved":true,"isReturning":true},
 	{"country":"mkd","name":"11 Oktomvri","id":"FK_11_Oktomvri","win":3,"draw":7,"loss":23,"for":26,"against":58,"isRemoved":true,"isNew":true},
-	{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":23,"draw":5,"loss":4,"for":75,"against":31,"isChampion":true},
+	{"country":"wal","name":"The New Saints","id":"the_new_saints_fc","win":23,"draw":5,"loss":4,"for":75,"against":31,"isChampion":true},
 	{"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":22,"draw":3,"loss":7,"for":72,"against":45},
 	{"country":"wal","name":"Neath","id":"Neath_F.C.","win":18,"draw":8,"loss":6,"for":60,"against":36,"isRemoved":true,"removedNote":"Administratively relegated after failing to earn a license"},
 	{"country":"wal","name":"Llanelli","id":"Llanelli_Town_A.F.C.","win":18,"draw":5,"loss":9,"for":63,"against":36},

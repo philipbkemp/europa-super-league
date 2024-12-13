@@ -618,7 +618,7 @@
 	{"country":"mkd","name":"Horizont Turnovo","id":"FK_Horizont_Turnovo","win":9,"draw":9,"loss":15,"for":26,"against":37},
 	{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":7,"draw":9,"loss":17,"for":21,"against":35,"isRemoved":true},
 	{"country":"mkd","name":"Teteks","id":"FK_Teteks","win":3,"draw":6,"loss":24,"for":22,"against":73,"isRemoved":true,"isReturning":true},
-	{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":23,"draw":8,"loss":1,"for":90,"against":24,"isChampion":true},
+	{"country":"wal","name":"The New Saints","id":"the_new_saints_fc","win":23,"draw":8,"loss":1,"for":90,"against":24,"isChampion":true},
 	{"country":"wal","name":"Bala Town","id":"Bala_Town_F.C.","win":18,"draw":5,"loss":9,"for":67,"against":42},
 	{"country":"wal","name":"Airbus UK Broughton","id":"Airbus_UK_Broughton_F.C.","win":18,"draw":4,"loss":10,"for":62,"against":34},
 	{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":14,"draw":10,"loss":8,"for":69,"against":61},

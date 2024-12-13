@@ -630,7 +630,7 @@
 	{"country":"mkd","name":"Makedonija G.P.","id":"FK_Makedonija_G.P.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Expelled from the league; Record expunged"},
 	{"country":"mkd","name":"Sloga Jugomagnat","id":"FK_Sloga_Jugomagnat","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Expelled from the league; Record expunged","isReturning":true},
 	{"country":"mkd","name":"Pobeda","id":"FK_Pobeda","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Expelled from the league; Record expunged"},
-	{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":25,"draw":7,"loss":2,"for":69,"against":13,"isChampion":true},
+	{"country":"wal","name":"The New Saints","id":"the_new_saints_fc","win":25,"draw":7,"loss":2,"for":69,"against":13,"isChampion":true},
 	{"country":"wal","name":"Llanelli","id":"Llanelli_Town_A.F.C.","win":25,"draw":5,"loss":4,"for":79,"against":26},
 	{"country":"wal","name":"Port Talbot Town","id":"Port_Talbot_Town_F.C.","win":19,"draw":8,"loss":7,"for":56,"against":23},
 	{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":19,"draw":7,"loss":8,"for":54,"against":41},

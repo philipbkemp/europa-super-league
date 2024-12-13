@@ -629,7 +629,7 @@
 	{"country":"mkd","name":"Tikvesh","id":"GFK_Tikvesh","win":9,"draw":7,"loss":17,"for":36,"against":38,"isReturning":true},
 	{"country":"mkd","name":"Borec","id":"FK_Borec","win":5,"draw":6,"loss":22,"for":25,"against":66,"isRemoved":true},
 	{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":2,"draw":8,"loss":23,"for":16,"against":54,"isRemoved":true},
-	{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":25,"draw":5,"loss":2,"for":86,"against":26,"isChampion":true},
+	{"country":"wal","name":"The New Saints","id":"the_new_saints_fc","win":25,"draw":5,"loss":2,"for":86,"against":26,"isChampion":true},
 	{"country":"wal","name":"Bala Town","id":"Bala_Town_F.C.","win":16,"draw":11,"loss":5,"for":67,"against":37},
 	{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":15,"draw":6,"loss":11,"for":50,"against":35},
 	{"country":"wal","name":"Caernarfon Town","id":"Caernarfon_Town_F.C.","win":13,"draw":4,"loss":15,"for":46,"against":53},

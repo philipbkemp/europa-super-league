@@ -622,7 +622,7 @@
 	{"country":"mkd","name":"Makedonija G.P.","id":"FK_Makedonija_G.P.","win":9,"draw":5,"loss":19,"for":40,"against":56,"isRemoved":true,"isReturning":true},
 	{"country":"mkd","name":"Napredok","id":"FK_Napredok","win":3,"draw":9,"loss":21,"for":27,"against":75,"isRemoved":true},
 	{"country":"mkd","name":"Gostivar","id":"KF_Gostivari","win":3,"draw":6,"loss":24,"for":19,"against":70,"isRemoved":true,"isNew":true},
-	{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":22,"draw":7,"loss":3,"for":86,"against":20,"isChampion":true},
+	{"country":"wal","name":"The New Saints","id":"the_new_saints_fc","win":22,"draw":7,"loss":3,"for":86,"against":20,"isChampion":true},
 	{"country":"wal","name":"Airbus UK Broughton","id":"Airbus_UK_Broughton_F.C.","win":17,"draw":9,"loss":6,"for":56,"against":34,"deduct":-1,"deductReason":"Player registration issue"},
 	{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":14,"draw":6,"loss":12,"for":54,"against":51},
 	{"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":14,"draw":6,"loss":12,"for":47,"against":50},

@@ -599,7 +599,7 @@
 	{"country":"mkd","name":"Pobeda","id":"FK_Pobeda_(2010)","win":10,"draw":8,"loss":18,"for":36,"against":56},
 	{"country":"mkd","name":"Skopje","id":"FK_Skopje","win":7,"draw":14,"loss":15,"for":24,"against":43,"isRemoved":true,"isReturning":true},
 	{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":8,"draw":10,"loss":18,"for":37,"against":68,"isRemoved":true},
-	{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":23,"draw":5,"loss":4,"for":83,"against":32,"isChampion":true},
+	{"country":"wal","name":"The New Saints","id":"the_new_saints_fc","win":23,"draw":5,"loss":4,"for":83,"against":32,"isChampion":true},
 	{"country":"wal","name":"Bangor City","id":"Bangor_City_F.C.","win":19,"draw":3,"loss":10,"for":49,"against":32,"isRemoved":true,"removedNote":"Administratively relegated after failing to earn a license"},
 	{"country":"wal","name":"Connah's Quay Nomads","id":"Connah%27s_Quay_Nomads_F.C.","win":17,"draw":6,"loss":9,"for":46,"against":29},
 	{"country":"wal","name":"Bala Town","id":"Bala_Town_F.C.","win":15,"draw":4,"loss":13,"for":37,"against":48},

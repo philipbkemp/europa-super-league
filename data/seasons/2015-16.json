@@ -607,7 +607,7 @@
 	{"country":"mkd","name":"Renova","id":"KF_Renova","win":13,"draw":8,"loss":12,"for":49,"against":42},
 	{"country":"mkd","name":"Metalurg","id":"FK_Metalurg_Skopje","win":5,"draw":4,"loss":24,"for":27,"against":66,"isRemoved":true},
 	{"country":"mkd","name":"Mladost Carev Dvor","id":"FK_Mladost_Carev_Dvor","win":6,"draw":1,"loss":26,"for":22,"against":81,"isRemoved":true,"isNew":true},
-	{"country":"wal","name":"The New Saints","id":"The_New_Saints_F.C.","win":18,"draw":10,"loss":4,"for":72,"against":24,"isChampion":true},
+	{"country":"wal","name":"The New Saints","id":"the_new_saints_fc","win":18,"draw":10,"loss":4,"for":72,"against":24,"isChampion":true},
 	{"country":"wal","name":"Bala Town","id":"Bala_Town_F.C.","win":15,"draw":12,"loss":5,"for":48,"against":27},
 	{"country":"wal","name":"Llandudno","id":"Llandudno_F.C.","win":15,"draw":7,"loss":10,"for":53,"against":46,"isNew":true},
 	{"country":"wal","name":"Connah's Quay Nomads","id":"Connah%27s_Quay_Nomads_F.C.","win":15,"draw":3,"loss":14,"for":50,"against":42},
