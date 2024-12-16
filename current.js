@@ -49,6 +49,7 @@ switch ( page ) {
 	case "Premier_League": 												country = "eng"; 	tbl = "#League_table"; 			break;
 	case "Premier_League_of_Bosnia_and_Herzegovina": 	country = "bih";		tbl = "#League_table"; 			break;
 	case "Primeira_Liga": 													country = "prt";		tbl = "#League_table";			break;
+	case "Primera_Divisi%C3%B3":  									country = "and";	tbl = "#League_table";			break;
 	case "Primera_Divisi%C3%B3": 									country = "and";	tbl = "h2[id^='Standings']";	break;
 	case "Russian_Premier_League": 								country = "rus";		tbl = "#League_table"; 			break;
 	case "Scottish_Premiership": 										country = "sco"; 	tbl = "#League_table"; 			break;
@@ -73,9 +74,15 @@ if ( country === "" || tbl === "" || $tbl.length === 0 ) {
 		for ( r=1 ; r!==rows.length ; r++ ) {
 			cols = Array.from($(rows[r]).find("td,th"));
 			if ( $(cols[1]).text().trim() !== "" ) {
+				teamName = $(cols[1]).text().trim()
+					.replace(" (C)","")
+					.replace(" (Q)","")
+					.replace(" (R)","")
+					.replace(" (O)","")
+					;
 				team = {
 					country: country,
-					name: $(cols[1]).text().trim(),
+					name: teamName,
 					id: $(cols[1]).find("a")[0].getAttribute("href").replace("/wiki/",""),
 					win: parseInt($(cols[3]).text().trim()),
 					draw: parseInt($(cols[4]).text().trim()),
@@ -83,6 +90,15 @@ if ( country === "" || tbl === "" || $tbl.length === 0 ) {
 					for: parseInt($(cols[6]).text().trim()),
 					against: parseInt($(cols[7]).text().trim())
 				};
+				if ( $(cols[1]).text().trim().indexOf(" (C)") !== -1 ) {
+					team.isChampion = true;
+				}
+				if ( $(cols[1]).text().trim().indexOf(" (R)") !== -1 ) {
+					team.isRemoved = true;
+				}
+				if ( $(cols[9]).find("a").length !== 0 ) {
+					console.error("Note about " + teamName);
+				}
 				teams.push(team);
 			}
 		}

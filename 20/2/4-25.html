@@ -1,0 +1,203 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Europa Super League > 2024-25</title>
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous" />
+		<link rel="stylesheet" href="../../styles.css" />
+	</head>
+	<body>
+		<div class="container pt-4">
+			
+			<h1>
+				<span class="d-block">Europa Super League</span>
+				2024-25
+				<span class="placeholder">??</span>
+				<a href="../../index.html" class="btn btn-outline-dark float-end">Home</a>
+			</h1>
+			
+			<hr />
+
+			<p>Current season. Leagues that are not finished have a shaded background.</p>
+
+			<hr />
+			
+			<div class="row pt-3 pb-3">
+				<div class="col-6 col-sm-2 col-lg-1">
+					<a href="../../20/2/3-24.html" class="btn btn-outline-dark w-100 px-md-0">2024-25</a>
+				</div>
+				
+				<div class="col-12 col-sm-8 offset-lg-1 text-center order-3 order-sm-2" id="divisions" role="tablist">
+					<div class="row row-cols-4 row-cols-sm-8">
+						<div class="col mt-2 px-sm-1 mt-sm-0">
+							<button class="w-100 btn btn-outline-dark px-1 active" id="diva" data-bs-toggle="tab" data-bs-target="#diva-pane" type="button" role="tab" aria-controls="diva" aria-selected="true">
+								<span class="d-none d-lg-inline-block me-1">Division</span>A
+							</button>
+						</div>
+						<div class="col mt-2 px-sm-1 mt-sm-0">
+							<button class="w-100 btn btn-outline-dark px-1" id="divb" data-bs-toggle="tab" data-bs-target="#divb-pane" type="button" role="tab" aria-controls="divb" aria-selected="false">
+								<span class="d-none d-lg-inline-block me-1">Division</span>B
+							</button>
+						</div>
+						<div class="col mt-2 px-sm-1 mt-sm-0">
+							<button class="w-100 btn btn-outline-dark px-1" id="divc" data-bs-toggle="tab" data-bs-target="#divc-pane" type="button" role="tab" aria-controls="divc" aria-selected="false">
+								<span class="d-none d-lg-inline-block me-1">Division</span>C
+							</button>
+						</div>
+						<div class="col mt-2 px-sm-1 mt-sm-0">
+							<button class="w-100 btn btn-outline-dark px-1" id="divd" data-bs-toggle="tab" data-bs-target="#divd-pane" type="button" role="tab" aria-controls="divd" aria-selected="false">
+								<span class="d-none d-lg-inline-block me-1">Division</span>D
+							</button>
+						</div>
+						<div class="col mt-2 px-sm-1 mt-sm-0">
+							<button class="w-100 btn btn-outline-dark px-1" id="dive" data-bs-toggle="tab" data-bs-target="#dive-pane" type="button" role="tab" aria-controls="dive" aria-selected="false">
+								<span class="d-none d-lg-inline-block me-1">Division</span>E
+							</button>
+						</div>
+						<div class="col mt-2 px-sm-1 mt-sm-0">
+							<button class="w-100 btn btn-outline-dark px-1" id="divf" data-bs-toggle="tab" data-bs-target="#divf-pane" type="button" role="tab" aria-controls="divf" aria-selected="false">
+								<span class="d-none d-lg-inline-block me-1">Division</span>F
+							</button>
+						</div>
+						<div class="col mt-2 px-sm-1 mt-sm-0">
+							<button class="w-100 btn btn-outline-dark px-1" id="divg" data-bs-toggle="tab" data-bs-target="#divg-pane" type="button" role="tab" aria-controls="divg" aria-selected="false">
+								<span class="d-none d-lg-inline-block me-1">Division</span>G
+							</button>
+						</div>
+						<div class="col mt-2 px-sm-1 mt-sm-0">
+							<button class="w-100 btn btn-outline-dark px-1" id="divh" data-bs-toggle="tab" data-bs-target="#divh-pane" type="button" role="tab" aria-controls="divh" aria-selected="false">
+								<span class="d-none d-lg-inline-block me-1">New</span>Clubs
+							</button>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-6 col-sm-2 col-lg-1 order-2 order-sm-3 offset-lg-1">
+					<a href="../../20/2/5-26.html" class="btn btn-outline-dark w-100 px-md-0 disabled">2025-26</a>
+				</div>
+			</div>
+
+			<div class="tab-content currentSeason" id="divisionsTables">
+				<div class="tab-pane active show" id="diva-pane" role="tabpanel" aria-labelledby="diva" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_a" data-teams="|the_new_saints_fc|PSV_Eindhoven|Galatasaray_S.K._(football)|Sporting_CP|Fenerbahçe_S.K._(football)|lincoln_red_imps_fc|red_star_belgrade|St_Joseph%27s_F.C.|Real_Madrid_CF|ac_sparta_prague|klaksvikar_itrottarfelag|FK_RFS|feyenoord|Inter_Milan|FC_Dinamo_Minsk|celtic_fc|Riga_FC|sk_slavia_prague|Manchester_City_F.C.|FC_Shakhtar_Donetsk|Maccabi_Tel_Aviv_F.C.|sl_benfica|PFC_Ludogorets_Razgrad|Arsenal_F.C.|Inter_Club_d%27Escaldes|Qarabağ_FK|HŠK_Zrinjski_Mostar|fc_dynamo_kyiv|FC_Pyunik|ŠK_Slovan_Bratislava|gnk_dinamo_zagreb|Ferencvárosi_TC|rangers_fc|Paris_Saint-Germain_F.C.|linfield_fc|FC_Barcelona|Víkingur_Gøta|PAOK_FC|fc_flora|FC_Petrocub_Hîncești|FC_Sheriff_Tiraspol|AEK_Athens_F.C.|Liverpool_F.C.|havnar_boltfelag|fci_levadia_tallinn|malmo_ff|fc_bayern_munich|fc_porto|fk_partizan|FC_Red_Bull_Salzburg|FK_Žalgiris|Maccabi_Haifa_F.C.|olympiacos_fc|FC_Astana|BSC_Young_Boys|f91_dudelange|fcsb|Panathinaikos_F.C.|Shamrock_Rovers_F.C.|FC_Viktoria_Plzeň|Atlético_Madrid|S.C._Braga|FC_Dinamo_Tbilisi|Cliftonville_F.C.|AC_Milan|FC_Midtjylland|Helsingin_Jalkapalloklubi|Kuopion_Palloseura|KF_Shkëndija|AZ_Alkmaar|PFC_CSKA_Sofia|FC_Zenit_Saint_Petersburg|HNK_Hajduk_Split|Club_Brugge_KV|Juventus_FC|NK_Maribor|Borussia_Dortmund|F.C._Copenhagen|FC_Progrès_Niederkorn|CFR_Cluj|NK_Olimpija_Ljubljana|Trabzonspor|Tottenham_Hotspur_F.C.|Molde_FK|FK_Budućnost_Podgorica|FC_Kairat|FC_BATE_Borisov|Apollon_Limassol_FC|afc_ajax|PFC_CSKA_Moscow|Bayer_04_Leverkusen|UE_Santa_Coloma|Ħamrun_Spartans_F.C.|FC_Ordabasy|FC_Differdange_03|FC_Santa_Coloma|floriana_fc|NK_Celje|FC_Ballkani|IF_Elfsborg|">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+				<div class="tab-pane" id="divb-pane" role="tabpanel" aria-labelledby="divb" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_b" data-teams="|Neftçi_PFK|Lech_Poznań|Breiðablik_men%27s_football|besiktas_jk|SSC_Napoli|hibernians_fc|FC_Tobol|Rosenborg_BK|FC_Shakhtyor_Soligorsk|europa_fc|B36_Tórshavn|SK_Sturm_Graz|FC_Ararat-Armenia|FC_Dinamo_Batumi|HNK_Rijeka|valur|apoel_fc|AEK_Larnaca_FC|AS_Monaco_FC|brondby_if|R.S.C._Anderlecht|ac_omonia|RB_Leipzig|BK_Häcken|FC_Krasnodar|Connah%27s_Quay_Nomads_F.C.|pfc_levski_sofia|Atalanta_BC|FC_DAC_1904_Dunajská_Streda|Athletic_Bilbao|FC_Spartak_Trnava|K.A.A._Gent|FC_Lokomotiv_Moscow|fk_partizani_tirana|Lille_OSC|Legia_Warsaw|St_Patrick%27s_Athletic_F.C.|MŠK_Žilina|CS_Universitatea_Craiova|Hapoel_Be%27er_Sheva_F.C.|Crusaders_F.C.|FC_Spartak_Moscow|Djurgårdens_IF_Fotboll|AS_Roma|Chelsea_F.C.|PFC_Lokomotiv_Plovdiv|FK_Vojvodina|OGC_Nice|FK_Sarajevo|Dundalk_F.C.|İstanbul_Başakşehir_F.K.|Bohemian_F.C.|SS_Lazio|Bala_Town_F.C.|Glentoran_F.C.|NK_Osijek|FC_Milsami_Orhei|Manchester_United_F.C.|Olympique_Lyonnais|FK_Čukarički|K.R.C._Genk|Paide_Linnameeskond|Olympique_de_Marseille|FK_Sutjeska_Nikšić|Valmiera_FC|Anorthosis_Famagusta_FC|FC_Utrecht|MFK_Ružomberok|Royal_Antwerp_F.C.|FK_Austria_Wien|sk_rapid_wien|KF_Teuta|FC_Urartu|Birkirkara_F.C.|knattspyrnufelag_reykjavikur|FC_Prishtina|Nõmme_Kalju_FC|AEL_Limassol|FC_Slovan_Liberec|Balzan_F.C.|FK_Željezničar_Sarajevo|FC_Basel|FK_Rabotnički|Aberdeen_F.C.|1._FC_Slovácko|Coleraine_F.C.|AIK_Fotboll|NK_Domžale|NK_Široki_Brijeg|FC_Vorskla_Poltava|knattspyrnufelagio_vikingur|Larne_F.C.|FK_Borac_Banja_Luka|FK_Bodø/Glimt|Atlètic_Club_d%27Escaldes|FC_Neman_Grodno|PFC_Cherno_More_Varna|FC_Twente|KF_Llapi|FC_Struga|">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+				<div class="tab-pane" id="divc-pane" role="tabpanel" aria-labelledby="divc" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_c" data-teams="|SC_Heerenveen|Sevilla_FC|FC_Zorya_Luhansk|Sligo_Rovers_F.C.|Borussia_Mönchengladbach|FK_Sūduva|CS_Fola_Esch|KF_Shkupi|FC_Drita|Jagiellonia_Białystok|Śląsk_Wrocław|Vitória_S.C.|F.C._Bruno%27s_Magpies|Derry_City_F.C.|FC_Nordsjælland|Paksi_FC|FC_Torpedo-BelAZ_Zhodino|FC_Zimbru_Chișinău|Pafos_FC|Stjarnan_men%27s_football|Puskás_Akadémia_FC|FK_Kauno_Žalgiris|Fehérvár_FC|Pogoń_Szczecin|ACF_Fiorentina|Real_Sociedad|Raków_Częstochowa|AS_Trenčín|Knattspyrnufélag_Akureyrar|Jeunesse_Esch|FC_St._Gallen|Kalmar_FF|FH_men%27s_football|Hammarby_Fotboll|FC_Rostov|FC_Iberia_1999|NK_Lokomotiva_Zagreb|FK_Liepāja|Strømsgodset_Toppfotball|kf_tirana|Villarreal_CF|Newtown_A.F.C.|Eintracht_Frankfurt|Sarpsborg_08_FF|IFK_Norrköping|Stade_Rennais_F.C.|FK_Mladá_Boleslav|Mons_Calpe_S.C.|Union_Titus_Pétange|FC_Inter_Turku|Valencia_CF|FC_Luzern|KF_Laçi|Gżira_United_F.C.|Odds_BK|Racing_FC_Union_Luxembourg|Piast_Gliwice|SC_Gjilani|FC_Alashkert|Royal_Charleroi_S.C.|FK_Teplice|PFC_Beroe_Stara_Zagora|NŠ_Mura|PFC_Slavia_Sofia|Mosta_F.C.|FC_Minsk|FK_Jablonec|Asteras_Tripolis_F.C.|Motherwell_F.C.|IFK_Göteborg|FC_Shakhter_Karagandy|Újpest_FC|FK_Radnički_Niš|Beitar_Jerusalem_F.C.|VfL_Wolfsburg|RC_Celta_de_Vigo|Konyaspor|FC_Lahti|FC_Dynamo_Brest|JK_Narva_Trans|Everton_F.C.|1._FSV_Mainz_05|Atromitos_F.C.|Udinese_Calcio|Standard_Liège|Glenavon_F.C.|1._FC_Union_Berlin|St_Johnstone_F.C.|K.V._Kortrijk|Aberystwyth_Town_F.C.|AC_Virtus|SP_La_Fiorita|FK_Panevėžys|FC_Noah|SP_Tre_Penne|FC_Swift_Hesperange|FK_TSC|Viking_FK|Tre_Fiori_FC|FC_Dynamo_Moscow|">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+				<div class="tab-pane" id="divd-pane" role="tabpanel" aria-labelledby="divd" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_d" data-teams="|Ballymena_United_F.C.|FC_Lugano|Servette_FC|FC_Isloch_Minsk_Raion|FC_Torpedo_Kutaisi|FC_Dila_Gori|KF_Vllaznia_Shkodër|Hapoel_Haifa_F.C.|LASK|Zira_FK|Sabah_FC_(Azerbaijan)|Newcastle_United_F.C.|FC_Zürich|Sumgayit_FK|Górnik_Zabrze|Seinäjoen_Jalkapallokerho|Aris_Thessaloniki_F.C.|K.V._Mechelen|Cercle_Brugge_K.S.V.|RC_Lens|Real_Betis|FC_UNA_Strassen|Kasımpaşa_S.K.|FC_CSKA_1948_Sofia|Sparta_Rotterdam|Wolfsberger_AC|FC_Arda_Kardzhali|Sivasspor|FC_Baník_Ostrava|Torino_FC|Sepsi_OSK_Sfântu_Gheorghe|Aarhus_Gymnastikforening|Zagłębie_Lubin|Alanyaspor|Mjällby_AIF|West_Ham_United_F.C.|TSG_1899_Hoffenheim|Lynx_F.C.|Penybont_F.C.|Haverfordwest_County_A.F.C.|OFK_Petrovac|Sint-Truidense_V.V.|Antalyaspor|Randers_FC|US_Mondorf-les-Bains|FC_AP_Brera_Strumica|FK_Spartak_Subotica|Brighton_%26_Hove_Albion_F.C.|Botev_Plovdiv|FC_Ararat_Yerevan|Dungannon_Swifts_F.C.|SC_Freiburg|FK_Mladost_Lučani|Ilves_(football)|Montpellier_HSC|Hibernian_F.C.|Wolverhampton_Wanderers_F.C.|FC_Akhmat_Grozny|Manchester_62_F.C.|KS_Cracovia|FC_Augsburg|RC_Strasbourg_Alsace|Maccabi_Netanya_F.C.|HNK_Gorica|FC_Oleksandriya|Getafe_CF|Cardiff_Metropolitan_University_F.C.|Bohemians_1905|FK_Haugesund|FK_Napredak_Kruševac|Hellas_Verona_FC|SC_Rheindorf_Altach|FC_Nantes|NK_Slaven_Belupo|FC_Botoșani|IFK_Mariehamn|Glacis_United_F.C.|AC_Libertas|Tartu_JK_Tammeka|royale_union_saint_gilloise|Tromsø_IL|FK_Dečić|FC_Aktobe|Aris_Limassol_FC|FK_Velež_Mostar|Bologna_FC_1909|Stade_Brestois_29|Aston_Villa_F.C.|heart_of_midlothian_fc|FC_Hegelmann|KF_Malisheva|FC_Samgurali_Tsqaltubo|FC_Kyzylzhar|fc_rapid_bucuresti|FC_Victoria_Rosport|FC_UTA_Arad|FC_Gomel|Debreceni_VSC|FC_Slavia_Mozyr|Lillestrøm_SK|">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+				<div class="tab-pane" id="dive-pane" role="tabpanel" aria-labelledby="dive" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_e" data-teams="|FCV_Farul_Constanța|FK_Jezero|TSV_Hartberg|IK_Sirius_Fotboll|NK_Bravo|Stade_de_Reims|FC_Koper|GFK_Tikvesh|SS_Folgore_Falciano_Calcio|Hapoel_Jerusalem_F.C.|FK_Novi_Pazar|Crystal_Palace_F.C.|Caernarfon_Town_F.C.|FC_Fiorentino|Stal_Mielec|FC_Slutsk|KF_Dukagjini|Viborg_FF|FC_Bălți|F.C._Famalicão|St_Mirren_F.C.|SK_Sigma_Olomouc|FC_Hradec_Králové|Bnei_Sakhnin_F.C.|SK_Austria_Klagenfurt_(2007)|FC_Haka|FC_Kuressaare|CA_Osasuna|Sabail_FK|Gaziantep_F.K.|Adana_Demirspor|NK_Istra_1961|Silkeborg_IF|F.C._Ashdod|Radomiak_Radom|Fortuna_Sittard|Kayserispor|FC_Wiltz_71|Oud-Heverlee_Leuven|Panetolikos_F.C.|Hapoel_Hadera_F.C.|Hatayspor|FC_Kolos_Kovalivka|Gil_Vicente_F.C.|OFI_Crete_F.C.|RCD_Mallorca|Brentford_F.C.|Sandefjord_Fotball|FC_Telavi|Grasshopper_Club_Zürich|Rayo_Vallecano|Volos_F.C.|PAS_Lamia_1964|Boavista_F.C.|EB/Streymur|NK_Radomlje|RKC_Waalwijk|MFK_Zemplín_Michalovce|SK_Dynamo_České_Budějovice|WSG_Tirol|Lions_Gibraltar_F.C.|SS_Pennarossa|VfB_Stuttgart|Girona_FC|S.S._Cosmos|SS_Murata|FC_Kryvbas_Kryvyi_Rih_(2020)|Vaasan_Palloseura|FK_Mornar|KF_Egnatia|FA_Šiauliai|Shelbourne_F.C.|FK_Radnički_1923|FC_Rukh_Lviv|FK_Auda|FK_Dukla_Banská_Bystrica|NEC_Nijmegen|AS_San_Giovanni|IFK_Värnamo|AC_Juvenes/Dogana|07_Vestur|HŠK_Posušje|AC_Oulu|Europa_Point_F.C.|FC_Hermannstadt|FC_Universitatea_Cluj|PFC_Krylia_Sovetov_Samara|Kecskeméti_TE|F.C._Arouca|Go_Ahead_Eagles|Widzew_Łódź|Turan_Tovuz|Carrick_Rangers_F.C.|FC_Atyrau|FK_Sileks|Zalaegerszegi_TE|Nea_Salamis_Famagusta_FC|FK_Sloga_Meridian|Toulouse_FC|MFK_Skalica|">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+				<div class="tab-pane" id="divf-pane" role="tabpanel" aria-labelledby="divf" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_f" data-teams="|Fulham_F.C.|SV_Werder_Bremen|Maccabi_Bnei_Reineh_F.C.|FC_Petrolul_Ploiești|AC_Monza|NK_Varaždin_(2012)|FC_Domagnano|FK_Arsenal_Tivat|FK_Železiarne_Podbrezová|FK_Pardubice|Drogheda_United_F.C.|Korona_Kielce|Casa_Pia_A.C.|FC_Lokomotiv_1929_Sofia|Rio_Ave_F.C.|FC_Chornomorets_Odesa|FC_Orenburg|BFC_Daugavpils|Karmiotissa_FC|knattspyrnufelagio_fram|FC_Pari_Nizhny_Novgorod|FK_Igman_Konjic|G.D._Estoril_Praia|FK_Jedinstvo_Bijelo_Polje|K.V.C._Westerlo|VfL_Bochum|FK_Tukums_2000|Empoli_FC|POFC_Botev_Vratsa|NK_Veres_Rivne|FK_Metta|Ross_County_F.C.|FC_Van|SC_Faetano|B68_Toftir|FC_Džiugas_Telšiai|FC_Dacia_Buiucani|College_1975_F.C.|SK_Brann|sliema_wanderers_fc|FC_Polissya_Zhytomyr|Marsaxlokk_F.C.|Penya_Encarnada_d%27Andorra|Moreirense_F.C.|JK_Tallinna_Kalev|Kilmarnock_F.C.|KF_Skënderbeu_Korçë|FC_Krumovgrad|FC_Rubin_Kazan|FC_Kaisar|FC_LNZ_Cherkasy|ASC_Oțelul_Galați|Diósgyőri_VTK|Naxxar_Lions_F.C.|FC_Ordino|Pärnu_JK_Vaprus|mtk_budapest_fc|Çaykur_Rizespor|FC_Dinamo_City|Genoa_CFC|FC_Winterthur|FK_Voska_Sport|KF_Gostivari|AFC_Bournemouth|Ethnikos_Achna_FC|1._FC_Heidenheim|Yverdon-Sport_FC|FC_Feronikeli_74|Deportivo_Alavés|Maccabi_Petah_Tikva_F.C.|Halmstads_BK|FC_Lausanne-Sport|Loughgall_F.C.|Puszcza_Niepołomice|Panserraikos_F.C.|FK_IMT|Vejle_Boldklub|Samsunspor|Lyngby_Boldklub|Hamarkameratene|FC_Zhetysu|FK_Vardar|FS_Jelgava|Dundee_F.C.|FC_Politehnica_Iași_(2010)|IF_Brommapojkarna|S.C._Farense|FC_Fakel_Voronezh|Fylkir|FC_Mondercange|FC_Gagra|PEC_Zwolle|UD_Las_Palmas|FK_Železničar_Pančevo|NK_GOŠK_Gabela|FC_West_Armenia|FC_Blau-Weiß_Linz|Handknattleiksfélag_Kópavogs|Araz-Naxçıvan_PFK|FC_Dinamo_București|">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+				<div class="tab-pane" id="divg-pane" role="tabpanel" aria-labelledby="divg" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_g" data-teams="|Barry_Town_United_F.C.|US_Lecce|Almere_City_FC|FK_Banga_Gargždai|FC_Hebar_Pazardzhik|C.F._Estrela_da_Amadora|Kapaz_PFK|Heracles_Almelo|Cagliari_Calcio|Le_Havre_AC|FC_Samtredia|Shirak_SC|MFK_Karviná|FC_Obolon_Kyiv|DFK_Dainava|FC_Smorgon|Nottingham_Forest_F.C.|FC_BKMA_Yerevan|SP_Cailungo|FC_Košice_(2018)|FC_Naftan_Novopolotsk|Ítróttarfelag_Fuglafjarðar|San_Marino_Academy_U22|FC_Florești|FC_Pas_de_la_Casa|CF_Esperança_d%27Andorra|CSF_Spartanii_Sportul|">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+				<div class="tab-pane" id="divh-pane" role="tabpanel" aria-labelledby="divh" tabindex="0">
+					<div>
+						<table class="table table-hover table-sm newclubs">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_new">
+							</tbody>
+						</table>
+					</div>
+
+					<div class="d-none">
+						<table class="table table-hover table-sm">
+							<thead>
+								<tr><th scope="col"></th><th scope="col"></th><th scope="col">Team</th><th scope="col">P</th><th scope="col">W</th><th scope="col">D</th><th scope="col">L</th><th scope="col">F</th><th scope="col">A</th><th scope="col">Pts</th><th scope="col">GD</th><th scope="col">F/P</th><th scope="col">A/P</th><th scope="col">W%</th><th scope="col">GD/P</th><th scope="col">Pts/P</th></tr>
+							</thead>
+							<tbody class="table-group-divider league" id="league_h">
+								<tr><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><th scope="row"><span class="placeholder col-12"></span></th><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td><td><span class="placeholder col-12"></span></td></tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+		<script src="../../data/seasons/2024-25.js"></script>
+		<script src="../../esl-script.js"></script>
+	</body>
+</html>

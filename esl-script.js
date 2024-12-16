@@ -83,7 +83,8 @@ if ( $("h1 .placeholder").length !== 0 ) {
 		partFour = "00";
 		thisSeason += "0";
 	}
-	$("h1").html("<span>Europa Super League</span> "+thisSeason+'<a href="../../index.html" class="btn btn-outline-dark float-end mt-2">Home</a>');
+	//$("h1").html("<span>Europa Super League</span> "+thisSeason+'<a href="../../index.html" class="btn btn-outline-dark float-end mt-2">Home</a>');
+	$("h1 .placeholder").hide();
 
 	previousSeason = [partOne,partTwo,partThree-1,parseInt(partFour)-1];
 	if ( previousSeason[2] === -1 ) {
@@ -123,7 +124,8 @@ if ( $("h1 .placeholder").length !== 0 ) {
 		.attr("href","../../"+nextSeasonParts[0]+"/"+nextSeasonParts[1]+"/"+nextSeasonParts[2] + "-" + String(nextSeasonParts[3]).padStart(2,"0") + ".html")
 		;
 
-	data = JSON.parse(prompt("Give me data!"));
+	//data = JSON.parse(prompt("Give me data!"));
+	data = THEDATA;
 
 	data.forEach(team=>{
 		team.played = team.win + team.draw + team.loss;
@@ -293,6 +295,11 @@ if ( $("h1 .placeholder").length !== 0 ) {
 
 		keys = keys.filter(k=>{return k !== "penWin"; });
 		keys = keys.filter(k=>{return k !== "penLoss"; });
+
+		if ( typeof(team.isCurrentSeason) !== "undefined" ) {
+			teamRow.addClass("current-season");
+			keys = keys.filter(k=>{return k !== "isCurrentSeason"; });
+		}
 
 		if ( keys.length !== 0 ) {
 			console.error("deal with " + keys);
