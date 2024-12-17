@@ -315,7 +315,7 @@
 	{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":6,"draw":3,"loss":9,"for":24,"against":26},
 	{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":6,"draw":3,"loss":9,"for":17,"against":24},
 	{"country":"alb","name":"Traktori","id":"KF_Lushnja","win":3,"draw":6,"loss":9,"for":16,"against":26,"isNew":true},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":4,"draw":3,"loss":11,"for":10,"against":26},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":4,"draw":3,"loss":11,"for":10,"against":26},
 	{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":3,"draw":4,"loss":11,"for":15,"against":43},
 	{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":14,"draw":3,"loss":5,"for":57,"against":26,"isChampion":true},
 	{"country":"fin","name":"KIF Helsinki","id":"FC_Kiffen_08","win":14,"draw":2,"loss":6,"for":45,"against":29},

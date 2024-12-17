@@ -351,7 +351,7 @@
 	{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":12,"draw":9,"loss":13,"for":29,"against":31},
 	{"country":"alb","name":"Sopoti","id":"KF_Sopoti_Librazhd","win":11,"draw":9,"loss":14,"for":35,"against":47,"isReturning":true},
 	{"country":"alb","name":"Shkumbini","id":"KF_Shkumbini_Peqin","win":12,"draw":9,"loss":13,"for":43,"against":40},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":9,"draw":13,"loss":12,"for":30,"against":36},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":9,"draw":13,"loss":12,"for":30,"against":36},
 	{"country":"alb","name":"Albpetrol","id":"KF_Albpetrol_Patos","win":12,"draw":7,"loss":15,"for":30,"against":48},
 	{"country":"alb","name":"Laçi","id":"KF_Laçi","win":13,"draw":4,"loss":17,"for":49,"against":53},
 	{"country":"alb","name":"Elbasani","id":"KF_Elbasani","win":10,"draw":10,"loss":14,"for":35,"against":41},

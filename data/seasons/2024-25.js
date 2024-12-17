@@ -1,6 +1,6 @@
 THEDATA = [
 	{"country":"alb","name":"Dinamo City","id":"FC_Dinamo_City","win":8,"draw":7,"loss":3,"for":28,"against":19,"isCurrentSeason":true},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":9,"draw":4,"loss":5,"for":29,"against":23,"isCurrentSeason":true},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":9,"draw":4,"loss":5,"for":29,"against":23,"isCurrentSeason":true},
 	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":7,"draw":9,"loss":2,"for":23,"against":15,"isCurrentSeason":true},
 	{"country":"alb","name":"Egnatia","id":"KF_Egnatia","win":8,"draw":6,"loss":4,"for":22,"against":15,"isCurrentSeason":true},
 	{"country":"alb","name":"Elbasani","id":"AF_Elbasani","win":4,"draw":10,"loss":4,"for":19,"against":21,"isNew":true,"isCurrentSeason":true},

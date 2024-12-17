@@ -343,7 +343,7 @@
 	{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":5,"draw":6,"loss":7,"for":18,"against":17},
 	{"country":"alb","name":"Labinoti","id":"KF_Elbasani","win":3,"draw":7,"loss":8,"for":13,"against":28},
 	{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":4,"draw":4,"loss":10,"for":18,"against":34,"isReturning":true},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":4,"draw":4,"loss":10,"for":11,"against":30},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":4,"draw":4,"loss":10,"for":11,"against":30},
 	{"country":"alb","name":"Lokomotiva Durrës","id":"KF_Teuta","win":3,"draw":4,"loss":11,"for":11,"against":26,"isRemoved":true,"isReturning":true},
 	{"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":20,"draw":1,"loss":1,"for":78,"against":23,"isChampion":true},
 	{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":13,"draw":2,"loss":7,"for":72,"against":43},

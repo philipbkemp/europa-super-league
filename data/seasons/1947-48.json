@@ -267,7 +267,7 @@
 	{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":8,"draw":3,"loss":15,"for":38,"against":56,"isRemoved":true,"isReturning":true},
 	{"country":"esp","name":"Real Gijón","id":"Sporting_de_Gijón","win":7,"draw":4,"loss":15,"for":37,"against":69,"isRemoved":true},
 	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":14,"draw":1,"loss":1,"for":56,"against":15,"isChampion":true,"isNew":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":13,"draw":2,"loss":1,"for":63,"against":9,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":13,"draw":2,"loss":1,"for":63,"against":9,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
 	{"country":"alb","name":"Dinamo Korça","id":"KF_Skënderbeu_Korçë","win":9,"draw":6,"loss":1,"for":48,"against":16,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
 	{"country":"alb","name":"Ylli i Kuq Durrës","id":"KF_Teuta","win":6,"draw":3,"loss":7,"for":30,"against":25,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},
 	{"country":"alb","name":"17 Nëntori","id":"kf_tirana","win":5,"draw":4,"loss":7,"for":26,"against":51,"isReturning":true,"isRemoved":true,"removedNote":"League contested in a group format next season"},

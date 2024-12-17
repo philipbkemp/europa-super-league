@@ -298,7 +298,7 @@
 	{"country":"alb","name":"Puna Korçë","id":"KF_Skënderbeu_Korçë","win":6,"draw":3,"loss":7,"for":20,"against":33},
 	{"country":"alb","name":"Puna Durrës","id":"KF_Teuta","win":6,"draw":1,"loss":9,"for":12,"against":23},
 	{"country":"alb","name":"Puna Kavajë","id":"KF_Besa_Kavajë","win":4,"draw":4,"loss":8,"for":21,"against":30},
-	{"country":"alb","name":"Puna Shkodër","id":"KF_Vllaznia_Shkodër","win":4,"draw":4,"loss":8,"for":12,"against":19,"isRemoved":true},
+	{"country":"alb","name":"Puna Shkodër","id":"fk_vllaznia_shkoder","win":4,"draw":4,"loss":8,"for":12,"against":19,"isRemoved":true},
 	{"country":"alb","name":"Puna Berat","id":"FK_Tomori_Berat","win":3,"draw":1,"loss":12,"for":11,"against":31,"isRemoved":true},
 	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":11,"draw":5,"loss":2,"for":31,"against":12,"isChampion":true},
 	{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":9,"draw":3,"loss":6,"for":39,"against":28},

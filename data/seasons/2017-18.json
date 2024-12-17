@@ -343,7 +343,7 @@
 	{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":11,"draw":13,"loss":12,"for":37,"against":37},
 	{"country":"alb","name":"Kamza","id":"FC_Kamza","win":12,"draw":10,"loss":14,"for":37,"against":41,"isReturning":true},
 	{"country":"alb","name":"Teuta","id":"KF_Teuta","win":12,"draw":10,"loss":14,"for":55,"against":58},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":12,"draw":8,"loss":16,"for":38,"against":42,"isRemoved":true},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":12,"draw":8,"loss":16,"for":38,"against":42,"isRemoved":true},
 	{"country":"alb","name":"Lushnja","id":"KF_Lushnja","win":2,"draw":5,"loss":29,"for":29,"against":86,"isRemoved":true,"isReturning":true},
 	{"country":"fin","name":"HJK","id":"Helsingin_Jalkapalloklubi","win":23,"draw":7,"loss":3,"for":78,"against":16,"isChampion":true},
 	{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":16,"draw":8,"loss":9,"for":51,"against":36},

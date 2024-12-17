@@ -331,7 +331,7 @@
 	{"country":"esp","name":"Logroñés","id":"CD_Logroñés","win":9,"draw":6,"loss":27,"for":33,"against":85,"isRemoved":true,"isReturning":true},
 	{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":14,"draw":3,"loss":5,"for":42,"against":23,"deduct":-4,"deductReason":"Crowd trouble"},
 	{"country":"alb","name":"Tirana","id":"kf_tirana","win":14,"draw":4,"loss":4,"for":40,"against":9,"isChampion":true},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":14,"draw":1,"loss":7,"for":30,"against":20},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":14,"draw":1,"loss":7,"for":30,"against":20},
 	{"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":9,"draw":4,"loss":9,"for":25,"against":26},
 	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":12,"draw":4,"loss":6,"for":28,"against":20},
 	{"country":"alb","name":"Shkumbini","id":"KF_Shkumbini_Peqin","win":9,"draw":3,"loss":10,"for":23,"against":27},

@@ -289,7 +289,7 @@
 	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":26,"draw":3,"loss":1,"for":96,"against":15},
 	{"country":"alb","name":"Puna Tiranë","id":"kf_tirana","win":16,"draw":5,"loss":9,"for":50,"against":35},
 	{"country":"alb","name":"Dinamo Shkodra","id":"Dinamo_Shkodra","win":13,"draw":7,"loss":10,"for":46,"against":41,"isNew":true,"isRemoved":true},
-	{"country":"alb","name":"Puna Shkodër","id":"KF_Vllaznia_Shkodër","win":11,"draw":10,"loss":9,"for":30,"against":22},
+	{"country":"alb","name":"Puna Shkodër","id":"fk_vllaznia_shkoder","win":11,"draw":10,"loss":9,"for":30,"against":22},
 	{"country":"alb","name":"Dinamo Durrësi","id":"Dinamo_Durrësi","win":10,"draw":11,"loss":9,"for":34,"against":28,"isRemoved":true},
 	{"country":"alb","name":"Puna Vlorë","id":"Flamurtari_FC","win":10,"draw":11,"loss":9,"for":33,"against":37},
 	{"country":"alb","name":"Luftëtari i Sh.B.O. \"Enver Hoxha\"","id":"Luftëtari_i_Sh.B.O.__Enver_Hoxha_","win":11,"draw":9,"loss":10,"for":38,"against":46,"isRemoved":true},

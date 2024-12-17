@@ -344,7 +344,7 @@
 	{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":17,"draw":10,"loss":9,"for":53,"against":35},
 	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":18,"draw":6,"loss":12,"for":51,"against":35},
 	{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":13,"draw":7,"loss":16,"for":49,"against":42,"isReturning":true},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":13,"draw":6,"loss":17,"for":39,"against":45},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":13,"draw":6,"loss":17,"for":39,"against":45},
 	{"country":"alb","name":"Shkumbini","id":"KF_Shkumbini_Peqin","win":12,"draw":7,"loss":17,"for":31,"against":49},
 	{"country":"alb","name":"Teuta","id":"KF_Teuta","win":11,"draw":9,"loss":16,"for":32,"against":45},
 	{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":12,"draw":6,"loss":18,"for":33,"against":50,"isRemoved":true,"isReturning":true},

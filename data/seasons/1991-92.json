@@ -376,7 +376,7 @@
 	{"country":"esp","name":"Cádiz","id":"Cádiz_CF","win":7,"draw":14,"loss":17,"for":32,"against":55},
 	{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":7,"draw":13,"loss":18,"for":31,"against":53,"isRemoved":true},
 	{"country":"esp","name":"Mallorca","id":"RCD_Mallorca","win":10,"draw":7,"loss":21,"for":30,"against":49,"isRemoved":true},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":19,"draw":6,"loss":5,"for":63,"against":23,"isChampion":true},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":19,"draw":6,"loss":5,"for":63,"against":23,"isChampion":true},
 	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":14,"draw":10,"loss":6,"for":41,"against":25},
 	{"country":"alb","name":"Teuta","id":"KF_Teuta","win":12,"draw":9,"loss":9,"for":30,"against":20},
 	{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":13,"draw":7,"loss":10,"for":42,"against":36},

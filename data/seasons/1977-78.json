@@ -358,7 +358,7 @@
 	{"country":"esp","name":"Real Betis","id":"Real_Betis","win":11,"draw":8,"loss":15,"for":51,"against":52,"isRemoved":true},
 	{"country":"esp","name":"Elche","id":"Elche_CF","win":11,"draw":5,"loss":18,"for":44,"against":66,"isRemoved":true},
 	{"country":"esp","name":"Cádiz","id":"Cádiz_CF","win":7,"draw":8,"loss":19,"for":30,"against":69,"isRemoved":true,"isNew":true},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":10,"draw":9,"loss":3,"for":32,"against":19,"isChampion":true},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":10,"draw":9,"loss":3,"for":32,"against":19,"isChampion":true},
 	{"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":10,"draw":6,"loss":6,"for":26,"against":22},
 	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":11,"draw":3,"loss":8,"for":30,"against":22},
 	{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":8,"draw":8,"loss":6,"for":24,"against":20},

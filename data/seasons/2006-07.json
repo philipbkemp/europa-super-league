@@ -345,7 +345,7 @@
 	{"country":"esp","name":"Gimnàstic","id":"Gimnàstic_de_Tarragona","win":7,"draw":7,"loss":24,"for":34,"against":69,"isRemoved":true,"isReturning":true},
 	{"country":"alb","name":"Tirana","id":"kf_tirana","win":22,"draw":6,"loss":5,"for":64,"against":33,"isChampion":true},
 	{"country":"alb","name":"Teuta","id":"KF_Teuta","win":19,"draw":10,"loss":4,"for":44,"against":26},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":18,"draw":9,"loss":6,"for":46,"against":28},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":18,"draw":9,"loss":6,"for":46,"against":28},
 	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":17,"draw":6,"loss":10,"for":44,"against":25},
 	{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":14,"draw":5,"loss":14,"for":41,"against":39},
 	{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":11,"draw":8,"loss":14,"for":35,"against":38},

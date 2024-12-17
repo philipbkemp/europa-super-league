@@ -1,14 +1,50 @@
 {
 	"teams":[
-		"kf_tirana","KF_Skënderbeu_Korçë","KF_Vllaznia_Shkodër","KF_Teuta","KF_Elbasani","Flamurtari_FC","KF_Besa_Kavajë","KS_Pogradeci","KF_Besëlidhja_Lezhë","FK_Tomori_Berat","fk_partizani_tirana","KF_Luftëtari","FK_Apolonia_Fier","KF_Erzeni_Shijak","FC_Dinamo_City","Spartaku_Shkodër","KF_Naftëtari","Luftëtari_i_Sh.B.O.__Enver_Hoxha_","Dinamo_Durrësi","KF_Spartak_Tirana","Dinamo_Shkodra","KF_Tekstilisti_Stalin","KF_Lushnja","KF_Korabi_Peshkopi","Shkëndija_Tiranë","KS_Studenti","KF_Albpetrol_Patos","KF_Burreli","KF_Përmeti","KF_Kastrioti_Krujë","KF_Laçi","KF_Selenica","KF_Sopoti_Librazhd","KF_Shkumbini_Peqin","KF_Iliria_Fushë-Krujë","KF_Bylis","KF_Egnatia","FC_Gramozi","FC_Kamza","FK_Kukësi","KF_Tërbuni_Pukë","AF_Elbasani"
+		"kf_tirana","KF_Skënderbeu_Korçë","fk_vllaznia_shkoder","KF_Teuta","KF_Elbasani","Flamurtari_FC","KF_Besa_Kavajë","KS_Pogradeci","KF_Besëlidhja_Lezhë","FK_Tomori_Berat","fk_partizani_tirana","KF_Luftëtari","FK_Apolonia_Fier","KF_Erzeni_Shijak","FC_Dinamo_City","Spartaku_Shkodër","KF_Naftëtari","Luftëtari_i_Sh.B.O.__Enver_Hoxha_","Dinamo_Durrësi","KF_Spartak_Tirana","Dinamo_Shkodra","KF_Tekstilisti_Stalin","KF_Lushnja","KF_Korabi_Peshkopi","Shkëndija_Tiranë","KS_Studenti","KF_Albpetrol_Patos","KF_Burreli","KF_Përmeti","KF_Kastrioti_Krujë","KF_Laçi","KF_Selenica","KF_Sopoti_Librazhd","KF_Shkumbini_Peqin","KF_Iliria_Fushë-Krujë","KF_Bylis","KF_Egnatia","FC_Gramozi","FC_Kamza","FK_Kukësi","KF_Tërbuni_Pukë","AF_Elbasani"
 	],"redirects":[
-		["FK_Partizani_Tirana","fk_partizani_tirana"],["KF_Tirana","kf_tirana"],["KF_Sk%C3%ABnderbeu_Kor%C3%A7%C3%AB","KF_Skënderbeu_Korçë"],["KF_Vllaznia_Shkod%C3%ABr","KF_Vllaznia_Shkodër"],["KF_Teuta_Durr%C3%ABs","KF_Teuta"],["Flamurtari_Vlor%C3%AB","Flamurtari_FC"],["Besa_Kavaj%C3%AB","KF_Besa_Kavajë"],["KF_Pogradeci","KS_Pogradeci"],["Bes%C3%ABlidhja_Lezh%C3%AB","KF_Besëlidhja_Lezhë"],["KS_Elbasani","KF_Elbasani"],["Luft%C3%ABtari_Gjirokast%C3%ABr","KF_Luftëtari"],["KF_Apolonia_Fier","FK_Apolonia_Fier"],["KF_Erzeni","KF_Erzeni_Shijak"],["FK_Dinamo_Tirana","FC_Dinamo_City"],["Spartaku_Shkod%C3%ABr","Spartaku_Shkodër"],["KF_Naft%C3%ABtari","KF_Naftëtari"],["Luft%C3%ABtari_Enver_Hoxha_Tiran%C3%AB","Luftëtari_i_Sh.B.O.__Enver_Hoxha_"],["Dinamo_Durr%C3%ABsi","Dinamo_Durrësi"],["KF_Spartaku_Tiran%C3%AB","KF_Spartak_Tirana"],["Luft%C3%ABtari_i_Sh.B.O._%22Enver_Hoxha%22","Luftëtari_i_Sh.B.O.__Enver_Hoxha_"],["KS_Lushnja","KF_Lushnja"],["KF_Luft%C3%ABtari_Gjirokast%C3%ABr","KF_Luftëtari"],["KS_Tekstilisti_Stalin_Yzberisht","KF_Tekstilisti_Stalin"],["Naft%C3%ABtari_Ku%C3%A7ov%C3%AB","KF_Naftëtari"],["Shkendija_Tirane","Shkëndija_Tiranë"],["Shk%C3%ABndija_Tiran%C3%AB","Shkëndija_Tiranë"],["KF_Albpetrol","KF_Albpetrol_Patos"],["KS_Burreli","KF_Burreli"],["KF_P%C3%ABrmeti","KF_Përmeti"],["KS_Kastrioti","KF_Kastrioti_Krujë"],["KF_La%C3%A7i","KF_Laçi"],["KS_Selenic%C3%AB","KF_Selenica"],["Sopoti_Librazhd","KF_Sopoti_Librazhd"],["Shkumbini_Peqin","KF_Shkumbini_Peqin"],["KS_Iliria","KF_Iliria_Fushë-Krujë"],["KF_Bylis_Ballsh","KF_Bylis"],["FK_Egnatia","KF_Egnatia"],["KS_Gramozi_Ersek%C3%AB","FC_Gramozi"],["FK_Kuk%C3%ABsi","FK_Kukësi"],["KF_Shkumbini","KF_Shkumbini_Peqin"],["KF_Tomori","FK_Tomori_Berat"],["KF_T%C3%ABrbuni_Puk%C3%AB","KF_Tërbuni_Pukë"],["Luft%C3%ABtari_Gjirokast%C3%ABr_FC","KF_Luftëtari"],["KF_Luft%C3%ABtari","KF_Luftëtari"]
+		["KF_Vllaznia_Shkodër","fk_vllaznia_shkoder"],["FK_Partizani_Tirana","fk_partizani_tirana"],["KF_Tirana","kf_tirana"],["KF_Sk%C3%ABnderbeu_Kor%C3%A7%C3%AB","KF_Skënderbeu_Korçë"],["KF_Vllaznia_Shkod%C3%ABr","fk_vllaznia_shkoder"],["KF_Teuta_Durr%C3%ABs","KF_Teuta"],["Flamurtari_Vlor%C3%AB","Flamurtari_FC"],["Besa_Kavaj%C3%AB","KF_Besa_Kavajë"],["KF_Pogradeci","KS_Pogradeci"],["Bes%C3%ABlidhja_Lezh%C3%AB","KF_Besëlidhja_Lezhë"],["KS_Elbasani","KF_Elbasani"],["Luft%C3%ABtari_Gjirokast%C3%ABr","KF_Luftëtari"],["KF_Apolonia_Fier","FK_Apolonia_Fier"],["KF_Erzeni","KF_Erzeni_Shijak"],["FK_Dinamo_Tirana","FC_Dinamo_City"],["Spartaku_Shkod%C3%ABr","Spartaku_Shkodër"],["KF_Naft%C3%ABtari","KF_Naftëtari"],["Luft%C3%ABtari_Enver_Hoxha_Tiran%C3%AB","Luftëtari_i_Sh.B.O.__Enver_Hoxha_"],["Dinamo_Durr%C3%ABsi","Dinamo_Durrësi"],["KF_Spartaku_Tiran%C3%AB","KF_Spartak_Tirana"],["Luft%C3%ABtari_i_Sh.B.O._%22Enver_Hoxha%22","Luftëtari_i_Sh.B.O.__Enver_Hoxha_"],["KS_Lushnja","KF_Lushnja"],["KF_Luft%C3%ABtari_Gjirokast%C3%ABr","KF_Luftëtari"],["KS_Tekstilisti_Stalin_Yzberisht","KF_Tekstilisti_Stalin"],["Naft%C3%ABtari_Ku%C3%A7ov%C3%AB","KF_Naftëtari"],["Shkendija_Tirane","Shkëndija_Tiranë"],["Shk%C3%ABndija_Tiran%C3%AB","Shkëndija_Tiranë"],["KF_Albpetrol","KF_Albpetrol_Patos"],["KS_Burreli","KF_Burreli"],["KF_P%C3%ABrmeti","KF_Përmeti"],["KS_Kastrioti","KF_Kastrioti_Krujë"],["KF_La%C3%A7i","KF_Laçi"],["KS_Selenic%C3%AB","KF_Selenica"],["Sopoti_Librazhd","KF_Sopoti_Librazhd"],["Shkumbini_Peqin","KF_Shkumbini_Peqin"],["KS_Iliria","KF_Iliria_Fushë-Krujë"],["KF_Bylis_Ballsh","KF_Bylis"],["FK_Egnatia","KF_Egnatia"],["KS_Gramozi_Ersek%C3%AB","FC_Gramozi"],["FK_Kuk%C3%ABsi","FK_Kukësi"],["KF_Shkumbini","KF_Shkumbini_Peqin"],["KF_Tomori","FK_Tomori_Berat"],["KF_T%C3%ABrbuni_Puk%C3%AB","KF_Tërbuni_Pukë"],["Luft%C3%ABtari_Gjirokast%C3%ABr_FC","KF_Luftëtari"],["KF_Luft%C3%ABtari","KF_Luftëtari"]
 	],"previous":[
-		"KF_Bylis","FC_Dinamo_City","KF_Egnatia","AF_Elbasani","KF_Laçi","fk_partizani_tirana","KF_Skënderbeu_Korçë","KF_Teuta","kf_tirana","KF_Vllaznia_Shkodër"
+		"KF_Bylis","FC_Dinamo_City","KF_Egnatia","AF_Elbasani","KF_Laçi","fk_partizani_tirana","KF_Skënderbeu_Korçë","KF_Teuta","kf_tirana","fk_vllaznia_shkoder"
 	]
 }
 
 /*
 	FK_Partizani_Tirana	=>	fk_partizani_tirana
 	KF_Tirana					=>	kf_tirana
+	KF_Vllaznia_Shkodër	=>	fk_vllaznia_shkoder
+*/
+
+/*
+71		ALB	"Flamurtari_FC"
+60		ALB	"KF_Elbasani"
+60		ALB	"KF_Besa_Kavajë"
+41		ALB	"KF_Lushnja"
+40		ALB	"FK_Tomori_Berat"
+39		ALB	"KF_Luftëtari"
+33		ALB	"FK_Apolonia_Fier"
+22		ALB	"KF_Besëlidhja_Lezhë"
+19		ALB	"KF_Shkumbini_Peqin"
+15		ALB	"KF_Kastrioti_Krujë"
+14		ALB	"KF_Naftëtari"
+12		ALB	"FK_Kukësi"
+10		ALB	"Shkëndija_Tiranë"
+9		ALB	"KS_Pogradeci"
+7		ALB	"KF_Albpetrol_Patos"
+6		ALB	"KF_Erzeni_Shijak"
+5		ALB	"KF_Sopoti_Librazhd"
+4		ALB	"KF_Burreli"
+3		ALB	"KF_Spartak_Tirana"
+3		ALB	"FC_Kamza"
+3		ALB	"Dinamo_Durrësi"
+3		ALB	"Luftëtari_i_Sh.B.O.__Enver_Hoxha_"
+2		ALB	"KF_Tekstilisti_Stalin"
+2		ALB	"KF_Korabi_Peshkopi"
+1		ALB	"Spartaku_Shkodër"
+1		ALB	"KS_Studenti"
+1		ALB	"KF_Tërbuni_Pukë"
+1		ALB	"KF_Selenica"
+1		ALB	"KF_Përmeti"
+1		ALB	"KF_Iliria_Fushë-Krujë"
+1		ALB	"FC_Gramozi"
+1		ALB	"Dinamo_Shkodra"
 */

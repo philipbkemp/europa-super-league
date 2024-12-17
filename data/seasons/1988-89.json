@@ -377,7 +377,7 @@
 	{"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":12,"draw":9,"loss":11,"for":36,"against":24},
 	{"country":"alb","name":"Besëlidhja","id":"KF_Besëlidhja_Lezhë","win":10,"draw":7,"loss":15,"for":33,"against":46},
 	{"country":"alb","name":"Labinoti","id":"KF_Elbasani","win":12,"draw":7,"loss":13,"for":37,"against":37},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":14,"draw":9,"loss":9,"for":46,"against":33},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":14,"draw":9,"loss":9,"for":46,"against":33},
 	{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":13,"draw":6,"loss":13,"for":33,"against":36},
 	{"country":"alb","name":"Lokomotiva Durrës","id":"KF_Teuta","win":7,"draw":11,"loss":14,"for":26,"against":40},
 	{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":11,"draw":4,"loss":17,"for":36,"against":47},

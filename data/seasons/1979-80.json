@@ -380,7 +380,7 @@
 	{"country":"esp","name":"Málaga","id":"CD_Málaga","win":8,"draw":6,"loss":20,"for":28,"against":58,"isRemoved":true,"deduct":-3,"deductReason":"Failure to attend a match","isReturning":true},
 	{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":14,"draw":9,"loss":3,"for":41,"against":23,"isChampion":true},
 	{"country":"alb","name":"17 Nëntori","id":"kf_tirana","win":11,"draw":10,"loss":5,"for":33,"against":27},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":12,"draw":7,"loss":7,"for":37,"against":26},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":12,"draw":7,"loss":7,"for":37,"against":26},
 	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":9,"draw":11,"loss":6,"for":41,"against":30},
 	{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":10,"draw":9,"loss":7,"for":33,"against":25},
 	{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":9,"draw":10,"loss":7,"for":27,"against":24,"isReturning":true},

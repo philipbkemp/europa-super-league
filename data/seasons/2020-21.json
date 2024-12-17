@@ -343,7 +343,7 @@
 	{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":5,"draw":16,"loss":17,"for":34,"against":57,"isRemoved":true},
 	{"country":"esp","name":"Eibar","id":"SD_Eibar","win":6,"draw":12,"loss":20,"for":29,"against":52,"isRemoved":true},
 	{"country":"alb","name":"Teuta","id":"KF_Teuta","win":17,"draw":15,"loss":4,"for":42,"against":16,"isChampion":true},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":19,"draw":9,"loss":8,"for":44,"against":22},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":19,"draw":9,"loss":8,"for":44,"against":22},
 	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":17,"draw":14,"loss":5,"for":53,"against":23},
 	{"country":"alb","name":"Laçi","id":"KF_Laçi","win":16,"draw":13,"loss":7,"for":41,"against":26},
 	{"country":"alb","name":"Tirana","id":"kf_tirana","win":15,"draw":13,"loss":8,"for":41,"against":26},

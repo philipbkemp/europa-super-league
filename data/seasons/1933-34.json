@@ -227,7 +227,7 @@
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":8,"draw":0,"loss":10,"for":42,"against":40},
 	{"country":"esp","name":"Arenas","id":"Arenas_Club_de_Getxo","win":3,"draw":4,"loss":11,"for":18,"against":49},
 	{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":5,"draw":2,"loss":1,"for":18,"against":6,"isChampion":true},
-	{"country":"alb","name":"Bashkimi Shkodran","id":"KF_Vllaznia_Shkodër","win":5,"draw":0,"loss":3,"for":14,"against":9},
+	{"country":"alb","name":"Bashkimi Shkodran","id":"fk_vllaznia_shkoder","win":5,"draw":0,"loss":3,"for":14,"against":9},
 	{"country":"alb","name":"Teuta","id":"KF_Teuta","win":3,"draw":2,"loss":3,"for":12,"against":10},
 	{"country":"alb","name":"Tirana","id":"kf_tirana","win":3,"draw":2,"loss":3,"for":14,"against":12},
 	{"country":"alb","name":"Kavaja","id":"KF_Besa_Kavajë","win":1,"draw":0,"loss":7,"for":5,"against":26,"isNew":true},

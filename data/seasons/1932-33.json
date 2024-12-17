@@ -214,7 +214,7 @@
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":4,"draw":5,"loss":9,"for":34,"against":53},
 	{"country":"esp","name":"Alavés","id":"Deportivo_Alavés","win":5,"draw":2,"loss":11,"for":21,"against":42,"isRemoved":true},
 	{"country":"alb","name":"Tirana","id":"kf_tirana","win":5,"draw":3,"loss":0,"for":29,"against":6,"isChampion":true,"isReturning":true},
-	{"country":"alb","name":"Bashkimi Shkodran","id":"KF_Vllaznia_Shkodër","win":4,"draw":3,"loss":1,"for":15,"against":6,"isReturning":true},
+	{"country":"alb","name":"Bashkimi Shkodran","id":"fk_vllaznia_shkoder","win":4,"draw":3,"loss":1,"for":15,"against":6,"isReturning":true},
 	{"country":"alb","name":"Teuta","id":"KF_Teuta","win":5,"draw":1,"loss":2,"for":25,"against":11,"isReturning":true},
 	{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":2,"draw":1,"loss":5,"for":14,"against":13,"isReturning":true},
 	{"country":"alb","name":"Elbasani","id":"KF_Elbasani","win":0,"draw":0,"loss":8,"for":4,"against":51,"isReturning":true,"isRemoved":true},

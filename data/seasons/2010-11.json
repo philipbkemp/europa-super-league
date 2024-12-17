@@ -344,7 +344,7 @@
 	{"country":"esp","name":"Almería","id":"UD_Almería","win":6,"draw":12,"loss":20,"for":36,"against":70,"isRemoved":true},
 	{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":23,"draw":4,"loss":6,"for":52,"against":23,"isChampion":true},
 	{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":22,"draw":3,"loss":8,"for":62,"against":27,"deduct":-3,"deductReason":"Leaving a match before completion"},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":17,"draw":8,"loss":8,"for":41,"against":27},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":17,"draw":8,"loss":8,"for":41,"against":27},
 	{"country":"alb","name":"Laçi","id":"KF_Laçi","win":14,"draw":5,"loss":14,"for":44,"against":44},
 	{"country":"alb","name":"Tirana","id":"kf_tirana","win":11,"draw":11,"loss":11,"for":42,"against":31},
 	{"country":"alb","name":"Bylis","id":"KF_Bylis","win":13,"draw":4,"loss":16,"for":44,"against":48,"isReturning":true},

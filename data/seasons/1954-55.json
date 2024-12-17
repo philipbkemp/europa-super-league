@@ -289,7 +289,7 @@
 	{"country":"alb","name":"Partizani","id":"fk_partizani_tirana","win":21,"draw":1,"loss":0,"for":93,"against":8,"isChampion":true},
 	{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":16,"draw":4,"loss":2,"for":56,"against":13},
 	{"country":"alb","name":"Puna Tiranë","id":"kf_tirana","win":14,"draw":3,"loss":5,"for":47,"against":21},
-	{"country":"alb","name":"Puna Shkodër","id":"KF_Vllaznia_Shkodër","win":9,"draw":5,"loss":8,"for":22,"against":28},
+	{"country":"alb","name":"Puna Shkodër","id":"fk_vllaznia_shkoder","win":9,"draw":5,"loss":8,"for":22,"against":28},
 	{"country":"alb","name":"Luftëtari Sh.B.O. \"Enver Hoxha\"","id":"Luftëtari_i_Sh.B.O.__Enver_Hoxha_","win":9,"draw":4,"loss":9,"for":28,"against":27},
 	{"country":"alb","name":"Puna Kavajë","id":"KF_Besa_Kavajë","win":9,"draw":2,"loss":11,"for":28,"against":37,"isReturning":true},
 	{"country":"alb","name":"Puna Vlorë","id":"Flamurtari_FC","win":8,"draw":4,"loss":10,"for":23,"against":32},

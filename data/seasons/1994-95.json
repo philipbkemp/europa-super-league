@@ -357,7 +357,7 @@
 	{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":10,"draw":10,"loss":10,"for":37,"against":27},
 	{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":12,"draw":6,"loss":12,"for":21,"against":25,"isReturning":true},
 	{"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":12,"draw":6,"loss":12,"for":33,"against":38},
-	{"country":"alb","name":"Vllaznia","id":"KF_Vllaznia_Shkodër","win":12,"draw":5,"loss":13,"for":31,"against":28},
+	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":12,"draw":5,"loss":13,"for":31,"against":28},
 	{"country":"alb","name":"Elbasani","id":"KF_Elbasani","win":10,"draw":9,"loss":11,"for":22,"against":20},
 	{"country":"alb","name":"Besëlidhja","id":"KF_Besëlidhja_Lezhë","win":11,"draw":7,"loss":12,"for":29,"against":34},
 	{"country":"alb","name":"Laçi","id":"KF_Laçi","win":13,"draw":3,"loss":14,"for":30,"against":40},
