@@ -680,7 +680,7 @@
 	{"country":"svk","name":"Nitra","id":"FC_Nitra","win":9,"draw":8,"loss":16,"for":34,"against":53},
 	{"country":"svk","name":"ViOn Zlaté Moravce","id":"FC_ViOn_Zlaté_Moravce","win":5,"draw":8,"loss":20,"for":21,"against":63,"isRemoved":true},
 	{"country":"and","name":"Sant Julià","id":"ue_sant_julia","win":16,"draw":2,"loss":2,"for":84,"against":15,"isChampion":true},
-	{"country":"and","name":"FC Santa Coloma","id":"FC_Santa_Coloma","win":15,"draw":3,"loss":2,"for":75,"against":12},
+	{"country":"and","name":"FC Santa Coloma","id":"fc_santa_coloma","win":15,"draw":3,"loss":2,"for":75,"against":12},
 	{"country":"and","name":"Lusitanos","id":"FC_Lusitanos","win":10,"draw":0,"loss":10,"for":39,"against":30},
 	{"country":"and","name":"Principat","id":"CE_Principat","win":10,"draw":1,"loss":9,"for":38,"against":47},
 	{"country":"and","name":"UE Santa Coloma","id":"UE_Santa_Coloma","win":12,"draw":3,"loss":5,"for":65,"against":31,"isNew":true},

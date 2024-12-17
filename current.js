@@ -97,7 +97,7 @@ if ( country === "" || tbl === "" || $tbl.length === 0 ) {
 					team.isRemoved = true;
 				}
 				if ( $(cols[9]).find("a").length !== 0 ) {
-					console.error("Note about " + teamName);
+					console.error("Note about " + team.id);
 				}
 				teams.push(team);
 			}

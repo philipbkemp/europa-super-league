@@ -707,7 +707,7 @@
 	{"country":"svk","name":"Petrimex Prievidza","id":"FC_Baník_Prievidza","win":7,"draw":4,"loss":21,"for":31,"against":65},
 	{"country":"and","name":"FC Encamp","id":"FC_Encamp","win":15,"draw":2,"loss":1,"for":64,"against":18,"isChampion":true,"isNew":true},
 	{"country":"and","name":"CE Principat","id":"CE_Principat","win":14,"draw":3,"loss":1,"for":85,"against":22,"isNew":true},
-	{"country":"and","name":"FC Santa Coloma","id":"FC_Santa_Coloma","win":13,"draw":3,"loss":2,"for":52,"against":26,"isNew":true},
+	{"country":"and","name":"FC Santa Coloma","id":"fc_santa_coloma","win":13,"draw":3,"loss":2,"for":52,"against":26,"isNew":true},
 	{"country":"and","name":"FC Montanbaldosa","id":"FC_Aldosa","win":9,"draw":1,"loss":8,"for":36,"against":29,"isNew":true},
 	{"country":"and","name":"Deportivo La Massana","id":"Deportivo_La_Massana","win":7,"draw":3,"loss":8,"for":26,"against":36,"isNew":true},
 	{"country":"and","name":"Sporting Club d'Engordany","id":"sporting_club_d_engordany","win":7,"draw":2,"loss":9,"for":38,"against":35,"isNew":true,"isRemoved":true},

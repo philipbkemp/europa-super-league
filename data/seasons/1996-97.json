@@ -709,7 +709,7 @@
 	{"country":"and","name":"Principat","id":"CE_Principat","win":20,"draw":1,"loss":1,"for":115,"against":12,"isChampion":true},
 	{"country":"and","name":"Veterans Andorra","id":"FC_Andorra","win":19,"draw":2,"loss":1,"for":84,"against":25,"isNew":true},
 	{"country":"and","name":"Encamp","id":"FC_Encamp","win":12,"draw":5,"loss":5,"for":66,"against":25},
-	{"country":"and","name":"FC Santa Coloma","id":"FC_Santa_Coloma","win":10,"draw":3,"loss":9,"for":57,"against":31},
+	{"country":"and","name":"FC Santa Coloma","id":"fc_santa_coloma","win":10,"draw":3,"loss":9,"for":57,"against":31},
 	{"country":"and","name":"Aldosa","id":"FC_Aldosa","win":10,"draw":3,"loss":9,"for":34,"against":37,"isRemoved":true},
 	{"country":"and","name":"Sporting d'Escaldes","id":"Sporting_Club_d%27Escaldes","win":8,"draw":6,"loss":8,"for":51,"against":39,"isNew":true},
 	{"country":"and","name":"Sant Julià","id":"ue_sant_julia","win":9,"draw":3,"loss":10,"for":38,"against":52},

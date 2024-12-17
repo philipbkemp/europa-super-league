@@ -680,7 +680,7 @@
 	{"country":"svk","name":"FC Senec","id":"FC_Senec","win":6,"draw":10,"loss":17,"for":30,"against":51,"isRemoved":true},
 	{"country":"svk","name":"ViOn Zlaté Moravce","id":"FC_ViOn_Zlaté_Moravce","win":6,"draw":7,"loss":20,"for":22,"against":66,"isNew":true},
 	{"country":"svk","name":"Trenčín","id":"AS_Trenčín","win":3,"draw":7,"loss":23,"for":26,"against":77,"isRemoved":true},
-	{"country":"and","name":"FC Santa Coloma","id":"FC_Santa_Coloma","win":14,"draw":5,"loss":1,"for":69,"against":10,"isChampion":true},
+	{"country":"and","name":"FC Santa Coloma","id":"fc_santa_coloma","win":14,"draw":5,"loss":1,"for":69,"against":10,"isChampion":true},
 	{"country":"and","name":"Rànger's","id":"FC_Rànger%27s","win":12,"draw":4,"loss":4,"for":47,"against":30},
 	{"country":"and","name":"Sant Julià","id":"ue_sant_julia","win":12,"draw":5,"loss":3,"for":59,"against":19},
 	{"country":"and","name":"Lusitans","id":"FC_Lusitanos","win":10,"draw":1,"loss":9,"for":44,"against":29},

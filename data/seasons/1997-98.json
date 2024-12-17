@@ -689,7 +689,7 @@
 	{"country":"svk","name":"Lokomotíva Košice","id":"FC_Lokomotíva_Košice","win":7,"draw":5,"loss":18,"for":31,"against":54,"isRemoved":true},
 	{"country":"svk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":5,"draw":6,"loss":19,"for":26,"against":51,"isRemoved":true},
 	{"country":"and","name":"Principat","id":"CE_Principat","win":18,"draw":2,"loss":0,"for":89,"against":9,"isChampion":true},
-	{"country":"and","name":"FC Santa Coloma","id":"FC_Santa_Coloma","win":18,"draw":1,"loss":1,"for":99,"against":11},
+	{"country":"and","name":"FC Santa Coloma","id":"fc_santa_coloma","win":18,"draw":1,"loss":1,"for":99,"against":11},
 	{"country":"and","name":"Encamp","id":"FC_Encamp","win":11,"draw":5,"loss":4,"for":57,"against":27},
 	{"country":"and","name":"Inter d'Escaldes","id":"Inter_Club_d%27Escaldes","win":11,"draw":2,"loss":7,"for":34,"against":28},
 	{"country":"and","name":"Sporting d'Escaldes","id":"Sporting_Club_d%27Escaldes","win":7,"draw":4,"loss":9,"for":37,"against":63},

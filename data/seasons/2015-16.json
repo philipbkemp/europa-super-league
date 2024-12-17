@@ -647,7 +647,7 @@
 	{"country":"svk","name":"Senica","id":"FK_Senica","win":7,"draw":9,"loss":17,"for":30,"against":48},
 	{"country":"svk","name":"Zemplín Michalovce","id":"MFK_Zemplín_Michalovce","win":7,"draw":8,"loss":18,"for":32,"against":55,"isNew":true},
 	{"country":"svk","name":"Skalica","id":"MFK_Skalica","win":6,"draw":6,"loss":21,"for":30,"against":62,"isRemoved":true,"isNew":true},
-	{"country":"and","name":"FC Santa Coloma","id":"FC_Santa_Coloma","win":14,"draw":5,"loss":1,"for":44,"against":8,"isChampion":true},
+	{"country":"and","name":"FC Santa Coloma","id":"fc_santa_coloma","win":14,"draw":5,"loss":1,"for":44,"against":8,"isChampion":true},
 	{"country":"and","name":"Lusitanos","id":"FC_Lusitanos","win":12,"draw":3,"loss":5,"for":37,"against":28},
 	{"country":"and","name":"UE Santa Coloma","id":"UE_Santa_Coloma","win":8,"draw":6,"loss":6,"for":34,"against":20},
 	{"country":"and","name":"Sant Julià","id":"ue_sant_julia","win":9,"draw":5,"loss":6,"for":41,"against":20},
