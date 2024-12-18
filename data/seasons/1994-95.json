@@ -491,7 +491,7 @@
 	{"country":"geo","name":"Duruji Kvareli","id":"FC_Duruji_Kvareli","win":8,"draw":3,"loss":19,"for":28,"against":65,"isNew":true},
 	{"country":"geo","name":"Sapovnela Terjola","id":"FC_Sapovnela_Terjola","win":6,"draw":6,"loss":18,"for":34,"against":76,"isRemoved":true,"isNew":true},
 	{"country":"geo","name":"Samgurali Tskhaltubo","id":"FC_Samgurali_Tsqaltubo","win":5,"draw":6,"loss":19,"for":30,"against":68,"isRemoved":true,"isReturning":true},
-	{"country":"arm","name":"Shirak","id":"Shirak_SC","win":24,"draw":4,"loss":0,"for":83,"against":19,"isChampion":true},
+	{"country":"arm","name":"Shirak","id":"shirak_sc","win":24,"draw":4,"loss":0,"for":83,"against":19,"isChampion":true},
 	{"country":"arm","name":"Homenetmen Yerevan","id":"FC_Pyunik","win":23,"draw":1,"loss":4,"for":113,"against":24},
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":21,"draw":5,"loss":2,"for":109,"against":21},
 	{"country":"arm","name":"Homenmen-FIMA Yerevan","id":"Erebuni-Homenmen_FC","win":15,"draw":6,"loss":7,"for":65,"against":45},

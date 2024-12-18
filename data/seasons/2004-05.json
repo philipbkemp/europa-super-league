@@ -460,7 +460,7 @@
 	{"country":"arm","name":"Dinamo-Zenit","id":"Ulisses_FC","win":7,"draw":6,"loss":15,"for":23,"against":51},
 	{"country":"arm","name":"Kilikia","id":"Kilikia_FC","win":7,"draw":5,"loss":16,"for":32,"against":49,"isReturning":true},
 	{"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":6,"draw":6,"loss":16,"for":31,"against":54},
-	{"country":"arm","name":"Shirak","id":"Shirak_SC","win":4,"draw":9,"loss":15,"for":27,"against":49},
+	{"country":"arm","name":"Shirak","id":"shirak_sc","win":4,"draw":9,"loss":15,"for":27,"against":49},
 	{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":24,"draw":6,"loss":4,"for":52,"against":18,"isChampion":true},
 	{"country":"aze","name":"Khazar Lankaran","id":"Khazar_Lankaran_FK","win":24,"draw":6,"loss":4,"for":68,"against":15,"isReturning":true},
 	{"country":"aze","name":"Karvan","id":"Karvan_FK","win":23,"draw":7,"loss":4,"for":66,"against":18,"isNew":true},

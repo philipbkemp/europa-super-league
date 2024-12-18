@@ -452,7 +452,7 @@
 	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":17,"draw":2,"loss":3,"for":77,"against":23,"isChampion":true,"isReturning":true},
 	{"country":"arm","name":"Zvartnots-AAL","id":"Zvartnots-AAL_FC","win":16,"draw":0,"loss":6,"for":52,"against":21},
 	{"country":"arm","name":"Spartak Yerevan","id":"Spartak_Yerevan_FC","win":15,"draw":3,"loss":4,"for":57,"against":13,"isNew":true},
-	{"country":"arm","name":"Shirak","id":"Shirak_SC","win":14,"draw":5,"loss":3,"for":52,"against":19},
+	{"country":"arm","name":"Shirak","id":"shirak_sc","win":14,"draw":5,"loss":3,"for":52,"against":19},
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":13,"draw":3,"loss":6,"for":42,"against":22},
 	{"country":"arm","name":"Mika Ashtarak","id":"FC_Mika","win":12,"draw":5,"loss":5,"for":44,"against":20},
 	{"country":"arm","name":"Banants","id":"FC_Urartu","win":10,"draw":4,"loss":8,"for":46,"against":28,"isReturning":true},

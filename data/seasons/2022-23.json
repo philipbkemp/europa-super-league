@@ -491,7 +491,7 @@
 	{"country":"arm","name":"Alashkert","id":"FC_Alashkert","win":20,"draw":6,"loss":10,"for":58,"against":37},
 	{"country":"arm","name":"Van","id":"FC_Van","win":11,"draw":7,"loss":18,"for":38,"against":59},
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":10,"draw":8,"loss":18,"for":29,"against":42},
-	{"country":"arm","name":"Shirak","id":"Shirak_SC","win":10,"draw":6,"loss":20,"for":25,"against":55,"isReturning":true},
+	{"country":"arm","name":"Shirak","id":"shirak_sc","win":10,"draw":6,"loss":20,"for":25,"against":55,"isReturning":true},
 	{"country":"arm","name":"Noah","id":"FC_Noah","win":8,"draw":8,"loss":20,"for":34,"against":66},
 	{"country":"arm","name":"BKMA","id":"FC_BKMA_Yerevan","win":7,"draw":11,"loss":18,"for":36,"against":53},
 	{"country":"arm","name":"Lernayin Artsakh","id":"Lernayin_Artsakh_FC","win":5,"draw":7,"loss":24,"for":16,"against":59,"isRemoved":true,"isReturning":true},

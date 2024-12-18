@@ -73,6 +73,9 @@ clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub",
 	/*and*/
 	,"ue_sant_julia","fc_santa_coloma"
 
+	/*arm*/
+	,"shirak_sc"
+
 	];
 
 multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade"];

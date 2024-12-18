@@ -451,7 +451,7 @@
 	{"country":"geo","name":"Mertskhali Ozurgeti","id":"FC_Mertskhali_Ozurgeti","win":2,"draw":5,"loss":25,"for":22,"against":72,"isRemoved":true,"isReturning":true},
 	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":23,"draw":5,"loss":0,"for":87,"against":11,"isChampion":true},
 	{"country":"arm","name":"Banants","id":"FC_Urartu","win":21,"draw":3,"loss":4,"for":89,"against":15},
-	{"country":"arm","name":"Shirak","id":"Shirak_SC","win":17,"draw":2,"loss":9,"for":63,"against":34},
+	{"country":"arm","name":"Shirak","id":"shirak_sc","win":17,"draw":2,"loss":9,"for":63,"against":34},
 	{"country":"arm","name":"Mika Ashtarak","id":"FC_Mika","win":15,"draw":6,"loss":7,"for":49,"against":29},
 	{"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":8,"draw":7,"loss":13,"for":29,"against":56},
 	{"country":"arm","name":"Dinamo-2000 Yerevan","id":"Ulisses_FC","win":5,"draw":4,"loss":19,"for":18,"against":69},

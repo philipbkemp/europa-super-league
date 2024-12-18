@@ -473,7 +473,7 @@
 	{"country":"geo","name":"Iberia Samtredia","id":"FC_Samtredia","win":0,"draw":4,"loss":28,"for":10,"against":73,"isRemoved":true,"isReturning":true},
 	{"country":"arm","name":"Araks Ararat","id":"Araks_Ararat_FC","win":19,"draw":4,"loss":5,"for":65,"against":33,"isChampion":true,"isRemoved":true},
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":18,"draw":5,"loss":5,"for":50,"against":23},
-	{"country":"arm","name":"Shirak","id":"Shirak_SC","win":17,"draw":7,"loss":4,"for":64,"against":21},
+	{"country":"arm","name":"Shirak","id":"shirak_sc","win":17,"draw":7,"loss":4,"for":64,"against":21},
 	{"country":"arm","name":"Mika","id":"FC_Mika","win":15,"draw":4,"loss":9,"for":45,"against":31,"isNew":true},
 	{"country":"arm","name":"Zvartnots-AAL","id":"Zvartnots-AAL_FC","win":11,"draw":8,"loss":9,"for":44,"against":41},
 	{"country":"arm","name":"Kilikia","id":"Kilikia_FC","win":9,"draw":3,"loss":16,"for":49,"against":56},

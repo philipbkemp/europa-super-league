@@ -471,7 +471,7 @@
 	{"country":"arm","name":"Ulisses","id":"Ulisses_FC","win":16,"draw":5,"loss":7,"for":47,"against":25},
 	{"country":"arm","name":"Banants","id":"FC_Urartu","win":13,"draw":5,"loss":10,"for":40,"against":29},
 	{"country":"arm","name":"Gandzasar Kapan","id":"FC_Gandzasar_Kapan","win":12,"draw":2,"loss":14,"for":32,"against":47},
-	{"country":"arm","name":"Shirak","id":"Shirak_SC","win":5,"draw":8,"loss":15,"for":24,"against":55},
+	{"country":"arm","name":"Shirak","id":"shirak_sc","win":5,"draw":8,"loss":15,"for":24,"against":55},
 	{"country":"arm","name":"Kilikia","id":"Kilikia_FC","win":5,"draw":5,"loss":18,"for":22,"against":51},
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":2,"draw":8,"loss":18,"for":20,"against":54,"isRemoved":true},
 	{"country":"aze","name":"Inter Baku","id":"Shamakhi_FK","win":7,"draw":8,"loss":5,"for":22,"against":19,"isChampion":true},

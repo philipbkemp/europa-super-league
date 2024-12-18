@@ -461,7 +461,7 @@
 	{"country":"arm","name":"Alashkert","id":"FC_Alashkert","win":14,"draw":5,"loss":9,"for":51,"against":31},
 	{"country":"arm","name":"Ararat","id":"FC_Ararat_Yerevan","win":9,"draw":6,"loss":12,"for":31,"against":36},
 	{"country":"arm","name":"Noah","id":"FC_Noah","win":14,"draw":6,"loss":8,"for":37,"against":27},
-	{"country":"arm","name":"Shirak","id":"Shirak_SC","win":13,"draw":7,"loss":8,"for":40,"against":30},
+	{"country":"arm","name":"Shirak","id":"shirak_sc","win":13,"draw":7,"loss":8,"for":40,"against":30},
 	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":8,"draw":2,"loss":12,"for":39,"against":42},
 	{"country":"arm","name":"Urartu","id":"FC_Urartu","win":8,"draw":6,"loss":8,"for":26,"against":27},
 	{"country":"arm","name":"Gandzasar","id":"FC_Gandzasar_Kapan","win":6,"draw":7,"loss":9,"for":25,"against":29},

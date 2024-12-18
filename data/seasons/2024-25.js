@@ -24,7 +24,7 @@ THEDATA = [
 	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":12,"draw":1,"loss":4,"for":33,"against":13,"isCurrentSeason":true},
 	{"country":"arm","name":"Ararat-Armenia","id":"FC_Ararat-Armenia","win":11,"draw":2,"loss":4,"for":37,"against":17,"isCurrentSeason":true},
 	{"country":"arm","name":"Van","id":"FC_Van","win":9,"draw":2,"loss":6,"for":34,"against":21,"isCurrentSeason":true},
-	{"country":"arm","name":"Shirak","id":"Shirak_SC","win":7,"draw":3,"loss":7,"for":14,"against":23,"isCurrentSeason":true},
+	{"country":"arm","name":"Shirak","id":"shirak_sc","win":7,"draw":3,"loss":7,"for":14,"against":23,"isCurrentSeason":true},
 	{"country":"arm","name":"BKMA","id":"FC_BKMA_Yerevan","win":6,"draw":2,"loss":9,"for":29,"against":33,"isCurrentSeason":true},
 	{"country":"arm","name":"West Armenia","id":"FC_West_Armenia","win":5,"draw":2,"loss":11,"for":18,"against":42,"isCurrentSeason":true},
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":4,"draw":3,"loss":10,"for":16,"against":31,"isCurrentSeason":true},

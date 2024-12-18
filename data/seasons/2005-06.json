@@ -473,7 +473,7 @@
 	{"country":"arm","name":"Esteghlal-Kotayk","id":"FC_Kotayk","win":8,"draw":7,"loss":5,"for":22,"against":19},
 	{"country":"arm","name":"Kilikia","id":"Kilikia_FC","win":4,"draw":5,"loss":11,"for":20,"against":32},
 	{"country":"arm","name":"Dinamo-Zenit","id":"Ulisses_FC","win":2,"draw":2,"loss":16,"for":12,"against":41},
-	{"country":"arm","name":"Shirak","id":"Shirak_SC","win":3,"draw":3,"loss":12,"for":19,"against":36},
+	{"country":"arm","name":"Shirak","id":"shirak_sc","win":3,"draw":3,"loss":12,"for":19,"against":36},
 	{"country":"arm","name":"Lernagorts-Ararat","id":"FC_Lernagorts_Kapan","win":4,"draw":2,"loss":12,"for":11,"against":39,"isRemoved":true},
 	{"country":"arm","name":"Lernayin Artsakh","id":"Lernayin_Artsakh_FC","win":3,"draw":0,"loss":13,"for":14,"against":37,"isRemoved":true,"removedNote":"Withdrew; remaining results awarded to opposition","isReturning":true},
 	{"country":"aze","name":"Baku","id":"FC_Baku","win":18,"draw":4,"loss":4,"for":42,"against":12,"isChampion":true},

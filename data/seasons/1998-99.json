@@ -488,7 +488,7 @@
 	{"country":"geo","name":"TSU Tbilisi (O)","id":"TSU_Tbilisi","win":6,"draw":9,"loss":15,"for":28,"against":46,"isRemoved":true,"removedNote":"League changed to group format next season"},
 	{"country":"geo","name":"Odishi Zugdidi","id":"Dinamo_Zugdidi","win":6,"draw":2,"loss":22,"for":21,"against":70,"isRemoved":true},
 	{"country":"geo","name":"Guria Lanchkhuti","id":"FC_Guria_Lanchkhuti","win":3,"draw":4,"loss":23,"for":34,"against":87,"isRemoved":true},
-	{"country":"arm","name":"Shirak","id":"Shirak_SC","win":19,"draw":4,"loss":3,"for":72,"against":25},
+	{"country":"arm","name":"Shirak","id":"shirak_sc","win":19,"draw":4,"loss":3,"for":72,"against":25},
 	{"country":"arm","name":"Tsement Ararat","id":"Araks_Ararat_FC","win":20,"draw":4,"loss":2,"for":70,"against":22,"isChampion":true},
 	{"country":"arm","name":"Yerevan","id":"FC_Yerevan","win":15,"draw":3,"loss":8,"for":47,"against":30},
 	{"country":"arm","name":"Erebuni-Homenmen","id":"Erebuni-Homenmen_FC","win":9,"draw":4,"loss":13,"for":39,"against":44},

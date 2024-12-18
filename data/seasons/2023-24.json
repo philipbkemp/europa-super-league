@@ -492,7 +492,7 @@
 	{"country":"arm","name":"Alashkert","id":"FC_Alashkert","win":13,"draw":6,"loss":17,"for":54,"against":56},
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":13,"draw":6,"loss":17,"for":39,"against":50},
 	{"country":"arm","name":"West Armenia","id":"FC_West_Armenia","win":11,"draw":4,"loss":21,"for":43,"against":73,"isNew":true},
-	{"country":"arm","name":"Shirak","id":"Shirak_SC","win":8,"draw":9,"loss":19,"for":28,"against":46},
+	{"country":"arm","name":"Shirak","id":"shirak_sc","win":8,"draw":9,"loss":19,"for":28,"against":46},
 	{"country":"arm","name":"Van","id":"FC_Van","win":8,"draw":8,"loss":20,"for":32,"against":67},
 	{"country":"arm","name":"BKMA","id":"FC_BKMA_Yerevan","win":7,"draw":6,"loss":23,"for":32,"against":67},
 	{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":26,"draw":5,"loss":5,"for":97,"against":37,"isChampion":true},

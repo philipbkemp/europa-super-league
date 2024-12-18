@@ -1,9 +1,44 @@
 {
 	"teams":[
-		"FC_Ararat_Yerevan","Shirak_SC","FC_Urartu","FC_Pyunik","FC_Van_Yerevan","Araks_Ararat_FC","Erebuni-Homenmen_FC","Yerazank_FC","Nairi_SC","Arabkir_FC","FC_Kotayk","Impuls_FC","BMA-Arai_Echmiadzin","Kasakh_FC","FC_Malatia","FC_Lernagorts_Kapan","Aznavour_FC","FC_Zangezour","Lori_FC","FC_Yerevan","Lernayin_Artsakh_FC","Aragats_Gyumri_FC","FC_BKMA_Yerevan","FC_Dvin_Artashat","Zvartnots-AAL_FC","Kilikia_FC","FC_Mika","FC_Dinamo_Yerevan","Spartak_Yerevan_FC","Ulisses_FC","FC_Armavir_(Armenia)","FC_Gandzasar_Kapan","FC_Alashkert","FC_Ararat-Armenia","FC_Noah","FC_Van","Noravank_SC","Sevan_FC","FC_West_Armenia"
+		"FC_Ararat_Yerevan","shirak_sc","FC_Urartu","FC_Pyunik","FC_Van_Yerevan","Araks_Ararat_FC","Erebuni-Homenmen_FC","Yerazank_FC","Nairi_SC","Arabkir_FC","FC_Kotayk","Impuls_FC","BMA-Arai_Echmiadzin","Kasakh_FC","FC_Malatia","FC_Lernagorts_Kapan","Aznavour_FC","FC_Zangezour","Lori_FC","FC_Yerevan","Lernayin_Artsakh_FC","Aragats_Gyumri_FC","FC_BKMA_Yerevan","FC_Dvin_Artashat","Zvartnots-AAL_FC","Kilikia_FC","FC_Mika","FC_Dinamo_Yerevan","Spartak_Yerevan_FC","Ulisses_FC","FC_Armavir_(Armenia)","FC_Gandzasar_Kapan","FC_Alashkert","FC_Ararat-Armenia","FC_Noah","FC_Van","Noravank_SC","Sevan_FC","FC_West_Armenia"
 	],"redirects":[
-		["FC_Shirak","Shirak_SC"],["FC_Banants","FC_Urartu"],["FC_Arabkir","Arabkir_FC"],["FC_Zvartnots_Echmiadzin","BMA-Arai_Echmiadzin"],["FC_Kasagh","Kasakh_FC"],["Lori_Vanadzor","Lori_FC"],["Aragats_FC","Aragats_Gyumri_FC"],["BKMA_Yerevan","FC_BKMA_Yerevan"],["FC_Spartak_Yerevan","Spartak_Yerevan_FC"],["FC_Araks","Araks_Ararat_FC"],["Gandzasar_Kapan_FC","FC_Gandzasar_Kapan"],["Kilikia_F.C.","Kilikia_FC"],["F.C._Impulse","Impuls_FC"],["Impuls_FC_Dilijan","Impuls_FC"],["Alashkert_FC","FC_Alashkert"],["Artsakh_FC","FC_Noah"]
+		["Shirak_SC","shirak_sc"],["FC_Shirak","shirak_sc"],["FC_Banants","FC_Urartu"],["FC_Arabkir","Arabkir_FC"],["FC_Zvartnots_Echmiadzin","BMA-Arai_Echmiadzin"],["FC_Kasagh","Kasakh_FC"],["Lori_Vanadzor","Lori_FC"],["Aragats_FC","Aragats_Gyumri_FC"],["BKMA_Yerevan","FC_BKMA_Yerevan"],["FC_Spartak_Yerevan","Spartak_Yerevan_FC"],["FC_Araks","Araks_Ararat_FC"],["Gandzasar_Kapan_FC","FC_Gandzasar_Kapan"],["Kilikia_F.C.","Kilikia_FC"],["F.C._Impulse","Impuls_FC"],["Impuls_FC_Dilijan","Impuls_FC"],["Alashkert_FC","FC_Alashkert"],["Artsakh_FC","FC_Noah"]
 	],"previous":[
-		"FC_Van","FC_Urartu","FC_Ararat_Yerevan","FC_Noah","FC_Ararat-Armenia","Shirak_SC","FC_BKMA_Yerevan","FC_Alashkert","FC_Pyunik","FC_Gandzasar_Kapan","FC_West_Armenia"
+		"FC_Van","FC_Urartu","FC_Ararat_Yerevan","FC_Noah","FC_Ararat-Armenia","shirak_sc","FC_BKMA_Yerevan","FC_Alashkert","FC_Pyunik","FC_Gandzasar_Kapan","FC_West_Armenia"
 	]
 }
+
+/*
+	Shirak_SC		=>	shirak_sc
+*/
+
+/*
+16		ARM	"FC_Mika"
+15		ARM	"Ulisses_FC"
+12		ARM	"FC_Kotayk"
+11		ARM	"Lernayin_Artsakh_FC"
+10		ARM	"Kilikia_FC"
+09		ARM	"Araks_Ararat_FC"
+08		ARM	"Erebuni-Homenmen_FC"
+07		ARM	"Lori_FC"
+07		ARM	"FC_Yerevan"
+07		ARM	"FC_Lernagorts_Kapan"
+05		ARM	"Zvartnots-AAL_FC"
+05		ARM	"Impuls_FC"
+05		ARM	"FC_Van_Yerevan"
+03		ARM	"FC_Zangezour"
+03		ARM	"FC_Dvin_Artashat"
+03		ARM	"Aragats_Gyumri_FC"
+03		ARM	"Arabkir_FC"
+02		ARM	"Yerazank_FC"
+02		ARM	"Spartak_Yerevan_FC"
+02		ARM	"Nairi_SC"
+02		ARM	"FC_Malatia"
+02		ARM	"BMA-Arai_Echmiadzin"
+02		ARM	"Aznavour_FC"
+01		ARM	"Sevan_FC"
+01		ARM	"Noravank_SC"
+01		ARM	"Kasakh_FC"
+01		ARM	"FC_Dinamo_Yerevan"
+01		ARM	"FC_Armavir_(Armenia)"
+*/

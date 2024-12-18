@@ -462,7 +462,7 @@
 	{"country":"arm","name":"Alashkert","id":"FC_Alashkert","win":14,"draw":8,"loss":8,"for":44,"against":31,"isChampion":true},
 	{"country":"arm","name":"Banants","id":"FC_Urartu","win":11,"draw":11,"loss":8,"for":42,"against":34},
 	{"country":"arm","name":"Gandzasar Kapan","id":"FC_Gandzasar_Kapan","win":11,"draw":10,"loss":9,"for":43,"against":34},
-	{"country":"arm","name":"Shirak","id":"Shirak_SC","win":14,"draw":8,"loss":8,"for":37,"against":31,"deduct":-12,"deductReason":"Match fixing scandal"},
+	{"country":"arm","name":"Shirak","id":"shirak_sc","win":14,"draw":8,"loss":8,"for":37,"against":31,"deduct":-12,"deductReason":"Match fixing scandal"},
 	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":9,"draw":9,"loss":12,"for":37,"against":41},
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":5,"draw":6,"loss":19,"for":33,"against":65},
 	{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":20,"draw":5,"loss":3,"for":37,"against":13,"isChampion":true},

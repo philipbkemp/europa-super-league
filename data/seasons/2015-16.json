@@ -460,7 +460,7 @@
 	{"country":"geo","name":"Merani Martvili","id":"FC_Merani_Martvili","win":5,"draw":8,"loss":17,"for":28,"against":62,"isRemoved":true},
 	{"country":"geo","name":"Sapovnela Terjola","id":"FC_Sapovnela_Terjola","win":5,"draw":6,"loss":19,"for":24,"against":63,"isRemoved":true,"isReturning":true},
 	{"country":"arm","name":"Alashkert","id":"FC_Alashkert","win":16,"draw":7,"loss":5,"for":50,"against":24,"isChampion":true},
-	{"country":"arm","name":"Shirak","id":"Shirak_SC","win":15,"draw":7,"loss":6,"for":41,"against":27},
+	{"country":"arm","name":"Shirak","id":"shirak_sc","win":15,"draw":7,"loss":6,"for":41,"against":27},
 	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":13,"draw":9,"loss":6,"for":44,"against":21},
 	{"country":"arm","name":"Gandzasar Kapan","id":"FC_Gandzasar_Kapan","win":11,"draw":12,"loss":5,"for":35,"against":27},
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":9,"draw":10,"loss":9,"for":28,"against":31},
