@@ -168,7 +168,7 @@
 	{"country":"aut","name":"FC Wien","id":"FC_Wien","win":9,"draw":5,"loss":6,"for":40,"against":28},
 	{"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":7,"draw":6,"loss":7,"for":39,"against":38},
 	{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":8,"draw":4,"loss":8,"for":34,"against":36},
-	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":8,"draw":3,"loss":9,"for":45,"against":36},
+	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":8,"draw":3,"loss":9,"for":45,"against":36},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":7,"draw":5,"loss":8,"for":25,"against":39},
 	{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":6,"draw":4,"loss":10,"for":31,"against":45},
 	{"country":"aut","name":"SCR Hochstädt","id":"SCR_Hochstädt","win":5,"draw":3,"loss":12,"for":29,"against":51,"isNew":true,"isRemoved":true},

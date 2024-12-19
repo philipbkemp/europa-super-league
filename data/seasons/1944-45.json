@@ -49,7 +49,7 @@
 	{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":4,"draw":1,"loss":4,"for":17,"against":20,"isReturning":true},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":2,"draw":1,"loss":6,"for":14,"against":26},
 	{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":2,"draw":1,"loss":6,"for":16,"against":34},
-	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":2,"draw":0,"loss":7,"for":15,"against":19},
+	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":2,"draw":0,"loss":7,"for":15,"against":19},
 	{"country":"aut","name":"SC Rapid Oberlaa","id":"SC_Rapid_Oberlaa","win":1,"draw":0,"loss":8,"for":8,"against":41,"isNew":true},
 	{"country":"isl","name":"Valur","id":"valur","win":2,"draw":1,"loss":0,"for":6,"against":3,"isChampion":true},
 	{"country":"isl","name":"KR","id":"knattspyrnufelag_reykjavikur","win":2,"draw":0,"loss":1,"for":3,"against":2},

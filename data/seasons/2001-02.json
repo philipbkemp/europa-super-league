@@ -190,7 +190,7 @@
 	{"country":"aut","name":"Tirol Innsbruck","id":"FC_Tirol_Innsbruck","win":23,"draw":6,"loss":7,"for":63,"against":20,"isChampion":true,"isRemoved":true,"removedNote":"Failed to receive a top flight license"},
 	{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":18,"draw":11,"loss":7,"for":68,"against":42},
 	{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":17,"draw":12,"loss":7,"for":69,"against":39},
-	{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":14,"draw":11,"loss":11,"for":53,"against":38},
+	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":14,"draw":11,"loss":11,"for":53,"against":38},
 	{"country":"aut","name":"Kärnten","id":"FC_Kärnten","win":14,"draw":8,"loss":14,"for":40,"against":52,"isReturning":true},
 	{"country":"aut","name":"Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":13,"draw":10,"loss":13,"for":42,"against":40},
 	{"country":"aut","name":"Bregenz","id":"Schwarz-Weiß_Bregenz","win":12,"draw":9,"loss":15,"for":51,"against":70},

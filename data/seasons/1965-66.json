@@ -191,7 +191,7 @@
 	{"country":"swe","name":"GIF Sundsvall","id":"GIF_Sundsvall","win":1,"draw":4,"loss":17,"for":19,"against":71,"isRemoved":true,"isNew":true},
 	{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":18,"draw":7,"loss":1,"for":51,"against":17,"isChampion":true},
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":16,"draw":8,"loss":2,"for":64,"against":22},
-	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":16,"draw":3,"loss":7,"for":58,"against":27},
+	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":16,"draw":3,"loss":7,"for":58,"against":27},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":11,"draw":8,"loss":7,"for":57,"against":33},
 	{"country":"aut","name":"Austria Klagenfurt","id":"FC_Kärnten","win":11,"draw":7,"loss":8,"for":39,"against":33,"isReturning":true},
 	{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":11,"draw":7,"loss":8,"for":53,"against":49},

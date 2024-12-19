@@ -192,7 +192,7 @@
 	{"country":"swe","name":"Östers IF","id":"Östers_IF","win":11,"draw":15,"loss":6,"for":59,"against":43},
 	{"country":"swe","name":"GIF Sundsvall","id":"GIF_Sundsvall","win":4,"draw":11,"loss":17,"for":39,"against":75,"isRemoved":true,"isReturning":true},
 	{"country":"aut","name":"Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":23,"draw":4,"loss":9,"for":62,"against":37},
-	{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":21,"draw":7,"loss":8,"for":73,"against":36,"isChampion":true},
+	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":21,"draw":7,"loss":8,"for":73,"against":36,"isChampion":true},
 	{"country":"aut","name":"Swarovski Tirol","id":"FC_Swarovski_Tirol","win":21,"draw":5,"loss":10,"for":69,"against":49,"isRemoved":true},
 	{"country":"aut","name":"Stahl Linz","id":"FC_Linz","win":15,"draw":9,"loss":12,"for":47,"against":45,"isNew":true},
 	{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":16,"draw":9,"loss":11,"for":58,"against":40},

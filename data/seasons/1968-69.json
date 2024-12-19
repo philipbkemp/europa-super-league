@@ -197,7 +197,7 @@
 	{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":5,"draw":7,"loss":10,"for":28,"against":36},
 	{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":7,"draw":3,"loss":12,"for":23,"against":38,"isRemoved":true},
 	{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":4,"draw":8,"loss":10,"for":28,"against":45,"isRemoved":true},
-	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":19,"draw":8,"loss":1,"for":80,"against":35,"isChampion":true},
+	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":19,"draw":8,"loss":1,"for":80,"against":35,"isChampion":true},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":13,"draw":12,"loss":3,"for":62,"against":21},
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":15,"draw":5,"loss":8,"for":64,"against":34},
 	{"country":"aut","name":"Linzer ASK","id":"LASK","win":12,"draw":7,"loss":9,"for":38,"against":33},

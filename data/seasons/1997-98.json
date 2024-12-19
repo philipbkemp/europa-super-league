@@ -203,7 +203,7 @@
 	{"country":"aut","name":"Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":16,"draw":8,"loss":12,"for":48,"against":33},
 	{"country":"aut","name":"LASK Linz","id":"LASK","win":17,"draw":4,"loss":15,"for":67,"against":58},
 	{"country":"aut","name":"Tirol Innsbruck","id":"FC_Tirol_Innsbruck","win":12,"draw":12,"loss":12,"for":49,"against":51},
-	{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":10,"draw":10,"loss":16,"for":39,"against":54},
+	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":10,"draw":10,"loss":16,"for":39,"against":54},
 	{"country":"aut","name":"Ried","id":"SV_Ried","win":10,"draw":9,"loss":17,"for":42,"against":55},
 	{"country":"aut","name":"Austria Lustenau","id":"SC_Austria_Lustenau","win":6,"draw":14,"loss":16,"for":38,"against":59,"isNew":true},
 	{"country":"aut","name":"Admira Wacker Mödling","id":"FC_Admira_Wacker_Mödling","win":5,"draw":7,"loss":24,"for":34,"against":85,"isRemoved":true},

@@ -1,14 +1,93 @@
 {
 	"teams":[
-		"sk_rapid_wien","Wiener_Sport-Club","Wiener_AF","wiener_ac","1._Simmeringer_SC","First_Vienna_FC","Floridsdorfer_AC","FK_Austria_Wien","ASV_Hertha","SC_Rudolfshügel","Vienna_Cricket_and_Football-Club","SC_Wacker","SK_Admira_Wien","VfB_Mödling","Hakoah_Vienna","FC_Ostmark","SK_Slovan_HAC","SpC_Rudolfshügel","Brigittenauer_AC","SC_Nicholson","FC_Wien","SC_Libertas","SV_Donau","Favoritner_AC","Post_SV","SV_Amateure_Fiat","Grazer_SC","SK_Amateure_Steyr","Reichsbahn_Wacker_Wiener_Neustadt","LASK","Post_SV_Wien","Reichsbahn_SG_Wien","SK_Sturm_Graz","LSV_Markersdorf_an_der_Pielach","SC_Rapid_Oberlaa","SC_Helfort","SC_Ostbahn_XI","SCR_Hochstädt","SK_Vorwärts_Steyr","SV_Gloggnitz","1._Wiener_Neustädter_SC","FS_Elektra","Grazer_AK","Kapfenberger_SV","Favoritner_SK_Blau_Weiß","Salzburger_AK_1914","FC_Stadlau","Schwarz-Weiß_Bregenz","ESV_Austria_Graz","Kremser_SC","SC_Olympia_33","DSV_Leoben","SVS_Linz","SV_Schwechat","FC_Dornbirn_1913","FC_Kärnten","FC_Wacker_Innsbruck","SC_Eisenstadt","WSG_Radenthein","WSG_Tirol","VÖEST_Linz","FC_Red_Bull_Salzburg","FC_Admira_Wacker_Mödling","SK_Bischofshofen","SV_Admira_Wiener_Neustadt","Radenthein/Villacher_SV","SC_Neusiedl_am_See_1919","Union_Wels","FC_St._Veit","SV_Spittal/Drau","FC_Swarovski_Tirol","SKN_St._Pölten","FC_Linz","FC_Tirol_Innsbruck","SV_Ried","SC_Austria_Lustenau","ASKÖ_Pasching","SV_Mattersburg","FC_Wacker_Innsbruck_(2002)","SC_Rheindorf_Altach","SK_Austria_Kärnten","1._Wiener_Neustädter_SC_(2008)","Wolfsberger_AC","SV_Grödig","TSV_Hartberg","SK_Austria_Klagenfurt_(2007)","FC_Blau-Weiß_Linz","Salzburger_AK"
+		"sk_rapid_wien","Wiener_Sport-Club","Wiener_AF","wiener_ac","1._Simmeringer_SC","First_Vienna_FC","Floridsdorfer_AC","fk_austria_wien","ASV_Hertha","SC_Rudolfshügel","Vienna_Cricket_and_Football-Club","SC_Wacker","SK_Admira_Wien","VfB_Mödling","Hakoah_Vienna","FC_Ostmark","SK_Slovan_HAC","SpC_Rudolfshügel","Brigittenauer_AC","SC_Nicholson","FC_Wien","SC_Libertas","SV_Donau","Favoritner_AC","Post_SV","SV_Amateure_Fiat","Grazer_SC","SK_Amateure_Steyr","Reichsbahn_Wacker_Wiener_Neustadt","LASK","Post_SV_Wien","Reichsbahn_SG_Wien","SK_Sturm_Graz","LSV_Markersdorf_an_der_Pielach","SC_Rapid_Oberlaa","SC_Helfort","SC_Ostbahn_XI","SCR_Hochstädt","SK_Vorwärts_Steyr","SV_Gloggnitz","1._Wiener_Neustädter_SC","FS_Elektra","Grazer_AK","Kapfenberger_SV","Favoritner_SK_Blau_Weiß","Salzburger_AK_1914","FC_Stadlau","Schwarz-Weiß_Bregenz","ESV_Austria_Graz","Kremser_SC","SC_Olympia_33","DSV_Leoben","SVS_Linz","SV_Schwechat","FC_Dornbirn_1913","FC_Kärnten","FC_Wacker_Innsbruck","SC_Eisenstadt","WSG_Radenthein","WSG_Tirol","VÖEST_Linz","FC_Red_Bull_Salzburg","FC_Admira_Wacker_Mödling","SK_Bischofshofen","SV_Admira_Wiener_Neustadt","Radenthein/Villacher_SV","SC_Neusiedl_am_See_1919","Union_Wels","FC_St._Veit","SV_Spittal/Drau","FC_Swarovski_Tirol","SKN_St._Pölten","FC_Linz","FC_Tirol_Innsbruck","SV_Ried","SC_Austria_Lustenau","ASKÖ_Pasching","SV_Mattersburg","FC_Wacker_Innsbruck_(2002)","SC_Rheindorf_Altach","SK_Austria_Kärnten","1._Wiener_Neustädter_SC_(2008)","Wolfsberger_AC","SV_Grödig","TSV_Hartberg","SK_Austria_Klagenfurt_(2007)","FC_Blau-Weiß_Linz","Salzburger_AK"
 	],"redirects":[
-		["Wiener_AC","wiener_ac"],["SK_Rapid_Wien","sk_rapid_wien"],["Wiener_Sportclub","Wiener_Sport-Club"],["SV_Amateure","FK_Austria_Wien"],["SC_Rudolfsh%C3%BCgel","SC_Rudolfshügel"],["https://de.wikipedia.orgSpC_Rudolfsh%C3%BCgel","SpC_Rudolfshügel"],["Linzer_ASK","LASK"],["SCR_Hochst%C3%A4dt","SCR_Hochstädt"],["SK_Vorw%C3%A4rts_Steyr","SK_Vorwärts_Steyr"],["LASK_Linz","LASK"],["1._Wiener_Neust%C3%A4dter_SC","1._Wiener_Neustädter_SC"],["Favoritner_SK_Blau_Wei%C3%9F","Favoritner_SK_Blau_Weiß"],["Schwarz-Wei%C3%9F_Bregenz","Schwarz-Weiß_Bregenz"],["WSV_Donawitz","DSV_Leoben"],["1._Schwechater_SC","SV_Schwechat"],["FC_Dornbirn","FC_Dornbirn_1913"],["FC_K%C3%A4rnten","FC_Kärnten"],["Wiener_AC#Football","wiener_ac"],["WSG_Wattens","WSG_Tirol"],["V%C3%96EST_Linz","VÖEST_Linz"],["FC_Red_Bull_Salzburg","FC_Red_Bull_Salzburg"],["Donawitzer_SV_Alpine","DSV_Leoben"],["VfB_Admira_Wacker_M%C3%B6dling","FC_Admira_Wacker_Mödling"],["FC_Vorarlberg","Schwarz-Weiß_Bregenz"],["SC_Neusiedl","SC_Neusiedl_am_See_1919"],["SV_Sankt_Veit","FC_St._Veit"],["SK_VOEST_Linz","VÖEST_Linz"],["VfB_M%C3%B6dling","VfB_Mödling"],["VSE_Sankt_P%C3%B6lten","SKN_St._Pölten"],["FC_Admira_Wacker_M%C3%B6dling","FC_Admira_Wacker_Mödling"],["SKN_St._P%C3%B6lten","SKN_St._Pölten"],["VfB Mödling","VfB_Mödling"],["SC_Bregenz","Schwarz-Weiß_Bregenz"],["ASK%C3%96_Pasching","ASKÖ_Pasching"],["SK_Austria_K%C3%A4rnten","SK_Austria_Kärnten"],["SC_Wiener_Neustadt","1._Wiener_Neustädter_SC_(2008)"],["SV_Gr%C3%B6dig","SV_Grödig"],["WSG_Swarovski_Tirol","WSG_Tirol"],["FC_Blau-Wei%C3%9F_Linz","FC_Blau-Weiß_Linz"],["SK_Rapid_Wien","sk_rapid_wien"]
+		["FK_Austria_Wien","fk_austria_wien"],["Wiener_AC","wiener_ac"],["SK_Rapid_Wien","sk_rapid_wien"],["Wiener_Sportclub","Wiener_Sport-Club"],["SV_Amateure","fk_austria_wien"],["SC_Rudolfsh%C3%BCgel","SC_Rudolfshügel"],["https://de.wikipedia.orgSpC_Rudolfsh%C3%BCgel","SpC_Rudolfshügel"],["Linzer_ASK","LASK"],["SCR_Hochst%C3%A4dt","SCR_Hochstädt"],["SK_Vorw%C3%A4rts_Steyr","SK_Vorwärts_Steyr"],["LASK_Linz","LASK"],["1._Wiener_Neust%C3%A4dter_SC","1._Wiener_Neustädter_SC"],["Favoritner_SK_Blau_Wei%C3%9F","Favoritner_SK_Blau_Weiß"],["Schwarz-Wei%C3%9F_Bregenz","Schwarz-Weiß_Bregenz"],["WSV_Donawitz","DSV_Leoben"],["1._Schwechater_SC","SV_Schwechat"],["FC_Dornbirn","FC_Dornbirn_1913"],["FC_K%C3%A4rnten","FC_Kärnten"],["Wiener_AC#Football","wiener_ac"],["WSG_Wattens","WSG_Tirol"],["V%C3%96EST_Linz","VÖEST_Linz"],["FC_Red_Bull_Salzburg","FC_Red_Bull_Salzburg"],["Donawitzer_SV_Alpine","DSV_Leoben"],["VfB_Admira_Wacker_M%C3%B6dling","FC_Admira_Wacker_Mödling"],["FC_Vorarlberg","Schwarz-Weiß_Bregenz"],["SC_Neusiedl","SC_Neusiedl_am_See_1919"],["SV_Sankt_Veit","FC_St._Veit"],["SK_VOEST_Linz","VÖEST_Linz"],["VfB_M%C3%B6dling","VfB_Mödling"],["VSE_Sankt_P%C3%B6lten","SKN_St._Pölten"],["FC_Admira_Wacker_M%C3%B6dling","FC_Admira_Wacker_Mödling"],["SKN_St._P%C3%B6lten","SKN_St._Pölten"],["VfB Mödling","VfB_Mödling"],["SC_Bregenz","Schwarz-Weiß_Bregenz"],["ASK%C3%96_Pasching","ASKÖ_Pasching"],["SK_Austria_K%C3%A4rnten","SK_Austria_Kärnten"],["SC_Wiener_Neustadt","1._Wiener_Neustädter_SC_(2008)"],["SV_Gr%C3%B6dig","SV_Grödig"],["WSG_Swarovski_Tirol","WSG_Tirol"],["FC_Blau-Wei%C3%9F_Linz","FC_Blau-Weiß_Linz"],["SK_Rapid_Wien","sk_rapid_wien"]
 	],"previous":[
-		"SK_Austria_Klagenfurt_(2007)","FK_Austria_Wien","FC_Blau-Weiß_Linz","Grazer_AK","LASK","sk_rapid_wien","FC_Red_Bull_Salzburg","SC_Rheindorf_Altach","SK_Sturm_Graz","TSV_Hartberg","Wolfsberger_AC","WSG_Tirol"
+		"SK_Austria_Klagenfurt_(2007)","fk_austria_wien","FC_Blau-Weiß_Linz","Grazer_AK","LASK","sk_rapid_wien","FC_Red_Bull_Salzburg","SC_Rheindorf_Altach","SK_Sturm_Graz","TSV_Hartberg","Wolfsberger_AC","WSG_Tirol"
 	]
 }
 
 /*
-	Wiener_AC			=>	wiener_ac
-	SK_Rapid_Wien	=>	sk_rapid_wien
+	FK_Austria_Wien	=>	fk_austria_wien
+	SK_Rapid_Wien		=>	sk_rapid_wien
+	Wiener_AC				=>	wiener_ac
+*/
+
+/*
+77		AUT	"Wiener_Sport-Club"
+69		AUT	"First_Vienna_FC"
+53		AUT	"SC_Wacker"
+50		AUT	"SK_Admira_Wien"
+44		AUT	"FC_Admira_Wacker_Mödling"
+39		AUT	"Floridsdorfer_AC"
+36		AUT	"1._Simmeringer_SC"
+24		AUT	"FC_Wien"
+23		AUT	"SV_Ried"
+21		AUT	"FC_Wacker_Innsbruck"
+20		AUT	"FC_Kärnten"
+19		AUT	"VÖEST_Linz"
+17		AUT	"ASV_Hertha"
+15		AUT	"SV_Mattersburg"
+15		AUT	"Kapfenberger_SV"
+15		AUT	"Hakoah_Vienna"
+14		AUT	"SC_Rudolfshügel"
+13		AUT	"Wiener_AF"
+13		AUT	"Schwarz-Weiß_Bregenz"
+13		AUT	"SC_Eisenstadt"
+11		AUT	"SKN_St._Pölten"
+11		AUT	"SK_Vorwärts_Steyr"
+10		AUT	"DSV_Leoben"
+09		AUT	"SK_Slovan_HAC"
+09		AUT	"FC_Wacker_Innsbruck_(2002)"
+09		AUT	"FC_Tirol_Innsbruck"
+08		AUT	"1._Wiener_Neustädter_SC"
+07		AUT	"Kremser_SC"
+06		AUT	"SV_Schwechat"
+06		AUT	"FC_Swarovski_Tirol"
+06		AUT	"Favoritner_AC"
+06		AUT	"1._Wiener_Neustädter_SC_(2008)"
+05		AUT	"VfB_Mödling"
+05		AUT	"SC_Rapid_Oberlaa"
+05		AUT	"SC_Libertas"
+05		AUT	"SC_Austria_Lustenau"
+05		AUT	"Brigittenauer_AC"
+05		AUT	"ASKÖ_Pasching"
+04		AUT	"SVS_Linz"
+04		AUT	"SC_Nicholson"
+04		AUT	"FC_Linz"
+03		AUT	"SV_Grödig"
+03		AUT	"SK_Austria_Kärnten"
+03		AUT	"Grazer_SC"
+03		AUT	"FC_Stadlau"
+03		AUT	"FC_Dornbirn_1913"
+02		AUT	"WSG_Radenthein"
+02		AUT	"Union_Wels"
+02		AUT	"SV_Amateure_Fiat"
+02		AUT	"SCR_Hochstädt"
+02		AUT	"SC_Olympia_33"
+02		AUT	"SC_Neusiedl_am_See_1919"
+02		AUT	"Salzburger_AK_1914"
+02		AUT	"Post_SV_Wien"
+02		AUT	"FC_Ostmark"
+01		AUT	"Vienna_Cricket_and_Football-Club"
+01		AUT	"SV_Spittal/Drau"
+01		AUT	"SV_Gloggnitz"
+01		AUT	"SV_Donau"
+01		AUT	"SV_Admira_Wiener_Neustadt"
+01		AUT	"SpC_Rudolfshügel"
+01		AUT	"SK_Bischofshofen"
+01		AUT	"SK_Amateure_Steyr"
+01		AUT	"SC_Ostbahn_XI"
+01		AUT	"SC_Helfort"
+01		AUT	"Salzburger_AK"
+01		AUT	"Reichsbahn_Wacker_Wiener_Neustadt"
+01		AUT	"Reichsbahn_SG_Wien"
+01		AUT	"Radenthein/Villacher_SV"
+01		AUT	"Post_SV"
+01		AUT	"LSV_Markersdorf_an_der_Pielach"
+01		AUT	"FS_Elektra"
+01		AUT	"FC_St._Veit"
+01		AUT	"Favoritner_SK_Blau_Weiß"
+01		AUT	"ESV_Austria_Graz"
 */

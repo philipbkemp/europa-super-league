@@ -201,7 +201,7 @@
 	{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":6,"draw":10,"loss":10,"for":30,"against":35},
 	{"country":"swe","name":"IFK Sundsvall","id":"IFK_Sundsvall","win":5,"draw":10,"loss":11,"for":32,"against":43,"isRemoved":true},
 	{"country":"swe","name":"Derby","id":"BK_Derby","win":3,"draw":6,"loss":17,"for":18,"against":53,"isRemoved":true,"isNew":true},
-	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":23,"draw":10,"loss":3,"for":77,"against":34,"isChampion":true},
+	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":23,"draw":10,"loss":3,"for":77,"against":34,"isChampion":true},
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":16,"draw":10,"loss":10,"for":76,"against":43},
 	{"country":"aut","name":"FC Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":15,"draw":9,"loss":12,"for":49,"against":34},
 	{"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":13,"draw":12,"loss":11,"for":51,"against":54},

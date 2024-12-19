@@ -150,7 +150,7 @@
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":11,"draw":3,"loss":4,"for":60,"against":29},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":10,"draw":4,"loss":4,"for":50,"against":28},
 	{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":9,"draw":4,"loss":5,"for":47,"against":37},
-	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":9,"draw":3,"loss":6,"for":55,"against":40},
+	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":9,"draw":3,"loss":6,"for":55,"against":40},
 	{"country":"aut","name":"SV Amateure Fiat","id":"SV_Amateure_Fiat","win":6,"draw":3,"loss":9,"for":47,"against":50,"isNew":true},
 	{"country":"aut","name":"Grazer SC","id":"Grazer_SC","win":5,"draw":1,"loss":12,"for":34,"against":53,"isRemoved":true,"isNew":true},
 	{"country":"aut","name":"SK Amateure Steyr","id":"SK_Amateure_Steyr","win":2,"draw":0,"loss":16,"for":22,"against":75,"isRemoved":true,"isNew":true},

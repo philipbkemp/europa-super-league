@@ -204,7 +204,7 @@
 	{"country":"swe","name":"IFK Sundsvall","id":"IFK_Sundsvall","win":6,"draw":6,"loss":14,"for":24,"against":58,"isRemoved":true},
 	{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":6,"draw":4,"loss":16,"for":25,"against":47,"isRemoved":true},
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":18,"draw":11,"loss":7,"for":69,"against":43,"isChampion":true},
-	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":18,"draw":8,"loss":10,"for":54,"against":32},
+	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":18,"draw":8,"loss":10,"for":54,"against":32},
 	{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":16,"draw":6,"loss":14,"for":40,"against":47},
 	{"country":"aut","name":"FC Admira/Wacker","id":"FC_Admira_Wacker_Mödling","win":14,"draw":8,"loss":14,"for":52,"against":59},
 	{"country":"aut","name":"FC Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":14,"draw":7,"loss":15,"for":60,"against":52,"isReturning":true},

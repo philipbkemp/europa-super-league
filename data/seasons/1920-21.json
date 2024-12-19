@@ -107,7 +107,7 @@
 	{"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":4,"draw":3,"loss":11,"for":23,"against":45,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":2,"draw":5,"loss":11,"for":19,"against":51,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":17,"draw":6,"loss":1,"for":86,"against":39,"isChampion":true},
-	{"country":"aut","name":"SV Amateure","id":"FK_Austria_Wien","win":15,"draw":4,"loss":5,"for":66,"against":30},
+	{"country":"aut","name":"SV Amateure","id":"fk_austria_wien","win":15,"draw":4,"loss":5,"for":66,"against":30},
 	{"country":"aut","name":"SC Rudolfshügel","id":"SC_Rudolfshügel","win":9,"draw":8,"loss":7,"for":44,"against":41},
 	{"country":"aut","name":"Hakoah Vienna","id":"Hakoah_Vienna","win":9,"draw":6,"loss":9,"for":34,"against":28,"isNew":true},
 	{"country":"aut","name":"ASV Hertha","id":"ASV_Hertha","win":8,"draw":8,"loss":8,"for":44,"against":41},

@@ -188,7 +188,7 @@
 	{"country":"swe","name":"Östers IF","id":"Östers_IF","win":3,"draw":8,"loss":15,"for":31,"against":56,"isRemoved":true,"isReturning":true},
 	{"country":"swe","name":"Enköpings SK","id":"Enköpings_SK_FK","win":3,"draw":5,"loss":18,"for":22,"against":59,"isRemoved":true,"isNew":true},
 	{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":21,"draw":9,"loss":6,"for":62,"against":32,"isChampion":true},
-	{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":21,"draw":8,"loss":7,"for":63,"against":31},
+	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":21,"draw":8,"loss":7,"for":63,"against":31},
 	{"country":"aut","name":"Pasching","id":"ASKÖ_Pasching","win":17,"draw":12,"loss":7,"for":59,"against":41},
 	{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":16,"draw":9,"loss":11,"for":50,"against":47},
 	{"country":"aut","name":"Bregenz","id":"Schwarz-Weiß_Bregenz","win":11,"draw":12,"loss":13,"for":47,"against":58},

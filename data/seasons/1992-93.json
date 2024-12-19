@@ -193,7 +193,7 @@
 	{"country":"swe","name":"GAIS","id":"GAIS","win":9,"draw":6,"loss":17,"for":32,"against":53,"isRemoved":true},
 	{"country":"aut","name":"Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":20,"draw":10,"loss":6,"for":69,"against":33},
 	{"country":"aut","name":"Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":14,"draw":12,"loss":10,"for":63,"against":43,"isReturning":true,"isRemoved":true},
-	{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":22,"draw":6,"loss":8,"for":81,"against":35,"isChampion":true},
+	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":22,"draw":6,"loss":8,"for":81,"against":35,"isChampion":true},
 	{"country":"aut","name":"Wiener SC","id":"Wiener_Sport-Club","win":14,"draw":8,"loss":14,"for":47,"against":67,"isReturning":true},
 	{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":15,"draw":10,"loss":11,"for":53,"against":51},
 	{"country":"aut","name":"Admira/Wacker","id":"FC_Admira_Wacker_Mödling","win":28,"draw":8,"loss":14,"for":98,"against":60},

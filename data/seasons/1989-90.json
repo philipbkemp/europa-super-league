@@ -193,7 +193,7 @@
 {"country":"swe","name":"GIF Sundsvall","id":"GIF_Sundsvall","win":4,"draw":5,"loss":13,"for":30,"against":40,"isRemoved":true},
 {"country":"swe","name":"Västra Frölunda","id":"Västra_Frölunda_IF","win":3,"draw":4,"loss":15,"for":24,"against":56,"isRemoved":true},
 {"country":"aut","name":"Swarovski Tirol","id":"FC_Swarovski_Tirol","win":23,"draw":9,"loss":4,"for":78,"against":37,"isChampion":true},
-{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":20,"draw":5,"loss":11,"for":70,"against":46},
+{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":20,"draw":5,"loss":11,"for":70,"against":46},
 {"country":"aut","name":"Admira/Wacker","id":"FC_Admira_Wacker_Mödling","win":17,"draw":8,"loss":11,"for":79,"against":56},
 {"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":17,"draw":10,"loss":9,"for":69,"against":52},
 {"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":10,"draw":16,"loss":10,"for":34,"against":30},

@@ -94,7 +94,7 @@
 	{"country":"swe","name":"IFK Uddevalla","id":"IFK_Uddevalla","win":4,"draw":8,"loss":10,"for":31,"against":49,"isNew":true},
 	{"country":"swe","name":"IFK Malmö","id":"IFK_Malmö_Fotboll","win":4,"draw":6,"loss":12,"for":30,"against":66,"isRemoved":true},
 	{"country":"swe","name":"City","id":"Eskilstuna_City_FK","win":1,"draw":4,"loss":17,"for":32,"against":83,"isRemoved":true,"isNew":true},
-	{"country":"aut","name":"SV Amateure","id":"FK_Austria_Wien","win":15,"draw":5,"loss":4,"for":73,"against":39,"isChampion":true},
+	{"country":"aut","name":"SV Amateure","id":"fk_austria_wien","win":15,"draw":5,"loss":4,"for":73,"against":39,"isChampion":true},
 	{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":14,"draw":3,"loss":7,"for":61,"against":45},
 	{"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":12,"draw":5,"loss":7,"for":64,"against":52},
 	{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":12,"draw":3,"loss":9,"for":49,"against":42},

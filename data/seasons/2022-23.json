@@ -201,7 +201,7 @@
 	{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":20,"draw":6,"loss":6,"for":57,"against":29},
 	{"country":"aut","name":"LASK","id":"LASK","win":14,"draw":12,"loss":6,"for":54,"against":38},
 	{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":12,"draw":6,"loss":14,"for":50,"against":47},
-	{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":11,"draw":10,"loss":11,"for":55,"against":52,"deduct":-3,"deductReason":"License violation"},
+	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":11,"draw":10,"loss":11,"for":55,"against":52,"deduct":-3,"deductReason":"License violation"},
 	{"country":"aut","name":"Austria Klagenfurt","id":"SK_Austria_Klagenfurt_(2007)","win":11,"draw":5,"loss":16,"for":45,"against":63},
 	{"country":"aut","name":"WSG Tirol","id":"WSG_Tirol","win":10,"draw":8,"loss":14,"for":44,"against":53},
 	{"country":"aut","name":"Austria Lustenau","id":"SC_Austria_Lustenau","win":11,"draw":10,"loss":11,"for":50,"against":54,"isReturning":true},

@@ -199,7 +199,7 @@
 	{"country":"aut","name":"LASK","id":"LASK","win":18,"draw":9,"loss":5,"for":59,"against":31},
 	{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":10,"draw":10,"loss":12,"for":37,"against":40},
 	{"country":"aut","name":"Wolfsberger AC","id":"Wolfsberger_AC","win":12,"draw":10,"loss":10,"for":47,"against":47},
-	{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":12,"draw":6,"loss":14,"for":45,"against":48},
+	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":12,"draw":6,"loss":14,"for":45,"against":48},
 	{"country":"aut","name":"St. Pölten","id":"SKN_St._Pölten","win":9,"draw":9,"loss":14,"for":32,"against":50},
 	{"country":"aut","name":"Mattersburg","id":"SV_Mattersburg","win":12,"draw":7,"loss":13,"for":41,"against":48},
 	{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":13,"draw":7,"loss":12,"for":48,"against":44},

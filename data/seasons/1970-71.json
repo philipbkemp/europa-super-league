@@ -206,7 +206,7 @@
 	{"country":"aut","name":"SK Admira Wien Energie","id":"SK_Admira_Wien","win":14,"draw":4,"loss":12,"for":55,"against":57,"isRemoved":true},
 	{"country":"aut","name":"SV Wattens","id":"WSG_Tirol","win":12,"draw":7,"loss":11,"for":50,"against":45,"isRemoved":true},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":10,"draw":9,"loss":11,"for":54,"against":40},
-	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":10,"draw":9,"loss":11,"for":43,"against":45},
+	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":10,"draw":9,"loss":11,"for":43,"against":45},
 	{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":12,"draw":4,"loss":14,"for":36,"against":54},
 	{"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":10,"draw":4,"loss":16,"for":35,"against":42},
 	{"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":8,"draw":7,"loss":15,"for":31,"against":55,"isReturning":true},

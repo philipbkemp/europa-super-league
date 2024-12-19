@@ -152,7 +152,7 @@
 	{"country":"aut","name":"FC Wien","id":"FC_Wien","win":9,"draw":8,"loss":5,"for":52,"against":45},
 	{"country":"aut","name":"SC Wacker Wien","id":"SC_Wacker","win":8,"draw":6,"loss":8,"for":41,"against":48},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":8,"draw":5,"loss":9,"for":32,"against":35},
-	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":8,"draw":4,"loss":10,"for":44,"against":42},
+	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":8,"draw":4,"loss":10,"for":44,"against":42},
 	{"country":"aut","name":"Favoritner AC","id":"Favoritner_AC","win":9,"draw":1,"loss":12,"for":35,"against":57},
 	{"country":"aut","name":"Floridsdorfer AC","id":"Floridsdorfer_AC","win":6,"draw":4,"loss":12,"for":44,"against":52},
 	{"country":"aut","name":"SC Libertas Wien","id":"SC_Libertas","win":6,"draw":4,"loss":12,"for":37,"against":46},

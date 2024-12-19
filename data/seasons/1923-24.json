@@ -80,7 +80,7 @@
 	{"country":"mlt","name":"Valletta United","id":"valletta_fc","win":2,"draw":0,"loss":2,"for":4,"against":4},
 	{"country":"mlt","name":"Sliema Rangers","id":"sliema_rangers","win":1,"draw":0,"loss":3,"for":5,"against":8},
 	{"country":"mlt","name":"Msida Rovers","id":"Msida_Saint-Joseph_F.C.","win":1,"draw":0,"loss":3,"for":3,"against":9,"isReturning":true},
-	{"country":"aut","name":"SV Amateure","id":"FK_Austria_Wien","win":16,"draw":4,"loss":2,"for":53,"against":19,"isChampion":true},
+	{"country":"aut","name":"SV Amateure","id":"fk_austria_wien","win":16,"draw":4,"loss":2,"for":53,"against":19,"isChampion":true},
 	{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":14,"draw":4,"loss":4,"for":54,"against":30},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":11,"draw":8,"loss":3,"for":40,"against":17},
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":11,"draw":5,"loss":6,"for":55,"against":48},

@@ -193,7 +193,7 @@
 	{"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":7,"draw":4,"loss":11,"for":33,"against":35},
 	{"country":"swe","name":"IFK Malmö","id":"IFK_Malmö_Fotboll","win":7,"draw":2,"loss":13,"for":21,"against":41,"isRemoved":true},
 	{"country":"swe","name":"Högadal","id":"Högadals_IS","win":3,"draw":3,"loss":16,"for":24,"against":56,"isRemoved":true,"isNew":true},
-	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":19,"draw":4,"loss":3,"for":65,"against":23,"isChampion":true},
+	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":19,"draw":4,"loss":3,"for":65,"against":23,"isChampion":true},
 	{"country":"aut","name":"Linzer ASK","id":"LASK","win":16,"draw":6,"loss":4,"for":69,"against":40},
 	{"country":"aut","name":"SK Admira Wien Energie","id":"SK_Admira_Wien","win":16,"draw":4,"loss":6,"for":56,"against":34,"isReturning":true},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":12,"draw":8,"loss":6,"for":58,"against":39},

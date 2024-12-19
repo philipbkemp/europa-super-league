@@ -206,7 +206,7 @@
 	{"country":"aut","name":"Wolfsberger AC","id":"Wolfsberger_AC","win":13,"draw":5,"loss":14,"for":52,"against":62},
 	{"country":"aut","name":"WSG Tirol","id":"WSG_Tirol","win":10,"draw":8,"loss":14,"for":53,"against":60},
 	{"country":"aut","name":"Hartberg","id":"TSV_Hartberg","win":12,"draw":11,"loss":9,"for":38,"against":48},
-	{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":11,"draw":9,"loss":12,"for":47,"against":43},
+	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":11,"draw":9,"loss":12,"for":47,"against":43},
 	{"country":"aut","name":"St. Pölten","id":"SKN_St._Pölten","win":5,"draw":9,"loss":18,"for":39,"against":57,"isRemoved":true},
 	{"country":"aut","name":"Rheindorf Altach","id":"SC_Rheindorf_Altach","win":9,"draw":7,"loss":16,"for":33,"against":55},
 	{"country":"aut","name":"Ried","id":"SV_Ried","win":8,"draw":9,"loss":15,"for":34,"against":57,"isReturning":true},

@@ -197,7 +197,7 @@
 	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":6,"draw":5,"loss":11,"for":21,"against":30},
 	{"country":"swe","name":"Jönköpings Södra IF","id":"Jönköpings_Södra_IF","win":5,"draw":5,"loss":12,"for":19,"against":51,"isRemoved":true,"isReturning":true},
 	{"country":"swe","name":"IK Sirius","id":"IK_Sirius_Fotboll","win":4,"draw":6,"loss":12,"for":16,"against":29,"isRemoved":true,"isNew":true},
-	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":19,"draw":7,"loss":4,"for":63,"against":31,"isChampion":true},
+	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":19,"draw":7,"loss":4,"for":63,"against":31,"isChampion":true},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":16,"draw":6,"loss":8,"for":63,"against":34},
 	{"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":14,"draw":8,"loss":8,"for":43,"against":34},
 	{"country":"aut","name":"Linzer ASK","id":"LASK","win":13,"draw":8,"loss":9,"for":41,"against":27},

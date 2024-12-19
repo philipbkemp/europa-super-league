@@ -197,7 +197,7 @@
 	{"country":"swe","name":"IFK Holmsund","id":"IFK_Holmsund","win":3,"draw":1,"loss":18,"for":24,"against":79,"isRemoved":true,"isNew":true},
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":21,"draw":2,"loss":3,"for":75,"against":24,"isChampion":true},
 	{"country":"aut","name":"FC Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":15,"draw":7,"loss":4,"for":45,"against":27},
-	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":15,"draw":5,"loss":6,"for":46,"against":24},
+	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":15,"draw":5,"loss":6,"for":46,"against":24},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":11,"draw":9,"loss":6,"for":41,"against":30},
 	{"country":"aut","name":"Austria Klagenfurt","id":"FC_Kärnten","win":11,"draw":7,"loss":8,"for":31,"against":36},
 	{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":11,"draw":5,"loss":10,"for":35,"against":37},

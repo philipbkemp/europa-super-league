@@ -200,7 +200,7 @@
 	{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":5,"draw":9,"loss":12,"for":28,"against":36},
 	{"country":"swe","name":"GAIS","id":"GAIS","win":6,"draw":7,"loss":13,"for":24,"against":41,"isRemoved":true},
 	{"country":"swe","name":"GIF Sundsvall","id":"GIF_Sundsvall","win":4,"draw":6,"loss":16,"for":21,"against":56,"isRemoved":true,"isReturning":true},
-	{"country":"aut","name":"FK Austria WAC Wien","id":"FK_Austria_Wien","win":21,"draw":10,"loss":5,"for":77,"against":29,"isChampion":true},
+	{"country":"aut","name":"FK Austria WAC Wien","id":"fk_austria_wien","win":21,"draw":10,"loss":5,"for":77,"against":29,"isChampion":true},
 	{"country":"aut","name":"FC Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":18,"draw":9,"loss":9,"for":68,"against":38},
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":17,"draw":6,"loss":13,"for":55,"against":50},
 	{"country":"aut","name":"SV Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":14,"draw":11,"loss":11,"for":47,"against":48},

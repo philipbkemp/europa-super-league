@@ -191,7 +191,7 @@
 	{"country":"swe","name":"Åtvidabergs FF","id":"Åtvidabergs_FF","win":9,"draw":1,"loss":16,"for":31,"against":42,"isReturning":true},
 	{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":5,"draw":8,"loss":13,"for":31,"against":45,"isRemoved":true},
 	{"country":"swe","name":"Västerås SK","id":"Västerås_SK_Fotboll","win":6,"draw":6,"loss":14,"for":20,"against":44,"isRemoved":true,"isReturning":true},
-	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":25,"draw":5,"loss":6,"for":88,"against":44,"isChampion":true},
+	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":25,"draw":5,"loss":6,"for":88,"against":44,"isChampion":true},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":15,"draw":11,"loss":6,"for":71,"against":54},
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":13,"draw":13,"loss":10,"for":52,"against":42},
 	{"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":14,"draw":9,"loss":13,"for":43,"against":50},

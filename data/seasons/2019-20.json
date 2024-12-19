@@ -199,7 +199,7 @@
 	{"country":"aut","name":"Wolfsberger AC","id":"Wolfsberger_AC","win":15,"draw":9,"loss":8,"for":69,"against":43},
 	{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":10,"draw":5,"loss":17,"for":46,"against":60},
 	{"country":"aut","name":"Hartberg","id":"TSV_Hartberg","win":12,"draw":6,"loss":14,"for":52,"against":74},
-	{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":12,"draw":11,"loss":9,"for":49,"against":47},
+	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":12,"draw":11,"loss":9,"for":49,"against":47},
 	{"country":"aut","name":"Rheindorf Altach","id":"SC_Rheindorf_Altach","win":10,"draw":8,"loss":14,"for":45,"against":53},
 	{"country":"aut","name":"Admira Wacker Mödling","id":"FC_Admira_Wacker_Mödling","win":6,"draw":10,"loss":16,"for":29,"against":57},
 	{"country":"aut","name":"WSG Tirol","id":"WSG_Tirol","win":6,"draw":8,"loss":18,"for":34,"against":66,"isReturning":true},

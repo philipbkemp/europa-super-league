@@ -124,7 +124,7 @@
 	{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":11,"draw":3,"loss":8,"for":63,"against":42},
 	{"country":"aut","name":"Wiener AC","id":"wiener_ac","win":10,"draw":3,"loss":9,"for":46,"against":41},
 	{"country":"aut","name":"FC Wien","id":"FC_Wien","win":9,"draw":5,"loss":8,"for":39,"against":37,"isNew":true},
-	{"country":"aut","name":"FK Austria Wien","id":"FK_Austria_Wien","win":9,"draw":3,"loss":10,"for":37,"against":45},
+	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":9,"draw":3,"loss":10,"for":37,"against":45},
 	{"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":10,"draw":0,"loss":12,"for":49,"against":58},
 	{"country":"aut","name":"Hakoah Vienna","id":"Hakoah_Vienna","win":9,"draw":1,"loss":12,"for":30,"against":41},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":7,"draw":4,"loss":11,"for":36,"against":42},

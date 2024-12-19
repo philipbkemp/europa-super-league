@@ -195,7 +195,7 @@
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":6,"draw":5,"loss":11,"for":26,"against":35},
 	{"country":"swe","name":"Mjällby AIF","id":"Mjällby_AIF","win":4,"draw":7,"loss":11,"for":21,"against":41,"isRemoved":true,"isReturning":true},
 	{"country":"swe","name":"Trelleborgs FF","id":"Trelleborgs_FF","win":4,"draw":4,"loss":14,"for":23,"against":41,"isRemoved":true,"isNew":true},
-	{"country":"aut","name":"Austria Wien","id":"FK_Austria_Wien","win":26,"draw":6,"loss":4,"for":99,"against":28,"isChampion":true},
+	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":26,"draw":6,"loss":4,"for":99,"against":28,"isChampion":true},
 	{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":23,"draw":10,"loss":3,"for":101,"against":34},
 	{"country":"aut","name":"Austria Klagenfurt","id":"FC_Kärnten","win":8,"draw":12,"loss":16,"for":41,"against":67},
 	{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":13,"draw":9,"loss":14,"for":53,"against":60},
