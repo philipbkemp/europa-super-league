@@ -508,7 +508,7 @@
 	{"country":"aze","name":"Kapaz","id":"Kapaz_PFK","win":9,"draw":5,"loss":6,"for":34,"against":21},
 	{"country":"aze","name":"Turan","id":"Turan_Tovuz","win":9,"draw":3,"loss":8,"for":26,"against":30},
 	{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":4,"draw":9,"loss":7,"for":25,"against":26},
-	{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":10,"draw":6,"loss":4,"for":32,"against":20,"isChampion":true},
+	{"country":"aze","name":"Neftçi Baku","id":"neftci_pfk","win":10,"draw":6,"loss":4,"for":32,"against":20,"isChampion":true},
 	{"country":"aze","name":"Kur-Nur","id":"Energetik_FK","win":1,"draw":4,"loss":15,"for":12,"against":46},
 	{"country":"aze","name":"Bakı Fahlasi","id":"ANS_Pivani_Bakı_FK","win":9,"draw":2,"loss":5,"for":26,"against":18},
 	{"country":"aze","name":"FK Masallı","id":"FK_Viləş_Masallı","win":9,"draw":1,"loss":6,"for":26,"against":29},

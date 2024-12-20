@@ -482,7 +482,7 @@
 	{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":20,"draw":8,"loss":4,"for":51,"against":28,"isChampion":true},
 	{"country":"aze","name":"Inter Baku","id":"Shamakhi_FK","win":17,"draw":12,"loss":3,"for":55,"against":20},
 	{"country":"aze","name":"Gabala","id":"Gabala_SC","win":15,"draw":9,"loss":8,"for":46,"against":35},
-	{"country":"aze","name":"Neftchi Baku","id":"Neftçi_PFK","win":13,"draw":10,"loss":9,"for":38,"against":33},
+	{"country":"aze","name":"Neftchi Baku","id":"neftci_pfk","win":13,"draw":10,"loss":9,"for":38,"against":33},
 	{"country":"aze","name":"Simurq","id":"Simurq_PIK","win":11,"draw":6,"loss":15,"for":41,"against":39,"isRemoved":true,"removedNote":"Refused entry to next season due to financial issues"},
 	{"country":"aze","name":"AZAL","id":"Shuvalan_FK","win":10,"draw":9,"loss":13,"for":37,"against":42},
 	{"country":"aze","name":"Khazar Lankaran","id":"Khazar_Lankaran_FK","win":8,"draw":8,"loss":16,"for":35,"against":46},

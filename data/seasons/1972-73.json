@@ -476,7 +476,7 @@
 	{"country":"sov","name":"Kairat Alma-Ata","id":"FC_Kairat","win":6,"draw":14,"loss":10,"for":23,"against":27},
 	{"country":"sov","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":8,"draw":8,"loss":14,"for":27,"against":43},
 	{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":6,"draw":9,"loss":15,"for":29,"against":48,"isRemoved":true,"isReturning":true},
-	{"country":"sov","name":"Neftchi Baku","id":"Neftçi_PFK","win":6,"draw":8,"loss":16,"for":28,"against":55,"isRemoved":true},
+	{"country":"sov","name":"Neftchi Baku","id":"neftci_pfk","win":6,"draw":8,"loss":16,"for":28,"against":55,"isRemoved":true},
 	{"country":"fro","name":"KÍ Klaksvík","id":"klaksvikar_itrottarfelag","win":7,"draw":3,"loss":0,"for":30,"against":4,"isChampion":true},
 	{"country":"fro","name":"Havnar Bóltfelag","id":"havnar_boltfelag","win":6,"draw":4,"loss":0,"for":41,"against":10},
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":5,"draw":2,"loss":3,"for":17,"against":10},

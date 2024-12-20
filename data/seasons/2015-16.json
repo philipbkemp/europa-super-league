@@ -472,7 +472,7 @@
 	{"country":"aze","name":"Gabala","id":"Gabala_SC","win":16,"draw":11,"loss":9,"for":44,"against":28},
 	{"country":"aze","name":"Inter Baku","id":"Shamakhi_FK","win":16,"draw":11,"loss":9,"for":39,"against":28},
 	{"country":"aze","name":"Kapaz","id":"Kapaz_PFK","win":15,"draw":11,"loss":10,"for":48,"against":40,"isReturning":true},
-	{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":13,"draw":10,"loss":13,"for":41,"against":41},
+	{"country":"aze","name":"Neftçi Baku","id":"neftci_pfk","win":13,"draw":10,"loss":13,"for":41,"against":41},
 	{"country":"aze","name":"AZAL","id":"Shuvalan_FK","win":13,"draw":7,"loss":16,"for":26,"against":38},
 	{"country":"aze","name":"Sumgayit","id":"Sumgayit_FK","win":9,"draw":12,"loss":15,"for":41,"against":49},
 	{"country":"aze","name":"Ravan Baku","id":"Ravan_Baku_FK","win":5,"draw":9,"loss":22,"for":27,"against":63,"isReturning":true,"isRemoved":true},

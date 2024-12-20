@@ -435,7 +435,7 @@
 	{"country":"nor","name":"Hødd","id":"IL_Hødd","win":5,"draw":3,"loss":10,"for":29,"against":46,"isRemoved":true,"isNew":true},
 	{"country":"sov","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":23,"draw":10,"loss":3,"for":66,"against":17,"isChampion":true},
 	{"country":"sov","name":"SKA Rostov-on-Don","id":"FC_SKA_Rostov-on-Don","win":20,"draw":7,"loss":9,"for":54,"against":44},
-	{"country":"sov","name":"Neftyanik Baku","id":"Neftçi_PFK","win":18,"draw":9,"loss":9,"for":56,"against":28},
+	{"country":"sov","name":"Neftyanik Baku","id":"neftci_pfk","win":18,"draw":9,"loss":9,"for":56,"against":28},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":15,"draw":12,"loss":9,"for":45,"against":41},
 	{"country":"sov","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":16,"draw":9,"loss":11,"for":60,"against":45},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":15,"draw":10,"loss":11,"for":55,"against":39},

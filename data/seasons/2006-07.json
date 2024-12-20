@@ -478,7 +478,7 @@
 	{"country":"arm","name":"Ulisses","id":"Ulisses_FC","win":5,"draw":2,"loss":21,"for":31,"against":66},
 	{"country":"arm","name":"Kotayk","id":"FC_Kotayk","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Disbanded before start of season"},
 	{"country":"aze","name":"Khazar Lankaran","id":"Khazar_Lankaran_FK","win":17,"draw":5,"loss":2,"for":50,"against":16,"isChampion":true},
-	{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":17,"draw":3,"loss":4,"for":47,"against":15},
+	{"country":"aze","name":"Neftçi Baku","id":"neftci_pfk","win":17,"draw":3,"loss":4,"for":47,"against":15},
 	{"country":"aze","name":"Baku","id":"FC_Baku","win":14,"draw":6,"loss":4,"for":25,"against":10},
 	{"country":"aze","name":"Inter Baku","id":"Shamakhi_FK","win":13,"draw":6,"loss":5,"for":36,"against":12},
 	{"country":"aze","name":"FK MKT-Araz","id":"Mil-Muğan_FK","win":12,"draw":5,"loss":7,"for":23,"against":18,"isRemoved":true},

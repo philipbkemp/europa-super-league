@@ -478,7 +478,7 @@
 	{"country":"arm","name":"Lernayin Artsakh","id":"Lernayin_Artsakh_FC","win":3,"draw":0,"loss":13,"for":14,"against":37,"isRemoved":true,"removedNote":"Withdrew; remaining results awarded to opposition","isReturning":true},
 	{"country":"aze","name":"Baku","id":"FC_Baku","win":18,"draw":4,"loss":4,"for":42,"against":12,"isChampion":true},
 	{"country":"aze","name":"Karvan","id":"Karvan_FK","win":17,"draw":6,"loss":3,"for":50,"against":9},
-	{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":15,"draw":9,"loss":2,"for":51,"against":16},
+	{"country":"aze","name":"Neftçi Baku","id":"neftci_pfk","win":15,"draw":9,"loss":2,"for":51,"against":16},
 	{"country":"aze","name":"Inter Baku","id":"Shamakhi_FK","win":14,"draw":8,"loss":4,"for":35,"against":14},
 	{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":12,"draw":4,"loss":10,"for":32,"against":32},
 	{"country":"aze","name":"Turan","id":"Turan_Tovuz","win":11,"draw":5,"loss":10,"for":27,"against":21},

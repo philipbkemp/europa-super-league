@@ -461,7 +461,7 @@
 	{"country":"arm","name":"Lernayin Artsakh","id":"Lernayin_Artsakh_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before season start"},
 	{"country":"arm","name":"Zvartnots-AAL","id":"Zvartnots-AAL_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before season start"},
 	{"country":"arm","name":"Armavir","id":"FC_Armavir_(Armenia)","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before season start","isNew":true},
-	{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":22,"draw":3,"loss":1,"for":66,"against":15,"isChampion":true,"isReturning":true},
+	{"country":"aze","name":"Neftçi Baku","id":"neftci_pfk","win":22,"draw":3,"loss":1,"for":66,"against":15,"isChampion":true,"isReturning":true},
 	{"country":"aze","name":"Şəmkir","id":"Shamkir_FC","win":20,"draw":4,"loss":2,"for":67,"against":11,"isReturning":true},
 	{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":19,"draw":3,"loss":4,"for":63,"against":17,"isReturning":true},
 	{"country":"aze","name":"Khazar Universiteti Baku","id":"Shamakhi_FK","win":15,"draw":6,"loss":5,"for":43,"against":16,"isReturning":true},

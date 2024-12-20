@@ -514,7 +514,7 @@
 	{"country":"aze","name":"Kur-Nur","id":"Energetik_FK","win":13,"draw":7,"loss":10,"for":36,"against":33,"isNew":true},
 	{"country":"aze","name":"FK Masallı","id":"FK_Viləş_Masallı","win":15,"draw":2,"loss":13,"for":28,"against":28,"isNew":true},
 	{"country":"aze","name":"Nicat Maştağa","id":"ANS_Pivani_Bakı_FK","win":11,"draw":9,"loss":10,"for":32,"against":29,"isNew":true},
-	{"country":"aze","name":"Neftchi Baku","id":"Neftçi_PFK","win":11,"draw":7,"loss":12,"for":37,"against":11,"isReturning":true},
+	{"country":"aze","name":"Neftchi Baku","id":"neftci_pfk","win":11,"draw":7,"loss":12,"for":37,"against":11,"isReturning":true},
 	{"country":"aze","name":"Khazar Lenkoran","id":"Khazar_Lankaran_FK","win":10,"draw":9,"loss":11,"for":44,"against":33,"isNew":true},
 	{"country":"aze","name":"İnşaatçı Baku","id":"İnşaatçı_Baku_FK","win":9,"draw":10,"loss":11,"for":25,"against":28,"isNew":true},
 	{"country":"aze","name":"Pambygchi Barda","id":"ABN_Barda","win":11,"draw":5,"loss":14,"for":40,"against":27,"isNew":true},

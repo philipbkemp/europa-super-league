@@ -464,7 +464,7 @@
 	{"country":"arm","name":"Kilikia","id":"Kilikia_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Expelled after one match"},
 	{"country":"aze","name":"Shamkir","id":"Shamkir_FC","win":23,"draw":7,"loss":2,"for":80,"against":20,"note":"Would be champions, but second half of season was not counted by UEFA/FA","isRemoved":true,"removedNote":"League not held next season due to dispute between clubs and FA"},
 	{"country":"aze","name":"Shafa Baku","id":"Shafa_Baku_FK","win":14,"draw":7,"loss":11,"for":41,"against":32,"isRemoved":true,"removedNote":"League not held next season due to dispute between clubs and FA"},
-	{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":18,"draw":9,"loss":5,"for":46,"against":11,"isRemoved":true,"removedNote":"League not held next season due to dispute between clubs and FA"},
+	{"country":"aze","name":"Neftçi Baku","id":"neftci_pfk","win":18,"draw":9,"loss":5,"for":46,"against":11,"isRemoved":true,"removedNote":"League not held next season due to dispute between clubs and FA"},
 	{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":16,"draw":3,"loss":13,"for":50,"against":44,"isRemoved":true,"removedNote":"League not held next season due to dispute between clubs and FA"},
 	{"country":"aze","name":"Ganja","id":"Kapaz_PFK","win":14,"draw":5,"loss":13,"for":51,"against":50,"isRemoved":true,"removedNote":"League not held next season due to dispute between clubs and FA"},
 	{"country":"aze","name":"Xazar Universitesi Baku","id":"Shamakhi_FK","win":13,"draw":6,"loss":13,"for":50,"against":42,"isRemoved":true,"removedNote":"League not held next season due to dispute between clubs and FA"},

@@ -479,7 +479,7 @@
 	{"country":"arm","name":"Arabkir","id":"Arabkir_FC","win":4,"draw":0,"loss":18,"for":20,"against":89,"isRemoved":true,"isReturning":true},
 	{"country":"arm","name":"Zangezour","id":"FC_Zangezour","win":2,"draw":3,"loss":17,"for":9,"against":77,"isRemoved":true},
 	{"country":"arm","name":"BKMA Yerevan","id":"FC_BKMA_Yerevan","win":1,"draw":1,"loss":20,"for":10,"against":56,"isRemoved":true,"removedNote":"Withdrew after financial issues","isNew":true},
-	{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":23,"draw":5,"loss":2,"for":98,"against":20,"isChampion":true},
+	{"country":"aze","name":"Neftçi Baku","id":"neftci_pfk","win":23,"draw":5,"loss":2,"for":98,"against":20,"isChampion":true},
 	{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":23,"draw":2,"loss":5,"for":61,"against":25},
 	{"country":"aze","name":"Khazri Buzovna","id":"Khazri_Buzovna","win":20,"draw":6,"loss":4,"for":59,"against":23},
 	{"country":"aze","name":"Turan","id":"Turan_Tovuz","win":19,"draw":7,"loss":4,"for":48,"against":13},

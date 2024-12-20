@@ -481,7 +481,7 @@
 	{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":21,"draw":9,"loss":6,"for":65,"against":21,"isChampion":true},
 	{"country":"aze","name":"Inter Baku","id":"Shamakhi_FK","win":20,"draw":7,"loss":9,"for":60,"against":37},
 	{"country":"aze","name":"Gabala","id":"Gabala_SC","win":18,"draw":7,"loss":11,"for":48,"against":36},
-	{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":17,"draw":9,"loss":10,"for":47,"against":43},
+	{"country":"aze","name":"Neftçi Baku","id":"neftci_pfk","win":17,"draw":9,"loss":10,"for":47,"against":43},
 	{"country":"aze","name":"Baku","id":"FC_Baku","win":16,"draw":9,"loss":11,"for":53,"against":43},
 	{"country":"aze","name":"Khazar Lankaran","id":"Khazar_Lankaran_FK","win":12,"draw":13,"loss":11,"for":44,"against":49},
 	{"country":"aze","name":"Simurq","id":"Simurq_PIK","win":11,"draw":13,"loss":12,"for":35,"against":28},

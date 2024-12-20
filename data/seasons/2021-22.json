@@ -490,7 +490,7 @@
 	{"country":"arm","name":"BKMA","id":"FC_BKMA_Yerevan","win":4,"draw":6,"loss":22,"for":25,"against":60,"isReturning":true},
 	{"country":"arm","name":"Sevan","id":"Sevan_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Expelled mid season; Record expunged","isNew":true},
 	{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":21,"draw":6,"loss":1,"for":72,"against":13,"isChampion":true},
-	{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":15,"draw":5,"loss":8,"for":42,"against":31},
+	{"country":"aze","name":"Neftçi Baku","id":"neftci_pfk","win":15,"draw":5,"loss":8,"for":42,"against":31},
 	{"country":"aze","name":"Zira","id":"Zira_FK","win":13,"draw":8,"loss":7,"for":33,"against":27},
 	{"country":"aze","name":"Gabala","id":"Gabala_SC","win":12,"draw":9,"loss":7,"for":38,"against":34},
 	{"country":"aze","name":"Sabah","id":"Sabah_FC_(Azerbaijan)","win":12,"draw":5,"loss":11,"for":42,"against":34},

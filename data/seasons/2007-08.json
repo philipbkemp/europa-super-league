@@ -480,7 +480,7 @@
 	{"country":"arm","name":"Lernayin Artsakh","id":"Lernayin_Artsakh_FC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before start of season","isReturning":true},
 	{"country":"aze","name":"Inter Baku","id":"Shamakhi_FK","win":18,"draw":4,"loss":4,"for":55,"against":18,"isChampion":true},
 	{"country":"aze","name":"Olimpik Baku","id":"Shuvalan_FK","win":17,"draw":7,"loss":2,"for":29,"against":7},
-	{"country":"aze","name":"Neftçi Baku","id":"Neftçi_PFK","win":16,"draw":7,"loss":3,"for":42,"against":18},
+	{"country":"aze","name":"Neftçi Baku","id":"neftci_pfk","win":16,"draw":7,"loss":3,"for":42,"against":18},
 	{"country":"aze","name":"Khazar Lankaran","id":"Khazar_Lankaran_FK","win":14,"draw":10,"loss":2,"for":44,"against":16},
 	{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":11,"draw":8,"loss":7,"for":25,"against":16},
 	{"country":"aze","name":"Gabala","id":"Gabala_SC","win":11,"draw":3,"loss":12,"for":33,"against":36},

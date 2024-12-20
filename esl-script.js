@@ -79,9 +79,12 @@ clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub",
 	/*aut*/
 	,"sk_rapid_wien","wiener_ac","fk_austria_wien"
 
+	/*aze*/
+	,"neftci_pfk"
+
 	];
 
-multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade"];
+multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk"];
 
 if ( $("h1 .placeholder").length !== 0 ) {
 
@@ -876,6 +879,8 @@ function saveClubs(refresh=false) {
 					countryFlag = "ukr";
 				} else if ( v === "fc_bayern_munich" ) {
 					countryFlag = "deu";
+				} else if ( v === "neftci_pfk" ) {
+					countryFlag = "aze";
 				}
 				clubName.html( clubName.html().replace(clubName.text(),"<a href='../../clubs/"+countryFlag+"/"+$sr.attr("id")+".html'>"+clubName.text()+"</a>") );
 			}

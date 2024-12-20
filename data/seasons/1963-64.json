@@ -421,7 +421,7 @@
 	{"country":"sov","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":17,"draw":13,"loss":8,"for":56,"against":42,"isReturning":true},
 	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":14,"draw":17,"loss":7,"for":45,"against":32,"isReturning":true},
 	{"country":"sov","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":14,"draw":17,"loss":7,"for":39,"against":27,"isReturning":true},
-	{"country":"sov","name":"Neftyanik Baku","id":"Neftçi_PFK","win":18,"draw":9,"loss":11,"for":48,"against":44,"isReturning":true},
+	{"country":"sov","name":"Neftyanik Baku","id":"neftci_pfk","win":18,"draw":9,"loss":11,"for":48,"against":44,"isReturning":true},
 	{"country":"sov","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":16,"draw":12,"loss":10,"for":68,"against":48,"isReturning":true},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":12,"draw":16,"loss":10,"for":46,"against":41,"isReturning":true},
 	{"country":"sov","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":11,"draw":14,"loss":13,"for":29,"against":33,"isReturning":true},

@@ -353,7 +353,7 @@
 	{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":11,"draw":8,"loss":15,"for":59,"against":56},
 	{"country":"sov","name":"Lokomotiv Kharkov","id":"FC_Lokomotyv_Kharkiv","win":10,"draw":10,"loss":14,"for":41,"against":51,"isNew":true},
 	{"country":"sov","name":"Torpedo Stalingrad","id":"FC_Rotor_Volgograd","win":8,"draw":10,"loss":16,"for":36,"against":52},
-	{"country":"sov","name":"Neftyanik Baku","id":"Neftçi_PFK","win":6,"draw":12,"loss":16,"for":26,"against":42,"isNew":true},
+	{"country":"sov","name":"Neftyanik Baku","id":"neftci_pfk","win":6,"draw":12,"loss":16,"for":26,"against":42,"isNew":true},
 	{"country":"sov","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":8,"draw":6,"loss":20,"for":36,"against":73},
 	{"country":"sov","name":"Dynamo Yerevan","id":"FC_Ararat_Yerevan","win":8,"draw":5,"loss":21,"for":36,"against":70,"isNew":true},
 	{"country":"sov","name":"Daugava Riga","id":"FC_Daugava_Riga","win":7,"draw":5,"loss":22,"for":21,"against":64},
