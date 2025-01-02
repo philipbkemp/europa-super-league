@@ -59,7 +59,7 @@
 	{"country":"bel","name":"Beerschot","id":"K._Beerschot_V.A.C.","win":12,"draw":6,"loss":12,"for":62,"against":62},
 	{"country":"bel","name":"R. Charleroi S.C.","id":"Royal_Charleroi_S.C.","win":7,"draw":9,"loss":14,"for":44,"against":73},
 	{"country":"bel","name":"Tilleur FC","id":"R.F.C._Tilleur","win":4,"draw":14,"loss":12,"for":33,"against":44},
-	{"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":8,"draw":6,"loss":16,"for":51,"against":69},
+	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":8,"draw":6,"loss":16,"for":51,"against":69},
 	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":9,"draw":4,"loss":17,"for":43,"against":60,"isReturning":true},
 	{"country":"bel","name":"K. Lyra","id":"K._Lyra","win":7,"draw":5,"loss":18,"for":51,"against":81,"isRemoved":true},
 	{"country":"bel","name":"Stade Louvain","id":"K._Stade_Leuven","win":4,"draw":7,"loss":19,"for":46,"against":85,"isRemoved":true,"isNew":true},

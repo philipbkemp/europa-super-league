@@ -65,7 +65,7 @@
 	{"country":"nld","name":"SC Heracles","id":"Heracles_Almelo","win":3,"draw":6,"loss":25,"for":26,"against":99,"isRemoved":true,"isReturning":true},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":22,"draw":8,"loss":4,"for":84,"against":33,"isChampion":true},
 	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":22,"draw":8,"loss":4,"for":78,"against":34},
-	{"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":15,"draw":12,"loss":7,"for":57,"against":29},
+	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":15,"draw":12,"loss":7,"for":57,"against":29},
 	{"country":"bel","name":"K.A.A. Gent","id":"K.A.A._Gent","win":15,"draw":11,"loss":8,"for":51,"against":38},
 	{"country":"bel","name":"K.S.K. Beveren","id":"K.S.K._Beveren","win":15,"draw":10,"loss":9,"for":51,"against":37},
 	{"country":"bel","name":"R.F.C. de Liège","id":"RFC_Liège","win":15,"draw":9,"loss":10,"for":43,"against":35},

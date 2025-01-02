@@ -42,7 +42,7 @@
 	{"country":"sco","name":"Raith Rovers","id":"Raith_Rovers_F.C.","win":11,"draw":4,"loss":23,"for":46,"against":81,"isRemoved":true},
 	{"country":"sco","name":"Clydebank","id":"Clydebank_F.C._(1914)","win":7,"draw":8,"loss":23,"for":55,"against":92,"isRemoved":true,"isReturning":true},
 	{"country":"bel","name":"Beerschot","id":"K._Beerschot_V.A.C.","win":18,"draw":4,"loss":4,"for":80,"against":29,"isChampion":true},
-	{"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":14,"draw":5,"loss":7,"for":77,"against":48},
+	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":14,"draw":5,"loss":7,"for":77,"against":48},
 	{"country":"bel","name":"Daring Club","id":"R._Daring_Club_Molenbeek","win":15,"draw":2,"loss":9,"for":59,"against":33},
 	{"country":"bel","name":"Royale Union Saint-Gilloise","id":"royale_union_saint_gilloise","win":15,"draw":2,"loss":9,"for":53,"against":34},
 	{"country":"bel","name":"Cercle Brugge K.S.V.","id":"Cercle_Brugge_K.S.V.","win":14,"draw":3,"loss":9,"for":59,"against":27},

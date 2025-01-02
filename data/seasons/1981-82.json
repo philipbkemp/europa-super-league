@@ -65,7 +65,7 @@
 	{"country":"nld","name":"MVV Maastricht","id":"MVV_Maastricht","win":6,"draw":11,"loss":17,"for":35,"against":70,"isRemoved":true},
 	{"country":"nld","name":"FC Den Haag","id":"ADO_Den_Haag","win":4,"draw":5,"loss":25,"for":29,"against":82,"isRemoved":true},
 	{"country":"nld","name":"De Graafschap","id":"De_Graafschap","win":3,"draw":6,"loss":25,"for":29,"against":95,"isRemoved":true,"isReturning":true},
-	{"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":19,"draw":10,"loss":5,"for":59,"against":28,"isChampion":true},
+	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":19,"draw":10,"loss":5,"for":59,"against":28,"isChampion":true},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":19,"draw":8,"loss":7,"for":56,"against":31},
 	{"country":"bel","name":"K.A.A. Gent","id":"K.A.A._Gent","win":16,"draw":13,"loss":5,"for":38,"against":20},
 	{"country":"bel","name":"K.S.C. Lokeren Oost-Vlaanderen","id":"K.S.C._Lokeren_Oost-Vlaanderen","win":17,"draw":10,"loss":7,"for":56,"against":32},

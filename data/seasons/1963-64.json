@@ -69,7 +69,7 @@
 	{"country":"nld","name":"FC Volendam","id":"FC_Volendam","win":4,"draw":10,"loss":16,"for":43,"against":74,"isRemoved":true},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":18,"draw":9,"loss":3,"for":77,"against":28,"isChampion":true},
 	{"country":"bel","name":"Beringen FC","id":"K._Beringen_F.C.","win":16,"draw":9,"loss":5,"for":49,"against":30},
-	{"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":16,"draw":8,"loss":6,"for":58,"against":28},
+	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":16,"draw":8,"loss":6,"for":58,"against":28},
 	{"country":"bel","name":"Beerschot","id":"K._Beerschot_V.A.C.","win":12,"draw":13,"loss":5,"for":47,"against":26},
 	{"country":"bel","name":"R.F.C. de Liège","id":"RFC_Liège","win":15,"draw":6,"loss":9,"for":39,"against":27},
 	{"country":"bel","name":"Royal Antwerp FC","id":"Royal_Antwerp_F.C.","win":13,"draw":9,"loss":8,"for":42,"against":38},

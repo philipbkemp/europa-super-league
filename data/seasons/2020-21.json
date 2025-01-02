@@ -66,7 +66,7 @@
 	{"country":"bel","name":"Anderlecht","id":"R.S.C._Anderlecht","win":15,"draw":17,"loss":8,"for":60,"against":45},
 	{"country":"bel","name":"Genk","id":"K.R.C._Genk","win":21,"draw":9,"loss":10,"for":82,"against":53},
 	{"country":"bel","name":"Oostende","id":"K.V._Oostende","win":17,"draw":9,"loss":14,"for":64,"against":57},
-	{"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":14,"draw":11,"loss":15,"for":59,"against":58},
+	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":14,"draw":11,"loss":15,"for":59,"against":58},
 	{"country":"bel","name":"Gent","id":"K.A.A._Gent","win":18,"draw":8,"loss":14,"for":68,"against":48},
 	{"country":"bel","name":"Mechelen","id":"K.V._Mechelen","win":16,"draw":11,"loss":13,"for":69,"against":65},
 	{"country":"bel","name":"Beerschot","id":"K_Beerschot_VA","win":14,"draw":5,"loss":15,"for":58,"against":64,"isNew":true},

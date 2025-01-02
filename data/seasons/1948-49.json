@@ -49,7 +49,7 @@
 	{"country":"sco","name":"Albion Rovers","id":"Albion_Rovers_F.C.","win":3,"draw":2,"loss":25,"for":30,"against":105,"isRemoved":true,"isReturning":true},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":20,"draw":1,"loss":9,"for":72,"against":45,"isChampion":true},
 	{"country":"bel","name":"K Berchem Sport","id":"K._Berchem_Sport","win":16,"draw":6,"loss":8,"for":56,"against":38},
-	{"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":17,"draw":4,"loss":9,"for":57,"against":48},
+	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":17,"draw":4,"loss":9,"for":57,"against":48},
 	{"country":"bel","name":"R. Charleroi S.C.","id":"Royal_Charleroi_S.C.","win":15,"draw":6,"loss":9,"for":70,"against":47},
 	{"country":"bel","name":"K.R.C. Mechelen","id":"K.R.C._Mechelen","win":13,"draw":8,"loss":9,"for":57,"against":49,"isReturning":true},
 	{"country":"bel","name":"Beerschot","id":"K._Beerschot_V.A.C.","win":15,"draw":3,"loss":12,"for":54,"against":46},

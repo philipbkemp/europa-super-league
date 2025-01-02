@@ -59,7 +59,7 @@
 	{"country":"bel","name":"R. Charleroi S.C.","id":"Royal_Charleroi_S.C.","win":10,"draw":8,"loss":12,"for":41,"against":49},
 	{"country":"bel","name":"K Berchem Sport","id":"K._Berchem_Sport","win":11,"draw":6,"loss":13,"for":38,"against":53},
 	{"country":"bel","name":"Tilleur FC","id":"R.F.C._Tilleur","win":12,"draw":4,"loss":14,"for":48,"against":50},
-	{"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":9,"draw":9,"loss":12,"for":49,"against":55},
+	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":9,"draw":9,"loss":12,"for":49,"against":55},
 	{"country":"bel","name":"Royale Union Saint-Gilloise","id":"royale_union_saint_gilloise","win":9,"draw":9,"loss":12,"for":52,"against":60},
 	{"country":"bel","name":"Daring Club","id":"R._Daring_Club_Molenbeek","win":11,"draw":4,"loss":15,"for":49,"against":61,"isRemoved":true},
 	{"country":"bel","name":"K. Lyra","id":"K._Lyra","win":2,"draw":11,"loss":17,"for":30,"against":59,"isRemoved":true,"isReturning":true},

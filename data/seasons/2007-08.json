@@ -61,7 +61,7 @@
 	{"country":"nld","name":"De Graafschap","id":"De_Graafschap","win":7,"draw":9,"loss":18,"for":33,"against":64,"isReturning":true},
 	{"country":"nld","name":"VVV-Venlo","id":"VVV-Venlo","win":7,"draw":8,"loss":19,"for":44,"against":76,"isRemoved":true,"isReturning":true},
 	{"country":"nld","name":"Excelsior","id":"Excelsior_Rotterdam","win":7,"draw":6,"loss":21,"for":32,"against":75,"isRemoved":true},
-	{"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":22,"draw":11,"loss":1,"for":61,"against":19,"isChampion":true},
+	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":22,"draw":11,"loss":1,"for":61,"against":19,"isChampion":true},
 	{"country":"bel","name":"Anderlecht","id":"R.S.C._Anderlecht","win":21,"draw":7,"loss":6,"for":59,"against":31},
 	{"country":"bel","name":"Club Brugge","id":"Club_Brugge_KV","win":20,"draw":7,"loss":7,"for":45,"against":30},
 	{"country":"bel","name":"Cercle Brugge","id":"Cercle_Brugge_K.S.V.","win":17,"draw":9,"loss":8,"for":62,"against":33},

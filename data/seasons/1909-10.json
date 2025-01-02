@@ -55,7 +55,7 @@
 	{"country":"bel","name":"F.C. Brugeois","id":"Club_Brugge_KV","win":18,"draw":2,"loss":2,"for":82,"against":26},
 	{"country":"bel","name":"C.S. Brugeois","id":"Cercle_Brugge_K.S.V.","win":18,"draw":0,"loss":4,"for":67,"against":22},
 	{"country":"bel","name":"Daring Club de Bruxelles","id":"R._Daring_Club_Molenbeek","win":11,"draw":3,"loss":8,"for":47,"against":33},
-	{"country":"bel","name":"Standard Club Liégeois","id":"Standard_Liège","win":10,"draw":3,"loss":9,"for":37,"against":25,"isNew":true},
+	{"country":"bel","name":"Standard Club Liégeois","id":"standard_liege","win":10,"draw":3,"loss":9,"for":37,"against":25,"isNew":true},
 	{"country":"bel","name":"Beerschot","id":"K._Beerschot_V.A.C.","win":10,"draw":2,"loss":10,"for":47,"against":56},
 	{"country":"bel","name":"Excelsior S.C. de Bruxelles","id":"Royal_Excelsior_Sports_Club","win":8,"draw":3,"loss":11,"for":48,"against":44},
 	{"country":"bel","name":"Racing Club de Bruxelles","id":"kfc_rhodienne_de_hoek","win":8,"draw":3,"loss":11,"for":43,"against":50},

@@ -65,7 +65,7 @@
 	{"country":"nld","name":"FC Twente","id":"FC_Twente","win":7,"draw":11,"loss":16,"for":36,"against":60,"isRemoved":true},
 	{"country":"nld","name":"NAC","id":"NAC_Breda","win":6,"draw":12,"loss":16,"for":39,"against":75,"isRemoved":true},
 	{"country":"nld","name":"NEC","id":"NEC_Nijmegen","win":4,"draw":14,"loss":16,"for":34,"against":61,"isRemoved":true},
-	{"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":22,"draw":6,"loss":6,"for":78,"against":34,"isChampion":true},
+	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":22,"draw":6,"loss":6,"for":78,"against":34,"isChampion":true},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":20,"draw":9,"loss":5,"for":74,"against":33},
 	{"country":"bel","name":"Royal Antwerp FC","id":"Royal_Antwerp_F.C.","win":20,"draw":6,"loss":8,"for":56,"against":30},
 	{"country":"bel","name":"K.A.A. Gent","id":"K.A.A._Gent","win":18,"draw":10,"loss":6,"for":60,"against":42},

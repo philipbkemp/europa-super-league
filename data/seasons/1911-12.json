@@ -59,7 +59,7 @@
 	{"country":"bel","name":"Antwerp F.C.","id":"Royal_Antwerp_F.C.","win":9,"draw":2,"loss":11,"for":33,"against":57},
 	{"country":"bel","name":"R.C. Gantois","id":"K.R.C._Gent","win":5,"draw":7,"loss":10,"for":26,"against":45,"isReturning":true},
 	{"country":"bel","name":"Excelsior S.C. de Bruxelles","id":"Royal_Excelsior_Sports_Club","win":5,"draw":6,"loss":11,"for":23,"against":61},
-	{"country":"bel","name":"Standard Club Liégeois","id":"Standard_Liège","win":6,"draw":3,"loss":13,"for":29,"against":85},
+	{"country":"bel","name":"Standard Club Liégeois","id":"standard_liege","win":6,"draw":3,"loss":13,"for":29,"against":85},
 	{"country":"bel","name":"Beerschot","id":"K._Beerschot_V.A.C.","win":5,"draw":4,"loss":13,"for":20,"against":60},
 	{"country":"bel","name":"R.C. Malines","id":"K.R.C._Mechelen","win":3,"draw":7,"loss":12,"for":22,"against":42,"isRemoved":true},
 	{"country":"bel","name":"Léopold Club de Bruxelles","id":"Léopold_FC","win":3,"draw":4,"loss":15,"for":24,"against":46,"isRemoved":true},

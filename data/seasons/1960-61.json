@@ -69,7 +69,7 @@
 	{"country":"nld","name":"Elinkwijk","id":"USV_Elinkwijk","win":11,"draw":3,"loss":20,"for":43,"against":72,"isRemoved":true},
 	{"country":"nld","name":"Alkmaar '54","id":"AZ_Alkmaar","win":6,"draw":12,"loss":16,"for":39,"against":61,"isRemoved":true,"isNew":true},
 	{"country":"nld","name":"NOAD","id":"TSV_NOAD","win":4,"draw":8,"loss":22,"for":28,"against":81,"isRemoved":true,"isReturning":true},
-	{"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":18,"draw":9,"loss":3,"for":67,"against":25,"isChampion":true},
+	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":18,"draw":9,"loss":3,"for":67,"against":25,"isChampion":true},
 	{"country":"bel","name":"R.F.C. de Liège","id":"RFC_Liège","win":15,"draw":11,"loss":4,"for":50,"against":25},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":15,"draw":7,"loss":8,"for":56,"against":28},
 	{"country":"bel","name":"Beerschot","id":"K._Beerschot_V.A.C.","win":13,"draw":7,"loss":10,"for":47,"against":38},

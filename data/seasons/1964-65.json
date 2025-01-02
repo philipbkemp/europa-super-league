@@ -68,7 +68,7 @@
 	{"country":"nld","name":"Sittardia","id":"sittardia","win":8,"draw":7,"loss":15,"for":36,"against":46,"isRemoved":true,"isReturning":true},
 	{"country":"nld","name":"NAC","id":"NAC_Breda","win":7,"draw":8,"loss":15,"for":34,"against":49,"isRemoved":true},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":24,"draw":3,"loss":3,"for":87,"against":22,"isChampion":true},
-	{"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":15,"draw":9,"loss":6,"for":50,"against":34},
+	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":15,"draw":9,"loss":6,"for":50,"against":34},
 	{"country":"bel","name":"Beerschot","id":"K._Beerschot_V.A.C.","win":14,"draw":7,"loss":9,"for":51,"against":27},
 	{"country":"bel","name":"R.F.C. Tilleur-Saint-Nicolas","id":"R.F.C._Tilleur","win":12,"draw":10,"loss":8,"for":63,"against":47,"isReturning":true},
 	{"country":"bel","name":"K. Sint-Truidense V.V.","id":"Sint-Truidense_V.V.","win":12,"draw":9,"loss":9,"for":50,"against":41},

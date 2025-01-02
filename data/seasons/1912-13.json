@@ -56,7 +56,7 @@
 	{"country":"bel","name":"F.C. Brugeois","id":"Club_Brugge_KV","win":9,"draw":1,"loss":12,"for":41,"against":46},
 	{"country":"bel","name":"R.C. Gantois","id":"K.R.C._Gent","win":6,"draw":7,"loss":9,"for":31,"against":36},
 	{"country":"bel","name":"Antwerp F.C.","id":"Royal_Antwerp_F.C.","win":8,"draw":3,"loss":11,"for":39,"against":57},
-	{"country":"bel","name":"Standard Club Liégeois","id":"Standard_Liège","win":6,"draw":5,"loss":11,"for":24,"against":66},
+	{"country":"bel","name":"Standard Club Liégeois","id":"standard_liege","win":6,"draw":5,"loss":11,"for":24,"against":66},
 	{"country":"bel","name":"F.C. Liégeois","id":"RFC_Liège","win":4,"draw":1,"loss":17,"for":15,"against":88,"isRemoved":true,"isReturning":true},
 	{"country":"bel","name":"Excelsior S.C. de Bruxelles","id":"Royal_Excelsior_Sports_Club","win":0,"draw":2,"loss":20,"for":11,"against":84,"isRemoved":true},
 	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":16,"draw":1,"loss":1,"for":77,"against":13,"isChampion":true},

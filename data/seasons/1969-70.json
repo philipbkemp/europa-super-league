@@ -69,7 +69,7 @@
 	{"country":"nld","name":"DOS","id":"DHSC_(football_club)","win":7,"draw":9,"loss":18,"for":27,"against":64,"isRemoved":true,"removedNote":"Merged with other clubs to form FC Utrecht"},
 	{"country":"nld","name":"GVAV","id":"FC_Groningen","win":7,"draw":8,"loss":19,"for":20,"against":45,"isRemoved":true},
 	{"country":"nld","name":"SVV","id":"SV_SVV","win":5,"draw":5,"loss":24,"for":31,"against":90,"isRemoved":true,"isNew":true},
-	{"country":"bel","name":"Standard Liège","id":"Standard_Liège","win":22,"draw":5,"loss":3,"for":64,"against":24,"isChampion":true},
+	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":22,"draw":5,"loss":3,"for":64,"against":24,"isChampion":true},
 	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":20,"draw":5,"loss":5,"for":75,"against":36},
 	{"country":"bel","name":"La Gantoise","id":"K.A.A._Gent","win":16,"draw":7,"loss":7,"for":49,"against":35},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":15,"draw":6,"loss":9,"for":64,"against":29},
