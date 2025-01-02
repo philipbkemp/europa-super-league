@@ -122,5 +122,6 @@ table.newclubs * { background-color: #eee !important; }
 }
 a[istodo] { border: 1px dotted red; }
 .current-season { background-color: #2b587311;}
-.currentSeason tbody:not(#league_a):not(#league_new) tr:nth-of-type(10) { border-bottom: dashed 5px #b5e9b5; }
-.currentSeason tbody:not(#league_new) tr:nth-of-type(90) { border-bottom: dashed 5px #ffc9c9; }
+
+.currentSeason tbody:not(#league_a):not(#league_new) tr.promotion-limit { border-bottom: dashed 5px #b5e9b5; }
+.currentSeason tbody:not(#league_new) tr.relegation-limit { border-top: dashed 5px #ffc9c9; }

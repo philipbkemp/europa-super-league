@@ -335,6 +335,9 @@ if ( $("h1 .placeholder").length !== 0 ) {
 	if ( data.length !== $("tr[id]").length ) {
 		console.error("Something's wrong...",data.length,$("tr[id]").length);
 	}
+
+	calcPromotionRelegationLimits();
+
 } else {
 	saveClubs();
 }
@@ -1029,4 +1032,29 @@ function fixRow(league,pos) {
     /* win % */   cols[12].innerHTML = (parseInt(cols[3].innerHTML) / parseInt(cols[2].innerHTML)).toFixed(2);
     /* gd per g */cols[13].innerHTML = ((parseInt(cols[6].innerHTML)-parseInt(cols[7].innerHTML)) / parseInt(cols[2].innerHTML)).toFixed(2);
     /* pts / g */ cols[14].innerHTML = (parseInt(cols[8].innerHTML) / parseInt(cols[2].innerHTML)).toFixed(2);
+}
+
+function calcPromotionRelegationLimits() {
+	leagues = ["a","b","c","d","e","f","g"];
+
+	for ( i=0 ; i!==leagues.length ; i++ ) {
+
+		if ( document.querySelectorAll("#league_"+leagues[i]+" .removed").length === 0 ) {
+			if ( document.querySelectorAll("#league_"+leagues[i]+" tr").length >= (90-1) ) {
+				document.querySelectorAll("#league_"+leagues[i]+" tr")[90-1].classList.add("relegation-limit");
+			}
+		} else {
+			if ( document.querySelectorAll("#league_"+leagues[i]+" tr:not(.removed)").length >= 90 ) {
+				document.querySelectorAll("#league_"+leagues[i]+" tr:not(.removed)")[90].classList.add("relegation-limit");
+			}
+		}
+
+		if ( i !== 0 ) {
+			if ( document.querySelectorAll("#league_"+leagues[i]+" .removed").length <= 10 ) {
+				document.querySelectorAll("#league_"+leagues[i]+" tr:not(.removed)")[10-1].classList.add("promotion-limit");
+			} else {
+				console.error("Change estimated number of promotion teams");
+			}
+		}
+	}
 }
