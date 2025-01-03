@@ -282,7 +282,7 @@
 	{"country":"ltu","name":"Atlantas","id":"FK_Atlantas","win":7,"draw":5,"loss":21,"for":30,"against":78,"isRemoved":true},
 	{"country":"ltu","name":"Palanga","id":"FK_Palanga","win":6,"draw":1,"loss":21,"for":29,"against":70,"isRemoved":true},
 	{"country":"ltu","name":"Stumbras","id":"FC_Stumbras","win":4,"draw":3,"loss":21,"for":12,"against":60,"isRemoved":true},
-	{"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":21,"draw":9,"loss":1,"for":59,"against":18,"isChampion":true},
+	{"country":"bgr","name":"Ludogorets Razgrad","id":"pfc_ludogorets_razgrad","win":21,"draw":9,"loss":1,"for":59,"against":18,"isChampion":true},
 	{"country":"bgr","name":"Lokomotiv Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":15,"draw":8,"loss":8,"for":53,"against":35},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":16,"draw":11,"loss":4,"for":52,"against":22},
 	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":15,"draw":8,"loss":8,"for":50,"against":30},

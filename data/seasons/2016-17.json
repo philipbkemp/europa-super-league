@@ -281,7 +281,7 @@
 	{"country":"ltu","name":"Stumbras Kaunas","id":"FC_Stumbras","win":8,"draw":9,"loss":16,"for":43,"against":63},
 	{"country":"ltu","name":"Utenis Utena","id":"FK_Utenis_Utena","win":4,"draw":4,"loss":20,"for":24,"against":47},
 	{"country":"ltu","name":"Kauno Žalgiris","id":"FK_Kauno_Žalgiris","win":2,"draw":9,"loss":17,"for":23,"against":55},
-	{"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":25,"draw":8,"loss":3,"for":87,"against":28,"isChampion":true},
+	{"country":"bgr","name":"Ludogorets Razgrad","id":"pfc_ludogorets_razgrad","win":25,"draw":8,"loss":3,"for":87,"against":28,"isChampion":true},
 	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":18,"draw":9,"loss":9,"for":50,"against":31},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":19,"draw":10,"loss":7,"for":51,"against":21,"isReturning":true},
 	{"country":"bgr","name":"Cherno More","id":"PFC_Cherno_More_Varna","win":13,"draw":8,"loss":15,"for":39,"against":45},

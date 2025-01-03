@@ -291,7 +291,7 @@
 	{"country":"ltu","name":"Banga","id":"FK_Banga_Gargždai","win":6,"draw":12,"loss":18,"for":33,"against":54},
 	{"country":"ltu","name":"Džiugas","id":"FC_Džiugas_Telšiai","win":5,"draw":12,"loss":19,"for":34,"against":67},
 	{"country":"ltu","name":"Jonava","id":"FK_Jonava","win":0,"draw":3,"loss":33,"for":12,"against":103,"isRemoved":true,"isReturning":true},
-	{"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":26,"draw":7,"loss":2,"for":81,"against":27,"isChampion":true},
+	{"country":"bgr","name":"Ludogorets Razgrad","id":"pfc_ludogorets_razgrad","win":26,"draw":7,"loss":2,"for":81,"against":27,"isChampion":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":26,"draw":6,"loss":3,"for":65,"against":17},
 	{"country":"bgr","name":"CSKA 1948","id":"FC_CSKA_1948_Sofia","win":17,"draw":13,"loss":5,"for":55,"against":28},
 	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":17,"draw":10,"loss":8,"for":47,"against":22},

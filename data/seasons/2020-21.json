@@ -287,7 +287,7 @@
 	{"country":"ltu","name":"Banga","id":"FK_Banga_Gargždai","win":3,"draw":7,"loss":10,"for":16,"against":30,"isReturning":true},
 	{"country":"ltu","name":"Panevėžys","id":"FK_Panevėžys","win":2,"draw":6,"loss":12,"for":19,"against":38},
 	{"country":"ltu","name":"Riteriai","id":"FK_Riteriai","win":2,"draw":6,"loss":12,"for":17,"against":38},
-	{"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":22,"draw":4,"loss":5,"for":69,"against":29,"isChampion":true},
+	{"country":"bgr","name":"Ludogorets Razgrad","id":"pfc_ludogorets_razgrad","win":22,"draw":4,"loss":5,"for":69,"against":29,"isChampion":true},
 	{"country":"bgr","name":"Lokomotiv Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":17,"draw":10,"loss":4,"for":48,"against":23},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":17,"draw":8,"loss":6,"for":46,"against":24},
 	{"country":"bgr","name":"Arda","id":"FC_Arda_Kardzhali","win":13,"draw":11,"loss":7,"for":42,"against":37},

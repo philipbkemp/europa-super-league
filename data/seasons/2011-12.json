@@ -290,7 +290,7 @@
 	{"country":"ltu","name":"FBK Kaunas","id":"FBK_Kaunas","win":8,"draw":8,"loss":17,"for":41,"against":53,"isRemoved":true,"deduct":-6,"deductReason":"Debts to a former player","isReturning":true},
 	{"country":"ltu","name":"Atlantas","id":"FK_Atlantas","win":3,"draw":2,"loss":28,"for":28,"against":121,"isReturning":true},
 	{"country":"ltu","name":"Klaipėda","id":"FC_Klaipėda","win":2,"draw":3,"loss":28,"for":19,"against":89,"isRemoved":true},
-	{"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":22,"draw":4,"loss":4,"for":73,"against":16,"isChampion":true,"isNew":true},
+	{"country":"bgr","name":"Ludogorets Razgrad","id":"pfc_ludogorets_razgrad","win":22,"draw":4,"loss":4,"for":73,"against":16,"isChampion":true,"isNew":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":22,"draw":3,"loss":5,"for":60,"against":19},
 	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":20,"draw":2,"loss":8,"for":61,"against":28},
 	{"country":"bgr","name":"Chernomorets Burgas","id":"PSFC_Chernomorets_Burgas","win":17,"draw":9,"loss":4,"for":57,"against":23},

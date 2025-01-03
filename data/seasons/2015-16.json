@@ -281,7 +281,7 @@
 	{"country":"ltu","name":"Klaipėdos Granitas","id":"FK_Klaipėdos_Granitas","win":6,"draw":9,"loss":21,"for":37,"against":83,"isRemoved":true,"removedNote":"Disqualified mid-season for breach of fair play regulations"},
 	{"country":"ltu","name":"Šiauliai","id":"FC_Šiauliai","win":5,"draw":5,"loss":26,"for":37,"against":94,"isRemoved":true},
 	{"country":"ltu","name":"Kruoja Pakruojis","id":"FK_Kruoja_Pakruojis","win":4,"draw":8,"loss":24,"for":23,"against":72,"isRemoved":true,"removedNote":"Withdrew mid-season for breach of fair play regulations and repeated match-fixing allegations"},
-	{"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":21,"draw":7,"loss":4,"for":55,"against":21,"isChampion":true},
+	{"country":"bgr","name":"Ludogorets Razgrad","id":"pfc_ludogorets_razgrad","win":21,"draw":7,"loss":4,"for":55,"against":21,"isChampion":true},
 	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":16,"draw":8,"loss":8,"for":36,"against":18},
 	{"country":"bgr","name":"Beroe","id":"PFC_Beroe_Stara_Zagora","win":14,"draw":11,"loss":7,"for":37,"against":27},
 	{"country":"bgr","name":"Slavia Sofia","id":"PFC_Slavia_Sofia","win":14,"draw":7,"loss":11,"for":36,"against":29},

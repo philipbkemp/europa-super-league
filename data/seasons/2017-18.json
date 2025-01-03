@@ -283,7 +283,7 @@
 	{"country":"ltu","name":"Jonava","id":"FK_Jonava","win":10,"draw":8,"loss":15,"for":40,"against":53},
 	{"country":"ltu","name":"Stumbras","id":"FC_Stumbras","win":4,"draw":10,"loss":14,"for":23,"against":42},
 	{"country":"ltu","name":"Kauno Žalgiris","id":"FK_Kauno_Žalgiris","win":3,"draw":6,"loss":19,"for":19,"against":56},
-	{"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":27,"draw":7,"loss":2,"for":91,"against":22,"isChampion":true},
+	{"country":"bgr","name":"Ludogorets Razgrad","id":"pfc_ludogorets_razgrad","win":27,"draw":7,"loss":2,"for":91,"against":22,"isChampion":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":24,"draw":9,"loss":3,"for":80,"against":26},
 	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":18,"draw":10,"loss":8,"for":55,"against":27},
 	{"country":"bgr","name":"Beroe","id":"PFC_Beroe_Stara_Zagora","win":16,"draw":11,"loss":9,"for":45,"against":43},

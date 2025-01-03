@@ -68,13 +68,8 @@ THEDATA = [
 	{"country":"bel","name":"Sint-Truiden","id":"Sint-Truidense_V.V.","win":4,"draw":7,"loss":9,"for":24,"against":40,"isCurrentSeason":true},
 	{"country":"bel","name":"Kortrijk","id":"K.V._Kortrijk","win":5,"draw":3,"loss":12,"for":17,"against":39,"isCurrentSeason":true},
 	{"country":"bel","name":"Beerschot","id":"K_Beerschot_VA","win":2,"draw":6,"loss":12,"for":18,"against":42,"isReturning":true,"isCurrentSeason":true},
-
-
-
-
-	
-	{"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":16,"draw":2,"loss":0,"for":39,"against":4,"isCurrentSeason":true},
-	{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":13,"draw":1,"loss":4,"for":20,"against":10,"isCurrentSeason":true},
+	{"country":"bgr","name":"Ludogorets Razgrad","id":"pfc_ludogorets_razgrad","win":17,"draw":2,"loss":0,"for":43,"against":6,"isCurrentSeason":true},
+	{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":13,"draw":1,"loss":5,"for":22,"against":14,"isCurrentSeason":true},
 	{"country":"bgr","name":"Cherno More","id":"PFC_Cherno_More_Varna","win":12,"draw":4,"loss":3,"for":30,"against":11,"isCurrentSeason":true},
 	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":13,"draw":1,"loss":5,"for":35,"against":14,"isCurrentSeason":true},
 	{"country":"bgr","name":"Arda","id":"FC_Arda_Kardzhali","win":10,"draw":4,"loss":5,"for":25,"against":22,"isCurrentSeason":true},
@@ -89,6 +84,10 @@ THEDATA = [
 	{"country":"bgr","name":"Lokomotiv Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":3,"draw":5,"loss":11,"for":20,"against":31,"isCurrentSeason":true},
 	{"country":"bgr","name":"Botev Vratsa","id":"POFC_Botev_Vratsa","win":3,"draw":3,"loss":13,"for":15,"against":40,"isCurrentSeason":true},
 	{"country":"bgr","name":"Hebar","id":"FC_Hebar_Pazardzhik","win":1,"draw":6,"loss":12,"for":14,"against":32,"isCurrentSeason":true},
+
+
+
+	
 	{"country":"bih","name":"Zrinjski Mostar","id":"HŠK_Zrinjski_Mostar","win":14,"draw":2,"loss":1,"for":36,"against":8,"isCurrentSeason":true},
 	{"country":"bih","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":13,"draw":2,"loss":2,"for":35,"against":8,"isCurrentSeason":true},
 	{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":11,"draw":5,"loss":1,"for":40,"against":13,"isCurrentSeason":true},

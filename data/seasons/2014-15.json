@@ -293,7 +293,7 @@
 	{"country":"ltu","name":"Klaipėdos Granitas","id":"FK_Klaipėdos_Granitas","win":9,"draw":10,"loss":17,"for":47,"against":67,"isNew":true},
 	{"country":"ltu","name":"Banga","id":"FK_Banga_Gargždai","win":8,"draw":6,"loss":22,"for":29,"against":65,"isRemoved":true},
 	{"country":"ltu","name":"Dainava","id":"FK_Dainava_Alytus","win":2,"draw":3,"loss":31,"for":12,"against":143,"isRemoved":true},
-	{"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":18,"draw":9,"loss":5,"for":63,"against":24,"isChampion":true},
+	{"country":"bgr","name":"Ludogorets Razgrad","id":"pfc_ludogorets_razgrad","win":18,"draw":9,"loss":5,"for":63,"against":24,"isChampion":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":14,"draw":10,"loss":8,"for":45,"against":27,"isRemoved":true},
 	{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":16,"draw":7,"loss":9,"for":39,"against":31,"isRemoved":true},
 	{"country":"bgr","name":"Litex Lovech","id":"FC_Lovech","win":16,"draw":6,"loss":10,"for":49,"against":36},

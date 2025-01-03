@@ -291,7 +291,7 @@
 	{"country":"ltu","name":"Dainava","id":"DFK_Dainava","win":7,"draw":10,"loss":19,"for":25,"against":40,"isReturning":true},
 	{"country":"ltu","name":"Džiugas","id":"FC_Džiugas_Telšiai","win":4,"draw":13,"loss":19,"for":25,"against":57},
 	{"country":"ltu","name":"Riteriai","id":"FK_Riteriai","win":5,"draw":10,"loss":21,"for":26,"against":62,"isRemoved":true},
-	{"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":26,"draw":4,"loss":5,"for":87,"against":24,"isChampion":true},
+	{"country":"bgr","name":"Ludogorets Razgrad","id":"pfc_ludogorets_razgrad","win":26,"draw":4,"loss":5,"for":87,"against":24,"isChampion":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":20,"draw":7,"loss":8,"for":56,"against":27},
 	{"country":"bgr","name":"Cherno More","id":"PFC_Cherno_More_Varna","win":22,"draw":9,"loss":4,"for":56,"against":26},
 	{"country":"bgr","name":"Lokomotiv Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":17,"draw":7,"loss":11,"for":53,"against":44},

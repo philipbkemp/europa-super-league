@@ -292,7 +292,7 @@
 	{"country":"ltu","name":"Šiauliai","id":"FC_Šiauliai","win":6,"draw":7,"loss":19,"for":34,"against":65},
 	{"country":"ltu","name":"Dainava","id":"FK_Dainava_Alytus","win":4,"draw":5,"loss":23,"for":27,"against":74},
 	{"country":"ltu","name":"Tauras","id":"FK_Tauras_Tauragė","win":3,"draw":2,"loss":27,"for":25,"against":92,"isRemoved":true},
-	{"country":"bgr","name":"Ludogorets Razgrad","id":"PFC_Ludogorets_Razgrad","win":25,"draw":9,"loss":4,"for":74,"against":20,"isChampion":true},
+	{"country":"bgr","name":"Ludogorets Razgrad","id":"pfc_ludogorets_razgrad","win":25,"draw":9,"loss":4,"for":74,"against":20,"isChampion":true},
 	{"country":"bgr","name":"Litex Lovech","id":"FC_Lovech","win":21,"draw":9,"loss":8,"for":74,"against":37},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":21,"draw":9,"loss":8,"for":56,"against":20},
 	{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":18,"draw":11,"loss":9,"for":57,"against":32},
