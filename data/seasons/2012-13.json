@@ -610,7 +610,7 @@
 	{"country":"bih","name":"Široki Brijeg","id":"NK_Široki_Brijeg","win":13,"draw":6,"loss":11,"for":48,"against":31},
 	{"country":"bih","name":"Slavija","id":"FK_Slavija_Sarajevo","win":12,"draw":7,"loss":11,"for":29,"against":28},
 	{"country":"bih","name":"Leotar","id":"FK_Leotar","win":10,"draw":9,"loss":11,"for":28,"against":40},
-	{"country":"bih","name":"Zrinjski","id":"HŠK_Zrinjski_Mostar","win":11,"draw":6,"loss":13,"for":26,"against":42},
+	{"country":"bih","name":"Zrinjski","id":"hsk_zrinjski_mostar","win":11,"draw":6,"loss":13,"for":26,"against":42},
 	{"country":"bih","name":"Rudar Prijedor","id":"FK_Rudar_Prijedor","win":10,"draw":6,"loss":14,"for":37,"against":42},
 	{"country":"bih","name":"Zvijezda","id":"NK_Zvijezda_Gradačac","win":10,"draw":6,"loss":14,"for":38,"against":44},
 	{"country":"bih","name":"Radnik","id":"FK_Radnik_Bijeljina","win":8,"draw":11,"loss":11,"for":27,"against":35,"isReturning":true},

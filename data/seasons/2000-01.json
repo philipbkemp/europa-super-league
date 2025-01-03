@@ -615,7 +615,7 @@
 	{"country":"bih","name":"Troglav","id":"NK_Troglav_1918_Livno","win":19,"draw":8,"loss":15,"for":59,"against":57,"isNew":true},
 	{"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":17,"draw":13,"loss":12,"for":54,"against":41},
 	{"country":"bih","name":"Orašje","id":"HNK_Orašje","win":19,"draw":6,"loss":17,"for":66,"against":54,"isNew":true},
-	{"country":"bih","name":"Zrinjski","id":"HŠK_Zrinjski_Mostar","win":19,"draw":6,"loss":17,"for":65,"against":54,"isReturning":true},
+	{"country":"bih","name":"Zrinjski","id":"hsk_zrinjski_mostar","win":19,"draw":6,"loss":17,"for":65,"against":54,"isReturning":true},
 	{"country":"bih","name":"Olimpik","id":"FK_Olimpik","win":18,"draw":8,"loss":16,"for":61,"against":47,"isReturning":true},
 	{"country":"bih","name":"Travnik","id":"NK_Travnik","win":18,"draw":7,"loss":17,"for":65,"against":72,"isRemoved":true,"isReturning":true},
 	{"country":"bih","name":"Budućnost","id":"FK_Budućnost_Banovići","win":17,"draw":7,"loss":18,"for":68,"against":63,"isRemoved":true},

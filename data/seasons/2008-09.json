@@ -605,7 +605,7 @@
 	{"country":"ukr","name":"Illichivets Mariupol","id":"FC_Mariupol","win":7,"draw":5,"loss":18,"for":31,"against":54,"isReturning":true},
 	{"country":"ukr","name":"FC Lviv","id":"FC_Lviv","win":6,"draw":8,"loss":16,"for":24,"against":39,"isRemoved":true,"isNew":true},
 	{"country":"ukr","name":"FC Kharkiv","id":"FC_Kharkiv","win":2,"draw":9,"loss":19,"for":19,"against":50,"isRemoved":true,"deduct":-3},
-	{"country":"bih","name":"Zrinjski","id":"HŠK_Zrinjski_Mostar","win":18,"draw":3,"loss":9,"for":50,"against":37,"isChampion":true},
+	{"country":"bih","name":"Zrinjski","id":"hsk_zrinjski_mostar","win":18,"draw":3,"loss":9,"for":50,"against":37,"isChampion":true},
 	{"country":"bih","name":"Slavija","id":"FK_Slavija_Sarajevo","win":15,"draw":7,"loss":8,"for":36,"against":28},
 	{"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":15,"draw":5,"loss":10,"for":32,"against":26},
 	{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":14,"draw":7,"loss":9,"for":43,"against":30},

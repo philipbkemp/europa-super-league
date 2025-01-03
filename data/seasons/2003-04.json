@@ -600,7 +600,7 @@
 	{"country":"bih","name":"Orašje","id":"HNK_Orašje","win":12,"draw":3,"loss":15,"for":40,"against":51},
 	{"country":"bih","name":"Rudar Ugljevik","id":"FK_Rudar_Ugljevik","win":11,"draw":6,"loss":13,"for":31,"against":43},
 	{"country":"bih","name":"Posušje","id":"HŠK_Posušje","win":11,"draw":6,"loss":13,"for":35,"against":48},
-	{"country":"bih","name":"Zrinjski","id":"HŠK_Zrinjski_Mostar","win":11,"draw":5,"loss":14,"for":40,"against":47},
+	{"country":"bih","name":"Zrinjski","id":"hsk_zrinjski_mostar","win":11,"draw":5,"loss":14,"for":40,"against":47},
 	{"country":"bih","name":"Čelik","id":"NK_Čelik_Zenica","win":9,"draw":10,"loss":11,"for":42,"against":43},
 	{"country":"bih","name":"Žepče","id":"NK_Žepče","win":10,"draw":7,"loss":13,"for":26,"against":38},
 	{"country":"bih","name":"Travnik","id":"NK_Travnik","win":10,"draw":7,"loss":13,"for":30,"against":43,"isReturning":true},

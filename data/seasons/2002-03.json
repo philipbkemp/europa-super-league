@@ -581,7 +581,7 @@
 	{"country":"bih","name":"Orašje","id":"HNK_Orašje","win":15,"draw":9,"loss":14,"for":50,"against":57},
 	{"country":"bih","name":"Posušje","id":"HŠK_Posušje","win":16,"draw":6,"loss":16,"for":42,"against":55},
 	{"country":"bih","name":"Žepče","id":"NK_Žepče","win":14,"draw":11,"loss":13,"for":48,"against":50,"isNew":true},
-	{"country":"bih","name":"Zrinjski","id":"HŠK_Zrinjski_Mostar","win":17,"draw":2,"loss":19,"for":46,"against":65},
+	{"country":"bih","name":"Zrinjski","id":"hsk_zrinjski_mostar","win":17,"draw":2,"loss":19,"for":46,"against":65},
 	{"country":"bih","name":"Rudar Ugljevik","id":"FK_Rudar_Ugljevik","win":16,"draw":4,"loss":18,"for":61,"against":57,"isNew":true},
 	{"country":"bih","name":"Brotnjo","id":"HNK_Brotnjo","win":15,"draw":7,"loss":16,"for":47,"against":55},
 	{"country":"bih","name":"Glasinac","id":"OFK_Glasinac_2011","win":16,"draw":4,"loss":18,"for":37,"against":54,"isNew":true},

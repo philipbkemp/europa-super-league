@@ -604,7 +604,7 @@
 	{"country":"ukr","name":"Illichivets Mariupol","id":"FC_Mariupol","win":6,"draw":7,"loss":17,"for":23,"against":39,"isRemoved":true},
 	{"country":"ukr","name":"Stal Alchevsk","id":"FC_Stal_Alchevsk","win":5,"draw":6,"loss":19,"for":22,"against":38,"isRemoved":true},
 	{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":17,"draw":6,"loss":7,"for":44,"against":26,"isChampion":true},
-	{"country":"bih","name":"Zrinjski","id":"HŠK_Zrinjski_Mostar","win":17,"draw":4,"loss":9,"for":69,"against":40,"deduct":-1,"deductReason":"Leaving the field during a match"},
+	{"country":"bih","name":"Zrinjski","id":"hsk_zrinjski_mostar","win":17,"draw":4,"loss":9,"for":69,"against":40,"deduct":-1,"deductReason":"Leaving the field during a match"},
 	{"country":"bih","name":"Slavija","id":"FK_Slavija_Sarajevo","win":17,"draw":2,"loss":11,"for":41,"against":35},
 	{"country":"bih","name":"Široki Brijeg","id":"NK_Široki_Brijeg","win":13,"draw":6,"loss":11,"for":39,"against":32},
 	{"country":"bih","name":"Modriča","id":"FK_Alfa_Modriča","win":13,"draw":5,"loss":12,"for":43,"against":42},

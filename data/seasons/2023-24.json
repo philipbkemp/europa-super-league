@@ -613,7 +613,7 @@
 	{"country":"ukr","name":"Mynai","id":"FC_Mynai","win":5,"draw":10,"loss":15,"for":27,"against":50,"isRemoved":true},
 	{"country":"ukr","name":"Metalist 1925 Kharkiv","id":"FC_Metalist_1925_Kharkiv","win":5,"draw":8,"loss":17,"for":32,"against":57,"isRemoved":true},
 	{"country":"bih","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":24,"draw":6,"loss":3,"for":68,"against":26,"isChampion":true},
-	{"country":"bih","name":"Zrinjski Mostar","id":"HŠK_Zrinjski_Mostar","win":24,"draw":4,"loss":5,"for":76,"against":27},
+	{"country":"bih","name":"Zrinjski Mostar","id":"hsk_zrinjski_mostar","win":24,"draw":4,"loss":5,"for":76,"against":27},
 	{"country":"bih","name":"Velež Mostar","id":"FK_Velež_Mostar","win":16,"draw":11,"loss":6,"for":50,"against":28},
 	{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":16,"draw":8,"loss":9,"for":57,"against":38,"deduct":-3,"deductReason":"Players leaving pitch during a match"},
 	{"country":"bih","name":"Posušje","id":"HŠK_Posušje","win":13,"draw":9,"loss":11,"for":35,"against":29},

@@ -88,9 +88,12 @@ clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub",
 	/*bgr*/
 	,"pfc_levski_sofia","pfc_ludogorets_razgrad"
 
+	/*bih*/
+	,"hsk_zrinjski_mostar"
+
 	];
 
-multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk"];
+multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk","hsk_zrinjski_mostar"];
 
 if ( $("h1 .placeholder").length !== 0 ) {
 
@@ -878,20 +881,22 @@ function saveClubs(refresh=false,dump=true) {
 				if ( dump ) { console.log("<tr class='"+classes+"'>"+$sr.html().replace('<a href="../../19/9/9-2000.html">1999-2000</a>','<a href="../../19/9/9-00.html">1999-00</a>')+"</tr>"); }
 				$sr.html(original);
 				clubName = $($sr.find("th")[0]);
-				if ( v === "ofk_beograd" || v === "fk_partizan" || v === "red_star_belgrade" ) {
-					countryFlag = "srb";
-				} else if ( v === "ac_sparta_prague" || v === "sk_slavia_prague" ) {
-					countryFlag = "cze";
-				} else if ( v === "hsk_gradanski_zagreb" || v === "gnk_dinamo_zagreb" ) {
-					countryFlag = "hrv";
+				if ( v === "neftci_pfk" ) {
+					countryFlag = "aze";
+				} else if ( v === "hsk_zrinjski_mostar" ) {
+					countryFlag = "bih";
 				} else if ( v === "apoel_fc" || v === "ac_omonia" ) {
 					countryFlag = "cyp";
-				} else if ( v === "fc_dynamo_kyiv" ) {
-					countryFlag = "ukr";
+				} else if ( v === "ac_sparta_prague" || v === "sk_slavia_prague" ) {
+					countryFlag = "cze";
 				} else if ( v === "fc_bayern_munich" ) {
 					countryFlag = "deu";
-				} else if ( v === "neftci_pfk" ) {
-					countryFlag = "aze";
+				} else if ( v === "hsk_gradanski_zagreb" || v === "gnk_dinamo_zagreb" ) {
+					countryFlag = "hrv";
+				} else if ( v === "ofk_beograd" || v === "fk_partizan" || v === "red_star_belgrade" ) {
+					countryFlag = "srb";
+				} else if ( v === "fc_dynamo_kyiv" ) {
+					countryFlag = "ukr";
 				}
 				clubName.html( clubName.html().replace(clubName.text(),"<a href='../../clubs/"+countryFlag+"/"+$sr.attr("id")+".html'>"+clubName.text()+"</a>") );
 			}

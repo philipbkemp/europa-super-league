@@ -84,11 +84,7 @@ THEDATA = [
 	{"country":"bgr","name":"Lokomotiv Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":3,"draw":5,"loss":11,"for":20,"against":31,"isCurrentSeason":true},
 	{"country":"bgr","name":"Botev Vratsa","id":"POFC_Botev_Vratsa","win":3,"draw":3,"loss":13,"for":15,"against":40,"isCurrentSeason":true},
 	{"country":"bgr","name":"Hebar","id":"FC_Hebar_Pazardzhik","win":1,"draw":6,"loss":12,"for":14,"against":32,"isCurrentSeason":true},
-
-
-
-	
-	{"country":"bih","name":"Zrinjski Mostar","id":"HŠK_Zrinjski_Mostar","win":14,"draw":2,"loss":1,"for":36,"against":8,"isCurrentSeason":true},
+	{"country":"bih","name":"Zrinjski Mostar","id":"hsk_zrinjski_mostar","win":14,"draw":2,"loss":1,"for":36,"against":8,"isCurrentSeason":true},
 	{"country":"bih","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":13,"draw":2,"loss":2,"for":35,"against":8,"isCurrentSeason":true},
 	{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":11,"draw":5,"loss":1,"for":40,"against":13,"isCurrentSeason":true},
 	{"country":"bih","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":11,"draw":2,"loss":4,"for":30,"against":14,"isCurrentSeason":true},
@@ -100,6 +96,9 @@ THEDATA = [
 	{"country":"bih","name":"Igman Konjic","id":"FK_Igman_Konjic","win":4,"draw":2,"loss":11,"for":15,"against":41,"isCurrentSeason":true},
 	{"country":"bih","name":"GOŠK Gabela","id":"NK_GOŠK_Gabela","win":2,"draw":1,"loss":14,"for":12,"against":42,"isCurrentSeason":true},
 	{"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":0,"draw":2,"loss":15,"for":5,"against":36,"isReturning":true,"isCurrentSeason":true},
+
+
+	
 	{"country":"che","name":"Lugano","id":"FC_Lugano","win":9,"draw":4,"loss":5,"for":30,"against":24,"isCurrentSeason":true},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":9,"draw":3,"loss":6,"for":40,"against":19,"isCurrentSeason":true},
 	{"country":"che","name":"Lausanne-Sport","id":"FC_Lausanne-Sport","win":9,"draw":3,"loss":6,"for":31,"against":22,"isCurrentSeason":true},

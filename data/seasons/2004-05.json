@@ -596,7 +596,7 @@
 	{"country":"ukr","name":"Vorskla-Naftohaz Poltava","id":"FC_Vorskla_Poltava","win":8,"draw":6,"loss":16,"for":18,"against":35},
 	{"country":"ukr","name":"Obolon Kyiv","id":"FC_Obolon_Kyiv","win":4,"draw":9,"loss":17,"for":18,"against":43,"isRemoved":true},
 	{"country":"ukr","name":"Borysfen Boryspil","id":"FC_Borysfen_Boryspil","win":3,"draw":11,"loss":16,"for":15,"against":31,"isRemoved":true},
-	{"country":"bih","name":"Zrinjski","id":"HŠK_Zrinjski_Mostar","win":19,"draw":4,"loss":7,"for":56,"against":30,"isChampion":true},
+	{"country":"bih","name":"Zrinjski","id":"hsk_zrinjski_mostar","win":19,"draw":4,"loss":7,"for":56,"against":30,"isChampion":true},
 	{"country":"bih","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":15,"draw":6,"loss":9,"for":31,"against":22},
 	{"country":"bih","name":"Široki Brijeg","id":"NK_Široki_Brijeg","win":12,"draw":9,"loss":9,"for":42,"against":33},
 	{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":13,"draw":6,"loss":11,"for":39,"against":37},

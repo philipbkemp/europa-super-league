@@ -578,7 +578,7 @@
 	{"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":2,"draw":9,"loss":21,"for":19,"against":48,"isRemoved":true,"removedNote":"Expelled"},
 	{"country":"bih","name":"Sarajevo","id":"FK_Sarajevo","win":13,"draw":6,"loss":3,"for":38,"against":19,"isChampion":true},
 	{"country":"bih","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":12,"draw":6,"loss":4,"for":43,"against":21},
-	{"country":"bih","name":"Zrinjski Mostar","id":"HŠK_Zrinjski_Mostar","win":11,"draw":5,"loss":6,"for":30,"against":12},
+	{"country":"bih","name":"Zrinjski Mostar","id":"hsk_zrinjski_mostar","win":11,"draw":5,"loss":6,"for":30,"against":12},
 	{"country":"bih","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":10,"draw":6,"loss":6,"for":29,"against":23,"isReturning":true},
 	{"country":"bih","name":"Tuzla City","id":"FK_Tuzla_City","win":10,"draw":5,"loss":7,"for":27,"against":29},
 	{"country":"bih","name":"Radnik Bijeljina","id":"FK_Radnik_Bijeljina","win":10,"draw":4,"loss":8,"for":34,"against":21},
