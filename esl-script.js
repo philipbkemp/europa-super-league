@@ -341,6 +341,8 @@ if ( $("h1 .placeholder").length !== 0 ) {
 
 	calcPromotionRelegationLimits();
 
+	saveClubs(false,false);
+
 } else {
 	saveClubs();
 }
@@ -839,7 +841,7 @@ function listClubsForCountry() {
 	console.log(btns.join("\n"));
 }
 
-function saveClubs(refresh=false) {
+function saveClubs(refresh=false,dump=true) {
 	console.clear();
 	$.each(clubPages,function(k,v){
 		saveRow = $("tr[id='"+v+"']");
@@ -869,11 +871,11 @@ function saveClubs(refresh=false) {
 					vc = countryFlag.toUpperCase() + " --- " + vc;
 				}
 				if ( original.indexOf("new.png") === -1 ) {
-					console.warn(vc);
+					if ( dump ) { console.warn(vc); }
 				} else {
-					console.error(vc);
+					if ( dump ) { console.error(vc); }
 				}
-				console.log("<tr class='"+classes+"'>"+$sr.html().replace('<a href="../../19/9/9-2000.html">1999-2000</a>','<a href="../../19/9/9-00.html">1999-00</a>')+"</tr>");
+				if ( dump ) { console.log("<tr class='"+classes+"'>"+$sr.html().replace('<a href="../../19/9/9-2000.html">1999-2000</a>','<a href="../../19/9/9-00.html">1999-00</a>')+"</tr>"); }
 				$sr.html(original);
 				clubName = $($sr.find("th")[0]);
 				if ( v === "ofk_beograd" || v === "fk_partizan" || v === "red_star_belgrade" ) {
