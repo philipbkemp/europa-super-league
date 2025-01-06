@@ -102,7 +102,7 @@
 	{"country":"ita","name":"Messina","id":"ACR_Messina","win":7,"draw":8,"loss":19,"for":26,"against":44,"isRemoved":true},
 	{"country":"ita","name":"Mantova","id":"Mantova_1911","win":7,"draw":7,"loss":20,"for":20,"against":40,"isRemoved":true},
 	{"country":"che","name":"Lausanne-Sport","id":"FC_Lausanne-Sport","win":15,"draw":6,"loss":5,"for":61,"against":32,"isChampion":true},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":14,"draw":4,"loss":8,"for":59,"against":43},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":14,"draw":4,"loss":8,"for":59,"against":43},
 	{"country":"che","name":"Servette","id":"Servette_FC","win":14,"draw":3,"loss":9,"for":59,"against":30},
 	{"country":"che","name":"Grasshopper Club","id":"Grasshopper_Club_Zürich","win":11,"draw":7,"loss":8,"for":54,"against":47},
 	{"country":"che","name":"Lugano","id":"FC_Lugano","win":9,"draw":11,"loss":6,"for":29,"against":30,"isReturning":true},

@@ -100,7 +100,7 @@
 	{"country":"ita","name":"Palermo","id":"Palermo_FC","win":6,"draw":8,"loss":24,"for":33,"against":77,"isRemoved":true},
 	{"country":"ita","name":"Pescara","id":"Delfino_Pescara_1936","win":3,"draw":9,"loss":26,"for":37,"against":81,"isRemoved":true,"isReturning":true},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":26,"draw":8,"loss":2,"for":92,"against":35,"isChampion":true},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":20,"draw":9,"loss":7,"for":72,"against":44},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":20,"draw":9,"loss":7,"for":72,"against":44},
 	{"country":"che","name":"Lugano","id":"FC_Lugano","win":15,"draw":8,"loss":13,"for":52,"against":61},
 	{"country":"che","name":"Sion","id":"FC_Sion","win":15,"draw":6,"loss":15,"for":60,"against":55},
 	{"country":"che","name":"Luzern","id":"FC_Luzern","win":14,"draw":8,"loss":14,"for":62,"against":66},

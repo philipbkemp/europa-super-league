@@ -104,7 +104,7 @@
 	{"country":"che","name":"Zürich","id":"FC_Zürich","win":20,"draw":4,"loss":2,"for":81,"against":33,"isChampion":true},
 	{"country":"che","name":"Lausanne-Sport","id":"FC_Lausanne-Sport","win":18,"draw":4,"loss":4,"for":81,"against":30},
 	{"country":"che","name":"La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":12,"draw":8,"loss":6,"for":55,"against":44},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":13,"draw":5,"loss":8,"for":62,"against":49},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":13,"draw":5,"loss":8,"for":62,"against":49},
 	{"country":"che","name":"Servette","id":"Servette_FC","win":11,"draw":4,"loss":11,"for":54,"against":39},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":10,"draw":6,"loss":10,"for":59,"against":51},
 	{"country":"che","name":"Grasshopper Club","id":"Grasshopper_Club_Zürich","win":9,"draw":7,"loss":10,"for":57,"against":51},

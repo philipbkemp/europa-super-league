@@ -106,7 +106,7 @@
 	{"country":"che","name":"FC Zürich","id":"FC_Zürich","win":16,"draw":8,"loss":8,"for":53,"against":42},
 	{"country":"che","name":"FC Sion","id":"FC_Sion","win":6,"draw":10,"loss":16,"for":37,"against":60},
 	{"country":"che","name":"Neuchâtel Xamax","id":"Neuchâtel_Xamax_FCS","win":12,"draw":5,"loss":15,"for":46,"against":57},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":11,"draw":10,"loss":11,"for":47,"against":58},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":11,"draw":10,"loss":11,"for":47,"against":58},
 	{"country":"che","name":"CS Chênois","id":"CS_Chênois","win":12,"draw":6,"loss":14,"for":46,"against":44},
 	{"country":"che","name":"FC St. Gallen","id":"FC_St._Gallen","win":8,"draw":13,"loss":11,"for":38,"against":45},
 	{"country":"che","name":"Étoile Carouge FC","id":"Étoile_Carouge_FC","win":9,"draw":6,"loss":17,"for":35,"against":52,"isRemoved":true,"isReturning":true},

@@ -109,7 +109,7 @@
 	{"country":"che","name":"Grasshopper Club Zürich","id":"Grasshopper_Club_Zürich","win":14,"draw":4,"loss":8,"for":60,"against":31},
 	{"country":"che","name":"Servette FC Genève","id":"Servette_FC","win":10,"draw":6,"loss":10,"for":49,"against":35},
 	{"country":"che","name":"FC Sion","id":"FC_Sion","win":10,"draw":6,"loss":10,"for":48,"against":38},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":10,"draw":6,"loss":10,"for":44,"against":48},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":10,"draw":6,"loss":10,"for":44,"against":48},
 	{"country":"che","name":"FC Grenchen","id":"FC_Grenchen","win":10,"draw":4,"loss":12,"for":43,"against":49},
 	{"country":"che","name":"Young Fellows Zürich","id":"SC_Young_Fellows_Juventus","win":9,"draw":6,"loss":11,"for":33,"against":44},
 	{"country":"che","name":"Lausanne Sports","id":"FC_Lausanne-Sport","win":9,"draw":3,"loss":14,"for":46,"against":44},

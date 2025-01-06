@@ -109,7 +109,7 @@
 	{"country":"che","name":"Lausanne-Sport","id":"FC_Lausanne-Sport","win":11,"draw":6,"loss":9,"for":46,"against":27},
 	{"country":"che","name":"Zürich","id":"FC_Zürich","win":10,"draw":8,"loss":8,"for":38,"against":33},
 	{"country":"che","name":"Lugano","id":"FC_Lugano","win":9,"draw":9,"loss":8,"for":31,"against":30},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":9,"draw":5,"loss":12,"for":39,"against":40},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":9,"draw":5,"loss":12,"for":39,"against":40},
 	{"country":"che","name":"La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":8,"draw":7,"loss":11,"for":30,"against":43},
 	{"country":"che","name":"Chiasso","id":"FC_Chiasso","win":8,"draw":5,"loss":13,"for":21,"against":48,"isReturning":true},
 	{"country":"che","name":"St. Gallen","id":"FC_St._Gallen","win":7,"draw":5,"loss":14,"for":31,"against":49},

@@ -16,7 +16,7 @@
 	{"country":"ita","name":"Novara","id":"Novara_FC","win":8,"draw":11,"loss":11,"for":31,"against":38,"isRemoved":true},
 	{"country":"ita","name":"Bari","id":"SSC_Bari","win":5,"draw":7,"loss":18,"for":31,"against":84,"isRemoved":true},
 	{"country":"che","name":"FC Lugano","id":"FC_Lugano","win":17,"draw":3,"loss":2,"for":57,"against":16,"isChampion":true},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":15,"draw":5,"loss":2,"for":50,"against":9},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":15,"draw":5,"loss":2,"for":50,"against":9},
 	{"country":"che","name":"Servette FC Genève","id":"Servette_FC","win":15,"draw":3,"loss":4,"for":55,"against":27},
 	{"country":"che","name":"Grasshopper Club Zürich","id":"Grasshopper_Club_Zürich","win":13,"draw":3,"loss":6,"for":46,"against":31},
 	{"country":"che","name":"Lausanne Sports","id":"FC_Lausanne-Sport","win":11,"draw":2,"loss":9,"for":34,"against":17},

@@ -101,7 +101,7 @@
 	{"country":"ita","name":"Genoa","id":"Genoa_CFC","win":9,"draw":12,"loss":13,"for":36,"against":46},
 	{"country":"ita","name":"Triestina","id":"US_Triestina_Calcio_1918","win":9,"draw":11,"loss":14,"for":33,"against":42,"isRemoved":true},
 	{"country":"ita","name":"Palermo","id":"Palermo_FC","win":7,"draw":8,"loss":19,"for":32,"against":63,"isRemoved":true,"isReturning":true},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":21,"draw":3,"loss":2,"for":76,"against":22,"isChampion":true},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":21,"draw":3,"loss":2,"for":76,"against":22,"isChampion":true},
 	{"country":"che","name":"Grasshopper Club Zürich","id":"Grasshopper_Club_Zürich","win":19,"draw":3,"loss":4,"for":82,"against":30},
 	{"country":"che","name":"FC La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":17,"draw":4,"loss":5,"for":87,"against":35},
 	{"country":"che","name":"FC Basel","id":"FC_Basel","win":15,"draw":4,"loss":7,"for":53,"against":38},

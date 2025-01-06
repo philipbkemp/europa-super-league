@@ -103,7 +103,7 @@
 	{"country":"ita","name":"SPAL","id":"SPAL","win":8,"draw":10,"loss":16,"for":29,"against":48},
 	{"country":"ita","name":"Triestina","id":"US_Triestina_Calcio_1918","win":6,"draw":11,"loss":17,"for":34,"against":56,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":6,"draw":11,"loss":17,"for":36,"against":72,"isRemoved":true},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":16,"draw":6,"loss":4,"for":79,"against":42,"isChampion":true},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":16,"draw":6,"loss":4,"for":79,"against":42,"isChampion":true},
 	{"country":"che","name":"FC Grenchen","id":"FC_Grenchen","win":12,"draw":8,"loss":6,"for":57,"against":39},
 	{"country":"che","name":"FC Zürich","id":"FC_Zürich","win":14,"draw":2,"loss":10,"for":55,"against":45,"isReturning":true},
 	{"country":"che","name":"Grasshopper Club Zürich","id":"Grasshopper_Club_Zürich","win":12,"draw":6,"loss":8,"for":63,"against":54},

@@ -109,7 +109,7 @@
 	{"country":"che","name":"FC Wettingen","id":"FC_Wettingen","win":12,"draw":6,"loss":12,"for":43,"against":43},
 	{"country":"che","name":"FC Basel","id":"FC_Basel","win":11,"draw":6,"loss":13,"for":55,"against":59},
 	{"country":"che","name":"FC Aarau","id":"FC_Aarau","win":9,"draw":9,"loss":12,"for":50,"against":42},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":8,"draw":9,"loss":13,"for":39,"against":40},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":8,"draw":9,"loss":13,"for":39,"against":40},
 	{"country":"che","name":"FC Zürich","id":"FC_Zürich","win":8,"draw":8,"loss":14,"for":39,"against":56},
 	{"country":"che","name":"FC Vevey","id":"Vevey-Sports","win":9,"draw":6,"loss":15,"for":43,"against":65},
 	{"country":"che","name":"FC Lucerne","id":"FC_Luzern","win":9,"draw":4,"loss":17,"for":35,"against":52},

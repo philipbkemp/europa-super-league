@@ -101,7 +101,7 @@
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":27,"draw":10,"loss":1,"for":71,"against":24,"isRemoved":true,"removedNote":"Disqualified due to the Calciopoli scandal"},
 	{"country":"che","name":"Zürich","id":"FC_Zürich","win":23,"draw":9,"loss":4,"for":86,"against":36,"isChampion":true},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":23,"draw":9,"loss":4,"for":87,"against":42},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":17,"draw":11,"loss":8,"for":60,"against":46},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":17,"draw":11,"loss":8,"for":60,"against":46},
 	{"country":"che","name":"Grasshopper","id":"Grasshopper_Club_Zürich","win":14,"draw":13,"loss":9,"for":44,"against":33},
 	{"country":"che","name":"Thun","id":"FC_Thun","win":14,"draw":7,"loss":15,"for":50,"against":53},
 	{"country":"che","name":"St. Gallen","id":"FC_St._Gallen","win":11,"draw":7,"loss":18,"for":51,"against":56},

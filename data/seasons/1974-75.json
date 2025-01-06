@@ -110,7 +110,7 @@
 	{"country":"ita","name":"Ternana","id":"Ternana_Calcio","win":4,"draw":11,"loss":15,"for":19,"against":42,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Varese","id":"SSD_Varese_Calcio","win":3,"draw":11,"loss":16,"for":19,"against":42,"isRemoved":true,"isReturning":true},
 	{"country":"che","name":"FC Zürich","id":"FC_Zürich","win":19,"draw":1,"loss":6,"for":63,"against":19,"isChampion":true},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":12,"draw":9,"loss":5,"for":59,"against":32},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":12,"draw":9,"loss":5,"for":59,"against":32},
 	{"country":"che","name":"Grasshopper Club Zürich","id":"Grasshopper_Club_Zürich","win":13,"draw":7,"loss":6,"for":50,"against":45},
 	{"country":"che","name":"FC Basel","id":"FC_Basel","win":11,"draw":9,"loss":6,"for":49,"against":33},
 	{"country":"che","name":"FC Sion","id":"FC_Sion","win":12,"draw":7,"loss":7,"for":45,"against":30},

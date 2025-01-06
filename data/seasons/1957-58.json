@@ -103,7 +103,7 @@
 	{"country":"ita","name":"SPAL","id":"SPAL","win":10,"draw":10,"loss":14,"for":32,"against":52},
 	{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":6,"draw":16,"loss":12,"for":29,"against":49,"isRemoved":true},
 	{"country":"ita","name":"Hellas Verona","id":"Hellas_Verona_FC","win":10,"draw":6,"loss":18,"for":44,"against":62,"isRemoved":true,"isNew":true},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":20,"draw":3,"loss":3,"for":76,"against":37,"isChampion":true},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":20,"draw":3,"loss":3,"for":76,"against":37,"isChampion":true},
 	{"country":"che","name":"Grasshopper Club Zürich","id":"Grasshopper_Club_Zürich","win":16,"draw":3,"loss":7,"for":81,"against":47},
 	{"country":"che","name":"FC Chiasso","id":"FC_Chiasso","win":15,"draw":5,"loss":6,"for":56,"against":43},
 	{"country":"che","name":"FC La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":13,"draw":5,"loss":8,"for":56,"against":55},

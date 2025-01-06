@@ -99,7 +99,7 @@
 	{"country":"ita","name":"Bari","id":"SSC_Bari","win":5,"draw":9,"loss":24,"for":27,"against":56,"isRemoved":true},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":21,"draw":10,"loss":5,"for":76,"against":44,"isChampion":true},
 	{"country":"che","name":"Zürich","id":"FC_Zürich","win":21,"draw":9,"loss":6,"for":74,"against":44},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":15,"draw":12,"loss":9,"for":65,"against":50},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":15,"draw":12,"loss":9,"for":65,"against":50},
 	{"country":"che","name":"Sion","id":"FC_Sion","win":15,"draw":9,"loss":12,"for":47,"against":36},
 	{"country":"che","name":"Thun","id":"FC_Thun","win":11,"draw":16,"loss":9,"for":48,"against":43,"isReturning":true},
 	{"country":"che","name":"Luzern","id":"FC_Luzern","win":13,"draw":9,"loss":14,"for":62,"against":57},

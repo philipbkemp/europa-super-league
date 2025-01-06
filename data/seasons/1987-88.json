@@ -100,7 +100,7 @@
 	{"country":"ita","name":"Empoli","id":"Empoli_FC","win":6,"draw":13,"loss":11,"for":20,"against":30,"isRemoved":true,"deduct":-5},
 	{"country":"che","name":"Neuchâtel Xamax","id":"Neuchâtel_Xamax_FCS","win":19,"draw":9,"loss":8,"for":82,"against":47,"isChampion":true},
 	{"country":"che","name":"Grasshopper Club Zürich","id":"Grasshopper_Club_Zürich","win":18,"draw":9,"loss":9,"for":53,"against":37},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":11,"draw":13,"loss":12,"for":55,"against":59},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":11,"draw":13,"loss":12,"for":55,"against":59},
 	{"country":"che","name":"FC Aarau","id":"FC_Aarau","win":15,"draw":12,"loss":9,"for":52,"against":41},
 	{"country":"che","name":"FC St. Gallen","id":"FC_St._Gallen","win":13,"draw":8,"loss":15,"for":44,"against":52},
 	{"country":"che","name":"FC Lucerne","id":"FC_Luzern","win":12,"draw":14,"loss":10,"for":49,"against":48},

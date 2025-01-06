@@ -96,21 +96,23 @@ THEDATA = [
 	{"country":"bih","name":"Igman Konjic","id":"FK_Igman_Konjic","win":4,"draw":2,"loss":11,"for":15,"against":41,"isCurrentSeason":true},
 	{"country":"bih","name":"GOŠK Gabela","id":"NK_GOŠK_Gabela","win":2,"draw":1,"loss":14,"for":12,"against":42,"isCurrentSeason":true},
 	{"country":"bih","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":0,"draw":2,"loss":15,"for":5,"against":36,"isReturning":true,"isCurrentSeason":true},
-
-
-	
 	{"country":"che","name":"Lugano","id":"FC_Lugano","win":9,"draw":4,"loss":5,"for":30,"against":24,"isCurrentSeason":true},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":9,"draw":3,"loss":6,"for":40,"against":19,"isCurrentSeason":true},
 	{"country":"che","name":"Lausanne-Sport","id":"FC_Lausanne-Sport","win":9,"draw":3,"loss":6,"for":31,"against":22,"isCurrentSeason":true},
+	{"country":"che","name":"Luzern","id":"FC_Luzern","win":8,"draw":5,"loss":5,"for":33,"against":30,"isCurrentSeason":true},
 	{"country":"che","name":"Servette","id":"Servette_FC","win":8,"draw":5,"loss":5,"for":29,"against":27,"isCurrentSeason":true},
 	{"country":"che","name":"Zürich","id":"FC_Zürich","win":7,"draw":6,"loss":5,"for":24,"against":25,"isCurrentSeason":true},
-	{"country":"che","name":"Luzern","id":"FC_Luzern","win":8,"draw":5,"loss":5,"for":33,"against":30,"isCurrentSeason":true},
 	{"country":"che","name":"Sion","id":"FC_Sion","win":7,"draw":5,"loss":6,"for":25,"against":21,"isReturning":true,"isCurrentSeason":true},
 	{"country":"che","name":"St. Gallen","id":"FC_St._Gallen","win":6,"draw":7,"loss":5,"for":29,"against":23,"isCurrentSeason":true},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":6,"draw":5,"loss":7,"for":25,"against":29,"isCurrentSeason":true},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":6,"draw":5,"loss":7,"for":25,"against":29,"isCurrentSeason":true},
 	{"country":"che","name":"Yverdon-Sport","id":"Yverdon-Sport_FC","win":4,"draw":5,"loss":9,"for":16,"against":28,"isCurrentSeason":true},
-	{"country":"che","name":"Grasshopper","id":"Grasshopper_Club_Zürich","win":3,"draw":6,"loss":9,"for":17,"against":27,"isCurrentSeason":true},
+	{"country":"che","name":"Grasshopper","id":"Grasshopper_Club_Zurich","win":3,"draw":6,"loss":9,"for":17,"against":27,"isCurrentSeason":true},
 	{"country":"che","name":"Winterthur","id":"FC_Winterthur","win":3,"draw":4,"loss":11,"for":16,"against":40,"isCurrentSeason":true},
+
+
+
+
+	
 	{"country":"cyp","name":"Pafos","id":"Pafos_FC","win":11,"draw":1,"loss":1,"for":30,"against":7,"isCurrentSeason":true},
 	{"country":"cyp","name":"Aris Limassol","id":"Aris_Limassol_FC","win":10,"draw":3,"loss":1,"for":25,"against":9,"isCurrentSeason":true},
 	{"country":"cyp","name":"AEK Larnaca","id":"AEK_Larnaca_FC","win":9,"draw":3,"loss":2,"for":24,"against":9,"isCurrentSeason":true},

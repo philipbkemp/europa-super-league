@@ -106,7 +106,7 @@
 	{"country":"che","name":"Servette","id":"Servette_FC","win":12,"draw":8,"loss":6,"for":49,"against":35},
 	{"country":"che","name":"Winterthur","id":"FC_Winterthur","win":13,"draw":6,"loss":7,"for":42,"against":29},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":13,"draw":3,"loss":10,"for":57,"against":39},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":10,"draw":8,"loss":8,"for":52,"against":38},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":10,"draw":8,"loss":8,"for":52,"against":38},
 	{"country":"che","name":"Xamax","id":"Neuchâtel_Xamax_FCS","win":10,"draw":6,"loss":10,"for":38,"against":38,"isReturning":true},
 	{"country":"che","name":"Lausanne-Sport","id":"FC_Lausanne-Sport","win":9,"draw":8,"loss":9,"for":45,"against":48},
 	{"country":"che","name":"St. Gallen","id":"FC_St._Gallen","win":10,"draw":5,"loss":11,"for":38,"against":48},

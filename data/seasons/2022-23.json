@@ -99,7 +99,7 @@
 	{"country":"ita","name":"Hellas Verona","id":"Hellas_Verona_FC","win":7,"draw":10,"loss":21,"for":31,"against":59},
 	{"country":"ita","name":"Cremonese","id":"US_Cremonese","win":5,"draw":12,"loss":21,"for":36,"against":69,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Sampdoria","id":"UC_Sampdoria","win":3,"draw":10,"loss":25,"for":24,"against":71,"isRemoved":true},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":21,"draw":11,"loss":4,"for":82,"against":30,"isChampion":true},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":21,"draw":11,"loss":4,"for":82,"against":30,"isChampion":true},
 	{"country":"che","name":"Servette","id":"Servette_FC","win":14,"draw":16,"loss":6,"for":53,"against":48},
 	{"country":"che","name":"Lugano","id":"FC_Lugano","win":15,"draw":12,"loss":9,"for":59,"against":47},
 	{"country":"che","name":"Luzern","id":"FC_Luzern","win":13,"draw":11,"loss":12,"for":56,"against":52},

@@ -91,7 +91,7 @@
 	{"country":"che","name":"Lausanne-Sport","id":"FC_Lausanne-Sport","win":15,"draw":5,"loss":10,"for":89,"against":67,"isNew":true},
 	{"country":"che","name":"FC Biel","id":"FC_Biel-Bienne","win":14,"draw":4,"loss":12,"for":78,"against":68,"isNew":true},
 	{"country":"che","name":"FC Nordstern Basel","id":"FC_Nordstern_Basel","win":13,"draw":5,"loss":12,"for":57,"against":66,"isNew":true},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":13,"draw":4,"loss":13,"for":73,"against":65,"isNew":true},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":13,"draw":4,"loss":13,"for":73,"against":65,"isNew":true},
 	{"country":"che","name":"FC Concordia Basel","id":"FC_Concordia_Basel","win":11,"draw":5,"loss":14,"for":64,"against":71,"isNew":true},
 	{"country":"che","name":"FC Locarno","id":"FC_Locarno","win":11,"draw":5,"loss":14,"for":57,"against":66,"isNew":true},
 	{"country":"che","name":"Young Fellows Zürich","id":"SC_Young_Fellows_Juventus","win":11,"draw":3,"loss":16,"for":54,"against":74,"isNew":true},

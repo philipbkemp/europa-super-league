@@ -100,7 +100,7 @@
 	{"country":"ita","name":"Reggina","id":"LFA_Reggio_Calabria","win":6,"draw":13,"loss":19,"for":30,"against":62,"isRemoved":true},
 	{"country":"ita","name":"Lecce","id":"US_Lecce","win":5,"draw":15,"loss":18,"for":37,"against":67,"isRemoved":true,"isReturning":true},
 	{"country":"che","name":"Zürich","id":"FC_Zürich","win":24,"draw":7,"loss":5,"for":80,"against":36,"isChampion":true},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":22,"draw":7,"loss":7,"for":85,"against":46},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":22,"draw":7,"loss":7,"for":85,"against":46},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":22,"draw":6,"loss":8,"for":72,"against":44},
 	{"country":"che","name":"Grasshopper","id":"Grasshopper_Club_Zürich","win":12,"draw":14,"loss":10,"for":57,"against":48},
 	{"country":"che","name":"Aarau","id":"FC_Aarau","win":11,"draw":11,"loss":14,"for":35,"against":51},

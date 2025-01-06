@@ -99,7 +99,7 @@
 	{"country":"ita","name":"Benevento","id":"Benevento_Calcio","win":7,"draw":12,"loss":19,"for":40,"against":75,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Crotone","id":"FC_Crotone","win":6,"draw":5,"loss":27,"for":45,"against":92,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Parma","id":"Parma_Calcio_1913","win":3,"draw":11,"loss":24,"for":39,"against":83,"isRemoved":true},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":25,"draw":9,"loss":2,"for":74,"against":29,"isChampion":true},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":25,"draw":9,"loss":2,"for":74,"against":29,"isChampion":true},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":15,"draw":8,"loss":13,"for":60,"against":53},
 	{"country":"che","name":"Servette","id":"Servette_FC","win":14,"draw":8,"loss":14,"for":45,"against":56},
 	{"country":"che","name":"Lugano","id":"FC_Lugano","win":12,"draw":13,"loss":11,"for":40,"against":42},

@@ -99,7 +99,7 @@
 	{"country":"ita","name":"Lecce","id":"US_Lecce","win":9,"draw":8,"loss":21,"for":52,"against":85,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Brescia","id":"Brescia_Calcio","win":6,"draw":7,"loss":25,"for":35,"against":79,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"SPAL","id":"SPAL","win":5,"draw":5,"loss":28,"for":27,"against":77,"isRemoved":true},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":23,"draw":7,"loss":6,"for":80,"against":41,"isChampion":true},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":23,"draw":7,"loss":6,"for":80,"against":41,"isChampion":true},
 	{"country":"che","name":"St. Gallen","id":"FC_St._Gallen","win":21,"draw":5,"loss":10,"for":79,"against":56},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":18,"draw":8,"loss":10,"for":74,"against":38},
 	{"country":"che","name":"Servette","id":"Servette_FC","win":12,"draw":13,"loss":11,"for":57,"against":48,"isReturning":true},

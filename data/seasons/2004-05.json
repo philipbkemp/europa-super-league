@@ -102,7 +102,7 @@
 	{"country":"che","name":"Basel","id":"FC_Basel","win":21,"draw":7,"loss":6,"for":81,"against":45,"isChampion":true},
 	{"country":"che","name":"Thun","id":"FC_Thun","win":18,"draw":6,"loss":10,"for":69,"against":42},
 	{"country":"che","name":"Grasshopper","id":"Grasshopper_Club_Zürich","win":12,"draw":14,"loss":8,"for":51,"against":50},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":12,"draw":13,"loss":9,"for":60,"against":52},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":12,"draw":13,"loss":9,"for":60,"against":52},
 	{"country":"che","name":"Zürich","id":"FC_Zürich","win":13,"draw":9,"loss":12,"for":55,"against":57},
 	{"country":"che","name":"Neuchâtel Xamax","id":"Neuchâtel_Xamax_FCS","win":10,"draw":8,"loss":16,"for":36,"against":48},
 	{"country":"che","name":"St. Gallen","id":"FC_St._Gallen","win":8,"draw":12,"loss":14,"for":51,"against":60},

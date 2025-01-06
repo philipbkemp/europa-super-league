@@ -92,7 +92,7 @@
 	{"country":"che","name":"FC Locarno","id":"FC_Locarno","win":10,"draw":6,"loss":10,"for":45,"against":42},
 	{"country":"che","name":"FC La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":10,"draw":3,"loss":13,"for":47,"against":48},
 	{"country":"che","name":"FC Nordstern Basel","id":"FC_Nordstern_Basel","win":8,"draw":5,"loss":13,"for":48,"against":49},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":6,"draw":5,"loss":15,"for":46,"against":72},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":6,"draw":5,"loss":15,"for":46,"against":72},
 	{"country":"che","name":"FC Concordia Basel","id":"FC_Concordia_Basel","win":5,"draw":4,"loss":17,"for":36,"against":79,"isRemoved":true},
 	{"country":"che","name":"Etoile-Carouge FC","id":"Étoile_Carouge_FC","win":2,"draw":2,"loss":22,"for":14,"against":85,"isRemoved":true,"isNew":true},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":15,"draw":5,"loss":2,"for":66,"against":17,"isChampion":true},

@@ -98,7 +98,7 @@
 	{"country":"che","name":"AC Bellinzona","id":"AC_Bellinzona","win":10,"draw":3,"loss":13,"for":49,"against":51},
 	{"country":"che","name":"FC Bern","id":"FC_Bern","win":8,"draw":5,"loss":13,"for":31,"against":48},
 	{"country":"che","name":"Cantonal Neuchâtel","id":"Neuchâtel_Xamax_FCS","win":8,"draw":5,"loss":13,"for":28,"against":53},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":6,"draw":6,"loss":14,"for":44,"against":59,"isRemoved":true},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":6,"draw":6,"loss":14,"for":44,"against":59,"isRemoved":true},
 	{"country":"che","name":"Urania Genève Sport","id":"Urania_Genève_Sport","win":7,"draw":4,"loss":15,"for":33,"against":68,"isRemoved":true,"isReturning":true},
 	{"country":"hun","name":"Újpesti TE","id":"Újpest_FC","win":21,"draw":5,"loss":4,"for":106,"against":43,"isChampion":true,"isReturning":true},
 	{"country":"hun","name":"Kispest","id":"Budapest_Honvéd_FC","win":17,"draw":7,"loss":6,"for":77,"against":37,"isReturning":true},

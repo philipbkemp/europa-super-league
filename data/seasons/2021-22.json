@@ -101,7 +101,7 @@
 	{"country":"ita","name":"Venezia","id":"Venezia_FC","win":6,"draw":9,"loss":23,"for":34,"against":69,"isRemoved":true,"isReturning":true},
 	{"country":"che","name":"Zürich","id":"FC_Zürich","win":23,"draw":7,"loss":6,"for":78,"against":46,"isChampion":true},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":15,"draw":17,"loss":4,"for":70,"against":41},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":16,"draw":12,"loss":8,"for":80,"against":50},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":16,"draw":12,"loss":8,"for":80,"against":50},
 	{"country":"che","name":"Lugano","id":"FC_Lugano","win":16,"draw":6,"loss":14,"for":50,"against":54},
 	{"country":"che","name":"St. Gallen","id":"FC_St._Gallen","win":14,"draw":8,"loss":14,"for":68,"against":63},
 	{"country":"che","name":"Servette","id":"Servette_FC","win":12,"draw":8,"loss":16,"for":50,"against":66},

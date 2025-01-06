@@ -98,7 +98,7 @@
 	{"country":"ita","name":"Siena","id":"Siena_FC_SSD","win":7,"draw":10,"loss":21,"for":40,"against":67,"isRemoved":true},
 	{"country":"ita","name":"Livorno","id":"US_Livorno_1915","win":7,"draw":8,"loss":23,"for":27,"against":61,"isRemoved":true,"isReturning":true},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":25,"draw":5,"loss":6,"for":90,"against":46,"isChampion":true},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":25,"draw":2,"loss":9,"for":78,"against":47},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":25,"draw":2,"loss":9,"for":78,"against":47},
 	{"country":"che","name":"Grasshopper","id":"Grasshopper_Club_Zürich","win":21,"draw":2,"loss":13,"for":65,"against":43},
 	{"country":"che","name":"Luzern","id":"FC_Luzern","win":17,"draw":7,"loss":12,"for":66,"against":55},
 	{"country":"che","name":"Sion","id":"FC_Sion","win":14,"draw":9,"loss":13,"for":63,"against":57},

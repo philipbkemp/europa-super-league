@@ -99,7 +99,7 @@
 	{"country":"ita","name":"Crotone","id":"FC_Crotone","win":9,"draw":8,"loss":21,"for":40,"against":66,"isRemoved":true},
 	{"country":"ita","name":"Hellas Verona","id":"Hellas_Verona_FC","win":7,"draw":4,"loss":27,"for":30,"against":78,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Benevento","id":"Benevento_Calcio","win":6,"draw":3,"loss":29,"for":33,"against":84,"isRemoved":true,"isNew":true},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":26,"draw":6,"loss":4,"for":84,"against":41,"isChampion":true},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":26,"draw":6,"loss":4,"for":84,"against":41,"isChampion":true},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":20,"draw":9,"loss":7,"for":72,"against":36},
 	{"country":"che","name":"Luzern","id":"FC_Luzern","win":15,"draw":9,"loss":12,"for":51,"against":51},
 	{"country":"che","name":"Zürich","id":"FC_Zürich","win":12,"draw":13,"loss":11,"for":50,"against":44,"isReturning":true},

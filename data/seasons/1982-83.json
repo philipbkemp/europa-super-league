@@ -107,7 +107,7 @@
 	{"country":"che","name":"Neuchâtel Xamax","id":"Neuchâtel_Xamax_FCS","win":15,"draw":7,"loss":8,"for":61,"against":40},
 	{"country":"che","name":"FC Sion","id":"FC_Sion","win":12,"draw":11,"loss":7,"for":51,"against":36},
 	{"country":"che","name":"FC Lucerne","id":"FC_Luzern","win":14,"draw":3,"loss":13,"for":57,"against":56},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":11,"draw":8,"loss":11,"for":35,"against":42},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":11,"draw":8,"loss":11,"for":35,"against":42},
 	{"country":"che","name":"FC Wettingen","id":"FC_Wettingen","win":8,"draw":9,"loss":13,"for":40,"against":47,"isReturning":true},
 	{"country":"che","name":"FC Basel","id":"FC_Basel","win":10,"draw":5,"loss":15,"for":47,"against":56},
 	{"country":"che","name":"FC Vevey","id":"Vevey-Sports","win":9,"draw":4,"loss":17,"for":42,"against":61},

@@ -98,7 +98,7 @@
 	{"country":"ita","name":"Cesena","id":"AC_Cesena","win":4,"draw":12,"loss":22,"for":36,"against":73,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Parma","id":"Parma_Calcio_1913","win":6,"draw":8,"loss":24,"for":33,"against":75,"isRemoved":true,"deduct":-7,"deductReason":"Failing to pay player wages"},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":24,"draw":6,"loss":6,"for":84,"against":41,"isChampion":true},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":19,"draw":9,"loss":8,"for":64,"against":45},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":19,"draw":9,"loss":8,"for":64,"against":45},
 	{"country":"che","name":"Zürich","id":"FC_Zürich","win":15,"draw":8,"loss":13,"for":55,"against":48},
 	{"country":"che","name":"Thun","id":"FC_Thun","win":13,"draw":13,"loss":10,"for":47,"against":45},
 	{"country":"che","name":"Luzern","id":"FC_Luzern","win":12,"draw":11,"loss":13,"for":54,"against":46},

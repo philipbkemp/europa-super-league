@@ -99,7 +99,7 @@
 	{"country":"ita","name":"Livorno","id":"US_Livorno_1915","win":6,"draw":7,"loss":25,"for":39,"against":77,"isRemoved":true,"isReturning":true},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":19,"draw":15,"loss":2,"for":70,"against":34,"isChampion":true},
 	{"country":"che","name":"Grasshopper","id":"Grasshopper_Club_Zürich","win":19,"draw":8,"loss":9,"for":67,"against":43},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":17,"draw":8,"loss":11,"for":59,"against":50},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":17,"draw":8,"loss":11,"for":59,"against":50},
 	{"country":"che","name":"Luzern","id":"FC_Luzern","win":15,"draw":6,"loss":15,"for":48,"against":54},
 	{"country":"che","name":"Zürich","id":"FC_Zürich","win":14,"draw":8,"loss":14,"for":51,"against":52},
 	{"country":"che","name":"Thun","id":"FC_Thun","win":13,"draw":9,"loss":14,"for":57,"against":53},

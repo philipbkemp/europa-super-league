@@ -90,7 +90,7 @@
 	{"country":"che","name":"FC La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":9,"draw":4,"loss":9,"for":29,"against":41,"isReturning":true},
 	{"country":"che","name":"FC Lucerne","id":"FC_Luzern","win":7,"draw":5,"loss":10,"for":42,"against":45},
 	{"country":"che","name":"Young Fellows Zürich","id":"SC_Young_Fellows_Juventus","win":6,"draw":6,"loss":10,"for":29,"against":31},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":4,"draw":9,"loss":9,"for":22,"against":35},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":4,"draw":9,"loss":9,"for":22,"against":35},
 	{"country":"che","name":"FC Biel-Bienne","id":"FC_Biel-Bienne","win":4,"draw":9,"loss":9,"for":22,"against":39},
 	{"country":"che","name":"FC Basel","id":"FC_Basel","win":5,"draw":5,"loss":12,"for":29,"against":36,"isRemoved":true},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":20,"draw":4,"loss":2,"for":107,"against":26,"isChampion":true},

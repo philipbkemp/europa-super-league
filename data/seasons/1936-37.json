@@ -82,7 +82,7 @@
 	{"country":"ita","name":"Novara","id":"Novara_FC","win":8,"draw":5,"loss":17,"for":43,"against":62,"isRemoved":true,"isNew":true},
 	{"country":"ita","name":"Alessandria","id":"US_Alessandria_Calcio_1912","win":8,"draw":2,"loss":20,"for":23,"against":67,"isRemoved":true},
 	{"country":"che","name":"Grasshopper Club Zürich","id":"Grasshopper_Club_Zürich","win":15,"draw":6,"loss":3,"for":68,"against":32,"isChampion":true},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":12,"draw":5,"loss":7,"for":61,"against":36},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":12,"draw":5,"loss":7,"for":61,"against":36},
 	{"country":"che","name":"Young Fellows Zürich","id":"SC_Young_Fellows_Juventus","win":12,"draw":4,"loss":8,"for":57,"against":53},
 	{"country":"che","name":"FC Lucerne","id":"FC_Luzern","win":11,"draw":6,"loss":7,"for":44,"against":45,"isNew":true},
 	{"country":"che","name":"FC Biel-Bienne","id":"FC_Biel-Bienne","win":11,"draw":5,"loss":8,"for":45,"against":37},

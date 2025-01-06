@@ -97,7 +97,7 @@
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":8,"draw":14,"loss":12,"for":53,"against":56,"isRemoved":true},
 	{"country":"ita","name":"Ancona","id":"US_Ancona_1905","win":6,"draw":7,"loss":21,"for":39,"against":73,"isRemoved":true,"isNew":true},
 	{"country":"ita","name":"Pescara","id":"Delfino_Pescara_1936","win":6,"draw":5,"loss":23,"for":47,"against":75,"isRemoved":true,"isReturning":true},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":16,"draw":10,"loss":10,"for":59,"against":45},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":16,"draw":10,"loss":10,"for":59,"against":45},
 	{"country":"che","name":"Servette FC","id":"Servette_FC","win":15,"draw":10,"loss":11,"for":48,"against":37},
 	{"country":"che","name":"FC Sion","id":"FC_Sion","win":12,"draw":13,"loss":11,"for":45,"against":43},
 	{"country":"che","name":"Lausanne Sports","id":"FC_Lausanne-Sport","win":10,"draw":13,"loss":13,"for":39,"against":44},

@@ -100,7 +100,7 @@
 	{"country":"ita","name":"Parma","id":"Parma_Calcio_1913","win":7,"draw":13,"loss":18,"for":42,"against":62,"isRemoved":true},
 	{"country":"ita","name":"Livorno","id":"US_Livorno_1915","win":6,"draw":12,"loss":20,"for":35,"against":60,"isRemoved":true},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":22,"draw":8,"loss":6,"for":73,"against":39,"isChampion":true},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":21,"draw":7,"loss":8,"for":82,"against":49},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":21,"draw":7,"loss":8,"for":82,"against":49},
 	{"country":"che","name":"Zürich","id":"FC_Zürich","win":15,"draw":11,"loss":10,"for":58,"against":43},
 	{"country":"che","name":"Grasshopper","id":"Grasshopper_Club_Zürich","win":15,"draw":9,"loss":12,"for":57,"against":49},
 	{"country":"che","name":"Aarau","id":"FC_Aarau","win":11,"draw":14,"loss":11,"for":47,"against":48},

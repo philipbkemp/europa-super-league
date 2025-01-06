@@ -89,7 +89,7 @@
 	{"country":"che","name":"FC Basel","id":"FC_Basel","win":12,"draw":4,"loss":10,"for":62,"against":51},
 	{"country":"che","name":"FC Zürich","id":"FC_Zürich","win":13,"draw":2,"loss":11,"for":65,"against":62},
 	{"country":"che","name":"Servette FC Genève","id":"Servette_FC","win":11,"draw":6,"loss":9,"for":46,"against":43},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":11,"draw":5,"loss":10,"for":53,"against":55,"isReturning":true},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":11,"draw":5,"loss":10,"for":53,"against":55,"isReturning":true},
 	{"country":"che","name":"FC Lugano","id":"FC_Lugano","win":9,"draw":8,"loss":9,"for":33,"against":42},
 	{"country":"che","name":"AC Bellinzona","id":"AC_Bellinzona","win":10,"draw":5,"loss":11,"for":36,"against":45},
 	{"country":"che","name":"Young Fellows Zürich","id":"SC_Young_Fellows_Juventus","win":9,"draw":6,"loss":11,"for":55,"against":58},

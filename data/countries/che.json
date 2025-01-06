@@ -1,9 +1,13 @@
 {
 	"teams":[
-		"Servette_FC","Grasshopper_Club_Zürich","FC_Lugano","FC_Bern","FC_Basel","FC_Lausanne-Sport","FC_Biel-Bienne","FC_Nordstern_Basel","BSC_Young_Boys","FC_Concordia_Basel","FC_Locarno","SC_Young_Fellows_Juventus","FC_La_Chaux-de-Fonds","Urania_Genève_Sport","FC_Blue_Stars_Zürich","FC_Zürich","Étoile_Carouge_FC","FC_St._Gallen","FC_Aarau","FC_Luzern","FC_Grenchen","Neuchâtel_Xamax_FCS","AC_Bellinzona","FC_Chiasso","FC_Fribourg","FC_Thun","FC_Schaffhausen","FC_Winterthur","FC_Sion","FC_Moutier","FC_Wettingen","CS_Chênois","Vevey-Sports","FC_Bulle","Zug_94","FC_Baden","Yverdon-Sport_FC","SC_Kriens","SR_Delémont","FC_Wil","FC_Vaduz","FC_Stade_Lausanne_Ouchy"
+		"Servette_FC","Grasshopper_Club_Zürich","FC_Lugano","FC_Bern","FC_Basel","FC_Lausanne-Sport","FC_Biel-Bienne","FC_Nordstern_Basel","bsc_young_boys","FC_Concordia_Basel","FC_Locarno","SC_Young_Fellows_Juventus","FC_La_Chaux-de-Fonds","Urania_Genève_Sport","FC_Blue_Stars_Zürich","FC_Zürich","Étoile_Carouge_FC","FC_St._Gallen","FC_Aarau","FC_Luzern","FC_Grenchen","Neuchâtel_Xamax_FCS","AC_Bellinzona","FC_Chiasso","FC_Fribourg","FC_Thun","FC_Schaffhausen","FC_Winterthur","FC_Sion","FC_Moutier","FC_Wettingen","CS_Chênois","Vevey-Sports","FC_Bulle","Zug_94","FC_Baden","Yverdon-Sport_FC","SC_Kriens","SR_Delémont","FC_Wil","FC_Vaduz","FC_Stade_Lausanne_Ouchy"
 	],"redirects":[
-		["Grasshopper_Club_Z%C3%BCrich","Grasshopper_Club_Zürich"],["AC_Lugano","FC_Lugano"],["FC_Biel","FC_Biel-Bienne"],["Urania_Gen%C3%A8ve_Sport","Urania_Genève_Sport"],["FC_Blue_Stars_Z%C3%BCrich","FC_Blue_Stars_Zürich"],["FC_Z%C3%BCrich","FC_Zürich"],["Lausanne_Sports","FC_Lausanne-Sport"],["Etoile-Carouge_FC","Étoile_Carouge_FC"],["FC_Lucerne","FC_Luzern"],["Neuch%C3%A2tel_Xamax","Neuchâtel_Xamax_FCS"],["Cantonal_Neuchatel","Neuchâtel_Xamax_FCS"],["Neuch%C3%A2tel_Xamax_FCS","Neuchâtel_Xamax_FCS"],["CS_Ch%C3%AAnois","CS_Chênois"],["FC_Vevey-Sports_05","Vevey-Sports"],["%C3%89toile_Carouge_FC","Étoile_Carouge_FC"],["SC_Zug","Zug_94"],["SR_Del%C3%A9mont","SR_Delémont"],["FC_Wil_1900","FC_Wil"]
+		["BSC_Young_Boys","bsc_young_boys"],["Grasshopper_Club_Z%C3%BCrich","Grasshopper_Club_Zürich"],["AC_Lugano","FC_Lugano"],["FC_Biel","FC_Biel-Bienne"],["Urania_Gen%C3%A8ve_Sport","Urania_Genève_Sport"],["FC_Blue_Stars_Z%C3%BCrich","FC_Blue_Stars_Zürich"],["FC_Z%C3%BCrich","FC_Zürich"],["Lausanne_Sports","FC_Lausanne-Sport"],["Etoile-Carouge_FC","Étoile_Carouge_FC"],["FC_Lucerne","FC_Luzern"],["Neuch%C3%A2tel_Xamax","Neuchâtel_Xamax_FCS"],["Cantonal_Neuchatel","Neuchâtel_Xamax_FCS"],["Neuch%C3%A2tel_Xamax_FCS","Neuchâtel_Xamax_FCS"],["CS_Ch%C3%AAnois","CS_Chênois"],["FC_Vevey-Sports_05","Vevey-Sports"],["%C3%89toile_Carouge_FC","Étoile_Carouge_FC"],["SC_Zug","Zug_94"],["SR_Del%C3%A9mont","SR_Delémont"],["FC_Wil_1900","FC_Wil"]
 	],"previous":[
-		"FC_Basel","Grasshopper_Club_Zürich","FC_Lausanne-Sport","FC_Lugano","FC_Luzern","Servette_FC","FC_Sion","FC_St._Gallen","BSC_Young_Boys","FC_Winterthur","Yverdon-Sport_FC","FC_Zürich"
+		"FC_Basel","Grasshopper_Club_Zürich","FC_Lausanne-Sport","FC_Lugano","FC_Luzern","Servette_FC","FC_Sion","FC_St._Gallen","bsc_young_boys","FC_Winterthur","Yverdon-Sport_FC","FC_Zürich"
 	]
 }
+
+/*
+	BSC_Young_Boys 	=>	bsc_young_boys
+*/

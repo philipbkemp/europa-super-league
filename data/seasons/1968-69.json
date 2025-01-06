@@ -104,7 +104,7 @@
 	{"country":"che","name":"Basel","id":"FC_Basel","win":13,"draw":10,"loss":3,"for":48,"against":28,"isChampion":true},
 	{"country":"che","name":"Lausanne-Sport","id":"FC_Lausanne-Sport","win":15,"draw":5,"loss":6,"for":70,"against":43},
 	{"country":"che","name":"Zürich","id":"FC_Zürich","win":12,"draw":6,"loss":8,"for":61,"against":37},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":12,"draw":6,"loss":8,"for":49,"against":36},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":12,"draw":6,"loss":8,"for":49,"against":36},
 	{"country":"che","name":"Lugano","id":"FC_Lugano","win":11,"draw":7,"loss":8,"for":37,"against":26},
 	{"country":"che","name":"Bellinzona","id":"AC_Bellinzona","win":10,"draw":8,"loss":8,"for":38,"against":41},
 	{"country":"che","name":"FC Biel-Bienne","id":"FC_Biel-Bienne","win":9,"draw":8,"loss":9,"for":52,"against":59},

@@ -105,7 +105,7 @@
 	{"country":"che","name":"St. Gallen","id":"FC_St._Gallen","win":9,"draw":10,"loss":17,"for":44,"against":56},
 	{"country":"che","name":"Sion","id":"FC_Sion","win":11,"draw":9,"loss":16,"for":38,"against":53,"isRemoved":true},
 	{"country":"che","name":"Lugano","id":"FC_Lugano","win":14,"draw":9,"loss":13,"for":54,"against":53,"isReturning":true},
-	{"country":"che","name":"Young Boys","id":"BSC_Young_Boys","win":9,"draw":9,"loss":18,"for":58,"against":65,"isRemoved":true,"isReturning":true},
+	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":9,"draw":9,"loss":18,"for":58,"against":65,"isRemoved":true,"isReturning":true},
 	{"country":"che","name":"Aarau","id":"FC_Aarau","win":9,"draw":9,"loss":18,"for":52,"against":65},
 	{"country":"hun","name":"MTK Hungária","id":"mtk_budapest_fc","win":27,"draw":2,"loss":5,"for":77,"against":26,"isChampion":true},
 	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":19,"draw":7,"loss":8,"for":61,"against":40},

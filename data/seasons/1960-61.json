@@ -104,7 +104,7 @@
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":7,"draw":11,"loss":16,"for":30,"against":47,"isRemoved":true},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":5,"draw":8,"loss":21,"for":30,"against":63,"isRemoved":true},
 	{"country":"che","name":"Servette FC Genève","id":"Servette_FC","win":23,"draw":0,"loss":3,"for":77,"against":29,"isChampion":true},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":15,"draw":6,"loss":5,"for":70,"against":37},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":15,"draw":6,"loss":5,"for":70,"against":37},
 	{"country":"che","name":"FC Zürich","id":"FC_Zürich","win":15,"draw":5,"loss":6,"for":74,"against":43},
 	{"country":"che","name":"FC Grenchen","id":"FC_Grenchen","win":12,"draw":6,"loss":8,"for":68,"against":49},
 	{"country":"che","name":"FC Basel","id":"FC_Basel","win":13,"draw":2,"loss":11,"for":42,"against":36},

@@ -97,7 +97,7 @@
 	{"country":"ita","name":"Pisa","id":"Pisa_SC","win":5,"draw":13,"loss":12,"for":27,"against":40,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Bari","id":"SSC_Bari","win":5,"draw":12,"loss":13,"for":18,"against":31,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Lecce","id":"US_Lecce","win":5,"draw":6,"loss":19,"for":23,"against":55,"isRemoved":true,"isNew":true},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":18,"draw":8,"loss":4,"for":72,"against":28,"isChampion":true},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":18,"draw":8,"loss":4,"for":72,"against":28,"isChampion":true},
 	{"country":"che","name":"Neuchâtel Xamax","id":"Neuchâtel_Xamax_FCS","win":18,"draw":6,"loss":6,"for":78,"against":32},
 	{"country":"che","name":"FC Lucerne","id":"FC_Luzern","win":16,"draw":9,"loss":5,"for":56,"against":39},
 	{"country":"che","name":"FC Zürich","id":"FC_Zürich","win":15,"draw":9,"loss":6,"for":64,"against":43},

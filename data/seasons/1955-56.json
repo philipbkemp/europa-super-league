@@ -85,7 +85,7 @@
 	{"country":"ita","name":"Pro Patria","id":"Aurora_Pro_Patria_1919","win":3,"draw":9,"loss":22,"for":31,"against":87,"isRemoved":true},
 	{"country":"che","name":"Grasshopper Club Zürich","id":"Grasshopper_Club_Zürich","win":19,"draw":4,"loss":3,"for":94,"against":36,"isChampion":true},
 	{"country":"che","name":"FC La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":14,"draw":6,"loss":6,"for":65,"against":46},
-	{"country":"che","name":"BSC Young Boys","id":"BSC_Young_Boys","win":12,"draw":8,"loss":6,"for":60,"against":41},
+	{"country":"che","name":"BSC Young Boys","id":"bsc_young_boys","win":12,"draw":8,"loss":6,"for":60,"against":41},
 	{"country":"che","name":"Servette FC Genève","id":"Servette_FC","win":12,"draw":6,"loss":8,"for":53,"against":51},
 	{"country":"che","name":"AC Bellinzona","id":"AC_Bellinzona","win":11,"draw":6,"loss":9,"for":39,"against":45},
 	{"country":"che","name":"FC Chiasso","id":"FC_Chiasso","win":12,"draw":3,"loss":11,"for":48,"against":47},
