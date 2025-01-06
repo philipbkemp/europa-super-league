@@ -413,7 +413,7 @@
 	{"country":"fra","name":"Martigues","id":"FC_Martigues","win":5,"draw":17,"loss":16,"for":37,"against":58,"isNew":true},
 	{"country":"fra","name":"Toulouse","id":"Toulouse_FC","win":4,"draw":15,"loss":19,"for":26,"against":60,"isRemoved":true},
 	{"country":"fra","name":"Angers","id":"Angers_SCO","win":4,"draw":13,"loss":21,"for":37,"against":63,"isRemoved":true,"isReturning":true},
-	{"country":"cyp","name":"Apollon","id":"Apollon_Limassol_FC","win":20,"draw":3,"loss":3,"for":66,"against":23,"isChampion":true},
+	{"country":"cyp","name":"Apollon","id":"apollon_limassol_fc","win":20,"draw":3,"loss":3,"for":66,"against":23,"isChampion":true},
 	{"country":"cyp","name":"Anorthosis","id":"Anorthosis_Famagusta_FC","win":18,"draw":7,"loss":1,"for":67,"against":16},
 	{"country":"cyp","name":"APOEL","id":"apoel_fc","win":17,"draw":5,"loss":4,"for":64,"against":25},
 	{"country":"cyp","name":"Omonia","id":"ac_omonia","win":16,"draw":4,"loss":6,"for":77,"against":33},

@@ -392,7 +392,7 @@
 	{"country":"cyp","name":"Omonia Nicosia","id":"ac_omonia","win":18,"draw":9,"loss":5,"for":45,"against":19},
 	{"country":"cyp","name":"Anorthosis Famagusta","id":"Anorthosis_Famagusta_FC","win":16,"draw":7,"loss":9,"for":51,"against":34},
 	{"country":"cyp","name":"AEK Larnaca","id":"AEK_Larnaca_FC","win":12,"draw":6,"loss":14,"for":37,"against":42,"isReturning":true},
-	{"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":14,"draw":7,"loss":11,"for":55,"against":44},
+	{"country":"cyp","name":"Apollon Limassol","id":"apollon_limassol_fc","win":14,"draw":7,"loss":11,"for":55,"against":44},
 	{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":10,"draw":11,"loss":11,"for":48,"against":53,"isReturning":true},
 	{"country":"cyp","name":"Enosis Neon Paralimni","id":"Enosis_Neon_Paralimni_FC","win":12,"draw":8,"loss":12,"for":33,"against":34},
 	{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":10,"draw":11,"loss":11,"for":37,"against":45},

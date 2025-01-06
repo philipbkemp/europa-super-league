@@ -389,7 +389,7 @@
 	{"country":"fra","name":"Valenciennes","id":"Valenciennes_FC","win":7,"draw":8,"loss":23,"for":37,"against":65,"isRemoved":true},
 	{"country":"fra","name":"Ajaccio","id":"AC_Ajaccio","win":4,"draw":11,"loss":23,"for":37,"against":72,"isRemoved":true},
 	{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":25,"draw":6,"loss":5,"for":68,"against":29},
-	{"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":24,"draw":5,"loss":7,"for":66,"against":29},
+	{"country":"cyp","name":"Apollon Limassol","id":"apollon_limassol_fc","win":24,"draw":5,"loss":7,"for":66,"against":29},
 	{"country":"cyp","name":"APOEL","id":"apoel_fc","win":25,"draw":6,"loss":5,"for":80,"against":25,"isChampion":true},
 	{"country":"cyp","name":"Ermis Aradippou","id":"Ermis_Aradippou_FC","win":18,"draw":8,"loss":10,"for":55,"against":54,"isReturning":true},
 	{"country":"cyp","name":"Omonia Nicosia","id":"ac_omonia","win":16,"draw":11,"loss":9,"for":59,"against":37},

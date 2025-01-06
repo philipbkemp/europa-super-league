@@ -413,7 +413,7 @@
 	{"country":"fra","name":"Sochaux","id":"FC_Sochaux-Montbéliard","win":8,"draw":16,"loss":14,"for":24,"against":33},
 	{"country":"fra","name":"Toulouse","id":"Toulouse_FC","win":8,"draw":15,"loss":15,"for":33,"against":45},
 	{"country":"fra","name":"Rennes","id":"Stade_Rennais_F.C.","win":7,"draw":14,"loss":17,"for":29,"against":51,"isReturning":true},
-	{"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":19,"draw":6,"loss":1,"for":60,"against":20,"isChampion":true},
+	{"country":"cyp","name":"Apollon Limassol","id":"apollon_limassol_fc","win":19,"draw":6,"loss":1,"for":60,"against":20,"isChampion":true},
 	{"country":"cyp","name":"Anorthosis Famagusta","id":"Anorthosis_Famagusta_FC","win":18,"draw":5,"loss":3,"for":42,"against":14},
 	{"country":"cyp","name":"APOEL","id":"apoel_fc","win":13,"draw":9,"loss":4,"for":48,"against":23},
 	{"country":"cyp","name":"Omonia","id":"ac_omonia","win":12,"draw":7,"loss":7,"for":41,"against":22},

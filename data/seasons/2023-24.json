@@ -393,7 +393,7 @@
 	{"country":"cyp","name":"Pafos","id":"Pafos_FC","win":18,"draw":8,"loss":10,"for":60,"against":33},
 	{"country":"cyp","name":"Omonia","id":"ac_omonia","win":20,"draw":9,"loss":7,"for":62,"against":37},
 	{"country":"cyp","name":"Anorthosis Famagusta","id":"Anorthosis_Famagusta_FC","win":15,"draw":8,"loss":13,"for":46,"against":42},
-	{"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":18,"draw":12,"loss":10,"for":64,"against":38},
+	{"country":"cyp","name":"Apollon Limassol","id":"apollon_limassol_fc","win":18,"draw":12,"loss":10,"for":64,"against":38},
 	{"country":"cyp","name":"Nea Salamis Famagusta","id":"Nea_Salamis_Famagusta_FC","win":14,"draw":9,"loss":17,"for":52,"against":61},
 	{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":15,"draw":9,"loss":16,"for":61,"against":68},
 	{"country":"cyp","name":"Ethnikos Achna","id":"Ethnikos_Achna_FC","win":13,"draw":11,"loss":16,"for":70,"against":79,"isReturning":true},

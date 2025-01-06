@@ -384,7 +384,7 @@
 	{"country":"fra","name":"Saint-Étienne","id":"AS_Saint-Étienne","win":7,"draw":11,"loss":20,"for":42,"against":77,"isRemoved":true},
 	{"country":"fra","name":"Metz","id":"FC_Metz","win":6,"draw":13,"loss":19,"for":35,"against":69,"isRemoved":true},
 	{"country":"fra","name":"Bordeaux","id":"FC_Girondins_de_Bordeaux","win":6,"draw":13,"loss":19,"for":52,"against":91,"isRemoved":true},
-	{"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":16,"draw":10,"loss":6,"for":50,"against":33,"isChampion":true},
+	{"country":"cyp","name":"Apollon Limassol","id":"apollon_limassol_fc","win":16,"draw":10,"loss":6,"for":50,"against":33,"isChampion":true},
 	{"country":"cyp","name":"APOEL","id":"apoel_fc","win":14,"draw":10,"loss":8,"for":48,"against":41},
 	{"country":"cyp","name":"AEK Larnaca","id":"AEK_Larnaca_FC","win":14,"draw":12,"loss":6,"for":44,"against":29},
 	{"country":"cyp","name":"Anorthosis Famagusta","id":"Anorthosis_Famagusta_FC","win":13,"draw":10,"loss":9,"for":48,"against":40},

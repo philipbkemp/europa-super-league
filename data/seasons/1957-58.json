@@ -351,7 +351,7 @@
 	{"country":"cyp","name":"APOEL F.C.","id":"apoel_fc","win":5,"draw":5,"loss":6,"for":20,"against":23,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"cyp","name":"Nea Salamis FC","id":"Nea_Salamis_Famagusta_FC","win":6,"draw":3,"loss":9,"for":30,"against":40,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"cyp","name":"Aris Limassol F.C.","id":"Aris_Limassol_FC","win":5,"draw":5,"loss":7,"for":22,"against":32,"isRemoved":true,"removedNote":"League not contested next season"},
-	{"country":"cyp","name":"Apollon Limassol","id":"Apollon_Limassol_FC","win":2,"draw":9,"loss":6,"for":28,"against":38,"isRemoved":true,"removedNote":"League not contested next season","isNew":true},
+	{"country":"cyp","name":"Apollon Limassol","id":"apollon_limassol_fc","win":2,"draw":9,"loss":6,"for":28,"against":38,"isRemoved":true,"removedNote":"League not contested next season","isNew":true},
 	{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":1,"draw":7,"loss":9,"for":21,"against":35,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":19,"draw":5,"loss":2,"for":79,"against":21,"isChampion":true},
 	{"country":"prt","name":"Porto","id":"fc_porto","win":21,"draw":1,"loss":4,"for":64,"against":25},
