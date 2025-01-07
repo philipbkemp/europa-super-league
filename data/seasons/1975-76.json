@@ -473,7 +473,7 @@
 	{"country":"csk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":12,"draw":5,"loss":13,"for":35,"against":32},
 	{"country":"csk","name":"VSS Košice","id":"FC_VSS_Košice","win":11,"draw":6,"loss":13,"for":45,"against":42},
 	{"country":"csk","name":"ZVL Žilina","id":"MŠK_Žilina","win":12,"draw":4,"loss":14,"for":38,"against":42},
-	{"country":"csk","name":"Škoda Plzeň","id":"FC_Viktoria_Plzeň","win":10,"draw":7,"loss":13,"for":34,"against":48},
+	{"country":"csk","name":"Škoda Plzeň","id":"fc_viktoria_plzen","win":10,"draw":7,"loss":13,"for":34,"against":48},
 	{"country":"csk","name":"Jednota Trenčín","id":"TTS_Trenčín","win":9,"draw":8,"loss":13,"for":23,"against":53,"isReturning":true},
 	{"country":"csk","name":"LIAZ Jablonec","id":"FK_Jablonec","win":7,"draw":10,"loss":13,"for":28,"against":51,"isRemoved":true},
 	{"country":"csk","name":"TŽ Třinec","id":"FK_Třinec","win":8,"draw":4,"loss":18,"for":22,"against":37,"isRemoved":true},

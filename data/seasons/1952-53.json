@@ -353,7 +353,7 @@
 	{"country":"csk","name":"ATK Prague","id":"Dukla_Prague","win":9,"draw":9,"loss":8,"for":40,"against":32},
 	{"country":"csk","name":"Vítkovické železárny","id":"MFK_Vítkovice","win":12,"draw":2,"loss":12,"for":55,"against":52,"isRemoved":true},
 	{"country":"csk","name":"OKD Ostrava","id":"FC_Baník_Ostrava","win":10,"draw":4,"loss":12,"for":43,"against":47},
-	{"country":"csk","name":"ZVIL Plzeň","id":"FC_Viktoria_Plzeň","win":8,"draw":6,"loss":12,"for":42,"against":62,"isRemoved":true},
+	{"country":"csk","name":"ZVIL Plzeň","id":"fc_viktoria_plzen","win":8,"draw":6,"loss":12,"for":42,"against":62,"isRemoved":true},
 	{"country":"csk","name":"Dynamo ČSD Košice","id":"FC_Lokomotíva_Košice","win":6,"draw":4,"loss":16,"for":43,"against":63},
 	{"country":"csk","name":"Armaturka Ústí nad Labem","id":"FK_Viagem_Ústí_nad_Labem","win":4,"draw":5,"loss":17,"for":38,"against":71,"isRemoved":true,"isNew":true},
 	{"country":"csk","name":"MEZ Židenice","id":"ČAFC_Židenice_2011","win":2,"draw":4,"loss":20,"for":25,"against":71,"isRemoved":true,"isNew":true},

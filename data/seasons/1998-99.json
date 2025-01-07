@@ -687,7 +687,7 @@
 	{"country":"cze","name":"Jablonec","id":"FK_Jablonec","win":9,"draw":8,"loss":13,"for":37,"against":46},
 	{"country":"cze","name":"Dukla Příbram","id":"FK_Příbram","win":8,"draw":9,"loss":13,"for":28,"against":41},
 	{"country":"cze","name":"Opava","id":"SFC_Opava","win":8,"draw":8,"loss":14,"for":40,"against":54},
-	{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":8,"draw":8,"loss":14,"for":26,"against":43,"isRemoved":true},
+	{"country":"cze","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":8,"draw":8,"loss":14,"for":26,"against":43,"isRemoved":true},
 	{"country":"cze","name":"Karviná","id":"MFK_Karviná","win":6,"draw":5,"loss":19,"for":28,"against":55,"isRemoved":true,"isReturning":true},
 	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":21,"draw":7,"loss":2,"for":56,"against":11,"isChampion":true},
 	{"country":"svk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":21,"draw":5,"loss":4,"for":64,"against":15},

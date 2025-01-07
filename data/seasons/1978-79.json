@@ -491,7 +491,7 @@
 	{"country":"csk","name":"Lokomotíva Košice","id":"FC_Lokomotíva_Košice","win":11,"draw":6,"loss":13,"for":47,"against":48},
 	{"country":"csk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":7,"draw":13,"loss":10,"for":34,"against":37},
 	{"country":"csk","name":"Jednota Trenčín","id":"TTS_Trenčín","win":10,"draw":6,"loss":14,"for":38,"against":45},
-	{"country":"csk","name":"Škoda Plzeň","id":"FC_Viktoria_Plzeň","win":9,"draw":8,"loss":13,"for":27,"against":47},
+	{"country":"csk","name":"Škoda Plzeň","id":"fc_viktoria_plzen","win":9,"draw":8,"loss":13,"for":27,"against":47},
 	{"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":7,"draw":11,"loss":12,"for":24,"against":51,"isRemoved":true},
 	{"country":"csk","name":"Sklo Union Teplice","id":"FK_Teplice","win":8,"draw":7,"loss":15,"for":30,"against":48,"isRemoved":true},
 	{"country":"ede","name":"BFC Dynamo","id":"berliner_fc_dynamo","win":21,"draw":4,"loss":1,"for":75,"against":18,"isChampion":true},

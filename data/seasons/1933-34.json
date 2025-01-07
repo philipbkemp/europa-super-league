@@ -211,7 +211,7 @@
 	{"country":"csk","name":"SK Kladno","id":"SK_Kladno","win":9,"draw":3,"loss":6,"for":41,"against":35},
 	{"country":"csk","name":"Teplitzer FK","id":"Teplitzer_FK","win":6,"draw":6,"loss":6,"for":33,"against":27},
 	{"country":"csk","name":"FC Bohemians Praha","id":"Bohemians_1905","win":5,"draw":7,"loss":6,"for":40,"against":48},
-	{"country":"csk","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":8,"draw":0,"loss":10,"for":38,"against":40},
+	{"country":"csk","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":8,"draw":0,"loss":10,"for":38,"against":40},
 	{"country":"csk","name":"Čechie Karlín","id":"Čechie_Karlín","win":6,"draw":4,"loss":8,"for":33,"against":57,"isReturning":true},
 	{"country":"csk","name":"SK Židenice","id":"FC_Zbrojovka_Brno","win":5,"draw":4,"loss":9,"for":36,"against":45,"isNew":true},
 	{"country":"csk","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":4,"draw":4,"loss":10,"for":34,"against":46,"isRemoved":true},

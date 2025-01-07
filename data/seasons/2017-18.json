@@ -611,7 +611,7 @@
 	{"country":"wal","name":"Llandudno","id":"Llandudno_F.C.","win":9,"draw":9,"loss":14,"for":39,"against":44},
 	{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":8,"draw":5,"loss":19,"for":35,"against":62},
 	{"country":"wal","name":"Prestatyn Town","id":"Prestatyn_Town_F.C.","win":4,"draw":7,"loss":21,"for":27,"against":67,"isRemoved":true,"isReturning":true},
-	{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":20,"draw":6,"loss":4,"for":55,"against":23,"isChampion":true},
+	{"country":"cze","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":20,"draw":6,"loss":4,"for":55,"against":23,"isChampion":true},
 	{"country":"cze","name":"Slavia Prague","id":"sk_slavia_prague","win":17,"draw":8,"loss":5,"for":50,"against":19},
 	{"country":"cze","name":"Jablonec","id":"FK_Jablonec","win":16,"draw":8,"loss":6,"for":49,"against":27},
 	{"country":"cze","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":15,"draw":10,"loss":5,"for":41,"against":22,"isReturning":true},

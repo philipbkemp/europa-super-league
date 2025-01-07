@@ -650,7 +650,7 @@
 	{"country":"wal","name":"Pontypridd United","id":"Pontypridd_United_F.C.","win":8,"draw":7,"loss":17,"for":23,"against":41,"isRemoved":true,"deduct":-9,"deductReason":"Multiple infractions"},
 	{"country":"cze","name":"Sparta Prague","id":"ac_sparta_prague","win":27,"draw":6,"loss":2,"for":82,"against":30,"isChampion":true},
 	{"country":"cze","name":"Slavia Prague","id":"sk_slavia_prague","win":26,"draw":7,"loss":2,"for":76,"against":24},
-	{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":21,"draw":7,"loss":7,"for":76,"against":40},
+	{"country":"cze","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":21,"draw":7,"loss":7,"for":76,"against":40},
 	{"country":"cze","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":14,"draw":7,"loss":14,"for":56,"against":48},
 	{"country":"cze","name":"Mladá Boleslav","id":"FK_Mladá_Boleslav","win":13,"draw":8,"loss":14,"for":51,"against":59},
 	{"country":"cze","name":"Slovácko","id":"1._FC_Slovácko","win":12,"draw":8,"loss":15,"for":45,"against":56},

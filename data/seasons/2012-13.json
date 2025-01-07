@@ -642,7 +642,7 @@
 	{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":9,"draw":10,"loss":13,"for":37,"against":58},
 	{"country":"wal","name":"Llanelli","id":"Llanelli_Town_A.F.C.","win":10,"draw":6,"loss":16,"for":41,"against":68,"isRemoved":true},
 	{"country":"wal","name":"Afan Lido","id":"Afan_Lido_F.C.","win":8,"draw":3,"loss":21,"for":43,"against":79},
-	{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":20,"draw":5,"loss":5,"for":54,"against":21,"isChampion":true},
+	{"country":"cze","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":20,"draw":5,"loss":5,"for":54,"against":21,"isChampion":true},
 	{"country":"cze","name":"Sparta Prague","id":"ac_sparta_prague","win":19,"draw":6,"loss":5,"for":55,"against":23},
 	{"country":"cze","name":"Slovan Liberec","id":"FC_Slovan_Liberec","win":16,"draw":6,"loss":8,"for":46,"against":34},
 	{"country":"cze","name":"Jablonec","id":"FK_Jablonec","win":13,"draw":10,"loss":7,"for":49,"against":41},

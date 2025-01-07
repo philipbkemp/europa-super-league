@@ -660,7 +660,7 @@
 	{"country":"cze","name":"Slovan Liberec","id":"FC_Slovan_Liberec","win":12,"draw":8,"loss":10,"for":35,"against":31},
 	{"country":"cze","name":"Mladá Boleslav","id":"FK_Mladá_Boleslav","win":11,"draw":9,"loss":10,"for":37,"against":36},
 	{"country":"cze","name":"Tescoma Zlín","id":"FC_Zlín","win":10,"draw":8,"loss":12,"for":28,"against":31},
-	{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":10,"draw":8,"loss":12,"for":32,"against":37},
+	{"country":"cze","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":10,"draw":8,"loss":12,"for":32,"against":37},
 	{"country":"cze","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":10,"draw":7,"loss":13,"for":35,"against":48,"isReturning":true},
 	{"country":"cze","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":8,"draw":12,"loss":10,"for":20,"against":26},
 	{"country":"cze","name":"Jablonec","id":"FK_Jablonec","win":8,"draw":9,"loss":13,"for":24,"against":32},

@@ -488,7 +488,7 @@
 	{"country":"csk","name":"Slavia Prague","id":"sk_slavia_prague","win":11,"draw":7,"loss":12,"for":27,"against":33},
 	{"country":"csk","name":"Dukla Prague","id":"Dukla_Prague","win":10,"draw":8,"loss":12,"for":42,"against":41},
 	{"country":"csk","name":"Lokomotíva Košice","id":"FC_Lokomotíva_Košice","win":9,"draw":8,"loss":13,"for":27,"against":30},
-	{"country":"csk","name":"Škoda Plzeň","id":"FC_Viktoria_Plzeň","win":8,"draw":6,"loss":16,"for":30,"against":54,"isRemoved":true,"isReturning":true},
+	{"country":"csk","name":"Škoda Plzeň","id":"fc_viktoria_plzen","win":8,"draw":6,"loss":16,"for":30,"against":54,"isRemoved":true,"isReturning":true},
 	{"country":"csk","name":"TJ Gottwaldov","id":"FC_Zlín","win":5,"draw":6,"loss":19,"for":30,"against":56,"isRemoved":true},
 	{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":18,"draw":3,"loss":5,"for":56,"against":29,"isChampion":true},
 	{"country":"ede","name":"FC Carl Zeiss Jena","id":"FC_Carl_Zeiss_Jena","win":14,"draw":5,"loss":7,"for":58,"against":29},

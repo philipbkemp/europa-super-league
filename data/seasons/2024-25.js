@@ -123,7 +123,7 @@ THEDATA = [
 	{"country":"cyp","name":"Nea Salamis Famagusta","id":"Nea_Salamis_Famagusta_FC","win":3,"draw":1,"loss":12,"for":13,"against":34,"isCurrentSeason":true},
 	{"country":"cyp","name":"Omonia 29M","id":"PAC_Omonia_29M","win":1,"draw":4,"loss":11,"for":11,"against":29,"isNew":true,"isCurrentSeason":true},
 	{"country":"cze","name":"Slavia Prague","id":"sk_slavia_prague","win":16,"draw":2,"loss":1,"for":41,"against":7,"isCurrentSeason":true},
-	{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":13,"draw":4,"loss":2,"for":38,"against":15,"isCurrentSeason":true},
+	{"country":"cze","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":13,"draw":4,"loss":2,"for":38,"against":15,"isCurrentSeason":true},
 	{"country":"cze","name":"Sparta Prague","id":"ac_sparta_prague","win":11,"draw":4,"loss":4,"for":35,"against":22,"isCurrentSeason":true},
 	{"country":"cze","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":11,"draw":3,"loss":5,"for":32,"against":20,"isCurrentSeason":true},
 	{"country":"cze","name":"Jablonec","id":"FK_Jablonec","win":9,"draw":3,"loss":7,"for":31,"against":16,"isCurrentSeason":true},

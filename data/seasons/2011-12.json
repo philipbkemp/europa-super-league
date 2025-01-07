@@ -648,7 +648,7 @@
 	{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":7,"draw":5,"loss":20,"for":44,"against":82,"deduct":-3,"deductReason":"Fielding ineligible players"},
 	{"country":"cze","name":"Slovan Liberec","id":"FC_Slovan_Liberec","win":20,"draw":6,"loss":4,"for":68,"against":29,"isChampion":true},
 	{"country":"cze","name":"Sparta Prague","id":"ac_sparta_prague","win":20,"draw":4,"loss":6,"for":51,"against":25},
-	{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":19,"draw":6,"loss":5,"for":66,"against":33},
+	{"country":"cze","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":19,"draw":6,"loss":5,"for":66,"against":33},
 	{"country":"cze","name":"Mladá Boleslav","id":"FK_Mladá_Boleslav","win":15,"draw":5,"loss":10,"for":49,"against":34},
 	{"country":"cze","name":"Teplice","id":"FK_Teplice","win":12,"draw":10,"loss":8,"for":36,"against":30},
 	{"country":"cze","name":"Dukla Prague","id":"FK_Dukla_Prague","win":11,"draw":9,"loss":10,"for":42,"against":35,"isNew":true},

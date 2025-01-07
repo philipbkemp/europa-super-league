@@ -502,7 +502,7 @@
 	{"country":"csk","name":"ZVL Žilina","id":"MŠK_Žilina","win":11,"draw":5,"loss":14,"for":33,"against":51},
 	{"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":11,"draw":4,"loss":15,"for":37,"against":51},
 	{"country":"csk","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":9,"draw":7,"loss":14,"for":41,"against":49},
-	{"country":"csk","name":"Škoda Plzeň","id":"FC_Viktoria_Plzeň","win":8,"draw":7,"loss":15,"for":37,"against":51,"isRemoved":true,"isReturning":true},
+	{"country":"csk","name":"Škoda Plzeň","id":"fc_viktoria_plzen","win":8,"draw":7,"loss":15,"for":37,"against":51,"isRemoved":true,"isReturning":true},
 	{"country":"csk","name":"Dynamo České Budějovice","id":"SK_Dynamo_České_Budějovice","win":8,"draw":4,"loss":18,"for":24,"against":58,"isRemoved":true},
 	{"country":"ede","name":"Berliner FC Dynamo","id":"berliner_fc_dynamo","win":19,"draw":4,"loss":3,"for":59,"against":20,"isChampion":true},
 	{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":13,"draw":10,"loss":3,"for":52,"against":24},

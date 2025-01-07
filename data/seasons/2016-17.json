@@ -601,7 +601,7 @@
 	{"country":"wal","name":"Rhyl","id":"rhyl_fc","win":8,"draw":6,"loss":18,"for":38,"against":76,"isRemoved":true},
 	{"country":"wal","name":"Airbus UK Broughton","id":"Airbus_UK_Broughton_F.C.","win":5,"draw":6,"loss":21,"for":37,"against":78,"isRemoved":true},
 	{"country":"cze","name":"Slavia Prague","id":"sk_slavia_prague","win":20,"draw":9,"loss":1,"for":65,"against":22,"isChampion":true},
-	{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":20,"draw":7,"loss":3,"for":47,"against":21},
+	{"country":"cze","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":20,"draw":7,"loss":3,"for":47,"against":21},
 	{"country":"cze","name":"Sparta Prague","id":"ac_sparta_prague","win":16,"draw":9,"loss":5,"for":47,"against":26},
 	{"country":"cze","name":"Mladá Boleslav","id":"FK_Mladá_Boleslav","win":13,"draw":10,"loss":7,"for":47,"against":37},
 	{"country":"cze","name":"Teplice","id":"FK_Teplice","win":13,"draw":9,"loss":8,"for":38,"against":25},

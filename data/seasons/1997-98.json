@@ -669,7 +669,7 @@
 	{"country":"cze","name":"Hradec Králové","id":"FC_Hradec_Králové","win":8,"draw":10,"loss":12,"for":25,"against":36},
 	{"country":"cze","name":"Kaučuk Opava","id":"SFC_Opava","win":8,"draw":10,"loss":12,"for":33,"against":37},
 	{"country":"cze","name":"Dukla","id":"FK_Příbram","win":9,"draw":6,"loss":15,"for":37,"against":50,"isNew":true},
-	{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":9,"draw":6,"loss":15,"for":37,"against":47},
+	{"country":"cze","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":9,"draw":6,"loss":15,"for":37,"against":47},
 	{"country":"cze","name":"České Budějovice","id":"SK_Dynamo_České_Budějovice","win":8,"draw":7,"loss":15,"for":26,"against":43,"isRemoved":true},
 	{"country":"cze","name":"Lázně Bohdaneč","id":"AFK_Atlantic_Lázně_Bohdaneč","win":2,"draw":5,"loss":23,"for":18,"against":61,"isRemoved":true,"isNew":true},
 	{"country":"svk","name":"1. FC Košice","id":"FC_VSS_Košice","win":21,"draw":5,"loss":4,"for":71,"against":24,"isChampion":true},

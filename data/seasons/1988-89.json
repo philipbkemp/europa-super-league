@@ -502,7 +502,7 @@
 	{"country":"csk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":10,"draw":7,"loss":13,"for":36,"against":46},
 	{"country":"csk","name":"RH Cheb","id":"FK_Hvězda_Cheb","win":10,"draw":4,"loss":16,"for":40,"against":54},
 	{"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":10,"draw":4,"loss":16,"for":41,"against":58},
-	{"country":"csk","name":"Škoda Plzeň","id":"FC_Viktoria_Plzeň","win":10,"draw":3,"loss":17,"for":40,"against":48,"isRemoved":true,"isReturning":true},
+	{"country":"csk","name":"Škoda Plzeň","id":"fc_viktoria_plzen","win":10,"draw":3,"loss":17,"for":40,"against":48,"isRemoved":true,"isReturning":true},
 	{"country":"csk","name":"Spartak Hradec Králové","id":"FC_Hradec_Králové","win":6,"draw":7,"loss":17,"for":32,"against":58,"isRemoved":true},
 	{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":16,"draw":8,"loss":2,"for":61,"against":26,"isChampion":true},
 	{"country":"ede","name":"Berliner FC Dynamo","id":"berliner_fc_dynamo","win":12,"draw":8,"loss":6,"for":51,"against":32},

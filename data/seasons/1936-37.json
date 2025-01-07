@@ -241,7 +241,7 @@
 	{"country":"csk","name":"SK Židenice","id":"FC_Zbrojovka_Brno","win":11,"draw":2,"loss":9,"for":41,"against":52},
 	{"country":"csk","name":"SK Náchod","id":"FK_Náchod","win":8,"draw":5,"loss":9,"for":48,"against":49},
 	{"country":"csk","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":6,"draw":8,"loss":8,"for":47,"against":40,"isReturning":true},
-	{"country":"csk","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":5,"draw":4,"loss":13,"for":29,"against":48},
+	{"country":"csk","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":5,"draw":4,"loss":13,"for":29,"against":48},
 	{"country":"csk","name":"Rusj Užhorod","id":"SC_Rusj_Užhorod","win":3,"draw":2,"loss":17,"for":24,"against":79,"isRemoved":true,"isNew":true},
 	{"country":"csk","name":"Moravská Slavia Brno","id":"SK_Moravská_Slavia_Brno","win":1,"draw":1,"loss":20,"for":19,"against":94,"isRemoved":true},
 	{"country":"alb","name":"Tirana","id":"kf_tirana","win":11,"draw":3,"loss":0,"for":50,"against":8,"isChampion":true,"isReturning":true},

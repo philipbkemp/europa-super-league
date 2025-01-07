@@ -611,7 +611,7 @@
 	{"country":"wal","name":"Carmarthen Town","id":"Carmarthen_Town_A.F.C.","win":4,"draw":6,"loss":15,"for":28,"against":49,"isRemoved":true},
 	{"country":"wal","name":"Airbus UK Broughton","id":"Airbus_UK_Broughton_F.C.","win":4,"draw":5,"loss":17,"for":28,"against":67,"isRemoved":true,"isReturning":true},
 	{"country":"cze","name":"Slavia Prague","id":"sk_slavia_prague","win":26,"draw":7,"loss":2,"for":69,"against":12,"isChampion":true},
-	{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":23,"draw":7,"loss":5,"for":68,"against":24},
+	{"country":"cze","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":23,"draw":7,"loss":5,"for":68,"against":24},
 	{"country":"cze","name":"Sparta Prague","id":"ac_sparta_prague","win":17,"draw":9,"loss":9,"for":66,"against":40},
 	{"country":"cze","name":"Jablonec","id":"FK_Jablonec","win":14,"draw":9,"loss":12,"for":48,"against":52},
 	{"country":"cze","name":"Slovan Liberec","id":"FC_Slovan_Liberec","win":15,"draw":6,"loss":14,"for":55,"against":51},

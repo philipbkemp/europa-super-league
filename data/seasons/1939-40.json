@@ -226,7 +226,7 @@
 	{"country":"csk","name":"SK Židenice","id":"FC_Zbrojovka_Brno","win":9,"draw":5,"loss":8,"for":38,"against":50},
 	{"country":"csk","name":"SK Plzeň","id":"SK_Plzeň","win":8,"draw":4,"loss":10,"for":56,"against":52},
 	{"country":"csk","name":"SK Prostějov","id":"1._SK_Prostějov","win":9,"draw":2,"loss":11,"for":47,"against":48,"isReturning":true},
-	{"country":"csk","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":6,"draw":6,"loss":10,"for":61,"against":68,"isReturning":true},
+	{"country":"csk","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":6,"draw":6,"loss":10,"for":61,"against":68,"isReturning":true},
 	{"country":"csk","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":7,"draw":4,"loss":11,"for":48,"against":65},
 	{"country":"csk","name":"SK Kladno","id":"SK_Kladno","win":7,"draw":4,"loss":11,"for":44,"against":66},
 	{"country":"csk","name":"SK Náchod","id":"FK_Náchod","win":8,"draw":1,"loss":13,"for":54,"against":72,"isRemoved":true},

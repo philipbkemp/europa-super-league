@@ -404,7 +404,7 @@
 	{"country":"csk","name":"Spartak Hradec Králové","id":"FC_Hradec_Králové","win":9,"draw":10,"loss":7,"for":44,"against":43},
 	{"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":13,"draw":1,"loss":12,"for":51,"against":38},
 	{"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":12,"draw":2,"loss":12,"for":39,"against":39},
-	{"country":"csk","name":"Spartak Plzeň","id":"FC_Viktoria_Plzeň","win":10,"draw":6,"loss":10,"for":45,"against":52,"isReturning":true},
+	{"country":"csk","name":"Spartak Plzeň","id":"fc_viktoria_plzen","win":10,"draw":6,"loss":10,"for":45,"against":52,"isReturning":true},
 	{"country":"csk","name":"SONP Kladno","id":"SK_Kladno","win":12,"draw":2,"loss":12,"for":41,"against":66},
 	{"country":"csk","name":"Spartak Prague Sokolovo","id":"ac_sparta_prague","win":9,"draw":7,"loss":10,"for":44,"against":44},
 	{"country":"csk","name":"Dynamo Žilina","id":"MŠK_Žilina","win":8,"draw":9,"loss":9,"for":51,"against":46,"isRemoved":true,"isReturning":true},

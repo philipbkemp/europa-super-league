@@ -672,7 +672,7 @@
 	{"country":"cze","name":"Brno","id":"FC_Zbrojovka_Brno","win":7,"draw":9,"loss":14,"for":24,"against":35},
 	{"country":"cze","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":7,"draw":9,"loss":14,"for":28,"against":45},
 	{"country":"cze","name":"České Budějovice","id":"SK_Dynamo_České_Budějovice","win":6,"draw":8,"loss":16,"for":32,"against":56,"isRemoved":true},
-	{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":4,"draw":9,"loss":17,"for":30,"against":65,"isRemoved":true,"isReturning":true},
+	{"country":"cze","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":4,"draw":9,"loss":17,"for":30,"against":65,"isRemoved":true,"isReturning":true},
 	{"country":"svk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":25,"draw":5,"loss":6,"for":73,"against":28,"isChampion":true},
 	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":21,"draw":8,"loss":7,"for":84,"against":49},
 	{"country":"svk","name":"Ružomberok","id":"MFK_Ružomberok","win":15,"draw":10,"loss":11,"for":51,"against":48},

@@ -652,7 +652,7 @@
 	{"country":"cze","name":"Jablonec","id":"FK_Jablonec","win":18,"draw":7,"loss":5,"for":42,"against":24},
 	{"country":"cze","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":17,"draw":9,"loss":4,"for":47,"against":25},
 	{"country":"cze","name":"Teplice","id":"FK_Teplice","win":15,"draw":10,"loss":5,"for":44,"against":25},
-	{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":12,"draw":12,"loss":6,"for":42,"against":33},
+	{"country":"cze","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":12,"draw":12,"loss":6,"for":42,"against":33},
 	{"country":"cze","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":14,"draw":5,"loss":11,"for":49,"against":36},
 	{"country":"cze","name":"Slavia Prague","id":"sk_slavia_prague","win":11,"draw":8,"loss":11,"for":37,"against":35},
 	{"country":"cze","name":"Mladá Boleslav","id":"FK_Mladá_Boleslav","win":11,"draw":6,"loss":13,"for":47,"against":41},

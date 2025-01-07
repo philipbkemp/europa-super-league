@@ -619,7 +619,7 @@
 	{"country":"wal","name":"Port Talbot Town","id":"Port_Talbot_Town_F.C.","win":10,"draw":9,"loss":13,"for":39,"against":56,"isRemoved":true},
 	{"country":"wal","name":"Rhyl","id":"rhyl_fc","win":5,"draw":12,"loss":15,"for":36,"against":50},
 	{"country":"wal","name":"Haverfordwest County","id":"Haverfordwest_County_A.F.C.","win":5,"draw":6,"loss":21,"for":27,"against":57,"isRemoved":true,"isReturning":true},
-	{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":23,"draw":2,"loss":5,"for":57,"against":25,"isChampion":true},
+	{"country":"cze","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":23,"draw":2,"loss":5,"for":57,"against":25,"isChampion":true},
 	{"country":"cze","name":"Sparta Prague","id":"ac_sparta_prague","win":20,"draw":4,"loss":6,"for":61,"against":24},
 	{"country":"cze","name":"Slovan Liberec","id":"FC_Slovan_Liberec","win":17,"draw":7,"loss":6,"for":51,"against":35},
 	{"country":"cze","name":"Mladá Boleslav","id":"FK_Mladá_Boleslav","win":16,"draw":9,"loss":5,"for":63,"against":37},

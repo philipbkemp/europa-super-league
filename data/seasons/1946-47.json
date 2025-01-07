@@ -312,7 +312,7 @@
 	{"country":"csk","name":"ŠK Bratislava","id":"ŠK_Slovan_Bratislava","win":13,"draw":2,"loss":11,"for":78,"against":48,"isReturning":true},
 	{"country":"csk","name":"Slezská Ostrava","id":"FC_Baník_Ostrava","win":12,"draw":3,"loss":11,"for":62,"against":57,"isReturning":true},
 	{"country":"csk","name":"Jednota Košice","id":"FC_Lokomotíva_Košice","win":12,"draw":3,"loss":11,"for":63,"against":60,"isNew":true},
-	{"country":"csk","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":11,"draw":5,"loss":10,"for":67,"against":83,"isReturning":true},
+	{"country":"csk","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":11,"draw":5,"loss":10,"for":67,"against":83,"isReturning":true},
 	{"country":"csk","name":"Baťa Zlín","id":"FC_Zlín","win":9,"draw":4,"loss":13,"for":63,"against":66,"isRemoved":true,"removedNote":"Eliminated","isReturning":true},
 	{"country":"csk","name":"SK Židenice","id":"FC_Zbrojovka_Brno","win":10,"draw":2,"loss":14,"for":64,"against":78,"isRemoved":true,"isReturning":true},
 	{"country":"csk","name":"SK Olomouc ASO","id":"SK_Olomouc_ASO","win":10,"draw":2,"loss":14,"for":44,"against":57,"isRemoved":true,"isReturning":true},

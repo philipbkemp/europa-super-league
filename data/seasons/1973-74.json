@@ -485,7 +485,7 @@
 	{"country":"csk","name":"Nitra","id":"FC_Nitra","win":10,"draw":9,"loss":11,"for":38,"against":50},
 	{"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":10,"draw":8,"loss":12,"for":43,"against":42,"isReturning":true},
 	{"country":"csk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":11,"draw":6,"loss":13,"for":45,"against":46,"isReturning":true},
-	{"country":"csk","name":"Škoda Plzeň","id":"FC_Viktoria_Plzeň","win":10,"draw":8,"loss":12,"for":38,"against":46},
+	{"country":"csk","name":"Škoda Plzeň","id":"fc_viktoria_plzen","win":10,"draw":8,"loss":12,"for":38,"against":46},
 	{"country":"csk","name":"Lokomotíva Košice","id":"FC_Lokomotíva_Košice","win":10,"draw":7,"loss":13,"for":50,"against":47,"isRemoved":true},
 	{"country":"csk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":8,"draw":9,"loss":13,"for":35,"against":43,"isRemoved":true},
 	{"country":"ede","name":"1. FC Magdeburg","id":"1._FC_Magdeburg","win":16,"draw":7,"loss":3,"for":50,"against":27,"isChampion":true},

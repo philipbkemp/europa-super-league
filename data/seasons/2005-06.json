@@ -659,7 +659,7 @@
 	{"country":"cze","name":"Tescoma Zlín","id":"FC_Zlín","win":8,"draw":11,"loss":11,"for":27,"against":33},
 	{"country":"cze","name":"Brno","id":"FC_Zbrojovka_Brno","win":7,"draw":14,"loss":9,"for":35,"against":36},
 	{"country":"cze","name":"Marila Příbram","id":"FK_Příbram","win":8,"draw":10,"loss":12,"for":36,"against":36},
-	{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":7,"draw":10,"loss":13,"for":30,"against":43,"isReturning":true},
+	{"country":"cze","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":7,"draw":10,"loss":13,"for":30,"against":43,"isReturning":true},
 	{"country":"cze","name":"Vysočina Jihlava","id":"FC_Vysočina_Jihlava","win":6,"draw":11,"loss":13,"for":20,"against":36,"isRemoved":true,"isNew":true},
 	{"country":"cze","name":"Blšany","id":"FK_Chmel_Blšany","win":5,"draw":11,"loss":14,"for":22,"against":44,"isRemoved":true},
 	{"country":"svk","name":"Ružomberok","id":"MFK_Ružomberok","win":26,"draw":2,"loss":8,"for":65,"against":28,"isChampion":true},

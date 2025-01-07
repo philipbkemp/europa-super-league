@@ -339,7 +339,7 @@
 	{"country":"csk","name":"TSS Trnava","id":"FC_Spartak_Trnava","win":9,"draw":3,"loss":8,"for":38,"against":40,"isReturning":true,"isRemoved":true,"removedNote":"League suspended next season and not awarded"},
 	{"country":"csk","name":"Jednota Košice","id":"FC_Lokomotíva_Košice","win":7,"draw":6,"loss":7,"for":46,"against":39,"isRemoved":true,"removedNote":"League suspended next season and not awarded"},
 	{"country":"csk","name":"Slezská Ostrava","id":"FC_Baník_Ostrava","win":7,"draw":5,"loss":8,"for":48,"against":56,"isRemoved":true,"removedNote":"League suspended next season and not awarded"},
-	{"country":"csk","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":8,"draw":1,"loss":11,"for":48,"against":56,"isRemoved":true,"removedNote":"League suspended next season and not awarded"},
+	{"country":"csk","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":8,"draw":1,"loss":11,"for":48,"against":56,"isRemoved":true,"removedNote":"League suspended next season and not awarded"},
 	{"country":"csk","name":"MŠK Žilina","id":"MŠK_Žilina","win":6,"draw":4,"loss":10,"for":36,"against":56,"isRemoved":true,"removedNote":"League suspended next season and not awarded"},
 	{"country":"csk","name":"České Budějovice","id":"SK_Dynamo_České_Budějovice","win":4,"draw":5,"loss":11,"for":42,"against":80,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"League suspended next season and not awarded"},
 	{"country":"csk","name":"Čechie Karlín","id":"Čechie_Karlín","win":5,"draw":2,"loss":13,"for":43,"against":62,"isRemoved":true,"isReturning":true,"isRemoved":true,"removedNote":"League suspended next season and not awarded"}

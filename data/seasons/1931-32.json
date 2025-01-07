@@ -197,7 +197,7 @@
 	{"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":12,"draw":3,"loss":1,"for":54,"against":21,"isChampion":true},
 	{"country":"csk","name":"Slavia Prague","id":"sk_slavia_prague","win":10,"draw":2,"loss":4,"for":44,"against":25},
 	{"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":7,"draw":4,"loss":5,"for":41,"against":31},
-	{"country":"csk","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":5,"draw":7,"loss":4,"for":27,"against":22,"isNew":true},
+	{"country":"csk","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":5,"draw":7,"loss":4,"for":27,"against":22,"isNew":true},
 	{"country":"csk","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":6,"draw":4,"loss":6,"for":37,"against":30},
 	{"country":"csk","name":"Teplitzer FK","id":"Teplitzer_FK","win":5,"draw":5,"loss":6,"for":34,"against":40},
 	{"country":"csk","name":"SK Náchod","id":"FK_Náchod","win":5,"draw":4,"loss":7,"for":35,"against":42},

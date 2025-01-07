@@ -195,7 +195,7 @@
 	{"country":"yug","name":"FK Vojvodina","id":"FK_Vojvodina","win":3,"draw":4,"loss":13,"for":22,"against":53,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"csk","name":"Slavia Prague","id":"sk_slavia_prague","win":12,"draw":2,"loss":4,"for":60,"against":21,"isChampion":true},
 	{"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":10,"draw":4,"loss":4,"for":53,"against":31},
-	{"country":"csk","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":9,"draw":4,"loss":5,"for":37,"against":32},
+	{"country":"csk","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":9,"draw":4,"loss":5,"for":37,"against":32},
 	{"country":"csk","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":10,"draw":1,"loss":7,"for":41,"against":33},
 	{"country":"csk","name":"SK Kladno","id":"SK_Kladno","win":9,"draw":0,"loss":9,"for":41,"against":34},
 	{"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":8,"draw":2,"loss":8,"for":47,"against":45},

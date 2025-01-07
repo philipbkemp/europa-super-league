@@ -685,7 +685,7 @@
 	{"country":"cze","name":"Kaučuk Opava","id":"SFC_Opava","win":13,"draw":7,"loss":10,"for":40,"against":34,"isNew":true},
 	{"country":"cze","name":"Slovan Liberec","id":"FC_Slovan_Liberec","win":12,"draw":8,"loss":10,"for":34,"against":30},
 	{"country":"cze","name":"Boby Brno","id":"FC_Zbrojovka_Brno","win":12,"draw":7,"loss":11,"for":39,"against":42},
-	{"country":"cze","name":"Viktoria Plzeň","id":"FC_Viktoria_Plzeň","win":11,"draw":6,"loss":13,"for":33,"against":34},
+	{"country":"cze","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":11,"draw":6,"loss":13,"for":33,"against":34},
 	{"country":"cze","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":9,"draw":10,"loss":11,"for":38,"against":43},
 	{"country":"cze","name":"České Budějovice","id":"SK_Dynamo_České_Budějovice","win":10,"draw":7,"loss":13,"for":35,"against":47},
 	{"country":"cze","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":10,"draw":5,"loss":15,"for":40,"against":46},

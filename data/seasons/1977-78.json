@@ -480,7 +480,7 @@
 	{"country":"csk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":8,"draw":12,"loss":10,"for":26,"against":31},
 	{"country":"csk","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":11,"draw":6,"loss":13,"for":35,"against":41},
 	{"country":"csk","name":"Jednota Trenčín","id":"TTS_Trenčín","win":13,"draw":2,"loss":15,"for":39,"against":46},
-	{"country":"csk","name":"Škoda Plzeň","id":"FC_Viktoria_Plzeň","win":12,"draw":2,"loss":16,"for":29,"against":42},
+	{"country":"csk","name":"Škoda Plzeň","id":"fc_viktoria_plzen","win":12,"draw":2,"loss":16,"for":29,"against":42},
 	{"country":"csk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":9,"draw":8,"loss":13,"for":32,"against":46,"isReturning":true},
 	{"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":9,"draw":7,"loss":14,"for":29,"against":49},
 	{"country":"csk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":6,"draw":10,"loss":14,"for":30,"against":46},
