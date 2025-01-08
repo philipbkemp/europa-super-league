@@ -519,7 +519,7 @@
 	{"country":"hrv","name":"Istra 1961","id":"NK_Istra_1961","win":9,"draw":4,"loss":17,"for":24,"against":44},
 	{"country":"hrv","name":"Hrvatski Dragovoljac","id":"NK_Hrvatski_Dragovoljac","win":5,"draw":8,"loss":17,"for":24,"against":55,"isRemoved":true,"isReturning":true},
 	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":23,"draw":6,"loss":5,"for":67,"against":22,"isChampion":true},
-	{"country":"deu","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":20,"draw":8,"loss":6,"for":64,"against":44},
+	{"country":"deu","name":"Bayer Leverkusen","id":"bayer_04_leverkusen","win":20,"draw":8,"loss":6,"for":64,"against":44},
 	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":19,"draw":8,"loss":7,"for":81,"against":40},
 	{"country":"deu","name":"Hannover 96","id":"Hannover_96","win":19,"draw":3,"loss":12,"for":49,"against":45},
 	{"country":"deu","name":"FSV Mainz 05","id":"1._FSV_Mainz_05","win":18,"draw":4,"loss":12,"for":52,"against":39},

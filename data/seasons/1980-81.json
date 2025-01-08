@@ -549,7 +549,7 @@
 	{"country":"wde","name":"1. FC Köln","id":"1._FC_Köln","win":12,"draw":10,"loss":12,"for":54,"against":55},
 	{"country":"wde","name":"VfL Bochum","id":"VfL_Bochum","win":9,"draw":15,"loss":10,"for":53,"against":45},
 	{"country":"wde","name":"Karlsruher SC","id":"Karlsruher_SC","win":9,"draw":14,"loss":11,"for":56,"against":63,"isReturning":true},
-	{"country":"wde","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":10,"draw":10,"loss":14,"for":52,"against":53},
+	{"country":"wde","name":"Bayer Leverkusen","id":"bayer_04_leverkusen","win":10,"draw":10,"loss":14,"for":52,"against":53},
 	{"country":"wde","name":"MSV Duisburg","id":"MSV_Duisburg","win":10,"draw":9,"loss":15,"for":45,"against":58},
 	{"country":"wde","name":"Fortuna Düsseldorf","id":"Fortuna_Düsseldorf","win":10,"draw":8,"loss":16,"for":57,"against":64},
 	{"country":"wde","name":"1. FC Nürnberg","id":"1._FC_Nürnberg","win":11,"draw":6,"loss":17,"for":47,"against":57,"isReturning":true},

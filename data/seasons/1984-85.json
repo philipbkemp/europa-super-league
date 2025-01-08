@@ -553,7 +553,7 @@
 	{"country":"wde","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":14,"draw":5,"loss":15,"for":79,"against":59},
 	{"country":"wde","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":11,"draw":11,"loss":12,"for":56,"against":60},
 	{"country":"wde","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":10,"draw":12,"loss":12,"for":62,"against":67},
-	{"country":"wde","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":9,"draw":13,"loss":12,"for":52,"against":54},
+	{"country":"wde","name":"Bayer Leverkusen","id":"bayer_04_leverkusen","win":9,"draw":13,"loss":12,"for":52,"against":54},
 	{"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":13,"draw":4,"loss":17,"for":51,"against":65},
 	{"country":"wde","name":"Fortuna Düsseldorf","id":"Fortuna_Düsseldorf","win":10,"draw":9,"loss":15,"for":53,"against":66},
 	{"country":"wde","name":"Arminia Bielefeld","id":"Arminia_Bielefeld","win":8,"draw":13,"loss":13,"for":46,"against":61,"isRemoved":true},

@@ -541,7 +541,7 @@
 	{"country":"hrv","name":"Slaven Belupo","id":"NK_Slaven_Belupo","win":10,"draw":9,"loss":13,"for":39,"against":44},
 	{"country":"hrv","name":"Mladost 127","id":"HNK_Suhopolje","win":7,"draw":7,"loss":18,"for":30,"against":64,"isRemoved":true},
 	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":24,"draw":6,"loss":4,"for":76,"against":28,"isChampion":true},
-	{"country":"deu","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":17,"draw":12,"loss":5,"for":61,"against":30},
+	{"country":"deu","name":"Bayer Leverkusen","id":"bayer_04_leverkusen","win":17,"draw":12,"loss":5,"for":61,"against":30},
 	{"country":"deu","name":"Hertha BSC","id":"Hertha_BSC","win":18,"draw":8,"loss":8,"for":59,"against":32},
 	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":16,"draw":9,"loss":9,"for":48,"against":34},
 	{"country":"deu","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":17,"draw":6,"loss":11,"for":51,"against":47},

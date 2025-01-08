@@ -544,7 +544,7 @@
 	{"country":"deu","name":"SC Freiburg","id":"SC_Freiburg","win":11,"draw":9,"loss":14,"for":30,"against":41},
 	{"country":"deu","name":"1. FC Köln","id":"1._FC_Köln","win":9,"draw":13,"loss":12,"for":33,"against":35},
 	{"country":"deu","name":"Fortuna Düsseldorf","id":"Fortuna_Düsseldorf","win":8,"draw":16,"loss":10,"for":40,"against":47,"isReturning":true},
-	{"country":"deu","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":8,"draw":14,"loss":12,"for":37,"against":38},
+	{"country":"deu","name":"Bayer Leverkusen","id":"bayer_04_leverkusen","win":8,"draw":14,"loss":12,"for":37,"against":38},
 	{"country":"deu","name":"FC St. Pauli","id":"FC_St._Pauli","win":9,"draw":11,"loss":14,"for":43,"against":51,"isReturning":true},
 	{"country":"deu","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":6,"draw":18,"loss":10,"for":31,"against":37,"isRemoved":true},
 	{"country":"deu","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":7,"draw":11,"loss":16,"for":43,"against":68,"isRemoved":true},

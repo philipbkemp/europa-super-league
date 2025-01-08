@@ -521,7 +521,7 @@
 	{"country":"deu","name":"Schalke 04","id":"FC_Schalke_04","win":21,"draw":5,"loss":8,"for":53,"against":32},
 	{"country":"deu","name":"Werder Bremen","id":"SV_Werder_Bremen","win":20,"draw":6,"loss":8,"for":76,"against":40},
 	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":18,"draw":6,"loss":10,"for":55,"against":40},
-	{"country":"deu","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":15,"draw":6,"loss":13,"for":54,"against":49},
+	{"country":"deu","name":"Bayer Leverkusen","id":"bayer_04_leverkusen","win":15,"draw":6,"loss":13,"for":54,"against":49},
 	{"country":"deu","name":"1. FC Nürnberg","id":"1._FC_Nürnberg","win":11,"draw":15,"loss":8,"for":43,"against":32},
 	{"country":"deu","name":"Hamburger SV","id":"Hamburger_SV","win":10,"draw":15,"loss":9,"for":43,"against":37},
 	{"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":13,"draw":6,"loss":15,"for":49,"against":50,"isReturning":true},

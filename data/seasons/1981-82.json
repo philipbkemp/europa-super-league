@@ -557,7 +557,7 @@
 	{"country":"wde","name":"1. FC Nürnberg","id":"1._FC_Nürnberg","win":11,"draw":6,"loss":17,"for":53,"against":72},
 	{"country":"wde","name":"Karlsruher SC","id":"Karlsruher_SC","win":9,"draw":9,"loss":16,"for":50,"against":68},
 	{"country":"wde","name":"Fortuna Düsseldorf","id":"Fortuna_Düsseldorf","win":6,"draw":13,"loss":15,"for":48,"against":73},
-	{"country":"wde","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":9,"draw":7,"loss":18,"for":45,"against":72},
+	{"country":"wde","name":"Bayer Leverkusen","id":"bayer_04_leverkusen","win":9,"draw":7,"loss":18,"for":45,"against":72},
 	{"country":"wde","name":"Darmstadt 98","id":"SV_Darmstadt_98","win":5,"draw":11,"loss":18,"for":46,"against":82,"isRemoved":true,"isReturning":true},
 	{"country":"wde","name":"MSV Duisburg","id":"MSV_Duisburg","win":8,"draw":3,"loss":23,"for":40,"against":77,"isRemoved":true}
 ]

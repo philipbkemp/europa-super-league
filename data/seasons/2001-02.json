@@ -505,7 +505,7 @@
 	{"country":"hrv","name":"Marsonia","id":"NK_Marsonia","win":8,"draw":6,"loss":16,"for":37,"against":46,"isRemoved":true},
 	{"country":"hrv","name":"TŠK Topolovac","id":"NK_TŠK_Topolovac","win":4,"draw":2,"loss":24,"for":31,"against":95,"isRemoved":true,"isNew":true},
 	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":21,"draw":7,"loss":6,"for":62,"against":33,"isChampion":true},
-	{"country":"deu","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":21,"draw":6,"loss":7,"for":77,"against":38},
+	{"country":"deu","name":"Bayer Leverkusen","id":"bayer_04_leverkusen","win":21,"draw":6,"loss":7,"for":77,"against":38},
 	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":20,"draw":8,"loss":6,"for":65,"against":25},
 	{"country":"deu","name":"Hertha BSC","id":"Hertha_BSC","win":18,"draw":7,"loss":9,"for":61,"against":38},
 	{"country":"deu","name":"Schalke 04","id":"FC_Schalke_04","win":18,"draw":7,"loss":9,"for":52,"against":36},

@@ -550,7 +550,7 @@
 	{"country":"wde","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":15,"draw":2,"loss":17,"for":65,"against":61},
 	{"country":"wde","name":"VfL Bochum","id":"VfL_Bochum","win":13,"draw":6,"loss":15,"for":41,"against":44},
 	{"country":"wde","name":"Fortuna Düsseldorf","id":"Fortuna_Düsseldorf","win":13,"draw":6,"loss":15,"for":62,"against":72},
-	{"country":"wde","name":"Bayer Leverkusen","id":"Bayer_04_Leverkusen","win":12,"draw":8,"loss":14,"for":45,"against":61,"isNew":true},
+	{"country":"wde","name":"Bayer Leverkusen","id":"bayer_04_leverkusen","win":12,"draw":8,"loss":14,"for":45,"against":61,"isNew":true},
 	{"country":"wde","name":"1860 Munich","id":"TSV_1860_Munich","win":10,"draw":10,"loss":14,"for":42,"against":53,"isReturning":true},
 	{"country":"wde","name":"MSV Duisburg","id":"MSV_Duisburg","win":11,"draw":7,"loss":16,"for":43,"against":57},
 	{"country":"wde","name":"Bayer 05 Uerdingen","id":"KFC_Uerdingen_05","win":12,"draw":5,"loss":17,"for":43,"against":61,"isReturning":true},
