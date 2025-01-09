@@ -19,7 +19,7 @@
 	{"country":"eng","name":"Birmingham City","id":"Birmingham_City_F.C.","win":8,"draw":10,"loss":20,"for":28,"against":50,"isRemoved":true},
 	{"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":7,"draw":9,"loss":22,"for":31,"against":58,"isRemoved":true},
 	{"country":"eng","name":"Sunderland","id":"Sunderland_A.F.C.","win":3,"draw":6,"loss":29,"for":26,"against":69,"isRemoved":true,"isReturning":true},
-	{"country":"dnk","name":"Copenhagen","id":"F.C._Copenhagen","win":22,"draw":7,"loss":4,"for":62,"against":27,"isChampion":true},
+	{"country":"dnk","name":"Copenhagen","id":"fc_copenhagen","win":22,"draw":7,"loss":4,"for":62,"against":27,"isChampion":true},
 	{"country":"dnk","name":"Brøndby","id":"brondby_if","win":21,"draw":4,"loss":8,"for":60,"against":32},
 	{"country":"dnk","name":"OB","id":"Odense_Boldklub","win":17,"draw":7,"loss":9,"for":49,"against":28},
 	{"country":"dnk","name":"Viborg FF","id":"Viborg_FF","win":15,"draw":9,"loss":9,"for":62,"against":43},

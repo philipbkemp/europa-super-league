@@ -21,7 +21,7 @@
 	{"country":"eng","name":"Crystal Palace","id":"Crystal_Palace_F.C.","win":11,"draw":16,"loss":15,"for":48,"against":61,"isRemoved":true},
 	{"country":"eng","name":"Middlesbrough","id":"Middlesbrough_F.C.","win":11,"draw":11,"loss":20,"for":54,"against":75,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":10,"draw":10,"loss":22,"for":41,"against":62,"isRemoved":true},
-	{"country":"dnk","name":"FC København","id":"F.C._Copenhagen","win":17,"draw":11,"loss":4,"for":60,"against":37,"isChampion":true,"isNew":true},
+	{"country":"dnk","name":"FC København","id":"fc_copenhagen","win":17,"draw":11,"loss":4,"for":60,"against":37,"isChampion":true,"isNew":true},
 	{"country":"dnk","name":"Odense BK","id":"Odense_Boldklub","win":18,"draw":6,"loss":8,"for":50,"against":32},
 	{"country":"dnk","name":"Aalborg BK","id":"AaB_Fodbold","win":12,"draw":12,"loss":8,"for":48,"against":40},
 	{"country":"dnk","name":"Brøndby IF","id":"brondby_if","win":14,"draw":12,"loss":6,"for":50,"against":36},

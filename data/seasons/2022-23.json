@@ -20,7 +20,7 @@
 	{"country":"eng","name":"Leeds United","id":"Leeds_United_F.C.","win":7,"draw":10,"loss":21,"for":48,"against":78,"isRemoved":true},
 	{"country":"eng","name":"Southampton","id":"Southampton_F.C.","win":6,"draw":7,"loss":25,"for":36,"against":73,"isRemoved":true},
 	{"country":"dnk","name":"Nordsjælland","id":"FC_Nordsjælland","win":15,"draw":10,"loss":7,"for":50,"against":35},
-	{"country":"dnk","name":"Copenhagen","id":"F.C._Copenhagen","win":18,"draw":5,"loss":9,"for":61,"against":35,"isChampion":true},
+	{"country":"dnk","name":"Copenhagen","id":"fc_copenhagen","win":18,"draw":5,"loss":9,"for":61,"against":35,"isChampion":true},
 	{"country":"dnk","name":"Viborg","id":"Viborg_FF","win":14,"draw":9,"loss":9,"for":44,"against":35},
 	{"country":"dnk","name":"AGF","id":"Aarhus_Gymnastikforening","win":14,"draw":9,"loss":9,"for":42,"against":31},
 	{"country":"dnk","name":"Randers","id":"Randers_FC","win":10,"draw":11,"loss":11,"for":40,"against":47},

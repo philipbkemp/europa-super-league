@@ -19,7 +19,7 @@
 	{"country":"eng","name":"Wigan Athletic","id":"Wigan_Athletic_F.C.","win":9,"draw":9,"loss":20,"for":47,"against":73,"isRemoved":true},
 	{"country":"eng","name":"Reading","id":"Reading_F.C.","win":6,"draw":10,"loss":22,"for":43,"against":73,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_Rangers_F.C.","win":4,"draw":13,"loss":21,"for":30,"against":60,"isRemoved":true},
-	{"country":"dnk","name":"Copenhagen","id":"F.C._Copenhagen","win":18,"draw":11,"loss":4,"for":62,"against":32,"isChampion":true},
+	{"country":"dnk","name":"Copenhagen","id":"fc_copenhagen","win":18,"draw":11,"loss":4,"for":62,"against":32,"isChampion":true},
 	{"country":"dnk","name":"Nordsjælland","id":"FC_Nordsjælland","win":17,"draw":9,"loss":7,"for":60,"against":37},
 	{"country":"dnk","name":"Randers FC","id":"Randers_FC","win":15,"draw":7,"loss":11,"for":36,"against":42,"isReturning":true},
 	{"country":"dnk","name":"Esbjerg fB","id":"Esbjerg_fB","win":13,"draw":8,"loss":12,"for":38,"against":32,"isReturning":true},

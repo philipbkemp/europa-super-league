@@ -19,7 +19,7 @@
 	{"country":"eng","name":"Birmingham City","id":"Birmingham_City_F.C.","win":8,"draw":15,"loss":15,"for":37,"against":58,"isRemoved":true},
 	{"country":"eng","name":"Blackpool","id":"Blackpool_F.C.","win":10,"draw":9,"loss":19,"for":55,"against":78,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":7,"draw":12,"loss":19,"for":43,"against":70,"isRemoved":true},
-	{"country":"dnk","name":"Copenhagen","id":"F.C._Copenhagen","win":25,"draw":6,"loss":2,"for":77,"against":29,"isChampion":true},
+	{"country":"dnk","name":"Copenhagen","id":"fc_copenhagen","win":25,"draw":6,"loss":2,"for":77,"against":29,"isChampion":true},
 	{"country":"dnk","name":"OB","id":"Odense_Boldklub","win":16,"draw":7,"loss":10,"for":55,"against":41},
 	{"country":"dnk","name":"Brøndby","id":"brondby_if","win":13,"draw":12,"loss":8,"for":52,"against":39},
 	{"country":"dnk","name":"Midtjylland","id":"FC_Midtjylland","win":13,"draw":10,"loss":10,"for":50,"against":42},

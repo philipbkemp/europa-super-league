@@ -19,7 +19,7 @@
 	{"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":8,"draw":6,"loss":24,"for":42,"against":82,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"Hull City","id":"Hull_City_A.F.C.","win":6,"draw":12,"loss":20,"for":34,"against":75,"isRemoved":true},
 	{"country":"eng","name":"Portsmouth","id":"Portsmouth_F.C.","win":7,"draw":7,"loss":24,"for":34,"against":66,"isRemoved":true,"deduct":-1,"deductReason":"Entering Administration"},
-	{"country":"dnk","name":"Copenhagen","id":"F.C._Copenhagen","win":21,"draw":5,"loss":7,"for":61,"against":22,"isChampion":true},
+	{"country":"dnk","name":"Copenhagen","id":"fc_copenhagen","win":21,"draw":5,"loss":7,"for":61,"against":22,"isChampion":true},
 	{"country":"dnk","name":"OB","id":"Odense_Boldklub","win":17,"draw":8,"loss":8,"for":46,"against":34},
 	{"country":"dnk","name":"Brøndby","id":"brondby_if","win":15,"draw":7,"loss":11,"for":57,"against":50},
 	{"country":"dnk","name":"Esbjerg fB","id":"Esbjerg_fB","win":13,"draw":11,"loss":9,"for":48,"against":43},

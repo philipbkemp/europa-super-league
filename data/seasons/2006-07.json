@@ -19,7 +19,7 @@
 	{"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":10,"draw":8,"loss":20,"for":32,"against":55,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"Charlton Athletic","id":"Charlton_Athletic_F.C.","win":8,"draw":10,"loss":20,"for":34,"against":60,"isRemoved":true},
 	{"country":"eng","name":"Watford","id":"Watford_F.C.","win":5,"draw":13,"loss":20,"for":29,"against":59,"isRemoved":true,"isReturning":true},
-	{"country":"dnk","name":"Copenhagen","id":"F.C._Copenhagen","win":23,"draw":7,"loss":3,"for":60,"against":23,"isChampion":true},
+	{"country":"dnk","name":"Copenhagen","id":"fc_copenhagen","win":23,"draw":7,"loss":3,"for":60,"against":23,"isChampion":true},
 	{"country":"dnk","name":"Midtjylland","id":"FC_Midtjylland","win":18,"draw":9,"loss":6,"for":58,"against":39},
 	{"country":"dnk","name":"AaB","id":"AaB_Fodbold","win":18,"draw":7,"loss":8,"for":55,"against":35},
 	{"country":"dnk","name":"OB","id":"Odense_Boldklub","win":17,"draw":7,"loss":9,"for":45,"against":36},

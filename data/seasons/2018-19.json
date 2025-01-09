@@ -19,7 +19,7 @@
 	{"country":"eng","name":"Cardiff City","id":"Cardiff_City_F.C.","win":10,"draw":4,"loss":24,"for":34,"against":69,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"Fulham","id":"Fulham_F.C.","win":7,"draw":5,"loss":26,"for":34,"against":81,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"Huddersfield Town","id":"Huddersfield_Town_A.F.C.","win":3,"draw":7,"loss":28,"for":22,"against":76,"isRemoved":true},
-	{"country":"dnk","name":"Copenhagen","id":"F.C._Copenhagen","win":26,"draw":4,"loss":6,"for":86,"against":37,"isChampion":true},
+	{"country":"dnk","name":"Copenhagen","id":"fc_copenhagen","win":26,"draw":4,"loss":6,"for":86,"against":37,"isChampion":true},
 	{"country":"dnk","name":"Midtjylland","id":"FC_Midtjylland","win":21,"draw":8,"loss":7,"for":76,"against":43},
 	{"country":"dnk","name":"OB","id":"Odense_Boldklub","win":14,"draw":10,"loss":12,"for":48,"against":48},
 	{"country":"dnk","name":"Brøndby","id":"brondby_if","win":15,"draw":7,"loss":14,"for":60,"against":52},

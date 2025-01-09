@@ -22,7 +22,7 @@
 	{"country":"dnk","name":"Brøndby","id":"brondby_if","win":24,"draw":9,"loss":3,"for":82,"against":37},
 	{"country":"dnk","name":"Midtjylland","id":"FC_Midtjylland","win":27,"draw":4,"loss":5,"for":80,"against":39,"isChampion":true},
 	{"country":"dnk","name":"Nordsjælland","id":"FC_Nordsjælland","win":17,"draw":8,"loss":11,"for":76,"against":58},
-	{"country":"dnk","name":"Copenhagen","id":"F.C._Copenhagen","win":17,"draw":7,"loss":12,"for":65,"against":47},
+	{"country":"dnk","name":"Copenhagen","id":"fc_copenhagen","win":17,"draw":7,"loss":12,"for":65,"against":47},
 	{"country":"dnk","name":"Aalborg","id":"AaB_Fodbold","win":10,"draw":15,"loss":11,"for":38,"against":44},
 	{"country":"dnk","name":"Horsens","id":"AC_Horsens","win":8,"draw":16,"loss":12,"for":43,"against":57},
 	{"country":"dnk","name":"Hobro","id":"Hobro_IK","win":12,"draw":8,"loss":12,"for":41,"against":39,"isReturning":true},

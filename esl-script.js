@@ -65,45 +65,36 @@ const countries = {
 	"yug": "Yugoslavia"
 };
 
-clubPages = ["preston_north_end_fc","akademisk_boldklub","kjobenhavns_boldklub","linfield_fc","rangers_fc","budapesti_tc","floriana_fc","colentina_ac_bucuresti","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc","knattspyrnufelagio_vikingur","sliema_wanderers_fc","knattspyrnufelag_reykjavikur","boldklubben_frem","fa_red_boys_differdange","valur","js_estonia_tallinn","olimpia_liepaja","fc_porto","ofk_beograd","hsk_gradanski_zagreb","besiktas_jk","malmo_ff","balti_laevastik_tallinn","fk_avn","fk_liepajas_metalurgs","heart_of_midlothian_fc","iprottabandalag_akraness","fk_ask","celtic_fc","feyenoord","klaksvikar_itrottarfelag","afc_ajax","sl_benfica","havnar_boltfelag","fk_alfa","tvoroyrar_boltfelag","berliner_fc_dynamo","brondby_if","fcsb","valletta_fc","fc_norma_tallinn","skonto_fc","fc_rapid_bucuresti","fc_dynamo_kyiv","fc_flora","fc_tvmk","gnk_dinamo_zagreb","f91_dudelange","rhyl_fc","fci_levadia_tallinn","fk_partizan","hibernians_fc","olympiacos_fc","red_star_belgrade","europa_fc","lincoln_red_imps_fc","the_new_saints_fc"
+clubPages = ["preston_north_end_fc","linfield_fc","rangers_fc","budapesti_tc","floriana_fc","colentina_ac_bucuresti","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc","knattspyrnufelagio_vikingur","sliema_wanderers_fc","knattspyrnufelag_reykjavikur","fa_red_boys_differdange","valur","js_estonia_tallinn","olimpia_liepaja","fc_porto","ofk_beograd","hsk_gradanski_zagreb","besiktas_jk","malmo_ff","balti_laevastik_tallinn","fk_avn","fk_liepajas_metalurgs","heart_of_midlothian_fc","iprottabandalag_akraness","fk_ask","celtic_fc","feyenoord","klaksvikar_itrottarfelag","afc_ajax","sl_benfica","havnar_boltfelag","fk_alfa","tvoroyrar_boltfelag","berliner_fc_dynamo","fcsb","valletta_fc","fc_norma_tallinn","skonto_fc","fc_rapid_bucuresti","fc_dynamo_kyiv","fc_flora","fc_tvmk","gnk_dinamo_zagreb","f91_dudelange","rhyl_fc","fci_levadia_tallinn","fk_partizan","hibernians_fc","olympiacos_fc","red_star_belgrade","europa_fc","lincoln_red_imps_fc","the_new_saints_fc"
 
 	/*alb*/
 	,"fk_partizani_tirana","kf_tirana","fk_vllaznia_shkoder"
-
 	/*and*/
 	,"ue_sant_julia","fc_santa_coloma"
-
 	/*arm*/
 	,"shirak_sc"
-
 	/*aut*/
 	,"sk_rapid_wien","wiener_ac","fk_austria_wien"
-
 	/*aze*/
 	,"neftci_pfk"
-
 	/*bel*/
 	,"kfc_rhodienne_de_hoek","royale_union_saint_gilloise","standard_liege"
-
 	/*bgr*/
 	,"pfc_levski_sofia","pfc_ludogorets_razgrad"
-
 	/*bih*/
 	,"hsk_zrinjski_mostar"
-
 	/*che*/
 	,"bsc_young_boys"
-
 	/*cyp*/
 	,"apoel_fc","ac_omonia","apollon_limassol_fc"
-
 	/*cze*/
 	,"sk_slavia_prague","ac_sparta_prague","fc_viktoria_plzen"
-
 	/*deu*/
 	,"fc_bayern_munich","bayer_04_leverkusen"
+	/*dnk*/
+	,"brondby_if","akademisk_boldklub","kjobenhavns_boldklub","boldklubben_frem","fc_copenhagen"
 
-	];
+];
 
 multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk","hsk_zrinjski_mostar","fc_viktoria_plzen","bayer_04_leverkusen"];
 

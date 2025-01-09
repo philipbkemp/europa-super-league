@@ -20,7 +20,7 @@
 	{"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":7,"draw":12,"loss":19,"for":28,"against":53,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_Rangers_F.C.","win":8,"draw":6,"loss":24,"for":42,"against":73,"isRemoved":true,"isReturning":true},
 	{"country":"dnk","name":"Midtjylland","id":"FC_Midtjylland","win":22,"draw":5,"loss":6,"for":64,"against":34,"isChampion":true},
-	{"country":"dnk","name":"Copenhagen","id":"F.C._Copenhagen","win":20,"draw":7,"loss":6,"for":40,"against":22},
+	{"country":"dnk","name":"Copenhagen","id":"fc_copenhagen","win":20,"draw":7,"loss":6,"for":40,"against":22},
 	{"country":"dnk","name":"Brøndby","id":"brondby_if","win":16,"draw":7,"loss":10,"for":43,"against":29},
 	{"country":"dnk","name":"Randers","id":"Randers_FC","win":14,"draw":10,"loss":9,"for":39,"against":28},
 	{"country":"dnk","name":"AaB","id":"AaB_Fodbold","win":13,"draw":9,"loss":11,"for":39,"against":31},
