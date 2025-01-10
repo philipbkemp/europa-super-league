@@ -685,7 +685,7 @@
 	{"country":"srb","name":"Rad","id":"FK_Rad","win":9,"draw":13,"loss":15,"for":40,"against":47},
 	{"country":"gib","name":"Lincoln Red Imps","id":"lincoln_red_imps_fc","win":25,"draw":1,"loss":1,"for":130,"against":9,"isChampion":true},
 	{"country":"gib","name":"Europa FC","id":"europa_fc","win":21,"draw":2,"loss":4,"for":82,"against":18},
-	{"country":"gib","name":"St Joseph's","id":"St_Joseph%27s_F.C.","win":14,"draw":3,"loss":10,"for":50,"against":37},
+	{"country":"gib","name":"St Joseph's","id":"st_josephs_fc","win":14,"draw":3,"loss":10,"for":50,"against":37},
 	{"country":"gib","name":"Lions Gibraltar","id":"Lions_Gibraltar_F.C.","win":14,"draw":3,"loss":10,"for":49,"against":44},
 	{"country":"gib","name":"Lynx","id":"Lynx_F.C.","win":11,"draw":2,"loss":14,"for":37,"against":40},
 	{"country":"gib","name":"Manchester 62","id":"Manchester_62_F.C.","win":9,"draw":5,"loss":13,"for":41,"against":49},
