@@ -137,7 +137,7 @@
 	{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":7,"draw":8,"loss":18,"for":20,"against":48,"deduct":-6,"deductReason":"Non-Licensing","isRemoved":true},
 	{"country":"lux","name":"Fola Esch","id":"CS_Fola_Esch","win":12,"draw":3,"loss":2,"for":41,"against":17,"note":"League suspended due to COVID, no championship awarded. Fola were leading the championship at the time"},
 	{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":11,"draw":4,"loss":2,"for":43,"against":17},
-	{"country":"lux","name":"Differdange 03","id":"FC_Differdange_03","win":11,"draw":2,"loss":4,"for":36,"against":25},
+	{"country":"lux","name":"Differdange 03","id":"fc_differdange_03","win":11,"draw":2,"loss":4,"for":36,"against":25},
 	{"country":"lux","name":"Union Titus Pétange","id":"Union_Titus_Pétange","win":10,"draw":3,"loss":4,"for":34,"against":23},
 	{"country":"lux","name":"F91 Dudelange","id":"f91_dudelange","win":8,"draw":2,"loss":7,"for":38,"against":24},
 	{"country":"lux","name":"UNA Strassen","id":"FC_UNA_Strassen","win":7,"draw":5,"loss":5,"for":30,"against":26},

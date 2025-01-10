@@ -65,7 +65,7 @@ const countries = {
 	"yug": "Yugoslavia"
 };
 
-clubPages = ["preston_north_end_fc","linfield_fc","rangers_fc","budapesti_tc","floriana_fc","colentina_ac_bucuresti","knattspyrnufelagio_fram","us_hollerich_bonnevoie","mtk_budapest_fc","knattspyrnufelagio_vikingur","sliema_wanderers_fc","knattspyrnufelag_reykjavikur","fa_red_boys_differdange","valur","js_estonia_tallinn","olimpia_liepaja","fc_porto","ofk_beograd","hsk_gradanski_zagreb","malmo_ff","balti_laevastik_tallinn","fk_avn","fk_liepajas_metalurgs","heart_of_midlothian_fc","iprottabandalag_akraness","fk_ask","celtic_fc","feyenoord","afc_ajax","sl_benfica","fk_alfa","berliner_fc_dynamo","fcsb","valletta_fc","fc_norma_tallinn","skonto_fc","fc_rapid_bucuresti","fc_dynamo_kyiv","fc_flora","fc_tvmk","gnk_dinamo_zagreb","f91_dudelange","rhyl_fc","fci_levadia_tallinn","fk_partizan","hibernians_fc","olympiacos_fc","red_star_belgrade","the_new_saints_fc"
+clubPages = ["preston_north_end_fc","linfield_fc","rangers_fc","budapesti_tc","floriana_fc","colentina_ac_bucuresti","knattspyrnufelagio_fram","mtk_budapest_fc","knattspyrnufelagio_vikingur","sliema_wanderers_fc","knattspyrnufelag_reykjavikur","valur","js_estonia_tallinn","olimpia_liepaja","fc_porto","ofk_beograd","hsk_gradanski_zagreb","malmo_ff","balti_laevastik_tallinn","fk_avn","fk_liepajas_metalurgs","heart_of_midlothian_fc","iprottabandalag_akraness","fk_ask","celtic_fc","feyenoord","afc_ajax","sl_benfica","fk_alfa","berliner_fc_dynamo","fcsb","valletta_fc","fc_norma_tallinn","skonto_fc","fc_rapid_bucuresti","fc_dynamo_kyiv","fc_flora","fc_tvmk","gnk_dinamo_zagreb","rhyl_fc","fci_levadia_tallinn","fk_partizan","hibernians_fc","olympiacos_fc","red_star_belgrade","the_new_saints_fc"
 
 	/*alb*/
 	,"fk_partizani_tirana","kf_tirana","fk_vllaznia_shkoder"
@@ -97,6 +97,8 @@ clubPages = ["preston_north_end_fc","linfield_fc","rangers_fc","budapesti_tc","f
 	,"havnar_boltfelag","klaksvikar_itrottarfelag","tvoroyrar_boltfelag","vikingur_gota"
 	/*gib*/
 	,"europa_fc","lincoln_red_imps_fc","st_josephs_fc"
+	/*lux*/
+	,"f91_dudelange","fa_red_boys_differdange","us_hollerich_bonnevoie","fc_differdange_03"
 	/*tur*/
 	,"besiktas_jk","galatasaray_sk"
 

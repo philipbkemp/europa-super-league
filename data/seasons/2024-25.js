@@ -317,7 +317,7 @@ THEDATA = [
 	{"country":"kos","name":"Llapi","id":"KF_Llapi","win":4,"draw":5,"loss":8,"for":18,"against":23,"isCurrentSeason":true},
 	{"country":"kos","name":"Ferizaj","id":"FC_Ferizaj","win":4,"draw":5,"loss":8,"for":14,"against":23,"isReturning":true,"isCurrentSeason":true},
 	{"country":"kos","name":"Feronikeli","id":"FC_Feronikeli_74","win":2,"draw":4,"loss":11,"for":11,"against":29,"isCurrentSeason":true},
-	{"country":"lux","name":"Differdange 03","id":"FC_Differdange_03","win":13,"draw":1,"loss":1,"for":37,"against":5,"isCurrentSeason":true},
+	{"country":"lux","name":"Differdange 03","id":"fc_differdange_03","win":13,"draw":1,"loss":1,"for":37,"against":5,"isCurrentSeason":true},
 	{"country":"lux","name":"F91 Dudelange","id":"f91_dudelange","win":10,"draw":3,"loss":2,"for":37,"against":18,"isCurrentSeason":true},
 	{"country":"lux","name":"Racing Union","id":"Racing_FC_Union_Luxembourg","win":10,"draw":3,"loss":2,"for":30,"against":12,"isCurrentSeason":true},
 	{"country":"lux","name":"Swift Hesperange","id":"FC_Swift_Hesperange","win":9,"draw":3,"loss":3,"for":34,"against":14,"isCurrentSeason":true},

@@ -135,7 +135,7 @@
 	{"country":"grc","name":"Panetolikos","id":"Panetolikos_F.C.","win":9,"draw":9,"loss":15,"for":36,"against":49},
 	{"country":"grc","name":"Volos","id":"Volos_F.C.","win":8,"draw":9,"loss":16,"for":36,"against":58},
 	{"country":"grc","name":"PAS Giannina","id":"PAS_Giannina_F.C.","win":4,"draw":11,"loss":18,"for":33,"against":62,"isRemoved":true},
-	{"country":"lux","name":"Differdange 03","id":"FC_Differdange_03","win":19,"draw":9,"loss":2,"for":70,"against":23,"isChampion":true},
+	{"country":"lux","name":"Differdange 03","id":"fc_differdange_03","win":19,"draw":9,"loss":2,"for":70,"against":23,"isChampion":true},
 	{"country":"lux","name":"Swift Hesperange","id":"FC_Swift_Hesperange","win":18,"draw":7,"loss":5,"for":66,"against":35},
 	{"country":"lux","name":"F91 Dudelange","id":"f91_dudelange","win":19,"draw":4,"loss":7,"for":59,"against":36},
 	{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":16,"draw":7,"loss":7,"for":54,"against":35},

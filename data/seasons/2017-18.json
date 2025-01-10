@@ -141,7 +141,7 @@
 	{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":20,"draw":3,"loss":3,"for":72,"against":28},
 	{"country":"lux","name":"Fola Esch","id":"CS_Fola_Esch","win":14,"draw":5,"loss":7,"for":72,"against":41},
 	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":13,"draw":5,"loss":8,"for":52,"against":35},
-	{"country":"lux","name":"Differdange 03","id":"FC_Differdange_03","win":11,"draw":5,"loss":10,"for":48,"against":38},
+	{"country":"lux","name":"Differdange 03","id":"fc_differdange_03","win":11,"draw":5,"loss":10,"for":48,"against":38},
 	{"country":"lux","name":"Mondorf-les-Bains","id":"US_Mondorf-les-Bains","win":10,"draw":8,"loss":8,"for":40,"against":36},
 	{"country":"lux","name":"Racing FC","id":"Racing_FC_Union_Luxembourg","win":9,"draw":8,"loss":9,"for":41,"against":40},
 	{"country":"lux","name":"Hostert","id":"US_Hostert","win":9,"draw":7,"loss":10,"for":37,"against":46,"isReturning":true},
