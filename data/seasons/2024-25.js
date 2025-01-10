@@ -624,7 +624,7 @@ THEDATA = [
 	{"country":"fin","name":"Mariehamn","id":"IFK_Mariehamn","win":7,"draw":5,"loss":15,"for":27,"against":44},
 	{"country":"fin","name":"Lahti","id":"FC_Lahti","win":4,"draw":12,"loss":11,"for":31,"against":47,"isRemoved":true},
 	{"country":"fin","name":"EIF","id":"Ekenäs_IF","win":4,"draw":7,"loss":16,"for":24,"against":57,"isRemoved":true,"isReturning":true},
-	{"country":"fro","name":"Víkingur","id":"Víkingur_Gøta","win":24,"draw":1,"loss":2,"for":79,"against":14,"isChampion":true},
+	{"country":"fro","name":"Víkingur","id":"vikingur_gota","win":24,"draw":1,"loss":2,"for":79,"against":14,"isChampion":true},
 	{"country":"fro","name":"KÍ","id":"klaksvikar_itrottarfelag","win":22,"draw":1,"loss":4,"for":58,"against":24},
 	{"country":"fro","name":"Havnar Bóltfelag","id":"havnar_boltfelag","win":19,"draw":2,"loss":6,"for":55,"against":23},
 	{"country":"fro","name":"NSÍ Runavík","id":"NSÍ_Runavík","win":13,"draw":3,"loss":11,"for":54,"against":43,"isReturning":true},

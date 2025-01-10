@@ -439,7 +439,7 @@
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":12,"draw":10,"loss":5,"for":48,"against":35},
 	{"country":"fro","name":"NSÍ Runavík","id":"NSÍ_Runavík","win":13,"draw":6,"loss":8,"for":54,"against":47},
 	{"country":"fro","name":"EB/Streymur","id":"EB/Streymur","win":12,"draw":5,"loss":10,"for":55,"against":36},
-	{"country":"fro","name":"Víkingur Gøta","id":"Víkingur_Gøta","win":12,"draw":5,"loss":10,"for":41,"against":42},
+	{"country":"fro","name":"Víkingur Gøta","id":"vikingur_gota","win":12,"draw":5,"loss":10,"for":41,"against":42},
 	{"country":"fro","name":"AB","id":"Argja_Bóltfelag","win":9,"draw":4,"loss":14,"for":36,"against":48,"isReturning":true},
 	{"country":"fro","name":"KÍ","id":"klaksvikar_itrottarfelag","win":6,"draw":10,"loss":11,"for":54,"against":55},
 	{"country":"fro","name":"TB","id":"tvoroyrar_boltfelag","win":5,"draw":8,"loss":14,"for":27,"against":48,"isRemoved":true},
