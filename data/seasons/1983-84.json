@@ -344,7 +344,7 @@
 	{"country":"bgr","name":"Haskovo","id":"FC_Haskovo","win":7,"draw":5,"loss":18,"for":30,"against":63,"isRemoved":true},
 	{"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":18,"draw":14,"loss":2,"for":43,"against":14,"isChampion":true},
 	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":17,"draw":11,"loss":6,"for":46,"against":24},
-	{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":17,"draw":10,"loss":7,"for":54,"against":29},
+	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":17,"draw":10,"loss":7,"for":54,"against":29},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":17,"draw":10,"loss":7,"for":40,"against":21},
 	{"country":"tur","name":"MKE Ankaragücü","id":"MKE_Ankaragücü","win":9,"draw":16,"loss":9,"for":27,"against":22},
 	{"country":"tur","name":"Sakaryaspor","id":"Sakaryaspor","win":9,"draw":16,"loss":9,"for":33,"against":34},

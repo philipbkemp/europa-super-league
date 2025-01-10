@@ -338,7 +338,7 @@
 	{"country":"bgr","name":"Akademik Sofia","id":"PFC_Akademik_Sofia","win":6,"draw":11,"loss":13,"for":33,"against":41},
 	{"country":"bgr","name":"Chernomorets Burgas","id":"FC_Chernomorets_Burgas","win":6,"draw":7,"loss":17,"for":33,"against":66},
 	{"country":"bgr","name":"Maritsa Plovdiv","id":"FC_Maritsa_Plovdiv","win":4,"draw":9,"loss":17,"for":28,"against":55,"isRemoved":true},
-	{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":17,"draw":8,"loss":5,"for":51,"against":18,"isChampion":true},
+	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":17,"draw":8,"loss":5,"for":51,"against":18,"isChampion":true},
 	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":14,"draw":13,"loss":3,"for":43,"against":23},
 	{"country":"tur","name":"Göztepe A.Ş.","id":"Göztepe_S.K.","win":14,"draw":9,"loss":7,"for":38,"against":21},
 	{"country":"tur","name":"Eskişehirspor","id":"Eskişehirspor","win":10,"draw":14,"loss":6,"for":29,"against":24},

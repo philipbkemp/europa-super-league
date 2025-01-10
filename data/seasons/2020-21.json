@@ -302,7 +302,7 @@
 	{"country":"bgr","name":"Etar","id":"SFC_Etar_Veliko_Tarnovo","win":6,"draw":10,"loss":16,"for":25,"against":53,"isRemoved":true},
 	{"country":"bgr","name":"Montana","id":"FC_Montana","win":6,"draw":10,"loss":16,"for":26,"against":52,"isRemoved":true,"isReturning":true},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":26,"draw":6,"loss":8,"for":89,"against":44,"isChampion":true},
-	{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":26,"draw":6,"loss":8,"for":80,"against":36},
+	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":26,"draw":6,"loss":8,"for":80,"against":36},
 	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":25,"draw":7,"loss":8,"for":72,"against":41},
 	{"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":19,"draw":14,"loss":7,"for":50,"against":37},
 	{"country":"tur","name":"Sivasspor","id":"Sivasspor","win":16,"draw":17,"loss":7,"for":54,"against":43},

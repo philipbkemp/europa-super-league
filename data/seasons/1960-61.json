@@ -300,7 +300,7 @@
 	{"country":"bgr","name":"Spartak Sofia","id":"FC_Spartak_Sofia","win":8,"draw":6,"loss":12,"for":39,"against":35,"isRemoved":true},
 	{"country":"bgr","name":"Septemvri Sofia","id":"PFC_Septemvri_Sofia","win":5,"draw":7,"loss":14,"for":33,"against":56,"isRemoved":true},
 	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":26,"draw":9,"loss":3,"for":81,"against":29,"isChampion":true},
-	{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":27,"draw":6,"loss":5,"for":75,"against":19},
+	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":27,"draw":6,"loss":5,"for":75,"against":19},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":22,"draw":11,"loss":5,"for":61,"against":26},
 	{"country":"tur","name":"Beykoz","id":"Beykoz_S.K.D.","win":17,"draw":15,"loss":6,"for":51,"against":34},
 	{"country":"tur","name":"Gençlerbirliği","id":"Gençlerbirliği_S.K.","win":16,"draw":13,"loss":9,"for":54,"against":39},

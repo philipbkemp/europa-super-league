@@ -318,7 +318,7 @@
 	{"country":"bgr","name":"Belasitsa Petrich","id":"OFC_Belasitsa_Petrich","win":9,"draw":6,"loss":15,"for":28,"against":57,"isRemoved":true,"isReturning":true},
 	{"country":"bgr","name":"Pirin Blagoevgrad","id":"OFC_Pirin_Blagoevgrad","win":10,"draw":3,"loss":17,"for":31,"against":50,"isRemoved":true},
 	{"country":"bgr","name":"Shumen","id":"FC_Volov_Shumen","win":3,"draw":2,"loss":25,"for":13,"against":68,"isRemoved":true},
-	{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":24,"draw":7,"loss":3,"for":77,"against":23,"isChampion":true},
+	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":24,"draw":7,"loss":3,"for":77,"against":23,"isChampion":true},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":23,"draw":6,"loss":5,"for":74,"against":27},
 	{"country":"tur","name":"Gaziantepspor","id":"Gaziantepspor","win":17,"draw":11,"loss":6,"for":49,"against":27},
 	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":17,"draw":10,"loss":7,"for":59,"against":44},

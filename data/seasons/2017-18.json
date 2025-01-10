@@ -297,7 +297,7 @@
 	{"country":"bgr","name":"Dunav Ruse","id":"FC_Dunav_Ruse","win":8,"draw":7,"loss":17,"for":24,"against":44},
 	{"country":"bgr","name":"Etar","id":"SFC_Etar_Veliko_Tarnovo","win":6,"draw":10,"loss":16,"for":31,"against":52,"isNew":true},
 	{"country":"bgr","name":"Vitosha Bistritsa","id":"FC_Vitosha_Bistritsa","win":1,"draw":10,"loss":21,"for":17,"against":60,"isNew":true},
-	{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":24,"draw":3,"loss":7,"for":75,"against":33,"isChampion":true},
+	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":24,"draw":3,"loss":7,"for":75,"against":33,"isChampion":true},
 	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":21,"draw":9,"loss":4,"for":78,"against":36},
 	{"country":"tur","name":"İstanbul Başakşehir","id":"İstanbul_Başakşehir_F.K.","win":22,"draw":6,"loss":6,"for":62,"against":34},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":21,"draw":8,"loss":5,"for":69,"against":30},

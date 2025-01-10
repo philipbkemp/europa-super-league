@@ -332,7 +332,7 @@
 	{"country":"bgr","name":"Marek Dupnitsa","id":"FC_Marek_Dupnitsa","win":9,"draw":7,"loss":14,"for":34,"against":46,"isReturning":true},
 	{"country":"bgr","name":"Dobrudzha Dobrich","id":"FC_Dobrudzha_Dobrich","win":8,"draw":8,"loss":14,"for":32,"against":44,"isRemoved":true},
 	{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":7,"draw":2,"loss":21,"for":23,"against":64,"isRemoved":true},
-	{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":19,"draw":8,"loss":3,"for":49,"against":14,"isChampion":true},
+	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":19,"draw":8,"loss":3,"for":49,"against":14,"isChampion":true},
 	{"country":"tur","name":"Eskişehirspor","id":"Eskişehirspor","win":17,"draw":9,"loss":4,"for":39,"against":18},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":14,"draw":10,"loss":6,"for":30,"against":20},
 	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":13,"draw":9,"loss":8,"for":34,"against":25},

@@ -93,7 +93,7 @@
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":4,"draw":2,"loss":8,"for":25,"against":32},
 	{"country":"irl","name":"St James's Gate","id":"St_James%27s_Gate_F.C.","win":1,"draw":1,"loss":12,"for":12,"against":47,"isRemoved":true},
 	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":11,"draw":2,"loss":1,"for":30,"against":6,"isChampion":true,"isReturning":true},
-	{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":11,"draw":1,"loss":2,"for":32,"against":7,"isReturning":true,"isRemoved":true},
+	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":11,"draw":1,"loss":2,"for":32,"against":7,"isReturning":true,"isRemoved":true},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":9,"draw":0,"loss":5,"for":47,"against":20,"isReturning":true},
 	{"country":"tur","name":"Ankara Demirspor","id":"Ankara_Demirspor","win":7,"draw":2,"loss":5,"for":29,"against":29,"isReturning":true,"isRemoved":true},
 	{"country":"tur","name":"Vefa","id":"Vefa_S.K.","win":5,"draw":1,"loss":8,"for":23,"against":35,"isReturning":true},

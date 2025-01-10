@@ -285,7 +285,7 @@
 	{"country":"bgr","name":"Spartak Varna","id":"FC_Spartak_Varna","win":10,"draw":5,"loss":15,"for":37,"against":53},
 	{"country":"bgr","name":"Dobrudzha Dobrich","id":"FC_Dobrudzha_Dobrich","win":7,"draw":9,"loss":14,"for":25,"against":38,"isRemoved":true,"isNew":true},
 	{"country":"bgr","name":"Himik Dimitrovgrad","id":"Himik_Dimitrovgrad","win":7,"draw":6,"loss":17,"for":36,"against":60,"isRemoved":true,"isNew":true},
-	{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":14,"draw":7,"loss":1,"for":54,"against":14,"isChampion":true},
+	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":14,"draw":7,"loss":1,"for":54,"against":14,"isChampion":true},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":14,"draw":6,"loss":2,"for":45,"against":12},
 	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":11,"draw":6,"loss":5,"for":33,"against":19},
 	{"country":"tur","name":"Altay","id":"Altay_S.K.","win":8,"draw":8,"loss":6,"for":23,"against":25},

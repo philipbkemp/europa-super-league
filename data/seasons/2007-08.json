@@ -305,7 +305,7 @@
 	{"country":"bgr","name":"Beroe","id":"PFC_Beroe_Stara_Zagora","win":6,"draw":8,"loss":16,"for":23,"against":39,"isRemoved":true},
 	{"country":"bgr","name":"Vidima-Rakovski","id":"FC_Sevlievo","win":4,"draw":6,"loss":20,"for":17,"against":61,"isRemoved":true,"isNew":true},
 	{"country":"bgr","name":"Marek","id":"FC_Marek_Dupnitsa","win":5,"draw":3,"loss":22,"for":16,"against":66,"isRemoved":true},
-	{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":24,"draw":7,"loss":3,"for":64,"against":23,"isChampion":true},
+	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":24,"draw":7,"loss":3,"for":64,"against":23,"isChampion":true},
 	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":22,"draw":7,"loss":5,"for":72,"against":37},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":23,"draw":4,"loss":7,"for":58,"against":32},
 	{"country":"tur","name":"Sivasspor","id":"Sivasspor","win":23,"draw":4,"loss":7,"for":57,"against":29},

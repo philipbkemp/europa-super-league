@@ -297,7 +297,7 @@
 	{"country":"bgr","name":"Septemvri Sofia","id":"PFC_Septemvri_Sofia","win":9,"draw":6,"loss":17,"for":32,"against":58,"isRemoved":true},
 	{"country":"bgr","name":"Dunav Ruse","id":"FC_Dunav_Ruse","win":7,"draw":8,"loss":17,"for":36,"against":55},
 	{"country":"bgr","name":"Vereya","id":"FC_Vereya","win":0,"draw":6,"loss":26,"for":13,"against":81,"isRemoved":true,"removedNote":"Disqualified due to match fixing"},
-	{"country":"tur","name":"Galatasaray","id":"Galatasaray_S.K._(football)","win":20,"draw":9,"loss":5,"for":72,"against":36,"isChampion":true},
+	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":20,"draw":9,"loss":5,"for":72,"against":36,"isChampion":true},
 	{"country":"tur","name":"İstanbul Başakşehir","id":"İstanbul_Başakşehir_F.K.","win":19,"draw":10,"loss":5,"for":49,"against":22},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":19,"draw":8,"loss":7,"for":72,"against":46},
 	{"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":18,"draw":9,"loss":7,"for":64,"against":46},
