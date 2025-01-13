@@ -467,7 +467,7 @@
 	{"country":"arm","name":"Banants","id":"FC_Urartu","win":7,"draw":12,"loss":9,"for":36,"against":34},
 	{"country":"arm","name":"Mika","id":"FC_Mika","win":9,"draw":5,"loss":14,"for":30,"against":32,"isRemoved":true},
 	{"country":"arm","name":"Ulisses","id":"Ulisses_FC","win":0,"draw":2,"loss":26,"for":8,"against":76,"isRemoved":true,"removedNote":"Expelled due to financial issues"},
-	{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":26,"draw":6,"loss":4,"for":66,"against":21,"isChampion":true},
+	{"country":"aze","name":"Qarabağ","id":"qarabag_fk","win":26,"draw":6,"loss":4,"for":66,"against":21,"isChampion":true},
 	{"country":"aze","name":"Zira","id":"Zira_FK","win":17,"draw":11,"loss":8,"for":42,"against":31,"isNew":true},
 	{"country":"aze","name":"Gabala","id":"Gabala_SC","win":16,"draw":11,"loss":9,"for":44,"against":28},
 	{"country":"aze","name":"Inter Baku","id":"Shamakhi_FK","win":16,"draw":11,"loss":9,"for":39,"against":28},

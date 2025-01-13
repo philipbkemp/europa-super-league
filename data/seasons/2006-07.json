@@ -484,7 +484,7 @@
 	{"country":"aze","name":"FK MKT-Araz","id":"Mil-Muğan_FK","win":12,"draw":5,"loss":7,"for":23,"against":18,"isRemoved":true},
 	{"country":"aze","name":"Olimpik Baku","id":"Shuvalan_FK","win":11,"draw":8,"loss":5,"for":28,"against":17},
 	{"country":"aze","name":"Karvan","id":"Karvan_FK","win":10,"draw":5,"loss":9,"for":36,"against":30},
-	{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":6,"draw":9,"loss":9,"for":20,"against":27},
+	{"country":"aze","name":"Qarabağ","id":"qarabag_fk","win":6,"draw":9,"loss":9,"for":20,"against":27},
 	{"country":"aze","name":"Simurq","id":"Simurq_PIK","win":6,"draw":7,"loss":11,"for":27,"against":33,"isNew":true},
 	{"country":"aze","name":"Turan","id":"Turan_Tovuz","win":5,"draw":5,"loss":14,"for":24,"against":38},
 	{"country":"aze","name":"Gabala","id":"Gabala_SC","win":4,"draw":4,"loss":16,"for":17,"against":47,"isNew":true},

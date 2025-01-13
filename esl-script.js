@@ -76,7 +76,7 @@ clubPages = ["preston_north_end_fc","linfield_fc","rangers_fc","budapesti_tc","f
 	/*aut*/
 	,"sk_rapid_wien","wiener_ac","fk_austria_wien"
 	/*aze*/
-	,"neftci_pfk"
+	,"neftci_pfk","qarabag_fk"
 	/*bel*/
 	,"kfc_rhodienne_de_hoek","royale_union_saint_gilloise","standard_liege"
 	/*bgr*/

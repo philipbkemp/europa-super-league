@@ -508,7 +508,7 @@
 	{"country":"arm","name":"Malatia-Kilikia Yerevan","id":"FC_Malatia","win":2,"draw":5,"loss":21,"for":25,"against":92,"isRemoved":true,"isNew":true},
 	{"country":"arm","name":"Syunik Kapan","id":"FC_Lernagorts_Kapan","win":null,"draw":null,"loss":null,"for":null,"against":null,"isNew":true,"note":"Withdrew at start of season","isRemoved":true},
 	{"country":"aze","name":"Turan Tovuz","id":"Turan_Tovuz","win":23,"draw":4,"loss":3,"for":74,"against":18,"isChampion":true,"isNew":true},
-	{"country":"aze","name":"Karabakh Agdam","id":"Qarabağ_FK","win":21,"draw":7,"loss":2,"for":52,"against":12,"isNew":true},
+	{"country":"aze","name":"Karabakh Agdam","id":"qarabag_fk","win":21,"draw":7,"loss":2,"for":52,"against":12,"isNew":true},
 	{"country":"aze","name":"Kapaz","id":"Kapaz_PFK","win":20,"draw":7,"loss":3,"for":74,"against":47,"isReturning":true},
 	{"country":"aze","name":"Khazar Sumgayit","id":"FK_Khazar_Sumgayit","win":13,"draw":9,"loss":8,"for":44,"against":28,"isNew":true},
 	{"country":"aze","name":"Kur-Nur","id":"Energetik_FK","win":13,"draw":7,"loss":10,"for":36,"against":33,"isNew":true},

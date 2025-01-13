@@ -487,7 +487,7 @@
 	{"country":"aze","name":"Bakı Fahlasi Maştağa","id":"ANS_Pivani_Bakı_FK","win":10,"draw":2,"loss":10,"for":24,"against":28,"isRemoved":true},
 	{"country":"aze","name":"Dinamo Baki","id":"FC_Baku","win":9,"draw":4,"loss":9,"for":21,"against":17},
 	{"country":"aze","name":"Shafa Baku","id":"Shafa_Baku_FK","win":8,"draw":3,"loss":11,"for":22,"against":32},
-	{"country":"aze","name":"Karabakh Agdam","id":"Qarabağ_FK","win":5,"draw":10,"loss":7,"for":21,"against":25},
+	{"country":"aze","name":"Karabakh Agdam","id":"qarabag_fk","win":5,"draw":10,"loss":7,"for":21,"against":25},
 	{"country":"aze","name":"Kimyachi Sumgayit","id":"FK_Khazar_Sumgayit","win":7,"draw":1,"loss":14,"for":23,"against":34,"isRemoved":true},
 	{"country":"aze","name":"Turan Tovuz","id":"Turan_Tovuz","win":5,"draw":5,"loss":12,"for":17,"against":36},
 	{"country":"aze","name":"Khazar University","id":"Shamakhi_FK","win":5,"draw":3,"loss":14,"for":19,"against":41,"isNew":true},

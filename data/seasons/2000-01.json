@@ -489,7 +489,7 @@
 	{"country":"aze","name":"Dinamo Bakili Baki","id":"FC_Baku","win":9,"draw":2,"loss":9,"for":30,"against":29},
 	{"country":"aze","name":"Hazar Universiteti Baki","id":"Shamakhi_FK","win":9,"draw":2,"loss":9,"for":26,"against":38},
 	{"country":"aze","name":"FK Gäncä","id":"Kapaz_PFK","win":8,"draw":1,"loss":11,"for":34,"against":29},
-	{"country":"aze","name":"Karabakh Agdam","id":"Qarabağ_FK","win":5,"draw":4,"loss":11,"for":19,"against":34},
+	{"country":"aze","name":"Karabakh Agdam","id":"qarabag_fk","win":5,"draw":4,"loss":11,"for":19,"against":34},
 	{"country":"aze","name":"Araz Nahchivan","id":"Araz-Naxçıvan_PFK","win":3,"draw":3,"loss":14,"for":14,"against":55,"isNew":true},
 	{"country":"aze","name":"Shahdagh Guba","id":"Shahdag_Qusar_FK","win":0,"draw":1,"loss":19,"for":5,"against":63,"isReturning":true},
 	{"country":"blr","name":"Slavia Mozyr","id":"FC_Slavia_Mozyr","win":23,"draw":5,"loss":2,"for":78,"against":25,"isChampion":true},

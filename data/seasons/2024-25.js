@@ -42,7 +42,7 @@ THEDATA = [
 	{"country":"aut","name":"Austria Klagenfurt","id":"SK_Austria_Klagenfurt_(2007)","win":4,"draw":3,"loss":9,"for":14,"against":35,"isCurrentSeason":true},
 	{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":2,"draw":6,"loss":8,"for":21,"against":33,"isReturning":true,"isCurrentSeason":true},
 	{"country":"aut","name":"Rheindorf Altach","id":"SC_Rheindorf_Altach","win":2,"draw":4,"loss":10,"for":13,"against":24,"isCurrentSeason":true},
-	{"country":"aze","name":"Qarabağ","id":"Qarabağ_FK","win":15,"draw":2,"loss":1,"for":47,"against":7,"isCurrentSeason":true},
+	{"country":"aze","name":"Qarabağ","id":"qarabag_fk","win":15,"draw":2,"loss":1,"for":47,"against":7,"isCurrentSeason":true},
 	{"country":"aze","name":"Araz-Naxçıvan","id":"Araz-Naxçıvan_PFK","win":12,"draw":3,"loss":3,"for":21,"against":13,"isCurrentSeason":true},
 	{"country":"aze","name":"Turan Tovuz","id":"Turan_Tovuz","win":8,"draw":8,"loss":2,"for":24,"against":15,"isCurrentSeason":true},
 	{"country":"aze","name":"Zira","id":"Zira_FK","win":9,"draw":3,"loss":6,"for":28,"against":16,"isCurrentSeason":true},
