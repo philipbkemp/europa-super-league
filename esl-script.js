@@ -1064,7 +1064,7 @@ function calcPromotionRelegationLimits() {
 
 		if ( document.querySelectorAll("#league_"+leagues[i]+" .removed").length === 0 ) {
 			if ( document.querySelectorAll("#league_"+leagues[i]+" tr").length >= (90-1) ) {
-				document.querySelectorAll("#league_"+leagues[i]+" tr")[90-1].classList.add("relegation-limit");
+				document.querySelectorAll("#league_"+leagues[i]+" tr")[90].classList.add("relegation-limit");
 			}
 		} else {
 			if ( document.querySelectorAll("#league_"+leagues[i]+" tr:not(.removed)").length >= 90 ) {
