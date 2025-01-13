@@ -40,7 +40,8 @@ switch ( page ) {
 	case "Ligue_1": 															country = "fra";		tbl = "#League_table";			break;
 	case "Luxembourg_National_Division": 						country = "lux"; 	tbl = "#League_table"; 			break;
 	case "Macedonian_First_Football_League": 					country = "mkd";	tbl = "#League_table";			break;
-	case "Maltese_Premier_League": 								country = "mlt";		tbl = "#First_phase";				console.warn("Season will break into playoffs");	break;
+	//case "Maltese_Premier_League": 								country = "mlt";		tbl = "#First_phase";				console.warn("Season will break into playoffs");	break;
+	case "Maltese_Premier_League": 								country = "mlt";		tbl = "#Top_Six, #Play-Out";	console.warn("Season will break into closing round"); break;
 	case "Meistriliiga": 														country = "est";		tbl = "#League_table";			break;
 	case "Moldovan_Super_Liga": 										country = "mda";	tbl = "#Phase_I";					console.warn("Season will break into playoffs");	break;
 	case "Montenegrin_First_League": 								country = "mne";	tbl = "#League_table";			break;
@@ -79,6 +80,9 @@ if ( country === "" || tbl === "" || $tbl.length === 0 ) {
 					.replace(" (Q)","")
 					.replace(" (R)","")
 					.replace(" (O)","")
+					.replace(" (W)","")
+					.replace(" (V)","")
+					.replace("[a]","")
 					;
 				team = {
 					country: country,
