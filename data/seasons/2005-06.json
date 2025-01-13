@@ -43,7 +43,7 @@
 	{"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":8,"draw":9,"loss":21,"for":35,"against":64,"isReturning":true},
 	{"country":"sco","name":"Dunfermline Athletic","id":"Dunfermline_Athletic_F.C.","win":8,"draw":9,"loss":21,"for":33,"against":68},
 	{"country":"sco","name":"Livingston","id":"Livingston_F.C.","win":4,"draw":6,"loss":28,"for":25,"against":79,"isRemoved":true},
-	{"country":"nld","name":"PSV","id":"PSV_Eindhoven","win":26,"draw":6,"loss":2,"for":71,"against":23,"isChampion":true},
+	{"country":"nld","name":"PSV","id":"psv_eindhoven","win":26,"draw":6,"loss":2,"for":71,"against":23,"isChampion":true},
 	{"country":"nld","name":"AZ","id":"AZ_Alkmaar","win":23,"draw":5,"loss":6,"for":78,"against":32},
 	{"country":"nld","name":"Feyenoord","id":"feyenoord","win":21,"draw":8,"loss":5,"for":79,"against":34},
 	{"country":"nld","name":"Ajax","id":"afc_ajax","win":18,"draw":6,"loss":10,"for":66,"against":41},

@@ -45,7 +45,7 @@
 	{"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":6,"draw":13,"loss":19,"for":31,"against":57,"isRemoved":true},
 	{"country":"nld","name":"Twente","id":"FC_Twente","win":27,"draw":5,"loss":2,"for":63,"against":23,"isChampion":true},
 	{"country":"nld","name":"Ajax","id":"afc_ajax","win":27,"draw":4,"loss":3,"for":106,"against":20},
-	{"country":"nld","name":"PSV","id":"PSV_Eindhoven","win":23,"draw":9,"loss":2,"for":72,"against":29},
+	{"country":"nld","name":"PSV","id":"psv_eindhoven","win":23,"draw":9,"loss":2,"for":72,"against":29},
 	{"country":"nld","name":"Feyenoord","id":"feyenoord","win":17,"draw":12,"loss":5,"for":54,"against":31},
 	{"country":"nld","name":"AZ","id":"AZ_Alkmaar","win":19,"draw":5,"loss":10,"for":64,"against":34},
 	{"country":"nld","name":"Heracles","id":"Heracles_Almelo","win":17,"draw":5,"loss":12,"for":54,"against":49},

@@ -52,7 +52,7 @@
 	{"country":"sco","name":"Queen of the South","id":"Queen_of_the_South_F.C.","win":5,"draw":6,"loss":23,"for":40,"against":92,"isRemoved":true},
 	{"country":"sco","name":"East Stirlingshire","id":"East_Stirlingshire_F.C.","win":5,"draw":2,"loss":27,"for":37,"against":91,"isRemoved":true,"isReturning":true},
 	{"country":"nld","name":"DWS","id":"AFC_DWS","win":19,"draw":5,"loss":6,"for":58,"against":28,"isChampion":true,"isReturning":true},
-	{"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":18,"draw":5,"loss":7,"for":66,"against":42},
+	{"country":"nld","name":"PSV Eindhoven","id":"psv_eindhoven","win":18,"draw":5,"loss":7,"for":66,"against":42},
 	{"country":"nld","name":"SC Enschede","id":"Sportclub_Enschede","win":14,"draw":11,"loss":5,"for":63,"against":45},
 	{"country":"nld","name":"Feijenoord","id":"feyenoord","win":16,"draw":5,"loss":9,"for":77,"against":33},
 	{"country":"nld","name":"AFC Ajax","id":"afc_ajax","win":13,"draw":8,"loss":9,"for":63,"against":40},

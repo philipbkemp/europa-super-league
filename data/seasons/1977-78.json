@@ -47,7 +47,7 @@
 	{"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":11,"draw":8,"loss":17,"for":52,"against":63,"isReturning":true},
 	{"country":"sco","name":"Ayr United","id":"Ayr_United_F.C.","win":9,"draw":6,"loss":21,"for":36,"against":68,"isRemoved":true},
 	{"country":"sco","name":"Clydebank","id":"Clydebank_F.C._(1965)","win":6,"draw":7,"loss":23,"for":23,"against":64,"isRemoved":true,"isNew":true},
-	{"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":21,"draw":11,"loss":2,"for":74,"against":21,"isChampion":true},
+	{"country":"nld","name":"PSV Eindhoven","id":"psv_eindhoven","win":21,"draw":11,"loss":2,"for":74,"against":21,"isChampion":true},
 	{"country":"nld","name":"AFC Ajax","id":"afc_ajax","win":20,"draw":9,"loss":5,"for":85,"against":36},
 	{"country":"nld","name":"AZ '67","id":"AZ_Alkmaar","win":19,"draw":9,"loss":6,"for":75,"against":30},
 	{"country":"nld","name":"FC Twente","id":"FC_Twente","win":18,"draw":9,"loss":7,"for":61,"against":32},

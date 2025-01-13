@@ -43,7 +43,7 @@
 	{"country":"sco","name":"St Johnstone","id":"St_Johnstone_F.C.","win":9,"draw":13,"loss":16,"for":40,"against":56},
 	{"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":9,"draw":8,"loss":21,"for":38,"against":63},
 	{"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":8,"draw":6,"loss":24,"for":32,"against":72,"isRemoved":true,"isReturning":true},
-	{"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":25,"draw":8,"loss":1,"for":73,"against":23,"isChampion":true},
+	{"country":"nld","name":"PSV Eindhoven","id":"psv_eindhoven","win":25,"draw":8,"loss":1,"for":73,"against":23,"isChampion":true},
 	{"country":"nld","name":"Feyenoord","id":"feyenoord","win":21,"draw":3,"loss":10,"for":67,"against":37},
 	{"country":"nld","name":"Ajax","id":"afc_ajax","win":18,"draw":7,"loss":9,"for":85,"against":43},
 	{"country":"nld","name":"Roda JC Kerkrade","id":"Roda_JC_Kerkrade","win":17,"draw":8,"loss":9,"for":59,"against":41},

@@ -47,7 +47,7 @@
 	{"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":12,"draw":8,"loss":16,"for":46,"against":48},
 	{"country":"sco","name":"Dundee","id":"Dundee_F.C.","win":11,"draw":10,"loss":15,"for":49,"against":62,"isRemoved":true},
 	{"country":"sco","name":"St Johnstone","id":"St_Johnstone_F.C.","win":3,"draw":5,"loss":28,"for":29,"against":79,"isRemoved":true},
-	{"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":24,"draw":5,"loss":5,"for":89,"against":27,"isChampion":true},
+	{"country":"nld","name":"PSV Eindhoven","id":"psv_eindhoven","win":24,"draw":5,"loss":5,"for":89,"against":27,"isChampion":true},
 	{"country":"nld","name":"Feyenoord","id":"feyenoord","win":23,"draw":6,"loss":5,"for":88,"against":40},
 	{"country":"nld","name":"AFC Ajax","id":"afc_ajax","win":21,"draw":8,"loss":5,"for":74,"against":38},
 	{"country":"nld","name":"FC Twente","id":"FC_Twente","win":19,"draw":8,"loss":7,"for":64,"against":32},

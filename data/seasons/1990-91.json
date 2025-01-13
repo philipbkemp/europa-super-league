@@ -39,7 +39,7 @@
 	{"country":"sco","name":"Dunfermline Athletic","id":"Dunfermline_Athletic_F.C.","win":8,"draw":11,"loss":17,"for":38,"against":61},
 	{"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":6,"draw":13,"loss":17,"for":24,"against":51},
 	{"country":"sco","name":"St Mirren","id":"St_Mirren_F.C.","win":5,"draw":9,"loss":22,"for":28,"against":59},
-	{"country":"nld","name":"PSV","id":"PSV_Eindhoven","win":23,"draw":7,"loss":4,"for":84,"against":28,"isChampion":true},
+	{"country":"nld","name":"PSV","id":"psv_eindhoven","win":23,"draw":7,"loss":4,"for":84,"against":28,"isChampion":true},
 	{"country":"nld","name":"Ajax","id":"afc_ajax","win":22,"draw":9,"loss":3,"for":75,"against":21},
 	{"country":"nld","name":"FC Groningen","id":"FC_Groningen","win":18,"draw":10,"loss":6,"for":62,"against":38},
 	{"country":"nld","name":"FC Utrecht","id":"FC_Utrecht","win":16,"draw":10,"loss":8,"for":42,"against":29},

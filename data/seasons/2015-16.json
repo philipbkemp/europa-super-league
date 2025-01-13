@@ -43,7 +43,7 @@
 	{"country":"sco","name":"Hamilton Academical","id":"Hamilton_Academical_F.C.","win":11,"draw":10,"loss":17,"for":42,"against":63},
 	{"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":9,"draw":9,"loss":20,"for":41,"against":64},
 	{"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":8,"draw":7,"loss":23,"for":45,"against":70,"isRemoved":true,"deduct":-3,"deductReason":"Fielding an ineligible player"},
-	{"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":26,"draw":6,"loss":2,"for":88,"against":32,"isChampion":true},
+	{"country":"nld","name":"PSV Eindhoven","id":"psv_eindhoven","win":26,"draw":6,"loss":2,"for":88,"against":32,"isChampion":true},
 	{"country":"nld","name":"Ajax","id":"afc_ajax","win":25,"draw":7,"loss":2,"for":81,"against":21},
 	{"country":"nld","name":"Feyenoord","id":"feyenoord","win":19,"draw":6,"loss":9,"for":62,"against":40},
 	{"country":"nld","name":"AZ","id":"AZ_Alkmaar","win":18,"draw":5,"loss":11,"for":70,"against":53},

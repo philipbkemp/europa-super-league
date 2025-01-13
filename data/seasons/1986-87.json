@@ -47,7 +47,7 @@
 	{"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":8,"draw":10,"loss":26,"for":31,"against":70,"isReturning":true},
 	{"country":"sco","name":"Clydebank","id":"Clydebank_F.C._(1965)","win":6,"draw":12,"loss":26,"for":35,"against":93,"isRemoved":true},
 	{"country":"sco","name":"Hamilton Academical","id":"Hamilton_Academical_F.C.","win":6,"draw":9,"loss":29,"for":39,"against":93,"isRemoved":true,"isReturning":true},
-	{"country":"nld","name":"PSV","id":"PSV_Eindhoven","win":27,"draw":5,"loss":2,"for":99,"against":21,"isChampion":true},
+	{"country":"nld","name":"PSV","id":"psv_eindhoven","win":27,"draw":5,"loss":2,"for":99,"against":21,"isChampion":true},
 	{"country":"nld","name":"Ajax","id":"afc_ajax","win":25,"draw":3,"loss":6,"for":92,"against":30},
 	{"country":"nld","name":"Feyenoord","id":"feyenoord","win":15,"draw":12,"loss":7,"for":73,"against":43},
 	{"country":"nld","name":"Roda JC","id":"Roda_JC_Kerkrade","win":15,"draw":9,"loss":10,"for":51,"against":45},

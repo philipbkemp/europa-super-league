@@ -41,7 +41,7 @@
 	{"country":"sco","name":"Dundee United","id":"Dundee_United_F.C.","win":11,"draw":6,"loss":19,"for":34,"against":57},
 	{"country":"sco","name":"Kilmarnock","id":"Kilmarnock_F.C.","win":8,"draw":13,"loss":15,"for":38,"against":52},
 	{"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":9,"draw":6,"loss":21,"for":44,"against":83},
-	{"country":"nld","name":"PSV","id":"PSV_Eindhoven","win":27,"draw":3,"loss":4,"for":105,"against":24,"isChampion":true},
+	{"country":"nld","name":"PSV","id":"psv_eindhoven","win":27,"draw":3,"loss":4,"for":105,"against":24,"isChampion":true},
 	{"country":"nld","name":"SC Heerenveen","id":"SC_Heerenveen","win":21,"draw":5,"loss":8,"for":65,"against":36},
 	{"country":"nld","name":"Feyenoord","id":"feyenoord","win":18,"draw":10,"loss":6,"for":66,"against":42},
 	{"country":"nld","name":"Vitesse Arnhem","id":"SBV_Vitesse","win":18,"draw":9,"loss":7,"for":67,"against":43},

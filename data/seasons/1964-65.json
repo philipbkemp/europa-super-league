@@ -54,7 +54,7 @@
 	{"country":"nld","name":"Feijenoord","id":"feyenoord","win":21,"draw":3,"loss":6,"for":77,"against":30,"isChampion":true},
 	{"country":"nld","name":"DWS","id":"AFC_DWS","win":15,"draw":10,"loss":5,"for":55,"against":28},
 	{"country":"nld","name":"ADO Den Haag","id":"ADO_Den_Haag","win":13,"draw":7,"loss":10,"for":37,"against":32},
-	{"country":"nld","name":"PSV Eindhoven","id":"PSV_Eindhoven","win":13,"draw":7,"loss":10,"for":48,"against":45},
+	{"country":"nld","name":"PSV Eindhoven","id":"psv_eindhoven","win":13,"draw":7,"loss":10,"for":48,"against":45},
 	{"country":"nld","name":"Sparta Rotterdam","id":"Sparta_Rotterdam","win":11,"draw":9,"loss":10,"for":39,"against":40},
 	{"country":"nld","name":"Fortuna '54","id":"Fortuna_Sittard","win":13,"draw":5,"loss":12,"for":44,"against":49},
 	{"country":"nld","name":"SC Enschede","id":"Sportclub_Enschede","win":9,"draw":12,"loss":9,"for":33,"against":37,"isRemoved":true,"removedNote":"Merged with another club to become FC Twente"},

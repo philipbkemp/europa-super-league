@@ -41,7 +41,7 @@
 	{"country":"sco","name":"Motherwell","id":"Motherwell_F.C.","win":9,"draw":11,"loss":16,"for":44,"against":55},
 	{"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":9,"draw":11,"loss":16,"for":38,"against":55},
 	{"country":"sco","name":"Raith Rovers","id":"Raith_Rovers_F.C.","win":6,"draw":7,"loss":23,"for":29,"against":73,"isRemoved":true},
-	{"country":"nld","name":"PSV","id":"PSV_Eindhoven","win":24,"draw":5,"loss":5,"for":90,"against":26,"isChampion":true},
+	{"country":"nld","name":"PSV","id":"psv_eindhoven","win":24,"draw":5,"loss":5,"for":90,"against":26,"isChampion":true},
 	{"country":"nld","name":"Feyenoord","id":"feyenoord","win":22,"draw":7,"loss":5,"for":67,"against":34},
 	{"country":"nld","name":"FC Twente","id":"FC_Twente","win":20,"draw":5,"loss":9,"for":60,"against":33},
 	{"country":"nld","name":"Ajax","id":"afc_ajax","win":17,"draw":10,"loss":7,"for":55,"against":31},
