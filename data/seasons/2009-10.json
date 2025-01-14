@@ -548,7 +548,7 @@
 	{"country":"kaz","name":"Kazakhmys","id":"FC_Kazakhmys","win":7,"draw":3,"loss":16,"for":32,"against":61,"isRemoved":true,"isNew":true,"deduct":-3,"deductReason":"Unpaid debts"},
 	{"country":"kaz","name":"Kaisar","id":"FC_Kaisar","win":3,"draw":5,"loss":18,"for":15,"against":45,"isRemoved":true},
 	{"country":"kaz","name":"Kyzylzhar","id":"FC_Kyzylzhar","win":3,"draw":4,"loss":19,"for":14,"against":56,"isRemoved":true,"deduct":-7,"deductReason":"Unpaid debts"},
-	{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":27,"draw":3,"loss":3,"for":75,"against":8,"isChampion":true},
+	{"country":"mda","name":"Sheriff Tiraspol","id":"fc_sheriff_tiraspol","win":27,"draw":3,"loss":3,"for":75,"against":8,"isChampion":true},
 	{"country":"mda","name":"Iskra-Stal Rîbnița","id":"FC_Iskra-Stal","win":19,"draw":8,"loss":6,"for":50,"against":25},
 	{"country":"mda","name":"Olimpia Bălți","id":"FC_Bălți","win":17,"draw":9,"loss":7,"for":45,"against":23},
 	{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":17,"draw":8,"loss":8,"for":47,"against":29},

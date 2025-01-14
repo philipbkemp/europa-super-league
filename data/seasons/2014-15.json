@@ -543,7 +543,7 @@
 	{"country":"kaz","name":"Spartak Semey","id":"FC_Elimai","win":7,"draw":7,"loss":18,"for":30,"against":52,"isReturning":true,"isRemoved":true},
 	{"country":"mda","name":"Milsami Orhei","id":"FC_Milsami_Orhei","win":17,"draw":4,"loss":3,"for":50,"against":15,"isChampion":true},
 	{"country":"mda","name":"Dacia Chișinău","id":"FC_Dacia_Chișinău","win":17,"draw":4,"loss":3,"for":48,"against":13},
-	{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":17,"draw":4,"loss":3,"for":56,"against":16},
+	{"country":"mda","name":"Sheriff Tiraspol","id":"fc_sheriff_tiraspol","win":17,"draw":4,"loss":3,"for":56,"against":16},
 	{"country":"mda","name":"Tiraspol","id":"FC_Tiraspol","win":14,"draw":2,"loss":8,"for":49,"against":28,"isRemoved":true,"removedNote":"Team dissolved after the season"},
 	{"country":"mda","name":"Saxan Ceadîr-Lunga","id":"FC_Saksan","win":8,"draw":6,"loss":10,"for":20,"against":30,"isNew":true},
 	{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":7,"draw":6,"loss":11,"for":23,"against":19},

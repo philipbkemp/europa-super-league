@@ -333,7 +333,7 @@ THEDATA = [
 	{"country":"lux","name":"Rodange","id":"FC_Rodange_91","win":2,"draw":2,"loss":11,"for":19,"against":43,"isReturning":true,"isCurrentSeason":true},
 	{"country":"lux","name":"Fola Esch","id":"CS_Fola_Esch","win":2,"draw":1,"loss":12,"for":9,"against":39,"isCurrentSeason":true},
 	{"country":"lux","name":"Mondercange","id":"FC_Mondercange","win":1,"draw":1,"loss":13,"for":10,"against":36,"isCurrentSeason":true},
-	{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":11,"draw":3,"loss":0,"for":33,"against":6,"isCurrentSeason":true},
+	{"country":"mda","name":"Sheriff Tiraspol","id":"fc_sheriff_tiraspol","win":11,"draw":3,"loss":0,"for":33,"against":6,"isCurrentSeason":true},
 	{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":8,"draw":1,"loss":5,"for":32,"against":16,"isCurrentSeason":true},
 	{"country":"mda","name":"Petrocub Hîncești","id":"FC_Petrocub_Hîncești","win":6,"draw":5,"loss":3,"for":20,"against":9,"isCurrentSeason":true},
 	{"country":"mda","name":"Bălți","id":"FC_Bălți","win":6,"draw":5,"loss":3,"for":18,"against":9,"isCurrentSeason":true},

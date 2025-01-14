@@ -552,7 +552,7 @@
 	{"country":"kaz","name":"Atyrau","id":"FC_Atyrau","win":8,"draw":6,"loss":16,"for":29,"against":39},
 	{"country":"kaz","name":"Okzhetpes","id":"FC_Okzhetpes","win":8,"draw":5,"loss":17,"for":26,"against":56},
 	{"country":"kaz","name":"Taraz","id":"FC_Taraz","win":3,"draw":6,"loss":21,"for":16,"against":50,"isRemoved":true},
-	{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":26,"draw":3,"loss":1,"for":68,"against":8,"isChampion":true},
+	{"country":"mda","name":"Sheriff Tiraspol","id":"fc_sheriff_tiraspol","win":26,"draw":3,"loss":1,"for":68,"against":8,"isChampion":true},
 	{"country":"mda","name":"Dacia Chișinău","id":"FC_Dacia_Chișinău","win":19,"draw":5,"loss":6,"for":60,"against":28},
 	{"country":"mda","name":"Nistru Otaci","id":"FC_Nistru_Otaci","win":17,"draw":8,"loss":5,"for":34,"against":17},
 	{"country":"mda","name":"Tiraspol","id":"FC_Tiraspol","win":16,"draw":7,"loss":7,"for":36,"against":21},

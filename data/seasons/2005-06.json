@@ -550,7 +550,7 @@
 	{"country":"kaz","name":"Vostok","id":"FC_Vostok","win":9,"draw":1,"loss":20,"for":24,"against":49},
 	{"country":"kaz","name":"Zhetysu","id":"FC_Zhetysu","win":4,"draw":7,"loss":19,"for":28,"against":60,"isRemoved":true},
 	{"country":"kaz","name":"Bulat-MST","id":"FC_Shakhter-Bulat","win":0,"draw":1,"loss":29,"for":15,"against":88,"isRemoved":true,"isReturning":true},
-	{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":22,"draw":5,"loss":1,"for":57,"against":11,"isChampion":true},
+	{"country":"mda","name":"Sheriff Tiraspol","id":"fc_sheriff_tiraspol","win":22,"draw":5,"loss":1,"for":57,"against":11,"isChampion":true},
 	{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":15,"draw":8,"loss":5,"for":47,"against":20},
 	{"country":"mda","name":"Tiraspol","id":"FC_Tiraspol","win":8,"draw":13,"loss":7,"for":24,"against":21},
 	{"country":"mda","name":"Tiligul-Tiras Tiraspol","id":"CS_Tiligul-Tiras_Tiraspol","win":7,"draw":13,"loss":8,"for":22,"against":23},

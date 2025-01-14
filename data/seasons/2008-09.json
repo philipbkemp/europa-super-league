@@ -551,7 +551,7 @@
 	{"country":"kaz","name":"Energetik-2","id":"FC_Ekibastuz","win":5,"draw":8,"loss":17,"for":21,"against":43,"isRemoved":true,"isReturning":true},
 	{"country":"kaz","name":"Atyrau","id":"FC_Atyrau","win":3,"draw":10,"loss":17,"for":22,"against":54},
 	{"country":"kaz","name":"Vostok","id":"FC_Vostok","win":10,"draw":5,"loss":14,"for":35,"against":48},
-	{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":25,"draw":3,"loss":2,"for":61,"against":15,"isChampion":true},
+	{"country":"mda","name":"Sheriff Tiraspol","id":"fc_sheriff_tiraspol","win":25,"draw":3,"loss":2,"for":61,"against":15,"isChampion":true},
 	{"country":"mda","name":"Dacia Chișinău","id":"FC_Dacia_Chișinău","win":20,"draw":3,"loss":7,"for":47,"against":17},
 	{"country":"mda","name":"Iskra-Stal Rîbnița","id":"FC_Iskra-Stal","win":14,"draw":10,"loss":6,"for":28,"against":15},
 	{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":13,"draw":7,"loss":10,"for":42,"against":30},

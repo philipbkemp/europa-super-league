@@ -99,6 +99,8 @@ clubPages = ["preston_north_end_fc","linfield_fc","rangers_fc","budapesti_tc","f
 	,"europa_fc","lincoln_red_imps_fc","st_josephs_fc"
 	/*lux*/
 	,"f91_dudelange","fa_red_boys_differdange","us_hollerich_bonnevoie","fc_differdange_03"
+	/*mda*/
+	,"fc_sheriff_tiraspol"
 	/*nld*/
 	,"afc_ajax","feyenoord","psv_eindhoven"
 	/*tur*/

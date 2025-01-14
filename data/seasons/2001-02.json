@@ -539,7 +539,7 @@
 	{"country":"kaz","name":"Taraz","id":"FC_Taraz","win":6,"draw":3,"loss":23,"for":26,"against":57,"isRemoved":true},
 	{"country":"kaz","name":"Dostyk","id":"FC_Ordabasy","win":4,"draw":9,"loss":19,"for":28,"against":58,"isRemoved":true},
 	{"country":"kaz","name":"Mangystau","id":"FC_Caspiy","win":3,"draw":6,"loss":23,"for":16,"against":59,"isRemoved":true,"isReturning":true},
-	{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":20,"draw":7,"loss":1,"for":62,"against":18,"isChampion":true},
+	{"country":"mda","name":"Sheriff Tiraspol","id":"fc_sheriff_tiraspol","win":20,"draw":7,"loss":1,"for":62,"against":18,"isChampion":true},
 	{"country":"mda","name":"Nistru Otaci","id":"FC_Nistru_Otaci","win":14,"draw":10,"loss":4,"for":40,"against":19},
 	{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":12,"draw":10,"loss":6,"for":52,"against":20},
 	{"country":"mda","name":"Constructorul-93 Cioburciu","id":"FC_Tiraspol","win":11,"draw":6,"loss":11,"for":36,"against":42},

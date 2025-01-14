@@ -548,7 +548,7 @@
 	{"country":"kaz","name":"Zhetysu","id":"FC_Zhetysu","win":6,"draw":5,"loss":15,"for":27,"against":45},
 	{"country":"kaz","name":"Sunkar","id":"FC_Sunkar","win":5,"draw":8,"loss":13,"for":16,"against":31,"isRemoved":true,"isNew":true},
 	{"country":"kaz","name":"Okzhetpes","id":"FC_Okzhetpes","win":3,"draw":2,"loss":21,"for":20,"against":56,"isRemoved":true,"isReturning":true},
-	{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":25,"draw":5,"loss":3,"for":65,"against":17,"isChampion":true},
+	{"country":"mda","name":"Sheriff Tiraspol","id":"fc_sheriff_tiraspol","win":25,"draw":5,"loss":3,"for":65,"against":17,"isChampion":true},
 	{"country":"mda","name":"Dacia Chişinău","id":"FC_Dacia_Chișinău","win":18,"draw":12,"loss":3,"for":47,"against":19},
 	{"country":"mda","name":"FC Tiraspol","id":"FC_Tiraspol","win":18,"draw":10,"loss":5,"for":54,"against":20},
 	{"country":"mda","name":"Milsami Orhei","id":"FC_Milsami_Orhei","win":18,"draw":4,"loss":11,"for":48,"against":30},

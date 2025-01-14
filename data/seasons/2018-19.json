@@ -530,7 +530,7 @@
 	{"country":"kaz","name":"Irtysh Pavlodar","id":"FC_Irtysh_Pavlodar","win":10,"draw":5,"loss":18,"for":28,"against":45},
 	{"country":"kaz","name":"Kyzylzhar","id":"FC_Kyzylzhar","win":10,"draw":5,"loss":18,"for":27,"against":48,"isRemoved":true,"isReturning":true},
 	{"country":"kaz","name":"Akzhayik","id":"FC_Akzhayik","win":7,"draw":9,"loss":17,"for":31,"against":48,"isRemoved":true},
-	{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":19,"draw":6,"loss":3,"for":58,"against":14,"isChampion":true},
+	{"country":"mda","name":"Sheriff Tiraspol","id":"fc_sheriff_tiraspol","win":19,"draw":6,"loss":3,"for":58,"against":14,"isChampion":true},
 	{"country":"mda","name":"Milsami Orhei","id":"FC_Milsami_Orhei","win":13,"draw":6,"loss":9,"for":36,"against":24},
 	{"country":"mda","name":"Petrocub-Hîncești","id":"FC_Petrocub_Hîncești","win":12,"draw":9,"loss":7,"for":38,"against":28},
 	{"country":"mda","name":"Speranța Nisporeni","id":"Speranța_Nisporeni","win":9,"draw":11,"loss":8,"for":27,"against":26},

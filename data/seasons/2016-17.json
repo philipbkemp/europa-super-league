@@ -517,7 +517,7 @@
 	{"country":"kaz","name":"Shakhter Karagandy","id":"FC_Shakhter_Karagandy","win":10,"draw":6,"loss":16,"for":25,"against":40},
 	{"country":"kaz","name":"Taraz","id":"FC_Taraz","win":10,"draw":5,"loss":17,"for":33,"against":42},
 	{"country":"kaz","name":"Akzhayik","id":"FC_Akzhayik","win":11,"draw":2,"loss":19,"for":27,"against":50,"isReturning":true},
-	{"country":"mda","name":"Sheriff Tiraspol","id":"FC_Sheriff_Tiraspol","win":22,"draw":3,"loss":5,"for":71,"against":15,"isChampion":true},
+	{"country":"mda","name":"Sheriff Tiraspol","id":"fc_sheriff_tiraspol","win":22,"draw":3,"loss":5,"for":71,"against":15,"isChampion":true},
 	{"country":"mda","name":"Dacia Chișinău","id":"FC_Dacia_Chișinău","win":22,"draw":3,"loss":5,"for":54,"against":15},
 	{"country":"mda","name":"Milsami Orhei","id":"FC_Milsami_Orhei","win":22,"draw":2,"loss":6,"for":57,"against":20},
 	{"country":"mda","name":"Zaria Bălți","id":"FC_Bălți","win":20,"draw":5,"loss":5,"for":56,"against":21},
