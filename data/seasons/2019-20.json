@@ -477,7 +477,7 @@
 	{"country":"blr","name":"Dynamo Brest","id":"FC_Dynamo_Brest","win":23,"draw":6,"loss":1,"for":70,"against":22,"isChampion":true},
 	{"country":"blr","name":"BATE Borisov","id":"FC_BATE_Borisov","win":22,"draw":4,"loss":4,"for":61,"against":21},
 	{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":20,"draw":5,"loss":5,"for":59,"against":21},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":15,"draw":5,"loss":10,"for":43,"against":39},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":15,"draw":5,"loss":10,"for":43,"against":39},
 	{"country":"blr","name":"Isloch Minsk Raion","id":"FC_Isloch_Minsk_Raion","win":13,"draw":8,"loss":9,"for":42,"against":36},
 	{"country":"blr","name":"Torpedo-BelAZ Zhodino","id":"FC_Torpedo-BelAZ_Zhodino","win":13,"draw":6,"loss":11,"for":41,"against":36},
 	{"country":"blr","name":"Gorodeya","id":"FC_Gorodeya","win":12,"draw":8,"loss":10,"for":31,"against":29},

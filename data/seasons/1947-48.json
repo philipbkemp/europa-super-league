@@ -323,7 +323,7 @@
 	{"country":"sov","name":"Traktor Stalingrad","id":"FC_Rotor_Volgograd","win":7,"draw":7,"loss":10,"for":34,"against":39},
 	{"country":"sov","name":"Dynamo Leningrad","id":"FC_Dynamo_Saint_Petersburg","win":7,"draw":5,"loss":12,"for":32,"against":48},
 	{"country":"sov","name":"Krylia Sovetov Moscow","id":"SC_Krylia_Sovetov_Moscow","win":6,"draw":6,"loss":12,"for":22,"against":37},
-	{"country":"sov","name":"Dynamo Minsk","id":"FC_Dinamo_Minsk","win":5,"draw":4,"loss":15,"for":17,"against":46},
+	{"country":"sov","name":"Dynamo Minsk","id":"fc_dinamo_minsk","win":5,"draw":4,"loss":15,"for":17,"against":46},
 	{"country":"sov","name":"VVS Moscow","id":"VVS_Moscow","win":3,"draw":5,"loss":16,"for":21,"against":54,"isNew":true},
 	{"country":"fro","name":"SÍ Sørvágur","id":"Sørvágs_Ítróttarfelag","win":4,"draw":1,"loss":1,"for":9,"against":6,"isChampion":true,"isNew":true,"isRemoved":true},
 	{"country":"fro","name":"KÍ Klaksvík","id":"klaksvikar_itrottarfelag","win":4,"draw":0,"loss":2,"for":8,"against":7,"isNew":true},

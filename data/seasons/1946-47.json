@@ -302,7 +302,7 @@
 	{"country":"sov","name":"Traktor Stalingrad","id":"FC_Rotor_Volgograd","win":6,"draw":4,"loss":12,"for":22,"against":40},
 	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":5,"draw":5,"loss":12,"for":22,"against":45},
 	{"country":"sov","name":"Krylia Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":3,"draw":8,"loss":11,"for":16,"against":52,"isNew":true},
-	{"country":"sov","name":"Dynamo Minsk","id":"FC_Dinamo_Minsk","win":3,"draw":7,"loss":12,"for":22,"against":43},
+	{"country":"sov","name":"Dynamo Minsk","id":"fc_dinamo_minsk","win":3,"draw":7,"loss":12,"for":22,"against":43},
 	{"country":"sov","name":"Dynamo Kiev","id":"fc_dynamo_kyiv","win":4,"draw":5,"loss":13,"for":18,"against":39},
 	{"country":"csk","name":"Slavia Prague","id":"sk_slavia_prague","win":19,"draw":2,"loss":5,"for":110,"against":54,"isChampion":true,"isReturning":true},
 	{"country":"csk","name":"Sparta Prague","id":"ac_sparta_prague","win":18,"draw":3,"loss":5,"for":101,"against":35,"isReturning":true},

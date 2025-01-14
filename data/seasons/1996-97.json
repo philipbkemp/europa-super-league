@@ -496,7 +496,7 @@
 	{"country":"aze","name":"Pambiqci Neftcala","id":"FK_Pambiqci_Neftcala","win":5,"draw":6,"loss":19,"for":27,"against":68,"isRemoved":true},
 	{"country":"aze","name":"Azerbaijan U-18","id":"Azerbaijan_national_under-18_football_team","win":4,"draw":1,"loss":25,"for":38,"against":78,"isNew":true},
 	{"country":"blr","name":"MPKC Mozyr","id":"FC_Slavia_Mozyr","win":24,"draw":4,"loss":2,"for":64,"against":17,"isChampion":true},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":23,"draw":6,"loss":1,"for":83,"against":20},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":23,"draw":6,"loss":1,"for":83,"against":20},
 	{"country":"blr","name":"Belshina Bobruisk","id":"FC_Belshina_Bobruisk","win":20,"draw":3,"loss":7,"for":67,"against":32},
 	{"country":"blr","name":"Dinamo-93 Minsk","id":"FC_Dinamo-93_Minsk","win":17,"draw":5,"loss":8,"for":44,"against":30},
 	{"country":"blr","name":"Lokomotiv-96 Vitebsk","id":"FC_Vitebsk","win":13,"draw":10,"loss":7,"for":48,"against":27},

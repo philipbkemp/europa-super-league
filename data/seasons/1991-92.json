@@ -551,7 +551,7 @@
 	{"country":"geo","name":"Alazani Gurjaani","id":"FC_Alazani_Gurjaani","win":13,"draw":8,"loss":17,"for":45,"against":70},
 	{"country":"geo","name":"Sulori Vani","id":"FC_Sulori_Vani","win":13,"draw":7,"loss":18,"for":53,"against":82,"isRemoved":true},
 	{"country":"geo","name":"Mertskhali Ozurgeti","id":"FC_Mertskhali_Ozurgeti","win":4,"draw":6,"loss":28,"for":29,"against":98,"isRemoved":true},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":11,"draw":3,"loss":1,"for":38,"against":7,"isChampion":true},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":11,"draw":3,"loss":1,"for":38,"against":7,"isChampion":true},
 	{"country":"blr","name":"Dnepr Mogilev","id":"FC_Dnepr_Mogilev","win":11,"draw":2,"loss":2,"for":28,"against":4,"isNew":true},
 	{"country":"blr","name":"Dinamo Brest","id":"FC_Dynamo_Brest","win":8,"draw":3,"loss":4,"for":21,"against":10,"isNew":true},
 	{"country":"blr","name":"Traktor Bobruisk","id":"FC_Bobruisk","win":8,"draw":3,"loss":4,"for":13,"against":10,"isNew":true},

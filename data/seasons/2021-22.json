@@ -499,7 +499,7 @@
 	{"country":"aze","name":"Sabail","id":"Sabail_FK","win":4,"draw":3,"loss":21,"for":17,"against":57},
 	{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":24,"draw":3,"loss":3,"for":62,"against":18,"isChampion":true},
 	{"country":"blr","name":"BATE Borisov","id":"FC_BATE_Borisov","win":19,"draw":8,"loss":3,"for":61,"against":27},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":19,"draw":5,"loss":6,"for":55,"against":20},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":19,"draw":5,"loss":6,"for":55,"against":20},
 	{"country":"blr","name":"Gomel","id":"FC_Gomel","win":17,"draw":8,"loss":5,"for":57,"against":23,"isReturning":true},
 	{"country":"blr","name":"Rukh Brest","id":"Football_Center_Brest","win":16,"draw":10,"loss":4,"for":52,"against":28,"isRemoved":true,"removedNote":"Withdrew"},
 	{"country":"blr","name":"Dynamo Brest","id":"FC_Dynamo_Brest","win":8,"draw":14,"loss":8,"for":32,"against":32},

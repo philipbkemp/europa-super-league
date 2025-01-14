@@ -504,7 +504,7 @@
 	{"country":"blr","name":"Torpedo-BelAZ Zhodino","id":"FC_Torpedo-BelAZ_Zhodino","win":16,"draw":8,"loss":6,"for":55,"against":37},
 	{"country":"blr","name":"Dynamo Brest","id":"FC_Dynamo_Brest","win":17,"draw":3,"loss":10,"for":63,"against":40},
 	{"country":"blr","name":"Neman Grodno","id":"FC_Neman_Grodno","win":16,"draw":5,"loss":9,"for":41,"against":29},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":16,"draw":4,"loss":10,"for":38,"against":25},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":16,"draw":4,"loss":10,"for":38,"against":25},
 	{"country":"blr","name":"Isloch Minsk Raion","id":"FC_Isloch_Minsk_Raion","win":13,"draw":6,"loss":11,"for":47,"against":46},
 	{"country":"blr","name":"Rukh Brest","id":"Football_Center_Brest","win":11,"draw":11,"loss":8,"for":57,"against":38,"isNew":true},
 	{"country":"blr","name":"Slavia Mozyr","id":"FC_Slavia_Mozyr","win":10,"draw":9,"loss":11,"for":41,"against":49},

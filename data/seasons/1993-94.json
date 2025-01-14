@@ -523,7 +523,7 @@
 	{"country":"aze","name":"Azeri Baku","id":"Azeri_Baku_FK","win":7,"draw":7,"loss":16,"for":28,"against":53,"isRemoved":true,"isNew":true},
 	{"country":"aze","name":"Kürmük Qakh","id":"Kürmük_Qakh_FK","win":5,"draw":3,"loss":22,"for":18,"against":84,"isRemoved":true,"isNew":true},
 	{"country":"aze","name":"Avtomobilçi Yevlax","id":"Avtomobilçi_Yevlax_FK","win":2,"draw":1,"loss":27,"for":13,"against":90,"isRemoved":true,"isNew":true},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":24,"draw":4,"loss":2,"for":76,"against":20,"isChampion":true},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":24,"draw":4,"loss":2,"for":76,"against":20,"isChampion":true},
 	{"country":"blr","name":"Dinamo-93 Minsk","id":"FC_Dinamo-93_Minsk","win":18,"draw":7,"loss":5,"for":46,"against":16},
 	{"country":"blr","name":"KIM Vitebsk","id":"FC_Vitebsk","win":17,"draw":9,"loss":4,"for":32,"against":14},
 	{"country":"blr","name":"Dnepr Mogilev","id":"FC_Dnepr_Mogilev","win":17,"draw":6,"loss":7,"for":45,"against":22},

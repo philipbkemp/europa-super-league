@@ -519,7 +519,7 @@
 	{"country":"blr","name":"Gomel","id":"FC_Gomel","win":12,"draw":9,"loss":7,"for":36,"against":30,"isReturning":true},
 	{"country":"blr","name":"Slavia Mozyr","id":"FC_Slavia_Mozyr","win":12,"draw":9,"loss":7,"for":41,"against":36},
 	{"country":"blr","name":"Torpedo Minsk","id":"FC_Torpedo_Minsk","win":12,"draw":8,"loss":8,"for":44,"against":22},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":11,"draw":6,"loss":11,"for":39,"against":38},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":11,"draw":6,"loss":11,"for":39,"against":38},
 	{"country":"blr","name":"Dinamo Brest","id":"FC_Dynamo_Brest","win":12,"draw":2,"loss":14,"for":40,"against":40},
 	{"country":"blr","name":"Neman Grodno","id":"FC_Neman_Grodno","win":8,"draw":7,"loss":13,"for":27,"against":44},
 	{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":8,"draw":6,"loss":14,"for":33,"against":54},

@@ -493,7 +493,7 @@
 	{"country":"blr","name":"BATE Borisov","id":"FC_BATE_Borisov","win":21,"draw":9,"loss":3,"for":64,"against":18,"isChampion":true},
 	{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":19,"draw":9,"loss":5,"for":51,"against":23},
 	{"country":"blr","name":"Minsk","id":"FC_Minsk","win":18,"draw":6,"loss":9,"for":59,"against":32},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":17,"draw":5,"loss":11,"for":49,"against":34},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":17,"draw":5,"loss":11,"for":49,"against":34},
 	{"country":"blr","name":"Dinamo Brest","id":"FC_Dynamo_Brest","win":12,"draw":10,"loss":11,"for":48,"against":40},
 	{"country":"blr","name":"Belshina Bobruisk","id":"FC_Belshina_Bobruisk","win":12,"draw":9,"loss":12,"for":31,"against":42,"isReturning":true},
 	{"country":"blr","name":"Naftan Novopolotsk","id":"FC_Naftan_Novopolotsk","win":11,"draw":11,"loss":11,"for":41,"against":34},

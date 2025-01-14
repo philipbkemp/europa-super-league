@@ -525,7 +525,7 @@
 	{"country":"geo","name":"Iveria Khashuri","id":"FC_Iveria_Khashuri","win":10,"draw":4,"loss":18,"for":38,"against":63,"isReturning":true,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
 	{"country":"geo","name":"Mretebi Tbilisi","id":"FC_Mretebi_Tbilisi","win":10,"draw":3,"loss":19,"for":38,"against":64,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
 	{"country":"geo","name":"Tskhumi Sukhumi","id":"FC_Tskhumi_Sukhumi","win":8,"draw":1,"loss":23,"for":59,"against":84,"isRemoved":true,"removedNote":"League moved to a regional league next season"},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":26,"draw":5,"loss":1,"for":90,"against":25,"isChampion":true},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":26,"draw":5,"loss":1,"for":90,"against":25,"isChampion":true},
 	{"country":"blr","name":"KIM Vitebsk","id":"FC_Vitebsk","win":18,"draw":11,"loss":3,"for":55,"against":21},
 	{"country":"blr","name":"Belarus Minsk","id":"FC_Dinamo-93_Minsk","win":20,"draw":6,"loss":6,"for":54,"against":24,"isNew":true},
 	{"country":"blr","name":"Neman Grodno","id":"FC_Neman_Grodno","win":18,"draw":9,"loss":5,"for":39,"against":27},

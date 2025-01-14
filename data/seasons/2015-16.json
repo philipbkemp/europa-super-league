@@ -478,7 +478,7 @@
 	{"country":"aze","name":"Ravan Baku","id":"Ravan_Baku_FK","win":5,"draw":9,"loss":22,"for":27,"against":63,"isReturning":true,"isRemoved":true},
 	{"country":"aze","name":"Khazar Lankaran","id":"Khazar_Lankaran_FK","win":3,"draw":6,"loss":27,"for":16,"against":51,"isRemoved":true},
 	{"country":"blr","name":"BATE Borisov","id":"FC_BATE_Borisov","win":20,"draw":5,"loss":1,"for":44,"against":11,"isChampion":true},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":15,"draw":8,"loss":3,"for":36,"against":13},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":15,"draw":8,"loss":3,"for":36,"against":13},
 	{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":14,"draw":7,"loss":5,"for":47,"against":27},
 	{"country":"blr","name":"Belshina Bobruisk","id":"FC_Belshina_Bobruisk","win":12,"draw":7,"loss":7,"for":39,"against":19},
 	{"country":"blr","name":"Granit Mikashevichi","id":"FC_Mikashevichi","win":12,"draw":6,"loss":8,"for":30,"against":32,"isReturning":true},

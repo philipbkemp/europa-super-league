@@ -469,7 +469,7 @@
 	{"country":"blr","name":"Torpedo-MAZ Minsk","id":"FC_Torpedo_Minsk","win":15,"draw":6,"loss":5,"for":30,"against":16},
 	{"country":"blr","name":"Torpedo Zhodino","id":"FC_Torpedo-BelAZ_Zhodino","win":13,"draw":4,"loss":9,"for":38,"against":27,"isReturning":true},
 	{"country":"blr","name":"Gomel","id":"FC_Gomel","win":13,"draw":4,"loss":9,"for":46,"against":33},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":12,"draw":6,"loss":8,"for":44,"against":28},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":12,"draw":6,"loss":8,"for":44,"against":28},
 	{"country":"blr","name":"Belshina Bobruisk","id":"FC_Belshina_Bobruisk","win":12,"draw":4,"loss":10,"for":44,"against":38},
 	{"country":"blr","name":"Dnepr-Transmash Mogilev","id":"FC_Dnepr_Mogilev","win":10,"draw":6,"loss":10,"for":38,"against":37},
 	{"country":"blr","name":"Dinamo Brest","id":"FC_Dynamo_Brest","win":8,"draw":8,"loss":10,"for":25,"against":26},

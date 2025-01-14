@@ -500,7 +500,7 @@
 	{"country":"blr","name":"Neman Grodno","id":"FC_Neman_Grodno","win":9,"draw":9,"loss":8,"for":23,"against":22},
 	{"country":"blr","name":"Naftan Novopolotsk","id":"FC_Naftan_Novopolotsk","win":9,"draw":9,"loss":8,"for":28,"against":30},
 	{"country":"blr","name":"Vitebsk","id":"FC_Vitebsk","win":9,"draw":8,"loss":9,"for":25,"against":28},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":8,"draw":11,"loss":7,"for":27,"against":28},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":8,"draw":11,"loss":7,"for":27,"against":28},
 	{"country":"blr","name":"Smorgon","id":"FC_Smorgon","win":6,"draw":8,"loss":12,"for":15,"against":29,"isNew":true},
 	{"country":"blr","name":"Darida Minsk Raion","id":"FC_Darida_Minsk_Raion","win":7,"draw":4,"loss":15,"for":27,"against":46},
 	{"country":"blr","name":"Dinamo Brest","id":"FC_Dynamo_Brest","win":6,"draw":7,"loss":13,"for":23,"against":31},

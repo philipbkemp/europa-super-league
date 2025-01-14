@@ -474,7 +474,7 @@
 	{"country":"sov","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":13,"draw":12,"loss":9,"for":36,"against":32},
 	{"country":"sov","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":13,"draw":9,"loss":12,"for":45,"against":40},
 	{"country":"sov","name":"Chornomorets Odessa","id":"FC_Chornomorets_Odesa","win":13,"draw":9,"loss":12,"for":37,"against":37},
-	{"country":"sov","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":11,"draw":12,"loss":11,"for":41,"against":42},
+	{"country":"sov","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":11,"draw":12,"loss":11,"for":41,"against":42},
 	{"country":"sov","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":11,"draw":11,"loss":12,"for":39,"against":43},
 	{"country":"sov","name":"SKA Rostov-on-Don","id":"FC_SKA_Rostov-on-Don","win":11,"draw":10,"loss":13,"for":41,"against":47},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":10,"draw":11,"loss":13,"for":28,"against":32},

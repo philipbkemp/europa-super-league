@@ -490,7 +490,7 @@
 	{"country":"aze","name":"Bakili","id":"Bakılı_PFK","win":3,"draw":3,"loss":20,"for":14,"against":65,"isRemoved":true,"isReturning":true},
 	{"country":"aze","name":"MOIK Baku","id":"MOIK_Baku","win":1,"draw":2,"loss":23,"for":12,"against":64,"isRemoved":true,"isReturning":true},
 	{"country":"blr","name":"BATE Borisov","id":"FC_BATE_Borisov","win":19,"draw":10,"loss":1,"for":54,"against":20,"isChampion":true},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":19,"draw":5,"loss":6,"for":49,"against":29},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":19,"draw":5,"loss":6,"for":49,"against":29},
 	{"country":"blr","name":"MTZ-RIPO Minsk","id":"FC_Partizan_Minsk","win":17,"draw":6,"loss":7,"for":65,"against":37},
 	{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":15,"draw":6,"loss":9,"for":50,"against":35},
 	{"country":"blr","name":"Vitebsk","id":"FC_Vitebsk","win":14,"draw":9,"loss":7,"for":39,"against":26},

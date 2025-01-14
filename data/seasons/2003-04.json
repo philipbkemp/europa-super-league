@@ -477,7 +477,7 @@
 	{"country":"aze","name":"Lokomotiv Imisli","id":"Lokomotiv_Imisli","win":4,"draw":0,"loss":22,"for":17,"against":76,"isRemoved":true,"isNew":true},
 	{"country":"blr","name":"Gomel","id":"FC_Gomel","win":23,"draw":5,"loss":2,"for":56,"against":12,"isChampion":true},
 	{"country":"blr","name":"BATE Borisov","id":"FC_BATE_Borisov","win":20,"draw":6,"loss":4,"for":70,"against":21},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":20,"draw":4,"loss":6,"for":62,"against":24},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":20,"draw":4,"loss":6,"for":62,"against":24},
 	{"country":"blr","name":"Torpedo-SKA Minsk","id":"FC_Torpedo_Minsk","win":19,"draw":7,"loss":4,"for":54,"against":20},
 	{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":19,"draw":7,"loss":4,"for":60,"against":23},
 	{"country":"blr","name":"Torpedo Zhodino","id":"FC_Torpedo-BelAZ_Zhodino","win":13,"draw":10,"loss":7,"for":44,"against":25},

@@ -494,7 +494,7 @@
 	{"country":"aze","name":"Shahdagh Guba","id":"Shahdag_Qusar_FK","win":0,"draw":1,"loss":19,"for":5,"against":63,"isReturning":true},
 	{"country":"blr","name":"Slavia Mozyr","id":"FC_Slavia_Mozyr","win":23,"draw":5,"loss":2,"for":78,"against":25,"isChampion":true},
 	{"country":"blr","name":"BATE Borisov","id":"FC_BATE_Borisov","win":20,"draw":4,"loss":6,"for":68,"against":26},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":19,"draw":5,"loss":6,"for":49,"against":21},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":19,"draw":5,"loss":6,"for":49,"against":21},
 	{"country":"blr","name":"Neman-Belcard Grodno","id":"FC_Neman_Grodno","win":17,"draw":6,"loss":7,"for":56,"against":29},
 	{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":15,"draw":9,"loss":6,"for":47,"against":29},
 	{"country":"blr","name":"Gomel","id":"FC_Gomel","win":17,"draw":2,"loss":11,"for":50,"against":41},

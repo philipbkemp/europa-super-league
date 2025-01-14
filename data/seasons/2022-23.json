@@ -508,7 +508,7 @@
 	{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":20,"draw":5,"loss":5,"for":55,"against":17,"isChampion":true},
 	{"country":"blr","name":"Energetik-BGU Minsk","id":"FC_Energetik-BGU_Minsk","win":18,"draw":6,"loss":6,"for":50,"against":27},
 	{"country":"blr","name":"BATE Borisov","id":"FC_BATE_Borisov","win":16,"draw":11,"loss":3,"for":51,"against":21},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":16,"draw":11,"loss":3,"for":50,"against":25},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":16,"draw":11,"loss":3,"for":50,"against":25},
 	{"country":"blr","name":"Isloch Minsk Raion","id":"FC_Isloch_Minsk_Raion","win":16,"draw":6,"loss":8,"for":51,"against":33},
 	{"country":"blr","name":"Minsk","id":"FC_Minsk","win":12,"draw":8,"loss":10,"for":47,"against":43},
 	{"country":"blr","name":"Gomel","id":"FC_Gomel","win":12,"draw":7,"loss":11,"for":36,"against":37},

@@ -468,7 +468,7 @@
 	{"country":"nor","name":"Hamarkameratene","id":"Hamarkameratene","win":3,"draw":4,"loss":15,"for":15,"against":50,"isRemoved":true},
 	{"country":"sov","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":22,"draw":5,"loss":7,"for":63,"against":36,"isChampion":true},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":18,"draw":9,"loss":7,"for":60,"against":25},
-	{"country":"sov","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":17,"draw":9,"loss":8,"for":51,"against":34},
+	{"country":"sov","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":17,"draw":9,"loss":8,"for":51,"against":34},
 	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":15,"draw":11,"loss":8,"for":42,"against":32},
 	{"country":"sov","name":"Žalgiris Vilnius","id":"FK_Žalgiris","win":15,"draw":9,"loss":10,"for":38,"against":36,"isReturning":true},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":14,"draw":11,"loss":9,"for":40,"against":34},

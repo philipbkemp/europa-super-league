@@ -470,7 +470,7 @@
 	{"country":"sov","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":8,"draw":3,"loss":13,"for":23,"against":29},
 	{"country":"sov","name":"Pamir Dushanbe","id":"CSKA_Pamir_Dushanbe","win":7,"draw":4,"loss":13,"for":26,"against":34},
 	{"country":"sov","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":5,"draw":8,"loss":11,"for":13,"against":28},
-	{"country":"sov","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":6,"draw":3,"loss":15,"for":20,"against":34},
+	{"country":"sov","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":6,"draw":3,"loss":15,"for":20,"against":34},
 	{"country":"sov","name":"Rotor Volgograd","id":"FC_Rotor_Volgograd","win":4,"draw":6,"loss":14,"for":14,"against":39,"isRemoved":true},
 	{"country":"fro","name":"Havnar Bóltfelag","id":"havnar_boltfelag","win":9,"draw":6,"loss":3,"for":37,"against":22,"isChampion":true},
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":9,"draw":2,"loss":7,"for":30,"against":27},

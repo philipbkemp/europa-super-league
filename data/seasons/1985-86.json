@@ -465,7 +465,7 @@
 	{"country":"sov","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":20,"draw":8,"loss":6,"for":64,"against":26,"isChampion":true},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":18,"draw":10,"loss":6,"for":72,"against":28},
 	{"country":"sov","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":16,"draw":11,"loss":7,"for":71,"against":41},
-	{"country":"sov","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":16,"draw":9,"loss":9,"for":40,"against":31},
+	{"country":"sov","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":16,"draw":9,"loss":9,"for":40,"against":31},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":13,"draw":10,"loss":11,"for":42,"against":40},
 	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":14,"draw":7,"loss":13,"for":48,"against":38},
 	{"country":"sov","name":"Žalgiris Vilnius","id":"FK_Žalgiris","win":12,"draw":11,"loss":11,"for":43,"against":49},

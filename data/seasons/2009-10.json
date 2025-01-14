@@ -487,7 +487,7 @@
 	{"country":"aze","name":"Standard","id":"FK_Standard_Sumgayit","win":7,"draw":4,"loss":9,"for":26,"against":23,"isRemoved":true},
 	{"country":"aze","name":"Karvan","id":"Karvan_FK","win":2,"draw":7,"loss":11,"for":14,"against":35,"isRemoved":true},
 	{"country":"blr","name":"BATE Borisov","id":"FC_BATE_Borisov","win":19,"draw":5,"loss":2,"for":55,"against":16,"isChampion":true},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":14,"draw":8,"loss":4,"for":38,"against":18},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":14,"draw":8,"loss":4,"for":38,"against":18},
 	{"country":"blr","name":"Dnepr Mogilev","id":"FC_Dnepr_Mogilev","win":12,"draw":4,"loss":10,"for":31,"against":26},
 	{"country":"blr","name":"Naftan Novopolotsk","id":"FC_Naftan_Novopolotsk","win":12,"draw":2,"loss":12,"for":28,"against":39},
 	{"country":"blr","name":"Dinamo Brest","id":"FC_Dynamo_Brest","win":10,"draw":8,"loss":8,"for":30,"against":24},

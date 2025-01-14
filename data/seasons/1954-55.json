@@ -352,7 +352,7 @@
 	{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":5,"draw":7,"loss":14,"for":33,"against":49,"isRemoved":true},
 	{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":15,"draw":5,"loss":4,"for":44,"against":20,"isChampion":true},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":14,"draw":3,"loss":7,"for":49,"against":26},
-	{"country":"sov","name":"Spartak Minsk","id":"FC_Dinamo_Minsk","win":12,"draw":6,"loss":6,"for":29,"against":23,"isReturning":true},
+	{"country":"sov","name":"Spartak Minsk","id":"fc_dinamo_minsk","win":12,"draw":6,"loss":6,"for":29,"against":23,"isReturning":true},
 	{"country":"sov","name":"Trudovyye Rezervy Leningrad","id":"FC_Trudovyye_Rezervy_Leningrad","win":8,"draw":10,"loss":6,"for":29,"against":25,"isNew":true},
 	{"country":"sov","name":"Dynamo Kiev","id":"fc_dynamo_kyiv","win":8,"draw":10,"loss":6,"for":31,"against":29},
 	{"country":"sov","name":"CDSA Moscow","id":"PFC_CSKA_Moscow","win":8,"draw":8,"loss":8,"for":30,"against":29,"isReturning":true},

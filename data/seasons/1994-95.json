@@ -520,7 +520,7 @@
 	{"country":"aze","name":"İnşaatçı Baku","id":"İnşaatçı_Baku_FK","win":4,"draw":3,"loss":17,"for":20,"against":50,"isRemoved":true},
 	{"country":"aze","name":"Khazar Sumgayit","id":"FK_Khazar_Sumgayit","win":2,"draw":2,"loss":20,"for":18,"against":81,"isRemoved":true},
 	{"country":"aze","name":"FK Khazar Lenkoran","id":"Khazar_Lankaran_FK","win":1,"draw":4,"loss":19,"for":10,"against":67,"isRemoved":true},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":20,"draw":8,"loss":2,"for":83,"against":24,"isChampion":true},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":20,"draw":8,"loss":2,"for":83,"against":24,"isChampion":true},
 	{"country":"blr","name":"Dvina Vitebsk","id":"FC_Vitebsk","win":16,"draw":13,"loss":1,"for":46,"against":15},
 	{"country":"blr","name":"Dinamo-93 Minsk","id":"FC_Dinamo-93_Minsk","win":16,"draw":10,"loss":4,"for":52,"against":22},
 	{"country":"blr","name":"Molodechno","id":"FC_Molodechno","win":12,"draw":11,"loss":7,"for":48,"against":30},

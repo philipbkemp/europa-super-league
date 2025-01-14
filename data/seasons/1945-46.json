@@ -175,7 +175,7 @@
 	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":8,"draw":7,"loss":7,"for":35,"against":31,"isReturning":true},
 	{"country":"sov","name":"Traktor Stalingrad","id":"FC_Rotor_Volgograd","win":9,"draw":3,"loss":10,"for":23,"against":38,"isReturning":true},
 	{"country":"sov","name":"Krylia Sovetov Moscow","id":"SC_Krylia_Sovetov_Moscow","win":6,"draw":6,"loss":10,"for":23,"against":48,"isNew":true},
-	{"country":"sov","name":"Dynamo Minsk","id":"FC_Dinamo_Minsk","win":5,"draw":7,"loss":10,"for":20,"against":39,"isNew":true},
+	{"country":"sov","name":"Dynamo Minsk","id":"fc_dinamo_minsk","win":5,"draw":7,"loss":10,"for":20,"against":39,"isNew":true},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":6,"draw":3,"loss":13,"for":22,"against":44,"isReturning":true},
 	{"country":"sov","name":"Dynamo Kiev","id":"fc_dynamo_kyiv","win":1,"draw":6,"loss":15,"for":13,"against":50,"isReturning":true},
 	{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":1,"draw":3,"loss":18,"for":14,"against":54,"isReturning":true,"isRemoved":true}

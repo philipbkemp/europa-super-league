@@ -586,7 +586,7 @@ THEDATA = [
 	{"country":"wal","name":"Flint Town United","id":"Flint_Town_United_F.C.","win":6,"draw":2,"loss":13,"for":27,"against":44,"isReturning":true,"isCurrentSeason":true},
 	{"country":"wal","name":"Newtown","id":"Newtown_A.F.C.","win":5,"draw":4,"loss":12,"for":23,"against":44,"isCurrentSeason":true},
 	{"country":"wal","name":"Aberystwyth Town","id":"Aberystwyth_Town_F.C.","win":4,"draw":2,"loss":16,"for":18,"against":51,"isCurrentSeason":true},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":20,"draw":8,"loss":2,"for":50,"against":13,"isChampion":true},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":20,"draw":8,"loss":2,"for":50,"against":13,"isChampion":true},
 	{"country":"blr","name":"Neman Grodno","id":"FC_Neman_Grodno","win":20,"draw":5,"loss":5,"for":45,"against":19},
 	{"country":"blr","name":"Torpedo-BelAZ Zhodino","id":"FC_Torpedo-BelAZ_Zhodino","win":18,"draw":8,"loss":4,"for":45,"against":21},
 	{"country":"blr","name":"Dynamo Brest","id":"FC_Dynamo_Brest","win":14,"draw":7,"loss":9,"for":62,"against":37},

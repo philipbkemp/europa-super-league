@@ -475,7 +475,7 @@
 	{"country":"aze","name":"MOIK Baku","id":"MOIK_Baku","win":10,"draw":4,"loss":16,"for":30,"against":43,"isReturning":true,"isRemoved":true,"removedNote":"League not held next season due to dispute between clubs and FA"},
 	{"country":"aze","name":"Dinamo Bakili Baku","id":"FC_Baku","win":0,"draw":4,"loss":26,"for":17,"against":70,"isRemoved":true,"removedNote":"League not held next season due to dispute between clubs and FA"},
 	{"country":"blr","name":"Belshina Bobruisk","id":"FC_Belshina_Bobruisk","win":17,"draw":4,"loss":5,"for":43,"against":20,"isChampion":true},
-	{"country":"blr","name":"Dinamo Minsk","id":"FC_Dinamo_Minsk","win":16,"draw":5,"loss":5,"for":52,"against":21},
+	{"country":"blr","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":16,"draw":5,"loss":5,"for":52,"against":21},
 	{"country":"blr","name":"BATE Borisov","id":"FC_BATE_Borisov","win":16,"draw":3,"loss":7,"for":54,"against":31},
 	{"country":"blr","name":"Neman-Belcard Grodno","id":"FC_Neman_Grodno","win":14,"draw":8,"loss":4,"for":44,"against":20},
 	{"country":"blr","name":"Shakhtyor Soligorsk","id":"FC_Shakhtyor_Soligorsk","win":13,"draw":7,"loss":6,"for":43,"against":24},
