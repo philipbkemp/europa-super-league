@@ -247,7 +247,7 @@
 	{"country":"lva","name":"Liepāja","id":"FK_Liepāja","win":11,"draw":4,"loss":9,"for":32,"against":25},
 	{"country":"lva","name":"Riga","id":"Riga_FC","win":10,"draw":7,"loss":7,"for":28,"against":20},
 	{"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":9,"draw":8,"loss":7,"for":32,"against":22},
-	{"country":"lva","name":"RFS","id":"FK_RFS","win":11,"draw":2,"loss":11,"for":29,"against":31},
+	{"country":"lva","name":"RFS","id":"fk_rfs","win":11,"draw":2,"loss":11,"for":29,"against":31},
 	{"country":"lva","name":"Jelgava","id":"FK_Jelgava","win":8,"draw":5,"loss":11,"for":22,"against":30},
 	{"country":"lva","name":"METTA/LU","id":"FK_Metta","win":3,"draw":6,"loss":15,"for":21,"against":46},
 	{"country":"lva","name":"Babīte","id":"SK_Babīte","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Excluded due to match fixing; Record expunged","isNew":true},

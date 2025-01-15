@@ -689,7 +689,7 @@ THEDATA = [
 	{"country":"ltu","name":"Panevėžys","id":"FK_Panevėžys","win":9,"draw":14,"loss":13,"for":34,"against":40},
 	{"country":"ltu","name":"Sūduva","id":"FK_Sūduva","win":9,"draw":12,"loss":15,"for":33,"against":38},
 	{"country":"ltu","name":"TransINVEST","id":"FK_TransINVEST","win":11,"draw":5,"loss":20,"for":35,"against":50,"isRemoved":true,"isNew":true},
-	{"country":"lva","name":"RFS","id":"FK_RFS","win":29,"draw":3,"loss":4,"for":103,"against":25,"isChampion":true},
+	{"country":"lva","name":"RFS","id":"fk_rfs","win":29,"draw":3,"loss":4,"for":103,"against":25,"isChampion":true},
 	{"country":"lva","name":"Riga","id":"Riga_FC","win":27,"draw":6,"loss":3,"for":99,"against":23},
 	{"country":"lva","name":"Auda","id":"FK_Auda","win":18,"draw":6,"loss":12,"for":63,"against":34},
 	{"country":"lva","name":"Valmiera","id":"Valmiera_FC","win":19,"draw":7,"loss":10,"for":75,"against":39,"deduct":-9,"deductReason":"Licensing regulation breaches"},

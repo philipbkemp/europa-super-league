@@ -252,7 +252,7 @@
 	{"country":"lva","name":"Olimps/RFS","id":"JFK_Olimps","win":11,"draw":5,"loss":16,"for":53,"against":60},
 	{"country":"lva","name":"Blāzma Rēzekne","id":"SK_Blāzma","win":7,"draw":5,"loss":20,"for":30,"against":71},
 	{"country":"lva","name":"Tranzīts Ventspils","id":"FC_Tranzit","win":2,"draw":10,"loss":20,"for":22,"against":65,"isNew":true},
-	{"country":"lva","name":"Daugava Rīga","id":"FK_RFS","win":3,"draw":5,"loss":24,"for":26,"against":116,"isRemoved":true,"isNew":true},
+	{"country":"lva","name":"Daugava Rīga","id":"fk_rfs","win":3,"draw":5,"loss":24,"for":26,"against":116,"isRemoved":true,"isNew":true},
 	{"country":"lva","name":"Dinaburg","id":"Dinaburg_FC","win":15,"draw":4,"loss":13,"for":31,"against":39,"isRemoved":true,"removedNote":"Relegation/excluded due to match fixing"},
 	{"country":"nir","name":"Linfield","id":"linfield_fc","win":22,"draw":8,"loss":8,"for":78,"against":37,"isChampion":true},
 	{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":21,"draw":6,"loss":11,"for":69,"against":42},

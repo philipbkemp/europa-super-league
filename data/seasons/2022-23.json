@@ -251,7 +251,7 @@
 	{"country":"est","name":"Vaprus","id":"Pärnu_JK_Vaprus","win":3,"draw":2,"loss":31,"for":32,"against":96},
 	{"country":"lva","name":"Valmiera","id":"Valmiera_FC","win":26,"draw":7,"loss":3,"for":101,"against":25,"isChampion":true},
 	{"country":"lva","name":"Riga","id":"Riga_FC","win":26,"draw":3,"loss":7,"for":68,"against":23},
-	{"country":"lva","name":"RFS","id":"FK_RFS","win":22,"draw":10,"loss":4,"for":83,"against":32},
+	{"country":"lva","name":"RFS","id":"fk_rfs","win":22,"draw":10,"loss":4,"for":83,"against":32},
 	{"country":"lva","name":"Liepāja","id":"FK_Liepāja","win":21,"draw":7,"loss":8,"for":72,"against":42},
 	{"country":"lva","name":"Auda","id":"FK_Auda","win":15,"draw":6,"loss":15,"for":42,"against":36,"isReturning":true},
 	{"country":"lva","name":"Tukums 2000","id":"FK_Tukums_2000","win":11,"draw":5,"loss":20,"for":38,"against":69,"isReturning":true},

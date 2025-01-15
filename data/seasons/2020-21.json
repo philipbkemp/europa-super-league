@@ -250,7 +250,7 @@
 	{"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":5,"draw":9,"loss":16,"for":28,"against":63},
 	{"country":"est","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":5,"draw":5,"loss":20,"for":20,"against":68,"isRemoved":true},
 	{"country":"lva","name":"Riga","id":"Riga_FC","win":23,"draw":0,"loss":4,"for":60,"against":21,"isChampion":true},
-	{"country":"lva","name":"Rīgas FS","id":"FK_RFS","win":21,"draw":3,"loss":3,"for":66,"against":21},
+	{"country":"lva","name":"Rīgas FS","id":"fk_rfs","win":21,"draw":3,"loss":3,"for":66,"against":21},
 	{"country":"lva","name":"Valmiera/BSS","id":"Valmiera_FC","win":13,"draw":8,"loss":6,"for":47,"against":33},
 	{"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":12,"draw":8,"loss":7,"for":40,"against":25},
 	{"country":"lva","name":"Liepāja","id":"FK_Liepāja","win":12,"draw":6,"loss":9,"for":57,"against":34},

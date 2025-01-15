@@ -246,7 +246,7 @@
 	{"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":15,"draw":6,"loss":7,"for":47,"against":28},
 	{"country":"lva","name":"Liepāja","id":"FK_Liepāja","win":12,"draw":6,"loss":10,"for":38,"against":31},
 	{"country":"lva","name":"Riga","id":"Riga_FC","win":8,"draw":12,"loss":8,"for":28,"against":24,"isNew":true},
-	{"country":"lva","name":"FK RFS","id":"FK_RFS","win":9,"draw":8,"loss":11,"for":22,"against":31,"isReturning":true},
+	{"country":"lva","name":"FK RFS","id":"fk_rfs","win":9,"draw":8,"loss":11,"for":22,"against":31,"isReturning":true},
 	{"country":"lva","name":"METTA/LU","id":"FK_Metta","win":8,"draw":6,"loss":14,"for":32,"against":47},
 	{"country":"lva","name":"BFC Daugavpils","id":"BFC_Daugavpils","win":2,"draw":5,"loss":21,"for":13,"against":56,"isRemoved":true},
 	{"country":"nir","name":"Linfield","id":"linfield_fc","win":27,"draw":8,"loss":3,"for":87,"against":24,"isChampion":true},

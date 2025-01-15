@@ -247,7 +247,7 @@
 	{"country":"est","name":"Tulevik","id":"Viljandi_JK_Tulevik","win":9,"draw":3,"loss":18,"for":39,"against":62,"isRemoved":true,"removedNote":"Voluntarily relegated due to financial issues"},
 	{"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":7,"draw":4,"loss":19,"for":34,"against":72},
 	{"country":"est","name":"Vaprus","id":"Pärnu_JK_Vaprus","win":5,"draw":3,"loss":22,"for":24,"against":88,"isReturning":true},
-	{"country":"lva","name":"RFS","id":"FK_RFS","win":20,"draw":6,"loss":2,"for":65,"against":22,"isChampion":true},
+	{"country":"lva","name":"RFS","id":"fk_rfs","win":20,"draw":6,"loss":2,"for":65,"against":22,"isChampion":true},
 	{"country":"lva","name":"Valmiera","id":"Valmiera_FC","win":19,"draw":5,"loss":4,"for":54,"against":19},
 	{"country":"lva","name":"Liepāja","id":"FK_Liepāja","win":16,"draw":3,"loss":9,"for":47,"against":26},
 	{"country":"lva","name":"Riga","id":"Riga_FC","win":14,"draw":8,"loss":6,"for":54,"against":26},
