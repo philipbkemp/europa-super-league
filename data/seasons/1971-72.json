@@ -416,7 +416,7 @@
 	{"country":"fra","name":"Ajaccio","id":"AC_Ajaccio","win":12,"draw":9,"loss":17,"for":49,"against":53},
 	{"country":"fra","name":"Metz","id":"FC_Metz","win":13,"draw":7,"loss":18,"for":44,"against":49},
 	{"country":"fra","name":"Reims","id":"Stade_de_Reims","win":9,"draw":13,"loss":16,"for":46,"against":69},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":10,"draw":10,"loss":18,"for":51,"against":67,"isRemoved":true,"isNew":true},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":10,"draw":10,"loss":18,"for":51,"against":67,"isRemoved":true,"isNew":true},
 	{"country":"fra","name":"Red Star","id":"Red_Star_F.C.","win":10,"draw":10,"loss":18,"for":34,"against":64},
 	{"country":"fra","name":"Lille","id":"Lille_OSC","win":8,"draw":10,"loss":20,"for":43,"against":68,"isRemoved":true,"isReturning":true},
 	{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":8,"draw":10,"loss":20,"for":41,"against":68,"isRemoved":true,"isReturning":true},

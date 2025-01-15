@@ -350,7 +350,7 @@
 	{"country":"fin","name":"FC KooTeePee","id":"FC_KooTeePee","win":6,"draw":4,"loss":16,"for":28,"against":53,"isNew":true},
 	{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":4,"draw":6,"loss":16,"for":25,"against":57,"isRemoved":true},
 	{"country":"fra","name":"Lyon","id":"Olympique_Lyonnais","win":24,"draw":7,"loss":7,"for":64,"against":26,"isChampion":true},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":22,"draw":10,"loss":6,"for":50,"against":28},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":22,"draw":10,"loss":6,"for":50,"against":28},
 	{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":21,"draw":12,"loss":5,"for":59,"against":30},
 	{"country":"fra","name":"Auxerre","id":"AJ_Auxerre","win":19,"draw":8,"loss":11,"for":60,"against":34},
 	{"country":"fra","name":"Sochaux","id":"FC_Sochaux-Montbéliard","win":18,"draw":9,"loss":11,"for":54,"against":42},

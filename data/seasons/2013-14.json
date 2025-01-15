@@ -368,7 +368,7 @@
 	{"country":"fin","name":"FF Jaro","id":"FF_Jaro","win":9,"draw":10,"loss":14,"for":41,"against":50},
 	{"country":"fin","name":"RoPS","id":"Rovaniemen_Palloseura","win":8,"draw":10,"loss":15,"for":25,"against":36,"isReturning":true},
 	{"country":"fin","name":"JJK","id":"JJK_Jyväskylä","win":4,"draw":10,"loss":19,"for":27,"against":64,"isRemoved":true},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":27,"draw":8,"loss":3,"for":84,"against":23,"isChampion":true},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":27,"draw":8,"loss":3,"for":84,"against":23,"isChampion":true},
 	{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":23,"draw":11,"loss":4,"for":63,"against":31,"isReturning":true},
 	{"country":"fra","name":"Lille","id":"Lille_OSC","win":20,"draw":11,"loss":7,"for":46,"against":26},
 	{"country":"fra","name":"Saint-Étienne","id":"AS_Saint-Étienne","win":20,"draw":9,"loss":9,"for":56,"against":34},

@@ -401,7 +401,7 @@
 	{"country":"fra","name":"Lille","id":"Lille_OSC","win":11,"draw":17,"loss":10,"for":39,"against":37},
 	{"country":"fra","name":"Montpellier","id":"Montpellier_HSC","win":12,"draw":14,"loss":12,"for":44,"against":35},
 	{"country":"fra","name":"Caen","id":"Stade_Malherbe_Caen","win":13,"draw":12,"loss":13,"for":38,"against":36},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":13,"draw":12,"loss":13,"for":40,"against":42},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":13,"draw":12,"loss":13,"for":40,"against":42},
 	{"country":"fra","name":"Bordeaux","id":"FC_Girondins_de_Bordeaux","win":11,"draw":15,"loss":12,"for":34,"against":32,"isRemoved":true,"removedNote":"Administratively relegated due to financial difficulties"},
 	{"country":"fra","name":"Brest","id":"Stade_Brestois_29","win":11,"draw":15,"loss":12,"for":45,"against":46,"isRemoved":true,"removedNote":"Administratively relegated due to financial difficulties"},
 	{"country":"fra","name":"Metz","id":"FC_Metz","win":12,"draw":12,"loss":14,"for":44,"against":51},

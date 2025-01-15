@@ -208,7 +208,7 @@ THEDATA = [
 	{"country":"esp","name":"Espanyol","id":"RCD_Espanyol","win":4,"draw":4,"loss":11,"for":17,"against":31,"isReturning":true,"isCurrentSeason":true},
 	{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":4,"draw":3,"loss":12,"for":13,"against":37,"isReturning":true,"isCurrentSeason":true},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":2,"draw":7,"loss":10,"for":18,"against":29,"isCurrentSeason":true},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":13,"draw":4,"loss":0,"for":46,"against":15,"isCurrentSeason":true},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":13,"draw":4,"loss":0,"for":46,"against":15,"isCurrentSeason":true},
 	{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":11,"draw":3,"loss":3,"for":39,"against":20,"isCurrentSeason":true},
 	{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":9,"draw":4,"loss":4,"for":28,"against":18,"isCurrentSeason":true},
 	{"country":"fra","name":"Nice","id":"OGC_Nice","win":8,"draw":6,"loss":3,"for":35,"against":23,"isCurrentSeason":true},

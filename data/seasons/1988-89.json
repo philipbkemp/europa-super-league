@@ -396,7 +396,7 @@
 	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":4,"draw":12,"loss":11,"for":24,"against":34},
 	{"country":"fin","name":"PPT Pori","id":"FC_Jazz","win":0,"draw":7,"loss":20,"for":26,"against":63,"isRemoved":true},
 	{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":20,"draw":13,"loss":5,"for":56,"against":35,"isChampion":true},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":19,"draw":13,"loss":6,"for":45,"against":26},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":19,"draw":13,"loss":6,"for":45,"against":26},
 	{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":18,"draw":14,"loss":6,"for":62,"against":38},
 	{"country":"fra","name":"Sochaux","id":"FC_Sochaux-Montbéliard","win":19,"draw":11,"loss":8,"for":50,"against":28,"isReturning":true},
 	{"country":"fra","name":"Auxerre","id":"AJ_Auxerre","win":18,"draw":9,"loss":11,"for":41,"against":32},

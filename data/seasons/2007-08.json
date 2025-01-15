@@ -384,7 +384,7 @@
 	{"country":"fra","name":"Valenciennes","id":"Valenciennes_FC","win":12,"draw":9,"loss":17,"for":42,"against":40},
 	{"country":"fra","name":"Sochaux","id":"FC_Sochaux-Montbéliard","win":10,"draw":14,"loss":14,"for":34,"against":43},
 	{"country":"fra","name":"Auxerre","id":"AJ_Auxerre","win":12,"draw":8,"loss":18,"for":33,"against":52},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":10,"draw":13,"loss":15,"for":37,"against":45},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":10,"draw":13,"loss":15,"for":37,"against":45},
 	{"country":"fra","name":"Toulouse","id":"Toulouse_FC","win":9,"draw":15,"loss":14,"for":36,"against":42},
 	{"country":"fra","name":"Lens","id":"RC_Lens","win":9,"draw":13,"loss":16,"for":43,"against":52,"isRemoved":true},
 	{"country":"fra","name":"Strasbourg","id":"RC_Strasbourg_Alsace","win":9,"draw":8,"loss":21,"for":34,"against":55,"isRemoved":true,"isReturning":true},

@@ -356,7 +356,7 @@
 	{"country":"fin","name":"RoPS","id":"Rovaniemen_Palloseura","win":8,"draw":6,"loss":13,"for":23,"against":35},
 	{"country":"fin","name":"KPV","id":"Kokkolan_Palloveikot","win":7,"draw":4,"loss":16,"for":32,"against":47,"isRemoved":true,"isReturning":true},
 	{"country":"fin","name":"VPS","id":"Vaasan_Palloseura","win":3,"draw":10,"loss":14,"for":30,"against":45,"isRemoved":true},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":22,"draw":2,"loss":3,"for":75,"against":24,"isChampion":true},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":22,"draw":2,"loss":3,"for":75,"against":24,"isChampion":true},
 	{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":16,"draw":8,"loss":4,"for":41,"against":29},
 	{"country":"fra","name":"Rennes","id":"Stade_Rennais_F.C.","win":15,"draw":5,"loss":8,"for":38,"against":24},
 	{"country":"fra","name":"Lille","id":"Lille_OSC","win":15,"draw":4,"loss":9,"for":35,"against":27},

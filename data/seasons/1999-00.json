@@ -383,7 +383,7 @@
 	{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":8,"draw":5,"loss":15,"for":34,"against":42},
 	{"country":"fin","name":"TPV Tampere","id":"Tampereen_Pallo-Veikot","win":2,"draw":6,"loss":20,"for":23,"against":60,"isRemoved":true,"isReturning":true},
 	{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":20,"draw":5,"loss":9,"for":69,"against":38,"isChampion":true},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":16,"draw":10,"loss":8,"for":54,"against":40},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":16,"draw":10,"loss":8,"for":54,"against":40},
 	{"country":"fra","name":"Lyon","id":"Olympique_Lyonnais","win":16,"draw":8,"loss":10,"for":45,"against":42},
 	{"country":"fra","name":"Bordeaux","id":"FC_Girondins_de_Bordeaux","win":15,"draw":9,"loss":10,"for":52,"against":40},
 	{"country":"fra","name":"Lens","id":"RC_Lens","win":14,"draw":7,"loss":13,"for":42,"against":41},

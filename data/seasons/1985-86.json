@@ -400,7 +400,7 @@
 	{"country":"fin","name":"OTP Oulu","id":"Oulun_Työväen_Palloilijat","win":7,"draw":0,"loss":15,"for":23,"against":49,"isReturning":true},
 	{"country":"fin","name":"Koparit Kuopio","id":"Koparit","win":5,"draw":4,"loss":13,"for":19,"against":38},
 	{"country":"fin","name":"KPV Kokkola","id":"Kokkolan_Palloveikot","win":5,"draw":2,"loss":15,"for":18,"against":52,"isRemoved":true},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":23,"draw":10,"loss":5,"for":66,"against":33,"isChampion":true},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":23,"draw":10,"loss":5,"for":66,"against":33,"isChampion":true},
 	{"country":"fra","name":"Nantes","id":"FC_Nantes","win":20,"draw":13,"loss":5,"for":53,"against":27},
 	{"country":"fra","name":"Bordeaux","id":"FC_Girondins_de_Bordeaux","win":18,"draw":13,"loss":7,"for":55,"against":46},
 	{"country":"fra","name":"Toulouse","id":"Toulouse_FC","win":18,"draw":7,"loss":13,"for":59,"against":44},

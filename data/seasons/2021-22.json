@@ -364,7 +364,7 @@
 	{"country":"fin","name":"Mariehamn","id":"IFK_Mariehamn","win":9,"draw":3,"loss":15,"for":28,"against":40},
 	{"country":"fin","name":"Oulu","id":"AC_Oulu","win":6,"draw":5,"loss":16,"for":21,"against":44,"isReturning":true},
 	{"country":"fin","name":"KTP","id":"Kotkan_Työväen_Palloilijat","win":2,"draw":5,"loss":20,"for":25,"against":58,"isRemoved":true,"isReturning":true},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":26,"draw":8,"loss":4,"for":90,"against":36,"isChampion":true},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":26,"draw":8,"loss":4,"for":90,"against":36,"isChampion":true},
 	{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":21,"draw":8,"loss":9,"for":63,"against":38},
 	{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":20,"draw":9,"loss":9,"for":65,"against":40},
 	{"country":"fra","name":"Rennes","id":"Stade_Rennais_F.C.","win":20,"draw":6,"loss":12,"for":82,"against":40},

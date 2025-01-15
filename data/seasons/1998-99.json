@@ -390,7 +390,7 @@
 	{"country":"fra","name":"Lens","id":"RC_Lens","win":14,"draw":7,"loss":13,"for":46,"against":43},
 	{"country":"fra","name":"Nantes","id":"FC_Nantes","win":12,"draw":12,"loss":10,"for":40,"against":34},
 	{"country":"fra","name":"Montpellier","id":"Montpellier_HSC","win":11,"draw":10,"loss":13,"for":53,"against":50},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":10,"draw":9,"loss":15,"for":34,"against":35},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":10,"draw":9,"loss":15,"for":34,"against":35},
 	{"country":"fra","name":"Metz","id":"FC_Metz","win":9,"draw":12,"loss":13,"for":28,"against":37},
 	{"country":"fra","name":"Nancy","id":"AS_Nancy_Lorraine","win":10,"draw":9,"loss":15,"for":35,"against":45,"isReturning":true},
 	{"country":"fra","name":"Strasbourg","id":"RC_Strasbourg_Alsace","win":8,"draw":14,"loss":12,"for":30,"against":36},

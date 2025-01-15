@@ -382,7 +382,7 @@
 	{"country":"fra","name":"Le Mans","id":"Le_Mans_FC","win":11,"draw":16,"loss":11,"for":45,"against":46},
 	{"country":"fra","name":"Nancy","id":"AS_Nancy_Lorraine","win":13,"draw":10,"loss":15,"for":37,"against":44},
 	{"country":"fra","name":"Lorient","id":"FC_Lorient","win":12,"draw":13,"loss":13,"for":33,"against":40,"isReturning":true},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":12,"draw":12,"loss":14,"for":42,"against":42},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":12,"draw":12,"loss":14,"for":42,"against":42},
 	{"country":"fra","name":"Nice","id":"OGC_Nice","win":9,"draw":16,"loss":13,"for":34,"against":40},
 	{"country":"fra","name":"Valenciennes","id":"Valenciennes_FC","win":11,"draw":10,"loss":17,"for":36,"against":48,"isReturning":true},
 	{"country":"fra","name":"Troyes","id":"ES_Troyes_AC","win":9,"draw":12,"loss":17,"for":39,"against":54,"isRemoved":true},

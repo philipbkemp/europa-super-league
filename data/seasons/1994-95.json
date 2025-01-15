@@ -379,7 +379,7 @@
 	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":6,"draw":2,"loss":18,"for":24,"against":59,"isRemoved":true,"isReturning":true},
 	{"country":"fra","name":"Nantes","id":"FC_Nantes","win":21,"draw":16,"loss":1,"for":71,"against":34,"isChampion":true},
 	{"country":"fra","name":"Lyon","id":"Olympique_Lyonnais","win":19,"draw":12,"loss":7,"for":56,"against":38},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":20,"draw":7,"loss":11,"for":58,"against":41},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":20,"draw":7,"loss":11,"for":58,"against":41},
 	{"country":"fra","name":"Auxerre","id":"AJ_Auxerre","win":15,"draw":17,"loss":6,"for":59,"against":34},
 	{"country":"fra","name":"Lens","id":"RC_Lens","win":15,"draw":14,"loss":9,"for":48,"against":44},
 	{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":15,"draw":12,"loss":11,"for":60,"against":39},

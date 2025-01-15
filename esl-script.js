@@ -95,6 +95,8 @@ clubPages = ["preston_north_end_fc","linfield_fc","rangers_fc","budapesti_tc","f
 	,"fc_bayern_munich","bayer_04_leverkusen"
 	/*dnk*/
 	,"brondby_if","akademisk_boldklub","kjobenhavns_boldklub","boldklubben_frem","fc_copenhagen"
+	/*fra*/
+	,"paris_saint_germain_fc"
 	/*fro*/
 	,"havnar_boltfelag","klaksvikar_itrottarfelag","tvoroyrar_boltfelag","vikingur_gota"
 	/*gib*/

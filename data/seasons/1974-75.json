@@ -402,7 +402,7 @@
 	{"country":"fra","name":"Bordeaux","id":"FC_Girondins_de_Bordeaux","win":15,"draw":7,"loss":16,"for":48,"against":49},
 	{"country":"fra","name":"Lille","id":"Lille_OSC","win":15,"draw":5,"loss":18,"for":53,"against":56,"isReturning":true},
 	{"country":"fra","name":"Nice","id":"OGC_Nice","win":13,"draw":10,"loss":15,"for":59,"against":63},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":12,"draw":12,"loss":14,"for":57,"against":65,"isReturning":true},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":12,"draw":12,"loss":14,"for":57,"against":65,"isReturning":true},
 	{"country":"fra","name":"Troyes","id":"ES_Troyes_AC","win":12,"draw":10,"loss":16,"for":46,"against":55},
 	{"country":"fra","name":"Sochaux","id":"FC_Sochaux-Montbéliard","win":11,"draw":10,"loss":17,"for":41,"against":49},
 	{"country":"fra","name":"Angers","id":"Angers_SCO","win":9,"draw":10,"loss":19,"for":48,"against":60,"isRemoved":true},

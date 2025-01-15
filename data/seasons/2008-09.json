@@ -374,7 +374,7 @@
 	{"country":"fra","name":"Lyon","id":"Olympique_Lyonnais","win":20,"draw":11,"loss":7,"for":52,"against":29},
 	{"country":"fra","name":"Toulouse","id":"Toulouse_FC","win":16,"draw":16,"loss":6,"for":45,"against":27},
 	{"country":"fra","name":"Lille","id":"Lille_OSC","win":17,"draw":13,"loss":8,"for":51,"against":39},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":19,"draw":7,"loss":12,"for":49,"against":38},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":19,"draw":7,"loss":12,"for":49,"against":38},
 	{"country":"fra","name":"Rennes","id":"Stade_Rennais_F.C.","win":15,"draw":16,"loss":7,"for":42,"against":34},
 	{"country":"fra","name":"Auxerre","id":"AJ_Auxerre","win":16,"draw":7,"loss":15,"for":35,"against":35},
 	{"country":"fra","name":"Nice","id":"OGC_Nice","win":13,"draw":11,"loss":14,"for":40,"against":41},

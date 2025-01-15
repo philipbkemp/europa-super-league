@@ -356,7 +356,7 @@
 	{"country":"fin","name":"Inter Turku","id":"FC_Inter_Turku","win":7,"draw":11,"loss":15,"for":28,"against":41},
 	{"country":"fin","name":"PK-35 Vantaa","id":"PK-35_Vantaa_(men)","win":4,"draw":7,"loss":22,"for":32,"against":65,"isRemoved":true,"deduct":-6,"deductReason":"Overdue debts","isReturning":true},
 	{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":30,"draw":5,"loss":3,"for":107,"against":31,"isChampion":true},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":27,"draw":6,"loss":5,"for":83,"against":27},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":27,"draw":6,"loss":5,"for":83,"against":27},
 	{"country":"fra","name":"Nice","id":"OGC_Nice","win":22,"draw":12,"loss":4,"for":63,"against":36},
 	{"country":"fra","name":"Lyon","id":"Olympique_Lyonnais","win":21,"draw":4,"loss":13,"for":77,"against":48},
 	{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":17,"draw":11,"loss":10,"for":57,"against":41},

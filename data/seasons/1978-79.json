@@ -403,7 +403,7 @@
 	{"country":"fra","name":"Bordeaux","id":"FC_Girondins_de_Bordeaux","win":12,"draw":15,"loss":11,"for":45,"against":42},
 	{"country":"fra","name":"Nancy","id":"AS_Nancy_Lorraine","win":15,"draw":8,"loss":15,"for":77,"against":61},
 	{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":12,"draw":13,"loss":13,"for":50,"against":55},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":14,"draw":8,"loss":16,"for":59,"against":66},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":14,"draw":8,"loss":16,"for":59,"against":66},
 	{"country":"fra","name":"Bastia","id":"SC_Bastia","win":13,"draw":9,"loss":16,"for":53,"against":65},
 	{"country":"fra","name":"Nice","id":"OGC_Nice","win":11,"draw":10,"loss":17,"for":58,"against":75},
 	{"country":"fra","name":"Laval","id":"Stade_Lavallois","win":8,"draw":14,"loss":16,"for":53,"against":73},

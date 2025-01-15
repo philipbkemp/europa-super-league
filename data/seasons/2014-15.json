@@ -365,7 +365,7 @@
 	{"country":"fin","name":"FC Inter","id":"FC_Inter_Turku","win":8,"draw":12,"loss":13,"for":42,"against":47},
 	{"country":"fin","name":"FC Honka","id":"FC_Honka","win":6,"draw":13,"loss":14,"for":38,"against":57,"isRemoved":true},
 	{"country":"fin","name":"TPS","id":"Turun_Palloseura","win":6,"draw":6,"loss":21,"for":29,"against":60,"isRemoved":true},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":24,"draw":11,"loss":3,"for":83,"against":36,"isChampion":true},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":24,"draw":11,"loss":3,"for":83,"against":36,"isChampion":true},
 	{"country":"fra","name":"Lyon","id":"Olympique_Lyonnais","win":22,"draw":9,"loss":7,"for":72,"against":33},
 	{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":20,"draw":11,"loss":7,"for":51,"against":26},
 	{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":21,"draw":6,"loss":11,"for":76,"against":42},

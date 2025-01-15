@@ -406,7 +406,7 @@
 	{"country":"fin","name":"Reipas Lahti","id":"Reipas_Lahti","win":2,"draw":2,"loss":29,"for":17,"against":118,"isRemoved":true},
 	{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":23,"draw":12,"loss":3,"for":67,"against":21,"isChampion":true},
 	{"country":"fra","name":"Monaco","id":"AS_Monaco_FC","win":22,"draw":8,"loss":8,"for":55,"against":33},
-	{"country":"fra","name":"Paris Saint-Germain","id":"Paris_Saint-Germain_F.C.","win":15,"draw":17,"loss":6,"for":43,"against":27},
+	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":15,"draw":17,"loss":6,"for":43,"against":27},
 	{"country":"fra","name":"Auxerre","id":"AJ_Auxerre","win":16,"draw":12,"loss":10,"for":55,"against":32},
 	{"country":"fra","name":"Caen","id":"Stade_Malherbe_Caen","win":17,"draw":10,"loss":11,"for":45,"against":44},
 	{"country":"fra","name":"Montpellier","id":"Montpellier_HSC","win":12,"draw":18,"loss":8,"for":40,"against":32},
