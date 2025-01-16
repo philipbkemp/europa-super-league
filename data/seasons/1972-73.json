@@ -6,7 +6,7 @@
 	{"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":18,"draw":11,"loss":13,"for":66,"against":54},
 	{"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":17,"draw":12,"loss":13,"for":67,"against":53},
 	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":19,"draw":8,"loss":15,"for":56,"against":54},
-	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":16,"draw":13,"loss":13,"for":58,"against":48},
+	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":16,"draw":13,"loss":13,"for":58,"against":48},
 	{"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":16,"draw":13,"loss":13,"for":60,"against":51},
 	{"country":"eng","name":"Birmingham City","id":"Birmingham_City_F.C.","win":15,"draw":12,"loss":15,"for":53,"against":54,"isReturning":true},
 	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":15,"draw":11,"loss":16,"for":57,"against":60},

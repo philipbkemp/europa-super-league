@@ -1,7 +1,7 @@
 [
 	{"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":24,"draw":7,"loss":11,"for":85,"against":61,"isChampion":true},
 	{"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":24,"draw":6,"loss":12,"for":106,"against":67},
-	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":21,"draw":11,"loss":10,"for":86,"against":50},
+	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":21,"draw":11,"loss":10,"for":86,"against":50},
 	{"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":19,"draw":11,"loss":12,"for":83,"against":57},
 	{"country":"eng","name":"Sheffield Wednesday","id":"Sheffield_Wednesday_F.C.","win":19,"draw":11,"loss":12,"for":80,"against":59,"isReturning":true},
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":20,"draw":8,"loss":14,"for":59,"against":51},

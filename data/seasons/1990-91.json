@@ -8,7 +8,7 @@
 	{"country":"eng","name":"Wimbledon","id":"Wimbledon_F.C.","win":14,"draw":14,"loss":10,"for":53,"against":46},
 	{"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":14,"draw":12,"loss":12,"for":65,"against":50},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":13,"draw":12,"loss":13,"for":50,"against":46},
-	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":11,"draw":16,"loss":11,"for":51,"against":50},
+	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":11,"draw":16,"loss":11,"for":51,"against":50},
 	{"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":13,"draw":10,"loss":15,"for":58,"against":69},
 	{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_Rangers_F.C.","win":12,"draw":10,"loss":16,"for":44,"against":53},
 	{"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":13,"draw":7,"loss":18,"for":36,"against":55,"isReturning":true},

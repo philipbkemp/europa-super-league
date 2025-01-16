@@ -20,7 +20,7 @@
 	{"country":"eng","name":"Coventry City","id":"Coventry_City_F.C.","win":10,"draw":15,"loss":17,"for":48,"against":59},
 	{"country":"eng","name":"Sunderland","id":"Sunderland_A.F.C.","win":11,"draw":12,"loss":19,"for":46,"against":54,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"Stoke City","id":"Stoke_City_F.C.","win":10,"draw":14,"loss":18,"for":28,"against":51,"isRemoved":true},
-	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":12,"draw":9,"loss":21,"for":48,"against":72,"isRemoved":true},
+	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":12,"draw":9,"loss":21,"for":48,"against":72,"isRemoved":true},
 	{"country":"dnk","name":"Odense Boldklub","id":"Odense_Boldklub","win":19,"draw":9,"loss":2,"for":66,"against":27,"isChampion":true},
 	{"country":"dnk","name":"Boldklubben 1903","id":"Boldklubben_1903","win":15,"draw":9,"loss":6,"for":61,"against":41},
 	{"country":"dnk","name":"Esbjerg fB","id":"Esbjerg_fB","win":12,"draw":10,"loss":8,"for":47,"against":35},

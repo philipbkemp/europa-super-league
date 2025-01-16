@@ -9,7 +9,7 @@
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":15,"draw":16,"loss":11,"for":59,"against":49},
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":15,"draw":15,"loss":12,"for":60,"against":63},
 	{"country":"eng","name":"Coventry City","id":"Coventry_City_F.C.","win":14,"draw":16,"loss":12,"for":58,"against":68},
-	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":13,"draw":15,"loss":14,"for":48,"against":61,"isReturning":true},
+	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":13,"draw":15,"loss":14,"for":48,"against":61,"isReturning":true},
 	{"country":"eng","name":"Middlesbrough","id":"Middlesbrough_F.C.","win":15,"draw":10,"loss":17,"for":57,"against":50},
 	{"country":"eng","name":"Bristol City","id":"Bristol_City_F.C.","win":15,"draw":10,"loss":17,"for":47,"against":51},
 	{"country":"eng","name":"Southampton","id":"Southampton_F.C.","win":12,"draw":16,"loss":14,"for":47,"against":53,"isReturning":true},

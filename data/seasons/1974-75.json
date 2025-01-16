@@ -17,7 +17,7 @@
 	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":13,"draw":11,"loss":18,"for":47,"against":49},
 	{"country":"eng","name":"Birmingham City","id":"Birmingham_City_F.C.","win":14,"draw":9,"loss":19,"for":53,"against":61},
 	{"country":"eng","name":"Leicester City","id":"Leicester_City_F.C.","win":12,"draw":12,"loss":18,"for":46,"against":60},
-	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":13,"draw":8,"loss":21,"for":52,"against":63},
+	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":13,"draw":8,"loss":21,"for":52,"against":63},
 	{"country":"eng","name":"Luton Town","id":"Luton_Town_F.C.","win":11,"draw":11,"loss":20,"for":47,"against":65,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":9,"draw":15,"loss":18,"for":42,"against":72,"isRemoved":true},
 	{"country":"eng","name":"Carlisle United","id":"Carlisle_United_F.C.","win":12,"draw":5,"loss":25,"for":43,"against":59,"isRemoved":true,"isNew":true},

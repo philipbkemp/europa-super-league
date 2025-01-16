@@ -1,5 +1,5 @@
 [
-	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":25,"draw":10,"loss":7,"for":82,"against":44,"isChampion":true,"isReturning":true},
+	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":25,"draw":10,"loss":7,"for":82,"against":44,"isChampion":true,"isReturning":true},
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":24,"draw":8,"loss":10,"for":74,"against":40},
 	{"country":"eng","name":"Blackpool","id":"Blackpool_F.C.","win":20,"draw":10,"loss":12,"for":79,"against":53},
 	{"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":18,"draw":13,"loss":11,"for":62,"against":53},

@@ -7,7 +7,7 @@
 	{"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":17,"draw":13,"loss":8,"for":66,"against":38},
 	{"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":15,"draw":8,"loss":15,"for":48,"against":57},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":12,"draw":14,"loss":12,"for":46,"against":47},
-	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":14,"draw":8,"loss":16,"for":49,"against":53},
+	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":14,"draw":8,"loss":16,"for":49,"against":53},
 	{"country":"eng","name":"Blackburn Rovers","id":"Blackburn_Rovers_F.C.","win":12,"draw":10,"loss":16,"for":55,"against":51,"isReturning":true},
 	{"country":"eng","name":"Southampton","id":"Southampton_F.C.","win":12,"draw":9,"loss":17,"for":46,"against":54},
 	{"country":"eng","name":"Middlesbrough","id":"Middlesbrough_F.C.","win":12,"draw":9,"loss":17,"for":35,"against":47},

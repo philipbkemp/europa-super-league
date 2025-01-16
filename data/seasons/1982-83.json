@@ -2,7 +2,7 @@
 	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":24,"draw":10,"loss":8,"for":87,"against":37,"isChampion":true},
 	{"country":"eng","name":"Watford","id":"Watford_F.C.","win":22,"draw":5,"loss":15,"for":74,"against":57,"isNew":true},
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":19,"draw":13,"loss":10,"for":56,"against":38},
-	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":20,"draw":9,"loss":13,"for":65,"against":50},
+	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":20,"draw":9,"loss":13,"for":65,"against":50},
 	{"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":20,"draw":9,"loss":13,"for":62,"against":50},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":21,"draw":5,"loss":16,"for":62,"against":50},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":18,"draw":10,"loss":14,"for":66,"against":48},

@@ -179,7 +179,7 @@ THEDATA = [
 	{"country":"eng","name":"Fulham","id":"Fulham_F.C.","win":7,"draw":9,"loss":4,"for":30,"against":27,"isCurrentSeason":true},
 	{"country":"eng","name":"Brighton & Hove Albion","id":"Brighton_%26_Hove_Albion_F.C.","win":6,"draw":10,"loss":4,"for":30,"against":29,"isCurrentSeason":true},
 	{"country":"eng","name":"Brentford","id":"Brentford_F.C.","win":8,"draw":3,"loss":9,"for":38,"against":35,"isCurrentSeason":true},
-	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":7,"draw":3,"loss":10,"for":42,"against":30,"isCurrentSeason":true},
+	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":7,"draw":3,"loss":10,"for":42,"against":30,"isCurrentSeason":true},
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":6,"draw":5,"loss":9,"for":23,"against":28,"isCurrentSeason":true},
 	{"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":6,"draw":5,"loss":9,"for":24,"against":39,"isCurrentSeason":true},
 	{"country":"eng","name":"Crystal Palace","id":"Crystal_Palace_F.C.","win":4,"draw":9,"loss":7,"for":21,"against":28,"isCurrentSeason":true},

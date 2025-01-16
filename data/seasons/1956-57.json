@@ -1,6 +1,6 @@
 [
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":28,"draw":8,"loss":6,"for":103,"against":54,"isChampion":true},
-	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":22,"draw":12,"loss":8,"for":104,"against":56},
+	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":22,"draw":12,"loss":8,"for":104,"against":56},
 	{"country":"eng","name":"Preston North End","id":"preston_north_end_fc","win":23,"draw":10,"loss":9,"for":84,"against":56},
 	{"country":"eng","name":"Blackpool","id":"Blackpool_F.C.","win":22,"draw":9,"loss":11,"for":93,"against":65},
 	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":21,"draw":8,"loss":13,"for":85,"against":69},

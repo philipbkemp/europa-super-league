@@ -13,7 +13,7 @@
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":13,"draw":14,"loss":15,"for":52,"against":51},
 	{"country":"eng","name":"Wimbledon","id":"Wimbledon_F.C.","win":13,"draw":14,"loss":15,"for":53,"against":53},
 	{"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":13,"draw":14,"loss":15,"for":50,"against":60},
-	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":15,"draw":7,"loss":20,"for":58,"against":63},
+	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":15,"draw":7,"loss":20,"for":58,"against":63},
 	{"country":"eng","name":"Southampton","id":"Southampton_F.C.","win":14,"draw":10,"loss":18,"for":39,"against":55},
 	{"country":"eng","name":"Oldham Athletic","id":"Oldham_Athletic_A.F.C.","win":14,"draw":9,"loss":19,"for":63,"against":67,"isReturning":true},
 	{"country":"eng","name":"Norwich City","id":"Norwich_City_F.C.","win":11,"draw":12,"loss":19,"for":47,"against":63},

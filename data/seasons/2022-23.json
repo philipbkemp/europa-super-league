@@ -6,7 +6,7 @@
 	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":19,"draw":10,"loss":9,"for":75,"against":47},
 	{"country":"eng","name":"Brighton & Hove Albion","id":"Brighton_%26_Hove_Albion_F.C.","win":18,"draw":8,"loss":12,"for":72,"against":53},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":18,"draw":7,"loss":13,"for":51,"against":46},
-	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":18,"draw":6,"loss":14,"for":70,"against":63},
+	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":18,"draw":6,"loss":14,"for":70,"against":63},
 	{"country":"eng","name":"Brentford","id":"Brentford_F.C.","win":15,"draw":14,"loss":9,"for":58,"against":46},
 	{"country":"eng","name":"Fulham","id":"Fulham_F.C.","win":15,"draw":7,"loss":16,"for":55,"against":53,"isReturning":true},
 	{"country":"eng","name":"Crystal Palace","id":"Crystal_Palace_F.C.","win":11,"draw":12,"loss":15,"for":40,"against":49},

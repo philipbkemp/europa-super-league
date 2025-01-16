@@ -15,7 +15,7 @@
 	{"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":13,"draw":8,"loss":17,"for":47,"against":47},
 	{"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":14,"draw":6,"loss":18,"for":56,"against":70},
 	{"country":"eng","name":"Middlesbrough","id":"Middlesbrough_F.C.","win":11,"draw":10,"loss":17,"for":55,"against":69},
-	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":12,"draw":6,"loss":20,"for":45,"against":72},
+	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":12,"draw":6,"loss":20,"for":45,"against":72},
 	{"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":11,"draw":6,"loss":21,"for":51,"against":73,"isReturning":true},
 	{"country":"eng","name":"Notts County","id":"Notts_County_F.C.","win":7,"draw":9,"loss":22,"for":28,"against":56,"isRemoved":true},
 	{"country":"eng","name":"Woolwich Arsenal","id":"Arsenal_F.C.","win":3,"draw":12,"loss":23,"for":26,"against":74,"isRemoved":true},

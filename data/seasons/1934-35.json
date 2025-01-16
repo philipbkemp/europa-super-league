@@ -20,7 +20,7 @@
 	{"country":"eng","name":"Birmingham","id":"Birmingham_City_F.C.","win":13,"draw":10,"loss":19,"for":63,"against":81},
 	{"country":"eng","name":"Middlesbrough","id":"Middlesbrough_F.C.","win":10,"draw":14,"loss":18,"for":70,"against":90},
 	{"country":"eng","name":"Leicester City","id":"Leicester_City_F.C.","win":12,"draw":9,"loss":21,"for":61,"against":86,"isRemoved":true},
-	{"country":"eng","name":"Tottenham Hotspur","id":"Tottenham_Hotspur_F.C.","win":10,"draw":10,"loss":22,"for":54,"against":93,"isRemoved":true},
+	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":10,"draw":10,"loss":22,"for":54,"against":93,"isRemoved":true},
 	{"country":"dnk","name":"Boldklubben af 1893","id":"Boldklubben_af_1893","win":6,"draw":1,"loss":2,"for":26,"against":13,"isChampion":true},
 	{"country":"dnk","name":"Boldklubben Frem","id":"boldklubben_frem","win":5,"draw":2,"loss":2,"for":28,"against":16},
 	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":5,"draw":2,"loss":2,"for":22,"against":14},
