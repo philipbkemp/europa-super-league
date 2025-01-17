@@ -692,7 +692,7 @@
 	{"country":"cze","name":"Bohemians Prague","id":"Bohemians_1905","win":4,"draw":7,"loss":19,"for":22,"against":53,"isRemoved":true,"isReturning":true},
 	{"country":"svk","name":"1. FC Košice","id":"FC_VSS_Košice","win":21,"draw":7,"loss":2,"for":61,"against":19,"isChampion":true},
 	{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":21,"draw":6,"loss":3,"for":66,"against":24},
-	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":15,"draw":5,"loss":10,"for":49,"against":33},
+	{"country":"svk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":15,"draw":5,"loss":10,"for":49,"against":33},
 	{"country":"svk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":13,"draw":9,"loss":8,"for":38,"against":35},
 	{"country":"svk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":13,"draw":5,"loss":12,"for":48,"against":37},
 	{"country":"svk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":12,"draw":7,"loss":11,"for":37,"against":38},

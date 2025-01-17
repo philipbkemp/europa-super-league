@@ -626,7 +626,7 @@
 	{"country":"cze","name":"Karviná","id":"MFK_Karviná","win":5,"draw":12,"loss":16,"for":25,"against":46},
 	{"country":"cze","name":"Opava","id":"SFC_Opava","win":5,"draw":10,"loss":18,"for":17,"against":50},
 	{"country":"cze","name":"Příbram","id":"FK_Příbram","win":6,"draw":7,"loss":20,"for":21,"against":55},
-	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":21,"draw":5,"loss":1,"for":57,"against":14,"isChampion":true},
+	{"country":"svk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":21,"draw":5,"loss":1,"for":57,"against":14,"isChampion":true},
 	{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":15,"draw":6,"loss":6,"for":48,"against":25},
 	{"country":"svk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":15,"draw":5,"loss":7,"for":42,"against":28},
 	{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":10,"draw":5,"loss":12,"for":30,"against":32},

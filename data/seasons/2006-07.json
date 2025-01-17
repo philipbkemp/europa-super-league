@@ -671,7 +671,7 @@
 	{"country":"svk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":7,"draw":6,"loss":15,"for":24,"against":46},
 	{"country":"svk","name":"Senec","id":"FC_Senec","win":3,"draw":8,"loss":17,"for":22,"against":63,"isReturning":true},
 	{"country":"svk","name":"Nitra","id":"FC_Nitra","win":9,"draw":4,"loss":15,"for":21,"against":33},
-	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":11,"draw":8,"loss":9,"for":35,"against":33,"isReturning":true},
+	{"country":"svk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":11,"draw":8,"loss":9,"for":35,"against":33,"isReturning":true},
 	{"country":"svk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":5,"draw":4,"loss":5,"for":14,"against":15,"isRemoved":true},
 	{"country":"svk","name":"ZTS Dubnica","id":"FK_Spartak_Dubnica_nad_Váhom","win":6,"draw":5,"loss":3,"for":16,"against":15},
 	{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":7,"draw":4,"loss":3,"for":18,"against":13},

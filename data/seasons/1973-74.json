@@ -472,7 +472,7 @@
 	{"country":"fro","name":"VB Vágur","id":"Vágs_Bóltfelag","win":3,"draw":1,"loss":5,"for":18,"against":20},
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":2,"draw":1,"loss":7,"for":12,"against":25},
 	{"country":"fro","name":"ÍF Fuglafjørður","id":"Ítróttarfelag_Fuglafjarðar","win":1,"draw":0,"loss":9,"for":11,"against":46},
-	{"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":15,"draw":7,"loss":8,"for":58,"against":39,"isChampion":true},
+	{"country":"csk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":15,"draw":7,"loss":8,"for":58,"against":39,"isChampion":true},
 	{"country":"csk","name":"Dukla Prague","id":"Dukla_Prague","win":14,"draw":7,"loss":9,"for":42,"against":34},
 	{"country":"csk","name":"Slavia Prague","id":"sk_slavia_prague","win":16,"draw":2,"loss":12,"for":47,"against":38},
 	{"country":"csk","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":14,"draw":6,"loss":10,"for":40,"against":42},

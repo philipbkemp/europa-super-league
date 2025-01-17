@@ -441,7 +441,7 @@
 	{"country":"csk","name":"VSS Košice","id":"FC_VSS_Košice","win":11,"draw":8,"loss":7,"for":35,"against":31},
 	{"country":"csk","name":"Slovnaft Bratislava","id":"FK_Inter_Bratislava","win":11,"draw":7,"loss":8,"for":33,"against":22},
 	{"country":"csk","name":"Jednota Trenčín","id":"TTS_Trenčín","win":13,"draw":3,"loss":10,"for":47,"against":33},
-	{"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":7,"draw":14,"loss":5,"for":35,"against":26},
+	{"country":"csk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":7,"draw":14,"loss":5,"for":35,"against":26},
 	{"country":"csk","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":11,"draw":6,"loss":9,"for":44,"against":33},
 	{"country":"csk","name":"Dukla Prague","id":"Dukla_Prague","win":9,"draw":9,"loss":8,"for":37,"against":24},
 	{"country":"csk","name":"Slovan Teplice","id":"FK_Teplice","win":12,"draw":1,"loss":13,"for":31,"against":53,"isReturning":true},

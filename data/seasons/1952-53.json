@@ -344,7 +344,7 @@
 	{"country":"fro","name":"VB Vagur","id":"Vágs_Bóltfelag","win":1,"draw":2,"loss":5,"for":7,"against":21,"isReturning":true},
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":0,"draw":2,"loss":6,"for":3,"against":14},
 	{"country":"csk","name":"Sparta ČKD Sokolovo","id":"ac_sparta_prague","win":18,"draw":5,"loss":3,"for":63,"against":22,"isChampion":true},
-	{"country":"csk","name":"NV Bratislava","id":"ŠK_Slovan_Bratislava","win":18,"draw":4,"loss":4,"for":59,"against":25},
+	{"country":"csk","name":"NV Bratislava","id":"sk_slovan_bratislava","win":18,"draw":4,"loss":4,"for":59,"against":25},
 	{"country":"csk","name":"Ingstav Teplice","id":"FK_Teplice","win":13,"draw":7,"loss":6,"for":48,"against":30,"isRemoved":true},
 	{"country":"csk","name":"SONP Kladno","id":"SK_Kladno","win":11,"draw":7,"loss":8,"for":67,"against":47,"isReturning":true},
 	{"country":"csk","name":"Kovosmalt Trnava","id":"FC_Spartak_Trnava","win":10,"draw":9,"loss":7,"for":48,"against":49,"isReturning":true,"isRemoved":true},

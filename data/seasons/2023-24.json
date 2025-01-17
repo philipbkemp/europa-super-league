@@ -664,7 +664,7 @@
 	{"country":"cze","name":"Karviná","id":"MFK_Karviná","win":8,"draw":8,"loss":19,"for":38,"against":62,"isReturning":true},
 	{"country":"cze","name":"Zlín","id":"FC_Zlín","win":5,"draw":12,"loss":18,"for":40,"against":69,"isRemoved":true},
 	{"country":"cze","name":"České Budějovice","id":"SK_Dynamo_České_Budějovice","win":7,"draw":8,"loss":20,"for":41,"against":70},
-	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":23,"draw":4,"loss":5,"for":76,"against":31,"isChampion":true},
+	{"country":"svk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":23,"draw":4,"loss":5,"for":76,"against":31,"isChampion":true},
 	{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":16,"draw":7,"loss":9,"for":54,"against":45},
 	{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":18,"draw":3,"loss":11,"for":47,"against":29},
 	{"country":"svk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":16,"draw":10,"loss":6,"for":49,"against":32},

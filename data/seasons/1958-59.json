@@ -379,7 +379,7 @@
 	{"country":"csk","name":"Rudá Hvězda Brno","id":"Rudá_Hvězda_Brno","win":13,"draw":1,"loss":12,"for":44,"against":43},
 	{"country":"csk","name":"FC Baník Ostrava","id":"FC_Baník_Ostrava","win":10,"draw":6,"loss":10,"for":44,"against":40},
 	{"country":"csk","name":"FC Spartak Trnava","id":"FC_Spartak_Trnava","win":9,"draw":7,"loss":10,"for":31,"against":28},
-	{"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":8,"draw":8,"loss":10,"for":38,"against":36},
+	{"country":"csk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":8,"draw":8,"loss":10,"for":38,"against":36},
 	{"country":"csk","name":"Spartak Prague Stalingrad","id":"Bohemians_1905","win":7,"draw":9,"loss":10,"for":37,"against":42,"isReturning":true},
 	{"country":"csk","name":"Spartak Prague Sokolovo","id":"ac_sparta_prague","win":8,"draw":7,"loss":11,"for":37,"against":47},
 	{"country":"csk","name":"Jednota Košice","id":"FC_VSS_Košice","win":10,"draw":3,"loss":13,"for":32,"against":43,"isReturning":true},

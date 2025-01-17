@@ -693,7 +693,7 @@
 	{"country":"cze","name":"Hradec Králové","id":"FC_Hradec_Králové","win":8,"draw":5,"loss":17,"for":28,"against":46},
 	{"country":"cze","name":"Svit Zlín","id":"FC_Zlín","win":6,"draw":9,"loss":15,"for":17,"against":38,"isRemoved":true},
 	{"country":"cze","name":"Uherské Hradiště","id":"FC_Slovácká_Slavia_Uherské_Hradiště","win":3,"draw":8,"loss":19,"for":19,"against":65,"isRemoved":true,"isNew":true},
-	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":22,"draw":9,"loss":1,"for":79,"against":20,"isChampion":true},
+	{"country":"svk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":22,"draw":9,"loss":1,"for":79,"against":20,"isChampion":true},
 	{"country":"svk","name":"1. FC Košice","id":"FC_VSS_Košice","win":21,"draw":2,"loss":9,"for":62,"against":33},
 	{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":19,"draw":6,"loss":7,"for":54,"against":32},
 	{"country":"svk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":12,"draw":11,"loss":9,"for":39,"against":36},

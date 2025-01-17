@@ -657,7 +657,7 @@
 	{"country":"cze","name":"Bohemians 1905","id":"Bohemians_1905","win":8,"draw":10,"loss":17,"for":45,"against":61},
 	{"country":"cze","name":"Pardubice","id":"FK_Pardubice","win":9,"draw":10,"loss":16,"for":42,"against":68},
 	{"country":"cze","name":"Karviná","id":"MFK_Karviná","win":3,"draw":10,"loss":22,"for":33,"against":63,"isRemoved":true},
-	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":22,"draw":8,"loss":2,"for":71,"against":25,"isChampion":true},
+	{"country":"svk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":22,"draw":8,"loss":2,"for":71,"against":25,"isChampion":true},
 	{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":17,"draw":9,"loss":6,"for":36,"against":17},
 	{"country":"svk","name":"Ružomberok","id":"MFK_Ružomberok","win":17,"draw":12,"loss":3,"for":58,"against":23},
 	{"country":"svk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":12,"draw":10,"loss":10,"for":39,"against":37},

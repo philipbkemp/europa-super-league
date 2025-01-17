@@ -674,7 +674,7 @@
 	{"country":"cze","name":"Hradec Králové","id":"FC_Hradec_Králové","win":4,"draw":11,"loss":15,"for":21,"against":38,"isRemoved":true},
 	{"country":"svk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":21,"draw":7,"loss":2,"for":65,"against":16,"isChampion":true},
 	{"country":"svk","name":"1. FC Košice","id":"FC_VSS_Košice","win":19,"draw":4,"loss":7,"for":57,"against":31},
-	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":16,"draw":9,"loss":5,"for":52,"against":18},
+	{"country":"svk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":16,"draw":9,"loss":5,"for":52,"against":18},
 	{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":15,"draw":8,"loss":7,"for":38,"against":21},
 	{"country":"svk","name":"Ozeta Dukla Trenčín","id":"AS_Trenčín","win":13,"draw":8,"loss":9,"for":38,"against":29},
 	{"country":"svk","name":"Tatran Prešov","id":"1._FC_Tatran_Prešov","win":14,"draw":5,"loss":11,"for":38,"against":42},

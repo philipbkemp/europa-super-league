@@ -158,7 +158,7 @@
 	{"country":"csk","name":"SK Židenice","id":"FC_Zbrojovka_Brno","win":7,"draw":4,"loss":11,"for":51,"against":68},
 	{"country":"csk","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":6,"draw":4,"loss":12,"for":38,"against":70,"isRemoved":true},
 	{"country":"csk","name":"SK Libeň","id":"SK_Libeň","win":5,"draw":5,"loss":12,"for":32,"against":58,"isRemoved":true,"isReturning":true},
-	{"country":"svk","name":"ŠK Bratislava","id":"ŠK_Slovan_Bratislava","win":14,"draw":4,"loss":4,"for":90,"against":33,"isChampion":true},
+	{"country":"svk","name":"ŠK Bratislava","id":"sk_slovan_bratislava","win":14,"draw":4,"loss":4,"for":90,"against":33,"isChampion":true},
 	{"country":"svk","name":"FC Vrútky","id":"FC_Vrútky","win":13,"draw":5,"loss":4,"for":48,"against":36},
 	{"country":"svk","name":"AC Považská Bystrica","id":"MŠK_Považská_Bystrica_(football)","win":11,"draw":4,"loss":7,"for":48,"against":34},
 	{"country":"svk","name":"SK Slávia Prešov","id":"1._FC_Tatran_Prešov","win":10,"draw":4,"loss":8,"for":50,"against":52},

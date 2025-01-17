@@ -665,7 +665,7 @@
 	{"country":"cze","name":"Kladno","id":"SK_Kladno","win":7,"draw":4,"loss":19,"for":24,"against":50,"isRemoved":true},
 	{"country":"cze","name":"Bohemians Prague (Střížkov)","id":"FK_Bohemians_Prague_(Střížkov)","win":4,"draw":4,"loss":22,"for":27,"against":65,"isRemoved":true,"deduct":-15,"deductReason":"Refusing to play a match, and accusing another team of corruption"},
 	{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":23,"draw":4,"loss":6,"for":59,"against":17,"isChampion":true},
-	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":21,"draw":7,"loss":5,"for":54,"against":24},
+	{"country":"svk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":21,"draw":7,"loss":5,"for":54,"against":24},
 	{"country":"svk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":15,"draw":11,"loss":7,"for":45,"against":30},
 	{"country":"svk","name":"Nitra","id":"FC_Nitra","win":14,"draw":6,"loss":13,"for":42,"against":40},
 	{"country":"svk","name":"Ružomberok","id":"MFK_Ružomberok","win":13,"draw":8,"loss":12,"for":33,"against":35},

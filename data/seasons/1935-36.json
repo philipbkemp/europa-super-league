@@ -220,7 +220,7 @@
 	{"country":"csk","name":"SK Židenice","id":"FC_Zbrojovka_Brno","win":13,"draw":6,"loss":7,"for":65,"against":42},
 	{"country":"csk","name":"SK Plzeň","id":"SK_Plzeň","win":13,"draw":4,"loss":9,"for":80,"against":61},
 	{"country":"csk","name":"SK Náchod","id":"FK_Náchod","win":11,"draw":3,"loss":12,"for":60,"against":67,"isReturning":true},
-	{"country":"csk","name":"1. ČsŠK Bratislava","id":"ŠK_Slovan_Bratislava","win":10,"draw":5,"loss":11,"for":50,"against":61,"isNew":true},
+	{"country":"csk","name":"1. ČsŠK Bratislava","id":"sk_slovan_bratislava","win":10,"draw":5,"loss":11,"for":50,"against":61,"isNew":true},
 	{"country":"csk","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":9,"draw":6,"loss":11,"for":52,"against":54},
 	{"country":"csk","name":"SK Kladno","id":"SK_Kladno","win":7,"draw":7,"loss":12,"for":59,"against":80},
 	{"country":"csk","name":"Moravská Slavia Brno","id":"SK_Moravská_Slavia_Brno","win":7,"draw":7,"loss":12,"for":42,"against":60,"isNew":true},

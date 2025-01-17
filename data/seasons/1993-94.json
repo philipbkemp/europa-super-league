@@ -695,7 +695,7 @@
 	{"country":"cze","name":"Bohemians Prague","id":"Bohemians_1905","win":8,"draw":7,"loss":15,"for":29,"against":54},
 	{"country":"cze","name":"Vítkovice","id":"MFK_Vítkovice","win":3,"draw":7,"loss":20,"for":22,"against":64,"isRemoved":true},
 	{"country":"cze","name":"Dukla Prague","id":"Dukla_Prague","win":1,"draw":8,"loss":21,"for":21,"against":68,"isRemoved":true},
-	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":20,"draw":10,"loss":2,"for":63,"against":28,"isChampion":true},
+	{"country":"svk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":20,"draw":10,"loss":2,"for":63,"against":28,"isChampion":true},
 	{"country":"svk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":18,"draw":4,"loss":10,"for":65,"against":45},
 	{"country":"svk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":13,"draw":10,"loss":9,"for":62,"against":47},
 	{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":11,"draw":11,"loss":10,"for":50,"against":42,"isReturning":true},

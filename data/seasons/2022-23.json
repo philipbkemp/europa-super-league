@@ -666,7 +666,7 @@
 	{"country":"cze","name":"Pardubice","id":"FK_Pardubice","win":11,"draw":4,"loss":20,"for":38,"against":63},
 	{"country":"cze","name":"Trinity Zlín","id":"FC_Zlín","win":7,"draw":13,"loss":15,"for":43,"against":60},
 	{"country":"svk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":20,"draw":7,"loss":5,"for":54,"against":29},
-	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":21,"draw":6,"loss":5,"for":65,"against":32,"isChampion":true},
+	{"country":"svk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":21,"draw":6,"loss":5,"for":65,"against":32,"isChampion":true},
 	{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":15,"draw":7,"loss":10,"for":55,"against":38},
 	{"country":"svk","name":"Podbrezová","id":"FK_Železiarne_Podbrezová","win":13,"draw":8,"loss":11,"for":44,"against":44,"isReturning":true},
 	{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":11,"draw":6,"loss":15,"for":49,"against":53},

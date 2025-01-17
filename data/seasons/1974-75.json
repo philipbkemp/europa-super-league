@@ -472,7 +472,7 @@
 	{"country":"fro","name":"TB Tvøroyri","id":"tvoroyrar_boltfelag","win":2,"draw":4,"loss":4,"for":17,"against":22},
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":3,"draw":2,"loss":5,"for":14,"against":21},
 	{"country":"fro","name":"ÍF Fuglafjørður","id":"Ítróttarfelag_Fuglafjarðar","win":2,"draw":3,"loss":5,"for":14,"against":27},
-	{"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":16,"draw":7,"loss":7,"for":72,"against":34,"isChampion":true},
+	{"country":"csk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":16,"draw":7,"loss":7,"for":72,"against":34,"isChampion":true},
 	{"country":"csk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":18,"draw":1,"loss":11,"for":66,"against":41},
 	{"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":15,"draw":6,"loss":9,"for":46,"against":31},
 	{"country":"csk","name":"Zbrojovka Brno","id":"FC_Zbrojovka_Brno","win":12,"draw":8,"loss":10,"for":37,"against":40},

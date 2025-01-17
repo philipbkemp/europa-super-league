@@ -639,7 +639,7 @@
 	{"country":"cze","name":"Hradec Králové","id":"FC_Hradec_Králové","win":3,"draw":13,"loss":14,"for":23,"against":54,"isRemoved":true},
 	{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":21,"draw":7,"loss":8,"for":69,"against":31,"isChampion":true},
 	{"country":"svk","name":"Artmedia Petržalka","id":"FC_Petržalka","win":20,"draw":7,"loss":9,"for":49,"against":32},
-	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":19,"draw":6,"loss":11,"for":60,"against":42},
+	{"country":"svk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":19,"draw":6,"loss":11,"for":60,"against":42},
 	{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":15,"draw":11,"loss":10,"for":55,"against":47,"isReturning":true},
 	{"country":"svk","name":"Matador Púchov","id":"MŠK_Púchov","win":14,"draw":8,"loss":14,"for":46,"against":47},
 	{"country":"svk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":12,"draw":7,"loss":17,"for":48,"against":58},

@@ -667,7 +667,7 @@
 	{"country":"cze","name":"Kladno","id":"SK_Kladno","win":8,"draw":7,"loss":15,"for":21,"against":41},
 	{"country":"cze","name":"Tescoma Zlín","id":"FC_Zlín","win":7,"draw":8,"loss":15,"for":26,"against":49,"isRemoved":true},
 	{"country":"cze","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":5,"draw":7,"loss":18,"for":27,"against":45,"isRemoved":true},
-	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":21,"draw":7,"loss":5,"for":69,"against":25,"isChampion":true},
+	{"country":"svk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":21,"draw":7,"loss":5,"for":69,"against":25,"isChampion":true},
 	{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":18,"draw":8,"loss":7,"for":56,"against":26},
 	{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":15,"draw":10,"loss":8,"for":45,"against":38},
 	{"country":"svk","name":"Košice","id":"FC_VSS_Košice","win":14,"draw":10,"loss":9,"for":48,"against":42},

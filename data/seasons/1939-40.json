@@ -231,7 +231,7 @@
 	{"country":"csk","name":"SK Kladno","id":"SK_Kladno","win":7,"draw":4,"loss":11,"for":44,"against":66},
 	{"country":"csk","name":"SK Náchod","id":"FK_Náchod","win":8,"draw":1,"loss":13,"for":54,"against":72,"isRemoved":true},
 	{"country":"csk","name":"Slezská Ostrava","id":"FC_Baník_Ostrava","win":4,"draw":5,"loss":13,"for":38,"against":68,"isRemoved":true},
-	{"country":"svk","name":"ŠK Bratislava","id":"ŠK_Slovan_Bratislava","win":18,"draw":1,"loss":3,"for":100,"against":22,"isChampion":true},
+	{"country":"svk","name":"ŠK Bratislava","id":"sk_slovan_bratislava","win":18,"draw":1,"loss":3,"for":100,"against":22,"isChampion":true},
 	{"country":"svk","name":"Sparta Považská Bystrica","id":"MŠK_Považská_Bystrica_(football)","win":15,"draw":3,"loss":4,"for":76,"against":29},
 	{"country":"svk","name":"MŠK Žilina","id":"MŠK_Žilina","win":13,"draw":2,"loss":7,"for":50,"against":36},
 	{"country":"svk","name":"TSS Trnava","id":"FC_Spartak_Trnava","win":9,"draw":5,"loss":8,"for":41,"against":47},

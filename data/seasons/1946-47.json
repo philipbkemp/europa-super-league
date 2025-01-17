@@ -309,7 +309,7 @@
 	{"country":"csk","name":"SK Kladno","id":"SK_Kladno","win":15,"draw":2,"loss":9,"for":68,"against":56,"isRemoved":true,"removedNote":"Eliminated","isReturning":true},
 	{"country":"csk","name":"ŠK Žilina","id":"MŠK_Žilina","win":13,"draw":5,"loss":8,"for":62,"against":50,"isReturning":true},
 	{"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":13,"draw":3,"loss":10,"for":77,"against":61,"isReturning":true},
-	{"country":"csk","name":"ŠK Bratislava","id":"ŠK_Slovan_Bratislava","win":13,"draw":2,"loss":11,"for":78,"against":48,"isReturning":true},
+	{"country":"csk","name":"ŠK Bratislava","id":"sk_slovan_bratislava","win":13,"draw":2,"loss":11,"for":78,"against":48,"isReturning":true},
 	{"country":"csk","name":"Slezská Ostrava","id":"FC_Baník_Ostrava","win":12,"draw":3,"loss":11,"for":62,"against":57,"isReturning":true},
 	{"country":"csk","name":"Jednota Košice","id":"FC_Lokomotíva_Košice","win":12,"draw":3,"loss":11,"for":63,"against":60,"isNew":true},
 	{"country":"csk","name":"Viktoria Plzeň","id":"fc_viktoria_plzen","win":11,"draw":5,"loss":10,"for":67,"against":83,"isReturning":true},

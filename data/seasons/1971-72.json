@@ -482,7 +482,7 @@
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":2,"draw":1,"loss":7,"for":12,"against":32},
 	{"country":"fro","name":"ÍF Fuglafjørður","id":"Ítróttarfelag_Fuglafjarðar","win":2,"draw":0,"loss":8,"for":15,"against":58,"isNew":true},
 	{"country":"csk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":17,"draw":10,"loss":3,"for":60,"against":25,"isChampion":true},
-	{"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":18,"draw":6,"loss":6,"for":68,"against":37},
+	{"country":"csk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":18,"draw":6,"loss":6,"for":68,"against":37},
 	{"country":"csk","name":"Dukla Prague","id":"Dukla_Prague","win":14,"draw":7,"loss":9,"for":56,"against":40},
 	{"country":"csk","name":"VSS Košice","id":"FC_VSS_Košice","win":12,"draw":11,"loss":7,"for":38,"against":28},
 	{"country":"csk","name":"ZVL Žilina","id":"MŠK_Žilina","win":12,"draw":7,"loss":11,"for":39,"against":35},

@@ -152,7 +152,7 @@
 	{"country":"csk","name":"SK Olomouc ASO","id":"SK_Olomouc_ASO","win":9,"draw":2,"loss":15,"for":47,"against":75,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
 	{"country":"csk","name":"SK Plzeň","id":"SK_Plzeň","win":6,"draw":2,"loss":18,"for":42,"against":98,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
 	{"country":"csk","name":"SK Nusle","id":"SK_Nusle","win":5,"draw":2,"loss":19,"for":41,"against":90,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
-	{"country":"svk","name":"ŠK Bratislava","id":"ŠK_Slovan_Bratislava","win":18,"draw":2,"loss":2,"for":121,"against":34,"isChampion":true,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
+	{"country":"svk","name":"ŠK Bratislava","id":"sk_slovan_bratislava","win":18,"draw":2,"loss":2,"for":121,"against":34,"isChampion":true,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
 	{"country":"svk","name":"OAP Bratislava","id":"OAP_Bratislava","win":14,"draw":3,"loss":5,"for":57,"against":26,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
 	{"country":"svk","name":"TSS Trnava","id":"FC_Spartak_Trnava","win":11,"draw":3,"loss":8,"for":52,"against":36,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},
 	{"country":"svk","name":"Sparta Považská Bystrica","id":"MŠK_Považská_Bystrica_(football)","win":12,"draw":1,"loss":9,"for":66,"against":58,"isRemoved":true,"removedNote":"League suspended next season before reuniting as Czechoslavakia"},

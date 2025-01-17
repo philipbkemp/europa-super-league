@@ -316,7 +316,7 @@
 	{"country":"csk","name":"SK Náchod","id":"FK_Náchod","win":5,"draw":2,"loss":13,"for":37,"against":56},
 	{"country":"csk","name":"SK Libeň","id":"SK_Libeň","win":3,"draw":2,"loss":15,"for":31,"against":75,"isRemoved":true,"isReturning":true},
 	{"country":"svk","name":"Sparta Považská Bystrica","id":"MŠK_Považská_Bystrica_(football)","win":7,"draw":1,"loss":0,"for":34,"against":6,"isChampion":true,"isNew":true},
-	{"country":"svk","name":"ŠK Bratislava","id":"ŠK_Slovan_Bratislava","win":7,"draw":1,"loss":0,"for":30,"against":11},
+	{"country":"svk","name":"ŠK Bratislava","id":"sk_slovan_bratislava","win":7,"draw":1,"loss":0,"for":30,"against":11},
 	{"country":"svk","name":"MŠK Žilina","id":"MŠK_Žilina","win":6,"draw":0,"loss":2,"for":36,"against":20,"isNew":true},
 	{"country":"svk","name":"Rapid Trnava","id":"FC_Spartak_Trnava","win":4,"draw":0,"loss":4,"for":29,"against":18,"isNew":true},
 	{"country":"svk","name":"Juventus Topoľčany","id":"ASC_Juventus_Topoľčany","win":4,"draw":0,"loss":4,"for":21,"against":18,"isNew":true,"isRemoved":true},

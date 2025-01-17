@@ -617,7 +617,7 @@
 	{"country":"cze","name":"Hradec Králové","id":"FC_Hradec_Králové","win":8,"draw":3,"loss":19,"for":29,"against":51,"isRemoved":true,"isReturning":true},
 	{"country":"cze","name":"Příbram","id":"FK_Příbram","win":6,"draw":4,"loss":20,"for":29,"against":61,"isRemoved":true},
 	{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":23,"draw":4,"loss":3,"for":82,"against":25,"isChampion":true},
-	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":18,"draw":3,"loss":9,"for":54,"against":34},
+	{"country":"svk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":18,"draw":3,"loss":9,"for":54,"against":34},
 	{"country":"svk","name":"Ružomberok","id":"MFK_Ružomberok","win":15,"draw":7,"loss":8,"for":55,"against":38},
 	{"country":"svk","name":"Trenčín","id":"AS_Trenčín","win":14,"draw":5,"loss":11,"for":53,"against":48},
 	{"country":"svk","name":"Podbrezová","id":"FK_Železiarne_Podbrezová","win":12,"draw":9,"loss":9,"for":34,"against":31},

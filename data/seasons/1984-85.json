@@ -510,7 +510,7 @@
 	{"country":"csk","name":"Inter Bratislava","id":"FK_Inter_Bratislava","win":7,"draw":9,"loss":14,"for":25,"against":34},
 	{"country":"csk","name":"ZVL Žilina","id":"MŠK_Žilina","win":8,"draw":7,"loss":15,"for":26,"against":49},
 	{"country":"csk","name":"Petržalka","id":"FC_Petržalka","win":6,"draw":9,"loss":15,"for":29,"against":47,"isRemoved":true,"isReturning":true},
-	{"country":"csk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":6,"draw":7,"loss":17,"for":24,"against":59,"isRemoved":true},
+	{"country":"csk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":6,"draw":7,"loss":17,"for":24,"against":59,"isRemoved":true},
 	{"country":"ede","name":"Berliner FC Dynamo","id":"berliner_fc_dynamo","win":20,"draw":4,"loss":2,"for":90,"against":28,"isChampion":true},
 	{"country":"ede","name":"SG Dynamo Dresden","id":"Dynamo_Dresden","win":15,"draw":8,"loss":3,"for":69,"against":34},
 	{"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":17,"draw":4,"loss":5,"for":55,"against":26},

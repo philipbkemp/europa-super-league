@@ -517,7 +517,7 @@ THEDATA = [
 	{"country":"srb","name":"IMT","id":"FK_IMT","win":5,"draw":5,"loss":10,"for":25,"against":35,"isCurrentSeason":true},
 	{"country":"srb","name":"Tekstilac Odžaci","id":"FK_Tekstilac_Odžaci","win":5,"draw":3,"loss":12,"for":13,"against":36,"isNew":true,"isCurrentSeason":true},
 	{"country":"srb","name":"Jedinstvo Ub","id":"FK_Jedinstvo_Ub","win":2,"draw":2,"loss":16,"for":12,"against":47,"isNew":true,"isCurrentSeason":true},
-	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":14,"draw":2,"loss":2,"for":41,"against":21,"isCurrentSeason":true},
+	{"country":"svk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":14,"draw":2,"loss":2,"for":41,"against":21,"isCurrentSeason":true},
 	{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":12,"draw":5,"loss":1,"for":39,"against":15,"isCurrentSeason":true},
 	{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":10,"draw":6,"loss":2,"for":27,"against":14,"isCurrentSeason":true},
 	{"country":"svk","name":"DAC Dunajská Streda","id":"FC_DAC_1904_Dunajská_Streda","win":6,"draw":6,"loss":6,"for":24,"against":19,"isCurrentSeason":true},

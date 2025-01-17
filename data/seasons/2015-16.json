@@ -636,7 +636,7 @@
 	{"country":"cze","name":"Sigma Olomouc","id":"SK_Sigma_Olomouc","win":6,"draw":9,"loss":15,"for":35,"against":49,"isRemoved":true,"isReturning":true},
 	{"country":"cze","name":"Baník Ostrava","id":"FC_Baník_Ostrava","win":4,"draw":2,"loss":24,"for":27,"against":65,"isRemoved":true},
 	{"country":"svk","name":"Trenčín","id":"AS_Trenčín","win":26,"draw":3,"loss":4,"for":73,"against":28,"isChampion":true},
-	{"country":"svk","name":"Slovan Bratislava","id":"ŠK_Slovan_Bratislava","win":20,"draw":9,"loss":4,"for":50,"against":25},
+	{"country":"svk","name":"Slovan Bratislava","id":"sk_slovan_bratislava","win":20,"draw":9,"loss":4,"for":50,"against":25},
 	{"country":"svk","name":"Spartak Myjava","id":"Spartak_Myjava","win":18,"draw":6,"loss":9,"for":41,"against":33},
 	{"country":"svk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":16,"draw":6,"loss":11,"for":49,"against":41},
 	{"country":"svk","name":"Žilina","id":"MŠK_Žilina","win":14,"draw":6,"loss":13,"for":58,"against":46},
