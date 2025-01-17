@@ -106,7 +106,7 @@ clubPages = ["linfield_fc","rangers_fc","budapesti_tc","floriana_fc","colentina_
 	/*lux*/
 	,"f91_dudelange","fa_red_boys_differdange","us_hollerich_bonnevoie","fc_differdange_03"
 	/*lva*/
-	,"fk_alfa","fk_ask","fk_avn","fk_liepajas_metalurgs","olimpia_liepaja","skonto_fc","fk_rfs"
+	,"fk_alfa","fk_ask","fk_avn","fk_liepajas_metalurgs","olimpia_liepaja","skonto_fc","fk_rfs","riga_fc"
 	/*mda*/
 	,"fc_sheriff_tiraspol"
 	/*nld*/

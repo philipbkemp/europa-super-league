@@ -250,7 +250,7 @@
 	{"country":"est","name":"Tammeka","id":"Tartu_JK_Tammeka","win":5,"draw":12,"loss":19,"for":33,"against":65},
 	{"country":"est","name":"Harju","id":"Harju_JK_Laagri","win":5,"draw":8,"loss":23,"for":27,"against":61,"isRemoved":true,"isNew":true},
 	{"country":"lva","name":"RFS","id":"fk_rfs","win":27,"draw":8,"loss":1,"for":96,"against":18,"isChampion":true},
-	{"country":"lva","name":"Riga","id":"Riga_FC","win":27,"draw":7,"loss":2,"for":89,"against":21},
+	{"country":"lva","name":"Riga","id":"riga_fc","win":27,"draw":7,"loss":2,"for":89,"against":21},
 	{"country":"lva","name":"Auda","id":"FK_Auda","win":16,"draw":10,"loss":10,"for":44,"against":39},
 	{"country":"lva","name":"Valmiera","id":"Valmiera_FC","win":14,"draw":11,"loss":11,"for":47,"against":40},
 	{"country":"lva","name":"Liepāja","id":"FK_Liepāja","win":14,"draw":9,"loss":13,"for":52,"against":54},

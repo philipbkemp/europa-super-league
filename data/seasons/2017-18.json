@@ -245,7 +245,7 @@
 	{"country":"est","name":"Sillamäe Kalev","id":"JK_Sillamäe_Kalev","win":10,"draw":6,"loss":20,"for":52,"against":76,"isRemoved":true,"removedNote":"Denied a license due to financial issues"},
 	{"country":"lva","name":"Spartaks Jūrmala","id":"FK_Spartaks_Jūrmala","win":14,"draw":4,"loss":6,"for":36,"against":26,"isChampion":true},
 	{"country":"lva","name":"Liepāja","id":"FK_Liepāja","win":11,"draw":4,"loss":9,"for":32,"against":25},
-	{"country":"lva","name":"Riga","id":"Riga_FC","win":10,"draw":7,"loss":7,"for":28,"against":20},
+	{"country":"lva","name":"Riga","id":"riga_fc","win":10,"draw":7,"loss":7,"for":28,"against":20},
 	{"country":"lva","name":"Ventspils","id":"FK_Ventspils","win":9,"draw":8,"loss":7,"for":32,"against":22},
 	{"country":"lva","name":"RFS","id":"fk_rfs","win":11,"draw":2,"loss":11,"for":29,"against":31},
 	{"country":"lva","name":"Jelgava","id":"FK_Jelgava","win":8,"draw":5,"loss":11,"for":22,"against":30},

@@ -250,7 +250,7 @@
 	{"country":"lva","name":"RFS","id":"fk_rfs","win":20,"draw":6,"loss":2,"for":65,"against":22,"isChampion":true},
 	{"country":"lva","name":"Valmiera","id":"Valmiera_FC","win":19,"draw":5,"loss":4,"for":54,"against":19},
 	{"country":"lva","name":"Liepāja","id":"FK_Liepāja","win":16,"draw":3,"loss":9,"for":47,"against":26},
-	{"country":"lva","name":"Riga","id":"Riga_FC","win":14,"draw":8,"loss":6,"for":54,"against":26},
+	{"country":"lva","name":"Riga","id":"riga_fc","win":14,"draw":8,"loss":6,"for":54,"against":26},
 	{"country":"lva","name":"Spartaks Jūrmala","id":"FK_Spartaks_Jūrmala","win":11,"draw":2,"loss":15,"for":40,"against":41},
 	{"country":"lva","name":"Daugavpils","id":"BFC_Daugavpils","win":9,"draw":5,"loss":14,"for":37,"against":53},
 	{"country":"lva","name":"Metta","id":"FK_Metta","win":5,"draw":5,"loss":18,"for":33,"against":55},
