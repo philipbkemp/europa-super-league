@@ -65,7 +65,7 @@ const countries = {
 	"yug": "Yugoslavia"
 };
 
-clubPages = ["linfield_fc","rangers_fc","budapesti_tc","floriana_fc","colentina_ac_bucuresti","knattspyrnufelagio_fram","mtk_budapest_fc","knattspyrnufelagio_vikingur","sliema_wanderers_fc","knattspyrnufelag_reykjavikur","valur","js_estonia_tallinn","fc_porto","ofk_beograd","hsk_gradanski_zagreb","malmo_ff","balti_laevastik_tallinn","heart_of_midlothian_fc","iprottabandalag_akraness","celtic_fc","sl_benfica","berliner_fc_dynamo","fcsb","valletta_fc","fc_norma_tallinn","fc_rapid_bucuresti","fc_dynamo_kyiv","fc_flora","fc_tvmk","gnk_dinamo_zagreb","rhyl_fc","fci_levadia_tallinn","fk_partizan","hibernians_fc","olympiacos_fc","red_star_belgrade","the_new_saints_fc"
+clubPages = ["linfield_fc","rangers_fc","budapesti_tc","floriana_fc","colentina_ac_bucuresti","knattspyrnufelagio_fram","mtk_budapest_fc","knattspyrnufelagio_vikingur","sliema_wanderers_fc","knattspyrnufelag_reykjavikur","valur","js_estonia_tallinn","ofk_beograd","hsk_gradanski_zagreb","malmo_ff","balti_laevastik_tallinn","heart_of_midlothian_fc","iprottabandalag_akraness","celtic_fc","berliner_fc_dynamo","fcsb","valletta_fc","fc_norma_tallinn","fc_rapid_bucuresti","fc_dynamo_kyiv","fc_flora","fc_tvmk","gnk_dinamo_zagreb","rhyl_fc","fci_levadia_tallinn","fk_partizan","hibernians_fc","olympiacos_fc","red_star_belgrade","the_new_saints_fc"
 
 	/*alb*/
 	,"fk_partizani_tirana","kf_tirana","fk_vllaznia_shkoder"
@@ -111,6 +111,8 @@ clubPages = ["linfield_fc","rangers_fc","budapesti_tc","floriana_fc","colentina_
 	,"fc_sheriff_tiraspol"
 	/*nld*/
 	,"afc_ajax","feyenoord","psv_eindhoven"
+	/*prt*/
+	,"sl_benfica","fc_porto","sporting_cp"
 	/*svk*/
 	,"sk_slovan_bratislava"
 	/*tur*/

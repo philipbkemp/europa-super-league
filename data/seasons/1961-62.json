@@ -362,7 +362,7 @@
 	{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":7,"draw":7,"loss":10,"for":41,"against":48},
 	{"country":"cyp","name":"Alki Larnaca FC","id":"Alki_Larnaca_FC","win":8,"draw":3,"loss":13,"for":37,"against":45},
 	{"country":"cyp","name":"AYMA","id":"Armenian_Young_Men%27s_Association","win":0,"draw":1,"loss":23,"for":15,"against":102,"isRemoved":true},
-	{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":19,"draw":5,"loss":2,"for":66,"against":17,"isChampion":true},
+	{"country":"prt","name":"Sporting CP","id":"sporting_cp","win":19,"draw":5,"loss":2,"for":66,"against":17,"isChampion":true},
 	{"country":"prt","name":"Porto","id":"fc_porto","win":18,"draw":5,"loss":3,"for":57,"against":16},
 	{"country":"prt","name":"Benfica","id":"sl_benfica","win":14,"draw":8,"loss":4,"for":69,"against":38},
 	{"country":"prt","name":"CUF Barreiro","id":"G.D._Fabril","win":14,"draw":5,"loss":7,"for":44,"against":34},

@@ -423,7 +423,7 @@ THEDATA = [
 	{"country":"pol","name":"Korona Kielce","id":"Korona_Kielce","win":4,"draw":6,"loss":8,"for":15,"against":27,"isCurrentSeason":true},
 	{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":3,"draw":5,"loss":10,"for":18,"against":33,"isReturning":true,"isCurrentSeason":true},
 	{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":1,"draw":7,"loss":10,"for":14,"against":28,"isCurrentSeason":true},
-	{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":14,"draw":2,"loss":2,"for":51,"against":14,"isCurrentSeason":true},
+	{"country":"prt","name":"Sporting CP","id":"sporting_cp","win":14,"draw":2,"loss":2,"for":51,"against":14,"isCurrentSeason":true},
 	{"country":"prt","name":"Benfica","id":"sl_benfica","win":13,"draw":2,"loss":3,"for":42,"against":11,"isCurrentSeason":true},
 	{"country":"prt","name":"Porto","id":"fc_porto","win":13,"draw":1,"loss":4,"for":41,"against":14,"isCurrentSeason":true},
 	{"country":"prt","name":"Braga","id":"S.C._Braga","win":10,"draw":4,"loss":4,"for":31,"against":19,"isCurrentSeason":true},

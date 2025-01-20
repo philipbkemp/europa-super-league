@@ -332,7 +332,7 @@
 	{"country":"cyp","name":"AEL Limassol","id":"AEL_Limassol","win":5,"draw":1,"loss":8,"for":33,"against":36},
 	{"country":"cyp","name":"AYMA","id":"Armenian_Young_Men%27s_Association","win":4,"draw":1,"loss":9,"for":25,"against":40},
 	{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":2,"draw":5,"loss":7,"for":22,"against":39},
-	{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":21,"draw":3,"loss":2,"for":91,"against":28,"isChampion":true},
+	{"country":"prt","name":"Sporting CP","id":"sporting_cp","win":21,"draw":3,"loss":2,"for":91,"against":28,"isChampion":true},
 	{"country":"prt","name":"Porto","id":"fc_porto","win":15,"draw":4,"loss":7,"for":67,"against":32},
 	{"country":"prt","name":"Benfica","id":"sl_benfica","win":12,"draw":6,"loss":8,"for":81,"against":43},
 	{"country":"prt","name":"Atlético CP","id":"Atlético_Clube_de_Portugal","win":12,"draw":6,"loss":8,"for":62,"against":49},

@@ -439,7 +439,7 @@
 	{"country":"prt","name":"Benfica","id":"sl_benfica","win":20,"draw":9,"loss":1,"for":51,"against":23,"isChampion":true},
 	{"country":"prt","name":"Porto","id":"fc_porto","win":20,"draw":6,"loss":4,"for":67,"against":22},
 	{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":14,"draw":13,"loss":3,"for":45,"against":22},
-	{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":15,"draw":8,"loss":7,"for":52,"against":28},
+	{"country":"prt","name":"Sporting CP","id":"sporting_cp","win":15,"draw":8,"loss":7,"for":52,"against":28},
 	{"country":"prt","name":"Chaves","id":"G.D._Chaves","win":13,"draw":7,"loss":10,"for":39,"against":38},
 	{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":13,"draw":4,"loss":13,"for":52,"against":40},
 	{"country":"prt","name":"Varzim","id":"Varzim_S.C.","win":8,"draw":13,"loss":9,"for":24,"against":29,"isReturning":true},

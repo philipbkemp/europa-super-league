@@ -326,7 +326,7 @@
 	{"country":"cyp","name":"AC Omonia","id":"ac_omonia","win":5,"draw":2,"loss":9,"for":21,"against":33,"isNew":true},
 	{"country":"cyp","name":"Olympiakos Nicosia","id":"Olympiakos_Nicosia","win":4,"draw":1,"loss":11,"for":17,"against":34},
 	{"country":"cyp","name":"AYMA","id":"Armenian_Young_Men%27s_Association","win":4,"draw":0,"loss":12,"for":30,"against":46},
-	{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":20,"draw":3,"loss":3,"for":80,"against":25,"isChampion":true},
+	{"country":"prt","name":"Sporting CP","id":"sporting_cp","win":20,"draw":3,"loss":3,"for":80,"against":25,"isChampion":true},
 	{"country":"prt","name":"Porto","id":"fc_porto","win":16,"draw":4,"loss":6,"for":83,"against":35},
 	{"country":"prt","name":"Benfica","id":"sl_benfica","win":13,"draw":6,"loss":7,"for":62,"against":40},
 	{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":13,"draw":5,"loss":8,"for":43,"against":39},

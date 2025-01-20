@@ -128,7 +128,7 @@
 	{"country":"fin","name":"HT Helsinki","id":"Toverit_Helsinki","win":3,"draw":2,"loss":8,"for":19,"against":32,"isRemoved":true,"isReturning":true,"isRemoved":true,"removedNote":"League contested in knockout form next season"},
 	{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":1,"draw":3,"loss":9,"for":18,"against":39,"isRemoved":true,"isReturning":true,"isRemoved":true,"removedNote":"League contested in knockout form next season"},
 	{"country":"prt","name":"Benfica","id":"sl_benfica","win":19,"draw":0,"loss":3,"for":74,"against":34,"isChampion":true},
-	{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":17,"draw":0,"loss":5,"for":93,"against":31},
+	{"country":"prt","name":"Sporting CP","id":"sporting_cp","win":17,"draw":0,"loss":5,"for":93,"against":31},
 	{"country":"prt","name":"Belenenses","id":"C.F._Os_Belenenses","win":12,"draw":6,"loss":4,"for":66,"against":32},
 	{"country":"prt","name":"Porto","id":"fc_porto","win":13,"draw":2,"loss":7,"for":77,"against":48},
 	{"country":"prt","name":"Académica","id":"Académica_de_Coimbra_(football)","win":13,"draw":0,"loss":9,"for":77,"against":51},

@@ -404,7 +404,7 @@
 	{"country":"cyp","name":"APOP Kinyras","id":"APOP_Kinyras_FC","win":4,"draw":7,"loss":15,"for":24,"against":47,"isRemoved":true},
 	{"country":"prt","name":"Porto","id":"fc_porto","win":27,"draw":3,"loss":0,"for":73,"against":16,"isChampion":true},
 	{"country":"prt","name":"Benfica","id":"sl_benfica","win":20,"draw":3,"loss":7,"for":61,"against":31},
-	{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":13,"draw":9,"loss":8,"for":41,"against":31},
+	{"country":"prt","name":"Sporting CP","id":"sporting_cp","win":13,"draw":9,"loss":8,"for":41,"against":31},
 	{"country":"prt","name":"Braga","id":"S.C._Braga","win":13,"draw":7,"loss":10,"for":45,"against":33},
 	{"country":"prt","name":"Vitória de Guimarães","id":"Vitória_S.C.","win":12,"draw":7,"loss":11,"for":36,"against":37},
 	{"country":"prt","name":"Nacional","id":"C.D._Nacional","win":11,"draw":9,"loss":10,"for":28,"against":31},

@@ -401,7 +401,7 @@
 	{"country":"cyp","name":"AEZ Zakakiou","id":"AEZ_Zakakiou","win":2,"draw":12,"loss":26,"for":40,"against":100,"isRemoved":true,"isReturning":true},
 	{"country":"cyp","name":"Othellos Athienou","id":"Othellos_Athienou_FC","win":8,"draw":9,"loss":23,"for":48,"against":77,"isRemoved":true,"isReturning":true},
 	{"country":"cyp","name":"Doxa Katokopias","id":"Doxa_Katokopias_FC","win":10,"draw":5,"loss":25,"for":34,"against":77,"isRemoved":true},
-	{"country":"prt","name":"Sporting CP","id":"Sporting_CP","win":29,"draw":3,"loss":2,"for":96,"against":29,"isChampion":true},
+	{"country":"prt","name":"Sporting CP","id":"sporting_cp","win":29,"draw":3,"loss":2,"for":96,"against":29,"isChampion":true},
 	{"country":"prt","name":"Benfica","id":"sl_benfica","win":25,"draw":5,"loss":4,"for":77,"against":28},
 	{"country":"prt","name":"Porto","id":"fc_porto","win":22,"draw":6,"loss":6,"for":63,"against":27},
 	{"country":"prt","name":"Braga","id":"S.C._Braga","win":21,"draw":5,"loss":8,"for":71,"against":50},
