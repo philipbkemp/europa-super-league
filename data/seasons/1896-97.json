@@ -3,7 +3,7 @@
 	{"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":13,"draw":10,"loss":7,"for":42,"against":29},
 	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":16,"draw":4,"loss":10,"for":70,"against":50},
 	{"country":"eng","name":"Preston North End","id":"preston_north_end_fc","win":11,"draw":12,"loss":7,"for":55,"against":40},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":12,"draw":9,"loss":9,"for":46,"against":38,"isReturning":true},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":12,"draw":9,"loss":9,"for":46,"against":38,"isReturning":true},
 	{"country":"eng","name":"The Wednesday","id":"Sheffield_Wednesday_F.C.","win":10,"draw":11,"loss":9,"for":42,"against":37},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":14,"draw":3,"loss":13,"for":62,"against":57},
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":12,"draw":6,"loss":12,"for":40,"against":43},

@@ -11,7 +11,7 @@
 	{"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":15,"draw":10,"loss":13,"for":49,"against":43,"isRemoved":true,"removedNote":"League suspended for WW1"},
 	{"country":"eng","name":"Bradford City","id":"Bradford_City_A.F.C.","win":13,"draw":14,"loss":11,"for":55,"against":49,"isRemoved":true,"removedNote":"League suspended for WW1"},
 	{"country":"eng","name":"Middlesbrough","id":"Middlesbrough_F.C.","win":13,"draw":12,"loss":13,"for":62,"against":74,"isRemoved":true,"removedNote":"League suspended for WW1"},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":14,"draw":9,"loss":15,"for":65,"against":75,"isRemoved":true,"removedNote":"League suspended for WW1"},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":14,"draw":9,"loss":15,"for":65,"against":75,"isRemoved":true,"removedNote":"League suspended for WW1"},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":13,"draw":11,"loss":14,"for":62,"against":72,"isRemoved":true,"removedNote":"League suspended for WW1"},
 	{"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":11,"draw":10,"loss":17,"for":46,"against":48,"isRemoved":true,"removedNote":"League suspended for WW1"},
 	{"country":"eng","name":"Notts County","id":"Notts_County_F.C.","win":9,"draw":13,"loss":16,"for":41,"against":57,"isRemoved":true,"removedNote":"League suspended for WW1","isReturning":true},

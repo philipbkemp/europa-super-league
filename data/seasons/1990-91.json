@@ -1,6 +1,6 @@
 [
 	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":24,"draw":13,"loss":1,"for":74,"against":18,"isChampion":true,"deduct":-2,"deductReason":"Brawl in match with Manchester United"},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":23,"draw":7,"loss":8,"for":77,"against":40},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":23,"draw":7,"loss":8,"for":77,"against":40},
 	{"country":"eng","name":"Crystal Palace","id":"Crystal_Palace_F.C.","win":20,"draw":9,"loss":9,"for":50,"against":41},
 	{"country":"eng","name":"Leeds United","id":"Leeds_United_F.C.","win":19,"draw":7,"loss":12,"for":65,"against":47,"isReturning":true},
 	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":17,"draw":11,"loss":10,"for":64,"against":53},

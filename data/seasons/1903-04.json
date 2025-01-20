@@ -15,7 +15,7 @@
 	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":9,"draw":10,"loss":15,"for":58,"against":60},
 	{"country":"eng","name":"Blackburn Rovers","id":"Blackburn_Rovers_F.C.","win":11,"draw":6,"loss":17,"for":48,"against":60},
 	{"country":"eng","name":"Stoke","id":"Stoke_City_F.C.","win":10,"draw":7,"loss":17,"for":54,"against":57},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":9,"draw":8,"loss":17,"for":49,"against":62,"isRemoved":true},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":9,"draw":8,"loss":17,"for":49,"against":62,"isRemoved":true},
 	{"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":7,"draw":10,"loss":17,"for":36,"against":60,"isRemoved":true},
 	{"country":"dnk","name":"Boldklubben Frem","id":"boldklubben_frem","win":5,"draw":2,"loss":1,"for":28,"against":13,"isChampion":true},
 	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":4,"draw":2,"loss":2,"for":21,"against":12},

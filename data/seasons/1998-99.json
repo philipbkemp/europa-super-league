@@ -5,7 +5,7 @@
 	{"country":"eng","name":"Leeds United","id":"Leeds_United_F.C.","win":18,"draw":13,"loss":7,"for":62,"against":34},
 	{"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":16,"draw":9,"loss":13,"for":46,"against":53},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":15,"draw":10,"loss":13,"for":51,"against":46},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":15,"draw":9,"loss":14,"for":68,"against":49},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":15,"draw":9,"loss":14,"for":68,"against":49},
 	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":13,"draw":13,"loss":12,"for":40,"against":45},
 	{"country":"eng","name":"Middlesbrough","id":"Middlesbrough_F.C.","win":12,"draw":15,"loss":11,"for":48,"against":54,"isReturning":true},
 	{"country":"eng","name":"Leicester City","id":"Leicester_City_F.C.","win":12,"draw":13,"loss":13,"for":40,"against":46},

@@ -1,6 +1,6 @@
 [
 	{"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":25,"draw":14,"loss":3,"for":69,"against":24,"isChampion":true,"isReturning":true},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":24,"draw":9,"loss":9,"for":65,"against":34},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":24,"draw":9,"loss":9,"for":65,"against":34},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":22,"draw":11,"loss":9,"for":76,"against":45},
 	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":20,"draw":12,"loss":10,"for":74,"against":51},
 	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":21,"draw":10,"loss":11,"for":60,"against":37},

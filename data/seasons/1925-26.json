@@ -5,7 +5,7 @@
 	{"country":"eng","name":"Bury","id":"Bury_F.C.","win":20,"draw":7,"loss":15,"for":85,"against":77},
 	{"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":19,"draw":8,"loss":15,"for":102,"against":82},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":16,"draw":12,"loss":14,"for":86,"against":76},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":14,"draw":16,"loss":12,"for":70,"against":63},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":14,"draw":16,"loss":12,"for":70,"against":63},
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":17,"draw":10,"loss":15,"for":75,"against":76},
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":19,"draw":6,"loss":17,"for":66,"against":73,"isReturning":true},
 	{"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":16,"draw":10,"loss":16,"for":84,"against":75},

@@ -16,7 +16,7 @@
 	{"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":14,"draw":12,"loss":16,"for":74,"against":86},
 	{"country":"eng","name":"Middlesbrough","id":"Middlesbrough_F.C.","win":16,"draw":7,"loss":19,"for":68,"against":80},
 	{"country":"eng","name":"Leicester City","id":"Leicester_City_F.C.","win":14,"draw":11,"loss":17,"for":59,"against":74},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":14,"draw":10,"loss":18,"for":79,"against":87},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":14,"draw":10,"loss":18,"for":79,"against":87},
 	{"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":14,"draw":8,"loss":20,"for":67,"against":69},
 	{"country":"eng","name":"Birmingham","id":"Birmingham_City_F.C.","win":12,"draw":12,"loss":18,"for":54,"against":56},
 	{"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":10,"draw":14,"loss":18,"for":68,"against":77,"isRemoved":true},

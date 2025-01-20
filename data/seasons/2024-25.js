@@ -168,7 +168,7 @@ THEDATA = [
 	{"country":"dnk","name":"Sønderjyske","id":"S%C3%B8nderjyske_Fodbold","win":4,"draw":4,"loss":9,"for":21,"against":37,"isNew":true,"isCurrentSeason":true},
 	{"country":"dnk","name":"Lyngby","id":"Lyngby_Boldklub","win":1,"draw":7,"loss":9,"for":12,"against":24,"isCurrentSeason":true},
 	{"country":"dnk","name":"Vejle","id":"Vejle_Boldklub","win":1,"draw":3,"loss":13,"for":16,"against":40,"isCurrentSeason":true},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":15,"draw":5,"loss":1,"for":50,"against":20,"isCurrentSeason":true},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":15,"draw":5,"loss":1,"for":50,"against":20,"isCurrentSeason":true},
 	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":12,"draw":8,"loss":2,"for":43,"against":21,"isCurrentSeason":true},
 	{"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":13,"draw":5,"loss":4,"for":33,"against":22,"isCurrentSeason":true},
 	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":11,"draw":5,"loss":6,"for":44,"against":29,"isCurrentSeason":true},

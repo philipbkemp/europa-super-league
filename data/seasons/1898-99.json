@@ -1,6 +1,6 @@
 [
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":19,"draw":7,"loss":8,"for":76,"against":40,"isChampion":true},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":19,"draw":5,"loss":10,"for":49,"against":33},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":19,"draw":5,"loss":10,"for":49,"against":33},
 	{"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":15,"draw":9,"loss":10,"for":45,"against":47,"isReturning":true},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":15,"draw":8,"loss":11,"for":48,"against":41},
 	{"country":"eng","name":"Notts County","id":"Notts_County_F.C.","win":12,"draw":13,"loss":9,"for":47,"against":51},

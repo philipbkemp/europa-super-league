@@ -6,7 +6,7 @@
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":19,"draw":9,"loss":10,"for":49,"against":35},
 	{"country":"eng","name":"Southampton","id":"Southampton_F.C.","win":18,"draw":9,"loss":11,"for":59,"against":41},
 	{"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":16,"draw":14,"loss":8,"for":65,"against":51},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":16,"draw":12,"loss":10,"for":63,"against":50},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":16,"draw":12,"loss":10,"for":63,"against":50},
 	{"country":"eng","name":"Stoke City","id":"Stoke_City_F.C.","win":14,"draw":9,"loss":15,"for":41,"against":55},
 	{"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":12,"draw":14,"loss":12,"for":59,"against":53},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":11,"draw":14,"loss":13,"for":59,"against":55},

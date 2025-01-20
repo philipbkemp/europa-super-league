@@ -1,5 +1,5 @@
 [
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":22,"draw":13,"loss":7,"for":63,"against":36,"isChampion":true},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":22,"draw":13,"loss":7,"for":63,"against":36,"isChampion":true},
 	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":21,"draw":9,"loss":12,"for":65,"against":39},
 	{"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":22,"draw":5,"loss":15,"for":72,"against":54},
 	{"country":"eng","name":"Cardiff City","id":"Cardiff_City_F.C.","win":19,"draw":10,"loss":13,"for":61,"against":53,"isNew":true},

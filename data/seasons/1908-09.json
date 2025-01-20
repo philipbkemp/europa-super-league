@@ -14,7 +14,7 @@
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":15,"draw":7,"loss":16,"for":58,"against":68},
 	{"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":14,"draw":8,"loss":16,"for":66,"against":57},
 	{"country":"eng","name":"Notts County","id":"Notts_County_F.C.","win":14,"draw":8,"loss":16,"for":51,"against":48},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":15,"draw":6,"loss":17,"for":57,"against":65},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":15,"draw":6,"loss":17,"for":57,"against":65},
 	{"country":"eng","name":"Bury","id":"Bury_F.C.","win":14,"draw":8,"loss":16,"for":63,"against":77},
 	{"country":"eng","name":"Bradford City","id":"Bradford_City_A.F.C.","win":12,"draw":10,"loss":16,"for":47,"against":47,"isNew":true},
 	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":15,"draw":4,"loss":19,"for":67,"against":69,"isRemoved":true},

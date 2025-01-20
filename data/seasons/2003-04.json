@@ -2,7 +2,7 @@
 	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":26,"draw":12,"loss":0,"for":73,"against":26,"isChampion":true},
 	{"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":24,"draw":7,"loss":7,"for":67,"against":30},
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":23,"draw":6,"loss":9,"for":64,"against":35},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":16,"draw":12,"loss":10,"for":55,"against":37},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":16,"draw":12,"loss":10,"for":55,"against":37},
 	{"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":13,"draw":17,"loss":8,"for":52,"against":40},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":15,"draw":11,"loss":12,"for":48,"against":44},
 	{"country":"eng","name":"Charlton Athletic","id":"Charlton_Athletic_F.C.","win":14,"draw":11,"loss":13,"for":51,"against":51},

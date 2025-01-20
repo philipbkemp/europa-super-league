@@ -17,7 +17,7 @@
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":13,"draw":13,"loss":16,"for":89,"against":89},
 	{"country":"eng","name":"Grimsby Town","id":"Grimsby_Town_F.C.","win":17,"draw":5,"loss":20,"for":65,"against":73},
 	{"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":16,"draw":6,"loss":20,"for":89,"against":88},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":13,"draw":12,"loss":17,"for":60,"against":64},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":13,"draw":12,"loss":17,"for":60,"against":64},
 	{"country":"eng","name":"Sheffield Wednesday","id":"Sheffield_Wednesday_F.C.","win":13,"draw":12,"loss":17,"for":63,"against":77},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":13,"draw":9,"loss":20,"for":81,"against":110,"isRemoved":true},
 	{"country":"eng","name":"Blackburn Rovers","id":"Blackburn_Rovers_F.C.","win":12,"draw":9,"loss":21,"for":55,"against":96,"isRemoved":true},

@@ -1,5 +1,5 @@
 [
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":26,"draw":9,"loss":7,"for":79,"against":34,"isChampion":true},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":26,"draw":9,"loss":7,"for":79,"against":34,"isChampion":true},
 	{"country":"eng","name":"Leeds United","id":"Leeds_United_F.C.","win":23,"draw":9,"loss":10,"for":79,"against":38},
 	{"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":24,"draw":7,"loss":11,"for":79,"against":47},
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":18,"draw":15,"loss":9,"for":84,"against":59},

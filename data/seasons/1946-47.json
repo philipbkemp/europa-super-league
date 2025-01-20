@@ -1,5 +1,5 @@
 [
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":25,"draw":7,"loss":10,"for":84,"against":52,"isChampion":true,"isReturning":true},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":25,"draw":7,"loss":10,"for":84,"against":52,"isChampion":true,"isReturning":true},
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":22,"draw":12,"loss":8,"for":95,"against":54,"isReturning":true},
 	{"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":25,"draw":6,"loss":11,"for":98,"against":56,"isReturning":true},
 	{"country":"eng","name":"Stoke City","id":"Stoke_City_F.C.","win":24,"draw":7,"loss":11,"for":90,"against":53,"isReturning":true},

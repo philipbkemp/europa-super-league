@@ -1,5 +1,5 @@
 [
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":26,"draw":10,"loss":6,"for":89,"against":37,"isChampion":true},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":26,"draw":10,"loss":6,"for":89,"against":37,"isChampion":true},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":26,"draw":8,"loss":8,"for":87,"against":41},
 	{"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":26,"draw":6,"loss":10,"for":74,"against":40},
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":22,"draw":10,"loss":10,"for":70,"against":36},

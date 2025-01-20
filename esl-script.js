@@ -96,7 +96,7 @@ clubPages = ["linfield_fc","rangers_fc","budapesti_tc","floriana_fc","colentina_
 	/*dnk*/
 	,"brondby_if","akademisk_boldklub","kjobenhavns_boldklub","boldklubben_frem","fc_copenhagen"
 	/*eng*/
-	,"preston_north_end_fc","tottenham_hotspur_fc"
+	,"preston_north_end_fc","tottenham_hotspur_fc","liverpool_fc"
 	/*fra*/
 	,"paris_saint_germain_fc"
 	/*fro*/
@@ -872,6 +872,7 @@ function listClubsForCountry() {
 }
 
 function saveClubs(refresh=false,dump=true) {
+	localEsl = localStorage.esl ? JSON.parse(localStorage.esl) : [];
 	console.clear();
 	$.each(clubPages,function(k,v){
 		saveRow = $("tr[id='"+v+"']");
@@ -905,7 +906,11 @@ function saveClubs(refresh=false,dump=true) {
 				} else {
 					if ( dump ) { console.error(vc); }
 				}
-				if ( dump ) { console.log("<tr class='"+classes+"'>"+$sr.html().replace('<a href="../../19/9/9-2000.html">1999-2000</a>','<a href="../../19/9/9-00.html">1999-00</a>')+"</tr>"); }
+				if ( dump ) {
+					//console.log("<tr class='"+classes+"'>"+$sr.html().replace('<a href="../../19/9/9-2000.html">1999-2000</a>','<a href="../../19/9/9-00.html">1999-00</a>')+"</tr>");
+					localEsl.unshift("<tr class='"+classes+"'>"+$sr.html().replace('<a href="../../19/9/9-2000.html">1999-2000</a>','<a href="../../19/9/9-00.html">1999-00</a>')+"</tr>")
+					localStorage.esl = JSON.stringify(localEsl);
+				}
 				$sr.html(original);
 				clubName = $($sr.find("th")[0]);
 				if ( v === "neftci_pfk" ) {

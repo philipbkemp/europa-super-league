@@ -16,7 +16,7 @@
 	{"country":"eng","name":"Huddersfield Town","id":"Huddersfield_Town_A.F.C.","win":12,"draw":15,"loss":15,"for":62,"against":64},
 	{"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":16,"draw":6,"loss":20,"for":77,"against":98},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":14,"draw":9,"loss":19,"for":81,"against":78},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":12,"draw":11,"loss":19,"for":62,"against":84},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":12,"draw":11,"loss":19,"for":62,"against":84},
 	{"country":"eng","name":"Leeds United","id":"Leeds_United_F.C.","win":15,"draw":4,"loss":23,"for":60,"against":80},
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":10,"draw":14,"loss":18,"for":43,"against":66},
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":10,"draw":12,"loss":20,"for":55,"against":78,"isRemoved":true,"isReturning":true},

@@ -2,7 +2,7 @@
 	{"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":28,"draw":4,"loss":10,"for":104,"against":47,"isChampion":true,"isReturning":true},
 	{"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":21,"draw":9,"loss":12,"for":65,"against":59,"isReturning":true},
 	{"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":22,"draw":5,"loss":15,"for":56,"against":51,"isReturning":true},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":19,"draw":10,"loss":13,"for":59,"against":44,"isReturning":true},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":19,"draw":10,"loss":13,"for":59,"against":44,"isReturning":true},
 	{"country":"eng","name":"Sunderland","id":"Sunderland_A.F.C.","win":22,"draw":4,"loss":16,"for":72,"against":59,"isReturning":true},
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":19,"draw":9,"loss":14,"for":72,"against":65,"isReturning":true},
 	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":18,"draw":9,"loss":15,"for":71,"against":62,"isReturning":true},

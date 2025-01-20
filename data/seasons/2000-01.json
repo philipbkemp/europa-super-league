@@ -1,7 +1,7 @@
 [
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":24,"draw":8,"loss":6,"for":79,"against":31,"isChampion":true},
 	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":20,"draw":10,"loss":8,"for":63,"against":38},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":20,"draw":9,"loss":9,"for":71,"against":39},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":20,"draw":9,"loss":9,"for":71,"against":39},
 	{"country":"eng","name":"Leeds United","id":"Leeds_United_F.C.","win":20,"draw":8,"loss":10,"for":64,"against":43},
 	{"country":"eng","name":"Ipswich Town","id":"Ipswich_Town_F.C.","win":20,"draw":6,"loss":12,"for":57,"against":42,"isReturning":true},
 	{"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":17,"draw":10,"loss":11,"for":68,"against":45},

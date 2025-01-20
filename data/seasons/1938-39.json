@@ -9,7 +9,7 @@
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":15,"draw":15,"loss":12,"for":67,"against":58,"isRemoved":true,"removedNote":"League suspended 3 games into next season due to WW2"},
 	{"country":"eng","name":"Preston North End","id":"preston_north_end_fc","win":16,"draw":12,"loss":14,"for":63,"against":59,"isRemoved":true,"removedNote":"League suspended 3 games into next season due to WW2"},
 	{"country":"eng","name":"Grimsby Town","id":"Grimsby_Town_F.C.","win":16,"draw":11,"loss":15,"for":61,"against":69,"isRemoved":true,"removedNote":"League suspended 3 games into next season due to WW2"},
-	{"country":"eng","name":"Liverpool","id":"Liverpool_F.C.","win":14,"draw":14,"loss":14,"for":62,"against":63,"isRemoved":true,"removedNote":"League suspended 3 games into next season due to WW2"},
+	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":14,"draw":14,"loss":14,"for":62,"against":63,"isRemoved":true,"removedNote":"League suspended 3 games into next season due to WW2"},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":16,"draw":9,"loss":17,"for":71,"against":60,"isRemoved":true,"removedNote":"League suspended 3 games into next season due to WW2","isReturning":true},
 	{"country":"eng","name":"Leeds United","id":"Leeds_United_F.C.","win":16,"draw":9,"loss":17,"for":59,"against":67,"isRemoved":true,"removedNote":"League suspended 3 games into next season due to WW2"},
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":11,"draw":16,"loss":15,"for":57,"against":65,"isRemoved":true,"removedNote":"League suspended 3 games into next season due to WW2","isReturning":true},
