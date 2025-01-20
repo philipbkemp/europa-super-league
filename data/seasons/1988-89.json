@@ -332,7 +332,7 @@
 	{"country":"bgr","name":"Lokomotiv Plovdiv","id":"PFC_Lokomotiv_Plovdiv","win":10,"draw":6,"loss":14,"for":31,"against":55},
 	{"country":"bgr","name":"Spartak Varna","id":"FC_Spartak_Varna","win":7,"draw":9,"loss":14,"for":37,"against":54,"isRemoved":true},
 	{"country":"bgr","name":"Minyor Pernik","id":"FC_Minyor_Pernik","win":8,"draw":6,"loss":16,"for":27,"against":44,"isRemoved":true},
-	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":29,"draw":6,"loss":1,"for":103,"against":27,"isChampion":true},
+	{"country":"tur","name":"Fenerbahçe","id":"fenerbahce_sk","win":29,"draw":6,"loss":1,"for":103,"against":27,"isChampion":true},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":25,"draw":8,"loss":3,"for":81,"against":21},
 	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":20,"draw":9,"loss":7,"for":76,"against":31},
 	{"country":"tur","name":"Sarıyer","id":"Sarıyer_S.K.","win":21,"draw":5,"loss":10,"for":70,"against":43},

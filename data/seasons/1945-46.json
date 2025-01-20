@@ -109,7 +109,7 @@
 	{"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":5,"draw":1,"loss":8,"for":25,"against":28},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":4,"draw":2,"loss":8,"for":19,"against":36},
 	{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":3,"draw":2,"loss":9,"for":26,"against":44},
-	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":10,"draw":3,"loss":1,"for":42,"against":17,"isChampion":true,"isRemoved":true,"removedNote":"League used a regional format as part of next season"},
+	{"country":"tur","name":"Fenerbahçe","id":"fenerbahce_sk","win":10,"draw":3,"loss":1,"for":42,"against":17,"isChampion":true,"isRemoved":true,"removedNote":"League used a regional format as part of next season"},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":8,"draw":4,"loss":2,"for":39,"against":19,"isRemoved":true,"removedNote":"League used a regional format as part of next season"},
 	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":7,"draw":4,"loss":3,"for":33,"against":13,"isReturning":true,"isRemoved":true,"removedNote":"League used a regional format as part of next season"},
 	{"country":"tur","name":"Ankara Demirspor","id":"Ankara_Demirspor","win":7,"draw":3,"loss":4,"for":23,"against":23,"isReturning":true,"isRemoved":true,"removedNote":"League used a regional format as part of next season"},

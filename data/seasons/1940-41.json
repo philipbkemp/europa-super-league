@@ -91,7 +91,7 @@
 	{"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":6,"draw":4,"loss":10,"for":27,"against":44},
 	{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":3,"draw":9,"loss":8,"for":23,"against":31},
 	{"country":"irl","name":"Bray Unknowns","id":"Bray_Unknowns_F.C.","win":3,"draw":3,"loss":14,"for":29,"against":55},
-	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":11,"draw":2,"loss":1,"for":49,"against":17,"isChampion":true},
+	{"country":"tur","name":"Fenerbahçe","id":"fenerbahce_sk","win":11,"draw":2,"loss":1,"for":49,"against":17,"isChampion":true},
 	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":9,"draw":2,"loss":3,"for":45,"against":19},
 	{"country":"tur","name":"Muhafızgücü","id":"Muhafızgücü","win":6,"draw":2,"loss":6,"for":35,"against":30,"isReturning":true,"isRemoved":true},
 	{"country":"tur","name":"Gençlerbirliği","id":"Gençlerbirliği_S.K.","win":7,"draw":0,"loss":7,"for":31,"against":27,"isReturning":true},

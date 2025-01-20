@@ -306,7 +306,7 @@
 	{"country":"bgr","name":"Lyubimets","id":"FC_Lyubimets","win":6,"draw":3,"loss":29,"for":25,"against":104,"isRemoved":true,"isNew":true},
 	{"country":"bgr","name":"Pirin Gotse Delchev","id":"FC_Pirin_Gotse_Delchev","win":6,"draw":4,"loss":28,"for":35,"against":91,"isRemoved":true},
 	{"country":"bgr","name":"Neftochimic 1986","id":"PFC_Neftochimic_Burgas_(2009–2014)","win":7,"draw":4,"loss":27,"for":26,"against":92,"isRemoved":true,"isNew":true},
-	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":23,"draw":5,"loss":6,"for":74,"against":33,"isChampion":true},
+	{"country":"tur","name":"Fenerbahçe","id":"fenerbahce_sk","win":23,"draw":5,"loss":6,"for":74,"against":33,"isChampion":true},
 	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":18,"draw":11,"loss":5,"for":59,"against":32},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":17,"draw":11,"loss":6,"for":53,"against":33},
 	{"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":14,"draw":11,"loss":9,"for":53,"against":41},

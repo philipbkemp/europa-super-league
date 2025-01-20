@@ -540,7 +540,7 @@ THEDATA = [
 	{"country":"svn","name":"Domžale","id":"NK_Domžale","win":2,"draw":4,"loss":12,"for":13,"against":40,"isCurrentSeason":true},
 	{"country":"svn","name":"Nafta 1903","id":"NK_Nafta_1903","win":2,"draw":3,"loss":13,"for":11,"against":33,"isNew":true,"isCurrentSeason":true},
 	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":16,"draw":3,"loss":0,"for":52,"against":22,"isCurrentSeason":true},
-	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":14,"draw":3,"loss":2,"for":49,"against":18,"isCurrentSeason":true},
+	{"country":"tur","name":"Fenerbahçe","id":"fenerbahce_sk","win":14,"draw":3,"loss":2,"for":49,"against":18,"isCurrentSeason":true},
 	{"country":"tur","name":"Samsunspor","id":"Samsunspor","win":11,"draw":4,"loss":4,"for":32,"against":18,"isCurrentSeason":true},
 	{"country":"tur","name":"Göztepe","id":"Göztepe_S.K.","win":10,"draw":4,"loss":5,"for":38,"against":23,"isReturning":true,"isCurrentSeason":true},
 	{"country":"tur","name":"Eyüpspor","id":"Eyüpspor","win":9,"draw":6,"loss":4,"for":32,"against":19,"isNew":true,"isCurrentSeason":true},

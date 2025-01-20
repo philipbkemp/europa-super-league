@@ -305,7 +305,7 @@
 	{"country":"bgr","name":"Rilski Sportist","id":"FC_Rilski_Sportist_Samokov","win":10,"draw":0,"loss":20,"for":31,"against":53,"isRemoved":true,"isReturning":true},
 	{"country":"bgr","name":"Rodopa Smolyan","id":"FC_Rodopa_Smolyan","win":5,"draw":4,"loss":21,"for":22,"against":52,"isRemoved":true},
 	{"country":"bgr","name":"Chernomorets Burgas Sofia","id":"Conegliano_German_F.C.","win":0,"draw":1,"loss":29,"for":8,"against":127,"isRemoved":true,"deduct":-3,"deductReason":"Failing to register enough youth players","isNew":true},
-	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":20,"draw":10,"loss":4,"for":65,"against":31,"isChampion":true},
+	{"country":"tur","name":"Fenerbahçe","id":"fenerbahce_sk","win":20,"draw":10,"loss":4,"for":65,"against":31,"isChampion":true},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":18,"draw":7,"loss":9,"for":43,"against":32},
 	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":15,"draw":11,"loss":8,"for":58,"against":37},
 	{"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":15,"draw":7,"loss":12,"for":54,"against":44},

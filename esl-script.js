@@ -116,7 +116,7 @@ clubPages = ["linfield_fc","rangers_fc","budapesti_tc","floriana_fc","colentina_
 	/*svk*/
 	,"sk_slovan_bratislava"
 	/*tur*/
-	,"besiktas_jk","galatasaray_sk"
+	,"besiktas_jk","galatasaray_sk","fenerbahce_sk"
 
 ];
 

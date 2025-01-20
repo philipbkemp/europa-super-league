@@ -345,7 +345,7 @@
 	{"country":"bgr","name":"Haskovo","id":"FC_Haskovo","win":9,"draw":4,"loss":17,"for":34,"against":41},
 	{"country":"bgr","name":"Rozova Dolina Kazanlak","id":"FC_Rozova_Dolina_Kazanlak","win":7,"draw":5,"loss":18,"for":30,"against":53,"isRemoved":true,"isNew":true},
 	{"country":"bgr","name":"Pirin Blagoevgrad","id":"OFC_Pirin_Blagoevgrad","win":7,"draw":5,"loss":18,"for":26,"against":54,"isRemoved":true,"isReturning":true},
-	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":18,"draw":13,"loss":3,"for":43,"against":20,"isChampion":true},
+	{"country":"tur","name":"Fenerbahçe","id":"fenerbahce_sk","win":18,"draw":13,"loss":3,"for":43,"against":20,"isChampion":true},
 	{"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":17,"draw":13,"loss":4,"for":40,"against":19},
 	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":17,"draw":10,"loss":7,"for":50,"against":33},
 	{"country":"tur","name":"Boluspor","id":"Boluspor","win":16,"draw":9,"loss":9,"for":39,"against":23},

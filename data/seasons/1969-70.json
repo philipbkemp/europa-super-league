@@ -338,7 +338,7 @@
 	{"country":"bgr","name":"Maritsa Plovdiv","id":"FC_Maritsa_Plovdiv","win":10,"draw":3,"loss":17,"for":34,"against":51,"isReturning":true},
 	{"country":"bgr","name":"Beroe Stara Zagora","id":"PFC_Beroe_Stara_Zagora","win":6,"draw":4,"loss":20,"for":19,"against":64,"isRemoved":true},
 	{"country":"bgr","name":"Minyor Pernik","id":"FC_Minyor_Pernik","win":5,"draw":5,"loss":20,"for":24,"against":59,"isRemoved":true},
-	{"country":"tur","name":"Fenerbahçe","id":"Fenerbahçe_S.K._(football)","win":17,"draw":10,"loss":3,"for":31,"against":6,"isChampion":true},
+	{"country":"tur","name":"Fenerbahçe","id":"fenerbahce_sk","win":17,"draw":10,"loss":3,"for":31,"against":6,"isChampion":true},
 	{"country":"tur","name":"Eskişehirspor","id":"Eskişehirspor","win":14,"draw":9,"loss":7,"for":46,"against":26},
 	{"country":"tur","name":"Altay","id":"Altay_S.K.","win":13,"draw":10,"loss":7,"for":27,"against":17},
 	{"country":"tur","name":"Mersin İdman Yurdu","id":"Mersin_Talim_Yurdu","win":12,"draw":12,"loss":6,"for":32,"against":27},
