@@ -50,7 +50,8 @@ h1 span { font-weight: normal; font-size: 0.9rem; }
 #club-winners thead tr th:last-of-type,
 #country-winners thead tr th:last-of-type { width: 670px; }
 #divisionsTables tbody th { font-weight: normal; }
-#divisionsTables tbody th a { font-weight: bold; }
+#divisionsTables tbody tr th a { font-weight: bold; }
+#divisionsTables tbody tr.current-season th { font-style: italic; }
 tbody th a { color: #2b5873 !important; width: 100%; display: block; }
 #divisionsTables tbody th a { display: inline-block; width: 75%; }
 tbody th a:hover { color: #0000d6 !important; }
