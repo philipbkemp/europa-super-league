@@ -24,7 +24,7 @@
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":11,"draw":5,"loss":14,"for":51,"against":50},
 	{"country":"ita","name":"Milano","id":"AC_Milan","win":10,"draw":7,"loss":13,"for":53,"against":53},
 	{"country":"ita","name":"Liguria","id":"UC_Sampdoria","win":10,"draw":7,"loss":13,"for":39,"against":56,"isReturning":true},
-	{"country":"ita","name":"Ambrosiana-Inter","id":"Inter_Milan","win":7,"draw":12,"loss":11,"for":31,"against":47},
+	{"country":"ita","name":"Ambrosiana-Inter","id":"inter_milan","win":7,"draw":12,"loss":11,"for":31,"against":47},
 	{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":8,"draw":8,"loss":14,"for":34,"against":47},
 	{"country":"ita","name":"Livorno","id":"US_Livorno_1915","win":9,"draw":6,"loss":15,"for":35,"against":57},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":8,"draw":7,"loss":15,"for":32,"against":51,"isRemoved":true},

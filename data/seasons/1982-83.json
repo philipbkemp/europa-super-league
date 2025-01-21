@@ -85,7 +85,7 @@
 	{"country":"bel","name":"FC Winterslag","id":"K.R.C._Genk","win":5,"draw":10,"loss":19,"for":36,"against":62,"isRemoved":true},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":16,"draw":11,"loss":3,"for":47,"against":24,"isChampion":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":15,"draw":9,"loss":6,"for":49,"against":26},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":12,"draw":14,"loss":4,"for":40,"against":23},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":12,"draw":14,"loss":4,"for":40,"against":23},
 	{"country":"ita","name":"Hellas Verona","id":"Hellas_Verona_FC","win":11,"draw":13,"loss":6,"for":37,"against":31,"isReturning":true},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":12,"draw":10,"loss":8,"for":36,"against":25},
 	{"country":"ita","name":"Udinese","id":"Udinese_Calcio","win":6,"draw":20,"loss":4,"for":25,"against":29},

@@ -83,7 +83,7 @@
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":21,"draw":10,"loss":3,"for":61,"against":27},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":21,"draw":6,"loss":7,"for":65,"against":36},
 	{"country":"ita","name":"Parma","id":"Parma_Calcio_1913","win":16,"draw":8,"loss":10,"for":51,"against":31},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":14,"draw":9,"loss":11,"for":47,"against":47},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":14,"draw":9,"loss":11,"for":47,"against":47},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":12,"draw":13,"loss":9,"for":56,"against":46},
 	{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":10,"draw":14,"loss":10,"for":38,"against":34,"isReturning":true},
 	{"country":"ita","name":"Brescia","id":"Brescia_Calcio","win":10,"draw":14,"loss":10,"for":44,"against":42,"isReturning":true},

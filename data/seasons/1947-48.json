@@ -74,7 +74,7 @@
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":14,"draw":12,"loss":14,"for":51,"against":52},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":13,"draw":13,"loss":14,"for":54,"against":55},
 	{"country":"ita","name":"Bari","id":"SSC_Bari","win":14,"draw":10,"loss":16,"for":38,"against":60},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":16,"draw":5,"loss":19,"for":67,"against":60},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":16,"draw":5,"loss":19,"for":67,"against":60},
 	{"country":"ita","name":"Genoa","id":"Genoa_CFC","win":15,"draw":7,"loss":18,"for":68,"against":65},
 	{"country":"ita","name":"Sampdoria","id":"UC_Sampdoria","win":13,"draw":10,"loss":17,"for":68,"against":63},
 	{"country":"ita","name":"Livorno","id":"US_Livorno_1915","win":11,"draw":14,"loss":15,"for":45,"against":62},

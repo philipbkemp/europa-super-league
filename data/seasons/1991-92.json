@@ -86,7 +86,7 @@
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":13,"draw":14,"loss":7,"for":37,"against":31},
 	{"country":"ita","name":"Sampdoria","id":"UC_Sampdoria","win":11,"draw":16,"loss":7,"for":38,"against":31},
 	{"country":"ita","name":"Parma","id":"Parma_Calcio_1913","win":11,"draw":16,"loss":7,"for":32,"against":28},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":10,"draw":17,"loss":7,"for":28,"against":28},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":10,"draw":17,"loss":7,"for":28,"against":28},
 	{"country":"ita","name":"Foggia","id":"Calcio_Foggia_1920","win":12,"draw":11,"loss":11,"for":58,"against":58,"isReturning":true},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":11,"draw":12,"loss":11,"for":43,"against":40},
 	{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":10,"draw":14,"loss":10,"for":31,"against":33},

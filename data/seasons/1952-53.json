@@ -63,7 +63,7 @@
 	{"country":"bel","name":"R. Charleroi S.C.","id":"Royal_Charleroi_S.C.","win":10,"draw":4,"loss":16,"for":48,"against":78},
 	{"country":"bel","name":"RC de Gand","id":"K.R.C._Gent","win":10,"draw":1,"loss":19,"for":34,"against":52,"isRemoved":true,"isReturning":true},
 	{"country":"bel","name":"Beringen FC","id":"K._Beringen_F.C.","win":5,"draw":9,"loss":16,"for":39,"against":66,"isRemoved":true,"isReturning":true},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":19,"draw":9,"loss":6,"for":46,"against":24,"isChampion":true},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":19,"draw":9,"loss":6,"for":46,"against":24,"isChampion":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":18,"draw":9,"loss":7,"for":73,"against":40},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":17,"draw":9,"loss":8,"for":64,"against":34},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":15,"draw":11,"loss":8,"for":53,"against":43},

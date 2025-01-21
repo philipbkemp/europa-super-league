@@ -103,6 +103,8 @@ clubPages = ["linfield_fc","rangers_fc","budapesti_tc","floriana_fc","colentina_
 	,"havnar_boltfelag","klaksvikar_itrottarfelag","tvoroyrar_boltfelag","vikingur_gota"
 	/*gib*/
 	,"europa_fc","lincoln_red_imps_fc","st_josephs_fc"
+	/*ita*/
+	,"inter_milan"
 	/*lux*/
 	,"f91_dudelange","fa_red_boys_differdange","us_hollerich_bonnevoie","fc_differdange_03"
 	/*lva*/

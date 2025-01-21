@@ -80,7 +80,7 @@
 	{"country":"bel","name":"K.S.C. Lokeren Oost-Vlaanderen","id":"K.S.C._Lokeren_Oost-Vlaanderen","win":4,"draw":12,"loss":18,"for":32,"against":58,"isRemoved":true},
 	{"country":"bel","name":"K. Boom F.C.","id":"K._Boom_F.C.","win":6,"draw":7,"loss":21,"for":40,"against":95,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":18,"draw":14,"loss":2,"for":65,"against":32,"isChampion":true},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":17,"draw":12,"loss":5,"for":59,"against":36},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":17,"draw":12,"loss":5,"for":59,"against":36},
 	{"country":"ita","name":"Parma","id":"Parma_Calcio_1913","win":16,"draw":9,"loss":9,"for":47,"against":34},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":15,"draw":9,"loss":10,"for":59,"against":47},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":13,"draw":12,"loss":9,"for":65,"against":51},

@@ -63,7 +63,7 @@
 	{"country":"bel","name":"Léopold Club de Bruxelles","id":"Léopold_FC","win":4,"draw":5,"loss":13,"for":26,"against":63},
 	{"country":"bel","name":"S.C. Courtraisien","id":"K.V._Kortrijk","win":3,"draw":5,"loss":14,"for":18,"against":62},
 	{"country":"bel","name":"F.C. Liégeois","id":"RFC_Liège","win":1,"draw":4,"loss":17,"for":11,"against":79,"isRemoved":true},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":12,"draw":1,"loss":3,"for":55,"against":26,"isChampion":true,"isNew":true},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":12,"draw":1,"loss":3,"for":55,"against":26,"isChampion":true,"isNew":true},
 	{"country":"ita","name":"Pro Vercelli","id":"FC_Pro_Vercelli_1892","win":12,"draw":1,"loss":3,"for":46,"against":15,"isNew":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":8,"draw":2,"loss":6,"for":28,"against":19,"isNew":true},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":8,"draw":1,"loss":7,"for":43,"against":30,"isNew":true},

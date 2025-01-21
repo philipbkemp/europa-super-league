@@ -101,7 +101,7 @@
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":11,"draw":13,"loss":6,"for":40,"against":30},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":10,"draw":12,"loss":8,"for":36,"against":33},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":9,"draw":13,"loss":8,"for":31,"against":27},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":10,"draw":10,"loss":10,"for":26,"against":26},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":10,"draw":10,"loss":10,"for":26,"against":26},
 	{"country":"ita","name":"Cagliari","id":"Cagliari_Calcio","win":6,"draw":14,"loss":10,"for":22,"against":30},
 	{"country":"ita","name":"Cesena","id":"AC_Cesena","win":5,"draw":15,"loss":10,"for":23,"against":35},
 	{"country":"ita","name":"Ascoli","id":"Ascoli_Calcio_1898_FC","win":6,"draw":12,"loss":12,"for":14,"against":27,"isNew":true},

@@ -83,7 +83,7 @@
 	{"country":"bel","name":"K Berchem Sport","id":"K._Berchem_Sport","win":7,"draw":10,"loss":13,"for":30,"against":48},
 	{"country":"bel","name":"Royale Union Saint-Gilloise","id":"royale_union_saint_gilloise","win":7,"draw":8,"loss":15,"for":32,"against":58,"isRemoved":true,"isReturning":true},
 	{"country":"bel","name":"KFC Diest","id":"K.F.C._Diest","win":6,"draw":10,"loss":14,"for":40,"against":54,"isRemoved":true},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":22,"draw":10,"loss":2,"for":68,"against":29,"isChampion":true},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":22,"draw":10,"loss":2,"for":68,"against":29,"isChampion":true},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":21,"draw":9,"loss":4,"for":52,"against":23},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":16,"draw":12,"loss":6,"for":48,"against":27},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":16,"draw":9,"loss":9,"for":52,"against":37},

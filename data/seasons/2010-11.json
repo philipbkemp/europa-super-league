@@ -78,7 +78,7 @@
 	{"country":"bel","name":"Eupen","id":"K.A.S._Eupen","win":7,"draw":9,"loss":18,"for":37,"against":58,"isRemoved":true,"isNew":true},
 	{"country":"bel","name":"Charleroi","id":"Royal_Charleroi_S.C.","win":5,"draw":8,"loss":21,"for":28,"against":63,"isRemoved":true},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":24,"draw":10,"loss":4,"for":65,"against":24,"isChampion":true},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":23,"draw":7,"loss":8,"for":69,"against":42},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":23,"draw":7,"loss":8,"for":69,"against":42},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":21,"draw":7,"loss":10,"for":59,"against":39},
 	{"country":"ita","name":"Udinese","id":"Udinese_Calcio","win":20,"draw":6,"loss":12,"for":65,"against":43},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":20,"draw":6,"loss":12,"for":55,"against":39},

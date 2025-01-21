@@ -79,7 +79,7 @@
 	{"country":"bel","name":"K. Beerschot V.A.C.","id":"K._Beerschot_V.A.C.","win":8,"draw":10,"loss":16,"for":41,"against":63},
 	{"country":"bel","name":"R.W.D. Molenbeek","id":"R.W.D._Molenbeek_(1909)","win":10,"draw":5,"loss":19,"for":36,"against":59,"isRemoved":true},
 	{"country":"bel","name":"K.R.C. Genk","id":"K.R.C._Genk","win":2,"draw":11,"loss":21,"for":20,"against":67,"isRemoved":true},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":26,"draw":6,"loss":2,"for":67,"against":19,"isChampion":true},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":26,"draw":6,"loss":2,"for":67,"against":19,"isChampion":true},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":18,"draw":11,"loss":5,"for":57,"against":28},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":16,"draw":14,"loss":4,"for":61,"against":25},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":15,"draw":13,"loss":6,"for":51,"against":36},

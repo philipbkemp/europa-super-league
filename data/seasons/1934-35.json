@@ -66,7 +66,7 @@
 	{"country":"bel","name":"RC de Gand","id":"K.R.C._Gent","win":5,"draw":4,"loss":17,"for":37,"against":74,"isRemoved":true},
 	{"country":"bel","name":"Belgica FC Edegem","id":"K.V.V._Belgica_Edegem_Sport","win":3,"draw":2,"loss":21,"for":49,"against":117,"isRemoved":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":18,"draw":8,"loss":4,"for":45,"against":22,"isChampion":true},
-	{"country":"ita","name":"Ambrosiana-Inter","id":"Inter_Milan","win":15,"draw":12,"loss":3,"for":58,"against":24},
+	{"country":"ita","name":"Ambrosiana-Inter","id":"inter_milan","win":15,"draw":12,"loss":3,"for":58,"against":24},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":15,"draw":9,"loss":6,"for":39,"against":23},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":14,"draw":7,"loss":9,"for":63,"against":38},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":13,"draw":6,"loss":11,"for":55,"against":46},

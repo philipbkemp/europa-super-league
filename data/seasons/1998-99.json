@@ -84,7 +84,7 @@
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":15,"draw":9,"loss":10,"for":69,"against":49},
 	{"country":"ita","name":"Udinese","id":"Udinese_Calcio","win":16,"draw":6,"loss":12,"for":52,"against":52},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":15,"draw":9,"loss":10,"for":42,"against":36},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":13,"draw":7,"loss":14,"for":59,"against":54},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":13,"draw":7,"loss":14,"for":59,"against":54},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":11,"draw":11,"loss":12,"for":44,"against":47},
 	{"country":"ita","name":"Bari","id":"SSC_Bari","win":9,"draw":15,"loss":10,"for":39,"against":44},
 	{"country":"ita","name":"Venezia","id":"Venezia_FC","win":11,"draw":9,"loss":14,"for":38,"against":45,"isReturning":true},

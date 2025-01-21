@@ -67,7 +67,7 @@
 	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":6,"draw":5,"loss":15,"for":40,"against":64,"isRemoved":true,"removedNote":"League suspended after 9 months due to WW2"},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":16,"draw":10,"loss":4,"for":53,"against":31,"isChampion":true},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":14,"draw":10,"loss":6,"for":45,"against":34},
-	{"country":"ita","name":"Ambrosiana-Inter","id":"Inter_Milan","win":14,"draw":9,"loss":7,"for":55,"against":37},
+	{"country":"ita","name":"Ambrosiana-Inter","id":"inter_milan","win":14,"draw":9,"loss":7,"for":55,"against":37},
 	{"country":"ita","name":"Genova 1893","id":"Genoa_CFC","win":14,"draw":7,"loss":9,"for":53,"against":30},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":14,"draw":3,"loss":13,"for":39,"against":35},
 	{"country":"ita","name":"Liguria","id":"UC_Sampdoria","win":12,"draw":7,"loss":11,"for":35,"against":34},

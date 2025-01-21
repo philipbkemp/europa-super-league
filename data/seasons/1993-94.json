@@ -91,7 +91,7 @@
 	{"country":"ita","name":"Cremonese","id":"US_Cremonese","win":8,"draw":16,"loss":10,"for":41,"against":41,"isReturning":true},
 	{"country":"ita","name":"Genoa","id":"Genoa_CFC","win":8,"draw":16,"loss":10,"for":32,"against":40},
 	{"country":"ita","name":"Cagliari","id":"Cagliari_Calcio","win":10,"draw":12,"loss":12,"for":39,"against":48},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":11,"draw":9,"loss":14,"for":46,"against":45},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":11,"draw":9,"loss":14,"for":46,"against":45},
 	{"country":"ita","name":"Reggiana","id":"AC_Reggiana_1919","win":10,"draw":11,"loss":13,"for":29,"against":37,"isNew":true},
 	{"country":"ita","name":"Piacenza","id":"Piacenza_Calcio_1919","win":8,"draw":14,"loss":12,"for":32,"against":43,"isRemoved":true,"isNew":true},
 	{"country":"ita","name":"Udinese","id":"Udinese_Calcio","win":7,"draw":14,"loss":13,"for":35,"against":48,"isRemoved":true},

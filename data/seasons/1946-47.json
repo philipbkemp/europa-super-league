@@ -75,7 +75,7 @@
 	{"country":"ita","name":"Bari","id":"SSC_Bari","win":16,"draw":6,"loss":16,"for":33,"against":48,"isReturning":true},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":14,"draw":9,"loss":15,"for":50,"against":59,"isReturning":true},
 	{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":11,"draw":15,"loss":12,"for":40,"against":52,"isReturning":true},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":13,"draw":10,"loss":15,"for":59,"against":54,"isReturning":true},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":13,"draw":10,"loss":15,"for":59,"against":54,"isReturning":true},
 	{"country":"ita","name":"Sampdoria","id":"UC_Sampdoria","win":14,"draw":8,"loss":16,"for":56,"against":52,"isReturning":true},
 	{"country":"ita","name":"Genoa","id":"Genoa_CFC","win":13,"draw":10,"loss":15,"for":53,"against":53,"isReturning":true},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":12,"draw":12,"loss":14,"for":56,"against":56,"isReturning":true},

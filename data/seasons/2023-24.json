@@ -77,7 +77,7 @@
 	{"country":"bel","name":"Eupen","id":"K.A.S._Eupen","win":8,"draw":4,"loss":24,"for":29,"against":66,"isRemoved":true},
 	{"country":"bel","name":"Kortrijk","id":"K.V._Kortrijk","win":8,"draw":7,"loss":21,"for":29,"against":77},
 	{"country":"bel","name":"RWD Molenbeek","id":"R.W.D._Molenbeek_(2015)","win":7,"draw":9,"loss":20,"for":39,"against":76,"isRemoved":true,"isNew":true},
-	{"country":"ita","name":"Inter Milan","id":"Inter_Milan","win":29,"draw":7,"loss":2,"for":89,"against":22,"isChampion":true},
+	{"country":"ita","name":"Inter Milan","id":"inter_milan","win":29,"draw":7,"loss":2,"for":89,"against":22,"isChampion":true},
 	{"country":"ita","name":"AC Milan","id":"AC_Milan","win":22,"draw":9,"loss":7,"for":76,"against":49},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":19,"draw":14,"loss":5,"for":54,"against":31},
 	{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":21,"draw":6,"loss":11,"for":72,"against":42},

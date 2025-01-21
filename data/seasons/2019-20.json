@@ -80,7 +80,7 @@
 	{"country":"bel","name":"Oostende","id":"K.V._Oostende","win":6,"draw":4,"loss":19,"for":29,"against":58},
 	{"country":"bel","name":"Waasland-Beveren","id":"S.K._Beveren","win":5,"draw":5,"loss":19,"for":21,"against":60},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":26,"draw":5,"loss":7,"for":76,"against":43,"isChampion":true},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":24,"draw":10,"loss":4,"for":81,"against":36},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":24,"draw":10,"loss":4,"for":81,"against":36},
 	{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":23,"draw":9,"loss":6,"for":98,"against":48},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":24,"draw":6,"loss":8,"for":79,"against":42},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":21,"draw":7,"loss":10,"for":77,"against":51},

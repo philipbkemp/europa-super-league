@@ -77,7 +77,7 @@
 	{"country":"bel","name":"Lokeren","id":"K.S.C._Lokeren_Oost-Vlaanderen","win":6,"draw":6,"loss":22,"for":34,"against":68},
 	{"country":"bel","name":"Roeselare","id":"K.S.V._Roeselare","win":4,"draw":6,"loss":18,"for":29,"against":58,"isRemoved":true},
 	{"country":"bel","name":"Mouscron","id":"R.E._Mouscron","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Record expunged after financial issues led to forfeiting matches"},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":24,"draw":10,"loss":4,"for":75,"against":34,"isChampion":true},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":24,"draw":10,"loss":4,"for":75,"against":34,"isChampion":true},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":24,"draw":8,"loss":6,"for":68,"against":41},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":20,"draw":10,"loss":8,"for":60,"against":39},
 	{"country":"ita","name":"Sampdoria","id":"UC_Sampdoria","win":19,"draw":10,"loss":9,"for":49,"against":41},

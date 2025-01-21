@@ -66,7 +66,7 @@
 	{"country":"bel","name":"R.R.C. Bruxelles","id":"kfc_rhodienne_de_hoek","win":7,"draw":3,"loss":16,"for":47,"against":97,"isRemoved":true},
 	{"country":"bel","name":"Tilleur","id":"R.F.C._Tilleur","win":6,"draw":1,"loss":19,"for":43,"against":92,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":23,"draw":7,"loss":4,"for":88,"against":31,"isChampion":true},
-	{"country":"ita","name":"Ambrosiana-Inter","id":"Inter_Milan","win":20,"draw":9,"loss":5,"for":66,"against":24},
+	{"country":"ita","name":"Ambrosiana-Inter","id":"inter_milan","win":20,"draw":9,"loss":5,"for":66,"against":24},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":19,"draw":8,"loss":7,"for":46,"against":30},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":16,"draw":10,"loss":8,"for":53,"against":33},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":16,"draw":8,"loss":10,"for":56,"against":32},

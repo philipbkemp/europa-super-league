@@ -65,7 +65,7 @@
 	{"country":"bel","name":"KV Mechelen","id":"K.V._Mechelen","win":7,"draw":7,"loss":12,"for":41,"against":59},
 	{"country":"bel","name":"K. Lyra","id":"K._Lyra","win":6,"draw":4,"loss":16,"for":40,"against":77,"isRemoved":true},
 	{"country":"bel","name":"K.V.K. Tienen","id":"K.V.K._Tienen-Hageland","win":5,"draw":4,"loss":17,"for":31,"against":62,"isRemoved":true,"isNew":true},
-	{"country":"ita","name":"Ambrosiana-Inter","id":"Inter_Milan","win":16,"draw":9,"loss":5,"for":57,"against":28,"isChampion":true},
+	{"country":"ita","name":"Ambrosiana-Inter","id":"inter_milan","win":16,"draw":9,"loss":5,"for":57,"against":28,"isChampion":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":14,"draw":11,"loss":5,"for":43,"against":22},
 	{"country":"ita","name":"Genova 1893","id":"Genoa_CFC","win":15,"draw":8,"loss":7,"for":50,"against":35},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":13,"draw":12,"loss":5,"for":43,"against":27},

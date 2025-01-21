@@ -81,7 +81,7 @@
 	{"country":"bel","name":"Mons","id":"R.A.E.C._Mons_(1910)","win":7,"draw":5,"loss":22,"for":39,"against":58,"isRemoved":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":26,"draw":8,"loss":4,"for":67,"against":27,"isChampion":true},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":23,"draw":10,"loss":5,"for":63,"against":28},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":18,"draw":18,"loss":2,"for":65,"against":37},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":18,"draw":18,"loss":2,"for":65,"against":37},
 	{"country":"ita","name":"Udinese","id":"Udinese_Calcio","win":17,"draw":11,"loss":10,"for":56,"against":40},
 	{"country":"ita","name":"Sampdoria","id":"UC_Sampdoria","win":17,"draw":10,"loss":11,"for":42,"against":29},
 	{"country":"ita","name":"Palermo","id":"Palermo_FC","win":12,"draw":17,"loss":9,"for":48,"against":44,"isReturning":true},

@@ -70,7 +70,7 @@
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":16,"draw":8,"loss":10,"for":53,"against":42},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":16,"draw":7,"loss":11,"for":54,"against":35,"isNew":true},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":15,"draw":9,"loss":10,"for":57,"against":40},
-	{"country":"ita","name":"Ambrosiana-Inter","id":"Inter_Milan","win":15,"draw":8,"loss":11,"for":67,"against":52},
+	{"country":"ita","name":"Ambrosiana-Inter","id":"inter_milan","win":15,"draw":8,"loss":11,"for":67,"against":52},
 	{"country":"ita","name":"Alessandria","id":"US_Alessandria_Calcio_1912","win":15,"draw":8,"loss":11,"for":66,"against":53},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":14,"draw":9,"loss":11,"for":64,"against":53},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":13,"draw":9,"loss":12,"for":48,"against":46},

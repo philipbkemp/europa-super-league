@@ -69,7 +69,7 @@
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":22,"draw":7,"loss":5,"for":87,"against":31},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":21,"draw":6,"loss":7,"for":81,"against":33},
 	{"country":"ita","name":"Genova 1893","id":"Genoa_CFC","win":22,"draw":3,"loss":9,"for":58,"against":47},
-	{"country":"ita","name":"Ambrosiana","id":"Inter_Milan","win":15,"draw":8,"loss":11,"for":60,"against":45},
+	{"country":"ita","name":"Ambrosiana","id":"inter_milan","win":15,"draw":8,"loss":11,"for":60,"against":45},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":18,"draw":1,"loss":15,"for":54,"against":49},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":14,"draw":8,"loss":12,"for":52,"against":43},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":15,"draw":5,"loss":14,"for":45,"against":44},

@@ -79,7 +79,7 @@
 	{"country":"bel","name":"Cercle Brugge","id":"Cercle_Brugge_K.S.V.","win":11,"draw":3,"loss":20,"for":40,"against":51},
 	{"country":"bel","name":"Waasland-Beveren","id":"S.K._Beveren","win":8,"draw":7,"loss":19,"for":44,"against":70,"isRemoved":true},
 	{"country":"bel","name":"Excel Mouscron","id":"Royal_Excel_Mouscron","win":7,"draw":10,"loss":17,"for":32,"against":54,"isRemoved":true},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":28,"draw":7,"loss":3,"for":89,"against":35,"isChampion":true},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":28,"draw":7,"loss":3,"for":89,"against":35,"isChampion":true},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":24,"draw":7,"loss":7,"for":74,"against":41},
 	{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":23,"draw":9,"loss":6,"for":90,"against":47},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":23,"draw":9,"loss":6,"for":77,"against":38},

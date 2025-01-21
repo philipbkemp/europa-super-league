@@ -68,7 +68,7 @@
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":9,"draw":0,"loss":7,"for":33,"against":27},
 	{"country":"ita","name":"Andrea Doria","id":"UC_Sampdoria","win":8,"draw":0,"loss":8,"for":28,"against":30},
 	{"country":"ita","name":"Genoa","id":"Genoa_CFC","win":7,"draw":0,"loss":9,"for":22,"against":27},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":6,"draw":1,"loss":9,"for":24,"against":31},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":6,"draw":1,"loss":9,"for":24,"against":31},
 	{"country":"ita","name":"Piemonte","id":"Piemonte_FC","win":4,"draw":4,"loss":8,"for":21,"against":35,"isNew":true},
 	{"country":"ita","name":"US Milanese","id":"US_Milanese","win":6,"draw":0,"loss":10,"for":19,"against":45},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":3,"draw":4,"loss":9,"for":16,"against":29},

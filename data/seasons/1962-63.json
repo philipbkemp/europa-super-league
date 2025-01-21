@@ -83,7 +83,7 @@
 	{"country":"bel","name":"K Berchem Sport","id":"K._Berchem_Sport","win":10,"draw":5,"loss":15,"for":26,"against":38,"isReturning":true},
 	{"country":"bel","name":"Royale Union Saint-Gilloise","id":"royale_union_saint_gilloise","win":9,"draw":6,"loss":15,"for":34,"against":46,"isRemoved":true},
 	{"country":"bel","name":"R.O.C. de Charleroi-Marchienne","id":"R._Olympic_Charleroi_Châtelet_Farciennes","win":6,"draw":7,"loss":17,"for":28,"against":45,"isRemoved":true},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":19,"draw":11,"loss":4,"for":56,"against":20,"isChampion":true},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":19,"draw":11,"loss":4,"for":56,"against":20,"isChampion":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":18,"draw":9,"loss":7,"for":50,"against":25},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":15,"draw":13,"loss":6,"for":53,"against":27},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":17,"draw":8,"loss":9,"for":58,"against":39},

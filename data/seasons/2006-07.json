@@ -79,7 +79,7 @@
 	{"country":"bel","name":"Lokeren","id":"K.S.C._Lokeren_Oost-Vlaanderen","win":5,"draw":15,"loss":14,"for":32,"against":48},
 	{"country":"bel","name":"Lierse","id":"Lierse_S.K.","win":6,"draw":8,"loss":20,"for":33,"against":66,"isRemoved":true},
 	{"country":"bel","name":"Beveren","id":"K.S.K._Beveren","win":5,"draw":10,"loss":19,"for":31,"against":64,"isRemoved":true},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":30,"draw":7,"loss":1,"for":80,"against":34,"isChampion":true},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":30,"draw":7,"loss":1,"for":80,"against":34,"isChampion":true},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":22,"draw":9,"loss":7,"for":74,"against":34},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":18,"draw":11,"loss":9,"for":59,"against":33,"deduct":-3,"deductReason":"Calciopoli scandal"},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":19,"draw":12,"loss":7,"for":57,"against":36,"deduct":-8,"deductReason":"Calciopoli scandal"},

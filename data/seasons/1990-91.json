@@ -77,7 +77,7 @@
 	{"country":"bel","name":"K. Beerschot V.A.C.","id":"K._Beerschot_V.A.C.","win":5,"draw":5,"loss":24,"for":33,"against":72,"isRemoved":true},
 	{"country":"ita","name":"Sampdoria","id":"UC_Sampdoria","win":20,"draw":11,"loss":3,"for":57,"against":24,"isChampion":true},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":18,"draw":10,"loss":6,"for":46,"against":19},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":18,"draw":10,"loss":6,"for":56,"against":31},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":18,"draw":10,"loss":6,"for":56,"against":31},
 	{"country":"ita","name":"Genoa","id":"Genoa_CFC","win":14,"draw":12,"loss":8,"for":51,"against":36},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":12,"draw":14,"loss":8,"for":40,"against":29,"isReturning":true},
 	{"country":"ita","name":"Parma","id":"Parma_Calcio_1913","win":13,"draw":12,"loss":9,"for":35,"against":31,"isNew":true},

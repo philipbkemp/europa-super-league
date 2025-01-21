@@ -82,7 +82,7 @@
 	{"country":"ita","name":"Udinese","id":"Udinese_Calcio","win":18,"draw":10,"loss":10,"for":52,"against":35},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":18,"draw":8,"loss":12,"for":56,"against":47},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":16,"draw":13,"loss":9,"for":66,"against":46},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":17,"draw":7,"loss":14,"for":58,"against":55},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":17,"draw":7,"loss":14,"for":58,"against":55},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":16,"draw":8,"loss":14,"for":60,"against":54},
 	{"country":"ita","name":"Parma","id":"Parma_Calcio_1913","win":15,"draw":11,"loss":12,"for":54,"against":53},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":13,"draw":12,"loss":13,"for":41,"against":43},

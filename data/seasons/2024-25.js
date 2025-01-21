@@ -288,7 +288,7 @@ THEDATA = [
 	{"country":"isr","name":"F.C. Ashdod","id":"F.C._Ashdod","win":3,"draw":4,"loss":11,"for":24,"against":37,"isCurrentSeason":true},
 	{"country":"isr","name":"Hapoel Hadera","id":"Hapoel_Hadera_F.C.","win":1,"draw":10,"loss":7,"for":15,"against":29,"isCurrentSeason":true},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":16,"draw":2,"loss":3,"for":35,"against":14,"isCurrentSeason":true},
-	{"country":"ita","name":"Inter Milan","id":"Inter_Milan","win":14,"draw":5,"loss":1,"for":51,"against":18,"isCurrentSeason":true},
+	{"country":"ita","name":"Inter Milan","id":"inter_milan","win":14,"draw":5,"loss":1,"for":51,"against":18,"isCurrentSeason":true},
 	{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":13,"draw":4,"loss":4,"for":46,"against":24,"isCurrentSeason":true},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":12,"draw":3,"loss":6,"for":37,"against":28,"isCurrentSeason":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":8,"draw":13,"loss":0,"for":34,"against":17,"isCurrentSeason":true},

@@ -81,7 +81,7 @@
 {"country":"bel","name":"K.R.C. Mechelen","id":"K.R.C._Mechelen","win":5,"draw":11,"loss":18,"for":29,"against":61,"isRemoved":true},
 {"country":"ita","name":"Napoli","id":"SSC_Napoli","win":21,"draw":9,"loss":4,"for":57,"against":31,"isChampion":true},
 {"country":"ita","name":"Milan","id":"AC_Milan","win":22,"draw":5,"loss":7,"for":56,"against":27},
-{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":17,"draw":10,"loss":7,"for":55,"against":32},
+{"country":"ita","name":"Internazionale","id":"inter_milan","win":17,"draw":10,"loss":7,"for":55,"against":32},
 {"country":"ita","name":"Juventus","id":"Juventus_FC","win":15,"draw":14,"loss":5,"for":56,"against":36},
 {"country":"ita","name":"Sampdoria","id":"UC_Sampdoria","win":16,"draw":11,"loss":7,"for":46,"against":26},
 {"country":"ita","name":"Roma","id":"AS_Roma","win":14,"draw":13,"loss":7,"for":45,"against":40},

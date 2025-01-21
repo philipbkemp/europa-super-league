@@ -86,7 +86,7 @@
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":17,"draw":10,"loss":3,"for":46,"against":15,"isChampion":true},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":14,"draw":14,"loss":2,"for":43,"against":20},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":14,"draw":10,"loss":6,"for":31,"against":21},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":14,"draw":8,"loss":8,"for":41,"against":24},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":14,"draw":8,"loss":8,"for":41,"against":24},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":9,"draw":14,"loss":7,"for":28,"against":25},
 	{"country":"ita","name":"Cagliari","id":"Cagliari_Calcio","win":8,"draw":14,"loss":8,"for":29,"against":30},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":11,"draw":12,"loss":7,"for":32,"against":27,"deduct":-5,"deductReason":"Disqualified and relegated due to the 1980 Totonero scandal"},

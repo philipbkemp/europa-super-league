@@ -85,7 +85,7 @@
 	{"country":"bel","name":"KFC Diest","id":"K.F.C._Diest","win":7,"draw":10,"loss":13,"for":29,"against":37,"isReturning":true},
 	{"country":"bel","name":"R. Charleroi S.C.","id":"Royal_Charleroi_S.C.","win":8,"draw":7,"loss":15,"for":37,"against":54,"isRemoved":true},
 	{"country":"bel","name":"La Gantoise","id":"K.A.A._Gent","win":4,"draw":6,"loss":20,"for":23,"against":65,"isRemoved":true},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":19,"draw":8,"loss":3,"for":50,"against":26,"isChampion":true},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":19,"draw":8,"loss":3,"for":50,"against":26,"isChampion":true},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":15,"draw":12,"loss":3,"for":54,"against":26},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":15,"draw":9,"loss":6,"for":33,"against":19},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":11,"draw":13,"loss":6,"for":41,"against":30},

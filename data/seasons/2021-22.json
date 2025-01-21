@@ -80,7 +80,7 @@
 	{"country":"bel","name":"Seraing","id":"R.F.C._Seraing_(1922)","win":8,"draw":4,"loss":22,"for":30,"against":68,"isNew":true},
 	{"country":"bel","name":"Beerschot","id":"K_Beerschot_VA","win":4,"draw":4,"loss":26,"for":33,"against":76,"isRemoved":true},
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":26,"draw":8,"loss":4,"for":69,"against":31,"isChampion":true},
-	{"country":"ita","name":"Internazionale","id":"Inter_Milan","win":25,"draw":9,"loss":4,"for":84,"against":32},
+	{"country":"ita","name":"Internazionale","id":"inter_milan","win":25,"draw":9,"loss":4,"for":84,"against":32},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":24,"draw":7,"loss":7,"for":74,"against":31},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":20,"draw":10,"loss":8,"for":57,"against":37},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":18,"draw":10,"loss":10,"for":77,"against":58},

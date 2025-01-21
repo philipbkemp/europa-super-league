@@ -83,7 +83,7 @@
 	{"country":"bel","name":"K Berchem Sport","id":"K._Berchem_Sport","win":7,"draw":12,"loss":15,"for":40,"against":61},
 	{"country":"bel","name":"R. Charleroi S.C.","id":"Royal_Charleroi_S.C.","win":8,"draw":6,"loss":20,"for":23,"against":66,"isRemoved":true},
 	{"country":"bel","name":"KSC Hasselt","id":"K.S.C._Hasselt","win":2,"draw":6,"loss":26,"for":21,"against":94,"isRemoved":true,"isNew":true},
-	{"country":"ita","name":"Inter","id":"Inter_Milan","win":14,"draw":13,"loss":3,"for":44,"against":25,"isChampion":true},
+	{"country":"ita","name":"Inter","id":"inter_milan","win":14,"draw":13,"loss":3,"for":44,"against":25,"isChampion":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":16,"draw":6,"loss":8,"for":42,"against":25},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":11,"draw":13,"loss":6,"for":26,"against":15},
 	{"country":"ita","name":"Ascoli","id":"Ascoli_Calcio_1898_FC","win":11,"draw":12,"loss":7,"for":35,"against":28},

@@ -71,7 +71,7 @@
 	{"country":"ita","name":"Milan","id":"AC_Milan","win":13,"draw":10,"loss":7,"for":39,"against":29},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":12,"draw":11,"loss":7,"for":53,"against":31},
 	{"country":"ita","name":"Genova 1893","id":"Genoa_CFC","win":11,"draw":11,"loss":8,"for":51,"against":36},
-	{"country":"ita","name":"Ambrosiana-Inter","id":"Inter_Milan","win":9,"draw":13,"loss":8,"for":43,"against":35},
+	{"country":"ita","name":"Ambrosiana-Inter","id":"inter_milan","win":9,"draw":13,"loss":8,"for":43,"against":35},
 	{"country":"ita","name":"Lucchese","id":"Lucchese_1905","win":9,"draw":13,"loss":8,"for":39,"against":43,"isNew":true},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":9,"draw":12,"loss":9,"for":34,"against":32},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":10,"draw":7,"loss":13,"for":36,"against":45},
