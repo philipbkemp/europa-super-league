@@ -688,7 +688,7 @@
 	{"country":"and","name":"Atlètic Amèrica","id":"CF_Atlètic_Amèrica","win":3,"draw":2,"loss":22,"for":22,"against":89,"isRemoved":true,"isNew":true},
 	{"country":"mne","name":"Dečić","id":"FK_Dečić","win":20,"draw":10,"loss":6,"for":55,"against":27,"isChampion":true},
 	{"country":"mne","name":"Mornar","id":"FK_Mornar","win":17,"draw":13,"loss":6,"for":45,"against":32},
-	{"country":"mne","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":17,"draw":10,"loss":9,"for":66,"against":43},
+	{"country":"mne","name":"Budućnost","id":"fk_buducnost_podgorica","win":17,"draw":10,"loss":9,"for":66,"against":43},
 	{"country":"mne","name":"Sutjeska","id":"FK_Sutjeska_Nikšić","win":13,"draw":14,"loss":9,"for":46,"against":36},
 	{"country":"mne","name":"Jezero","id":"FK_Jezero","win":14,"draw":9,"loss":13,"for":41,"against":38},
 	{"country":"mne","name":"Petrovac","id":"OFK_Petrovac","win":11,"draw":15,"loss":10,"for":42,"against":40},

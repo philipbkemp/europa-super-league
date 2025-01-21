@@ -685,7 +685,7 @@
 	{"country":"and","name":"Encamp","id":"FC_Encamp","win":4,"draw":5,"loss":11,"for":19,"against":34,"isRemoved":true,"isReturning":true},
 	{"country":"and","name":"Atlètic d'Escaldes","id":"Atlètic_Club_d%27Escaldes","win":4,"draw":3,"loss":13,"for":18,"against":44,"isRemoved":true},
 	{"country":"mne","name":"Zeta","id":"FK_Zeta","win":25,"draw":4,"loss":4,"for":65,"against":18,"isChampion":true},
-	{"country":"mne","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":22,"draw":10,"loss":1,"for":58,"against":12},
+	{"country":"mne","name":"Budućnost","id":"fk_buducnost_podgorica","win":22,"draw":10,"loss":1,"for":58,"against":12},
 	{"country":"mne","name":"Grbalj","id":"OFK_Grbalj","win":14,"draw":7,"loss":12,"for":37,"against":30,"isNew":true},
 	{"country":"mne","name":"Rudar","id":"FK_Rudar_Pljevlja","win":14,"draw":5,"loss":14,"for":37,"against":32,"isReturning":true},
 	{"country":"mne","name":"Mogren","id":"FK_Mogren","win":10,"draw":12,"loss":11,"for":27,"against":27,"isReturning":true},

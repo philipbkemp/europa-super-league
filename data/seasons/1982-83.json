@@ -324,7 +324,7 @@
 	{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":10,"draw":12,"loss":12,"for":45,"against":44},
 	{"country":"yug","name":"Dinamo Vinkovci","id":"HNK_Cibalia","win":12,"draw":7,"loss":15,"for":56,"against":59,"isNew":true},
 	{"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":11,"draw":9,"loss":14,"for":54,"against":57},
-	{"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":11,"draw":9,"loss":14,"for":39,"against":52},
+	{"country":"yug","name":"Budućnost","id":"fk_buducnost_podgorica","win":11,"draw":9,"loss":14,"for":39,"against":52},
 	{"country":"yug","name":"Rijeka","id":"HNK_Rijeka","win":10,"draw":10,"loss":14,"for":51,"against":52},
 	{"country":"yug","name":"Osijek","id":"NK_Osijek","win":11,"draw":7,"loss":16,"for":48,"against":51},
 	{"country":"yug","name":"OFK Belgrade","id":"ofk_beograd","win":9,"draw":10,"loss":15,"for":38,"against":45,"isRemoved":true},

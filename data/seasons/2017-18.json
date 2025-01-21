@@ -648,7 +648,7 @@
 	{"country":"and","name":"Encamp","id":"FC_Encamp","win":4,"draw":2,"loss":21,"for":34,"against":88},
 	{"country":"and","name":"Penya Encarnada","id":"Penya_Encarnada_d%27Andorra","win":3,"draw":2,"loss":22,"for":15,"against":126,"isRemoved":true,"isReturning":true},
 	{"country":"mne","name":"Sutjeska","id":"FK_Sutjeska_Nikšić","win":24,"draw":7,"loss":5,"for":55,"against":23,"isChampion":true},
-	{"country":"mne","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":14,"draw":15,"loss":7,"for":44,"against":30},
+	{"country":"mne","name":"Budućnost","id":"fk_buducnost_podgorica","win":14,"draw":15,"loss":7,"for":44,"against":30},
 	{"country":"mne","name":"Mladost","id":"OFK_Titograd","win":12,"draw":15,"loss":9,"for":42,"against":33},
 	{"country":"mne","name":"Grbalj","id":"OFK_Grbalj","win":12,"draw":14,"loss":10,"for":39,"against":39},
 	{"country":"mne","name":"Rudar","id":"FK_Rudar_Pljevlja","win":13,"draw":10,"loss":13,"for":32,"against":28},

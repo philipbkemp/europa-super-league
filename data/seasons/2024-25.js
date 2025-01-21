@@ -365,7 +365,7 @@ THEDATA = [
 	{"country":"mlt","name":"Żabbar St. Patrick","id":"Żabbar_St._Patrick_F.C.","win":4,"draw":2,"loss":10,"for":21,"against":32,"isReturning":true,"isCurrentSeason":true},
 	{"country":"mlt","name":"Balzan","id":"Balzan_F.C.","win":3,"draw":3,"loss":10,"for":16,"against":27,"isCurrentSeason":true},
 	{"country":"mlt","name":"Naxxar Lions","id":"Naxxar_Lions_F.C.","win":2,"draw":6,"loss":8,"for":13,"against":28,"isCurrentSeason":true},
-	{"country":"mne","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":14,"draw":3,"loss":2,"for":40,"against":11,"isCurrentSeason":true},
+	{"country":"mne","name":"Budućnost","id":"fk_buducnost_podgorica","win":14,"draw":3,"loss":2,"for":40,"against":11,"isCurrentSeason":true},
 	{"country":"mne","name":"Petrovac","id":"OFK_Petrovac","win":10,"draw":3,"loss":6,"for":26,"against":21,"isCurrentSeason":true},
 	{"country":"mne","name":"Bokelj","id":"FK_Bokelj","win":9,"draw":3,"loss":7,"for":20,"against":20,"isReturning":true,"isCurrentSeason":true},
 	{"country":"mne","name":"Dečić","id":"FK_Dečić","win":6,"draw":9,"loss":4,"for":19,"against":17,"isCurrentSeason":true},

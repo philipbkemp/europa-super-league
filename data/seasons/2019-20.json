@@ -646,7 +646,7 @@
 	{"country":"and","name":"Atlètic Club d'Escaldes","id":"Atlètic_Club_d%27Escaldes","win":8,"draw":6,"loss":10,"for":32,"against":29,"isReturning":true},
 	{"country":"and","name":"Ordino","id":"FC_Ordino","win":2,"draw":3,"loss":19,"for":15,"against":64,"isRemoved":true},
 	{"country":"and","name":"Carroi","id":"CE_Carroi","win":3,"draw":3,"loss":18,"for":14,"against":42,"isNew":true},
-	{"country":"mne","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":23,"draw":4,"loss":4,"for":63,"against":26,"isChampion":true},
+	{"country":"mne","name":"Budućnost","id":"fk_buducnost_podgorica","win":23,"draw":4,"loss":4,"for":63,"against":26,"isChampion":true},
 	{"country":"mne","name":"Sutjeska","id":"FK_Sutjeska_Nikšić","win":15,"draw":10,"loss":6,"for":57,"against":31},
 	{"country":"mne","name":"Iskra","id":"FK_Iskra_Danilovgrad","win":15,"draw":8,"loss":8,"for":43,"against":33},
 	{"country":"mne","name":"Zeta","id":"FK_Zeta","win":9,"draw":14,"loss":8,"for":29,"against":30},

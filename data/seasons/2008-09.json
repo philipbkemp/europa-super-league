@@ -688,7 +688,7 @@
 	{"country":"and","name":"Inter Club d'Escaldes","id":"Inter_Club_d%27Escaldes","win":4,"draw":1,"loss":15,"for":25,"against":68},
 	{"country":"and","name":"Rànger's","id":"FC_Rànger%27s","win":1,"draw":0,"loss":19,"for":26,"against":100,"isRemoved":true},
 	{"country":"mne","name":"Mogren","id":"FK_Mogren","win":23,"draw":5,"loss":5,"for":62,"against":24,"isChampion":true},
-	{"country":"mne","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":21,"draw":7,"loss":5,"for":72,"against":34},
+	{"country":"mne","name":"Budućnost","id":"fk_buducnost_podgorica","win":21,"draw":7,"loss":5,"for":72,"against":34},
 	{"country":"mne","name":"Sutjeska","id":"FK_Sutjeska_Nikšić","win":18,"draw":9,"loss":6,"for":45,"against":23},
 	{"country":"mne","name":"Grbalj","id":"OFK_Grbalj","win":15,"draw":5,"loss":13,"for":47,"against":34},
 	{"country":"mne","name":"Rudar","id":"FK_Rudar_Pljevlja","win":12,"draw":5,"loss":16,"for":39,"against":37},

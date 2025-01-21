@@ -292,7 +292,7 @@
 	{"country":"yug","name":"Zemun","id":"FK_Zemun","win":15,"draw":9,"loss":16,"for":47,"against":57},
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":15,"draw":8,"loss":17,"for":54,"against":50},
 	{"country":"yug","name":"Radnički Niš","id":"FK_Radnički_Niš","win":16,"draw":4,"loss":20,"for":50,"against":49},
-	{"country":"yug","name":"Budućnost Podgorica","id":"FK_Budućnost_Podgorica","win":15,"draw":7,"loss":18,"for":45,"against":45},
+	{"country":"yug","name":"Budućnost Podgorica","id":"fk_buducnost_podgorica","win":15,"draw":7,"loss":18,"for":45,"against":45},
 	{"country":"yug","name":"Radnički Kragujevac","id":"FK_Radnički_1923","win":13,"draw":13,"loss":14,"for":35,"against":41},
 	{"country":"yug","name":"Hajduk Kula","id":"FK_Hajduk_Kula","win":15,"draw":7,"loss":18,"for":39,"against":46},
 	{"country":"yug","name":"Milicionar","id":"FK_Milicionar","win":14,"draw":9,"loss":17,"for":52,"against":52},

@@ -297,7 +297,7 @@
 	{"country":"yug","name":"Milicionar","id":"FK_Milicionar","win":8,"draw":5,"loss":11,"for":39,"against":39,"isNew":true},
 	{"country":"yug","name":"Zemun","id":"FK_Zemun","win":9,"draw":1,"loss":14,"for":30,"against":47,"isReturning":true},
 	{"country":"yug","name":"Železnik","id":"FK_Železnik","win":7,"draw":5,"loss":12,"for":29,"against":43,"isNew":true},
-	{"country":"yug","name":"Budućnost Podgorica","id":"FK_Budućnost_Podgorica","win":7,"draw":5,"loss":12,"for":28,"against":42,"isReturning":true},
+	{"country":"yug","name":"Budućnost Podgorica","id":"fk_buducnost_podgorica","win":7,"draw":5,"loss":12,"for":28,"against":42,"isReturning":true},
 	{"country":"yug","name":"Mogren","id":"FK_Mogren","win":4,"draw":8,"loss":12,"for":18,"against":42,"isReturning":true},
 	{"country":"yug","name":"Radnički Niš","id":"FK_Radnički_Niš","win":4,"draw":7,"loss":13,"for":21,"against":44,"isReturning":true},
 	{"country":"yug","name":"Priština","id":"FK_Priština","win":5,"draw":3,"loss":16,"for":25,"against":49,"isReturning":true,"isRemoved":true,"removedNote":"Withdrew from the Yugoslav league to compete in the Kosovan league"},

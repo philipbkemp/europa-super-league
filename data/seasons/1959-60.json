@@ -289,7 +289,7 @@
 	{"country":"yug","name":"Rijeka","id":"HNK_Rijeka","win":7,"draw":4,"loss":11,"for":30,"against":52},
 	{"country":"yug","name":"Radnički Beograd","id":"FK_Radnički_Beograd","win":5,"draw":7,"loss":10,"for":31,"against":38},
 	{"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":5,"draw":7,"loss":10,"for":27,"against":39},
-	{"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":4,"draw":4,"loss":14,"for":16,"against":40,"isRemoved":true},
+	{"country":"yug","name":"Budućnost","id":"fk_buducnost_podgorica","win":4,"draw":4,"loss":14,"for":16,"against":40,"isRemoved":true},
 	{"country":"yug","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":3,"draw":5,"loss":14,"for":15,"against":49,"isRemoved":true,"isNew":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":12,"draw":8,"loss":2,"for":42,"against":18,"isChampion":true},
 	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":11,"draw":6,"loss":5,"for":32,"against":22},

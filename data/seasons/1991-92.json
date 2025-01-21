@@ -317,7 +317,7 @@
 	{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":12,"draw":0,"loss":14,"for":33,"against":45,"penWin":3,"penLoss":3,"isRemoved":true,"removedNote":"Left Yugoslav league due to independence"},
 	{"country":"yug","name":"Zemun","id":"FK_Zemun","win":12,"draw":0,"loss":14,"for":44,"against":43,"penWin":2,"penLoss":5},
 	{"country":"yug","name":"Radnički Niš","id":"FK_Radnički_Niš","win":12,"draw":0,"loss":16,"for":37,"against":48,"penWin":2,"penLoss":3},
-	{"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":10,"draw":0,"loss":15,"for":30,"against":32,"penWin":3,"penLoss":5},
+	{"country":"yug","name":"Budućnost","id":"fk_buducnost_podgorica","win":10,"draw":0,"loss":15,"for":30,"against":32,"penWin":3,"penLoss":5},
 	{"country":"yug","name":"Sutjeska Nikšić","id":"FK_Sutjeska_Nikšić","win":11,"draw":0,"loss":16,"for":40,"against":47,"penWin":1,"penLoss":5,"isReturning":true},
 	{"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":10,"draw":0,"loss":17,"for":34,"against":53,"penWin":3,"penLoss":2,"isRemoved":true,"removedNote":"Left Yugoslav league due to independence"},
 	{"country":"yug","name":"Pelister","id":"FK_Pelister","win":9,"draw":0,"loss":21,"for":30,"against":57,"penWin":2,"penLoss":1,"isNew":true,"note":"Left Yugoslav league due to independence"},

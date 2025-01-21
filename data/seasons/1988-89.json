@@ -311,7 +311,7 @@
 	{"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":13,"draw":0,"loss":17,"for":42,"against":43,"penWin":2,"penLoss":2},
 	{"country":"yug","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":11,"draw":0,"loss":11,"for":35,"against":42,"penWin":6,"penLoss":6},
 	{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":11,"draw":0,"loss":13,"for":35,"against":42,"penWin":6,"penLoss":4},
-	{"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":12,"draw":0,"loss":15,"for":32,"against":43,"penWin":4,"penLoss":3},
+	{"country":"yug","name":"Budućnost","id":"fk_buducnost_podgorica","win":12,"draw":0,"loss":15,"for":32,"against":43,"penWin":4,"penLoss":3},
 	{"country":"yug","name":"Spartak Subotica","id":"FK_Spartak_Subotica","win":11,"draw":0,"loss":16,"for":30,"against":39,"penWin":4,"penLoss":3,"isReturning":true},
 	{"country":"yug","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":12,"draw":0,"loss":18,"for":34,"against":49,"penWin":1,"penLoss":3},
 	{"country":"yug","name":"Napredak Kruševac","id":"FK_Napredak_Kruševac","win":11,"draw":0,"loss":18,"for":42,"against":59,"penWin":1,"penLoss":4,"isRemoved":true,"isReturning":true},

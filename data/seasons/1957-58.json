@@ -274,7 +274,7 @@
 	{"country":"yug","name":"Vardar","id":"FK_Vardar","win":10,"draw":6,"loss":10,"for":30,"against":44},
 	{"country":"yug","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":9,"draw":7,"loss":10,"for":47,"against":44,"isReturning":true},
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":10,"draw":5,"loss":11,"for":42,"against":43},
-	{"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":8,"draw":9,"loss":9,"for":30,"against":36},
+	{"country":"yug","name":"Budućnost","id":"fk_buducnost_podgorica","win":8,"draw":9,"loss":9,"for":30,"against":36},
 	{"country":"yug","name":"RNK Split","id":"RNK_Split","win":12,"draw":1,"loss":13,"for":35,"against":42,"isRemoved":true,"isReturning":true},
 	{"country":"yug","name":"Spartak Subotica","id":"FK_Spartak_Subotica","win":10,"draw":4,"loss":12,"for":50,"against":45,"isRemoved":true},
 	{"country":"yug","name":"OFK Belgrade","id":"ofk_beograd","win":6,"draw":8,"loss":12,"for":27,"against":50,"isRemoved":true},

@@ -291,7 +291,7 @@
 	{"country":"yug","name":"Hajduk Kula","id":"FK_Hajduk_Kula","win":12,"draw":6,"loss":16,"for":45,"against":51},
 	{"country":"yug","name":"Zeta","id":"FK_Zeta","win":11,"draw":9,"loss":14,"for":38,"against":50,"isNew":true},
 	{"country":"yug","name":"Rad","id":"FK_Rad","win":12,"draw":5,"loss":17,"for":49,"against":58},
-	{"country":"yug","name":"Budućnost Podgorica","id":"FK_Budućnost_Podgorica","win":11,"draw":5,"loss":18,"for":29,"against":48,"isRemoved":true},
+	{"country":"yug","name":"Budućnost Podgorica","id":"fk_buducnost_podgorica","win":11,"draw":5,"loss":18,"for":29,"against":48,"isRemoved":true},
 	{"country":"yug","name":"Napredak Kruševac","id":"FK_Napredak_Kruševac","win":8,"draw":10,"loss":16,"for":38,"against":63,"isRemoved":true,"isReturning":true},
 	{"country":"yug","name":"Radnički Niš","id":"FK_Radnički_Niš","win":9,"draw":5,"loss":20,"for":30,"against":60,"isRemoved":true},
 	{"country":"yug","name":"Milicionar","id":"FK_Milicionar","win":8,"draw":6,"loss":20,"for":29,"against":50,"isRemoved":true},

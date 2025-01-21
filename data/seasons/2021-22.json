@@ -678,7 +678,7 @@
 	{"country":"and","name":"Engordany","id":"UE_Engordany","win":5,"draw":5,"loss":17,"for":29,"against":55},
 	{"country":"and","name":"Carroi","id":"CE_Carroi","win":3,"draw":2,"loss":22,"for":22,"against":73,"isRemoved":true},
 	{"country":"mne","name":"Sutjeska","id":"FK_Sutjeska_Nikšić","win":22,"draw":9,"loss":5,"for":64,"against":29,"isChampion":true},
-	{"country":"mne","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":20,"draw":7,"loss":9,"for":78,"against":45},
+	{"country":"mne","name":"Budućnost","id":"fk_buducnost_podgorica","win":20,"draw":7,"loss":9,"for":78,"against":45},
 	{"country":"mne","name":"Dečić","id":"FK_Dečić","win":15,"draw":11,"loss":10,"for":54,"against":44},
 	{"country":"mne","name":"Iskra","id":"FK_Iskra_Danilovgrad","win":15,"draw":6,"loss":15,"for":48,"against":45},
 	{"country":"mne","name":"Mornar","id":"FK_Mornar","win":13,"draw":11,"loss":12,"for":35,"against":39,"isReturning":true},

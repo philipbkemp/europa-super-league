@@ -268,7 +268,7 @@
 	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":9,"draw":5,"loss":12,"for":26,"against":43},
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":9,"draw":4,"loss":13,"for":43,"against":40},
 	{"country":"yug","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":8,"draw":4,"loss":14,"for":29,"against":43,"isRemoved":true,"isReturning":true},
-	{"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":5,"draw":8,"loss":13,"for":19,"against":38,"isRemoved":true,"isReturning":true},
+	{"country":"yug","name":"Budućnost","id":"fk_buducnost_podgorica","win":5,"draw":8,"loss":13,"for":19,"against":38,"isRemoved":true,"isReturning":true},
 	{"country":"bgr","name":"Spartak Plovdiv","id":"PFC_Spartak_Plovdiv","win":19,"draw":5,"loss":6,"for":57,"against":33,"isChampion":true},
 	{"country":"bgr","name":"Botev Plovdiv","id":"Botev_Plovdiv","win":17,"draw":6,"loss":7,"for":55,"against":26},
 	{"country":"bgr","name":"CSKA Sofia","id":"PFC_CSKA_Sofia","win":14,"draw":9,"loss":7,"for":55,"against":28},

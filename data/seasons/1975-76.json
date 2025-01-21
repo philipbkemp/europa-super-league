@@ -298,7 +298,7 @@
 	{"country":"yug","name":"Željezničar","id":"FK_Željezničar_Sarajevo","win":11,"draw":9,"loss":14,"for":40,"against":47},
 	{"country":"yug","name":"Čelik","id":"NK_Čelik_Zenica","win":10,"draw":10,"loss":14,"for":29,"against":35},
 	{"country":"yug","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":10,"draw":10,"loss":14,"for":37,"against":44},
-	{"country":"yug","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":11,"draw":8,"loss":15,"for":25,"against":42,"isReturning":true},
+	{"country":"yug","name":"Budućnost","id":"fk_buducnost_podgorica","win":11,"draw":8,"loss":15,"for":25,"against":42,"isReturning":true},
 	{"country":"yug","name":"Radnički Niš","id":"FK_Radnički_Niš","win":7,"draw":15,"loss":12,"for":30,"against":41},
 	{"country":"yug","name":"Vardar","id":"FK_Vardar","win":8,"draw":12,"loss":14,"for":27,"against":36,"isRemoved":true},
 	{"country":"yug","name":"Radnički Kragujevac","id":"FK_Radnički_1923","win":8,"draw":7,"loss":19,"for":29,"against":57,"isRemoved":true},

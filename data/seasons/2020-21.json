@@ -679,7 +679,7 @@
 	{"country":"and","name":"UE Santa Coloma","id":"UE_Santa_Coloma","win":9,"draw":3,"loss":8,"for":44,"against":27},
 	{"country":"and","name":"Penya Encarnada","id":"Penya_Encarnada_d%27Andorra","win":2,"draw":1,"loss":17,"for":14,"against":74,"isRemoved":true,"isReturning":true},
 	{"country":"and","name":"Carroi","id":"CE_Carroi","win":5,"draw":4,"loss":11,"for":20,"against":34},
-	{"country":"mne","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":27,"draw":4,"loss":5,"for":65,"against":29,"isChampion":true},
+	{"country":"mne","name":"Budućnost","id":"fk_buducnost_podgorica","win":27,"draw":4,"loss":5,"for":65,"against":29,"isChampion":true},
 	{"country":"mne","name":"Sutjeska","id":"FK_Sutjeska_Nikšić","win":15,"draw":12,"loss":9,"for":56,"against":34},
 	{"country":"mne","name":"Dečić","id":"FK_Dečić","win":13,"draw":15,"loss":8,"for":39,"against":28,"isReturning":true},
 	{"country":"mne","name":"Podgorica","id":"FK_Podgorica","win":15,"draw":7,"loss":14,"for":39,"against":38},

@@ -693,7 +693,7 @@
 	{"country":"sam","name":"Smederevo","id":"FK_Smederevo_1924","win":11,"draw":6,"loss":13,"for":30,"against":37},
 	{"country":"sam","name":"Javor Ivanjica","id":"FK_Javor_Ivanjica","win":8,"draw":8,"loss":14,"for":22,"against":35,"isRemoved":true,"isReturning":true},
 	{"country":"sam","name":"Rad","id":"FK_Rad","win":9,"draw":4,"loss":17,"for":27,"against":35,"isRemoved":true,"isReturning":true},
-	{"country":"sam","name":"Budućnost Podgorica","id":"FK_Budućnost_Podgorica","win":6,"draw":10,"loss":14,"for":24,"against":43,"deduct":-3,"deductReason":"Leaving pitch before end of match"},
+	{"country":"sam","name":"Budućnost Podgorica","id":"fk_buducnost_podgorica","win":6,"draw":10,"loss":14,"for":24,"against":43,"deduct":-3,"deductReason":"Leaving pitch before end of match"},
 	{"country":"sam","name":"Obilić","id":"FK_Obilić","win":3,"draw":6,"loss":21,"for":23,"against":53,"isRemoved":true},
 	{"country":"sam","name":"Jedinstvo Bijelo Polje","id":"FK_Jedinstvo_Bijelo_Polje","win":3,"draw":2,"loss":25,"for":18,"against":72,"isNew":true}
 ]

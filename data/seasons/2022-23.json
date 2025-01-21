@@ -685,7 +685,7 @@
 	{"country":"and","name":"Ordino","id":"FC_Ordino","win":5,"draw":8,"loss":15,"for":33,"against":55},
 	{"country":"and","name":"Engordany","id":"UE_Engordany","win":6,"draw":4,"loss":18,"for":21,"against":67,"isRemoved":true},
 	{"country":"and","name":"Sant Julià","id":"ue_sant_julia","win":4,"draw":4,"loss":20,"for":23,"against":83,"isRemoved":true},
-	{"country":"mne","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":20,"draw":10,"loss":6,"for":61,"against":37,"isChampion":true},
+	{"country":"mne","name":"Budućnost","id":"fk_buducnost_podgorica","win":20,"draw":10,"loss":6,"for":61,"against":37,"isChampion":true},
 	{"country":"mne","name":"Sutjeska","id":"FK_Sutjeska_Nikšić","win":20,"draw":10,"loss":6,"for":75,"against":34},
 	{"country":"mne","name":"Arsenal","id":"FK_Arsenal_Tivat","win":13,"draw":11,"loss":12,"for":39,"against":39,"isNew":true},
 	{"country":"mne","name":"Dečić","id":"FK_Dečić","win":12,"draw":14,"loss":10,"for":44,"against":37},

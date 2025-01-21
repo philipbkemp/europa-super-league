@@ -636,7 +636,7 @@
 	{"country":"and","name":"Encamp","id":"FC_Encamp","win":8,"draw":3,"loss":16,"for":45,"against":37},
 	{"country":"and","name":"Ordino","id":"FC_Ordino","win":8,"draw":3,"loss":16,"for":45,"against":56,"isRemoved":true},
 	{"country":"and","name":"Jenlai","id":"CE_Jenlai","win":2,"draw":1,"loss":24,"for":18,"against":137,"deduct":-3,"deductReason":"Failing to appear for a match","isRemoved":true,"isNew":true},
-	{"country":"mne","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":17,"draw":6,"loss":10,"for":52,"against":28,"isChampion":true},
+	{"country":"mne","name":"Budućnost","id":"fk_buducnost_podgorica","win":17,"draw":6,"loss":10,"for":52,"against":28,"isChampion":true},
 	{"country":"mne","name":"Zeta","id":"FK_Zeta","win":19,"draw":6,"loss":8,"for":38,"against":17,"deduct":-6},
 	{"country":"mne","name":"Mladost","id":"OFK_Titograd","win":16,"draw":9,"loss":8,"for":46,"against":22},
 	{"country":"mne","name":"Sutjeska","id":"FK_Sutjeska_Nikšić","win":15,"draw":10,"loss":8,"for":43,"against":25},

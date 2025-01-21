@@ -681,7 +681,7 @@
 	{"country":"sam","name":"Zeta","id":"FK_Zeta","win":18,"draw":5,"loss":7,"for":52,"against":30},
 	{"country":"sam","name":"OFK Beograd","id":"ofk_beograd","win":16,"draw":2,"loss":12,"for":51,"against":36},
 	{"country":"sam","name":"Zemun","id":"FK_Zemun","win":12,"draw":7,"loss":11,"for":31,"against":34},
-	{"country":"sam","name":"Budućnost Podgorica","id":"FK_Budućnost_Podgorica","win":12,"draw":5,"loss":13,"for":37,"against":37,"isReturning":true},
+	{"country":"sam","name":"Budućnost Podgorica","id":"fk_buducnost_podgorica","win":12,"draw":5,"loss":13,"for":37,"against":37,"isReturning":true},
 	{"country":"sam","name":"Hajduk Kula","id":"FK_Hajduk_Kula","win":10,"draw":9,"loss":11,"for":34,"against":37},
 	{"country":"sam","name":"Vojvodina","id":"FK_Vojvodina","win":10,"draw":8,"loss":12,"for":31,"against":37},
 	{"country":"sam","name":"Železnik","id":"FK_Železnik","win":11,"draw":5,"loss":14,"for":38,"against":45,"isRemoved":true},

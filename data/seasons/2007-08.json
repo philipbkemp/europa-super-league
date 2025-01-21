@@ -688,7 +688,7 @@
 	{"country":"and","name":"Engordany","id":"UE_Engordany","win":4,"draw":1,"loss":15,"for":21,"against":79,"isReturning":true},
 	{"country":"and","name":"Inter d'Escaldes","id":"Inter_Club_d%27Escaldes","win":6,"draw":2,"loss":12,"for":23,"against":37},
 	{"country":"and","name":"Casa del Benfica","id":"Casa_Estrella_del_Benfica","win":2,"draw":1,"loss":17,"for":13,"against":68,"isRemoved":true,"isNew":true},
-	{"country":"mne","name":"Budućnost","id":"FK_Budućnost_Podgorica","win":18,"draw":12,"loss":3,"for":43,"against":13,"isChampion":true},
+	{"country":"mne","name":"Budućnost","id":"fk_buducnost_podgorica","win":18,"draw":12,"loss":3,"for":43,"against":13,"isChampion":true},
 	{"country":"mne","name":"Zeta","id":"FK_Zeta","win":19,"draw":9,"loss":5,"for":56,"against":28},
 	{"country":"mne","name":"Mogren","id":"FK_Mogren","win":19,"draw":9,"loss":5,"for":46,"against":21},
 	{"country":"mne","name":"Grbalj","id":"OFK_Grbalj","win":14,"draw":13,"loss":6,"for":40,"against":25},
