@@ -337,7 +337,7 @@
 	{"country":"tur","name":"Çanakkale Dardanelspor","id":"Çanakkale_Dardanelspor","win":8,"draw":8,"loss":18,"for":35,"against":49,"isRemoved":true},
 	{"country":"tur","name":"Kardemir Karabükspor","id":"Kardemir_Karabükspor","win":5,"draw":8,"loss":21,"for":26,"against":64,"isRemoved":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":24,"draw":7,"loss":7,"for":87,"against":43,"isChampion":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":21,"draw":5,"loss":12,"for":77,"against":62},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":21,"draw":5,"loss":12,"for":77,"against":62},
 	{"country":"esp","name":"Mallorca","id":"RCD_Mallorca","win":20,"draw":6,"loss":12,"for":48,"against":31},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":19,"draw":8,"loss":11,"for":63,"against":39},
 	{"country":"esp","name":"Celta de Vigo","id":"RC_Celta_de_Vigo","win":17,"draw":13,"loss":8,"for":69,"against":41},

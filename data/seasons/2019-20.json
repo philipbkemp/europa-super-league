@@ -314,7 +314,7 @@
 	{"country":"tur","name":"Yeni Malatyaspor","id":"Yeni_Malatyaspor","win":8,"draw":8,"loss":18,"for":44,"against":51},
 	{"country":"tur","name":"Kayserispor","id":"Kayserispor","win":8,"draw":8,"loss":18,"for":40,"against":72},
 	{"country":"tur","name":"Ankaragücü","id":"MKE_Ankaragücü","win":7,"draw":11,"loss":16,"for":31,"against":56},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":26,"draw":9,"loss":3,"for":70,"against":25,"isChampion":true},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":26,"draw":9,"loss":3,"for":70,"against":25,"isChampion":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":25,"draw":7,"loss":6,"for":86,"against":38},
 	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":18,"draw":16,"loss":4,"for":51,"against":27},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":19,"draw":13,"loss":6,"for":54,"against":34},

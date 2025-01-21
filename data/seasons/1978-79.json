@@ -347,7 +347,7 @@
 	{"country":"tur","name":"Boluspor","id":"Boluspor","win":9,"draw":8,"loss":13,"for":33,"against":32,"isRemoved":true},
 	{"country":"tur","name":"Samsunspor","id":"Samsunspor","win":6,"draw":8,"loss":16,"for":18,"against":37,"isRemoved":true},
 	{"country":"tur","name":"MKE Kırıkkalespor","id":"MKE_Kırıkkalespor","win":5,"draw":8,"loss":17,"for":21,"against":64,"isRemoved":true,"isNew":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":16,"draw":15,"loss":3,"for":61,"against":36,"isChampion":true},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":16,"draw":15,"loss":3,"for":61,"against":36,"isChampion":true},
 	{"country":"esp","name":"Sporting Gijón","id":"Sporting_de_Gijón","win":17,"draw":9,"loss":8,"for":50,"against":35},
 	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":14,"draw":13,"loss":7,"for":55,"against":37},
 	{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":18,"draw":5,"loss":11,"for":53,"against":36},

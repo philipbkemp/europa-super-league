@@ -357,7 +357,7 @@
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":18,"draw":7,"loss":5,"for":41,"against":19,"isChampion":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":19,"draw":5,"loss":6,"for":50,"against":22},
 	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":17,"draw":8,"loss":5,"for":51,"against":20},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":17,"draw":7,"loss":6,"for":46,"against":24},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":17,"draw":7,"loss":6,"for":46,"against":24},
 	{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":14,"draw":7,"loss":9,"for":40,"against":31},
 	{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":15,"draw":5,"loss":10,"for":37,"against":32},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":13,"draw":6,"loss":11,"for":34,"against":42},

@@ -217,7 +217,7 @@
 	{"country":"csk","name":"Viktoria Žižkov","id":"FK_Viktoria_Žižkov","win":4,"draw":4,"loss":10,"for":34,"against":46,"isRemoved":true},
 	{"country":"csk","name":"SK Náchod","id":"FK_Náchod","win":4,"draw":3,"loss":11,"for":29,"against":50,"isRemoved":true},
 	{"country":"esp","name":"Athletic Bilbao","id":"Athletic_Bilbao","win":11,"draw":2,"loss":5,"for":61,"against":27,"isChampion":true},
-	{"country":"esp","name":"Madrid FC","id":"Real_Madrid_CF","win":10,"draw":2,"loss":6,"for":41,"against":29},
+	{"country":"esp","name":"Madrid FC","id":"real_madrid_cf","win":10,"draw":2,"loss":6,"for":41,"against":29},
 	{"country":"esp","name":"Racing Santander","id":"Racing_de_Santander","win":9,"draw":1,"loss":8,"for":38,"against":39},
 	{"country":"esp","name":"Betis","id":"Real_Betis","win":9,"draw":1,"loss":8,"for":29,"against":36},
 	{"country":"esp","name":"Donostia","id":"Real_Sociedad","win":7,"draw":4,"loss":7,"for":29,"against":33},

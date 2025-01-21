@@ -356,7 +356,7 @@
 	{"country":"tur","name":"Bursaspor","id":"Bursaspor","win":10,"draw":8,"loss":18,"for":29,"against":40},
 	{"country":"tur","name":"Antalyaspor","id":"Antalyaspor","win":8,"draw":8,"loss":20,"for":37,"against":68,"isRemoved":true,"isReturning":true},
 	{"country":"tur","name":"Diyarbakırspor","id":"Diyarbakırspor","win":4,"draw":7,"loss":25,"for":22,"against":74,"isRemoved":true,"isReturning":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":27,"draw":12,"loss":5,"for":84,"against":37,"isChampion":true},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":27,"draw":12,"loss":5,"for":84,"against":37,"isChampion":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":24,"draw":15,"loss":5,"for":63,"against":29},
 	{"country":"esp","name":"Español","id":"RCD_Espanyol","win":20,"draw":11,"loss":13,"for":66,"against":46},
 	{"country":"esp","name":"Sporting Gijón","id":"Sporting_de_Gijón","win":16,"draw":13,"loss":15,"for":58,"against":50},

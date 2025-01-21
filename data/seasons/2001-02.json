@@ -307,7 +307,7 @@
 	{"country":"tur","name":"Yimpaş Yozgatspor","id":"Yozgatspor","win":6,"draw":9,"loss":19,"for":46,"against":67,"isRemoved":true},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":21,"draw":12,"loss":5,"for":51,"against":27,"isChampion":true},
 	{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":20,"draw":8,"loss":10,"for":65,"against":41},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":19,"draw":9,"loss":10,"for":69,"against":44},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":19,"draw":9,"loss":10,"for":69,"against":44},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":18,"draw":10,"loss":10,"for":65,"against":37},
 	{"country":"esp","name":"Celta Vigo","id":"RC_Celta_de_Vigo","win":16,"draw":12,"loss":10,"for":64,"against":46},
 	{"country":"esp","name":"Betis","id":"Real_Betis","win":15,"draw":14,"loss":9,"for":42,"against":34,"isReturning":true},

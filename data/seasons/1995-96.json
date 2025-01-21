@@ -325,7 +325,7 @@
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":22,"draw":14,"loss":6,"for":72,"against":39},
 	{"country":"esp","name":"Espanyol","id":"RCD_Espanyol","win":20,"draw":14,"loss":8,"for":63,"against":36},
 	{"country":"esp","name":"Tenerife","id":"CD_Tenerife","win":20,"draw":12,"loss":10,"for":69,"against":54},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":20,"draw":10,"loss":12,"for":75,"against":51},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":20,"draw":10,"loss":12,"for":75,"against":51},
 	{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":17,"draw":12,"loss":13,"for":62,"against":53},
 	{"country":"esp","name":"Betis","id":"Real_Betis","win":16,"draw":14,"loss":12,"for":61,"against":54},
 	{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":16,"draw":13,"loss":13,"for":63,"against":44},

@@ -324,7 +324,7 @@
 	{"country":"tur","name":"Kayseri Erciyesspor","id":"Kayseri_Erciyesspor","win":5,"draw":12,"loss":17,"for":43,"against":62,"isRemoved":true},
 	{"country":"tur","name":"Balıkesirspor","id":"Balıkesirspor","win":6,"draw":9,"loss":19,"for":48,"against":69,"isRemoved":true,"isReturning":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":30,"draw":4,"loss":4,"for":110,"against":21,"isChampion":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":30,"draw":2,"loss":6,"for":118,"against":38},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":30,"draw":2,"loss":6,"for":118,"against":38},
 	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":23,"draw":9,"loss":6,"for":67,"against":29},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":22,"draw":11,"loss":5,"for":70,"against":32},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":23,"draw":7,"loss":8,"for":71,"against":45},

@@ -262,7 +262,7 @@
 	{"country":"esp","name":"Español","id":"RCD_Espanyol","win":9,"draw":6,"loss":11,"for":39,"against":47},
 	{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":9,"draw":5,"loss":12,"for":49,"against":57},
 	{"country":"esp","name":"Alcoyano","id":"CD_Alcoyano","win":9,"draw":4,"loss":13,"for":40,"against":52,"isReturning":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":7,"draw":7,"loss":12,"for":41,"against":56},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":7,"draw":7,"loss":12,"for":41,"against":56},
 	{"country":"esp","name":"Sabadell","id":"CE_Sabadell_FC","win":9,"draw":3,"loss":14,"for":41,"against":62},
 	{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":8,"draw":3,"loss":15,"for":38,"against":56,"isRemoved":true,"isReturning":true},
 	{"country":"esp","name":"Real Gijón","id":"Sporting_de_Gijón","win":7,"draw":4,"loss":15,"for":37,"against":69,"isRemoved":true},

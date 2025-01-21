@@ -321,7 +321,7 @@
 	{"country":"tur","name":"Karşıyaka","id":"Karşıyaka_S.K.","win":11,"draw":6,"loss":17,"for":32,"against":50,"isRemoved":true},
 	{"country":"tur","name":"Beyoğluspor","id":"Beyoğluspor","win":5,"draw":14,"loss":15,"for":26,"against":40,"isRemoved":true},
 	{"country":"tur","name":"Kasımpaşa","id":"Kasımpaşa_S.K.","win":6,"draw":9,"loss":19,"for":16,"against":61,"isRemoved":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":22,"draw":2,"loss":6,"for":61,"against":23,"isChampion":true},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":22,"draw":2,"loss":6,"for":61,"against":23,"isChampion":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":19,"draw":4,"loss":7,"for":74,"against":38},
 	{"country":"esp","name":"Real Betis","id":"Real_Betis","win":15,"draw":7,"loss":8,"for":47,"against":36},
 	{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":14,"draw":6,"loss":10,"for":52,"against":42},

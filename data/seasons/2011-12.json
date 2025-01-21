@@ -324,7 +324,7 @@
 	{"country":"tur","name":"Samsunspor","id":"Samsunspor","win":9,"draw":9,"loss":16,"for":36,"against":47,"isRemoved":true,"isReturning":true},
 	{"country":"tur","name":"Manisaspor","id":"Manisaspor","win":8,"draw":8,"loss":18,"for":31,"against":52,"isRemoved":true},
 	{"country":"tur","name":"MKE Ankaragücü","id":"MKE_Ankaragücü","win":2,"draw":5,"loss":27,"for":22,"against":77,"isRemoved":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":32,"draw":4,"loss":2,"for":121,"against":32,"isChampion":true},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":32,"draw":4,"loss":2,"for":121,"against":32,"isChampion":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":28,"draw":7,"loss":3,"for":114,"against":29},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":17,"draw":10,"loss":11,"for":59,"against":44},
 	{"country":"esp","name":"Málaga","id":"Málaga_CF","win":17,"draw":7,"loss":14,"for":54,"against":53},

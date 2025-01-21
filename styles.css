@@ -51,7 +51,6 @@ h1 span { font-weight: normal; font-size: 0.9rem; }
 #country-winners thead tr th:last-of-type { width: 670px; }
 #divisionsTables tbody th { font-weight: normal; }
 #divisionsTables tbody tr th a { font-weight: bold; }
-#divisionsTables tbody tr.current-season th { font-style: italic; }
 tbody th a { color: #2b5873 !important; width: 100%; display: block; }
 #divisionsTables tbody th a { display: inline-block; width: 75%; }
 tbody th a:hover { color: #0000d6 !important; }
@@ -121,7 +120,8 @@ h2 img { margin-right: 10px; position: relative; top: -2px; height: 24px; }
     #divisionsTables tbody tr th { display: table-cell !important; }
 }
 a[istodo] { border: 1px dotted red; }
-.current-season { background-color: #2b587311;}
+/*.current-season { background-color: #2b587311;}*/
+.current-season { opacity: 0.5; }
 
 .currentSeason tbody:not(#league_a):not(#league_new) tr.promotion-limit { border-bottom: dashed 5px #b5e9b5; }
 .currentSeason tbody:not(#league_new) tr.relegation-limit { border-top: dashed 5px #ffc9c9; }

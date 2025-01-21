@@ -119,7 +119,7 @@
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":10,"draw":7,"loss":9,"for":58,"against":45},
 	{"country":"esp","name":"Atlético Aviación","id":"Atlético_Madrid","win":11,"draw":5,"loss":10,"for":54,"against":44},
 	{"country":"esp","name":"Deportivo de La Coruña","id":"Deportivo_de_La_Coruña","win":7,"draw":12,"loss":7,"for":35,"against":32},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":10,"draw":5,"loss":11,"for":52,"against":50},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":10,"draw":5,"loss":11,"for":52,"against":50},
 	{"country":"esp","name":"Español","id":"RCD_Espanyol","win":9,"draw":6,"loss":11,"for":45,"against":51},
 	{"country":"esp","name":"Granada","id":"Granada_CF","win":9,"draw":4,"loss":13,"for":56,"against":68},
 	{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":2,"draw":9,"loss":15,"for":25,"against":57,"isRemoved":true,"isReturning":true},

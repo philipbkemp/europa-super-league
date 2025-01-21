@@ -319,7 +319,7 @@
 	{"country":"tur","name":"Denizlispor","id":"Denizlispor","win":6,"draw":8,"loss":20,"for":30,"against":49,"isRemoved":true},
 	{"country":"tur","name":"Ankaraspor","id":"Ankaraspor","win":0,"draw":0,"loss":34,"for":0,"against":102,"isRemoved":true,"note":"All games awarded to opposition after Turkish FA deemed the owners could not own two clubs in the same division"},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":31,"draw":6,"loss":1,"for":98,"against":24,"isChampion":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":31,"draw":3,"loss":4,"for":102,"against":35},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":31,"draw":3,"loss":4,"for":102,"against":35},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":21,"draw":8,"loss":9,"for":59,"against":40},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":19,"draw":6,"loss":13,"for":65,"against":49},
 	{"country":"esp","name":"Mallorca","id":"RCD_Mallorca","win":18,"draw":8,"loss":12,"for":59,"against":44},

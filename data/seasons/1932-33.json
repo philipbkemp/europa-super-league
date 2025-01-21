@@ -203,7 +203,7 @@
 	{"country":"csk","name":"Teplitzer FK","id":"Teplitzer_FK","win":7,"draw":3,"loss":8,"for":39,"against":38},
 	{"country":"csk","name":"SK Libeň","id":"SK_Libeň","win":3,"draw":2,"loss":13,"for":31,"against":68,"isRemoved":true,"isReturning":true},
 	{"country":"csk","name":"SK Plzeň","id":"SK_Plzeň","win":2,"draw":4,"loss":12,"for":18,"against":58,"isRemoved":true,"isNew":true},
-	{"country":"esp","name":"Madrid FC","id":"Real_Madrid_CF","win":13,"draw":2,"loss":3,"for":49,"against":17,"isChampion":true},
+	{"country":"esp","name":"Madrid FC","id":"real_madrid_cf","win":13,"draw":2,"loss":3,"for":49,"against":17,"isChampion":true},
 	{"country":"esp","name":"Athletic Bilbao","id":"Athletic_Bilbao","win":13,"draw":0,"loss":5,"for":63,"against":30},
 	{"country":"esp","name":"Español","id":"RCD_Espanyol","win":10,"draw":2,"loss":6,"for":33,"against":30},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":7,"draw":5,"loss":6,"for":42,"against":34},

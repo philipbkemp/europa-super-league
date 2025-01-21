@@ -345,7 +345,7 @@
 	{"country":"esp","name":"Español","id":"RCD_Espanyol","win":14,"draw":8,"loss":12,"for":61,"against":59},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":13,"draw":10,"loss":11,"for":53,"against":47},
 	{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":13,"draw":8,"loss":13,"for":54,"against":41},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":12,"draw":10,"loss":12,"for":57,"against":53},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":12,"draw":10,"loss":12,"for":57,"against":53},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":11,"draw":12,"loss":11,"for":32,"against":39},
 	{"country":"esp","name":"Elche","id":"Elche_CF","win":11,"draw":11,"loss":12,"for":45,"against":47},
 	{"country":"esp","name":"Salamanca","id":"UD_Salamanca","win":13,"draw":6,"loss":15,"for":30,"against":34},

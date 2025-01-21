@@ -304,7 +304,7 @@
 	{"country":"tur","name":"Altay","id":"Altay_S.K.","win":9,"draw":8,"loss":17,"for":48,"against":69,"isRemoved":true,"isReturning":true},
 	{"country":"tur","name":"Göztepe A.Ş.","id":"Göztepe_S.K.","win":5,"draw":11,"loss":18,"for":32,"against":57,"isRemoved":true},
 	{"country":"tur","name":"Kocaelispor","id":"Kocaelispor","win":6,"draw":4,"loss":24,"for":32,"against":66,"isRemoved":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":22,"draw":12,"loss":4,"for":86,"against":42,"isChampion":true},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":22,"draw":12,"loss":4,"for":86,"against":42,"isChampion":true},
 	{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":22,"draw":10,"loss":6,"for":71,"against":45},
 	{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":22,"draw":6,"loss":10,"for":67,"against":47},
 	{"country":"esp","name":"Celta Vigo","id":"RC_Celta_de_Vigo","win":17,"draw":10,"loss":11,"for":45,"against":36},

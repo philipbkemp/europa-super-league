@@ -307,7 +307,7 @@
 	{"country":"tur","name":"Sarıyer","id":"Sarıyer_S.K.","win":9,"draw":7,"loss":18,"for":41,"against":54,"isRemoved":true,"isReturning":true},
 	{"country":"tur","name":"Denizlispor","id":"Denizlispor","win":5,"draw":5,"loss":24,"for":36,"against":81,"isRemoved":true},
 	{"country":"tur","name":"Zeytinburnuspor","id":"Zeytinburnuspor","win":2,"draw":5,"loss":27,"for":26,"against":86,"isRemoved":true,"isReturning":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":27,"draw":11,"loss":4,"for":85,"against":36,"isChampion":true},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":27,"draw":11,"loss":4,"for":85,"against":36,"isChampion":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":28,"draw":6,"loss":8,"for":102,"against":48},
 	{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":21,"draw":14,"loss":7,"for":57,"against":30},
 	{"country":"esp","name":"Betis","id":"Real_Betis","win":21,"draw":14,"loss":7,"for":81,"against":46},

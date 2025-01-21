@@ -334,7 +334,7 @@
 	{"country":"tur","name":"Göztepe A.Ş.","id":"Göztepe_S.K.","win":7,"draw":12,"loss":11,"for":31,"against":32},
 	{"country":"tur","name":"MKE Ankaragücü","id":"MKE_Ankaragücü","win":8,"draw":9,"loss":13,"for":33,"against":48,"isRemoved":true},
 	{"country":"tur","name":"Balıkesirspor","id":"Balıkesirspor","win":9,"draw":7,"loss":14,"for":18,"against":39,"isRemoved":true,"isNew":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":20,"draw":8,"loss":6,"for":54,"against":26,"isChampion":true},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":20,"draw":8,"loss":6,"for":54,"against":26,"isChampion":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":18,"draw":7,"loss":9,"for":61,"against":41},
 	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":18,"draw":6,"loss":10,"for":60,"against":38},
 	{"country":"esp","name":"Español","id":"RCD_Espanyol","win":18,"draw":4,"loss":12,"for":48,"against":45},

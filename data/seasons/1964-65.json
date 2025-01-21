@@ -323,7 +323,7 @@
 	{"country":"tur","name":"Gençlerbirliği","id":"Gençlerbirliği_S.K.","win":10,"draw":6,"loss":14,"for":33,"against":47},
 	{"country":"tur","name":"Şeker Hilal","id":"Turanspor","win":7,"draw":11,"loss":12,"for":32,"against":39,"isReturning":true},
 	{"country":"tur","name":"Altınordu","id":"Altınordu_F.K.","win":8,"draw":8,"loss":14,"for":28,"against":33,"isRemoved":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":21,"draw":5,"loss":4,"for":64,"against":18,"isChampion":true},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":21,"draw":5,"loss":4,"for":64,"against":18,"isChampion":true},
 	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":20,"draw":3,"loss":7,"for":58,"against":27},
 	{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":19,"draw":2,"loss":9,"for":60,"against":37},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":17,"draw":4,"loss":9,"for":59,"against":37},

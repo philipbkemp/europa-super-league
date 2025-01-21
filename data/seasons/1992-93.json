@@ -349,7 +349,7 @@
 	{"country":"tur","name":"Aydınspor","id":"Aydınspor_1923","win":6,"draw":9,"loss":15,"for":23,"against":50,"isRemoved":true},
 	{"country":"tur","name":"Konyaspor","id":"Konyaspor","win":2,"draw":10,"loss":18,"for":29,"against":85,"isRemoved":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":25,"draw":8,"loss":5,"for":87,"against":34,"isChampion":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":24,"draw":9,"loss":5,"for":75,"against":28},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":24,"draw":9,"loss":5,"for":75,"against":28},
 	{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":22,"draw":10,"loss":6,"for":67,"against":33},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":19,"draw":10,"loss":9,"for":60,"against":33},
 	{"country":"esp","name":"Tenerife","id":"CD_Tenerife","win":15,"draw":14,"loss":9,"for":59,"against":47},

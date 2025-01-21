@@ -229,7 +229,7 @@
 	{"country":"csk","name":"AFK Kolín","id":"AFK_Kolín","win":4,"draw":8,"loss":14,"for":44,"against":82,"isRemoved":true},
 	{"country":"csk","name":"DSV Saaz Žatec","id":"DSV_Saaz","win":5,"draw":4,"loss":17,"for":34,"against":92,"isRemoved":true,"isNew":true},
 	{"country":"esp","name":"Athletic Bilbao","id":"Athletic_Bilbao","win":14,"draw":3,"loss":5,"for":59,"against":33,"isChampion":true,"isRemoved":true,"removedNote":"League suspended during Spanish Civil War"},
-	{"country":"esp","name":"Madrid FC","id":"Real_Madrid_CF","win":13,"draw":3,"loss":6,"for":62,"against":35,"isRemoved":true,"removedNote":"League suspended during Spanish Civil War"},
+	{"country":"esp","name":"Madrid FC","id":"real_madrid_cf","win":13,"draw":3,"loss":6,"for":62,"against":35,"isRemoved":true,"removedNote":"League suspended during Spanish Civil War"},
 	{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":12,"draw":4,"loss":6,"for":63,"against":47,"isRemoved":true,"removedNote":"League suspended during Spanish Civil War"},
 	{"country":"esp","name":"Racing Santander","id":"Racing_de_Santander","win":13,"draw":1,"loss":8,"for":58,"against":46,"isRemoved":true,"removedNote":"League suspended during Spanish Civil War"},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":11,"draw":2,"loss":9,"for":39,"against":32,"isRemoved":true,"removedNote":"League suspended during Spanish Civil War"},

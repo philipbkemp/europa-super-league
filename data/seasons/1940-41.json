@@ -104,7 +104,7 @@
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":11,"draw":5,"loss":6,"for":60,"against":52},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":13,"draw":1,"loss":8,"for":55,"against":45},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":12,"draw":2,"loss":8,"for":70,"against":43},
-	{"country":"esp","name":"Madrid FC","id":"Real_Madrid_CF","win":11,"draw":2,"loss":9,"for":51,"against":38},
+	{"country":"esp","name":"Madrid FC","id":"real_madrid_cf","win":11,"draw":2,"loss":9,"for":51,"against":38},
 	{"country":"esp","name":"Español","id":"RCD_Espanyol","win":10,"draw":2,"loss":10,"for":50,"against":54},
 	{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":7,"draw":2,"loss":13,"for":36,"against":63,"isReturning":true},
 	{"country":"esp","name":"Hércules","id":"Hércules_CF","win":7,"draw":2,"loss":13,"for":28,"against":67},

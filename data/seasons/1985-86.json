@@ -356,7 +356,7 @@
 	{"country":"tur","name":"Sakaryaspor","id":"Sakaryaspor","win":11,"draw":5,"loss":20,"for":52,"against":70,"isRemoved":true},
 	{"country":"tur","name":"Orduspor","id":"Orduspor","win":8,"draw":6,"loss":22,"for":30,"against":65,"isRemoved":true},
 	{"country":"tur","name":"Kayserispor","id":"Kayserispor","win":4,"draw":11,"loss":21,"for":27,"against":67,"isRemoved":true,"isReturning":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":26,"draw":4,"loss":4,"for":83,"against":33,"isChampion":true},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":26,"draw":4,"loss":4,"for":83,"against":33,"isChampion":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":18,"draw":9,"loss":7,"for":61,"against":36},
 	{"country":"esp","name":"Athletic Bilbao","id":"Athletic_Bilbao","win":17,"draw":9,"loss":8,"for":44,"against":31},
 	{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":15,"draw":12,"loss":7,"for":51,"against":34},

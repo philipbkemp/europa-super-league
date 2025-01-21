@@ -161,7 +161,7 @@
 	{"country":"csk","name":"Čechie Karlín","id":"Čechie_Karlín","win":2,"draw":3,"loss":7,"for":11,"against":29},
 	{"country":"csk","name":"SK Libeň","id":"SK_Libeň","win":1,"draw":1,"loss":10,"for":13,"against":50,"isRemoved":true,"isReturning":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":11,"draw":3,"loss":4,"for":37,"against":23,"isChampion":true,"isNew":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":11,"draw":1,"loss":6,"for":40,"against":27,"isNew":true},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":11,"draw":1,"loss":6,"for":40,"against":27,"isNew":true},
 	{"country":"esp","name":"Athletic Bilbao","id":"Athletic_Bilbao","win":8,"draw":4,"loss":6,"for":47,"against":34,"isNew":true},
 	{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":8,"draw":4,"loss":6,"for":46,"against":41,"isNew":true},
 	{"country":"esp","name":"Arenas","id":"Arenas_Club_de_Getxo","win":8,"draw":3,"loss":7,"for":33,"against":43,"isNew":true},

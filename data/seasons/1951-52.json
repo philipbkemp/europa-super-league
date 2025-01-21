@@ -238,7 +238,7 @@
 	{"country":"bgr","name":"Spartak Varna","id":"FC_Spartak_Varna","win":4,"draw":6,"loss":12,"for":16,"against":37,"isRemoved":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":19,"draw":5,"loss":6,"for":92,"against":43,"isChampion":true},
 	{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":17,"draw":6,"loss":7,"for":78,"against":46},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":16,"draw":6,"loss":8,"for":79,"against":50},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":16,"draw":6,"loss":8,"for":79,"against":50},
 	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":16,"draw":5,"loss":9,"for":80,"against":57},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":15,"draw":5,"loss":10,"for":68,"against":51},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":14,"draw":4,"loss":12,"for":69,"against":57},

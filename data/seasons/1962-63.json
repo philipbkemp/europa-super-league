@@ -303,7 +303,7 @@
 	{"country":"tur","name":"MKE Ankaragücü","id":"MKE_Ankaragücü","win":4,"draw":1,"loss":5,"for":12,"against":14},
 	{"country":"tur","name":"PTT","id":"Türk_Telekom_GSK","win":4,"draw":0,"loss":6,"for":12,"against":22},
 	{"country":"tur","name":"Beyoğluspor","id":"Beyoğluspor","win":2,"draw":3,"loss":5,"for":10,"against":18,"isNew":true},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":23,"draw":3,"loss":4,"for":83,"against":33,"isChampion":true},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":23,"draw":3,"loss":4,"for":83,"against":33,"isChampion":true},
 	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":14,"draw":9,"loss":7,"for":61,"against":36},
 	{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":15,"draw":3,"loss":12,"for":52,"against":46},
 	{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":15,"draw":3,"loss":12,"for":51,"against":53,"isReturning":true},

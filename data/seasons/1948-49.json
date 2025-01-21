@@ -249,7 +249,7 @@
 	{"country":"bgr","name":"Chernomorets Burgas","id":"FC_Chernomorets_Burgas","win":2,"draw":3,"loss":13,"for":15,"against":38,"isRemoved":true,"isReturning":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":16,"draw":5,"loss":5,"for":66,"against":36,"isChampion":true},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":16,"draw":3,"loss":7,"for":78,"against":47},
-	{"country":"esp","name":"Real Madrid","id":"Real_Madrid_CF","win":15,"draw":4,"loss":7,"for":67,"against":42},
+	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":15,"draw":4,"loss":7,"for":67,"against":42},
 	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":15,"draw":4,"loss":7,"for":54,"against":32},
 	{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":13,"draw":4,"loss":9,"for":50,"against":43},
 	{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":11,"draw":2,"loss":13,"for":61,"against":63},
