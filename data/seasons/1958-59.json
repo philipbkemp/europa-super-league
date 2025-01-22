@@ -291,7 +291,7 @@
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":21,"draw":5,"loss":4,"for":89,"against":29},
 	{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":17,"draw":2,"loss":11,"for":72,"against":33},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":13,"draw":7,"loss":10,"for":47,"against":41},
-	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":13,"draw":6,"loss":11,"for":58,"against":48},
+	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":13,"draw":6,"loss":11,"for":58,"against":48},
 	{"country":"esp","name":"Betis","id":"Real_Betis","win":14,"draw":4,"loss":12,"for":54,"against":53,"isReturning":true},
 	{"country":"esp","name":"Español","id":"RCD_Espanyol","win":11,"draw":7,"loss":12,"for":42,"against":45},
 	{"country":"esp","name":"Osasuna","id":"CA_Osasuna","win":12,"draw":4,"loss":14,"for":44,"against":59},

@@ -238,7 +238,7 @@
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":7,"draw":5,"loss":10,"for":36,"against":42,"isRemoved":true,"removedNote":"League suspended during Spanish Civil War"},
 	{"country":"esp","name":"Español","id":"RCD_Espanyol","win":8,"draw":1,"loss":13,"for":36,"against":53,"isRemoved":true,"removedNote":"League suspended during Spanish Civil War"},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":6,"draw":4,"loss":12,"for":27,"against":48,"isRemoved":true,"removedNote":"League suspended during Spanish Civil War"},
-	{"country":"esp","name":"Athletic Madrid","id":"Atlético_Madrid","win":6,"draw":3,"loss":13,"for":34,"against":50,"isRemoved":true,"removedNote":"League suspended during Spanish Civil War"},
+	{"country":"esp","name":"Athletic Madrid","id":"atletico_madrid","win":6,"draw":3,"loss":13,"for":34,"against":50,"isRemoved":true,"removedNote":"League suspended during Spanish Civil War"},
 	{"country":"esp","name":"Osasuna","id":"CA_Osasuna","win":7,"draw":0,"loss":15,"for":46,"against":55,"isRemoved":true,"removedNote":"League suspended during Spanish Civil War","isNew":true},
 	{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":11,"draw":0,"loss":3,"for":38,"against":15,"isChampion":true},
 	{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":8,"draw":1,"loss":5,"for":41,"against":28},

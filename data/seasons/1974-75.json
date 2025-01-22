@@ -349,7 +349,7 @@
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":15,"draw":7,"loss":12,"for":57,"against":36},
 	{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":12,"draw":12,"loss":10,"for":37,"against":32},
 	{"country":"esp","name":"Hércules","id":"Hércules_CF","win":11,"draw":14,"loss":9,"for":37,"against":36,"isReturning":true},
-	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":11,"draw":13,"loss":10,"for":46,"against":34},
+	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":11,"draw":13,"loss":10,"for":46,"against":34},
 	{"country":"esp","name":"Salamanca","id":"UD_Salamanca","win":10,"draw":15,"loss":9,"for":33,"against":29,"isNew":true},
 	{"country":"esp","name":"Elche","id":"Elche_CF","win":13,"draw":8,"loss":13,"for":35,"against":44},
 	{"country":"esp","name":"Real Betis","id":"Real_Betis","win":14,"draw":6,"loss":14,"for":35,"against":41,"isReturning":true},

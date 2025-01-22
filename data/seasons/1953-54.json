@@ -273,7 +273,7 @@
 	{"country":"esp","name":"Real Santander","id":"Racing_de_Santander","win":12,"draw":7,"loss":11,"for":53,"against":61},
 	{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":11,"draw":7,"loss":12,"for":44,"against":58},
 	{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":12,"draw":5,"loss":13,"for":47,"against":54},
-	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":11,"draw":7,"loss":12,"for":57,"against":47},
+	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":11,"draw":7,"loss":12,"for":57,"against":47},
 	{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":12,"draw":5,"loss":13,"for":50,"against":60},
 	{"country":"esp","name":"Osasuna","id":"CA_Osasuna","win":12,"draw":4,"loss":14,"for":46,"against":54,"isRemoved":true,"isReturning":true},
 	{"country":"esp","name":"Jaén","id":"Real_Jaén","win":11,"draw":6,"loss":13,"for":55,"against":70,"isRemoved":true,"isNew":true},

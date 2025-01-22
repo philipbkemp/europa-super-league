@@ -348,7 +348,7 @@
 	{"country":"tur","name":"Karşıyaka","id":"Karşıyaka_S.K.","win":6,"draw":8,"loss":16,"for":32,"against":50,"isRemoved":true},
 	{"country":"tur","name":"Adanaspor","id":"Adanaspor","win":5,"draw":11,"loss":14,"for":34,"against":58,"isRemoved":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":25,"draw":7,"loss":6,"for":74,"against":33,"isChampion":true},
-	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":17,"draw":13,"loss":8,"for":52,"against":28},
+	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":17,"draw":13,"loss":8,"for":52,"against":28},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":20,"draw":6,"loss":12,"for":63,"against":37},
 	{"country":"esp","name":"Osasuna","id":"CA_Osasuna","win":15,"draw":15,"loss":8,"for":43,"against":34},
 	{"country":"esp","name":"Sporting Gijón","id":"Sporting_de_Gijón","win":16,"draw":12,"loss":10,"for":50,"against":37},

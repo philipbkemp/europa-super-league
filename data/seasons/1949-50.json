@@ -265,7 +265,7 @@
 	{"country":"bgr","name":"Spartak Pleven","id":"OFC_Spartak_Pleven","win":3,"draw":6,"loss":9,"for":19,"against":27,"isNew":true},
 	{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":4,"draw":2,"loss":12,"for":16,"against":29,"isRemoved":true},
 	{"country":"bgr","name":"Marek Dupnitsa","id":"FC_Marek_Dupnitsa","win":2,"draw":2,"loss":14,"for":9,"against":47,"isRemoved":true},
-	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":15,"draw":3,"loss":8,"for":71,"against":51,"isChampion":true},
+	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":15,"draw":3,"loss":8,"for":71,"against":51,"isChampion":true},
 	{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":12,"draw":8,"loss":6,"for":48,"against":38},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":12,"draw":7,"loss":7,"for":71,"against":43},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":11,"draw":9,"loss":6,"for":60,"against":49},

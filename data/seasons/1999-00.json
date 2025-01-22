@@ -354,7 +354,7 @@
 	{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":11,"draw":12,"loss":15,"for":44,"against":60},
 	{"country":"esp","name":"Numancia","id":"CD_Numancia","win":11,"draw":12,"loss":15,"for":47,"against":59,"isNew":true},
 	{"country":"esp","name":"Betis","id":"Real_Betis","win":11,"draw":9,"loss":18,"for":33,"against":56,"isRemoved":true},
-	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":9,"draw":11,"loss":18,"for":48,"against":64,"isRemoved":true},
+	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":9,"draw":11,"loss":18,"for":48,"against":64,"isRemoved":true},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":5,"draw":13,"loss":20,"for":42,"against":67,"isRemoved":true,"isReturning":true},
 	{"country":"alb","name":"Tirana","id":"kf_tirana","win":16,"draw":4,"loss":6,"for":40,"against":14,"isChampion":true},
 	{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":15,"draw":7,"loss":4,"for":35,"against":22},

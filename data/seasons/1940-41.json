@@ -99,7 +99,7 @@
 	{"country":"tur","name":"Altay","id":"Altay_S.K.","win":4,"draw":4,"loss":6,"for":24,"against":42,"isReturning":true},
 	{"country":"tur","name":"Altınordu","id":"Altınordu_F.K.","win":4,"draw":1,"loss":9,"for":23,"against":44,"isNew":true},
 	{"country":"tur","name":"Vefa","id":"Vefa_S.K.","win":2,"draw":2,"loss":10,"for":20,"against":45,"isRemoved":true},
-	{"country":"esp","name":"Atlético Aviación","id":"Atlético_Madrid","win":13,"draw":7,"loss":2,"for":70,"against":36,"isChampion":true},
+	{"country":"esp","name":"Atlético Aviación","id":"atletico_madrid","win":13,"draw":7,"loss":2,"for":70,"against":36,"isChampion":true},
 	{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":13,"draw":5,"loss":4,"for":49,"against":24},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":11,"draw":5,"loss":6,"for":60,"against":52},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":13,"draw":1,"loss":8,"for":55,"against":45},

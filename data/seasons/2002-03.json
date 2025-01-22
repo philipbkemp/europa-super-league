@@ -315,7 +315,7 @@
 	{"country":"esp","name":"Mallorca","id":"RCD_Mallorca","win":14,"draw":10,"loss":14,"for":49,"against":56},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":13,"draw":11,"loss":14,"for":38,"against":39},
 	{"country":"esp","name":"Osasuna","id":"CA_Osasuna","win":12,"draw":11,"loss":15,"for":40,"against":48},
-	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":12,"draw":11,"loss":15,"for":51,"against":56,"isReturning":true},
+	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":12,"draw":11,"loss":15,"for":51,"against":56,"isReturning":true},
 	{"country":"esp","name":"Málaga","id":"Málaga_CF","win":11,"draw":13,"loss":14,"for":44,"against":49},
 	{"country":"esp","name":"Valladolid","id":"Real_Valladolid","win":12,"draw":10,"loss":16,"for":37,"against":40},
 	{"country":"esp","name":"Villarreal","id":"Villarreal_CF","win":11,"draw":12,"loss":15,"for":44,"against":53},

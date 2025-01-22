@@ -340,7 +340,7 @@
 	{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":12,"draw":14,"loss":12,"for":56,"against":44},
 	{"country":"esp","name":"Racing Santander","id":"Racing_de_Santander","win":13,"draw":10,"loss":15,"for":42,"against":47},
 	{"country":"esp","name":"Celta de Vigo","id":"RC_Celta_de_Vigo","win":11,"draw":14,"loss":13,"for":36,"against":48},
-	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":13,"draw":9,"loss":16,"for":56,"against":54},
+	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":13,"draw":9,"loss":16,"for":56,"against":54},
 	{"country":"esp","name":"Tenerife","id":"CD_Tenerife","win":13,"draw":9,"loss":16,"for":57,"against":57},
 	{"country":"esp","name":"Compostela","id":"SD_Compostela","win":11,"draw":12,"loss":15,"for":44,"against":56,"isNew":true},
 	{"country":"esp","name":"Albacete","id":"Albacete_Balompié","win":10,"draw":14,"loss":14,"for":44,"against":61},

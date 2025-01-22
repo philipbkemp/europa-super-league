@@ -354,7 +354,7 @@
 	{"country":"tur","name":"Türk Telekomspor","id":"Türk_Telekom_GSK","win":7,"draw":11,"loss":12,"for":21,"against":34},
 	{"country":"tur","name":"Gençlerbirliği","id":"Gençlerbirliği_S.K.","win":7,"draw":8,"loss":15,"for":17,"against":33,"isRemoved":true},
 	{"country":"tur","name":"Altınordu A.Ş.","id":"Altınordu_F.K.","win":5,"draw":7,"loss":18,"for":16,"against":43,"isRemoved":true},
-	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":18,"draw":6,"loss":6,"for":53,"against":22,"isChampion":true},
+	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":18,"draw":6,"loss":6,"for":53,"against":22,"isChampion":true},
 	{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":17,"draw":7,"loss":6,"for":44,"against":20},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":14,"draw":7,"loss":9,"for":39,"against":32,"isReturning":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":13,"draw":9,"loss":8,"for":40,"against":31},

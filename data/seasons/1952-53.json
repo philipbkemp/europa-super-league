@@ -266,7 +266,7 @@
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":16,"draw":2,"loss":12,"for":70,"against":57},
 	{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":14,"draw":4,"loss":12,"for":83,"against":52},
 	{"country":"esp","name":"Real Gijón","id":"Sporting_de_Gijón","win":11,"draw":8,"loss":11,"for":39,"against":54},
-	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":13,"draw":4,"loss":13,"for":65,"against":70},
+	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":13,"draw":4,"loss":13,"for":65,"against":70},
 	{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":12,"draw":5,"loss":13,"for":63,"against":62,"isReturning":true},
 	{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":10,"draw":8,"loss":12,"for":54,"against":61},
 	{"country":"esp","name":"Real Santander","id":"Racing_de_Santander","win":11,"draw":5,"loss":14,"for":46,"against":61},

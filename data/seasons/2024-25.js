@@ -189,7 +189,7 @@ THEDATA = [
 	{"country":"eng","name":"Leicester City","id":"Leicester_City_F.C.","win":3,"draw":5,"loss":14,"for":23,"against":48,"isReturning":true,"isCurrentSeason":true},
 	{"country":"eng","name":"Southampton","id":"Southampton_F.C.","win":1,"draw":3,"loss":18,"for":15,"against":50,"isReturning":true,"isCurrentSeason":true},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":14,"draw":4,"loss":2,"for":47,"against":20,"isCurrentSeason":true},
-	{"country":"esp","name":"Atlético Madrid","id":"Atlético_Madrid","win":13,"draw":5,"loss":2,"for":34,"against":13,"isCurrentSeason":true},
+	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":13,"draw":5,"loss":2,"for":34,"against":13,"isCurrentSeason":true},
 	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":12,"draw":3,"loss":5,"for":52,"against":23,"isCurrentSeason":true},
 	{"country":"esp","name":"Athletic Bilbao","id":"Athletic_Bilbao","win":11,"draw":6,"loss":3,"for":31,"against":18,"isCurrentSeason":true},
 	{"country":"esp","name":"Villarreal","id":"Villarreal_CF","win":8,"draw":6,"loss":5,"for":34,"against":31,"isCurrentSeason":true},

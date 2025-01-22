@@ -200,5 +200,5 @@
 	{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":5,"draw":4,"loss":9,"for":34,"against":37},
 	{"country":"esp","name":"Racing Santander","id":"Racing_de_Santander","win":7,"draw":0,"loss":11,"for":32,"against":58},
 	{"country":"esp","name":"Europa","id":"CE_Europa","win":6,"draw":1,"loss":11,"for":29,"against":44},
-	{"country":"esp","name":"Athletic Madrid","id":"Atlético_Madrid","win":5,"draw":2,"loss":11,"for":32,"against":50,"isRemoved":true}
+	{"country":"esp","name":"Athletic Madrid","id":"atletico_madrid","win":5,"draw":2,"loss":11,"for":32,"against":50,"isRemoved":true}
 ]
