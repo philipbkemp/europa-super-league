@@ -268,7 +268,7 @@
 	{"country":"irl","name":"Finn Harps","id":"Finn_Harps_F.C.","win":8,"draw":12,"loss":13,"for":36,"against":46,"isRemoved":true},
 	{"country":"irl","name":"Kilkenny City","id":"Kilkenny_City_A.F.C.","win":1,"draw":6,"loss":26,"for":14,"against":66,"isRemoved":true,"isReturning":true},
 	{"country":"ltu","name":"FBK Kaunas","id":"FBK_Kaunas","win":26,"draw":8,"loss":2,"for":115,"against":24,"isChampion":true},
-	{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":25,"draw":8,"loss":3,"for":108,"against":28},
+	{"country":"ltu","name":"Žalgiris","id":"fk_zalgiris","win":25,"draw":8,"loss":3,"for":108,"against":28},
 	{"country":"ltu","name":"Atlantas","id":"FK_Atlantas","win":21,"draw":4,"loss":11,"for":70,"against":45},
 	{"country":"ltu","name":"Ekranas","id":"FK_Ekranas","win":18,"draw":8,"loss":10,"for":57,"against":31},
 	{"country":"ltu","name":"Kareda","id":"FK_Kareda_Kaunas","win":17,"draw":9,"loss":10,"for":56,"against":49,"isRemoved":true},

@@ -282,7 +282,7 @@
 	{"country":"irl","name":"Cobh Ramblers","id":"Cobh_Ramblers_F.C.","win":5,"draw":11,"loss":17,"for":29,"against":51,"isRemoved":true},
 	{"country":"irl","name":"Monaghan United","id":"Monaghan_United_F.C.","win":5,"draw":4,"loss":24,"for":22,"against":75,"isRemoved":true},
 	{"country":"ltu","name":"Inkaras-Grifas","id":"FK_Inkaras_Kaunas","win":16,"draw":4,"loss":2,"for":50,"against":12,"isChampion":true},
-	{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":17,"draw":2,"loss":3,"for":61,"against":14},
+	{"country":"ltu","name":"Žalgiris","id":"fk_zalgiris","win":17,"draw":2,"loss":3,"for":61,"against":14},
 	{"country":"ltu","name":"ROMAR","id":"ROMAR_Mažeikiai","win":15,"draw":4,"loss":3,"for":51,"against":14,"isRemoved":true},
 	{"country":"ltu","name":"Panerys","id":"FK_Panerys_Vilnius","win":11,"draw":6,"loss":5,"for":35,"against":25},
 	{"country":"ltu","name":"Aras","id":"FK_Atlantas","win":13,"draw":1,"loss":8,"for":41,"against":28},

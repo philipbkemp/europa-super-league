@@ -283,7 +283,7 @@
 	{"country":"irl","name":"Bray Wanderers","id":"Bray_Wanderers_F.C.","win":5,"draw":11,"loss":17,"for":28,"against":61},
 	{"country":"irl","name":"UCD","id":"University_College_Dublin_A.F.C.","win":6,"draw":7,"loss":20,"for":27,"against":71,"isRemoved":true},
 	{"country":"irl","name":"Athlone Town","id":"Athlone_Town_A.F.C.","win":4,"draw":10,"loss":19,"for":35,"against":56,"isRemoved":true,"isReturning":true},
-	{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":25,"draw":9,"loss":2,"for":92,"against":17,"isChampion":true},
+	{"country":"ltu","name":"Žalgiris","id":"fk_zalgiris","win":25,"draw":9,"loss":2,"for":92,"against":17,"isChampion":true},
 	{"country":"ltu","name":"Kruoja","id":"FK_Kruoja_Pakruojis","win":19,"draw":9,"loss":8,"for":67,"against":34},
 	{"country":"ltu","name":"Atlantas","id":"FK_Atlantas","win":19,"draw":8,"loss":9,"for":76,"against":36},
 	{"country":"ltu","name":"Trakai","id":"FK_Riteriai","win":18,"draw":9,"loss":9,"for":65,"against":38,"isNew":true},

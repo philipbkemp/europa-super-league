@@ -283,7 +283,7 @@
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":7,"draw":8,"loss":18,"for":27,"against":47},
 	{"country":"irl","name":"Bray Wanderers","id":"Bray_Wanderers_F.C.","win":7,"draw":6,"loss":20,"for":33,"against":66},
 	{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":5,"draw":6,"loss":22,"for":25,"against":56,"isRemoved":true},
-	{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":22,"draw":7,"loss":3,"for":77,"against":19,"isChampion":true},
+	{"country":"ltu","name":"Žalgiris","id":"fk_zalgiris","win":22,"draw":7,"loss":3,"for":77,"against":19,"isChampion":true},
 	{"country":"ltu","name":"Atlantas","id":"FK_Atlantas","win":22,"draw":5,"loss":5,"for":64,"against":23},
 	{"country":"ltu","name":"Ekranas","id":"FK_Ekranas","win":20,"draw":4,"loss":8,"for":58,"against":34},
 	{"country":"ltu","name":"Sūduva","id":"FK_Sūduva","win":18,"draw":8,"loss":6,"for":73,"against":33},

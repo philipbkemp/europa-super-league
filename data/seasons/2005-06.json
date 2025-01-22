@@ -282,7 +282,7 @@
 	{"country":"ltu","name":"Vilnius","id":"FC_Vilnius","win":11,"draw":14,"loss":11,"for":36,"against":29},
 	{"country":"ltu","name":"Šilutė","id":"FK_Šilutė","win":12,"draw":8,"loss":16,"for":44,"against":61},
 	{"country":"ltu","name":"Atlantas","id":"FK_Atlantas","win":11,"draw":8,"loss":17,"for":40,"against":52},
-	{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":11,"draw":8,"loss":17,"for":40,"against":52},
+	{"country":"ltu","name":"Žalgiris","id":"fk_zalgiris","win":11,"draw":8,"loss":17,"for":40,"against":52},
 	{"country":"ltu","name":"Šiauliai","id":"FC_Šiauliai","win":8,"draw":9,"loss":19,"for":40,"against":61,"isReturning":true},
 	{"country":"ltu","name":"Nevėžis","id":"FK_Nevėžis","win":0,"draw":5,"loss":31,"for":18,"against":115,"isReturning":true},
 	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":21,"draw":5,"loss":2,"for":71,"against":23,"isChampion":true},

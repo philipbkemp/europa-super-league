@@ -292,7 +292,7 @@
 	{"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":6,"draw":13,"loss":14,"for":23,"against":46,"deduct":-1,"deductReason":"Player registration irregularities","isReturning":true},
 	{"country":"irl","name":"Athlone Town","id":"Athlone_Town_A.F.C.","win":6,"draw":11,"loss":16,"for":31,"against":50,"isRemoved":true},
 	{"country":"irl","name":"Galway United","id":"Galway_United_F.C.","win":7,"draw":8,"loss":18,"for":37,"against":58,"isRemoved":true},
-	{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":17,"draw":5,"loss":3,"for":39,"against":11,"isChampion":true,"isReturning":true},
+	{"country":"ltu","name":"Žalgiris","id":"fk_zalgiris","win":17,"draw":5,"loss":3,"for":39,"against":11,"isChampion":true,"isReturning":true},
 	{"country":"ltu","name":"Panerys","id":"FK_Panerys_Vilnius","win":16,"draw":6,"loss":3,"for":47,"against":10},
 	{"country":"ltu","name":"Sirijus","id":"FK_Sirijus_Klaipėda","win":11,"draw":11,"loss":3,"for":32,"against":14,"isNew":true},
 	{"country":"ltu","name":"Banga Kaunas","id":"FBK_Kaunas","win":11,"draw":10,"loss":4,"for":26,"against":15,"isReturning":true},

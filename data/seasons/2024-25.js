@@ -679,7 +679,7 @@ THEDATA = [
 	{"country":"kaz","name":"Zhetysu","id":"FC_Zhetysu","win":5,"draw":8,"loss":11,"for":17,"against":29},
 	{"country":"kaz","name":"Turan","id":"FC_Turan","win":5,"draw":5,"loss":14,"for":16,"against":39,"isReturning":true},
 	{"country":"kaz","name":"Shakhter","id":"FC_Shakhter_Karagandy","win":2,"draw":4,"loss":18,"for":12,"against":45,"isRemoved":true},
-	{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":24,"draw":7,"loss":5,"for":76,"against":31,"isChampion":true},
+	{"country":"ltu","name":"Žalgiris","id":"fk_zalgiris","win":24,"draw":7,"loss":5,"for":76,"against":31,"isChampion":true},
 	{"country":"ltu","name":"Hegelmann","id":"FC_Hegelmann","win":19,"draw":10,"loss":7,"for":60,"against":40},
 	{"country":"ltu","name":"Kauno Žalgiris","id":"FK_Kauno_Žalgiris","win":15,"draw":9,"loss":12,"for":43,"against":40},
 	{"country":"ltu","name":"Dainava","id":"DFK_Dainava","win":12,"draw":9,"loss":15,"for":33,"against":40},

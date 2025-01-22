@@ -282,7 +282,7 @@
 	{"country":"irl","name":"Cork City","id":"Cork_City_F.C.","win":8,"draw":7,"loss":21,"for":35,"against":64,"isRemoved":true,"isReturning":true},
 	{"country":"irl","name":"UCD","id":"University_College_Dublin_A.F.C.","win":2,"draw":5,"loss":29,"for":19,"against":96,"isRemoved":true},
 	{"country":"ltu","name":"Panevėžys","id":"FK_Panevėžys","win":26,"draw":9,"loss":1,"for":64,"against":14,"isChampion":true},
-	{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":23,"draw":6,"loss":7,"for":67,"against":28},
+	{"country":"ltu","name":"Žalgiris","id":"fk_zalgiris","win":23,"draw":6,"loss":7,"for":67,"against":28},
 	{"country":"ltu","name":"Šiauliai","id":"FA_Šiauliai","win":16,"draw":14,"loss":6,"for":51,"against":35},
 	{"country":"ltu","name":"Kauno Žalgiris","id":"FK_Kauno_Žalgiris","win":15,"draw":14,"loss":7,"for":61,"against":40},
 	{"country":"ltu","name":"Hegelmann","id":"FC_Hegelmann","win":18,"draw":5,"loss":13,"for":62,"against":43},

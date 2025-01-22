@@ -247,7 +247,7 @@
 	{"country":"irl","name":"Monaghan United","id":"Monaghan_United_F.C.","win":2,"draw":6,"loss":25,"for":19,"against":85,"isRemoved":true,"isReturning":true},
 	{"country":"ltu","name":"FBK Kaunas","id":"FBK_Kaunas","win":26,"draw":7,"loss":3,"for":76,"against":13,"isChampion":true},
 	{"country":"ltu","name":"Atlantas","id":"FK_Atlantas","win":19,"draw":12,"loss":5,"for":66,"against":29},
-	{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":20,"draw":9,"loss":7,"for":64,"against":39},
+	{"country":"ltu","name":"Žalgiris","id":"fk_zalgiris","win":20,"draw":9,"loss":7,"for":64,"against":39},
 	{"country":"ltu","name":"Ekranas","id":"FK_Ekranas","win":15,"draw":10,"loss":11,"for":58,"against":38},
 	{"country":"ltu","name":"Inakaras","id":"FK_Inkaras_Kaunas","win":11,"draw":12,"loss":13,"for":50,"against":44},
 	{"country":"ltu","name":"Geležinis Vilkas","id":"FK_Geležinis_Vilkas","win":10,"draw":6,"loss":20,"for":42,"against":69,"isReturning":true},

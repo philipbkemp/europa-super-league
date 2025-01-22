@@ -275,7 +275,7 @@
 	{"country":"irl","name":"Kilkenny City","id":"Kilkenny_City_A.F.C.","win":4,"draw":7,"loss":22,"for":27,"against":63,"isRemoved":true,"isNew":true},
 	{"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":2,"draw":9,"loss":22,"for":20,"against":55,"isRemoved":true,"isReturning":true},
 	{"country":"ltu","name":"Kareda Šiauliai","id":"FK_Kareda_Kaunas","win":25,"draw":4,"loss":1,"for":106,"against":14,"isChampion":true,"isReturning":true},
-	{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":24,"draw":5,"loss":1,"for":84,"against":10,"isReturning":true},
+	{"country":"ltu","name":"Žalgiris","id":"fk_zalgiris","win":24,"draw":5,"loss":1,"for":84,"against":10,"isReturning":true},
 	{"country":"ltu","name":"Ekranas","id":"FK_Ekranas","win":22,"draw":2,"loss":6,"for":53,"against":25,"isReturning":true},
 	{"country":"ltu","name":"Inkaras","id":"FK_Inkaras_Kaunas","win":19,"draw":4,"loss":7,"for":60,"against":22,"isReturning":true},
 	{"country":"ltu","name":"FBK Kaunas","id":"FBK_Kaunas","win":18,"draw":4,"loss":8,"for":63,"against":19,"isReturning":true},

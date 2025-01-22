@@ -278,7 +278,7 @@
 	{"country":"irl","name":"Finn Harps","id":"Finn_Harps_F.C.","win":11,"draw":11,"loss":14,"for":44,"against":52},
 	{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":12,"draw":6,"loss":18,"for":36,"against":56,"isRemoved":true},
 	{"country":"irl","name":"Longford Town","id":"Longford_Town_F.C.","win":2,"draw":9,"loss":25,"for":22,"against":71,"isRemoved":true,"isReturning":true},
-	{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":23,"draw":10,"loss":3,"for":76,"against":28,"isChampion":true},
+	{"country":"ltu","name":"Žalgiris","id":"fk_zalgiris","win":23,"draw":10,"loss":3,"for":76,"against":28,"isChampion":true},
 	{"country":"ltu","name":"Sūduva","id":"FK_Sūduva","win":21,"draw":7,"loss":8,"for":64,"against":33},
 	{"country":"ltu","name":"Kauno Žalgiris","id":"FK_Kauno_Žalgiris","win":18,"draw":9,"loss":9,"for":55,"against":39},
 	{"country":"ltu","name":"Panevėžys","id":"FK_Panevėžys","win":16,"draw":12,"loss":8,"for":55,"against":40},

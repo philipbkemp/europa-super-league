@@ -275,7 +275,7 @@
 	{"country":"irl","name":"Finn Harps","id":"Finn_Harps_F.C.","win":7,"draw":7,"loss":22,"for":26,"against":64,"isReturning":true},
 	{"country":"irl","name":"UCD","id":"University_College_Dublin_A.F.C.","win":5,"draw":4,"loss":27,"for":25,"against":82,"isRemoved":true,"isReturning":true},
 	{"country":"ltu","name":"Sūduva","id":"FK_Sūduva","win":29,"draw":0,"loss":4,"for":95,"against":24,"isChampion":true},
-	{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":24,"draw":2,"loss":7,"for":79,"against":29},
+	{"country":"ltu","name":"Žalgiris","id":"fk_zalgiris","win":24,"draw":2,"loss":7,"for":79,"against":29},
 	{"country":"ltu","name":"Riteriai","id":"FK_Riteriai","win":16,"draw":7,"loss":10,"for":57,"against":36},
 	{"country":"ltu","name":"Kauno Žalgiris","id":"FK_Kauno_Žalgiris","win":16,"draw":5,"loss":12,"for":54,"against":45},
 	{"country":"ltu","name":"Panevėžys","id":"FK_Panevėžys","win":10,"draw":7,"loss":16,"for":49,"against":63,"isNew":true},

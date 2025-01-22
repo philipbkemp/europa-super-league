@@ -266,7 +266,7 @@
 	{"country":"ltu","name":"FBK Kaunas","id":"FBK_Kaunas","win":24,"draw":6,"loss":2,"for":85,"against":20,"isChampion":true},
 	{"country":"ltu","name":"Atlantas","id":"FK_Atlantas","win":20,"draw":7,"loss":5,"for":58,"against":23},
 	{"country":"ltu","name":"Ekranas","id":"FK_Ekranas","win":16,"draw":7,"loss":9,"for":43,"against":25},
-	{"country":"ltu","name":"Žalgiris","id":"FK_Žalgiris","win":12,"draw":11,"loss":9,"for":46,"against":37},
+	{"country":"ltu","name":"Žalgiris","id":"fk_zalgiris","win":12,"draw":11,"loss":9,"for":46,"against":37},
 	{"country":"ltu","name":"Inkaras","id":"FK_Inkaras_Kaunas","win":13,"draw":7,"loss":12,"for":34,"against":29,"isRemoved":true},
 	{"country":"ltu","name":"Sūduva","id":"FK_Sūduva","win":11,"draw":8,"loss":13,"for":44,"against":50,"isReturning":true},
 	{"country":"ltu","name":"Sakalas","id":"FC_Šiauliai","win":8,"draw":10,"loss":14,"for":30,"against":56},
