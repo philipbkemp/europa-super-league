@@ -469,7 +469,7 @@
 	{"country":"geo","name":"Merani Tbilisi","id":"FC_Merani_Tbilisi","win":6,"draw":1,"loss":19,"for":15,"against":54,"isRemoved":true},
 	{"country":"geo","name":"Dinamo Batumi","id":"FC_Dinamo_Batumi","win":4,"draw":4,"loss":18,"for":16,"against":51,"isRemoved":true},
 	{"country":"geo","name":"Dila Gori","id":"FC_Dila_Gori","win":1,"draw":5,"loss":20,"for":12,"against":53,"isRemoved":true},
-	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":18,"draw":3,"loss":7,"for":58,"against":22,"isChampion":true},
+	{"country":"arm","name":"Pyunik","id":"fc_pyunik","win":18,"draw":3,"loss":7,"for":58,"against":22,"isChampion":true},
 	{"country":"arm","name":"Banants","id":"FC_Urartu","win":16,"draw":4,"loss":8,"for":56,"against":26},
 	{"country":"arm","name":"Mika","id":"FC_Mika","win":14,"draw":8,"loss":6,"for":42,"against":24},
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":15,"draw":4,"loss":9,"for":49,"against":42},

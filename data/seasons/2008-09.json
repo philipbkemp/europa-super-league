@@ -467,7 +467,7 @@
 	{"country":"geo","name":"Spartaki Tskhinvali","id":"FC_Tskhinvali","win":6,"draw":7,"loss":17,"for":28,"against":46},
 	{"country":"geo","name":"Borjomi","id":"FC_Borjomi","win":2,"draw":7,"loss":21,"for":21,"against":85,"isRemoved":true},
 	{"country":"geo","name":"Ameri Tbilisi","id":"FC_Ameri_Tbilisi","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew before the start of the season due to financial issues"},
-	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":18,"draw":5,"loss":5,"for":40,"against":18,"isChampion":true},
+	{"country":"arm","name":"Pyunik","id":"fc_pyunik","win":18,"draw":5,"loss":5,"for":40,"against":18,"isChampion":true},
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":18,"draw":5,"loss":5,"for":48,"against":23},
 	{"country":"arm","name":"Gandzasar Kapan","id":"FC_Gandzasar_Kapan","win":13,"draw":8,"loss":7,"for":39,"against":27},
 	{"country":"arm","name":"Mika","id":"FC_Mika","win":13,"draw":7,"loss":8,"for":38,"against":28},

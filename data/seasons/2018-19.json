@@ -458,7 +458,7 @@
 	{"country":"geo","name":"Samtredia","id":"FC_Samtredia","win":4,"draw":9,"loss":23,"for":28,"against":81,"isRemoved":true},
 	{"country":"geo","name":"Kolkheti Poti","id":"FC_Kolkheti-1913_Poti","win":4,"draw":8,"loss":24,"for":26,"against":76,"isRemoved":true,"deduct":-6},
 	{"country":"arm","name":"Ararat-Armenia","id":"FC_Ararat-Armenia","win":18,"draw":7,"loss":7,"for":53,"against":28,"isChampion":true,"isNew":true},
-	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":18,"draw":6,"loss":8,"for":46,"against":32},
+	{"country":"arm","name":"Pyunik","id":"fc_pyunik","win":18,"draw":6,"loss":8,"for":46,"against":32},
 	{"country":"arm","name":"Banants","id":"FC_Urartu","win":14,"draw":10,"loss":8,"for":43,"against":35},
 	{"country":"arm","name":"Alashkert","id":"FC_Alashkert","win":15,"draw":6,"loss":11,"for":37,"against":27},
 	{"country":"arm","name":"Lori","id":"Lori_FC","win":11,"draw":11,"loss":10,"for":42,"against":40,"isReturning":true},

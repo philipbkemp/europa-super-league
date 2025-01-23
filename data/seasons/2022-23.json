@@ -486,7 +486,7 @@
 	{"country":"geo","name":"Gagra","id":"FC_Gagra","win":9,"draw":9,"loss":18,"for":36,"against":57,"isReturning":true},
 	{"country":"geo","name":"Locomotive Tbilisi","id":"FC_Locomotive_Tbilisi","win":1,"draw":5,"loss":30,"for":28,"against":101,"isRemoved":true},
 	{"country":"arm","name":"Urartu","id":"FC_Urartu","win":26,"draw":5,"loss":5,"for":68,"against":25,"isChampion":true},
-	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":25,"draw":5,"loss":6,"for":72,"against":23},
+	{"country":"arm","name":"Pyunik","id":"fc_pyunik","win":25,"draw":5,"loss":6,"for":72,"against":23},
 	{"country":"arm","name":"Ararat-Armenia","id":"FC_Ararat-Armenia","win":23,"draw":7,"loss":6,"for":70,"against":27},
 	{"country":"arm","name":"Alashkert","id":"FC_Alashkert","win":20,"draw":6,"loss":10,"for":58,"against":37},
 	{"country":"arm","name":"Van","id":"FC_Van","win":11,"draw":7,"loss":18,"for":38,"against":59},

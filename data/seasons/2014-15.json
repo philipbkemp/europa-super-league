@@ -471,7 +471,7 @@
 	{"country":"geo","name":"Metalurgi Rustavi","id":"FC_Metalurgi_Rustavi","win":6,"draw":8,"loss":16,"for":25,"against":46,"isRemoved":true},
 	{"country":"geo","name":"WIT Georgia","id":"FC_WIT_Georgia","win":7,"draw":5,"loss":18,"for":29,"against":40,"isRemoved":true},
 	{"country":"geo","name":"Zestaponi","id":"FC_Zestaponi","win":6,"draw":8,"loss":16,"for":40,"against":61,"isRemoved":true,"removedNote":"Expelled"},
-	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":19,"draw":4,"loss":5,"for":58,"against":26,"isChampion":true},
+	{"country":"arm","name":"Pyunik","id":"fc_pyunik","win":19,"draw":4,"loss":5,"for":58,"against":26,"isChampion":true},
 	{"country":"arm","name":"Ulisses","id":"Ulisses_FC","win":15,"draw":5,"loss":8,"for":43,"against":32},
 	{"country":"arm","name":"Shirak","id":"shirak_sc","win":14,"draw":7,"loss":7,"for":51,"against":32},
 	{"country":"arm","name":"Alashkert","id":"FC_Alashkert","win":10,"draw":8,"loss":10,"for":32,"against":35},

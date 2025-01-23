@@ -476,7 +476,7 @@
 	{"country":"arm","name":"Shirak","id":"shirak_sc","win":26,"draw":10,"loss":6,"for":70,"against":38,"isChampion":true},
 	{"country":"arm","name":"Mika","id":"FC_Mika","win":24,"draw":7,"loss":11,"for":57,"against":39},
 	{"country":"arm","name":"Gandzasar Kapan","id":"FC_Gandzasar_Kapan","win":18,"draw":13,"loss":11,"for":48,"against":37},
-	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":19,"draw":6,"loss":17,"for":67,"against":51},
+	{"country":"arm","name":"Pyunik","id":"fc_pyunik","win":19,"draw":6,"loss":17,"for":67,"against":51},
 	{"country":"arm","name":"Impuls","id":"Impuls_FC","win":18,"draw":6,"loss":18,"for":66,"against":65,"isRemoved":true,"removedNote":"Team disbanded at end of season"},
 	{"country":"arm","name":"Ulisses","id":"Ulisses_FC","win":11,"draw":12,"loss":19,"for":41,"against":50},
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":9,"draw":6,"loss":27,"for":27,"against":70},

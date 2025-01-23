@@ -487,7 +487,7 @@
 	{"country":"arm","name":"Ararat","id":"FC_Ararat_Yerevan","win":11,"draw":7,"loss":6,"for":34,"against":18},
 	{"country":"arm","name":"Ararat-Armenia","id":"FC_Ararat-Armenia","win":10,"draw":8,"loss":6,"for":32,"against":17},
 	{"country":"arm","name":"Van","id":"FC_Van","win":9,"draw":4,"loss":11,"for":25,"against":30,"isNew":true},
-	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":6,"draw":7,"loss":11,"for":20,"against":18},
+	{"country":"arm","name":"Pyunik","id":"fc_pyunik","win":6,"draw":7,"loss":11,"for":20,"against":18},
 	{"country":"arm","name":"Lori","id":"Lori_FC","win":7,"draw":2,"loss":15,"for":16,"against":44,"isRemoved":true},
 	{"country":"arm","name":"Shirak","id":"shirak_sc","win":2,"draw":7,"loss":15,"for":19,"against":53,"isRemoved":true},
 	{"country":"arm","name":"Gandzasar","id":"FC_Gandzasar_Kapan","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Club dissolved due to financial issues"},

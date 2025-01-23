@@ -494,7 +494,7 @@
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":23,"draw":5,"loss":0,"for":92,"against":9,"isChampion":true,"isReturning":true},
 	{"country":"arm","name":"Shirak","id":"shirak_sc","win":24,"draw":1,"loss":3,"for":101,"against":20,"isNew":true},
 	{"country":"arm","name":"Banants Kotayk","id":"FC_Urartu","win":23,"draw":2,"loss":3,"for":111,"against":21,"isNew":true},
-	{"country":"arm","name":"Homenetmen Yerevan","id":"FC_Pyunik","win":21,"draw":3,"loss":4,"for":80,"against":29,"isNew":true},
+	{"country":"arm","name":"Homenetmen Yerevan","id":"fc_pyunik","win":21,"draw":3,"loss":4,"for":80,"against":29,"isNew":true},
 	{"country":"arm","name":"Van Yerevan","id":"FC_Van_Yerevan","win":15,"draw":2,"loss":11,"for":71,"against":49,"isNew":true},
 	{"country":"arm","name":"Tsement Ararat","id":"Araks_Ararat_FC","win":12,"draw":6,"loss":10,"for":56,"against":50,"isNew":true},
 	{"country":"arm","name":"Homenmen-FIMA Yerevan","id":"Erebuni-Homenmen_FC","win":12,"draw":2,"loss":14,"for":54,"against":46,"isNew":true},

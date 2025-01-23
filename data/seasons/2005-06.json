@@ -467,7 +467,7 @@
 	{"country":"geo","name":"Tskhinvali","id":"FC_Tskhinvali","win":8,"draw":3,"loss":19,"for":30,"against":61,"isRemoved":true,"isNew":true},
 	{"country":"geo","name":"Dinamo Sukhumi","id":"FC_ASMC_Sukhumi","win":5,"draw":3,"loss":22,"for":26,"against":70,"isRemoved":true,"isNew":true},
 	{"country":"geo","name":"Spartaki Tbilisi","id":"FC_Spartaki_Tbilisi","win":3,"draw":6,"loss":21,"for":12,"against":57,"isRemoved":true,"isReturning":true},
-	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":11,"draw":6,"loss":3,"for":35,"against":15,"isChampion":true},
+	{"country":"arm","name":"Pyunik","id":"fc_pyunik","win":11,"draw":6,"loss":3,"for":35,"against":15,"isChampion":true},
 	{"country":"arm","name":"Mika Ashtarak","id":"FC_Mika","win":9,"draw":8,"loss":3,"for":30,"against":16},
 	{"country":"arm","name":"Banants","id":"FC_Urartu","win":9,"draw":6,"loss":5,"for":31,"against":27},
 	{"country":"arm","name":"Esteghlal-Kotayk","id":"FC_Kotayk","win":8,"draw":7,"loss":5,"for":22,"against":19},

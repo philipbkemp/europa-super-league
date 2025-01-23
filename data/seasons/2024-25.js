@@ -21,7 +21,7 @@ THEDATA = [
 	{"country":"and","name":"Esperança","id":"CF_Esperança_d%27Andorra","win":0,"draw":1,"loss":11,"for":3,"against":39,"isCurrentSeason":true},
 	{"country":"arm","name":"Noah","id":"FC_Noah","win":13,"draw":1,"loss":2,"for":53,"against":10,"isCurrentSeason":true},
 	{"country":"arm","name":"Urartu","id":"FC_Urartu","win":12,"draw":2,"loss":4,"for":35,"against":16,"isCurrentSeason":true},
-	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":12,"draw":1,"loss":4,"for":33,"against":13,"isCurrentSeason":true},
+	{"country":"arm","name":"Pyunik","id":"fc_pyunik","win":12,"draw":1,"loss":4,"for":33,"against":13,"isCurrentSeason":true},
 	{"country":"arm","name":"Ararat-Armenia","id":"FC_Ararat-Armenia","win":11,"draw":2,"loss":4,"for":37,"against":17,"isCurrentSeason":true},
 	{"country":"arm","name":"Van","id":"FC_Van","win":9,"draw":2,"loss":6,"for":34,"against":21,"isCurrentSeason":true},
 	{"country":"arm","name":"Shirak","id":"shirak_sc","win":7,"draw":3,"loss":7,"for":14,"against":23,"isCurrentSeason":true},

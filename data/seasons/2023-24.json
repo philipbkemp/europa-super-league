@@ -485,7 +485,7 @@
 	{"country":"geo","name":"Telavi","id":"FC_Telavi","win":10,"draw":7,"loss":19,"for":34,"against":62},
 	{"country":"geo","name":"Samtredia","id":"FC_Samtredia","win":9,"draw":6,"loss":21,"for":50,"against":62,"isReturning":true},
 	{"country":"geo","name":"Shukura Kobuleti","id":"FC_Shukura_Kobuleti","win":4,"draw":5,"loss":27,"for":38,"against":112,"isRemoved":true,"deduct":-6,"deductReason":"Violating financial rules","isReturning":true},
-	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":24,"draw":10,"loss":2,"for":84,"against":28,"isChampion":true},
+	{"country":"arm","name":"Pyunik","id":"fc_pyunik","win":24,"draw":10,"loss":2,"for":84,"against":28,"isChampion":true},
 	{"country":"arm","name":"Noah","id":"FC_Noah","win":26,"draw":2,"loss":8,"for":69,"against":33},
 	{"country":"arm","name":"Ararat-Armenia","id":"FC_Ararat-Armenia","win":23,"draw":6,"loss":7,"for":73,"against":34},
 	{"country":"arm","name":"Urartu","id":"FC_Urartu","win":13,"draw":11,"loss":12,"for":49,"against":49},

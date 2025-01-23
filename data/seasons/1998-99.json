@@ -493,7 +493,7 @@
 	{"country":"arm","name":"Yerevan","id":"FC_Yerevan","win":15,"draw":3,"loss":8,"for":47,"against":30},
 	{"country":"arm","name":"Erebuni-Homenmen","id":"Erebuni-Homenmen_FC","win":9,"draw":4,"loss":13,"for":39,"against":44},
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":10,"draw":5,"loss":11,"for":40,"against":40},
-	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":6,"draw":3,"loss":17,"for":27,"against":68,"isRemoved":true},
+	{"country":"arm","name":"Pyunik","id":"fc_pyunik","win":6,"draw":3,"loss":17,"for":27,"against":68,"isRemoved":true},
 	{"country":"arm","name":"Dvin Artashat","id":"FC_Dvin_Artashat","win":8,"draw":5,"loss":7,"for":41,"against":36},
 	{"country":"arm","name":"Karabakh Yerevan","id":"Lernayin_Artsakh_FC","win":4,"draw":5,"loss":11,"for":24,"against":37},
 	{"country":"arm","name":"Aragats","id":"Aragats_Gyumri_FC","win":0,"draw":1,"loss":19,"for":10,"against":68,"isReturning":true},

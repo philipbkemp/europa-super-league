@@ -449,7 +449,7 @@
 	{"country":"geo","name":"Guria Lanchkhuti","id":"FC_Guria_Lanchkhuti","win":3,"draw":6,"loss":23,"for":18,"against":73,"isRemoved":true,"isReturning":true},
 	{"country":"geo","name":"Gorda Rustavi","id":"FC_Metalurgi_Rustavi","win":8,"draw":8,"loss":16,"for":36,"against":48},
 	{"country":"geo","name":"Samgurali Tskhaltubo","id":"FC_Samgurali_Tsqaltubo","win":8,"draw":6,"loss":18,"for":26,"against":52,"isRemoved":true,"isReturning":true},
-	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":17,"draw":2,"loss":3,"for":77,"against":23,"isChampion":true,"isReturning":true},
+	{"country":"arm","name":"Pyunik","id":"fc_pyunik","win":17,"draw":2,"loss":3,"for":77,"against":23,"isChampion":true,"isReturning":true},
 	{"country":"arm","name":"Zvartnots-AAL","id":"Zvartnots-AAL_FC","win":16,"draw":0,"loss":6,"for":52,"against":21},
 	{"country":"arm","name":"Spartak Yerevan","id":"Spartak_Yerevan_FC","win":15,"draw":3,"loss":4,"for":57,"against":13,"isNew":true},
 	{"country":"arm","name":"Shirak","id":"shirak_sc","win":14,"draw":5,"loss":3,"for":52,"against":19},

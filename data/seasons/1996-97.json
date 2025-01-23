@@ -467,7 +467,7 @@
 	{"country":"geo","name":"Samtredia","id":"FC_Samtredia","win":9,"draw":4,"loss":17,"for":31,"against":57,"isRemoved":true,"deduct":-5},
 	{"country":"geo","name":"Kakheti Telavi","id":"FC_Kakheti_Telavi","win":10,"draw":1,"loss":19,"for":29,"against":66,"isRemoved":true,"deduct":-5},
 	{"country":"geo","name":"Iveria Khashuri","id":"FC_Iveria_Khashuri","win":5,"draw":6,"loss":19,"for":24,"against":61,"isRemoved":true},
-	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":19,"draw":2,"loss":1,"for":67,"against":9,"isChampion":true},
+	{"country":"arm","name":"Pyunik","id":"fc_pyunik","win":19,"draw":2,"loss":1,"for":67,"against":9,"isChampion":true},
 	{"country":"arm","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":17,"draw":1,"loss":4,"for":54,"against":18},
 	{"country":"arm","name":"Yerevan","id":"FC_Yerevan","win":16,"draw":2,"loss":4,"for":58,"against":24},
 	{"country":"arm","name":"Shirak","id":"shirak_sc","win":15,"draw":2,"loss":5,"for":57,"against":11},

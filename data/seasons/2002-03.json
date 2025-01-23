@@ -450,7 +450,7 @@
 	{"country":"geo","name":"Metalurgi Zestafoni","id":"FC_Zestaponi","win":6,"draw":1,"loss":25,"for":17,"against":79,"isRemoved":true},
 	{"country":"geo","name":"Gorda Rustavi","id":"FC_Metalurgi_Rustavi","win":9,"draw":4,"loss":19,"for":30,"against":48,"isRemoved":true},
 	{"country":"geo","name":"Milani Tsnori","id":"FC_Milani_Tsnori","win":6,"draw":8,"loss":18,"for":18,"against":54,"isRemoved":true,"isNew":true},
-	{"country":"arm","name":"Pyunik","id":"FC_Pyunik","win":19,"draw":2,"loss":1,"for":85,"against":14,"isChampion":true},
+	{"country":"arm","name":"Pyunik","id":"fc_pyunik","win":19,"draw":2,"loss":1,"for":85,"against":14,"isChampion":true},
 	{"country":"arm","name":"Shirak","id":"shirak_sc","win":16,"draw":3,"loss":3,"for":49,"against":15},
 	{"country":"arm","name":"Banants","id":"FC_Urartu","win":16,"draw":2,"loss":4,"for":43,"against":15},
 	{"country":"arm","name":"Spartak Yerevan","id":"Spartak_Yerevan_FC","win":15,"draw":4,"loss":3,"for":58,"against":16,"isRemoved":true},
