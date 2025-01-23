@@ -484,7 +484,7 @@
 	{"country":"sov","name":"Kairat Alma-Ata","id":"FC_Kairat","win":10,"draw":12,"loss":12,"for":42,"against":46},
 	{"country":"sov","name":"Kuban Krasnodar","id":"FC_Kuban_Krasnodar","win":11,"draw":7,"loss":16,"for":42,"against":54},
 	{"country":"sov","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":10,"draw":9,"loss":15,"for":44,"against":50},
-	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":9,"draw":10,"loss":15,"for":33,"against":43},
+	{"country":"sov","name":"Zenit Leningrad","id":"fc_zenit_saint_petersburg","win":9,"draw":10,"loss":15,"for":33,"against":43},
 	{"country":"sov","name":"SKA Rostov-on-Don","id":"FC_SKA_Rostov-on-Don","win":8,"draw":10,"loss":16,"for":39,"against":58,"isRemoved":true},
 	{"country":"sov","name":"Tavria Simferopol","id":"SC_Tavriya_Simferopol","win":8,"draw":7,"loss":19,"for":27,"against":54,"isRemoved":true,"isNew":true},
 	{"country":"sov","name":"Pakhtakor Tashkent","id":"Pakhtakor_FC","win":7,"draw":5,"loss":22,"for":34,"against":58},

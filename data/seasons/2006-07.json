@@ -564,7 +564,7 @@
 	{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":17,"draw":7,"loss":6,"for":47,"against":28,"isChampion":true},
 	{"country":"rus","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":15,"draw":13,"loss":2,"for":60,"against":36},
 	{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":15,"draw":8,"loss":7,"for":47,"against":34},
-	{"country":"rus","name":"Zenit St. Petersburg","id":"FC_Zenit_Saint_Petersburg","win":13,"draw":11,"loss":6,"for":42,"against":30},
+	{"country":"rus","name":"Zenit St. Petersburg","id":"fc_zenit_saint_petersburg","win":13,"draw":11,"loss":6,"for":42,"against":30},
 	{"country":"rus","name":"Rubin Kazan","id":"FC_Rubin_Kazan","win":14,"draw":7,"loss":9,"for":45,"against":35},
 	{"country":"rus","name":"FC Moscow","id":"FC_Moscow","win":10,"draw":13,"loss":7,"for":41,"against":37},
 	{"country":"rus","name":"Luch-Energiya Vladivostok","id":"FC_Luch_Vladivostok","win":12,"draw":5,"loss":13,"for":37,"against":39,"isReturning":true},

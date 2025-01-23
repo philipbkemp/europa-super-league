@@ -547,7 +547,7 @@
 	{"country":"mda","name":"Unisport-Auto Chișinău","id":"FC_Unisport-Auto_Chișinău","win":6,"draw":5,"loss":17,"for":29,"against":52,"isReturning":true},
 	{"country":"mda","name":"Agro Chișinău","id":"FC_Agro-Goliador_Chișinău","win":1,"draw":2,"loss":25,"for":14,"against":66,"isRemoved":true},
 	{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":17,"draw":8,"loss":5,"for":56,"against":32,"isChampion":true},
-	{"country":"rus","name":"Zenit St. Petersburg","id":"FC_Zenit_Saint_Petersburg","win":16,"draw":8,"loss":6,"for":48,"against":32},
+	{"country":"rus","name":"Zenit St. Petersburg","id":"fc_zenit_saint_petersburg","win":16,"draw":8,"loss":6,"for":48,"against":32},
 	{"country":"rus","name":"Rubin Kazan","id":"FC_Rubin_Kazan","win":15,"draw":8,"loss":7,"for":44,"against":29,"isNew":true},
 	{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":15,"draw":7,"loss":8,"for":54,"against":33},
 	{"country":"rus","name":"Shinnik Yaroslavl","id":"FC_Shinnik_Yaroslavl","win":12,"draw":11,"loss":7,"for":43,"against":34},

@@ -530,7 +530,7 @@
 	{"country":"mda","name":"Ungheni","id":"FC_Ungheni","win":4,"draw":5,"loss":21,"for":19,"against":79,"isRemoved":true,"isNew":true},
 	{"country":"rus","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":22,"draw":3,"loss":5,"for":46,"against":27,"isChampion":true},
 	{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":18,"draw":8,"loss":4,"for":47,"against":15},
-	{"country":"rus","name":"Zenit Saint Petersburg","id":"FC_Zenit_Saint_Petersburg","win":18,"draw":7,"loss":5,"for":50,"against":19},
+	{"country":"rus","name":"Zenit Saint Petersburg","id":"fc_zenit_saint_petersburg","win":18,"draw":7,"loss":5,"for":50,"against":19},
 	{"country":"rus","name":"Krasnodar","id":"FC_Krasnodar","win":12,"draw":13,"loss":5,"for":40,"against":22},
 	{"country":"rus","name":"Terek Grozny","id":"FC_Akhmat_Grozny","win":14,"draw":6,"loss":10,"for":38,"against":35},
 	{"country":"rus","name":"Rostov","id":"FC_Rostov","win":13,"draw":9,"loss":8,"for":36,"against":18},

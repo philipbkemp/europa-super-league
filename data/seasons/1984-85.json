@@ -469,7 +469,7 @@
 	{"country":"nor","name":"Moss","id":"Moss_FK","win":4,"draw":9,"loss":9,"for":26,"against":30},
 	{"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":5,"draw":7,"loss":10,"for":23,"against":35,"isRemoved":true,"isReturning":true},
 	{"country":"nor","name":"Strindheim","id":"Strindheim_IL","win":5,"draw":5,"loss":12,"for":18,"against":37,"isRemoved":true,"isNew":true},
-	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":19,"draw":9,"loss":6,"for":60,"against":32,"isChampion":true},
+	{"country":"sov","name":"Zenit Leningrad","id":"fc_zenit_saint_petersburg","win":19,"draw":9,"loss":6,"for":60,"against":32,"isChampion":true},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":18,"draw":9,"loss":7,"for":53,"against":29},
 	{"country":"sov","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":17,"draw":8,"loss":9,"for":54,"against":40},
 	{"country":"sov","name":"Chornomorets Odessa","id":"FC_Chornomorets_Odesa","win":16,"draw":9,"loss":9,"for":49,"against":38},

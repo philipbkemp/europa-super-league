@@ -571,7 +571,7 @@
 	{"country":"rus","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":12,"draw":8,"loss":10,"for":44,"against":41},
 	{"country":"rus","name":"Alania Vladikavkaz","id":"FC_Spartak_Vladikavkaz","win":12,"draw":7,"loss":11,"for":54,"against":45},
 	{"country":"rus","name":"Rostselmash","id":"FC_Rostov","win":11,"draw":8,"loss":11,"for":32,"against":37},
-	{"country":"rus","name":"Zenit St. Petersburg","id":"FC_Zenit_Saint_Petersburg","win":9,"draw":12,"loss":9,"for":36,"against":34},
+	{"country":"rus","name":"Zenit St. Petersburg","id":"fc_zenit_saint_petersburg","win":9,"draw":12,"loss":9,"for":36,"against":34},
 	{"country":"rus","name":"Uralan Elista","id":"FC_Elista","win":10,"draw":6,"loss":14,"for":27,"against":34},
 	{"country":"rus","name":"Saturn","id":"FC_Leon_Saturn_Ramenskoye","win":8,"draw":10,"loss":12,"for":30,"against":38,"isNew":true},
 	{"country":"rus","name":"Lokomotiv N.N.","id":"FC_Lokomotiv_Nizhny_Novgorod","win":9,"draw":6,"loss":15,"for":33,"against":48,"isReturning":true},

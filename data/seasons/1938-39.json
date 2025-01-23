@@ -299,7 +299,7 @@
 	{"country":"sov","name":"Temp Baku","id":"Stroitel_Baku","win":6,"draw":8,"loss":11,"for":33,"against":40,"isRemoved":true,"isNew":true},
 	{"country":"sov","name":"Spartak Leningrad","id":"FC_Spartak_Leningrad","win":6,"draw":8,"loss":11,"for":30,"against":39,"isRemoved":true,"isNew":true},
 	{"country":"sov","name":"Spartak Kharkiv","id":"FC_Spartak_Kharkiv","win":5,"draw":7,"loss":13,"for":43,"against":63,"isRemoved":true,"isNew":true},
-	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":7,"draw":3,"loss":15,"for":35,"against":57,"isNew":true},
+	{"country":"sov","name":"Zenit Leningrad","id":"fc_zenit_saint_petersburg","win":7,"draw":3,"loss":15,"for":35,"against":57,"isNew":true},
 	{"country":"sov","name":"Pishchevik Moscow","id":"FC_Pishchevik_Moscow","win":5,"draw":6,"loss":14,"for":25,"against":53,"isRemoved":true,"isNew":true},
 	{"country":"sov","name":"Lokomotiv Tbilisi","id":"FC_Locomotive_Tbilisi","win":5,"draw":5,"loss":15,"for":44,"against":62,"isRemoved":true,"isNew":true},
 	{"country":"sov","name":"Krylia Sovetov Moscow","id":"FC_Krylia_Sovetov_Moscow","win":4,"draw":7,"loss":14,"for":28,"against":56,"isRemoved":true,"isNew":true},

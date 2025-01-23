@@ -471,7 +471,7 @@
 	{"country":"sov","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":5,"draw":18,"loss":7,"for":30,"against":35,"isNew":true},
 	{"country":"sov","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":8,"draw":12,"loss":10,"for":36,"against":43},
 	{"country":"sov","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":7,"draw":12,"loss":11,"for":34,"against":36},
-	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":8,"draw":10,"loss":12,"for":29,"against":32},
+	{"country":"sov","name":"Zenit Leningrad","id":"fc_zenit_saint_petersburg","win":8,"draw":10,"loss":12,"for":29,"against":32},
 	{"country":"sov","name":"SKA Rostov-on-Don","id":"FC_SKA_Rostov-on-Don","win":9,"draw":8,"loss":13,"for":35,"against":43},
 	{"country":"sov","name":"Pakhtakor Tashkent","id":"Pakhtakor_FC","win":8,"draw":10,"loss":12,"for":29,"against":46,"isRemoved":true},
 	{"country":"sov","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":10,"draw":4,"loss":16,"for":31,"against":37,"isRemoved":true},

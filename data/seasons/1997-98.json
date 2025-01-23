@@ -585,7 +585,7 @@
 	{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":15,"draw":9,"loss":10,"for":47,"against":37},
 	{"country":"rus","name":"Chernomorets Novorossiysk","id":"FC_Chernomorets_Novorossiysk","win":13,"draw":14,"loss":7,"for":40,"against":26},
 	{"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":14,"draw":7,"loss":13,"for":32,"against":30},
-	{"country":"rus","name":"Zenit St. Petersburg","id":"FC_Zenit_Saint_Petersburg","win":13,"draw":10,"loss":11,"for":28,"against":29},
+	{"country":"rus","name":"Zenit St. Petersburg","id":"fc_zenit_saint_petersburg","win":13,"draw":10,"loss":11,"for":28,"against":29},
 	{"country":"rus","name":"Baltika Kaliningrad","id":"FC_Baltika_Kaliningrad","win":11,"draw":16,"loss":7,"for":38,"against":33},
 	{"country":"rus","name":"Alania Vladikavkaz","id":"FC_Spartak_Vladikavkaz","win":14,"draw":4,"loss":16,"for":52,"against":42},
 	{"country":"rus","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":13,"draw":6,"loss":15,"for":50,"against":46},

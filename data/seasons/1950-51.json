@@ -351,7 +351,7 @@
 	{"country":"sov","name":"Dynamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":20,"draw":7,"loss":9,"for":78,"against":50},
 	{"country":"sov","name":"VVS Moscow","id":"VVS_Moscow","win":20,"draw":5,"loss":11,"for":78,"against":52},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":17,"draw":10,"loss":9,"for":77,"against":40},
-	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":19,"draw":5,"loss":12,"for":70,"against":59},
+	{"country":"sov","name":"Zenit Leningrad","id":"fc_zenit_saint_petersburg","win":19,"draw":5,"loss":12,"for":70,"against":59},
 	{"country":"sov","name":"Krylia Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":15,"draw":10,"loss":11,"for":44,"against":44},
 	{"country":"sov","name":"Dynamo Leningrad","id":"FC_Dynamo_Saint_Petersburg","win":14,"draw":10,"loss":12,"for":63,"against":50},
 	{"country":"sov","name":"Spartak Tbilisi","id":"FC_Spartaki_Tbilisi","win":14,"draw":9,"loss":13,"for":50,"against":53,"isNew":true},

@@ -469,7 +469,7 @@
 	{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":5,"draw":2,"loss":15,"for":13,"against":43,"isRemoved":true},
 	{"country":"sov","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":21,"draw":9,"loss":4,"for":63,"against":23,"isChampion":true},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":18,"draw":9,"loss":7,"for":49,"against":26},
-	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":16,"draw":10,"loss":8,"for":51,"against":42},
+	{"country":"sov","name":"Zenit Leningrad","id":"fc_zenit_saint_petersburg","win":16,"draw":10,"loss":8,"for":51,"against":42},
 	{"country":"sov","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":16,"draw":7,"loss":11,"for":51,"against":32},
 	{"country":"sov","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":13,"draw":12,"loss":9,"for":36,"against":32},
 	{"country":"sov","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":13,"draw":9,"loss":12,"for":45,"against":40},

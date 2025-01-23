@@ -464,7 +464,7 @@
 	{"country":"sov","name":"Chornomorets Odessa","id":"FC_Chornomorets_Odesa","win":12,"draw":10,"loss":8,"for":41,"against":26},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":11,"draw":11,"loss":8,"for":36,"against":29},
 	{"country":"sov","name":"Zaria Voroshilovgrad","id":"FC_Zorya_Luhansk","win":9,"draw":8,"loss":13,"for":38,"against":44},
-	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":9,"draw":8,"loss":13,"for":31,"against":46},
+	{"country":"sov","name":"Zenit Leningrad","id":"fc_zenit_saint_petersburg","win":9,"draw":8,"loss":13,"for":31,"against":46},
 	{"country":"sov","name":"Pakhtakor Tashkent","id":"Pakhtakor_FC","win":9,"draw":8,"loss":13,"for":42,"against":43,"isReturning":true},
 	{"country":"sov","name":"Kairat Alma-Ata","id":"FC_Kairat","win":9,"draw":7,"loss":14,"for":29,"against":41},
 	{"country":"sov","name":"Neftchi Baku","id":"neftci_pfk","win":8,"draw":7,"loss":15,"for":28,"against":39},

@@ -452,7 +452,7 @@
 	{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":7,"draw":12,"loss":11,"for":28,"against":33,"isReturning":true,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
 	{"country":"sov","name":"Chornomorets Odessa","id":"FC_Chornomorets_Odesa","win":8,"draw":10,"loss":12,"for":27,"against":35,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
 	{"country":"sov","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":6,"draw":13,"loss":11,"for":29,"against":36,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
-	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":7,"draw":10,"loss":13,"for":27,"against":42,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
+	{"country":"sov","name":"Zenit Leningrad","id":"fc_zenit_saint_petersburg","win":7,"draw":10,"loss":13,"for":27,"against":42,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
 	{"country":"sov","name":"Pakhtakor Tashkent","id":"Pakhtakor_FC","win":8,"draw":7,"loss":15,"for":31,"against":44,"isRemoved":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
 	{"country":"sov","name":"SKA Rostov-on-Don","id":"FC_SKA_Rostov-on-Don","win":4,"draw":8,"loss":18,"for":23,"against":50,"isRemoved":true,"isReturning":true,"removedNote":"Next season saw the league split into Spring and Autumn mini-seasons"},
 	{"country":"fro","name":"Havnar Bóltfelag","id":"havnar_boltfelag","win":10,"draw":0,"loss":0,"for":29,"against":6,"isChampion":true},

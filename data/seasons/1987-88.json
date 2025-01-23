@@ -480,7 +480,7 @@
 	{"country":"sov","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":10,"draw":7,"loss":13,"for":23,"against":32},
 	{"country":"sov","name":"Kairat Alma-Ata","id":"FC_Kairat","win":10,"draw":6,"loss":14,"for":27,"against":38},
 	{"country":"sov","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":9,"draw":7,"loss":14,"for":31,"against":40},
-	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":7,"draw":10,"loss":13,"for":25,"against":37},
+	{"country":"sov","name":"Zenit Leningrad","id":"fc_zenit_saint_petersburg","win":7,"draw":10,"loss":13,"for":25,"against":37},
 	{"country":"sov","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":7,"draw":11,"loss":12,"for":26,"against":35,"isRemoved":true,"isReturning":true},
 	{"country":"sov","name":"Guria Lanchkhuti","id":"FC_Guria_Lanchkhuti","win":5,"draw":8,"loss":17,"for":18,"against":38,"isRemoved":true,"isNew":true},
 	{"country":"fro","name":"TB Tvøroyri","id":"tvoroyrar_boltfelag","win":7,"draw":4,"loss":3,"for":26,"against":16,"isChampion":true},

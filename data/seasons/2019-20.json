@@ -538,7 +538,7 @@
 	{"country":"mda","name":"Speranța Nisporeni","id":"Speranța_Nisporeni","win":8,"draw":11,"loss":9,"for":29,"against":34},
 	{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":3,"draw":7,"loss":18,"for":16,"against":43},
 	{"country":"mda","name":"Codru Lozova","id":"FC_Codru_Lozova","win":0,"draw":5,"loss":23,"for":8,"against":55,"isNew":true},
-	{"country":"rus","name":"Zenit Saint Petersburg","id":"FC_Zenit_Saint_Petersburg","win":22,"draw":6,"loss":2,"for":65,"against":18,"isChampion":true},
+	{"country":"rus","name":"Zenit Saint Petersburg","id":"fc_zenit_saint_petersburg","win":22,"draw":6,"loss":2,"for":65,"against":18,"isChampion":true},
 	{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":16,"draw":9,"loss":5,"for":41,"against":29},
 	{"country":"rus","name":"Krasnodar","id":"FC_Krasnodar","win":14,"draw":10,"loss":6,"for":49,"against":30},
 	{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":14,"draw":8,"loss":8,"for":43,"against":29},

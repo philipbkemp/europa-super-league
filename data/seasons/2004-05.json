@@ -555,7 +555,7 @@
 	{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":18,"draw":7,"loss":5,"for":44,"against":19,"isChampion":true},
 	{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":17,"draw":9,"loss":4,"for":53,"against":22},
 	{"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":17,"draw":5,"loss":8,"for":50,"against":41},
-	{"country":"rus","name":"Zenit St. Petersburg","id":"FC_Zenit_Saint_Petersburg","win":17,"draw":5,"loss":8,"for":55,"against":37},
+	{"country":"rus","name":"Zenit St. Petersburg","id":"fc_zenit_saint_petersburg","win":17,"draw":5,"loss":8,"for":55,"against":37},
 	{"country":"rus","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":16,"draw":6,"loss":8,"for":53,"against":37},
 	{"country":"rus","name":"Shinnik Yaroslavl","id":"FC_Shinnik_Yaroslavl","win":12,"draw":8,"loss":10,"for":29,"against":29},
 	{"country":"rus","name":"Saturn","id":"FC_Leon_Saturn_Ramenskoye","win":10,"draw":11,"loss":9,"for":37,"against":30},

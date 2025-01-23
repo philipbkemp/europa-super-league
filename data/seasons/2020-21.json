@@ -565,7 +565,7 @@
 	{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":6,"draw":7,"loss":23,"for":39,"against":63},
 	{"country":"mda","name":"Speranța Nisporeni","id":"Speranța_Nisporeni","win":5,"draw":8,"loss":23,"for":29,"against":87,"isRemoved":true,"removedNote":"Expelled for failing to attend fixtures"},
 	{"country":"mda","name":"Codru Lozova","id":"FC_Codru_Lozova","win":2,"draw":3,"loss":31,"for":26,"against":119,"isRemoved":true},
-	{"country":"rus","name":"Zenit Saint Petersburg","id":"FC_Zenit_Saint_Petersburg","win":19,"draw":8,"loss":3,"for":76,"against":26,"isChampion":true},
+	{"country":"rus","name":"Zenit Saint Petersburg","id":"fc_zenit_saint_petersburg","win":19,"draw":8,"loss":3,"for":76,"against":26,"isChampion":true},
 	{"country":"rus","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":17,"draw":6,"loss":7,"for":56,"against":37},
 	{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":17,"draw":5,"loss":8,"for":45,"against":35},
 	{"country":"rus","name":"Rubin Kazan","id":"FC_Rubin_Kazan","win":16,"draw":5,"loss":9,"for":42,"against":33},

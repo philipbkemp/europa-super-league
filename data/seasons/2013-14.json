@@ -553,7 +553,7 @@
 	{"country":"mda","name":"Olimpia Bălți","id":"FC_Bălți","win":5,"draw":3,"loss":25,"for":26,"against":77},
 	{"country":"mda","name":"Speranța Crihana Veche","id":"FC_Speranța_Crihana_Veche","win":4,"draw":2,"loss":27,"for":20,"against":91,"isRemoved":true,"deduct":-3},
 	{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":20,"draw":4,"loss":6,"for":49,"against":26,"isChampion":true},
-	{"country":"rus","name":"Zenit St. Petersburg","id":"FC_Zenit_Saint_Petersburg","win":19,"draw":6,"loss":5,"for":63,"against":32},
+	{"country":"rus","name":"Zenit St. Petersburg","id":"fc_zenit_saint_petersburg","win":19,"draw":6,"loss":5,"for":63,"against":32},
 	{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":17,"draw":8,"loss":5,"for":51,"against":23},
 	{"country":"rus","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":15,"draw":7,"loss":8,"for":54,"against":37},
 	{"country":"rus","name":"Krasnodar","id":"FC_Krasnodar","win":15,"draw":5,"loss":10,"for":46,"against":39},

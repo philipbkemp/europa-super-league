@@ -562,7 +562,7 @@
 	{"country":"mda","name":"Sfîntul Gheorghe","id":"FC_Sfîntul_Gheorghe","win":6,"draw":7,"loss":26,"for":30,"against":83},
 	{"country":"mda","name":"Gagauziya Comrat","id":"CF_Univer_Comrat","win":7,"draw":2,"loss":30,"for":38,"against":89,"isRemoved":true,"isNew":true},
 	{"country":"mda","name":"Dinamo Bendery","id":"FC_Tighina","win":6,"draw":4,"loss":29,"for":25,"against":118,"isRemoved":true},
-	{"country":"rus","name":"Zenit St. Petersburg","id":"FC_Zenit_Saint_Petersburg","win":20,"draw":8,"loss":2,"for":61,"against":21,"isChampion":true},
+	{"country":"rus","name":"Zenit St. Petersburg","id":"fc_zenit_saint_petersburg","win":20,"draw":8,"loss":2,"for":61,"against":21,"isChampion":true},
 	{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":18,"draw":8,"loss":4,"for":51,"against":22},
 	{"country":"rus","name":"Rubin Kazan","id":"FC_Rubin_Kazan","win":15,"draw":13,"loss":2,"for":37,"against":16},
 	{"country":"rus","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":13,"draw":10,"loss":7,"for":43,"against":33},

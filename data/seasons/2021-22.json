@@ -563,7 +563,7 @@
 	{"country":"mda","name":"Dinamo-Auto","id":"FC_Dinamo-Auto_Tiraspol","win":9,"draw":5,"loss":14,"for":35,"against":72},
 	{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":7,"draw":6,"loss":15,"for":32,"against":46},
 	{"country":"mda","name":"Florești","id":"FC_Florești","win":0,"draw":0,"loss":28,"for":12,"against":88,"isRemoved":true,"deduct":-6,"deductReason":"Alleged match-fixing"},
-	{"country":"rus","name":"Zenit Saint Petersburg","id":"FC_Zenit_Saint_Petersburg","win":19,"draw":8,"loss":3,"for":66,"against":28,"isChampion":true},
+	{"country":"rus","name":"Zenit Saint Petersburg","id":"fc_zenit_saint_petersburg","win":19,"draw":8,"loss":3,"for":66,"against":28,"isChampion":true},
 	{"country":"rus","name":"Sochi","id":"PFC_Sochi","win":17,"draw":5,"loss":8,"for":54,"against":30},
 	{"country":"rus","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":16,"draw":5,"loss":9,"for":53,"against":41},
 	{"country":"rus","name":"Krasnodar","id":"FC_Krasnodar","win":14,"draw":8,"loss":8,"for":42,"against":30},

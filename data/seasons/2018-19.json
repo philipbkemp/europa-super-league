@@ -538,7 +538,7 @@
 	{"country":"mda","name":"Dinamo-Auto","id":"FC_Dinamo-Auto_Tiraspol","win":7,"draw":7,"loss":14,"for":25,"against":43},
 	{"country":"mda","name":"Sfîntul Gheorghe","id":"FC_Sfîntul_Gheorghe","win":6,"draw":8,"loss":14,"for":30,"against":50},
 	{"country":"mda","name":"Zaria Bălți","id":"FC_Bălți","win":4,"draw":10,"loss":14,"for":26,"against":46,"isRemoved":true},
-	{"country":"rus","name":"Zenit Saint Petersburg","id":"FC_Zenit_Saint_Petersburg","win":20,"draw":4,"loss":6,"for":57,"against":29,"isChampion":true},
+	{"country":"rus","name":"Zenit Saint Petersburg","id":"fc_zenit_saint_petersburg","win":20,"draw":4,"loss":6,"for":57,"against":29,"isChampion":true},
 	{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":16,"draw":8,"loss":6,"for":45,"against":28},
 	{"country":"rus","name":"Krasnodar","id":"FC_Krasnodar","win":16,"draw":8,"loss":6,"for":55,"against":23},
 	{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":14,"draw":9,"loss":7,"for":46,"against":23},

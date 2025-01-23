@@ -561,7 +561,7 @@
 	{"country":"mda","name":"Speranţa Crihana Veche","id":"FC_Speranța_Crihana_Veche","win":4,"draw":7,"loss":22,"for":35,"against":70,"isNew":true},
 	{"country":"mda","name":"Nistru Otaci","id":"FC_Nistru_Otaci","win":2,"draw":6,"loss":25,"for":21,"against":83,"isRemoved":true},
 	{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":20,"draw":4,"loss":6,"for":49,"against":25,"isChampion":true},
-	{"country":"rus","name":"Zenit St. Petersburg","id":"FC_Zenit_Saint_Petersburg","win":18,"draw":8,"loss":4,"for":53,"against":25},
+	{"country":"rus","name":"Zenit St. Petersburg","id":"fc_zenit_saint_petersburg","win":18,"draw":8,"loss":4,"for":53,"against":25},
 	{"country":"rus","name":"Anzhi Makhachkala","id":"FC_Anzhi_Makhachkala","win":15,"draw":8,"loss":7,"for":45,"against":34},
 	{"country":"rus","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":15,"draw":6,"loss":9,"for":51,"against":39},
 	{"country":"rus","name":"Kuban Krasnodar","id":"FC_Kuban_Krasnodar","win":14,"draw":9,"loss":7,"for":48,"against":28},

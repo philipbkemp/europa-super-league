@@ -562,7 +562,7 @@
 	{"country":"mda","name":"Nistru Otaci","id":"FC_Nistru_Otaci","win":2,"draw":5,"loss":26,"for":13,"against":74},
 	{"country":"rus","name":"Rubin Kazan","id":"FC_Rubin_Kazan","win":19,"draw":6,"loss":5,"for":62,"against":21,"isChampion":true},
 	{"country":"rus","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":17,"draw":4,"loss":9,"for":61,"against":33},
-	{"country":"rus","name":"Zenit St. Petersburg","id":"FC_Zenit_Saint_Petersburg","win":15,"draw":9,"loss":6,"for":48,"against":27},
+	{"country":"rus","name":"Zenit St. Petersburg","id":"fc_zenit_saint_petersburg","win":15,"draw":9,"loss":6,"for":48,"against":27},
 	{"country":"rus","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":15,"draw":9,"loss":6,"for":43,"against":30},
 	{"country":"rus","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":16,"draw":4,"loss":10,"for":48,"against":30},
 	{"country":"rus","name":"FC Moscow","id":"FC_Moscow","win":13,"draw":9,"loss":8,"for":39,"against":28,"isRemoved":true,"removedNote":"Expelled"},

@@ -475,7 +475,7 @@
 	{"country":"sov","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":16,"draw":9,"loss":9,"for":51,"against":47},
 	{"country":"sov","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":14,"draw":10,"loss":10,"for":50,"against":47},
 	{"country":"sov","name":"Pakhtakor Tashkent","id":"Pakhtakor_FC","win":13,"draw":11,"loss":10,"for":42,"against":38},
-	{"country":"sov","name":"Zenit Leningrad","id":"FC_Zenit_Saint_Petersburg","win":12,"draw":9,"loss":13,"for":44,"against":41},
+	{"country":"sov","name":"Zenit Leningrad","id":"fc_zenit_saint_petersburg","win":12,"draw":9,"loss":13,"for":44,"against":41},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":11,"draw":12,"loss":11,"for":36,"against":33},
 	{"country":"sov","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":11,"draw":12,"loss":11,"for":34,"against":38},
 	{"country":"sov","name":"Chornomorets Odessa","id":"FC_Chornomorets_Odesa","win":11,"draw":11,"loss":12,"for":30,"against":36},
