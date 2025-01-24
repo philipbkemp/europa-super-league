@@ -556,7 +556,7 @@
 	{"country":"rus","name":"Orenburg","id":"FC_Orenburg","win":7,"draw":6,"loss":17,"for":28,"against":52,"isRemoved":true},
 	{"country":"svn","name":"Celje","id":"NK_Celje","win":19,"draw":12,"loss":5,"for":74,"against":36,"isChampion":true},
 	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":20,"draw":7,"loss":9,"for":66,"against":39},
-	{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana","win":20,"draw":7,"loss":9,"for":73,"against":44},
+	{"country":"svn","name":"Olimpija","id":"nk_olimpija_ljubljana","win":20,"draw":7,"loss":9,"for":73,"against":44},
 	{"country":"svn","name":"Mura","id":"NŠ_Mura","win":14,"draw":14,"loss":8,"for":54,"against":42},
 	{"country":"svn","name":"Aluminij","id":"NK_Aluminij","win":16,"draw":7,"loss":13,"for":58,"against":48},
 	{"country":"svn","name":"Bravo","id":"NK_Bravo","win":13,"draw":10,"loss":13,"for":50,"against":53,"isNew":true},

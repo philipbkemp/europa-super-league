@@ -125,6 +125,8 @@ clubPages = ["linfield_fc","rangers_fc","budapesti_tc","floriana_fc","colentina_
 	,"fc_zenit_saint_petersburg"
 	/*svk*/
 	,"sk_slovan_bratislava"
+	/*svn*/
+	,"nk_olimpija_ljubljana"
 	/*tur*/
 	,"besiktas_jk","galatasaray_sk","fenerbahce_sk"
 

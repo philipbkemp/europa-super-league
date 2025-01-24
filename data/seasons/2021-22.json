@@ -581,7 +581,7 @@
 	{"country":"rus","name":"Arsenal Tula","id":"FC_Arsenal_Tula","win":5,"draw":8,"loss":17,"for":30,"against":59,"isRemoved":true},
 	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":21,"draw":7,"loss":8,"for":57,"against":37,"isChampion":true},
 	{"country":"svn","name":"Koper","id":"FC_Koper","win":19,"draw":10,"loss":7,"for":54,"against":38},
-	{"country":"svn","name":"Olimpija Ljubljana","id":"NK_Olimpija_Ljubljana","win":18,"draw":8,"loss":10,"for":53,"against":38},
+	{"country":"svn","name":"Olimpija Ljubljana","id":"nk_olimpija_ljubljana","win":18,"draw":8,"loss":10,"for":53,"against":38},
 	{"country":"svn","name":"Mura","id":"NŠ_Mura","win":15,"draw":12,"loss":9,"for":57,"against":50},
 	{"country":"svn","name":"Bravo","id":"NK_Bravo","win":13,"draw":10,"loss":13,"for":33,"against":33},
 	{"country":"svn","name":"Radomlje","id":"NK_Radomlje","win":12,"draw":10,"loss":14,"for":47,"against":52,"isReturning":true},

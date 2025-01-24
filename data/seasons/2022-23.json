@@ -587,7 +587,7 @@
 	{"country":"rus","name":"Fakel Voronezh","id":"FC_Fakel_Voronezh","win":6,"draw":12,"loss":12,"for":36,"against":48,"isReturning":true},
 	{"country":"rus","name":"Khimki","id":"FC_Khimki","win":4,"draw":6,"loss":20,"for":25,"against":67,"isRemoved":true},
 	{"country":"rus","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":3,"draw":4,"loss":23,"for":22,"against":61,"isRemoved":true,"isReturning":true},
-	{"country":"svn","name":"Olimpija Ljubljana","id":"NK_Olimpija_Ljubljana","win":23,"draw":4,"loss":9,"for":60,"against":39,"isChampion":true},
+	{"country":"svn","name":"Olimpija Ljubljana","id":"nk_olimpija_ljubljana","win":23,"draw":4,"loss":9,"for":60,"against":39,"isChampion":true},
 	{"country":"svn","name":"Celje","id":"NK_Celje","win":19,"draw":10,"loss":7,"for":53,"against":34},
 	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":18,"draw":8,"loss":10,"for":70,"against":43},
 	{"country":"svn","name":"Domžale","id":"NK_Domžale","win":13,"draw":13,"loss":10,"for":50,"against":42},

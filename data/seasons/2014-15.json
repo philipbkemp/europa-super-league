@@ -571,7 +571,7 @@
 	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":24,"draw":7,"loss":5,"for":74,"against":32,"isChampion":true},
 	{"country":"svn","name":"Celje","id":"NK_Celje","win":20,"draw":10,"loss":6,"for":58,"against":31},
 	{"country":"svn","name":"Domžale","id":"NK_Domžale","win":21,"draw":5,"loss":10,"for":52,"against":22},
-	{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana","win":17,"draw":10,"loss":9,"for":55,"against":32},
+	{"country":"svn","name":"Olimpija","id":"nk_olimpija_ljubljana","win":17,"draw":10,"loss":9,"for":55,"against":32},
 	{"country":"svn","name":"Zavrč","id":"NK_Zavrč","win":15,"draw":4,"loss":17,"for":38,"against":52},
 	{"country":"svn","name":"Rudar","id":"NK_Rudar_Velenje","win":12,"draw":10,"loss":14,"for":44,"against":43},
 	{"country":"svn","name":"Krka","id":"NK_Krka","win":11,"draw":7,"loss":18,"for":38,"against":54},

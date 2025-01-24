@@ -588,7 +588,7 @@
 	{"country":"rus","name":"Sochi","id":"PFC_Sochi","win":5,"draw":9,"loss":16,"for":37,"against":48,"isRemoved":true},
 	{"country":"svn","name":"Celje","id":"NK_Celje","win":24,"draw":7,"loss":5,"for":75,"against":34,"isChampion":true},
 	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":19,"draw":10,"loss":7,"for":67,"against":35},
-	{"country":"svn","name":"Olimpija Ljubljana","id":"NK_Olimpija_Ljubljana","win":18,"draw":10,"loss":8,"for":69,"against":44},
+	{"country":"svn","name":"Olimpija Ljubljana","id":"nk_olimpija_ljubljana","win":18,"draw":10,"loss":8,"for":69,"against":44},
 	{"country":"svn","name":"Bravo","id":"NK_Bravo","win":12,"draw":14,"loss":10,"for":42,"against":42},
 	{"country":"svn","name":"Koper","id":"FC_Koper","win":12,"draw":12,"loss":12,"for":51,"against":49},
 	{"country":"svn","name":"Mura","id":"NŠ_Mura","win":11,"draw":10,"loss":15,"for":42,"against":55},
