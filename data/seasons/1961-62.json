@@ -433,7 +433,7 @@
 	{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":10,"draw":3,"loss":9,"for":31,"against":35},
 	{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":8,"draw":6,"loss":8,"for":34,"against":27},
 	{"country":"isr","name":"Shimshon Tel Aviv","id":"Shimshon_Tel_Aviv_F.C.","win":8,"draw":6,"loss":8,"for":24,"against":28},
-	{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":5,"draw":7,"loss":10,"for":22,"against":34},
+	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":5,"draw":7,"loss":10,"for":22,"against":34},
 	{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":5,"draw":6,"loss":11,"for":14,"against":30},
 	{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":4,"draw":5,"loss":13,"for":23,"against":41,"isRemoved":true}
 ]

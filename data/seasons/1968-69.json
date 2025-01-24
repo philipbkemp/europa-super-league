@@ -498,7 +498,7 @@
 	{"country":"ede","name":"1. FC Union Berlin","id":"1._FC_Union_Berlin","win":6,"draw":8,"loss":12,"for":29,"against":41,"isRemoved":true},
 	{"country":"ede","name":"1. FC Lokomotive Leipzig","id":"1._FC_Lokomotive_Leipzig","win":5,"draw":9,"loss":12,"for":17,"against":38,"isRemoved":true},
 	{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":19,"draw":6,"loss":5,"for":55,"against":21,"isChampion":true,"isReturning":true},
-	{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":18,"draw":7,"loss":5,"for":45,"against":23,"isReturning":true},
+	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":18,"draw":7,"loss":5,"for":45,"against":23,"isReturning":true},
 	{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":16,"draw":9,"loss":5,"for":71,"against":32,"isReturning":true},
 	{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":11,"draw":15,"loss":4,"for":34,"against":16,"isReturning":true},
 	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":13,"draw":7,"loss":10,"for":36,"against":35,"isReturning":true},

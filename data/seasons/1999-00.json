@@ -461,7 +461,7 @@
 	{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":23,"draw":5,"loss":11,"for":77,"against":52},
 	{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":18,"draw":6,"loss":15,"for":50,"against":47},
 	{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":15,"draw":14,"loss":10,"for":61,"against":54},
-	{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":18,"draw":8,"loss":13,"for":66,"against":42,"deduct":-4,"deductReason":"Player failed drugs test"},
+	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":18,"draw":8,"loss":13,"for":66,"against":42,"deduct":-4,"deductReason":"Player failed drugs test"},
 	{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":13,"draw":18,"loss":8,"for":53,"against":36},
 	{"country":"isr","name":"F.C. Ashdod","id":"F.C._Ashdod","win":13,"draw":13,"loss":13,"for":48,"against":49,"isNew":true},
 	{"country":"isr","name":"Ironi Rishon LeZion","id":"Hapoel_Rishon_LeZion_F.C.","win":10,"draw":13,"loss":16,"for":41,"against":65},

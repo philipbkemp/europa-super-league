@@ -430,7 +430,7 @@
 	{"country":"fro","name":"FC Suðuroy","id":"FC_Suðuroy","win":6,"draw":4,"loss":17,"for":39,"against":68,"isRemoved":true,"isReturning":true},
 	{"country":"fro","name":"EB/Streymur","id":"EB/Streymur","win":2,"draw":5,"loss":20,"for":27,"against":92,"isRemoved":true},
 	{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":25,"draw":8,"loss":3,"for":66,"against":24,"isChampion":true},
-	{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":24,"draw":9,"loss":3,"for":76,"against":24},
+	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":24,"draw":9,"loss":3,"for":76,"against":24},
 	{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":18,"draw":6,"loss":12,"for":46,"against":37,"deduct":-2,"deductReason":"Racist chanting by fans"},
 	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":14,"draw":11,"loss":11,"for":45,"against":42},
 	{"country":"isr","name":"Bnei Sakhnin","id":"Bnei_Sakhnin_F.C.","win":13,"draw":9,"loss":14,"for":46,"against":40},

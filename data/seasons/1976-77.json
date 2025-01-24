@@ -480,7 +480,7 @@
 	{"country":"ede","name":"FC Vorwärts Frankfurt","id":"1._FC_Frankfurt","win":9,"draw":3,"loss":14,"for":23,"against":36},
 	{"country":"ede","name":"BSG Stahl Riesa","id":"BSG_Stahl_Riesa","win":8,"draw":5,"loss":13,"for":28,"against":47,"isRemoved":true},
 	{"country":"ede","name":"F.C. Hansa Rostock","id":"FC_Hansa_Rostock","win":6,"draw":8,"loss":12,"for":23,"against":41,"isRemoved":true,"isReturning":true},
-	{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":16,"draw":10,"loss":4,"for":47,"against":26,"isChampion":true},
+	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":16,"draw":10,"loss":4,"for":47,"against":26,"isChampion":true},
 	{"country":"isr","name":"Maccabi Jaffa","id":"Maccabi_Jaffa_F.C.","win":15,"draw":9,"loss":6,"for":29,"against":17},
 	{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":12,"draw":9,"loss":9,"for":35,"against":23},
 	{"country":"isr","name":"Beitar Tel Aviv","id":"Beitar_Tel_Aviv_F.C.","win":13,"draw":7,"loss":10,"for":32,"against":26},

@@ -485,7 +485,7 @@
 	{"country":"ede","name":"F.C. Hansa Rostock","id":"FC_Hansa_Rostock","win":7,"draw":7,"loss":12,"for":22,"against":33},
 	{"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":7,"draw":5,"loss":14,"for":27,"against":42,"isRemoved":true},
 	{"country":"ede","name":"FC Stahl Eisenhüttenstadt","id":"Eisenhüttenstädter_FC_Stahl","win":5,"draw":7,"loss":14,"for":21,"against":36,"isRemoved":true,"isNew":true},
-	{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":15,"draw":9,"loss":6,"for":51,"against":21,"isChampion":true},
+	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":15,"draw":9,"loss":6,"for":51,"against":21,"isChampion":true},
 	{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":13,"draw":13,"loss":4,"for":48,"against":24},
 	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":10,"draw":13,"loss":7,"for":29,"against":24},
 	{"country":"isr","name":"Shimshon Tel Aviv","id":"Shimshon_Tel_Aviv_F.C.","win":10,"draw":11,"loss":9,"for":35,"against":27},

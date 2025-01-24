@@ -410,7 +410,7 @@
 	{"country":"ede","name":"SC Chemie Halle-Leuna","id":"Hallescher_FC","win":9,"draw":4,"loss":13,"for":42,"against":51,"isReturning":true},
 	{"country":"ede","name":"BSG Lokomotive Stendal","id":"1._FC_Lok_Stendal","win":9,"draw":4,"loss":13,"for":28,"against":43,"isRemoved":true},
 	{"country":"ede","name":"SC Motor Karl-Marx-Stadt","id":"Chemnitzer_FC","win":3,"draw":10,"loss":13,"for":31,"against":62,"isRemoved":true},
-	{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":13,"draw":9,"loss":0,"for":50,"against":12,"isChampion":true},
+	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":13,"draw":9,"loss":0,"for":50,"against":12,"isChampion":true},
 	{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":15,"draw":4,"loss":3,"for":50,"against":21},
 	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":12,"draw":3,"loss":7,"for":42,"against":24},
 	{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":5,"draw":11,"loss":6,"for":21,"against":23},

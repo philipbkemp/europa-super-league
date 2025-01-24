@@ -487,7 +487,7 @@
 	{"country":"csk","name":"Bohemians Prague","id":"Bohemians_1905","win":5,"draw":9,"loss":16,"for":23,"against":53},
 	{"country":"csk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":3,"draw":10,"loss":17,"for":24,"against":60},
 	{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":22,"draw":5,"loss":6,"for":64,"against":38,"isChampion":true,"isReturning":true},
-	{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":18,"draw":8,"loss":7,"for":74,"against":36},
+	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":18,"draw":8,"loss":7,"for":74,"against":36},
 	{"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":17,"draw":5,"loss":11,"for":66,"against":57},
 	{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":15,"draw":9,"loss":9,"for":52,"against":36},
 	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":12,"draw":11,"loss":10,"for":55,"against":46},

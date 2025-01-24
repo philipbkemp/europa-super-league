@@ -511,7 +511,7 @@
 	{"country":"ede","name":"FC Karl-Marx-Stadt","id":"Chemnitzer_FC","win":7,"draw":5,"loss":14,"for":34,"against":48,"isReturning":true},
 	{"country":"ede","name":"BSG Stahl Riesa","id":"BSG_Stahl_Riesa","win":5,"draw":8,"loss":13,"for":23,"against":41,"isRemoved":true},
 	{"country":"ede","name":"ASG Vorwärts Stralsund","id":"FC_Pommern_Stralsund","win":6,"draw":6,"loss":14,"for":20,"against":48,"isRemoved":true,"isNew":true},
-	{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":18,"draw":9,"loss":3,"for":45,"against":20,"isChampion":true},
+	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":18,"draw":9,"loss":3,"for":45,"against":20,"isChampion":true},
 	{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":16,"draw":9,"loss":5,"for":36,"against":15},
 	{"country":"isr","name":"Hakoah Ramat Gan","id":"Hakoah_Amidar_Ramat_Gan_F.C.","win":15,"draw":9,"loss":6,"for":48,"against":27},
 	{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":15,"draw":7,"loss":8,"for":44,"against":29},

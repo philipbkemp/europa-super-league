@@ -274,7 +274,7 @@ THEDATA = [
 	{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":3,"draw":4,"loss":10,"for":25,"against":37,"isCurrentSeason":true},
 	{"country":"hun","name":"Kecskemét","id":"Kecskeméti_TE","win":2,"draw":5,"loss":10,"for":12,"against":29,"isCurrentSeason":true},
 	{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":14,"draw":4,"loss":1,"for":39,"against":12,"deduct":-2,"deductReason":"Riot during match with Bnei Sakhnin","isCurrentSeason":true},
-	{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":12,"draw":5,"loss":2,"for":42,"against":21,"isCurrentSeason":true},
+	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":12,"draw":5,"loss":2,"for":42,"against":21,"isCurrentSeason":true},
 	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":11,"draw":4,"loss":4,"for":40,"against":20,"isCurrentSeason":true},
 	{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":11,"draw":3,"loss":5,"for":40,"against":27,"isCurrentSeason":true},
 	{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":8,"draw":3,"loss":7,"for":25,"against":17,"isCurrentSeason":true},

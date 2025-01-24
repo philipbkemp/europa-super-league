@@ -367,7 +367,7 @@
 	{"country":"ede","name":"BSG Motor Wismar","id":"FC_Anker_Wismar","win":10,"draw":4,"loss":22,"for":55,"against":77,"isRemoved":true,"isReturning":true},
 	{"country":"ede","name":"BSG Stahl Altenburg","id":"BSG_Stahl_Altenburg","win":8,"draw":5,"loss":23,"for":46,"against":95,"isRemoved":true},
 	{"country":"ede","name":"BSG Einheit Pankow","id":"VfB_Einheit_zu_Pankow","win":5,"draw":6,"loss":25,"for":38,"against":94,"isRemoved":true},
-	{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":18,"draw":2,"loss":2,"for":89,"against":18,"isChampion":true,"isRemoved":true,"isReturning":true,"removedNote":"League not contested next season"},
+	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":18,"draw":2,"loss":2,"for":89,"against":18,"isChampion":true,"isRemoved":true,"isReturning":true,"removedNote":"League not contested next season"},
 	{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":12,"draw":6,"loss":4,"for":65,"against":23,"isRemoved":true,"isReturning":true,"removedNote":"League not contested next season"},
 	{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":14,"draw":1,"loss":7,"for":46,"against":26,"isRemoved":true,"isReturning":true,"removedNote":"League not contested next season"},
 	{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":10,"draw":7,"loss":5,"for":38,"against":20,"isRemoved":true,"isReturning":true,"removedNote":"League not contested next season"},

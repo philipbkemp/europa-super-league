@@ -509,7 +509,7 @@
 	{"country":"csk","name":"Spartak Trnava","id":"FC_Spartak_Trnava","win":6,"draw":9,"loss":15,"for":21,"against":59,"isReturning":true},
 	{"country":"csk","name":"Union Cheb","id":"FK_Hvězda_Cheb","win":7,"draw":7,"loss":16,"for":28,"against":53,"isRemoved":true},
 	{"country":"csk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":7,"draw":5,"loss":18,"for":30,"against":54,"isRemoved":true},
-	{"country":"isr","name":"Maccabi Tel Aviv","id":"Maccabi_Tel_Aviv_F.C.","win":23,"draw":6,"loss":3,"for":82,"against":29,"isChampion":true},
+	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":23,"draw":6,"loss":3,"for":82,"against":29,"isChampion":true},
 	{"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":19,"draw":5,"loss":8,"for":68,"against":44},
 	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":14,"draw":6,"loss":12,"for":51,"against":43},
 	{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":11,"draw":10,"loss":11,"for":34,"against":35},
