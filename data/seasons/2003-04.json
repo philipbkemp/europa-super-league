@@ -667,7 +667,7 @@
 	{"country":"and","name":"Encamp","id":"FC_Encamp","win":8,"draw":4,"loss":8,"for":31,"against":20},
 	{"country":"and","name":"Principat","id":"CE_Principat","win":9,"draw":4,"loss":7,"for":52,"against":41},
 	{"country":"and","name":"Lusitans","id":"FC_Lusitanos","win":5,"draw":6,"loss":9,"for":24,"against":29},
-	{"country":"and","name":"Inter d'Escaldes","id":"Inter_Club_d%27Escaldes","win":3,"draw":3,"loss":14,"for":20,"against":43},
+	{"country":"and","name":"Inter d'Escaldes","id":"inter_club_descaldes","win":3,"draw":3,"loss":14,"for":20,"against":43},
 	{"country":"and","name":"Engordany","id":"UE_Engordany","win":3,"draw":2,"loss":15,"for":20,"against":93,"isRemoved":true,"isNew":true},
 	{"country":"sam","name":"Red Star Belgrade","id":"red_star_belgrade","win":23,"draw":5,"loss":2,"for":59,"against":13,"isChampion":true},
 	{"country":"sam","name":"Partizan","id":"fk_partizan","win":19,"draw":6,"loss":5,"for":48,"against":20},

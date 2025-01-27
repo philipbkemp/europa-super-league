@@ -678,7 +678,7 @@
 	{"country":"svk","name":"Skalica","id":"MFK_Skalica","win":10,"draw":10,"loss":12,"for":38,"against":38,"isReturning":true},
 	{"country":"svk","name":"Tatran Liptovský Mikuláš","id":"MFK_Tatran_Liptovský_Mikuláš","win":3,"draw":9,"loss":20,"for":24,"against":59,"isRemoved":true},
 	{"country":"and","name":"Atlètic Club d'Escaldes","id":"Atlètic_Club_d%27Escaldes","win":19,"draw":6,"loss":3,"for":68,"against":19,"isChampion":true},
-	{"country":"and","name":"Inter Club d'Escaldes","id":"Inter_Club_d%27Escaldes","win":18,"draw":7,"loss":3,"for":76,"against":23},
+	{"country":"and","name":"Inter Club d'Escaldes","id":"inter_club_descaldes","win":18,"draw":7,"loss":3,"for":76,"against":23},
 	{"country":"and","name":"FC Santa Coloma","id":"fc_santa_coloma","win":15,"draw":8,"loss":5,"for":55,"against":19},
 	{"country":"and","name":"UE Santa Coloma","id":"UE_Santa_Coloma","win":10,"draw":12,"loss":6,"for":40,"against":29},
 	{"country":"and","name":"Penya Encarnada","id":"Penya_Encarnada_d%27Andorra","win":6,"draw":9,"loss":13,"for":25,"against":46,"isReturning":true},

@@ -644,7 +644,7 @@
 	{"country":"and","name":"Sant Julià","id":"ue_sant_julia","win":14,"draw":6,"loss":7,"for":64,"against":24},
 	{"country":"and","name":"Lusitanos","id":"FC_Lusitanos","win":13,"draw":5,"loss":9,"for":59,"against":35},
 	{"country":"and","name":"UE Santa Coloma","id":"UE_Santa_Coloma","win":12,"draw":5,"loss":10,"for":53,"against":29},
-	{"country":"and","name":"Inter Club d'Escaldes","id":"Inter_Club_d%27Escaldes","win":10,"draw":5,"loss":12,"for":45,"against":43,"isReturning":true},
+	{"country":"and","name":"Inter Club d'Escaldes","id":"inter_club_descaldes","win":10,"draw":5,"loss":12,"for":45,"against":43,"isReturning":true},
 	{"country":"and","name":"Encamp","id":"FC_Encamp","win":4,"draw":2,"loss":21,"for":34,"against":88},
 	{"country":"and","name":"Penya Encarnada","id":"Penya_Encarnada_d%27Andorra","win":3,"draw":2,"loss":22,"for":15,"against":126,"isRemoved":true,"isReturning":true},
 	{"country":"mne","name":"Sutjeska","id":"FK_Sutjeska_Nikšić","win":24,"draw":7,"loss":5,"for":55,"against":23,"isChampion":true},

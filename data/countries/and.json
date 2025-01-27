@@ -1,40 +1,15 @@
 {
 	"teams":[
-		"FC_Encamp","CE_Principat","fc_santa_coloma","FC_Aldosa","sporting_club_d_engordany","Inter_Club_d%27Escaldes","ue_sant_julia","Spordany_Juvenil","Costruccions_Emprimo","FC_Andorra","Sporting_Club_d%27Escaldes","Deportivo_La_Massana","UE_Les_Bons","Gimnàstic_Valira","FC_Engolasters","CE_Benito","Constel·lació_Esportiva","UE_Extremenya","FC_Lusitanos","FC_Rànger%27s","UE_Engordany","Atlètic_Club_d%27Escaldes","Casa_Estrella_del_Benfica","UE_Santa_Coloma","FC_Ordino","Penya_Encarnada_d%27Andorra","CE_Jenlai","CE_Carroi","FC_Pas_de_la_Casa","CF_Esperança_d%27Andorra","CF_Atlètic_Amèrica"
+		"FC_Encamp","CE_Principat","fc_santa_coloma","FC_Aldosa","sporting_club_d_engordany","inter_club_descaldes","ue_sant_julia","Spordany_Juvenil","Costruccions_Emprimo","FC_Andorra","Sporting_Club_d%27Escaldes","Deportivo_La_Massana","UE_Les_Bons","Gimnàstic_Valira","FC_Engolasters","CE_Benito","Constel·lació_Esportiva","UE_Extremenya","FC_Lusitanos","FC_Rànger%27s","UE_Engordany","Atlètic_Club_d%27Escaldes","Casa_Estrella_del_Benfica","UE_Santa_Coloma","FC_Ordino","Penya_Encarnada_d%27Andorra","CE_Jenlai","CE_Carroi","FC_Pas_de_la_Casa","CF_Esperança_d%27Andorra","CF_Atlètic_Amèrica"
 	],"redirects":[
-		["FC_Santa_Coloma","fc_santa_coloma"],["UE_Sant_Julià","ue_sant_julia"],["fc_montanbaldosa","FC_Aldosa"],["UE_Sant_Juli%C3%A0","ue_sant_julia"],["spordany_juvenil","Spordany_Juvenil"],["construccions_emprim","Costruccions_Emprimo"],["Gimn%C3%A0stic_Valira","Gimnàstic_Valira"],["deportivo_la_massana","Deportivo_La_Massana"],["Constel%C2%B7laci%C3%B3_Esportiva","Constel·lació_Esportiva"],["FC_R%C3%A0nger%27s","FC_Rànger%27s"],["Atl%C3%A8tic_Club_d%27Escaldes","Atlètic_Club_d%27Escaldes"],["CF_Esperan%C3%A7a_d%27Andorra","CF_Esperança_d%27Andorra"],["CF_Atl%C3%A8tic_Am%C3%A8rica","CF_Atlètic_Amèrica"]
+		["Inter_Club_d%27Escaldes","inter_club_descaldes"],["FC_Santa_Coloma","fc_santa_coloma"],["UE_Sant_Julià","ue_sant_julia"],["fc_montanbaldosa","FC_Aldosa"],["UE_Sant_Juli%C3%A0","ue_sant_julia"],["spordany_juvenil","Spordany_Juvenil"],["construccions_emprim","Costruccions_Emprimo"],["Gimn%C3%A0stic_Valira","Gimnàstic_Valira"],["deportivo_la_massana","Deportivo_La_Massana"],["Constel%C2%B7laci%C3%B3_Esportiva","Constel·lació_Esportiva"],["FC_R%C3%A0nger%27s","FC_Rànger%27s"],["Atl%C3%A8tic_Club_d%27Escaldes","Atlètic_Club_d%27Escaldes"],["CF_Esperan%C3%A7a_d%27Andorra","CF_Esperança_d%27Andorra"],["CF_Atl%C3%A8tic_Am%C3%A8rica","CF_Atlètic_Amèrica"]
 	],"previous":[
-		"UE_Santa_Coloma","Inter_Club_d%27Escaldes","Atlètic_Club_d%27Escaldes","fc_santa_coloma","Penya_Encarnada_d%27Andorra","FC_Ordino","FC_Pas_de_la_Casa","CF_Esperança_d%27Andorra"
+		"UE_Santa_Coloma","inter_club_descaldes","Atlètic_Club_d%27Escaldes","fc_santa_coloma","Penya_Encarnada_d%27Andorra","FC_Ordino","FC_Pas_de_la_Casa","CF_Esperança_d%27Andorra"
 	]
 }
 
 /*
-	FC_Santa_Coloma	=>	fc_santa_coloma
-	UE_Sant_Julià		=>	ue_sant_julia
-*/
-
-/*
-28		AND	"ue_sant_julia"
-20		AND	"FC_Encamp"
-19		AND	"FC_Lusitanos"
-19		AND	"CE_Principat"
-15		AND	"UE_Engordany"
-9		AND	"FC_Rànger%27s"
-7		AND	"Sporting_Club_d%27Escaldes"
-5		AND	"Deportivo_La_Massana"
-4		AND	"CE_Carroi"
-3		AND	"UE_Extremenya"
-3		AND	"Gimnàstic_Valira"
-3		AND	"CE_Benito"
-2		AND	"Spordany_Juvenil"
-2		AND	"FC_Engolasters"
-2		AND	"FC_Andorra"
-2		AND	"FC_Aldosa"
-2		AND	"Constel·lació_Esportiva"
-2		AND	"Casa_Estrella_del_Benfica"
-1		AND	"UE_Les_Bons"
-1		AND	"sporting_club_d_engordany"
-1		AND	"Costruccions_Emprimo"
-1		AND	"CF_Atlètic_Amèrica"
-1		AND	"CE_Jenlai"
+	FC_Santa_Coloma				=>	fc_santa_coloma
+	Inter_Club_d%27Escaldes	=>	inter_club_descaldes
+	UE_Sant_Julià					=>	ue_sant_julia
 */

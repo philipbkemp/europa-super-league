@@ -70,7 +70,7 @@ clubPages = ["linfield_fc","rangers_fc","budapesti_tc","floriana_fc","colentina_
 	/*alb*/
 	,"fk_partizani_tirana","kf_tirana","fk_vllaznia_shkoder"
 	/*and*/
-	,"ue_sant_julia","fc_santa_coloma"
+	,"ue_sant_julia","fc_santa_coloma","inter_club_descaldes"
 	/*arm*/
 	,"shirak_sc","fc_pyunik"
 	/*aut*/
