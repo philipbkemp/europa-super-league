@@ -114,7 +114,7 @@
 	{"country":"che","name":"Lugano","id":"FC_Lugano","win":5,"draw":6,"loss":15,"for":19,"against":37,"isRemoved":true},
 	{"country":"che","name":"La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":5,"draw":4,"loss":17,"for":27,"against":61,"isRemoved":true,"isReturning":true},
 	{"country":"che","name":"Biel-Bienne","id":"FC_Biel-Bienne","win":5,"draw":3,"loss":18,"for":26,"against":58,"isRemoved":true,"isReturning":true},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":20,"draw":6,"loss":4,"for":65,"against":38,"isChampion":true},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":20,"draw":6,"loss":4,"for":65,"against":38,"isChampion":true},
 	{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":18,"draw":8,"loss":4,"for":61,"against":26},
 	{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":18,"draw":6,"loss":6,"for":79,"against":51},
 	{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":14,"draw":8,"loss":8,"for":47,"against":32},

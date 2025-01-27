@@ -30,7 +30,7 @@
 	{"country":"che","name":"FC Zürich","id":"FC_Zürich","win":6,"draw":5,"loss":15,"for":37,"against":54},
 	{"country":"che","name":"FC Lucerne","id":"FC_Luzern","win":4,"draw":4,"loss":18,"for":19,"against":63,"isRemoved":true},
 	{"country":"hun","name":"Nagyváradi AC","id":"Club_Atletic_Oradea","win":24,"draw":1,"loss":5,"for":78,"against":36,"isChampion":true,"isRemoved":true,"removedNote":"1944 was not completed and thus unofficial. The club was removed for the following season"},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":16,"draw":4,"loss":10,"for":71,"against":46},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":16,"draw":4,"loss":10,"for":71,"against":46},
 	{"country":"hun","name":"Kolozsvár AC","id":"Ferar_Cluj","win":15,"draw":6,"loss":9,"for":54,"against":45,"isRemoved":true,"removedNote":"1944 was not completed and thus unofficial. The club was removed for the following season"},
 	{"country":"hun","name":"Gamma FC","id":"Gamma_FC","win":14,"draw":7,"loss":9,"for":53,"against":40},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":13,"draw":7,"loss":10,"for":92,"against":59},

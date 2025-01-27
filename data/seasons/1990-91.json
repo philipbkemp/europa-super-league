@@ -106,7 +106,7 @@
 	{"country":"che","name":"FC Zürich","id":"FC_Zürich","win":10,"draw":13,"loss":13,"for":49,"against":55,"isReturning":true},
 	{"country":"che","name":"FC Wettingen","id":"FC_Wettingen","win":12,"draw":7,"loss":17,"for":49,"against":65},
 	{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":19,"draw":7,"loss":4,"for":50,"against":20,"isChampion":true},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":15,"draw":10,"loss":5,"for":47,"against":22},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":15,"draw":10,"loss":5,"for":47,"against":22},
 	{"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":15,"draw":7,"loss":8,"for":32,"against":20},
 	{"country":"hun","name":"Váci Izzó","id":"Vác_FC","win":14,"draw":8,"loss":8,"for":35,"against":29},
 	{"country":"hun","name":"Veszprém","id":"FC_Veszprém","win":11,"draw":12,"loss":7,"for":34,"against":25},

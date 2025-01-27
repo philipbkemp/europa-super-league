@@ -55,7 +55,7 @@
 	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":9,"draw":4,"loss":13,"for":53,"against":58,"isRemoved":true},
 	{"country":"bel","name":"R.R.C. Bruxelles","id":"kfc_rhodienne_de_hoek","win":8,"draw":6,"loss":12,"for":43,"against":59},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":4,"draw":2,"loss":20,"for":46,"against":82,"isRemoved":true,"isReturning":true},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":19,"draw":1,"loss":2,"for":77,"against":23,"isChampion":true},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":19,"draw":1,"loss":2,"for":77,"against":23,"isChampion":true},
 	{"country":"hun","name":"MTK Hungária FC","id":"mtk_budapest_fc","win":16,"draw":3,"loss":3,"for":68,"against":26},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":15,"draw":4,"loss":3,"for":62,"against":25},
 	{"country":"hun","name":"Sabaria FC","id":"Sabaria_FC","win":15,"draw":3,"loss":4,"for":49,"against":29},

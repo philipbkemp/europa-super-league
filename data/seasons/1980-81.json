@@ -113,7 +113,7 @@
 	{"country":"che","name":"AC Bellinzona","id":"AC_Bellinzona","win":7,"draw":5,"loss":14,"for":25,"against":46,"isReturning":true},
 	{"country":"che","name":"FC Chiasso","id":"FC_Chiasso","win":5,"draw":8,"loss":13,"for":28,"against":46},
 	{"country":"che","name":"CS Chênois","id":"CS_Chênois","win":3,"draw":9,"loss":14,"for":23,"against":53,"isRemoved":true},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":21,"draw":9,"loss":4,"for":75,"against":33,"isChampion":true},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":21,"draw":9,"loss":4,"for":75,"against":33,"isChampion":true},
 	{"country":"hun","name":"Tatabányai Bányász","id":"Tatabányai_SC","win":19,"draw":10,"loss":5,"for":50,"against":25},
 	{"country":"hun","name":"Vasas","id":"Vasas_SC","win":18,"draw":10,"loss":6,"for":68,"against":38},
 	{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":19,"draw":6,"loss":9,"for":60,"against":38},

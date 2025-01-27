@@ -63,7 +63,7 @@
 	{"country":"bel","name":"Léopold Club de Bruxelles","id":"Léopold_FC","win":3,"draw":5,"loss":14,"for":30,"against":70},
 	{"country":"bel","name":"F.C. Liégeois","id":"RFC_Liège","win":5,"draw":1,"loss":16,"for":22,"against":84},
 	{"country":"bel","name":"R.C. Gantois","id":"K.R.C._Gent","win":2,"draw":3,"loss":17,"for":19,"against":78,"isRemoved":true,"isNew":true},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":14,"draw":0,"loss":2,"for":69,"against":21,"isChampion":true},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":14,"draw":0,"loss":2,"for":69,"against":21,"isChampion":true},
 	{"country":"hun","name":"Magyar AC","id":"Magyar_AC","win":8,"draw":6,"loss":2,"for":33,"against":25},
 	{"country":"hun","name":"Budapesti TC","id":"budapesti_tc","win":9,"draw":3,"loss":4,"for":27,"against":16},
 	{"country":"hun","name":"MTK Budapest FC","id":"mtk_budapest_fc","win":9,"draw":2,"loss":5,"for":43,"against":19},

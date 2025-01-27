@@ -109,7 +109,7 @@
 	{"country":"che","name":"Grasshopper","id":"Grasshopper_Club_Zürich","win":9,"draw":13,"loss":14,"for":54,"against":58,"isReturning":true},
 	{"country":"che","name":"Luzern","id":"FC_Luzern","win":9,"draw":13,"loss":14,"for":52,"against":64},
 	{"country":"che","name":"Lausanne-Sport","id":"FC_Lausanne-Sport","win":4,"draw":10,"loss":22,"for":37,"against":76,"isRemoved":true},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":22,"draw":5,"loss":6,"for":60,"against":31,"isChampion":true},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":22,"draw":5,"loss":6,"for":60,"against":31,"isChampion":true},
 	{"country":"hun","name":"Kisvárda","id":"Kisvárda_FC","win":16,"draw":11,"loss":6,"for":50,"against":34},
 	{"country":"hun","name":"Puskás Akadémia","id":"Puskás_Akadémia_FC","win":14,"draw":12,"loss":7,"for":43,"against":34},
 	{"country":"hun","name":"Fehérvár","id":"Fehérvár_FC","win":13,"draw":9,"loss":11,"for":48,"against":43},

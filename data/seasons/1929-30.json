@@ -84,7 +84,7 @@
 	{"country":"ita","name":"Padova","id":"Calcio_Padova","win":11,"draw":4,"loss":19,"for":52,"against":78,"isRemoved":true,"isNew":true},
 	{"country":"ita","name":"Cremonese","id":"US_Cremonese","win":4,"draw":8,"loss":22,"for":31,"against":83,"isRemoved":true,"isNew":true},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":18,"draw":2,"loss":2,"for":74,"against":30,"isChampion":true},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":15,"draw":6,"loss":1,"for":80,"against":27},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":15,"draw":6,"loss":1,"for":80,"against":27},
 	{"country":"hun","name":"Hungária","id":"mtk_budapest_fc","win":10,"draw":7,"loss":5,"for":54,"against":36},
 	{"country":"hun","name":"III. Kerület","id":"III._Kerületi_TVE","win":9,"draw":7,"loss":6,"for":36,"against":35},
 	{"country":"hun","name":"Bocskai FC","id":"Bocskai_FC","win":7,"draw":6,"loss":9,"for":43,"against":48},

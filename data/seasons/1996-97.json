@@ -109,7 +109,7 @@
 	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":8,"draw":8,"loss":20,"for":36,"against":56,"isRemoved":true},
 	{"country":"hun","name":"MTK Hungária","id":"mtk_budapest_fc","win":26,"draw":7,"loss":1,"for":87,"against":25,"isChampion":true},
 	{"country":"hun","name":"Újpest","id":"Újpest_FC","win":23,"draw":7,"loss":4,"for":75,"against":35},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":22,"draw":8,"loss":4,"for":69,"against":37},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":22,"draw":8,"loss":4,"for":69,"against":37},
 	{"country":"hun","name":"Vasas","id":"Vasas_SC","win":19,"draw":7,"loss":8,"for":50,"against":33},
 	{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":14,"draw":10,"loss":10,"for":55,"against":38},
 	{"country":"hun","name":"BVSC","id":"Budapesti_VSC","win":14,"draw":7,"loss":13,"for":43,"against":36},

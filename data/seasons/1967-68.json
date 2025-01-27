@@ -115,7 +115,7 @@
 	{"country":"che","name":"AC Bellinzona","id":"AC_Bellinzona","win":8,"draw":5,"loss":13,"for":26,"against":40,"isReturning":true},
 	{"country":"che","name":"Young Fellows Zürich","id":"SC_Young_Fellows_Juventus","win":3,"draw":6,"loss":17,"for":21,"against":58,"isRemoved":true},
 	{"country":"che","name":"FC Grenchen","id":"FC_Grenchen","win":3,"draw":3,"loss":20,"for":19,"against":62,"isRemoved":true},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":24,"draw":4,"loss":2,"for":85,"against":24,"isChampion":true},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":24,"draw":4,"loss":2,"for":85,"against":24,"isChampion":true},
 	{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":18,"draw":8,"loss":4,"for":89,"against":36},
 	{"country":"hun","name":"Győri ETO FC","id":"Győri_ETO_FC","win":14,"draw":11,"loss":5,"for":68,"against":37},
 	{"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":16,"draw":6,"loss":8,"for":71,"against":37},

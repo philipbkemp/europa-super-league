@@ -111,7 +111,7 @@
 	{"country":"che","name":"Luzern","id":"FC_Luzern","win":12,"draw":7,"loss":17,"for":51,"against":68},
 	{"country":"hun","name":"Tatabánya","id":"Tatabányai_SC","win":9,"draw":8,"loss":19,"for":49,"against":73,"isRemoved":true},
 	{"country":"hun","name":"Dunaferr","id":"Dunaújváros_FC","win":21,"draw":7,"loss":8,"for":77,"against":55},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":18,"draw":11,"loss":7,"for":59,"against":35,"isChampion":true},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":18,"draw":11,"loss":7,"for":59,"against":35,"isChampion":true},
 	{"country":"hun","name":"Sopron","id":"FC_Sopron","win":13,"draw":8,"loss":15,"for":47,"against":53,"isNew":true},
 	{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":16,"draw":8,"loss":12,"for":55,"against":55},
 	{"country":"hun","name":"Kispest Honvéd","id":"Budapest_Honvéd_FC","win":12,"draw":12,"loss":12,"for":51,"against":51},

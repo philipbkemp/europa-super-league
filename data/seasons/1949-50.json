@@ -98,7 +98,7 @@
 	{"country":"che","name":"FC St. Gallen","id":"FC_St._Gallen","win":7,"draw":2,"loss":17,"for":40,"against":79,"isRemoved":true,"isReturning":true},
 	{"country":"che","name":"FC Bern","id":"FC_Bern","win":4,"draw":3,"loss":19,"for":31,"against":70,"isRemoved":true,"isReturning":true},
 	{"country":"hun","name":"Budapest Honvéd FC","id":"Budapest_Honvéd_FC","win":23,"draw":4,"loss":3,"for":84,"against":29,"isChampion":true},
-	{"country":"hun","name":"ÉDOSZ","id":"Ferencvárosi_TC","win":21,"draw":4,"loss":5,"for":86,"against":38},
+	{"country":"hun","name":"ÉDOSZ","id":"ferencvarosi_tc","win":21,"draw":4,"loss":5,"for":86,"against":38},
 	{"country":"hun","name":"Textiles","id":"mtk_budapest_fc","win":18,"draw":8,"loss":4,"for":81,"against":33},
 	{"country":"hun","name":"Csepel SC","id":"Csepel_SC","win":15,"draw":8,"loss":7,"for":66,"against":45},
 	{"country":"hun","name":"Bp. Dózsa","id":"Újpest_FC","win":14,"draw":9,"loss":7,"for":71,"against":52},

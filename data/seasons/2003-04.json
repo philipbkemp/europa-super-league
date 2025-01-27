@@ -107,7 +107,7 @@
 	{"country":"che","name":"Aarau","id":"FC_Aarau","win":9,"draw":11,"loss":16,"for":57,"against":69},
 	{"country":"che","name":"Neuchâtel Xamax","id":"Neuchâtel_Xamax_FCS","win":10,"draw":6,"loss":20,"for":46,"against":63},
 	{"country":"che","name":"Wil","id":"FC_Wil","win":7,"draw":8,"loss":21,"for":37,"against":73,"isRemoved":true},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":16,"draw":9,"loss":7,"for":44,"against":30,"isChampion":true},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":16,"draw":9,"loss":7,"for":44,"against":30,"isChampion":true},
 	{"country":"hun","name":"Siófok","id":"BFC_Siófok","win":14,"draw":8,"loss":10,"for":34,"against":24,"isRemoved":true},
 	{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":16,"draw":8,"loss":8,"for":51,"against":32},
 	{"country":"hun","name":"MTK Hungária","id":"mtk_budapest_fc","win":11,"draw":11,"loss":10,"for":42,"against":40},

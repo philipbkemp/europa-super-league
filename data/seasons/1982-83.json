@@ -116,7 +116,7 @@
 	{"country":"che","name":"FC Bulle","id":"FC_Bulle","win":4,"draw":4,"loss":22,"for":27,"against":87,"isRemoved":true},
 	{"country":"che","name":"FC Winterthur","id":"FC_Winterthur","win":2,"draw":6,"loss":22,"for":30,"against":74,"isRemoved":true,"isReturning":true},
 	{"country":"hun","name":"Rába ETO Győr","id":"Győri_ETO_FC","win":19,"draw":6,"loss":5,"for":82,"against":37,"isChampion":true},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":19,"draw":5,"loss":6,"for":73,"against":46},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":19,"draw":5,"loss":6,"for":73,"against":46},
 	{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":17,"draw":8,"loss":5,"for":57,"against":33},
 	{"country":"hun","name":"Csepel","id":"Csepel_SC","win":13,"draw":11,"loss":6,"for":52,"against":46},
 	{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":12,"draw":8,"loss":10,"for":45,"against":47},

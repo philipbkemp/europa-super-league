@@ -115,7 +115,7 @@
 	{"country":"che","name":"La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":5,"draw":11,"loss":10,"for":51,"against":53},
 	{"country":"che","name":"Sion","id":"FC_Sion","win":7,"draw":6,"loss":13,"for":39,"against":52,"isRemoved":true},
 	{"country":"che","name":"Luzern","id":"FC_Luzern","win":6,"draw":4,"loss":16,"for":35,"against":71,"isRemoved":true},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":21,"draw":7,"loss":2,"for":65,"against":26,"isChampion":true},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":21,"draw":7,"loss":2,"for":65,"against":26,"isChampion":true},
 	{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":20,"draw":8,"loss":2,"for":102,"against":27},
 	{"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":18,"draw":6,"loss":6,"for":66,"against":37},
 	{"country":"hun","name":"Budapest Honvéd FC","id":"Budapest_Honvéd_FC","win":13,"draw":12,"loss":5,"for":50,"against":30},

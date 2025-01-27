@@ -110,7 +110,7 @@
 	{"country":"che","name":"FC St. Gallen","id":"FC_St._Gallen","win":15,"draw":9,"loss":12,"for":59,"against":57},
 	{"country":"che","name":"AC Lugano","id":"FC_Lugano","win":13,"draw":13,"loss":10,"for":52,"against":56,"isReturning":true},
 	{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":16,"draw":0,"loss":7,"for":44,"against":28,"penWin":6,"penLoss":1,"isChampion":true},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":16,"draw":0,"loss":7,"for":49,"against":29,"penWin":4,"penLoss":3},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":16,"draw":0,"loss":7,"for":49,"against":29,"penWin":4,"penLoss":3},
 	{"country":"hun","name":"MTK-VM","id":"mtk_budapest_fc","win":13,"draw":0,"loss":6,"for":41,"against":34,"penWin":8,"penLoss":3},
 	{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":17,"draw":0,"loss":8,"for":57,"against":32,"penWin":1,"penLoss":4},
 	{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":16,"draw":0,"loss":9,"for":44,"against":31,"penWin":3,"penLoss":2},

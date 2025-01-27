@@ -113,7 +113,7 @@
 	{"country":"che","name":"FC Winterthur","id":"FC_Winterthur","win":4,"draw":8,"loss":20,"for":30,"against":72,"isRemoved":true},
 	{"country":"hun","name":"Vasas","id":"Vasas_SC","win":25,"draw":3,"loss":6,"for":100,"against":45,"isChampion":true},
 	{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":22,"draw":6,"loss":6,"for":88,"against":47},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":18,"draw":11,"loss":5,"for":78,"against":42},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":18,"draw":11,"loss":5,"for":78,"against":42},
 	{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":19,"draw":8,"loss":7,"for":62,"against":43},
 	{"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":14,"draw":8,"loss":12,"for":53,"against":49},
 	{"country":"hun","name":"Videoton","id":"Fehérvár_FC","win":14,"draw":7,"loss":13,"for":60,"against":46},

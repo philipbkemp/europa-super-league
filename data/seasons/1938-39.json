@@ -94,7 +94,7 @@
 	{"country":"che","name":"FC Biel-Bienne","id":"FC_Biel-Bienne","win":4,"draw":9,"loss":9,"for":22,"against":39},
 	{"country":"che","name":"FC Basel","id":"FC_Basel","win":5,"draw":5,"loss":12,"for":29,"against":36,"isRemoved":true},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":20,"draw":4,"loss":2,"for":107,"against":26,"isChampion":true},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":19,"draw":5,"loss":2,"for":121,"against":44},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":19,"draw":5,"loss":2,"for":121,"against":44},
 	{"country":"hun","name":"Hungária","id":"mtk_budapest_fc","win":18,"draw":5,"loss":3,"for":74,"against":32},
 	{"country":"hun","name":"Kispest","id":"Budapest_Honvéd_FC","win":15,"draw":4,"loss":7,"for":62,"against":42},
 	{"country":"hun","name":"Szeged FC","id":"Szegedi_AK","win":12,"draw":7,"loss":7,"for":58,"against":42},

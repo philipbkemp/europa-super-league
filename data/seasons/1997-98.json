@@ -108,7 +108,7 @@
 	{"country":"che","name":"Basel","id":"FC_Basel","win":11,"draw":8,"loss":17,"for":55,"against":68},
 	{"country":"che","name":"Étoile Carouge","id":"Étoile_Carouge_FC","win":4,"draw":8,"loss":24,"for":33,"against":82,"isRemoved":true,"isReturning":true},
 	{"country":"hun","name":"Újpest","id":"Újpest_FC","win":21,"draw":10,"loss":3,"for":62,"against":26,"isChampion":true},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":20,"draw":7,"loss":7,"for":63,"against":43},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":20,"draw":7,"loss":7,"for":63,"against":43},
 	{"country":"hun","name":"Vasas","id":"Vasas_SC","win":19,"draw":7,"loss":8,"for":66,"against":41},
 	{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":18,"draw":9,"loss":7,"for":47,"against":31},
 	{"country":"hun","name":"MTK Hungária","id":"mtk_budapest_fc","win":17,"draw":7,"loss":10,"for":60,"against":35},

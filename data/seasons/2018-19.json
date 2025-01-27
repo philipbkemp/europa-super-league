@@ -109,7 +109,7 @@
 	{"country":"che","name":"Sion","id":"FC_Sion","win":12,"draw":7,"loss":17,"for":50,"against":55},
 	{"country":"che","name":"Xamax","id":"Neuchâtel_Xamax_FCS","win":9,"draw":10,"loss":17,"for":44,"against":65,"isReturning":true},
 	{"country":"che","name":"Grasshopper","id":"Grasshopper_Club_Zürich","win":5,"draw":10,"loss":21,"for":32,"against":71,"isRemoved":true},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":23,"draw":5,"loss":5,"for":72,"against":27,"isChampion":true},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":23,"draw":5,"loss":5,"for":72,"against":27,"isChampion":true},
 	{"country":"hun","name":"MOL Vidi","id":"Fehérvár_FC","win":18,"draw":7,"loss":8,"for":53,"against":37},
 	{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":14,"draw":9,"loss":10,"for":44,"against":39},
 	{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":13,"draw":10,"loss":10,"for":46,"against":38},

@@ -27,7 +27,7 @@
 	{"country":"che","name":"FC Biel-Bienne","id":"FC_Biel-Bienne","win":5,"draw":4,"loss":13,"for":23,"against":48},
 	{"country":"che","name":"FC La Chaux-de-Fonds","id":"FC_La_Chaux-de-Fonds","win":5,"draw":2,"loss":15,"for":35,"against":54},
 	{"country":"che","name":"FC St. Gallen","id":"FC_St._Gallen","win":5,"draw":1,"loss":16,"for":26,"against":70},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":21,"draw":3,"loss":2,"for":113,"against":47,"isChampion":true},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":21,"draw":3,"loss":2,"for":113,"against":47,"isChampion":true},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":15,"draw":4,"loss":7,"for":79,"against":57},
 	{"country":"hun","name":"Szeged FC","id":"Szegedi_AK","win":14,"draw":4,"loss":8,"for":56,"against":47},
 	{"country":"hun","name":"Szolnoki MÁV FC","id":"Szolnoki_MÁV_FC","win":13,"draw":5,"loss":8,"for":63,"against":43},

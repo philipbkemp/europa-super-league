@@ -58,7 +58,7 @@
 	{"country":"bel","name":"RC de Gand","id":"K.R.C._Gent","win":5,"draw":7,"loss":14,"for":27,"against":47,"isRemoved":true},
 	{"country":"bel","name":"KV Mechelen","id":"K.V._Mechelen","win":5,"draw":2,"loss":19,"for":33,"against":69,"isRemoved":true,"isNew":true},
 	{"country":"hun","name":"MTK Budapest FC","id":"mtk_budapest_fc","win":16,"draw":5,"loss":1,"for":60,"against":11,"isChampion":true},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":16,"draw":4,"loss":2,"for":41,"against":13},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":16,"draw":4,"loss":2,"for":41,"against":13},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":13,"draw":6,"loss":3,"for":52,"against":19},
 	{"country":"hun","name":"Törekvés SE","id":"Törekvés_SE","win":8,"draw":6,"loss":8,"for":27,"against":33},
 	{"country":"hun","name":"III. Kerületi TUE","id":"III._Kerületi_TVE","win":8,"draw":5,"loss":9,"for":27,"against":37},

@@ -55,7 +55,7 @@
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":8,"draw":3,"loss":15,"for":39,"against":64,"isRemoved":true},
 	{"country":"bel","name":"R.C.S. Verviétois","id":"R.C.S._Verviétois","win":4,"draw":2,"loss":20,"for":34,"against":102,"isRemoved":true,"isReturning":true},
 	{"country":"bel","name":"Tilleur","id":"R.F.C._Tilleur","win":3,"draw":2,"loss":21,"for":29,"against":101,"isRemoved":true,"isNew":true},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":14,"draw":5,"loss":3,"for":58,"against":24,"isChampion":true},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":14,"draw":5,"loss":3,"for":58,"against":24,"isChampion":true},
 	{"country":"hun","name":"MTK Budapest FC","id":"mtk_budapest_fc","win":12,"draw":7,"loss":3,"for":52,"against":18},
 	{"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":11,"draw":7,"loss":4,"for":58,"against":47},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":11,"draw":5,"loss":6,"for":48,"against":29},

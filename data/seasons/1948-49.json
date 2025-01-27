@@ -97,7 +97,7 @@
 	{"country":"che","name":"Young Fellows Zürich","id":"SC_Young_Fellows_Juventus","win":8,"draw":5,"loss":13,"for":45,"against":66},
 	{"country":"che","name":"Grasshopper Club Zürich","id":"Grasshopper_Club_Zürich","win":7,"draw":6,"loss":13,"for":42,"against":51,"isRemoved":true},
 	{"country":"che","name":"Urania Genève Sport","id":"Urania_Genève_Sport","win":4,"draw":9,"loss":13,"for":32,"against":51,"isRemoved":true,"isReturning":true},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":26,"draw":1,"loss":3,"for":140,"against":36,"isChampion":true},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":26,"draw":1,"loss":3,"for":140,"against":36,"isChampion":true},
 	{"country":"hun","name":"MTK Budapest FC","id":"mtk_budapest_fc","win":18,"draw":6,"loss":6,"for":91,"against":38},
 	{"country":"hun","name":"Kispest AC","id":"Budapest_Honvéd_FC","win":19,"draw":3,"loss":8,"for":94,"against":46},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":18,"draw":5,"loss":7,"for":89,"against":47},

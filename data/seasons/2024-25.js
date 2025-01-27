@@ -262,7 +262,7 @@ THEDATA = [
 	{"country":"hrv","name":"Šibenik","id":"HNK_Šibenik","win":4,"draw":5,"loss":10,"for":17,"against":35,"isReturning":true,"isCurrentSeason":true},
 	{"country":"hrv","name":"Gorica","id":"HNK_Gorica","win":4,"draw":4,"loss":11,"for":17,"against":30,"isCurrentSeason":true},
 	{"country":"hun","name":"Puskás Akadémia","id":"Puskás_Akadémia_FC","win":11,"draw":2,"loss":4,"for":29,"against":18,"isCurrentSeason":true},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":10,"draw":4,"loss":2,"for":28,"against":16,"isCurrentSeason":true},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":10,"draw":4,"loss":2,"for":28,"against":16,"isCurrentSeason":true},
 	{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":8,"draw":6,"loss":3,"for":25,"against":21,"isCurrentSeason":true},
 	{"country":"hun","name":"MTK","id":"mtk_budapest_fc","win":9,"draw":2,"loss":6,"for":30,"against":23,"isCurrentSeason":true},
 	{"country":"hun","name":"Paks","id":"Paksi_FC","win":8,"draw":3,"loss":6,"for":34,"against":30,"isCurrentSeason":true},

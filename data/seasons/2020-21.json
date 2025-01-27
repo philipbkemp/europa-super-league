@@ -109,7 +109,7 @@
 	{"country":"che","name":"Zürich","id":"FC_Zürich","win":11,"draw":10,"loss":15,"for":53,"against":57},
 	{"country":"che","name":"Sion","id":"FC_Sion","win":8,"draw":14,"loss":14,"for":48,"against":58},
 	{"country":"che","name":"Vaduz","id":"FC_Vaduz","win":9,"draw":9,"loss":18,"for":36,"against":58,"isRemoved":true,"isReturning":true},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":23,"draw":9,"loss":1,"for":69,"against":22,"isChampion":true},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":23,"draw":9,"loss":1,"for":69,"against":22,"isChampion":true},
 	{"country":"hun","name":"Puskás Akadémia","id":"Puskás_Akadémia_FC","win":18,"draw":4,"loss":11,"for":52,"against":42},
 	{"country":"hun","name":"Fehérvár","id":"Fehérvár_FC","win":16,"draw":8,"loss":9,"for":68,"against":38},
 	{"country":"hun","name":"Paks","id":"Paksi_FC","win":14,"draw":8,"loss":11,"for":76,"against":64},

@@ -93,7 +93,7 @@
 	{"country":"che","name":"FC Grenchen","id":"FC_Grenchen","win":4,"draw":7,"loss":11,"for":31,"against":51,"isNew":true},
 	{"country":"che","name":"FC Lucerne","id":"FC_Luzern","win":5,"draw":3,"loss":14,"for":37,"against":55},
 	{"country":"che","name":"FC Bern","id":"FC_Bern","win":0,"draw":6,"loss":16,"for":18,"against":65,"isRemoved":true},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":23,"draw":1,"loss":2,"for":95,"against":38,"isChampion":true},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":23,"draw":1,"loss":2,"for":95,"against":38,"isChampion":true},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":21,"draw":2,"loss":3,"for":90,"against":32},
 	{"country":"hun","name":"MTK Hungária FC","id":"mtk_budapest_fc","win":18,"draw":4,"loss":4,"for":86,"against":32},
 	{"country":"hun","name":"Kispest AC","id":"Budapest_Honvéd_FC","win":15,"draw":1,"loss":10,"for":72,"against":59},

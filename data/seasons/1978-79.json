@@ -112,7 +112,7 @@
 	{"country":"che","name":"FC Nordstern Basel","id":"FC_Nordstern_Basel","win":3,"draw":9,"loss":20,"for":27,"against":68,"isRemoved":true,"isReturning":true},
 	{"country":"che","name":"FC Sion","id":"FC_Sion","win":8,"draw":9,"loss":15,"for":35,"against":60},
 	{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":21,"draw":10,"loss":3,"for":84,"against":38,"isChampion":true},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":18,"draw":11,"loss":5,"for":75,"against":44},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":18,"draw":11,"loss":5,"for":75,"against":44},
 	{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":19,"draw":6,"loss":9,"for":60,"against":37},
 	{"country":"hun","name":"Vasas","id":"Vasas_SC","win":16,"draw":10,"loss":8,"for":62,"against":49},
 	{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":16,"draw":9,"loss":9,"for":57,"against":39},

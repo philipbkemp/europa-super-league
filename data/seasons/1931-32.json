@@ -83,7 +83,7 @@
 	{"country":"ita","name":"Bari","id":"SSC_Bari","win":9,"draw":7,"loss":18,"for":36,"against":64,"isNew":true},
 	{"country":"ita","name":"Brescia","id":"Brescia_Calcio","win":8,"draw":9,"loss":17,"for":31,"against":60,"isRemoved":true},
 	{"country":"ita","name":"Modena","id":"Modena_FC_2018","win":7,"draw":8,"loss":19,"for":41,"against":87,"isRemoved":true},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":22,"draw":0,"loss":0,"for":105,"against":18,"isChampion":true},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":22,"draw":0,"loss":0,"for":105,"against":18,"isChampion":true},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":16,"draw":4,"loss":2,"for":67,"against":32},
 	{"country":"hun","name":"MTK Hungária FC","id":"mtk_budapest_fc","win":16,"draw":3,"loss":3,"for":62,"against":24},
 	{"country":"hun","name":"Bocskai FC","id":"Bocskai_FC","win":11,"draw":4,"loss":7,"for":43,"against":46},

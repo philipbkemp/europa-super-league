@@ -56,7 +56,7 @@
 	{"country":"bel","name":"R.C.S. Verviétois","id":"R.C.S._Verviétois","win":5,"draw":5,"loss":16,"for":23,"against":59,"isRemoved":true},
 	{"country":"bel","name":"R.F.C. de Liège","id":"RFC_Liège","win":3,"draw":7,"loss":16,"for":17,"against":43,"isRemoved":true,"isReturning":true},
 	{"country":"hun","name":"MTK Budapest FC","id":"mtk_budapest_fc","win":19,"draw":2,"loss":1,"for":50,"against":11,"isChampion":true},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":11,"draw":8,"loss":3,"for":36,"against":15},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":11,"draw":8,"loss":3,"for":36,"against":15},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":12,"draw":4,"loss":6,"for":39,"against":15},
 	{"country":"hun","name":"Budapesti TC","id":"budapesti_tc","win":10,"draw":5,"loss":7,"for":23,"against":21},
 	{"country":"hun","name":"Vívó és Atlétikai Club","id":"Vívó_és_Atlétikai_Club","win":7,"draw":5,"loss":10,"for":18,"against":31},

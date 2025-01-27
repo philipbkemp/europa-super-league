@@ -56,7 +56,7 @@
 	{"country":"bel","name":"La Gantoise","id":"K.A.A._Gent","win":7,"draw":3,"loss":16,"for":53,"against":76,"isRemoved":true},
 	{"country":"bel","name":"Tilleur","id":"R.F.C._Tilleur","win":4,"draw":1,"loss":21,"for":36,"against":79,"isRemoved":true,"isReturning":true},
 	{"country":"hun","name":"MTK Hungária FC","id":"mtk_budapest_fc","win":16,"draw":5,"loss":1,"for":76,"against":24,"isChampion":true},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":16,"draw":4,"loss":2,"for":79,"against":20},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":16,"draw":4,"loss":2,"for":79,"against":20},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":13,"draw":4,"loss":5,"for":64,"against":35},
 	{"country":"hun","name":"Bocskai FC","id":"Bocskai_FC","win":11,"draw":3,"loss":8,"for":41,"against":40},
 	{"country":"hun","name":"Bástya FC","id":"Szegedi_AK","win":10,"draw":3,"loss":9,"for":40,"against":35},

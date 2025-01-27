@@ -47,7 +47,7 @@
 	{"country":"che","name":"FC Nordstern Basel","id":"FC_Nordstern_Basel","win":5,"draw":6,"loss":15,"for":25,"against":64,"isRemoved":true},
 	{"country":"hun","name":"Csepel SC","id":"Csepel_SC","win":21,"draw":3,"loss":6,"for":90,"against":51,"isChampion":true},
 	{"country":"hun","name":"Nagyváradi AC","id":"Club_Atletic_Oradea","win":19,"draw":4,"loss":7,"for":85,"against":49},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":15,"draw":6,"loss":9,"for":84,"against":51},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":15,"draw":6,"loss":9,"for":84,"against":51},
 	{"country":"hun","name":"Gamma FC","id":"Gamma_FC","win":12,"draw":12,"loss":6,"for":67,"against":49},
 	{"country":"hun","name":"Salgótarjáni BTC","id":"Salgótarjáni_BTC","win":13,"draw":8,"loss":9,"for":75,"against":66},
 	{"country":"hun","name":"Vasas SC","id":"Vasas_SC","win":14,"draw":5,"loss":11,"for":64,"against":49,"isReturning":true},

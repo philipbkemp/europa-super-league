@@ -116,7 +116,7 @@
 	{"country":"che","name":"FC Fribourg","id":"FC_Fribourg","win":6,"draw":7,"loss":13,"for":35,"against":63,"isRemoved":true},
 	{"country":"che","name":"AC Bellinzona","id":"AC_Bellinzona","win":1,"draw":7,"loss":18,"for":24,"against":61,"isRemoved":true},
 	{"country":"hun","name":"Újpesti Dózsa","id":"Újpest_FC","win":18,"draw":7,"loss":5,"for":71,"against":29,"isChampion":true},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":16,"draw":9,"loss":5,"for":52,"against":26},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":16,"draw":9,"loss":5,"for":52,"against":26},
 	{"country":"hun","name":"Vasas","id":"Vasas_SC","win":19,"draw":3,"loss":8,"for":61,"against":25},
 	{"country":"hun","name":"Budapest Honvéd","id":"Budapest_Honvéd_FC","win":14,"draw":8,"loss":8,"for":54,"against":37},
 	{"country":"hun","name":"MTK Budapest","id":"mtk_budapest_fc","win":10,"draw":13,"loss":7,"for":46,"against":35},

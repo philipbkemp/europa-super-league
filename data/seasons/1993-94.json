@@ -112,7 +112,7 @@
 	{"country":"hun","name":"Vác","id":"Vác_FC","win":19,"draw":8,"loss":3,"for":58,"against":29,"isChampion":true},
 	{"country":"hun","name":"Kispest Honvéd","id":"Budapest_Honvéd_FC","win":18,"draw":7,"loss":5,"for":66,"against":33},
 	{"country":"hun","name":"Békéscsaba","id":"Békéscsaba_1912_Előre","win":19,"draw":3,"loss":8,"for":68,"against":29},
-	{"country":"hun","name":"Ferencváros","id":"Ferencvárosi_TC","win":16,"draw":5,"loss":9,"for":50,"against":32},
+	{"country":"hun","name":"Ferencváros","id":"ferencvarosi_tc","win":16,"draw":5,"loss":9,"for":50,"against":32},
 	{"country":"hun","name":"Győr","id":"Győri_ETO_FC","win":15,"draw":7,"loss":8,"for":51,"against":37},
 	{"country":"hun","name":"Újpest","id":"Újpest_FC","win":13,"draw":8,"loss":9,"for":44,"against":35},
 	{"country":"hun","name":"Debrecen","id":"Debreceni_VSC","win":12,"draw":9,"loss":9,"for":40,"against":33,"isReturning":true},

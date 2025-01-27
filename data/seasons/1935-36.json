@@ -97,7 +97,7 @@
 	{"country":"che","name":"FC Aarau","id":"FC_Aarau","win":5,"draw":6,"loss":15,"for":47,"against":90,"isRemoved":true,"isNew":true},
 	{"country":"hun","name":"MTK Hungária FC","id":"mtk_budapest_fc","win":22,"draw":4,"loss":0,"for":87,"against":21,"isChampion":true},
 	{"country":"hun","name":"Újpest FC","id":"Újpest_FC","win":19,"draw":5,"loss":2,"for":86,"against":29},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":19,"draw":1,"loss":6,"for":103,"against":46},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":19,"draw":1,"loss":6,"for":103,"against":46},
 	{"country":"hun","name":"Phöbus FC","id":"Phöbus_FC","win":16,"draw":3,"loss":7,"for":76,"against":50},
 	{"country":"hun","name":"Kispest AC","id":"Budapest_Honvéd_FC","win":12,"draw":5,"loss":9,"for":60,"against":56},
 	{"country":"hun","name":"Bocskai FC","id":"Bocskai_FC","win":9,"draw":6,"loss":11,"for":55,"against":51},

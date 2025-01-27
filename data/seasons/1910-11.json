@@ -72,7 +72,7 @@
 	{"country":"ita","name":"Piemonte","id":"Piemonte_FC","win":4,"draw":4,"loss":8,"for":21,"against":35,"isNew":true},
 	{"country":"ita","name":"US Milanese","id":"US_Milanese","win":6,"draw":0,"loss":10,"for":19,"against":45},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":3,"draw":4,"loss":9,"for":16,"against":29},
-	{"country":"hun","name":"Ferencvárosi TC","id":"Ferencvárosi_TC","win":16,"draw":0,"loss":2,"for":77,"against":19,"isChampion":true},
+	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":16,"draw":0,"loss":2,"for":77,"against":19,"isChampion":true},
 	{"country":"hun","name":"MTK Budapest FC","id":"mtk_budapest_fc","win":10,"draw":4,"loss":4,"for":37,"against":18},
 	{"country":"hun","name":"Törekvés SE","id":"Törekvés_SE","win":9,"draw":4,"loss":5,"for":44,"against":33},
 	{"country":"hun","name":"Budapesti AK","id":"Budapesti_AK","win":9,"draw":3,"loss":6,"for":38,"against":28},
