@@ -374,6 +374,10 @@ if ( $("h1 .placeholder").length !== 0 ) {
 			console.error("deal with " + keys);
 		}
 
+		$("#datalistOptions").append(
+			$("<OPTION></OPTION>").attr("value",team.name).attr("data-id",team.id)
+		);
+
 		position++;
 	});
 
@@ -1128,3 +1132,43 @@ function calcPromotionRelegationLimits() {
 		}
 	}
 }
+
+
+function toggleDatalist(input) {
+const datalist = document.getElementById('datalistOptions');
+if (input.value.length >= 3) {
+input.setAttribute('list', 'datalistOptions');
+} else {
+input.removeAttribute('list');
+}
+}
+
+document.getElementById('exampleDataList').addEventListener('input', function () {
+	const inputValue = this.value;
+	const options = document.querySelectorAll('#datalistOptions option');
+	const selectedOption = Array.from(options).find(option => option.value === inputValue);
+	if (selectedOption) {
+
+		toFind = selectedOption.getAttribute('data-id');
+
+		division = $(document.getElementById(toFind).parentNode)[0].getAttribute("id");
+		divLetter = division.split("_")[1];
+		if ( divLetter === "new" ) {
+			divLetter = "h";
+		}
+
+		isActive = $($("#div"+divLetter)[0]).hasClass("active");
+		if ( ! isActive ) {
+			$($("#div"+divLetter)[0]).click();
+		}
+
+		document.getElementById(toFind).scrollIntoView();
+
+		setTimeout(function(){
+			if ( parseInt($(document.getElementById(toFind)).find("td")[0].innerText) < 60 ) {
+				$(window).scrollTop($(window).scrollTop()-250);
+			}
+			$(document.getElementById(toFind)).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250);
+		},500);
+	}
+});

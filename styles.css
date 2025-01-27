@@ -125,3 +125,7 @@ a[istodo] { border: 1px dotted red; }
 
 .currentSeason tbody:not(#league_a):not(#league_new) tr.promotion-limit { border-bottom: dashed 5px #b5e9b5; }
 .currentSeason tbody:not(#league_new) tr.relegation-limit { border-top: dashed 5px #ffc9c9; }
+
+.clubFinder-wrapper { font-size: 1rem; }
+#clubFinder { font-size: 1rem; margin-right: 10px; border: 1px solid black; border-radius: 0.375rem; padding: 0.375rem 0.7rem; line-height: 1.5; }
+#clubsFound { position: absolute; right: 20px; top: 12px; color: gray; font-size: 0.7rem; }
