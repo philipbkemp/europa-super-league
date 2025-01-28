@@ -64,7 +64,7 @@
 	{"country":"nld","name":"De Graafschap","id":"De_Graafschap","win":8,"draw":5,"loss":21,"for":38,"against":75,"isRemoved":true,"isReturning":true},
 	{"country":"nld","name":"NAC Breda","id":"NAC_Breda","win":5,"draw":8,"loss":21,"for":29,"against":74,"isRemoved":true},
 	{"country":"bel","name":"Genk","id":"K.R.C._Genk","win":24,"draw":11,"loss":5,"for":82,"against":39,"isChampion":true},
-	{"country":"bel","name":"Club Brugge","id":"Club_Brugge_KV","win":23,"draw":9,"loss":8,"for":83,"against":43},
+	{"country":"bel","name":"Club Brugge","id":"club_brugge_kv","win":23,"draw":9,"loss":8,"for":83,"against":43},
 	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":19,"draw":9,"loss":12,"for":66,"against":51},
 	{"country":"bel","name":"Anderlecht","id":"R.S.C._Anderlecht","win":16,"draw":9,"loss":15,"for":57,"against":53},
 	{"country":"bel","name":"Gent","id":"K.A.A._Gent","win":18,"draw":6,"loss":16,"for":63,"against":60},

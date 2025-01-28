@@ -62,7 +62,7 @@
 	{"country":"nld","name":"Willem II","id":"Willem_II_(football_club)","win":7,"draw":2,"loss":25,"for":36,"against":70},
 	{"country":"nld","name":"RKC Waalwijk","id":"RKC_Waalwijk","win":5,"draw":0,"loss":29,"for":30,"against":80,"isRemoved":true,"isReturning":true},
 	{"country":"bel","name":"Anderlecht","id":"R.S.C._Anderlecht","win":29,"draw":6,"loss":3,"for":86,"against":29,"isChampion":true},
-	{"country":"bel","name":"Club Brugge","id":"Club_Brugge_KV","win":20,"draw":9,"loss":9,"for":66,"against":48},
+	{"country":"bel","name":"Club Brugge","id":"club_brugge_kv","win":20,"draw":9,"loss":9,"for":66,"against":48},
 	{"country":"bel","name":"Gent","id":"K.A.A._Gent","win":18,"draw":11,"loss":9,"for":69,"against":43},
 	{"country":"bel","name":"Kortrijk","id":"K.V._Kortrijk","win":15,"draw":10,"loss":13,"for":48,"against":43},
 	{"country":"bel","name":"Sint-Truiden","id":"Sint-Truidense_V.V.","win":15,"draw":10,"loss":13,"for":44,"against":45,"isReturning":true},

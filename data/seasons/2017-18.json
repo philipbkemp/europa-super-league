@@ -63,7 +63,7 @@
 	{"country":"nld","name":"Roda JC Kerkrade","id":"Roda_JC_Kerkrade","win":8,"draw":6,"loss":20,"for":42,"against":69,"isRemoved":true},
 	{"country":"nld","name":"Sparta Rotterdam","id":"Sparta_Rotterdam","win":7,"draw":6,"loss":21,"for":34,"against":75,"isRemoved":true},
 	{"country":"nld","name":"Twente","id":"FC_Twente","win":5,"draw":9,"loss":20,"for":37,"against":63,"isRemoved":true},
-	{"country":"bel","name":"Club Brugge","id":"Club_Brugge_KV","win":23,"draw":10,"loss":7,"for":85,"against":45,"isChampion":true},
+	{"country":"bel","name":"Club Brugge","id":"club_brugge_kv","win":23,"draw":10,"loss":7,"for":85,"against":45,"isChampion":true},
 	{"country":"bel","name":"Anderlecht","id":"R.S.C._Anderlecht","win":20,"draw":7,"loss":13,"for":61,"against":57},
 	{"country":"bel","name":"Charleroi","id":"Royal_Charleroi_S.C.","win":15,"draw":14,"loss":11,"for":55,"against":52},
 	{"country":"bel","name":"Gent","id":"K.A.A._Gent","win":18,"draw":10,"loss":12,"for":53,"against":35},

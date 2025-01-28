@@ -62,7 +62,7 @@
 	{"country":"nld","name":"VVV","id":"VVV-Venlo","win":7,"draw":11,"loss":16,"for":30,"against":62,"isRemoved":true,"isReturning":true},
 	{"country":"nld","name":"Cambuur Leeuwarden","id":"SC_Cambuur","win":6,"draw":7,"loss":21,"for":28,"against":64,"isRemoved":true},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":24,"draw":7,"loss":3,"for":79,"against":31,"isChampion":true},
-	{"country":"bel","name":"Club Brugge","id":"Club_Brugge_KV","win":20,"draw":13,"loss":1,"for":54,"against":19},
+	{"country":"bel","name":"Club Brugge","id":"club_brugge_kv","win":20,"draw":13,"loss":1,"for":54,"against":19},
 	{"country":"bel","name":"R.F.C. Seraing","id":"R.F.C._Seraing_(1904)","win":15,"draw":13,"loss":6,"for":50,"against":27,"isReturning":true},
 	{"country":"bel","name":"R. Charleroi S.C.","id":"Royal_Charleroi_S.C.","win":18,"draw":5,"loss":11,"for":61,"against":49},
 	{"country":"bel","name":"R. Antwerp F.C.","id":"Royal_Antwerp_F.C.","win":14,"draw":13,"loss":7,"for":44,"against":38},

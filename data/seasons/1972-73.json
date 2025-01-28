@@ -69,7 +69,7 @@
 	{"country":"nld","name":"NAC","id":"NAC_Breda","win":7,"draw":7,"loss":20,"for":26,"against":57},
 	{"country":"nld","name":"SBV Excelsior","id":"Excelsior_Rotterdam","win":5,"draw":8,"loss":21,"for":24,"against":70,"isRemoved":true},
 	{"country":"nld","name":"FC Den Bosch","id":"FC_Den_Bosch","win":5,"draw":7,"loss":22,"for":23,"against":73,"isRemoved":true},
-	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":17,"draw":11,"loss":2,"for":53,"against":26,"isChampion":true},
+	{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":17,"draw":11,"loss":2,"for":53,"against":26,"isChampion":true},
 	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":12,"draw":14,"loss":4,"for":45,"against":25},
 	{"country":"bel","name":"Racing White","id":"R.W.D._Molenbeek_(1909)","win":10,"draw":17,"loss":3,"for":45,"against":19},
 	{"country":"bel","name":"Beerschot","id":"K._Beerschot_V.A.C.","win":14,"draw":8,"loss":8,"for":40,"against":33},

@@ -65,7 +65,7 @@
 	{"country":"nld","name":"Go Ahead Eagles","id":"Go_Ahead_Eagles","win":11,"draw":5,"loss":18,"for":49,"against":53},
 	{"country":"nld","name":"FC Amsterdam","id":"FC_Amsterdam","win":9,"draw":8,"loss":17,"for":41,"against":73,"isRemoved":true},
 	{"country":"nld","name":"Telstar","id":"SC_Telstar","win":3,"draw":8,"loss":23,"for":25,"against":81,"isRemoved":true},
-	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":22,"draw":7,"loss":5,"for":73,"against":48,"isChampion":true},
+	{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":22,"draw":7,"loss":5,"for":73,"against":48,"isChampion":true},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":22,"draw":6,"loss":6,"for":69,"against":24},
 	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":20,"draw":9,"loss":5,"for":70,"against":33},
 	{"country":"bel","name":"Lierse S.K.","id":"Lierse_S.K.","win":21,"draw":5,"loss":8,"for":70,"against":41},

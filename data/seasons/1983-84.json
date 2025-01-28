@@ -67,7 +67,7 @@
 	{"country":"nld","name":"DS '79","id":"FC_Dordrecht","win":6,"draw":3,"loss":25,"for":35,"against":88,"isRemoved":true,"isNew":true},
 	{"country":"bel","name":"K.S.K. Beveren","id":"K.S.K._Beveren","win":22,"draw":7,"loss":5,"for":59,"against":33,"isChampion":true},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":20,"draw":7,"loss":7,"for":80,"against":39},
-	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":17,"draw":10,"loss":7,"for":73,"against":39},
+	{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":17,"draw":10,"loss":7,"for":73,"against":39},
 	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":17,"draw":6,"loss":11,"for":55,"against":44},
 	{"country":"bel","name":"RFC Sérésien","id":"R.F.C._Seraing_(1904)","win":15,"draw":8,"loss":11,"for":62,"against":51},
 	{"country":"bel","name":"KV Mechelen","id":"K.V._Mechelen","win":12,"draw":14,"loss":8,"for":47,"against":43,"isReturning":true},

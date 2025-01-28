@@ -51,7 +51,7 @@
 	{"country":"sco","name":"Falkirk","id":"Falkirk_F.C.","win":10,"draw":11,"loss":21,"for":45,"against":74},
 	{"country":"sco","name":"Hamilton Academical","id":"Hamilton_Academical_F.C.","win":11,"draw":7,"loss":24,"for":56,"against":86},
 	{"country":"sco","name":"Albion Rovers","id":"Albion_Rovers_F.C.","win":10,"draw":8,"loss":24,"for":43,"against":77,"isNew":true},
-	{"country":"bel","name":"FC Bruges","id":"Club_Brugge_KV","win":15,"draw":4,"loss":3,"for":61,"against":27,"isChampion":true,"isReturning":true},
+	{"country":"bel","name":"FC Bruges","id":"club_brugge_kv","win":15,"draw":4,"loss":3,"for":61,"against":27,"isChampion":true,"isReturning":true},
 	{"country":"bel","name":"Royale Union Saint-Gilloise","id":"royale_union_saint_gilloise","win":14,"draw":4,"loss":4,"for":71,"against":22,"isReturning":true},
 	{"country":"bel","name":"Daring Club","id":"R._Daring_Club_Molenbeek","win":13,"draw":5,"loss":4,"for":45,"against":28,"isReturning":true},
 	{"country":"bel","name":"Royal Antwerp FC","id":"Royal_Antwerp_F.C.","win":11,"draw":5,"loss":6,"for":52,"against":35,"isReturning":true},

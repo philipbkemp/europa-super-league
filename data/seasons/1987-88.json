@@ -64,7 +64,7 @@
 	{"country":"nld","name":"AZ","id":"AZ_Alkmaar","win":9,"draw":10,"loss":15,"for":44,"against":64,"isRemoved":true},
 	{"country":"nld","name":"FC Den Haag","id":"ADO_Den_Haag","win":7,"draw":8,"loss":19,"for":50,"against":72,"isRemoved":true},
 	{"country":"nld","name":"DS '79","id":"FC_Dordrecht","win":2,"draw":8,"loss":24,"for":41,"against":100,"isRemoved":true,"isReturning":true},
-	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":23,"draw":5,"loss":6,"for":74,"against":34,"isChampion":true},
+	{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":23,"draw":5,"loss":6,"for":74,"against":34,"isChampion":true},
 	{"country":"bel","name":"KV Mechelen","id":"K.V._Mechelen","win":21,"draw":7,"loss":6,"for":50,"against":24},
 	{"country":"bel","name":"Royal Antwerp FC","id":"Royal_Antwerp_F.C.","win":20,"draw":9,"loss":5,"for":75,"against":40},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":18,"draw":9,"loss":7,"for":64,"against":27},

@@ -61,7 +61,7 @@
 	{"country":"nld","name":"NAC Breda","id":"NAC_Breda","win":6,"draw":10,"loss":18,"for":36,"against":68,"isRemoved":true},
 	{"country":"nld","name":"Go Ahead Eagles","id":"Go_Ahead_Eagles","win":7,"draw":6,"loss":21,"for":29,"against":59,"isRemoved":true},
 	{"country":"nld","name":"Dordrecht","id":"FC_Dordrecht","win":4,"draw":8,"loss":22,"for":24,"against":76,"isRemoved":true,"isReturning":true},
-	{"country":"bel","name":"Club Brugge","id":"Club_Brugge_KV","win":22,"draw":11,"loss":7,"for":85,"against":44},
+	{"country":"bel","name":"Club Brugge","id":"club_brugge_kv","win":22,"draw":11,"loss":7,"for":85,"against":44},
 	{"country":"bel","name":"Gent","id":"K.A.A._Gent","win":22,"draw":11,"loss":7,"for":70,"against":40,"isChampion":true},
 	{"country":"bel","name":"Anderlecht","id":"R.S.C._Anderlecht","win":21,"draw":11,"loss":8,"for":69,"against":43},
 	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":20,"draw":6,"loss":14,"for":63,"against":52},

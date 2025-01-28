@@ -46,6 +46,6 @@
 	{"country":"bel","name":"Skill F.C. de Bruxelles","id":"Skill_F.C._de_Bruxelles","win":5,"draw":3,"loss":8,"for":36,"against":30,"isRemoved":true,"removedNote":"League moved to a group format for next season","isNew":true},
 	{"country":"bel","name":"F.C. Liégeois","id":"RFC_Liège","win":5,"draw":3,"loss":8,"for":21,"against":29,"isRemoved":true,"removedNote":"League moved to a group format for next season","isReturning":true},
 	{"country":"bel","name":"Verviers F.C.","id":"R.C.S._Verviétois","win":6,"draw":0,"loss":10,"for":19,"against":43,"isRemoved":true,"removedNote":"League moved to a group format for next season","isNew":true},
-	{"country":"bel","name":"F.C. Brugeois","id":"Club_Brugge_KV","win":2,"draw":4,"loss":10,"for":10,"against":45,"isRemoved":true,"removedNote":"League moved to a group format for next season","isReturning":true},
+	{"country":"bel","name":"F.C. Brugeois","id":"club_brugge_kv","win":2,"draw":4,"loss":10,"for":10,"against":45,"isRemoved":true,"removedNote":"League moved to a group format for next season","isReturning":true},
 	{"country":"bel","name":"C.S. Brugeois","id":"Cercle_Brugge_K.S.V.","win":1,"draw":4,"loss":11,"for":16,"against":44,"isRemoved":true,"removedNote":"League moved to a group format for next season","isNew":true}
 ]

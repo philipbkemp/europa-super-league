@@ -65,7 +65,7 @@
 	{"country":"nld","name":"FC Amsterdam","id":"FC_Amsterdam","win":7,"draw":10,"loss":17,"for":39,"against":52},
 	{"country":"nld","name":"MVV Maastricht","id":"MVV_Maastricht","win":8,"draw":7,"loss":19,"for":34,"against":64,"isRemoved":true},
 	{"country":"nld","name":"SBV Excelsior","id":"Excelsior_Rotterdam","win":7,"draw":5,"loss":22,"for":24,"against":59,"isRemoved":true},
-	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":22,"draw":8,"loss":6,"for":81,"against":38,"isChampion":true},
+	{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":22,"draw":8,"loss":6,"for":81,"against":38,"isChampion":true},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":19,"draw":10,"loss":7,"for":65,"against":36},
 	{"country":"bel","name":"R.W.D. Molenbeek","id":"R.W.D._Molenbeek_(1909)","win":18,"draw":11,"loss":7,"for":60,"against":30},
 	{"country":"bel","name":"K.S.C. Lokeren Oost-Vlaanderen","id":"K.S.C._Lokeren_Oost-Vlaanderen","win":19,"draw":7,"loss":10,"for":58,"against":33},

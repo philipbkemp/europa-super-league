@@ -52,7 +52,7 @@
 	{"country":"sco","name":"Morton","id":"Greenock_Morton_F.C.","win":11,"draw":3,"loss":20,"for":38,"against":60},
 	{"country":"sco","name":"Port Glasgow Athletic","id":"Port_Glasgow_Athletic_F.C.","win":3,"draw":5,"loss":26,"for":25,"against":93,"isRemoved":true},
 	{"country":"bel","name":"Union Saint-Gilloise","id":"royale_union_saint_gilloise","win":19,"draw":0,"loss":3,"for":90,"against":15,"isChampion":true,"championNote":"Won title after a playoff match with F.C. Bruegeois"},
-	{"country":"bel","name":"F.C. Brugeois","id":"Club_Brugge_KV","win":18,"draw":2,"loss":2,"for":82,"against":26},
+	{"country":"bel","name":"F.C. Brugeois","id":"club_brugge_kv","win":18,"draw":2,"loss":2,"for":82,"against":26},
 	{"country":"bel","name":"C.S. Brugeois","id":"Cercle_Brugge_K.S.V.","win":18,"draw":0,"loss":4,"for":67,"against":22},
 	{"country":"bel","name":"Daring Club de Bruxelles","id":"R._Daring_Club_Molenbeek","win":11,"draw":3,"loss":8,"for":47,"against":33},
 	{"country":"bel","name":"Standard Club Liégeois","id":"standard_liege","win":10,"draw":3,"loss":9,"for":37,"against":25,"isNew":true},

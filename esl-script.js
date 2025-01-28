@@ -78,7 +78,7 @@ clubPages = ["linfield_fc","rangers_fc","floriana_fc","colentina_ac_bucuresti","
 	/*aze*/
 	,"neftci_pfk","qarabag_fk"
 	/*bel*/
-	,"kfc_rhodienne_de_hoek","royale_union_saint_gilloise","standard_liege"
+	,"kfc_rhodienne_de_hoek","royale_union_saint_gilloise","standard_liege","club_brugge_kv"
 	/*bgr*/
 	,"pfc_levski_sofia","pfc_ludogorets_razgrad"
 	/*bih*/

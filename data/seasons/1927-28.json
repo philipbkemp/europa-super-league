@@ -52,7 +52,7 @@
 	{"country":"bel","name":"RC de Gand","id":"K.R.C._Gent","win":10,"draw":3,"loss":13,"for":49,"against":60},
 	{"country":"bel","name":"K.R.C. Mechelen","id":"K.R.C._Mechelen","win":10,"draw":2,"loss":14,"for":59,"against":65},
 	{"country":"bel","name":"Daring Club","id":"R._Daring_Club_Molenbeek","win":8,"draw":6,"loss":12,"for":44,"against":58},
-	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":9,"draw":4,"loss":13,"for":53,"against":58,"isRemoved":true},
+	{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":9,"draw":4,"loss":13,"for":53,"against":58,"isRemoved":true},
 	{"country":"bel","name":"R.R.C. Bruxelles","id":"kfc_rhodienne_de_hoek","win":8,"draw":6,"loss":12,"for":43,"against":59},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":4,"draw":2,"loss":20,"for":46,"against":82,"isRemoved":true,"isReturning":true},
 	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":19,"draw":1,"loss":2,"for":77,"against":23,"isChampion":true},

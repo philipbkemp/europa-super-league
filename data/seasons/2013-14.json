@@ -62,7 +62,7 @@
 	{"country":"nld","name":"NEC","id":"NEC_Nijmegen","win":5,"draw":15,"loss":14,"for":54,"against":82,"isRemoved":true},
 	{"country":"nld","name":"Roda JC","id":"Roda_JC_Kerkrade","win":7,"draw":8,"loss":19,"for":44,"against":69,"isRemoved":true},
 	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":24,"draw":10,"loss":6,"for":73,"against":28},
-	{"country":"bel","name":"Club Brugge","id":"Club_Brugge_KV","win":24,"draw":7,"loss":9,"for":70,"against":39},
+	{"country":"bel","name":"Club Brugge","id":"club_brugge_kv","win":24,"draw":7,"loss":9,"for":70,"against":39},
 	{"country":"bel","name":"Anderlecht","id":"R.S.C._Anderlecht","win":25,"draw":4,"loss":11,"for":78,"against":37,"isChampion":true},
 	{"country":"bel","name":"Zulte Waregem","id":"S.V._Zulte_Waregem","win":18,"draw":13,"loss":9,"for":67,"against":53},
 	{"country":"bel","name":"Lokeren","id":"K.S.C._Lokeren_Oost-Vlaanderen","win":17,"draw":8,"loss":15,"for":62,"against":56},

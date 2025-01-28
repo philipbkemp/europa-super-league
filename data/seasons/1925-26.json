@@ -50,7 +50,7 @@
 	{"country":"bel","name":"Royal Antwerp FC","id":"Royal_Antwerp_F.C.","win":11,"draw":6,"loss":9,"for":49,"against":41},
 	{"country":"bel","name":"K.R.C. Mechelen","id":"K.R.C._Mechelen","win":12,"draw":3,"loss":11,"for":65,"against":73,"isReturning":true},
 	{"country":"bel","name":"La Gantoise","id":"K.A.A._Gent","win":10,"draw":6,"loss":10,"for":52,"against":56},
-	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":11,"draw":3,"loss":12,"for":49,"against":52},
+	{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":11,"draw":3,"loss":12,"for":49,"against":52},
 	{"country":"bel","name":"RC de Gand","id":"K.R.C._Gent","win":9,"draw":5,"loss":12,"for":63,"against":71},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":8,"draw":3,"loss":15,"for":39,"against":64,"isRemoved":true},
 	{"country":"bel","name":"R.C.S. Verviétois","id":"R.C.S._Verviétois","win":4,"draw":2,"loss":20,"for":34,"against":102,"isRemoved":true,"isReturning":true},

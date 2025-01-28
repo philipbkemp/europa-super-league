@@ -65,7 +65,7 @@
 	{"country":"nld","name":"NAC","id":"NAC_Breda","win":10,"draw":7,"loss":17,"for":35,"against":59},
 	{"country":"nld","name":"Vitesse Arnhem","id":"SBV_Vitesse","win":6,"draw":13,"loss":15,"for":35,"against":59,"isRemoved":true},
 	{"country":"nld","name":"HFC Haarlem","id":"HFC_Haarlem","win":7,"draw":10,"loss":17,"for":38,"against":67,"isRemoved":true},
-	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":24,"draw":5,"loss":5,"for":76,"against":31,"isChampion":true},
+	{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":24,"draw":5,"loss":5,"for":76,"against":31,"isChampion":true},
 	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":20,"draw":9,"loss":5,"for":80,"against":31},
 	{"country":"bel","name":"R.W.D. Molenbeek","id":"R.W.D._Molenbeek_(1909)","win":19,"draw":10,"loss":5,"for":57,"against":28},
 	{"country":"bel","name":"K.S.C. Lokeren Oost-Vlaanderen","id":"K.S.C._Lokeren_Oost-Vlaanderen","win":18,"draw":6,"loss":10,"for":60,"against":28},

@@ -63,7 +63,7 @@
 	{"country":"nld","name":"Fortuna Sittard","id":"Fortuna_Sittard","win":6,"draw":8,"loss":12,"for":29,"against":52},
 	{"country":"nld","name":"ADO Den Haag","id":"ADO_Den_Haag","win":4,"draw":7,"loss":15,"for":25,"against":54},
 	{"country":"nld","name":"RKC Waalwijk","id":"RKC_Waalwijk","win":4,"draw":3,"loss":19,"for":27,"against":60,"isReturning":true},
-	{"country":"bel","name":"Club Brugge","id":"Club_Brugge_KV","win":21,"draw":7,"loss":1,"for":58,"against":14,"isChampion":true},
+	{"country":"bel","name":"Club Brugge","id":"club_brugge_kv","win":21,"draw":7,"loss":1,"for":58,"against":14,"isChampion":true},
 	{"country":"bel","name":"Gent","id":"K.A.A._Gent","win":16,"draw":7,"loss":6,"for":59,"against":34},
 	{"country":"bel","name":"Charleroi","id":"Royal_Charleroi_S.C.","win":15,"draw":9,"loss":5,"for":49,"against":23},
 	{"country":"bel","name":"Antwerp","id":"Royal_Antwerp_F.C.","win":15,"draw":8,"loss":6,"for":49,"against":32},

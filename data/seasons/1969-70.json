@@ -70,7 +70,7 @@
 	{"country":"nld","name":"GVAV","id":"FC_Groningen","win":7,"draw":8,"loss":19,"for":20,"against":45,"isRemoved":true},
 	{"country":"nld","name":"SVV","id":"SV_SVV","win":5,"draw":5,"loss":24,"for":31,"against":90,"isRemoved":true,"isNew":true},
 	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":22,"draw":5,"loss":3,"for":64,"against":24,"isChampion":true},
-	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":20,"draw":5,"loss":5,"for":75,"against":36},
+	{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":20,"draw":5,"loss":5,"for":75,"against":36},
 	{"country":"bel","name":"La Gantoise","id":"K.A.A._Gent","win":16,"draw":7,"loss":7,"for":49,"against":35},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":15,"draw":6,"loss":9,"for":64,"against":29},
 	{"country":"bel","name":"K.S.K. Beveren","id":"K.S.K._Beveren","win":14,"draw":8,"loss":8,"for":45,"against":29},

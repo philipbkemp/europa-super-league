@@ -62,7 +62,7 @@
 	{"country":"nld","name":"Sparta Rotterdam","id":"Sparta_Rotterdam","win":6,"draw":7,"loss":21,"for":42,"against":72},
 	{"country":"nld","name":"RBC Roosendaal","id":"RBC_Roosendaal","win":4,"draw":2,"loss":28,"for":37,"against":90,"isRemoved":true,"isNew":true},
 	{"country":"bel","name":"Anderlecht","id":"R.S.C._Anderlecht","win":25,"draw":8,"loss":1,"for":88,"against":25,"isChampion":true},
-	{"country":"bel","name":"Club Brugge","id":"Club_Brugge_KV","win":23,"draw":9,"loss":2,"for":83,"against":24},
+	{"country":"bel","name":"Club Brugge","id":"club_brugge_kv","win":23,"draw":9,"loss":2,"for":83,"against":24},
 	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":16,"draw":12,"loss":6,"for":71,"against":44},
 	{"country":"bel","name":"Sporting Lokeren","id":"K.S.C._Lokeren_Oost-Vlaanderen","win":16,"draw":9,"loss":9,"for":58,"against":41},
 	{"country":"bel","name":"Gent","id":"K.A.A._Gent","win":16,"draw":9,"loss":9,"for":61,"against":49},

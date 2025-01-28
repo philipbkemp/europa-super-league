@@ -65,7 +65,7 @@
 	{"country":"bel","name":"White Star","id":"R.W.D._Molenbeek_(1909)","win":9,"draw":10,"loss":17,"for":60,"against":84,"isRemoved":true},
 	{"country":"bel","name":"Eendracht Alost","id":"S.C._Eendracht_Aalst","win":10,"draw":8,"loss":18,"for":66,"against":81,"isRemoved":true},
 	{"country":"bel","name":"Sint-Niklase","id":"K._Sint-Niklase_S.K.E.","win":11,"draw":4,"loss":21,"for":53,"against":102,"isRemoved":true},
-	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":7,"draw":8,"loss":21,"for":56,"against":94,"isRemoved":true,"isReturning":true},
+	{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":7,"draw":8,"loss":21,"for":56,"against":94,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":28,"draw":7,"loss":3,"for":104,"against":35,"isChampion":true,"isReturning":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":22,"draw":9,"loss":7,"for":83,"against":38,"isReturning":true},
 	{"country":"ita","name":"Modena","id":"Modena_FC_2018","win":21,"draw":9,"loss":8,"for":45,"against":24,"isReturning":true},

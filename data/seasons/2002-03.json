@@ -61,7 +61,7 @@
 	{"country":"nld","name":"FC Zwolle","id":"PEC_Zwolle","win":8,"draw":8,"loss":18,"for":31,"against":62,"isReturning":true},
 	{"country":"nld","name":"Excelsior","id":"Excelsior_Rotterdam","win":5,"draw":8,"loss":21,"for":38,"against":72,"isRemoved":true,"isReturning":true},
 	{"country":"nld","name":"De Graafschap","id":"De_Graafschap","win":6,"draw":5,"loss":23,"for":35,"against":84,"isRemoved":true},
-	{"country":"bel","name":"Club Brugge","id":"Club_Brugge_KV","win":25,"draw":4,"loss":3,"for":96,"against":33,"isChampion":true},
+	{"country":"bel","name":"Club Brugge","id":"club_brugge_kv","win":25,"draw":4,"loss":3,"for":96,"against":33,"isChampion":true},
 	{"country":"bel","name":"Anderlecht","id":"R.S.C._Anderlecht","win":23,"draw":2,"loss":7,"for":72,"against":33},
 	{"country":"bel","name":"Sporting Lokeren","id":"K.S.C._Lokeren_Oost-Vlaanderen","win":18,"draw":6,"loss":8,"for":69,"against":51},
 	{"country":"bel","name":"Sint-Truiden","id":"Sint-Truidense_V.V.","win":16,"draw":8,"loss":8,"for":63,"against":44},

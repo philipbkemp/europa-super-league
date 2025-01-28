@@ -61,7 +61,7 @@
 	{"country":"nld","name":"Emmen","id":"FC_Emmen","win":7,"draw":9,"loss":18,"for":40,"against":68,"isRemoved":true},
 	{"country":"nld","name":"VVV-Venlo","id":"VVV-Venlo","win":6,"draw":5,"loss":23,"for":43,"against":91,"isRemoved":true},
 	{"country":"nld","name":"ADO Den Haag","id":"ADO_Den_Haag","win":4,"draw":10,"loss":20,"for":29,"against":76,"isRemoved":true},
-	{"country":"bel","name":"Club Brugge","id":"Club_Brugge_KV","win":25,"draw":7,"loss":8,"for":81,"against":37,"isChampion":true},
+	{"country":"bel","name":"Club Brugge","id":"club_brugge_kv","win":25,"draw":7,"loss":8,"for":81,"against":37,"isChampion":true},
 	{"country":"bel","name":"Antwerp","id":"Royal_Antwerp_F.C.","win":19,"draw":8,"loss":13,"for":63,"against":59},
 	{"country":"bel","name":"Anderlecht","id":"R.S.C._Anderlecht","win":15,"draw":17,"loss":8,"for":60,"against":45},
 	{"country":"bel","name":"Genk","id":"K.R.C._Genk","win":21,"draw":9,"loss":10,"for":82,"against":53},

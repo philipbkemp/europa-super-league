@@ -59,7 +59,7 @@
 	{"country":"nld","name":"FC Volendam","id":"FC_Volendam","win":6,"draw":9,"loss":19,"for":29,"against":65},
 	{"country":"nld","name":"NEC","id":"NEC_Nijmegen","win":6,"draw":7,"loss":21,"for":33,"against":73},
 	{"country":"nld","name":"Go Ahead Eagles","id":"Go_Ahead_Eagles","win":5,"draw":7,"loss":22,"for":40,"against":71,"isRemoved":true},
-	{"country":"bel","name":"Club Brugge","id":"Club_Brugge_KV","win":25,"draw":6,"loss":3,"for":83,"against":30,"isChampion":true},
+	{"country":"bel","name":"Club Brugge","id":"club_brugge_kv","win":25,"draw":6,"loss":3,"for":83,"against":30,"isChampion":true},
 	{"country":"bel","name":"Anderlecht","id":"R.S.C._Anderlecht","win":22,"draw":5,"loss":7,"for":83,"against":37},
 	{"country":"bel","name":"Germinal Ekeren","id":"Beerschot_A.C.","win":15,"draw":8,"loss":11,"for":53,"against":37},
 	{"country":"bel","name":"Molenbeek","id":"R.W.D._Molenbeek_(1909)","win":13,"draw":14,"loss":7,"for":43,"against":29},

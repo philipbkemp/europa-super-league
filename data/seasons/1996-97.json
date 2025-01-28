@@ -60,7 +60,7 @@
 	{"country":"nld","name":"NEC","id":"NEC_Nijmegen","win":7,"draw":11,"loss":16,"for":35,"against":61},
 	{"country":"nld","name":"AZ","id":"AZ_Alkmaar","win":6,"draw":7,"loss":21,"for":27,"against":52,"isRemoved":true,"isReturning":true},
 	{"country":"bel","name":"Lierse S.K.","id":"Lierse_S.K.","win":21,"draw":10,"loss":3,"for":70,"against":38,"isChampion":true},
-	{"country":"bel","name":"Club Brugge","id":"Club_Brugge_KV","win":22,"draw":5,"loss":7,"for":69,"against":34},
+	{"country":"bel","name":"Club Brugge","id":"club_brugge_kv","win":22,"draw":5,"loss":7,"for":69,"against":34},
 	{"country":"bel","name":"R.E. Mouscron","id":"R.E._Mouscron","win":17,"draw":10,"loss":7,"for":60,"against":38,"isNew":true},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":16,"draw":10,"loss":8,"for":59,"against":36},
 	{"country":"bel","name":"K.F.C. Lommel S.K.","id":"K.F.C._Lommel_S.K.","win":16,"draw":9,"loss":9,"for":50,"against":48},

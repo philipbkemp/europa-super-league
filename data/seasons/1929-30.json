@@ -56,7 +56,7 @@
 	{"country":"bel","name":"K.R.C. Mechelen","id":"K.R.C._Mechelen","win":14,"draw":3,"loss":9,"for":49,"against":39},
 	{"country":"bel","name":"Beerschot","id":"K._Beerschot_V.A.C.","win":13,"draw":4,"loss":9,"for":53,"against":42},
 	{"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":13,"draw":2,"loss":11,"for":52,"against":44,"isReturning":true},
-	{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":10,"draw":7,"loss":9,"for":51,"against":47,"isReturning":true},
+	{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":10,"draw":7,"loss":9,"for":51,"against":47,"isReturning":true},
 	{"country":"bel","name":"Daring Club","id":"R._Daring_Club_Molenbeek","win":11,"draw":5,"loss":10,"for":59,"against":55},
 	{"country":"bel","name":"Royale Union Saint-Gilloise","id":"royale_union_saint_gilloise","win":10,"draw":6,"loss":10,"for":64,"against":65},
 	{"country":"bel","name":"Lierse S.K.","id":"Lierse_S.K.","win":11,"draw":3,"loss":12,"for":53,"against":59},

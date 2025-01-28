@@ -61,7 +61,7 @@
 {"country":"nld","name":"NEC","id":"NEC_Nijmegen","win":5,"draw":16,"loss":13,"for":32,"against":55,"isReturning":true},
 {"country":"nld","name":"FC Den Bosch","id":"FC_Den_Bosch","win":6,"draw":13,"loss":15,"for":30,"against":51,"isRemoved":true},
 {"country":"nld","name":"HFC Haarlem","id":"HFC_Haarlem","win":4,"draw":7,"loss":23,"for":22,"against":74,"isRemoved":true},
-{"country":"bel","name":"Club Brugge K.V.","id":"Club_Brugge_KV","win":25,"draw":7,"loss":2,"for":76,"against":19,"isChampion":true},
+{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":25,"draw":7,"loss":2,"for":76,"against":19,"isChampion":true},
 {"country":"bel","name":"R.S.C. Anderlecht","id":"R.S.C._Anderlecht","win":24,"draw":5,"loss":5,"for":76,"against":21},
 {"country":"bel","name":"KV Mechelen","id":"K.V._Mechelen","win":19,"draw":12,"loss":3,"for":65,"against":14},
 {"country":"bel","name":"Royal Antwerp FC","id":"Royal_Antwerp_F.C.","win":15,"draw":13,"loss":6,"for":63,"against":32},
