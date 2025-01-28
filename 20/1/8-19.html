@@ -13,7 +13,14 @@
 			<h1>
 				<span class="d-block">Europa Super League</span>
 				2018-19
-				<a href="../../index.html" class="btn btn-outline-dark float-end">Home</a>
+				<div class="clubFinder-wrapper float-end">
+					<a href="../../index.html" class="btn btn-outline-dark float-end">Home</a>
+					<div class="clubFinder-results float-end me-2">
+						<input class="form-control" list="" id="exampleDataList" placeholder="Find a club" oninput="toggleDatalist(this)" />
+						<datalist id="datalistOptions">
+						</datalist>
+    				</div>
+				</div>
 			</h1>
 			
 			<hr />

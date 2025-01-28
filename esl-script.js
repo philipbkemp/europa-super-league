@@ -1144,6 +1144,20 @@ input.removeAttribute('list');
 }
 
 if ( document.getElementById('exampleDataList') ) {
+
+	if ( $("#datalistOptions option").length === 0 ) {
+		Array.from($("#divisionsTables tbody th")).forEach(r=>{
+			$("#datalistOptions").append(
+				$("<OPTION></OPTION>").attr("value",r.textContent).attr("data-id",r.parentNode.getAttribute("id"))
+			);
+		});
+	}
+
+	var options = $('#datalistOptions option').sort(function(a, b) {
+		return $(a).val().localeCompare($(b).val());
+	});
+	$('#datalistOptions').empty().append(options);
+
 	document.getElementById('exampleDataList').addEventListener('input', function () {
 		const inputValue = this.value;
 		const options = document.querySelectorAll('#datalistOptions option');
@@ -1166,11 +1180,11 @@ if ( document.getElementById('exampleDataList') ) {
 			document.getElementById(toFind).scrollIntoView();
 
 			setTimeout(function(){
-				if ( parseInt($(document.getElementById(toFind)).find("td")[0].innerText) < 60 ) {
-					$(window).scrollTop($(window).scrollTop()-250);
+				if ( parseInt($(document.getElementById(toFind)).find("td")[0].innerText) < 90 ) {
+					$(window).scrollTop($(window).scrollTop()-(window.innerHeight/2));
 				}
 				$(document.getElementById(toFind)).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250);
-			},500);
+			},1000);
 		}
 	});
 }
