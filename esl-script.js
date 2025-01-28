@@ -1143,32 +1143,62 @@ input.removeAttribute('list');
 }
 }
 
-document.getElementById('exampleDataList').addEventListener('input', function () {
-	const inputValue = this.value;
-	const options = document.querySelectorAll('#datalistOptions option');
-	const selectedOption = Array.from(options).find(option => option.value === inputValue);
-	if (selectedOption) {
+if ( document.getElementById('exampleDataList') ) {
+	document.getElementById('exampleDataList').addEventListener('input', function () {
+		const inputValue = this.value;
+		const options = document.querySelectorAll('#datalistOptions option');
+		const selectedOption = Array.from(options).find(option => option.value === inputValue);
+		if (selectedOption) {
 
-		toFind = selectedOption.getAttribute('data-id');
+			toFind = selectedOption.getAttribute('data-id');
 
-		division = $(document.getElementById(toFind).parentNode)[0].getAttribute("id");
-		divLetter = division.split("_")[1];
-		if ( divLetter === "new" ) {
-			divLetter = "h";
-		}
-
-		isActive = $($("#div"+divLetter)[0]).hasClass("active");
-		if ( ! isActive ) {
-			$($("#div"+divLetter)[0]).click();
-		}
-
-		document.getElementById(toFind).scrollIntoView();
-
-		setTimeout(function(){
-			if ( parseInt($(document.getElementById(toFind)).find("td")[0].innerText) < 60 ) {
-				$(window).scrollTop($(window).scrollTop()-250);
+			division = $(document.getElementById(toFind).parentNode)[0].getAttribute("id");
+			divLetter = division.split("_")[1];
+			if ( divLetter === "new" ) {
+				divLetter = "h";
 			}
-			$(document.getElementById(toFind)).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250);
-		},500);
-	}
+
+			isActive = $($("#div"+divLetter)[0]).hasClass("active");
+			if ( ! isActive ) {
+				$($("#div"+divLetter)[0]).click();
+			}
+
+			document.getElementById(toFind).scrollIntoView();
+
+			setTimeout(function(){
+				if ( parseInt($(document.getElementById(toFind)).find("td")[0].innerText) < 60 ) {
+					$(window).scrollTop($(window).scrollTop()-250);
+				}
+				$(document.getElementById(toFind)).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250).fadeOut(250).fadeIn(250);
+			},500);
+		}
+	});
+}
+
+
+const theads = document.querySelectorAll('#divisionsTables thead');
+
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    const header = entry.target;
+    const secondTh = header.querySelector('th:nth-child(3)');
+
+    if (secondTh) {
+      if (entry.isIntersecting) {
+        secondTh.textContent = "Division " + document.querySelector("#divisions .active").textContent.trim().replace("Division","")
+      } else {
+        if (!secondTh.dataset.originalText) {
+          secondTh.dataset.originalText = secondTh.textContent;
+        }
+        secondTh.textContent = secondTh.dataset.originalText;
+      }
+    }
+  });
+}, {
+  threshold: [0],
+  rootMargin: '0px 0px -100% 0px'
+});
+
+theads.forEach(thead => {
+  observer.observe(thead);
 });
