@@ -478,7 +478,7 @@
 	{"country":"sov","name":"Dnipro","id":"FC_Dnipro","win":9,"draw":10,"loss":11,"for":31,"against":36,"note":"Quit USSR FA to join newly formed national FA"},
 	{"country":"sov","name":"Pamir Dushanbe","id":"CSKA_Pamir_Dushanbe","win":7,"draw":13,"loss":10,"for":28,"against":32,"isRemoved":true,"removedNote":"The following season was cancelled after numerous clubs quit the USSR FA"},
 	{"country":"sov","name":"Spartak Vladikavkaz","id":"FC_Spartak_Vladikavkaz","win":9,"draw":8,"loss":13,"for":33,"against":41,"isReturning":true,"isRemoved":true,"removedNote":"The following season was cancelled after numerous clubs quit the USSR FA"},
-	{"country":"sov","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":6,"draw":14,"loss":10,"for":33,"against":41,"note":"Quit USSR FA to join newly formed national FA"},
+	{"country":"sov","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":6,"draw":14,"loss":10,"for":33,"against":41,"note":"Quit USSR FA to join newly formed national FA"},
 	{"country":"sov","name":"Metalurh Zaporizhzhia","id":"FC_Metalurh_Zaporizhzhia","win":9,"draw":7,"loss":14,"for":27,"against":38,"note":"Quit USSR FA to join newly formed national FA","isNew":true},
 	{"country":"sov","name":"Pakhtakor Tashkent","id":"Pakhtakor_FC","win":9,"draw":7,"loss":14,"for":37,"against":45,"isReturning":true,"isRemoved":true,"removedNote":"The following season was cancelled after numerous clubs quit the USSR FA"},
 	{"country":"sov","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":8,"draw":9,"loss":13,"for":32,"against":43,"note":"Quit USSR FA to join newly formed national FA"},

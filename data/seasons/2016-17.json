@@ -554,7 +554,7 @@
 	{"country":"svn","name":"Krško","id":"NK_Krško_Posavje","win":8,"draw":15,"loss":13,"for":39,"against":50},
 	{"country":"svn","name":"Aluminij","id":"NK_Aluminij","win":9,"draw":11,"loss":16,"for":38,"against":52,"isReturning":true},
 	{"country":"svn","name":"Radomlje","id":"NK_Radomlje","win":1,"draw":10,"loss":25,"for":23,"against":80,"isRemoved":true,"isReturning":true},
-	{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":25,"draw":5,"loss":2,"for":66,"against":24,"isChampion":true},
+	{"country":"ukr","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":25,"draw":5,"loss":2,"for":66,"against":24,"isChampion":true},
 	{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":21,"draw":4,"loss":7,"for":69,"against":33},
 	{"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":16,"draw":6,"loss":10,"for":45,"against":31},
 	{"country":"ukr","name":"Olimpik Donetsk","id":"FC_Olimpik_Donetsk","win":11,"draw":11,"loss":10,"for":33,"against":44},

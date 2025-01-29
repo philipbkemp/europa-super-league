@@ -596,7 +596,7 @@
 	{"country":"svn","name":"Rogaška","id":"NK_Rogaška","win":10,"draw":6,"loss":20,"for":37,"against":64,"isRemoved":true,"removedNote":"Administratively relegated after failing to earn a license","isNew":true},
 	{"country":"svn","name":"Radomlje","id":"NK_Radomlje","win":7,"draw":12,"loss":17,"for":33,"against":51},
 	{"country":"svn","name":"Aluminij","id":"NK_Aluminij","win":8,"draw":7,"loss":21,"for":37,"against":71,"isRemoved":true,"isReturning":true},
-	{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":22,"draw":5,"loss":3,"for":63,"against":24,"isChampion":true},
+	{"country":"ukr","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":22,"draw":5,"loss":3,"for":63,"against":24,"isChampion":true},
 	{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":22,"draw":3,"loss":5,"for":72,"against":28},
 	{"country":"ukr","name":"Kryvbas Kryvyi Rih","id":"FC_Kryvbas_Kryvyi_Rih_(2020)","win":17,"draw":6,"loss":7,"for":51,"against":30},
 	{"country":"ukr","name":"Dnipro-1","id":"SC_Dnipro-1","win":14,"draw":10,"loss":6,"for":40,"against":27,"isRemoved":true,"removedNote":"Withdrew due to financial hardship"},

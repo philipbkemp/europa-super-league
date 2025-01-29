@@ -592,7 +592,7 @@
 	{"country":"svn","name":"Koper","id":"FC_Koper","win":11,"draw":9,"loss":16,"for":41,"against":56,"isReturning":true},
 	{"country":"svn","name":"Gorica","id":"ND_Gorica","win":7,"draw":8,"loss":21,"for":24,"against":58,"isRemoved":true,"isReturning":true},
 	{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":20,"draw":5,"loss":1,"for":59,"against":15,"isChampion":true},
-	{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":16,"draw":6,"loss":4,"for":54,"against":19},
+	{"country":"ukr","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":16,"draw":6,"loss":4,"for":54,"against":19},
 	{"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":15,"draw":5,"loss":6,"for":44,"against":22},
 	{"country":"ukr","name":"Kolos Kovalivka","id":"FC_Kolos_Kovalivka","win":10,"draw":11,"loss":5,"for":36,"against":26},
 	{"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":11,"draw":8,"loss":7,"for":37,"against":30},

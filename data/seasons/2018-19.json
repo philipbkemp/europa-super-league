@@ -564,7 +564,7 @@
 	{"country":"svn","name":"Triglav Kranj","id":"NK_Triglav_Kranj","win":10,"draw":7,"loss":19,"for":51,"against":83},
 	{"country":"svn","name":"Gorica","id":"ND_Gorica","win":7,"draw":10,"loss":19,"for":44,"against":63,"isRemoved":true},
 	{"country":"svn","name":"Krško","id":"NK_Krško_Posavje","win":5,"draw":9,"loss":22,"for":29,"against":65,"isRemoved":true},
-	{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":26,"draw":5,"loss":1,"for":73,"against":11,"isChampion":true},
+	{"country":"ukr","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":26,"draw":5,"loss":1,"for":73,"against":11,"isChampion":true},
 	{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":22,"draw":6,"loss":4,"for":54,"against":18},
 	{"country":"ukr","name":"FC Oleksandriya","id":"FC_Oleksandriya","win":14,"draw":7,"loss":11,"for":39,"against":34},
 	{"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":11,"draw":10,"loss":11,"for":39,"against":34},

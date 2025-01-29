@@ -590,7 +590,7 @@
 	{"country":"svn","name":"Dravograd","id":"NK_Dravograd","win":10,"draw":5,"loss":18,"for":48,"against":62,"isRemoved":true},
 	{"country":"svn","name":"Tabor Sežana","id":"NK_Tabor_Sežana","win":7,"draw":7,"loss":19,"for":34,"against":75,"isRemoved":true,"isNew":true},
 	{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":20,"draw":4,"loss":2,"for":58,"against":17,"isChampion":true},
-	{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":19,"draw":6,"loss":1,"for":71,"against":21},
+	{"country":"ukr","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":19,"draw":6,"loss":1,"for":71,"against":21},
 	{"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":17,"draw":4,"loss":5,"for":37,"against":18},
 	{"country":"ukr","name":"Metalurh Mariupol","id":"FC_Mariupol","win":13,"draw":4,"loss":9,"for":35,"against":26},
 	{"country":"ukr","name":"Metalurh Donetsk","id":"FC_Metalurh_Donetsk","win":11,"draw":9,"loss":6,"for":30,"against":24},

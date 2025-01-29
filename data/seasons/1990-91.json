@@ -466,7 +466,7 @@
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":12,"draw":5,"loss":7,"for":39,"against":26},
 	{"country":"sov","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":11,"draw":6,"loss":7,"for":39,"against":26},
 	{"country":"sov","name":"Ararat Yerevan","id":"FC_Ararat_Yerevan","win":8,"draw":7,"loss":9,"for":25,"against":23},
-	{"country":"sov","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":6,"draw":10,"loss":8,"for":23,"against":31},
+	{"country":"sov","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":6,"draw":10,"loss":8,"for":23,"against":31},
 	{"country":"sov","name":"Chornomorets Odesa","id":"FC_Chornomorets_Odesa","win":8,"draw":3,"loss":13,"for":23,"against":29},
 	{"country":"sov","name":"Pamir Dushanbe","id":"CSKA_Pamir_Dushanbe","win":7,"draw":4,"loss":13,"for":26,"against":34},
 	{"country":"sov","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":5,"draw":8,"loss":11,"for":13,"against":28},

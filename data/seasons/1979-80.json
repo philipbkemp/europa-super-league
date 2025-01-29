@@ -468,7 +468,7 @@
 	{"country":"nor","name":"Mjøndalen","id":"Mjøndalen_IF_Fotball","win":6,"draw":5,"loss":11,"for":28,"against":43,"isRemoved":true,"isReturning":true},
 	{"country":"nor","name":"Brann","id":"SK_Brann","win":3,"draw":4,"loss":15,"for":18,"against":40,"isRemoved":true},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":21,"draw":10,"loss":3,"for":66,"against":25,"isChampion":true},
-	{"country":"sov","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":20,"draw":8,"loss":6,"for":57,"against":33},
+	{"country":"sov","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":20,"draw":8,"loss":6,"for":57,"against":33},
 	{"country":"sov","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":21,"draw":5,"loss":8,"for":51,"against":26},
 	{"country":"sov","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":19,"draw":12,"loss":3,"for":54,"against":27},
 	{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":17,"draw":9,"loss":8,"for":41,"against":27},

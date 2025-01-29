@@ -356,7 +356,7 @@
 	{"country":"sov","name":"Dynamo Leningrad","id":"FC_Dynamo_Saint_Petersburg","win":14,"draw":10,"loss":12,"for":63,"against":50},
 	{"country":"sov","name":"Spartak Tbilisi","id":"FC_Spartaki_Tbilisi","win":14,"draw":9,"loss":13,"for":50,"against":53,"isNew":true},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":13,"draw":10,"loss":13,"for":57,"against":60},
-	{"country":"sov","name":"Shakhtyor Stalino","id":"FC_Shakhtar_Donetsk","win":13,"draw":7,"loss":16,"for":49,"against":63},
+	{"country":"sov","name":"Shakhtyor Stalino","id":"fc_shakhtar_donetsk","win":13,"draw":7,"loss":16,"for":49,"against":63},
 	{"country":"sov","name":"Daugava Riga","id":"FC_Daugava_Riga","win":12,"draw":8,"loss":16,"for":37,"against":45},
 	{"country":"sov","name":"Dynamo Kiev","id":"fc_dynamo_kyiv","win":10,"draw":11,"loss":15,"for":39,"against":53},
 	{"country":"sov","name":"Dynamo Yerevan","id":"FC_Ararat_Yerevan","win":10,"draw":11,"loss":15,"for":39,"against":57,"isRemoved":true},

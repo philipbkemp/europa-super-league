@@ -568,7 +568,7 @@
 	{"country":"svn","name":"Zavrč","id":"NK_Zavrč","win":9,"draw":13,"loss":14,"for":32,"against":41,"isRemoved":true},
 	{"country":"svn","name":"Krka","id":"NK_Krka","win":8,"draw":10,"loss":18,"for":30,"against":56,"isRemoved":true},
 	{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":23,"draw":1,"loss":2,"for":54,"against":11,"isChampion":true},
-	{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":20,"draw":3,"loss":3,"for":76,"against":25},
+	{"country":"ukr","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":20,"draw":3,"loss":3,"for":76,"against":25},
 	{"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":16,"draw":5,"loss":5,"for":50,"against":22},
 	{"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":14,"draw":6,"loss":6,"for":51,"against":26},
 	{"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":11,"draw":9,"loss":6,"for":32,"against":26},

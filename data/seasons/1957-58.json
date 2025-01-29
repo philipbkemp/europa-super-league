@@ -374,7 +374,7 @@
 	{"country":"sov","name":"CSK MO Moscow","id":"PFC_CSKA_Moscow","win":13,"draw":1,"loss":8,"for":51,"against":31},
 	{"country":"sov","name":"Dynamo Kiev","id":"fc_dynamo_kyiv","win":8,"draw":7,"loss":7,"for":30,"against":30},
 	{"country":"sov","name":"Dynamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":8,"draw":5,"loss":9,"for":27,"against":33},
-	{"country":"sov","name":"Shakhtyor Stalino","id":"FC_Shakhtar_Donetsk","win":7,"draw":5,"loss":10,"for":19,"against":35},
+	{"country":"sov","name":"Shakhtyor Stalino","id":"fc_shakhtar_donetsk","win":7,"draw":5,"loss":10,"for":19,"against":35},
 	{"country":"sov","name":"Burevestnik Kishinyov","id":"FC_Zimbru_Chișinău","win":4,"draw":10,"loss":8,"for":24,"against":36},
 	{"country":"sov","name":"Zenit Leningrad","id":"fc_zenit_saint_petersburg","win":4,"draw":7,"loss":11,"for":23,"against":41},
 	{"country":"sov","name":"Krylia Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":2,"draw":8,"loss":12,"for":9,"against":32,"isReturning":true},

@@ -616,7 +616,7 @@
 	{"country":"ukr","name":"Torpedo Zaporizhzhia","id":"FC_Torpedo_Zaporizhzhia","win":15,"draw":3,"loss":16,"for":40,"against":46},
 	{"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":12,"draw":10,"loss":12,"for":39,"against":39},
 	{"country":"ukr","name":"Kremin Kremenchuk","id":"FC_Kremin_Kremenchuk","win":14,"draw":4,"loss":16,"for":46,"against":56},
-	{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":13,"draw":6,"loss":15,"for":44,"against":43},
+	{"country":"ukr","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":13,"draw":6,"loss":15,"for":44,"against":43},
 	{"country":"ukr","name":"Prykarpattya Ivano-Frankivsk","id":"FC_Spartak_Ivano-Frankivsk","win":12,"draw":8,"loss":14,"for":49,"against":49},
 	{"country":"ukr","name":"Tavriya Simferopol","id":"SC_Tavriya_Simferopol","win":12,"draw":8,"loss":14,"for":46,"against":46},
 	{"country":"ukr","name":"Nyva Ternopil","id":"FC_Nyva_Ternopil","win":13,"draw":3,"loss":18,"for":37,"against":42},

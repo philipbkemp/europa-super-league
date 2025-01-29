@@ -560,7 +560,7 @@ THEDATA = [
 	{"country":"tur","name":"Adana Demirspor","id":"Adana_Demirspor","win":2,"draw":2,"loss":16,"for":17,"against":45,"isCurrentSeason":true},
 	{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":13,"draw":4,"loss":0,"for":37,"against":11,"isCurrentSeason":true},
 	{"country":"ukr","name":"Oleksandriya","id":"FC_Oleksandriya","win":11,"draw":5,"loss":1,"for":26,"against":12,"isCurrentSeason":true},
-	{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":10,"draw":3,"loss":3,"for":41,"against":15,"isCurrentSeason":true},
+	{"country":"ukr","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":10,"draw":3,"loss":3,"for":41,"against":15,"isCurrentSeason":true},
 	{"country":"ukr","name":"Kryvbas Kryvyi Rih","id":"FC_Kryvbas_Kryvyi_Rih_(2020)","win":9,"draw":4,"loss":3,"for":22,"against":13,"isCurrentSeason":true},
 	{"country":"ukr","name":"Polissya Zhytomyr","id":"FC_Polissya_Zhytomyr","win":7,"draw":6,"loss":4,"for":24,"against":16,"isCurrentSeason":true},
 	{"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":7,"draw":3,"loss":7,"for":22,"against":21,"isReturning":true,"isCurrentSeason":true},

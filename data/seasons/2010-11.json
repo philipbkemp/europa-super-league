@@ -588,7 +588,7 @@
 	{"country":"svn","name":"Celje","id":"NK_Celje","win":9,"draw":10,"loss":17,"for":41,"against":55},
 	{"country":"svn","name":"Nafta","id":"NK_Nafta_Lendava","win":10,"draw":7,"loss":19,"for":47,"against":67},
 	{"country":"svn","name":"Primorje","id":"NK_Primorje","win":8,"draw":7,"loss":21,"for":40,"against":74,"isRemoved":true,"isReturning":true},
-	{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":23,"draw":3,"loss":4,"for":53,"against":16,"isChampion":true},
+	{"country":"ukr","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":23,"draw":3,"loss":4,"for":53,"against":16,"isChampion":true},
 	{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":20,"draw":5,"loss":5,"for":60,"against":24},
 	{"country":"ukr","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":18,"draw":6,"loss":6,"for":58,"against":26},
 	{"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":16,"draw":9,"loss":5,"for":46,"against":20},

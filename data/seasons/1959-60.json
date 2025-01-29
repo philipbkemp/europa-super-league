@@ -413,7 +413,7 @@
 	{"country":"sov","name":"CSK MO Moscow","id":"PFC_CSKA_Moscow","win":8,"draw":3,"loss":11,"for":29,"against":27,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
 	{"country":"sov","name":"Moldova Kishinyov","id":"FC_Zimbru_Chișinău","win":6,"draw":5,"loss":11,"for":22,"against":45,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
 	{"country":"sov","name":"Krylia Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":6,"draw":1,"loss":15,"for":26,"against":37,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
-	{"country":"sov","name":"Shakhtyor Stalino","id":"FC_Shakhtar_Donetsk","win":4,"draw":5,"loss":13,"for":24,"against":43,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
+	{"country":"sov","name":"Shakhtyor Stalino","id":"fc_shakhtar_donetsk","win":4,"draw":5,"loss":13,"for":24,"against":43,"isRemoved":true,"removedNote":"League moved to grouped format next season"},
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":5,"draw":2,"loss":1,"for":17,"against":6,"isChampion":true},
 	{"country":"fro","name":"Havnar Bóltfelag","id":"havnar_boltfelag","win":4,"draw":1,"loss":3,"for":18,"against":13},
 	{"country":"fro","name":"KÍ Klaksvík","id":"klaksvikar_itrottarfelag","win":4,"draw":1,"loss":3,"for":18,"against":15},

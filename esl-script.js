@@ -65,7 +65,7 @@ const countries = {
 	"yug": "Yugoslavia"
 };
 
-clubPages = ["linfield_fc","rangers_fc","floriana_fc","colentina_ac_bucuresti","knattspyrnufelagio_fram","knattspyrnufelagio_vikingur","sliema_wanderers_fc","knattspyrnufelag_reykjavikur","valur","js_estonia_tallinn","ofk_beograd","hsk_gradanski_zagreb","malmo_ff","balti_laevastik_tallinn","heart_of_midlothian_fc","iprottabandalag_akraness","celtic_fc","berliner_fc_dynamo","fcsb","valletta_fc","fc_norma_tallinn","fc_rapid_bucuresti","fc_dynamo_kyiv","fc_flora","fc_tvmk","gnk_dinamo_zagreb","rhyl_fc","fci_levadia_tallinn","fk_partizan","hibernians_fc","olympiacos_fc","red_star_belgrade","the_new_saints_fc"
+clubPages = ["linfield_fc","rangers_fc","floriana_fc","colentina_ac_bucuresti","knattspyrnufelagio_fram","knattspyrnufelagio_vikingur","sliema_wanderers_fc","knattspyrnufelag_reykjavikur","valur","js_estonia_tallinn","ofk_beograd","hsk_gradanski_zagreb","malmo_ff","balti_laevastik_tallinn","heart_of_midlothian_fc","iprottabandalag_akraness","celtic_fc","berliner_fc_dynamo","fcsb","valletta_fc","fc_norma_tallinn","fc_rapid_bucuresti","fc_flora","fc_tvmk","gnk_dinamo_zagreb","rhyl_fc","fci_levadia_tallinn","fk_partizan","hibernians_fc","olympiacos_fc","red_star_belgrade","the_new_saints_fc"
 
 	/*alb*/
 	,"fk_partizani_tirana","kf_tirana","fk_vllaznia_shkoder"
@@ -135,10 +135,12 @@ clubPages = ["linfield_fc","rangers_fc","floriana_fc","colentina_ac_bucuresti","
 	,"nk_olimpija_ljubljana"
 	/*tur*/
 	,"besiktas_jk","galatasaray_sk","fenerbahce_sk"
+	/*ukr*/
+	,"fc_dynamo_kyiv","fc_shakhtar_donetsk"
 
 ];
 
-multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk","hsk_zrinjski_mostar","fc_viktoria_plzen","bayer_04_leverkusen","fc_dinamo_minsk","sk_slovan_bratislava","fk_buducnost_podgorica","fk_zalgiris","fc_zenit_saint_petersburg","maccabi_tel_aviv_fc"];
+multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk","hsk_zrinjski_mostar","fc_viktoria_plzen","bayer_04_leverkusen","fc_dinamo_minsk","sk_slovan_bratislava","fk_buducnost_podgorica","fk_zalgiris","fc_zenit_saint_petersburg","maccabi_tel_aviv_fc","fc_shakhtar_donetsk"];
 
 if ( $("h1 .placeholder").length !== 0 ) {
 
@@ -961,7 +963,7 @@ function saveClubs(refresh=false,dump=true) {
 					countryFlag = "srb";
 				} else if ( v === "sk_slovan_bratislava" ) {
 					countryFlag = "svk";
-				} else if ( v === "fc_dynamo_kyiv" ) {
+				} else if ( v === "fc_dynamo_kyiv" || v === "fc_shakhtar_donetsk" ) {
 					countryFlag = "ukr";
 				}
 				clubName.html( clubName.html().replace(clubName.text(),"<a href='../../clubs/"+countryFlag+"/"+$sr.attr("id")+".html'>"+clubName.text()+"</a>") );

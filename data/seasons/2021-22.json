@@ -589,7 +589,7 @@
 	{"country":"svn","name":"Celje","id":"NK_Celje","win":12,"draw":6,"loss":18,"for":46,"against":50},
 	{"country":"svn","name":"Tabor Sežana","id":"NK_Tabor_Sežana","win":7,"draw":9,"loss":20,"for":30,"against":41},
 	{"country":"svn","name":"Aluminij","id":"NK_Aluminij","win":4,"draw":12,"loss":20,"for":33,"against":72,"isRemoved":true},
-	{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":15,"draw":2,"loss":1,"for":49,"against":10,"isChampion":true},
+	{"country":"ukr","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":15,"draw":2,"loss":1,"for":49,"against":10,"isChampion":true},
 	{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":14,"draw":3,"loss":1,"for":47,"against":9},
 	{"country":"ukr","name":"Dnipro-1","id":"SC_Dnipro-1","win":13,"draw":1,"loss":4,"for":35,"against":17},
 	{"country":"ukr","name":"Zorya Luhansk","id":"FC_Zorya_Luhansk","win":11,"draw":3,"loss":4,"for":37,"against":19},

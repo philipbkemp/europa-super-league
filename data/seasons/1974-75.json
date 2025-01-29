@@ -461,7 +461,7 @@
 	{"country":"sov","name":"Dinamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":8,"draw":14,"loss":8,"for":29,"against":34},
 	{"country":"sov","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":9,"draw":11,"loss":10,"for":31,"against":39},
 	{"country":"sov","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":8,"draw":12,"loss":10,"for":33,"against":33},
-	{"country":"sov","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":8,"draw":12,"loss":10,"for":31,"against":35},
+	{"country":"sov","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":8,"draw":12,"loss":10,"for":31,"against":35},
 	{"country":"sov","name":"CSKA Moscow","id":"PFC_CSKA_Moscow","win":7,"draw":12,"loss":11,"for":28,"against":33},
 	{"country":"sov","name":"Zarya Voroshilovgrad","id":"FC_Zorya_Luhansk","win":8,"draw":10,"loss":12,"for":32,"against":41},
 	{"country":"sov","name":"Kairat Alma-Ata","id":"FC_Kairat","win":8,"draw":10,"loss":12,"for":37,"against":47,"isRemoved":true},

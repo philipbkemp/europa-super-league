@@ -288,7 +288,7 @@
 	{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":12,"draw":6,"loss":7,"for":44,"against":37},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":9,"draw":11,"loss":5,"for":51,"against":38,"isNew":true},
 	{"country":"sov","name":"Dynamo Odessa","id":"FC_Dynamo_Odesa","win":9,"draw":11,"loss":5,"for":39,"against":35,"isNew":true},
-	{"country":"sov","name":"Stakhanovets Stalino","id":"FC_Shakhtar_Donetsk","win":11,"draw":7,"loss":7,"for":56,"against":51,"isNew":true},
+	{"country":"sov","name":"Stakhanovets Stalino","id":"fc_shakhtar_donetsk","win":11,"draw":7,"loss":7,"for":56,"against":51,"isNew":true},
 	{"country":"sov","name":"Traktor Stalingrad","id":"FC_Rotor_Volgograd","win":12,"draw":3,"loss":10,"for":53,"against":48,"isNew":true},
 	{"country":"sov","name":"Elektrik Leningrad","id":"FC_Elektrosila_Leningrad","win":8,"draw":8,"loss":9,"for":42,"against":44},
 	{"country":"sov","name":"Stalinets Leningrad","id":"FC_Stalinets_Leningrad","win":7,"draw":10,"loss":8,"for":38,"against":57,"isNew":true,"isRemoved":true},

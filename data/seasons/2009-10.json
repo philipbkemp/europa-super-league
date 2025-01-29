@@ -586,7 +586,7 @@
 	{"country":"svn","name":"Domžale","id":"NK_Domžale","win":12,"draw":9,"loss":15,"for":51,"against":59},
 	{"country":"svn","name":"Interblock","id":"NK_IB_1975_Ljubljana","win":9,"draw":6,"loss":21,"for":35,"against":64,"isRemoved":true},
 	{"country":"svn","name":"Drava Ptuj","id":"NK_Drava_Ptuj_(1933)","win":7,"draw":9,"loss":20,"for":34,"against":56,"isRemoved":true},
-	{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":24,"draw":5,"loss":1,"for":62,"against":18,"isChampion":true},
+	{"country":"ukr","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":24,"draw":5,"loss":1,"for":62,"against":18,"isChampion":true},
 	{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":22,"draw":5,"loss":3,"for":61,"against":16},
 	{"country":"ukr","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":19,"draw":5,"loss":6,"for":49,"against":23},
 	{"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":15,"draw":9,"loss":6,"for":48,"against":25},

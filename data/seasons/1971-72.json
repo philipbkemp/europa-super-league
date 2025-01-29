@@ -474,7 +474,7 @@
 	{"country":"sov","name":"Zenit Leningrad","id":"fc_zenit_saint_petersburg","win":8,"draw":10,"loss":12,"for":29,"against":32},
 	{"country":"sov","name":"SKA Rostov-on-Don","id":"FC_SKA_Rostov-on-Don","win":9,"draw":8,"loss":13,"for":35,"against":43},
 	{"country":"sov","name":"Pakhtakor Tashkent","id":"Pakhtakor_FC","win":8,"draw":10,"loss":12,"for":29,"against":46,"isRemoved":true},
-	{"country":"sov","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":10,"draw":4,"loss":16,"for":31,"against":37,"isRemoved":true},
+	{"country":"sov","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":10,"draw":4,"loss":16,"for":31,"against":37,"isRemoved":true},
 	{"country":"fro","name":"Havnar Bóltfelag","id":"havnar_boltfelag","win":9,"draw":0,"loss":1,"for":60,"against":10,"isChampion":true},
 	{"country":"fro","name":"KÍ Klaksvík","id":"klaksvikar_itrottarfelag","win":8,"draw":0,"loss":2,"for":47,"against":10},
 	{"country":"fro","name":"VB Vágur","id":"Vágs_Bóltfelag","win":5,"draw":1,"loss":4,"for":32,"against":34},

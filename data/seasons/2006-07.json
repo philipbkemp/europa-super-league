@@ -588,7 +588,7 @@
 	{"country":"svn","name":"Interblock","id":"NK_IB_1975_Ljubljana","win":5,"draw":11,"loss":20,"for":34,"against":68,"isNew":true},
 	{"country":"svn","name":"Bela Krajina","id":"NK_Bela_Krajina","win":5,"draw":10,"loss":21,"for":38,"against":64,"isRemoved":true},
 	{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":22,"draw":8,"loss":0,"for":67,"against":23,"isChampion":true},
-	{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":19,"draw":6,"loss":5,"for":57,"against":20},
+	{"country":"ukr","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":19,"draw":6,"loss":5,"for":57,"against":20},
 	{"country":"ukr","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":18,"draw":7,"loss":5,"for":40,"against":20},
 	{"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":11,"draw":14,"loss":5,"for":32,"against":24},
 	{"country":"ukr","name":"Tavriya Simferopol","id":"SC_Tavriya_Simferopol","win":12,"draw":6,"loss":12,"for":32,"against":30},

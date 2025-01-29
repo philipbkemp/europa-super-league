@@ -608,7 +608,7 @@
 	{"country":"svn","name":"Beltinci","id":"NK_Beltinci","win":7,"draw":11,"loss":18,"for":37,"against":69},
 	{"country":"svn","name":"Koper","id":"FC_Koper","win":8,"draw":7,"loss":21,"for":28,"against":61,"isRemoved":true,"isReturning":true},
 	{"country":"ukr","name":"Dynamo Kyiv","id":"fc_dynamo_kyiv","win":23,"draw":4,"loss":3,"for":69,"against":20,"isChampion":true},
-	{"country":"ukr","name":"Shakhtar Donetsk","id":"FC_Shakhtar_Donetsk","win":19,"draw":5,"loss":6,"for":72,"against":28},
+	{"country":"ukr","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":19,"draw":5,"loss":6,"for":72,"against":28},
 	{"country":"ukr","name":"Vorskla Poltava","id":"FC_Vorskla_Poltava","win":17,"draw":7,"loss":6,"for":50,"against":26,"isNew":true},
 	{"country":"ukr","name":"Dnipro Dnipropetrovsk","id":"FC_Dnipro","win":14,"draw":13,"loss":3,"for":48,"against":19},
 	{"country":"ukr","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":15,"draw":7,"loss":8,"for":36,"against":23},
