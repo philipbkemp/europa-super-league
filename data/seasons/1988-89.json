@@ -393,7 +393,7 @@
 	{"country":"fin","name":"Ilves Tampere","id":"Ilves_(football)","win":8,"draw":9,"loss":10,"for":40,"against":47},
 	{"country":"fin","name":"MP Mikkeli","id":"Mikkelin_Palloilijat","win":8,"draw":10,"loss":9,"for":24,"against":33},
 	{"country":"fin","name":"OTP Oulu","id":"Oulun_Työväen_Palloilijat","win":7,"draw":9,"loss":11,"for":32,"against":36,"isReturning":true},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":4,"draw":12,"loss":11,"for":24,"against":34},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":4,"draw":12,"loss":11,"for":24,"against":34},
 	{"country":"fin","name":"PPT Pori","id":"FC_Jazz","win":0,"draw":7,"loss":20,"for":26,"against":63,"isRemoved":true},
 	{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":20,"draw":13,"loss":5,"for":56,"against":35,"isChampion":true},
 	{"country":"fra","name":"Paris Saint-Germain","id":"paris_saint_germain_fc","win":19,"draw":13,"loss":6,"for":45,"against":26},

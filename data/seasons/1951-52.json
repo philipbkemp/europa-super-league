@@ -270,7 +270,7 @@
 	{"country":"fin","name":"VIFK Vaasa","id":"Vasa_IFK","win":10,"draw":6,"loss":2,"for":45,"against":24},
 	{"country":"fin","name":"TPK Turku","id":"Turun_Pallokerho","win":8,"draw":7,"loss":3,"for":40,"against":25,"isNew":true},
 	{"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":7,"draw":5,"loss":6,"for":38,"against":32},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":8,"draw":2,"loss":8,"for":38,"against":35},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":8,"draw":2,"loss":8,"for":38,"against":35},
 	{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":7,"draw":4,"loss":7,"for":41,"against":41},
 	{"country":"fin","name":"KIF Helsinki","id":"FC_Kiffen_08","win":8,"draw":2,"loss":8,"for":40,"against":42},
 	{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":5,"draw":7,"loss":6,"for":34,"against":31},

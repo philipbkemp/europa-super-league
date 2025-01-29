@@ -365,7 +365,7 @@
 	{"country":"alb","name":"Traktori","id":"KF_Lushnja","win":4,"draw":8,"loss":10,"for":19,"against":34,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":2,"draw":8,"loss":12,"for":19,"against":38,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":2,"draw":6,"loss":14,"for":13,"against":46,"isRemoved":true,"removedNote":"League not contested next season","isReturning":true},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":12,"draw":5,"loss":5,"for":41,"against":23,"isChampion":true},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":12,"draw":5,"loss":5,"for":41,"against":23,"isChampion":true},
 	{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":10,"draw":7,"loss":5,"for":46,"against":30},
 	{"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":10,"draw":4,"loss":8,"for":40,"against":29},
 	{"country":"fin","name":"MP Mikkeli","id":"Mikkelin_Palloilijat","win":9,"draw":6,"loss":7,"for":36,"against":33,"isNew":true},

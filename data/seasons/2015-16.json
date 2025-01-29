@@ -347,7 +347,7 @@
 	{"country":"fin","name":"IFK Mariehamn","id":"IFK_Mariehamn","win":11,"draw":12,"loss":10,"for":30,"against":36},
 	{"country":"fin","name":"HIFK","id":"HIFK_Fotboll","win":10,"draw":13,"loss":10,"for":42,"against":42,"isReturning":true},
 	{"country":"fin","name":"Ilves","id":"Ilves_(football)","win":11,"draw":7,"loss":15,"for":32,"against":48,"isReturning":true},
-	{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":9,"draw":11,"loss":13,"for":32,"against":40},
+	{"country":"fin","name":"KuPS","id":"kuopion_palloseura","win":9,"draw":11,"loss":13,"for":32,"against":40},
 	{"country":"fin","name":"VPS","id":"Vaasan_Palloseura","win":8,"draw":9,"loss":16,"for":36,"against":43},
 	{"country":"fin","name":"KTP","id":"Kotkan_Työväen_Palloilijat","win":7,"draw":11,"loss":15,"for":27,"against":44,"isRemoved":true,"isReturning":true},
 	{"country":"fin","name":"Jaro","id":"FF_Jaro","win":6,"draw":11,"loss":16,"for":27,"against":43,"isRemoved":true},

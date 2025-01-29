@@ -367,7 +367,7 @@
 	{"country":"fin","name":"RoPS","id":"Rovaniemen_Palloseura","win":8,"draw":6,"loss":12,"for":31,"against":37,"isReturning":true},
 	{"country":"fin","name":"VPS","id":"Vaasan_Palloseura","win":6,"draw":11,"loss":9,"for":18,"against":29},
 	{"country":"fin","name":"IFK Mariehamn","id":"IFK_Mariehamn","win":7,"draw":5,"loss":14,"for":24,"against":40},
-	{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":4,"draw":7,"loss":15,"for":26,"against":56,"isReturning":true},
+	{"country":"fin","name":"KuPS","id":"kuopion_palloseura","win":4,"draw":7,"loss":15,"for":26,"against":56,"isReturning":true},
 	{"country":"fin","name":"FC KooTeePee","id":"FC_KooTeePee","win":1,"draw":5,"loss":20,"for":14,"against":57,"isRemoved":true},
 	{"country":"fra","name":"Bordeaux","id":"FC_Girondins_de_Bordeaux","win":24,"draw":8,"loss":6,"for":64,"against":34,"isChampion":true},
 	{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":22,"draw":11,"loss":5,"for":67,"against":35},

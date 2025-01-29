@@ -99,6 +99,8 @@ clubPages = ["linfield_fc","rangers_fc","floriana_fc","colentina_ac_bucuresti","
 	,"preston_north_end_fc","tottenham_hotspur_fc","liverpool_fc"
 	/*esp*/
 	,"real_madrid_cf","atletico_madrid"
+	/*fin*/
+	,"kuopion_palloseura"
 	/*fra*/
 	,"paris_saint_germain_fc"
 	/*fro*/

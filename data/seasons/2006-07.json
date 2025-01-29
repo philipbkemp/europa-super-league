@@ -367,7 +367,7 @@
 	{"country":"fin","name":"FC Inter","id":"FC_Inter_Turku","win":7,"draw":7,"loss":10,"for":25,"against":35},
 	{"country":"fin","name":"FC KooTeePee","id":"FC_KooTeePee","win":8,"draw":3,"loss":13,"for":26,"against":44},
 	{"country":"fin","name":"FF Jaro","id":"FF_Jaro","win":4,"draw":7,"loss":13,"for":27,"against":42},
-	{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":5,"draw":4,"loss":15,"for":18,"against":41,"isRemoved":true},
+	{"country":"fin","name":"KuPS","id":"kuopion_palloseura","win":5,"draw":4,"loss":15,"for":18,"against":41,"isRemoved":true},
 	{"country":"fra","name":"Lyon","id":"Olympique_Lyonnais","win":24,"draw":9,"loss":5,"for":64,"against":27,"isChampion":true},
 	{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":19,"draw":7,"loss":12,"for":53,"against":38},
 	{"country":"fra","name":"Toulouse","id":"Toulouse_FC","win":17,"draw":7,"loss":14,"for":44,"against":43},

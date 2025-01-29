@@ -393,7 +393,7 @@
 	{"country":"alb","name":"Shkëndija Tiranë","id":"Shkëndija_Tiranë","win":6,"draw":7,"loss":13,"for":18,"against":30,"isRemoved":true},
 	{"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":0,"draw":5,"loss":21,"for":15,"against":50,"isRemoved":true,"isReturning":true},
 	{"country":"fin","name":"OPS Oulu","id":"Oulun_Palloseura_(football)","win":15,"draw":11,"loss":3,"for":53,"against":25,"isChampion":true},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":17,"draw":6,"loss":6,"for":58,"against":33},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":17,"draw":6,"loss":6,"for":58,"against":33},
 	{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":14,"draw":7,"loss":8,"for":48,"against":36},
 	{"country":"fin","name":"Reipas Lahti","id":"Reipas_Lahti","win":12,"draw":8,"loss":9,"for":46,"against":49},
 	{"country":"fin","name":"KPT Kuopio","id":"Koparit","win":13,"draw":7,"loss":9,"for":47,"against":33},

@@ -368,7 +368,7 @@
 	{"country":"fin","name":"Reipas Lahti","id":"Reipas_Lahti","win":9,"draw":7,"loss":6,"for":44,"against":24},
 	{"country":"fin","name":"GBK Kokkola","id":"GBK_Kokkola","win":9,"draw":7,"loss":6,"for":32,"against":32},
 	{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":9,"draw":4,"loss":9,"for":25,"against":27},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":8,"draw":6,"loss":8,"for":25,"against":28},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":8,"draw":6,"loss":8,"for":25,"against":28},
 	{"country":"fin","name":"IKissat Tampere","id":"Ilves_(football)","win":7,"draw":8,"loss":7,"for":25,"against":29,"isRemoved":true},
 	{"country":"fin","name":"KTP Kotka","id":"Kotkan_Työväen_Palloilijat","win":8,"draw":5,"loss":9,"for":41,"against":43},
 	{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":9,"draw":3,"loss":10,"for":30,"against":48,"isReturning":true},

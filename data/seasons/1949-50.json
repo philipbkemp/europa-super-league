@@ -295,7 +295,7 @@
 	{"country":"fin","name":"KTP Kotka","id":"Kotkan_Työväen_Palloilijat","win":10,"draw":6,"loss":6,"for":38,"against":34},
 	{"country":"fin","name":"TuWe Turku","id":"Turun_Weikot","win":9,"draw":3,"loss":10,"for":39,"against":42},
 	{"country":"fin","name":"IKissat Tampere","id":"Ilves_(football)","win":7,"draw":6,"loss":9,"for":48,"against":49,"isNew":true},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":7,"draw":5,"loss":10,"for":38,"against":41,"isNew":true},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":7,"draw":5,"loss":10,"for":38,"against":41,"isNew":true},
 	{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":7,"draw":2,"loss":13,"for":38,"against":52,"isRemoved":true},
 	{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":5,"draw":4,"loss":13,"for":27,"against":55,"isRemoved":true},
 	{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":3,"draw":7,"loss":12,"for":27,"against":54,"isRemoved":true},

@@ -358,7 +358,7 @@
 	{"country":"alb","name":"Erzeni","id":"KF_Erzeni_Shijak","win":7,"draw":11,"loss":18,"for":29,"against":57,"isRemoved":true},
 	{"country":"alb","name":"Kukësi","id":"FK_Kukësi","win":6,"draw":9,"loss":21,"for":31,"against":56,"isRemoved":true},
 	{"country":"fin","name":"HJK","id":"Helsingin_Jalkapalloklubi","win":15,"draw":8,"loss":4,"for":50,"against":26,"isChampion":true},
-	{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":16,"draw":5,"loss":6,"for":41,"against":20},
+	{"country":"fin","name":"KuPS","id":"kuopion_palloseura","win":16,"draw":5,"loss":6,"for":41,"against":20},
 	{"country":"fin","name":"SJK","id":"Seinäjoen_Jalkapallokerho","win":12,"draw":6,"loss":9,"for":35,"against":33},
 	{"country":"fin","name":"VPS","id":"Vaasan_Palloseura","win":15,"draw":4,"loss":8,"for":41,"against":26},
 	{"country":"fin","name":"Honka","id":"FC_Honka","win":12,"draw":5,"loss":10,"for":29,"against":27,"isRemoved":true},

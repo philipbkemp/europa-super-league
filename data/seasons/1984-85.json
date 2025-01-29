@@ -402,7 +402,7 @@
 	{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":10,"draw":6,"loss":6,"for":49,"against":37},
 	{"country":"fin","name":"RoPS Rovaniemi","id":"Rovaniemen_Palloseura","win":9,"draw":6,"loss":7,"for":33,"against":38},
 	{"country":"fin","name":"KePS Kemi","id":"Kemi_City_F.C.","win":7,"draw":7,"loss":8,"for":35,"against":36,"isNew":true},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":6,"draw":7,"loss":9,"for":25,"against":32},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":6,"draw":7,"loss":9,"for":25,"against":32},
 	{"country":"fin","name":"PPT Pori","id":"FC_Jazz","win":7,"draw":3,"loss":12,"for":32,"against":42,"isNew":true},
 	{"country":"fin","name":"Koparit Kuopio","id":"Koparit","win":3,"draw":9,"loss":10,"for":23,"against":28},
 	{"country":"fin","name":"KPV Kokkola","id":"Kokkolan_Palloveikot","win":6,"draw":3,"loss":13,"for":30,"against":56},

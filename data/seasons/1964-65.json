@@ -352,7 +352,7 @@
 	{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":4,"draw":9,"loss":9,"for":16,"against":29},
 	{"country":"alb","name":"Ylli i Kuq","id":"KS_Pogradeci","win":0,"draw":2,"loss":20,"for":6,"against":45,"isRemoved":true,"isReturning":true},
 	{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":14,"draw":6,"loss":2,"for":42,"against":18,"isChampion":true,"isReturning":true},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":13,"draw":4,"loss":5,"for":39,"against":21},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":13,"draw":4,"loss":5,"for":39,"against":21},
 	{"country":"fin","name":"KTP Kotka","id":"Kotkan_Työväen_Palloilijat","win":12,"draw":4,"loss":6,"for":47,"against":29},
 	{"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":11,"draw":5,"loss":6,"for":42,"against":22},
 	{"country":"fin","name":"Reipas Lahti","id":"Reipas_Lahti","win":10,"draw":4,"loss":8,"for":46,"against":33},

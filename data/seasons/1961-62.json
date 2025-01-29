@@ -325,7 +325,7 @@
 	{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":7,"draw":7,"loss":8,"for":42,"against":41},
 	{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":9,"draw":2,"loss":11,"for":49,"against":56},
 	{"country":"fin","name":"TaPa Tampere","id":"TaPa","win":7,"draw":6,"loss":9,"for":38,"against":48,"isNew":true},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":8,"draw":3,"loss":11,"for":40,"against":45},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":8,"draw":3,"loss":11,"for":40,"against":45},
 	{"country":"fin","name":"VIFK Vaasa","id":"Vasa_IFK","win":7,"draw":4,"loss":11,"for":42,"against":53,"isRemoved":true},
 	{"country":"fin","name":"PPojat Helsinki","id":"Pallo-Pojat_Juniorit","win":7,"draw":3,"loss":12,"for":30,"against":41,"isRemoved":true},
 	{"country":"fin","name":"TuTo Turku","id":"Turun_Toverit","win":5,"draw":3,"loss":14,"for":36,"against":58,"isRemoved":true,"isReturning":true},

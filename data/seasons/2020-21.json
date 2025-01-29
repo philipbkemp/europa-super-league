@@ -354,7 +354,7 @@
 	{"country":"alb","name":"Apolonia","id":"FK_Apolonia_Fier","win":4,"draw":9,"loss":23,"for":22,"against":67,"isRemoved":true,"isReturning":true},
 	{"country":"fin","name":"HJK","id":"Helsingin_Jalkapalloklubi","win":14,"draw":6,"loss":2,"for":53,"against":17,"isChampion":true},
 	{"country":"fin","name":"Inter Turku","id":"FC_Inter_Turku","win":12,"draw":5,"loss":5,"for":36,"against":17},
-	{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":12,"draw":5,"loss":5,"for":39,"against":26},
+	{"country":"fin","name":"KuPS","id":"kuopion_palloseura","win":12,"draw":5,"loss":5,"for":39,"against":26},
 	{"country":"fin","name":"FC Honka","id":"FC_Honka","win":9,"draw":10,"loss":3,"for":26,"against":17},
 	{"country":"fin","name":"Ilves","id":"Ilves_(football)","win":10,"draw":6,"loss":6,"for":37,"against":29},
 	{"country":"fin","name":"FC Lahti","id":"FC_Lahti","win":8,"draw":8,"loss":6,"for":33,"against":30},

@@ -344,7 +344,7 @@
 	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":12,"draw":10,"loss":14,"for":36,"against":41,"isReturning":true},
 	{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":2,"draw":9,"loss":25,"for":32,"against":72,"isRemoved":true},
 	{"country":"alb","name":"Luftëtari","id":"KF_Luftëtari","win":2,"draw":8,"loss":26,"for":19,"against":86,"isRemoved":true},
-	{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":15,"draw":8,"loss":4,"for":46,"against":24,"isChampion":true},
+	{"country":"fin","name":"KuPS","id":"kuopion_palloseura","win":15,"draw":8,"loss":4,"for":46,"against":24,"isChampion":true},
 	{"country":"fin","name":"Inter Turku","id":"FC_Inter_Turku","win":15,"draw":3,"loss":9,"for":42,"against":29},
 	{"country":"fin","name":"FC Honka","id":"FC_Honka","win":14,"draw":5,"loss":8,"for":41,"against":29},
 	{"country":"fin","name":"Ilves","id":"Ilves_(football)","win":13,"draw":8,"loss":6,"for":34,"against":25},

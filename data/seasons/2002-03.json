@@ -346,7 +346,7 @@
 	{"country":"fin","name":"Tampere United","id":"Tampere_United","win":8,"draw":15,"loss":6,"for":31,"against":24},
 	{"country":"fin","name":"FC Lahti","id":"FC_Lahti","win":9,"draw":6,"loss":14,"for":25,"against":44},
 	{"country":"fin","name":"Jaro Jakobstad","id":"FF_Jaro","win":10,"draw":6,"loss":13,"for":34,"against":46,"isReturning":true},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":10,"draw":7,"loss":12,"for":40,"against":34},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":10,"draw":7,"loss":12,"for":40,"against":34},
 	{"country":"fin","name":"FC Hämeenlinna","id":"FC_Hämeenlinna","win":6,"draw":9,"loss":14,"for":31,"against":42,"isNew":true},
 	{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":6,"draw":7,"loss":16,"for":27,"against":51,"isRemoved":true},
 	{"country":"fin","name":"FC Jazz Pori","id":"FC_Jazz","win":6,"draw":7,"loss":16,"for":23,"against":47},

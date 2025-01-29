@@ -393,7 +393,7 @@
 	{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":10,"draw":11,"loss":5,"for":46,"against":32},
 	{"country":"fin","name":"MP Mikkeli","id":"Mikkelin_Palloilijat","win":10,"draw":10,"loss":6,"for":45,"against":30},
 	{"country":"fin","name":"Kuusysi Lahti","id":"FC_Kuusysi","win":10,"draw":9,"loss":7,"for":40,"against":29},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":11,"draw":5,"loss":10,"for":45,"against":34},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":11,"draw":5,"loss":10,"for":45,"against":34},
 	{"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":11,"draw":4,"loss":11,"for":42,"against":50},
 	{"country":"fin","name":"Reipas Lahti","id":"Reipas_Lahti","win":9,"draw":5,"loss":12,"for":42,"against":40},
 	{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":9,"draw":5,"loss":12,"for":22,"against":39,"isReturning":true},

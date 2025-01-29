@@ -367,7 +367,7 @@
 	{"country":"alb","name":"Flamurtari","id":"Flamurtari_FC","win":9,"draw":11,"loss":12,"for":36,"against":41},
 	{"country":"alb","name":"Besa","id":"KF_Besa_Kavajë","win":6,"draw":14,"loss":12,"for":16,"against":30,"isRemoved":true},
 	{"country":"alb","name":"Shkëndija Tiranë","id":"Shkëndija_Tiranë","win":8,"draw":11,"loss":13,"for":19,"against":29},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":13,"draw":6,"loss":3,"for":40,"against":21,"isChampion":true},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":13,"draw":6,"loss":3,"for":40,"against":21,"isChampion":true},
 	{"country":"fin","name":"Haka Valkeakoski","id":"FC_Haka","win":14,"draw":2,"loss":6,"for":46,"against":28},
 	{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":12,"draw":5,"loss":5,"for":40,"against":25},
 	{"country":"fin","name":"Reipas Lahti","id":"Reipas_Lahti","win":10,"draw":5,"loss":7,"for":37,"against":24},

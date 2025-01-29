@@ -354,7 +354,7 @@
 	{"country":"fin","name":"ÅIFK Turku","id":"Åbo_IFK","win":11,"draw":3,"loss":8,"for":44,"against":32,"isReturning":true},
 	{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":9,"draw":6,"loss":7,"for":42,"against":30},
 	{"country":"fin","name":"KTP Kotka","id":"Kotkan_Työväen_Palloilijat","win":10,"draw":3,"loss":9,"for":44,"against":42,"isReturning":true},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":8,"draw":6,"loss":8,"for":29,"against":31},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":8,"draw":6,"loss":8,"for":29,"against":31},
 	{"country":"fin","name":"MiPK Mikkeli","id":"Mikkelin_Pallo-Kissat","win":7,"draw":6,"loss":9,"for":33,"against":37},
 	{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":8,"draw":4,"loss":10,"for":36,"against":41},
 	{"country":"fin","name":"KIF Helsinki","id":"FC_Kiffen_08","win":8,"draw":4,"loss":10,"for":26,"against":40},

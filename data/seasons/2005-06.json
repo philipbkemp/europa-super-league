@@ -358,7 +358,7 @@
 	{"country":"fin","name":"AC Allianssi","id":"AC_Allianssi","win":8,"draw":10,"loss":8,"for":33,"against":41,"isRemoved":true},
 	{"country":"fin","name":"FC KooTeePee","id":"FC_KooTeePee","win":9,"draw":6,"loss":11,"for":35,"against":42},
 	{"country":"fin","name":"TPS","id":"Turun_Palloseura","win":8,"draw":6,"loss":12,"for":30,"against":35},
-	{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":8,"draw":5,"loss":13,"for":32,"against":45,"isReturning":true},
+	{"country":"fin","name":"KuPS","id":"kuopion_palloseura","win":8,"draw":5,"loss":13,"for":32,"against":45,"isReturning":true},
 	{"country":"fin","name":"FF Jaro","id":"FF_Jaro","win":6,"draw":8,"loss":12,"for":21,"against":31},
 	{"country":"fin","name":"IFK Mariehamn","id":"IFK_Mariehamn","win":6,"draw":5,"loss":15,"for":27,"against":42,"isNew":true},
 	{"country":"fin","name":"RoPS","id":"Rovaniemen_Palloseura","win":3,"draw":8,"loss":15,"for":18,"against":50,"isRemoved":true},

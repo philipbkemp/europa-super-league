@@ -352,7 +352,7 @@
 	{"country":"alb","name":"Egnatia","id":"KF_Egnatia","win":8,"draw":11,"loss":17,"for":30,"against":49,"isReturning":true},
 	{"country":"alb","name":"Dinamo Tirana","id":"FC_Dinamo_City","win":6,"draw":11,"loss":19,"for":21,"against":46,"isRemoved":true,"isReturning":true},
 	{"country":"alb","name":"Skënderbeu","id":"KF_Skënderbeu_Korçë","win":4,"draw":14,"loss":18,"for":23,"against":43,"isRemoved":true},
-	{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":17,"draw":7,"loss":3,"for":46,"against":20},
+	{"country":"fin","name":"KuPS","id":"kuopion_palloseura","win":17,"draw":7,"loss":3,"for":46,"against":20},
 	{"country":"fin","name":"HJK","id":"Helsingin_Jalkapalloklubi","win":18,"draw":5,"loss":4,"for":41,"against":19,"isChampion":true},
 	{"country":"fin","name":"Inter Turku","id":"FC_Inter_Turku","win":14,"draw":3,"loss":10,"for":45,"against":32},
 	{"country":"fin","name":"SJK","id":"Seinäjoen_Jalkapallokerho","win":14,"draw":6,"loss":7,"for":45,"against":34},

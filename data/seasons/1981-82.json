@@ -403,7 +403,7 @@
 	{"country":"fin","name":"KTP Kotka","id":"Kotkan_Työväen_Palloilijat","win":12,"draw":7,"loss":10,"for":38,"against":36},
 	{"country":"fin","name":"OPS Oulu","id":"Oulun_Palloseura_(football)","win":10,"draw":8,"loss":11,"for":55,"against":58},
 	{"country":"fin","name":"Ilves Tampere","id":"Ilves_(football)","win":12,"draw":7,"loss":10,"for":59,"against":46},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":11,"draw":7,"loss":11,"for":46,"against":50},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":11,"draw":7,"loss":11,"for":46,"against":50},
 	{"country":"fin","name":"Sepsi-78","id":"Sepsi-78","win":11,"draw":6,"loss":12,"for":37,"against":41},
 	{"country":"fin","name":"RoPS Rovaniemi","id":"Rovaniemen_Palloseura","win":9,"draw":4,"loss":16,"for":43,"against":57,"isRemoved":true,"isNew":true},
 	{"country":"fin","name":"MP Mikkeli","id":"Mikkelin_Palloilijat","win":4,"draw":6,"loss":19,"for":24,"against":68,"isRemoved":true,"isReturning":true},

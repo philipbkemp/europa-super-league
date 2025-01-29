@@ -401,7 +401,7 @@
 	{"country":"fin","name":"RoPS Rovaniemi","id":"Rovaniemen_Palloseura","win":14,"draw":8,"loss":11,"for":63,"against":51},
 	{"country":"fin","name":"PPT Pori","id":"FC_Jazz","win":11,"draw":10,"loss":12,"for":52,"against":44,"isReturning":true},
 	{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":11,"draw":10,"loss":12,"for":47,"against":56},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":8,"draw":13,"loss":12,"for":54,"against":54},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":8,"draw":13,"loss":12,"for":54,"against":54},
 	{"country":"fin","name":"OTP Oulu","id":"Oulun_Työväen_Palloilijat","win":7,"draw":11,"loss":15,"for":33,"against":53,"isRemoved":true},
 	{"country":"fin","name":"Reipas Lahti","id":"Reipas_Lahti","win":2,"draw":2,"loss":29,"for":17,"against":118,"isRemoved":true},
 	{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":23,"draw":12,"loss":3,"for":67,"against":21,"isChampion":true},

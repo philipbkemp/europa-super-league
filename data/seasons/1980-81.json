@@ -400,7 +400,7 @@
 	{"country":"fin","name":"KTP Kotka","id":"Kotkan_Työväen_Palloilijat","win":9,"draw":13,"loss":7,"for":36,"against":39},
 	{"country":"fin","name":"Ilves Tampere","id":"Ilves_(football)","win":8,"draw":11,"loss":10,"for":48,"against":44},
 	{"country":"fin","name":"Sepsi-78","id":"Sepsi-78","win":9,"draw":5,"loss":15,"for":47,"against":67,"isNew":true},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":7,"draw":5,"loss":17,"for":35,"against":63},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":7,"draw":5,"loss":17,"for":35,"against":63},
 	{"country":"fin","name":"OTP Oulu","id":"Oulun_Työväen_Palloilijat","win":8,"draw":5,"loss":16,"for":33,"against":63,"isRemoved":true,"isReturning":true},
 	{"country":"fin","name":"Reipas Lahti","id":"Reipas_Lahti","win":6,"draw":5,"loss":18,"for":41,"against":54,"isRemoved":true},
 	{"country":"fin","name":"KPT Kuopio","id":"Koparit","win":8,"draw":8,"loss":13,"for":41,"against":43},

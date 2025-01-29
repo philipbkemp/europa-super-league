@@ -346,7 +346,7 @@
 	{"country":"alb","name":"Vllaznia","id":"fk_vllaznia_shkoder","win":12,"draw":8,"loss":16,"for":38,"against":42,"isRemoved":true},
 	{"country":"alb","name":"Lushnja","id":"KF_Lushnja","win":2,"draw":5,"loss":29,"for":29,"against":86,"isRemoved":true,"isReturning":true},
 	{"country":"fin","name":"HJK","id":"Helsingin_Jalkapalloklubi","win":23,"draw":7,"loss":3,"for":78,"against":16,"isChampion":true},
-	{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":16,"draw":8,"loss":9,"for":51,"against":36},
+	{"country":"fin","name":"KuPS","id":"kuopion_palloseura","win":16,"draw":8,"loss":9,"for":51,"against":36},
 	{"country":"fin","name":"Ilves","id":"Ilves_(football)","win":15,"draw":11,"loss":7,"for":39,"against":35},
 	{"country":"fin","name":"Lahti","id":"FC_Lahti","win":12,"draw":13,"loss":8,"for":46,"against":31},
 	{"country":"fin","name":"IFK Mariehamn","id":"IFK_Mariehamn","win":13,"draw":10,"loss":10,"for":44,"against":42},

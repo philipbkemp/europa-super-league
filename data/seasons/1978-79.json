@@ -385,7 +385,7 @@
 	{"country":"fin","name":"TPS Turku","id":"Turun_Palloseura","win":12,"draw":2,"loss":8,"for":57,"against":29},
 	{"country":"fin","name":"OPS Oulu","id":"Oulun_Palloseura_(football)","win":11,"draw":4,"loss":7,"for":34,"against":21},
 	{"country":"fin","name":"MiPK Mikkeli","id":"Mikkelin_Pallo-Kissat","win":11,"draw":3,"loss":8,"for":29,"against":22},
-	{"country":"fin","name":"KuPS Kuopio","id":"Kuopion_Palloseura","win":9,"draw":3,"loss":10,"for":33,"against":31},
+	{"country":"fin","name":"KuPS Kuopio","id":"kuopion_palloseura","win":9,"draw":3,"loss":10,"for":33,"against":31},
 	{"country":"fin","name":"KPV Kokkola","id":"Kokkolan_Palloveikot","win":8,"draw":5,"loss":9,"for":26,"against":31},
 	{"country":"fin","name":"Reipas Lahti","id":"Reipas_Lahti","win":5,"draw":9,"loss":8,"for":20,"against":35},
 	{"country":"fin","name":"Pyrkivä Turku","id":"Pyrkivä_Turku","win":4,"draw":9,"loss":9,"for":14,"against":28,"isReturning":true},

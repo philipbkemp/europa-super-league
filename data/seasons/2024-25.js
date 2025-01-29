@@ -612,7 +612,7 @@ THEDATA = [
 	{"country":"est","name":"Kuressaare","id":"FC_Kuressaare","win":8,"draw":10,"loss":18,"for":46,"against":67},
 	{"country":"est","name":"Tallinna Kalev","id":"JK_Tallinna_Kalev","win":8,"draw":7,"loss":21,"for":37,"against":74},
 	{"country":"est","name":"Nõmme United","id":"FC_Nõmme_United","win":2,"draw":9,"loss":25,"for":22,"against":79,"isRemoved":true,"isNew":true},
-	{"country":"fin","name":"KuPS","id":"Kuopion_Palloseura","win":17,"draw":5,"loss":5,"for":46,"against":24,"isChampion":true},
+	{"country":"fin","name":"KuPS","id":"kuopion_palloseura","win":17,"draw":5,"loss":5,"for":46,"against":24,"isChampion":true},
 	{"country":"fin","name":"Ilves","id":"Ilves_(football)","win":16,"draw":6,"loss":5,"for":56,"against":27},
 	{"country":"fin","name":"HJK","id":"Helsingin_Jalkapalloklubi","win":13,"draw":6,"loss":8,"for":44,"against":27},
 	{"country":"fin","name":"SJK","id":"Seinäjoen_Jalkapallokerho","win":11,"draw":7,"loss":9,"for":46,"against":44},
