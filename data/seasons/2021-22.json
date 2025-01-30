@@ -619,7 +619,7 @@
 	{"country":"bih","name":"Rudar Prijedor","id":"FK_Rudar_Prijedor","win":5,"draw":11,"loss":17,"for":28,"against":48,"isRemoved":true,"isReturning":true},
 	{"country":"mkd","name":"Shkupi","id":"KF_Shkupi","win":23,"draw":7,"loss":3,"for":66,"against":21,"isChampion":true},
 	{"country":"mkd","name":"Akademija Pandev","id":"FC_AP_Brera_Strumica","win":19,"draw":7,"loss":7,"for":55,"against":32},
-	{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":16,"draw":13,"loss":4,"for":49,"against":25},
+	{"country":"mkd","name":"Shkëndija","id":"kf_shkendija","win":16,"draw":13,"loss":4,"for":49,"against":25},
 	{"country":"mkd","name":"Makedonija G.P.","id":"FK_Makedonija_G.P.","win":17,"draw":6,"loss":10,"for":46,"against":44},
 	{"country":"mkd","name":"Renova","id":"KF_Renova","win":12,"draw":12,"loss":9,"for":42,"against":29},
 	{"country":"mkd","name":"Struga","id":"FC_Struga","win":12,"draw":11,"loss":10,"for":33,"against":33},

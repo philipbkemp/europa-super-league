@@ -121,6 +121,8 @@ clubPages = ["linfield_fc","rangers_fc","floriana_fc","colentina_ac_bucuresti","
 	,"fk_alfa","fk_ask","fk_avn","fk_liepajas_metalurgs","olimpia_liepaja","skonto_fc","fk_rfs","riga_fc"
 	/*mda*/
 	,"fc_sheriff_tiraspol"
+	/*mkd*/
+	,"kf_shkendija"
 	/*mne*/
 	,"fk_buducnost_podgorica"
 	/*nld*/

@@ -651,7 +651,7 @@
 	{"country":"mkd","name":"Belasica","id":"FK_Belasica","win":9,"draw":6,"loss":11,"for":32,"against":41},
 	{"country":"mkd","name":"Tikvesh","id":"GFK_Tikvesh","win":8,"draw":8,"loss":10,"for":33,"against":39},
 	{"country":"mkd","name":"Cementarnica 55","id":"FK_Cementarnica_55","win":8,"draw":5,"loss":13,"for":32,"against":39},
-	{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":8,"draw":5,"loss":13,"for":27,"against":48,"isRemoved":true,"isNew":true},
+	{"country":"mkd","name":"Shkëndija","id":"kf_shkendija","win":8,"draw":5,"loss":13,"for":27,"against":48,"isRemoved":true,"isNew":true},
 	{"country":"mkd","name":"Rudar Probishtip","id":"FK_Rudar_Probištip","win":1,"draw":2,"loss":23,"for":15,"against":111,"isRemoved":true},
 	{"country":"wal","name":"Barry Town","id":"Barry_Town_United_F.C.","win":33,"draw":6,"loss":1,"for":129,"against":26,"isChampion":true},
 	{"country":"wal","name":"Inter Cardiff","id":"Inter_Cardiff_F.C.","win":26,"draw":6,"loss":8,"for":80,"against":32},

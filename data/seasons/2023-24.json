@@ -625,7 +625,7 @@
 	{"country":"bih","name":"Tuzla City","id":"FK_Tuzla_City","win":7,"draw":6,"loss":20,"for":45,"against":69,"isRemoved":true},
 	{"country":"bih","name":"Zvijezda 09","id":"FK_Zvijezda_09","win":6,"draw":3,"loss":24,"for":33,"against":72,"isRemoved":true,"isReturning":true},
 	{"country":"mkd","name":"Struga","id":"FC_Struga","win":20,"draw":4,"loss":9,"for":56,"against":33,"isChampion":true},
-	{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":18,"draw":10,"loss":5,"for":55,"against":27},
+	{"country":"mkd","name":"Shkëndija","id":"kf_shkendija","win":18,"draw":10,"loss":5,"for":55,"against":27},
 	{"country":"mkd","name":"Shkupi","id":"KF_Shkupi","win":17,"draw":11,"loss":5,"for":42,"against":23},
 	{"country":"mkd","name":"Tikvesh","id":"GFK_Tikvesh","win":12,"draw":8,"loss":13,"for":41,"against":40},
 	{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":10,"draw":13,"loss":10,"for":36,"against":40},

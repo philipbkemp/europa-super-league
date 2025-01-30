@@ -617,7 +617,7 @@
 	{"country":"bih","name":"Krupa","id":"FK_Krupa","win":7,"draw":7,"loss":19,"for":26,"against":46,"isRemoved":true,"isReturning":true},
 	{"country":"bih","name":"Radnik Bijeljina","id":"FK_Radnik_Bijeljina","win":5,"draw":10,"loss":18,"for":26,"against":51},
 	{"country":"bih","name":"Olimpik","id":"FK_Olimpik","win":7,"draw":4,"loss":22,"for":22,"against":58,"isRemoved":true,"isReturning":true},
-	{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":22,"draw":9,"loss":2,"for":69,"against":26,"isChampion":true},
+	{"country":"mkd","name":"Shkëndija","id":"kf_shkendija","win":22,"draw":9,"loss":2,"for":69,"against":26,"isChampion":true},
 	{"country":"mkd","name":"Shkupi","id":"KF_Shkupi","win":16,"draw":11,"loss":6,"for":41,"against":24},
 	{"country":"mkd","name":"Struga","id":"FC_Struga","win":15,"draw":12,"loss":6,"for":39,"against":24},
 	{"country":"mkd","name":"Makedonija G.P.","id":"FK_Makedonija_G.P.","win":16,"draw":7,"loss":10,"for":53,"against":43},

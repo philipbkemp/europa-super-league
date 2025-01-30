@@ -620,7 +620,7 @@
 	{"country":"mkd","name":"Makedonija G.P.","id":"FK_Makedonija_G.P.","win":21,"draw":6,"loss":6,"for":55,"against":23,"isReturning":true},
 	{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":19,"draw":7,"loss":7,"for":42,"against":19},
 	{"country":"mkd","name":"Pobeda","id":"FK_Pobeda","win":16,"draw":6,"loss":11,"for":55,"against":32},
-	{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":15,"draw":4,"loss":14,"for":48,"against":47},
+	{"country":"mkd","name":"Shkëndija","id":"kf_shkendija","win":15,"draw":4,"loss":14,"for":48,"against":47},
 	{"country":"mkd","name":"Bashkimi","id":"KF_Bashkimi_(1947–2008)","win":13,"draw":6,"loss":14,"for":50,"against":49},
 	{"country":"mkd","name":"Renova","id":"KF_Renova","win":13,"draw":5,"loss":15,"for":45,"against":49,"isNew":true},
 	{"country":"mkd","name":"Vëllazërimi","id":"KF_Vëllazërimi_77","win":13,"draw":4,"loss":16,"for":44,"against":57,"isNew":true},

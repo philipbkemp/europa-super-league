@@ -590,7 +590,7 @@
 	{"country":"bih","name":"Zvijezda 09","id":"FK_Zvijezda_09","win":1,"draw":5,"loss":16,"for":12,"against":51,"isRemoved":true},
 	{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":13,"draw":7,"loss":3,"for":33,"against":14,"isChampion":true},
 	{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":10,"draw":6,"loss":7,"for":24,"against":21},
-	{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":10,"draw":5,"loss":8,"for":38,"against":20},
+	{"country":"mkd","name":"Shkëndija","id":"kf_shkendija","win":10,"draw":5,"loss":8,"for":38,"against":20},
 	{"country":"mkd","name":"Renova","id":"KF_Renova","win":9,"draw":4,"loss":10,"for":25,"against":33},
 	{"country":"mkd","name":"Shkupi","id":"KF_Shkupi","win":7,"draw":8,"loss":8,"for":28,"against":28},
 	{"country":"mkd","name":"Makedonija G.P.","id":"FK_Makedonija_G.P.","win":7,"draw":8,"loss":8,"for":24,"against":28},

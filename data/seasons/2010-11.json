@@ -620,7 +620,7 @@
 	{"country":"bih","name":"Leotar","id":"FK_Leotar","win":10,"draw":5,"loss":15,"for":29,"against":49},
 	{"country":"bih","name":"Budućnost","id":"FK_Budućnost_Banovići","win":6,"draw":7,"loss":17,"for":25,"against":44,"isRemoved":true,"isReturning":true},
 	{"country":"bih","name":"Drina Zvornik","id":"FK_Drina_Zvornik","win":7,"draw":2,"loss":21,"for":18,"against":53,"isRemoved":true,"isNew":true},
-	{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":21,"draw":9,"loss":3,"for":65,"against":23,"isChampion":true,"isReturning":true},
+	{"country":"mkd","name":"Shkëndija","id":"kf_shkendija","win":21,"draw":9,"loss":3,"for":65,"against":23,"isChampion":true,"isReturning":true},
 	{"country":"mkd","name":"Metalurg","id":"FK_Metalurg_Skopje","win":17,"draw":10,"loss":6,"for":48,"against":24},
 	{"country":"mkd","name":"Renova","id":"KF_Renova","win":17,"draw":9,"loss":7,"for":54,"against":31},
 	{"country":"mkd","name":"Rabotnichki","id":"FK_Rabotnički","win":15,"draw":10,"loss":8,"for":53,"against":31},

@@ -579,7 +579,7 @@
 	{"country":"bih","name":"Čelik Zenica","id":"NK_Čelik_Zenica","win":8,"draw":11,"loss":13,"for":28,"against":39},
 	{"country":"bih","name":"Olimpik","id":"FK_Olimpik","win":5,"draw":8,"loss":19,"for":28,"against":62,"isRemoved":true},
 	{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":25,"draw":8,"loss":3,"for":75,"against":24,"isChampion":true},
-	{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":20,"draw":10,"loss":6,"for":71,"against":39},
+	{"country":"mkd","name":"Shkëndija","id":"kf_shkendija","win":20,"draw":10,"loss":6,"for":71,"against":39},
 	{"country":"mkd","name":"Rabotnički","id":"FK_Rabotnički","win":14,"draw":12,"loss":10,"for":49,"against":41},
 	{"country":"mkd","name":"Pelister","id":"FK_Pelister","win":14,"draw":10,"loss":12,"for":44,"against":35,"isReturning":true},
 	{"country":"mkd","name":"Renova","id":"KF_Renova","win":13,"draw":13,"loss":10,"for":42,"against":37},

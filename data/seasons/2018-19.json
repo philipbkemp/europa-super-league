@@ -588,7 +588,7 @@
 	{"country":"bih","name":"Tuzla City","id":"FK_Tuzla_City","win":9,"draw":9,"loss":15,"for":32,"against":44,"isNew":true},
 	{"country":"bih","name":"Krupa","id":"FK_Krupa","win":8,"draw":9,"loss":16,"for":40,"against":48,"isRemoved":true},
 	{"country":"bih","name":"GOŠK Gabela","id":"NK_GOŠK_Gabela","win":5,"draw":8,"loss":20,"for":23,"against":54,"isRemoved":true},
-	{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":24,"draw":7,"loss":5,"for":80,"against":29,"isChampion":true},
+	{"country":"mkd","name":"Shkëndija","id":"kf_shkendija","win":24,"draw":7,"loss":5,"for":80,"against":29,"isChampion":true},
 	{"country":"mkd","name":"Vardar","id":"FK_Vardar","win":17,"draw":13,"loss":6,"for":45,"against":23},
 	{"country":"mkd","name":"Akademija Pandev","id":"FC_AP_Brera_Strumica","win":17,"draw":7,"loss":12,"for":45,"against":35},
 	{"country":"mkd","name":"Shkupi","id":"KF_Shkupi","win":13,"draw":9,"loss":14,"for":40,"against":42},

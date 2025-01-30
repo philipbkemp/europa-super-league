@@ -342,7 +342,7 @@ THEDATA = [
 	{"country":"mda","name":"Dacia Buiucani","id":"FC_Dacia_Buiucani","win":2,"draw":5,"loss":7,"for":8,"against":19,"isCurrentSeason":true},
 	{"country":"mda","name":"Florești","id":"FC_Florești","win":0,"draw":1,"loss":13,"for":0,"against":59,"isCurrentSeason":true},
 	{"country":"mkd","name":"Sileks","id":"FK_Sileks","win":11,"draw":4,"loss":3,"for":27,"against":8,"isCurrentSeason":true},
-	{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":10,"draw":7,"loss":1,"for":30,"against":12,"isCurrentSeason":true},
+	{"country":"mkd","name":"Shkëndija","id":"kf_shkendija","win":10,"draw":7,"loss":1,"for":30,"against":12,"isCurrentSeason":true},
 	{"country":"mkd","name":"Rabotnički","id":"FK_Rabotnički","win":10,"draw":7,"loss":1,"for":26,"against":8,"isCurrentSeason":true},
 	{"country":"mkd","name":"Gostivar","id":"KF_Gostivari","win":9,"draw":8,"loss":1,"for":26,"against":9,"isCurrentSeason":true},
 	{"country":"mkd","name":"Struga","id":"FC_Struga","win":9,"draw":5,"loss":4,"for":23,"against":21,"isCurrentSeason":true},

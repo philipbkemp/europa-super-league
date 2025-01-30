@@ -636,7 +636,7 @@
 	{"country":"mkd","name":"Osogovo","id":"FK_Osogovo","win":10,"draw":4,"loss":12,"for":39,"against":42},
 	{"country":"mkd","name":"Makedonija","id":"FK_Makedonija_G.P.","win":9,"draw":4,"loss":13,"for":46,"against":42},
 	{"country":"mkd","name":"Sasa","id":"FK_Sasa","win":8,"draw":5,"loss":13,"for":39,"against":47,"isRemoved":true},
-	{"country":"mkd","name":"Shkëndija","id":"KF_Shkëndija","win":9,"draw":1,"loss":16,"for":34,"against":49,"isRemoved":true,"isReturning":true},
+	{"country":"mkd","name":"Shkëndija","id":"kf_shkendija","win":9,"draw":1,"loss":16,"for":34,"against":49,"isRemoved":true,"isReturning":true},
 	{"country":"mkd","name":"Borec","id":"FK_Borec","win":4,"draw":1,"loss":21,"for":18,"against":80,"isRemoved":true},
 	{"country":"mkd","name":"Tikvesh","id":"GFK_Tikvesh","win":1,"draw":0,"loss":25,"for":12,"against":110,"isRemoved":true},
 	{"country":"wal","name":"Barry Town","id":"Barry_Town_United_F.C.","win":24,"draw":5,"loss":5,"for":84,"against":30,"isChampion":true},
