@@ -10,7 +10,7 @@
 	{"country":"eng","name":"Blackburn Rovers","id":"Blackburn_Rovers_F.C.","win":16,"draw":8,"loss":14,"for":54,"against":52},
 	{"country":"eng","name":"Stoke","id":"Stoke_City_F.C.","win":16,"draw":7,"loss":15,"for":54,"against":55},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":15,"draw":7,"loss":16,"for":70,"against":66},
-	{"country":"eng","name":"Woolwich Arsenal","id":"Arsenal_F.C.","win":15,"draw":7,"loss":16,"for":62,"against":64},
+	{"country":"eng","name":"Woolwich Arsenal","id":"arsenal_fc","win":15,"draw":7,"loss":16,"for":62,"against":64},
 	{"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":15,"draw":6,"loss":17,"for":57,"against":62},
 	{"country":"eng","name":"Sunderland","id":"Sunderland_A.F.C.","win":15,"draw":5,"loss":18,"for":61,"against":70},
 	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":14,"draw":7,"loss":17,"for":39,"against":58},

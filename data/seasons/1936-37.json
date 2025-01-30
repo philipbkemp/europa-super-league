@@ -1,7 +1,7 @@
 [
 	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":22,"draw":13,"loss":7,"for":107,"against":61,"isChampion":true},
 	{"country":"eng","name":"Charlton Athletic","id":"Charlton_Athletic_F.C.","win":21,"draw":12,"loss":9,"for":58,"against":49,"isNew":true},
-	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":18,"draw":16,"loss":8,"for":80,"against":49},
+	{"country":"eng","name":"Arsenal","id":"arsenal_fc","win":18,"draw":16,"loss":8,"for":80,"against":49},
 	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":21,"draw":7,"loss":14,"for":96,"against":90},
 	{"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":21,"draw":5,"loss":16,"for":84,"against":67},
 	{"country":"eng","name":"Brentford","id":"Brentford_F.C.","win":18,"draw":10,"loss":14,"for":82,"against":78},

@@ -10,7 +10,7 @@
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":16,"draw":11,"loss":15,"for":85,"against":75},
 	{"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":16,"draw":10,"loss":16,"for":69,"against":63,"isReturning":true},
 	{"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":15,"draw":12,"loss":15,"for":83,"against":79},
-	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":16,"draw":7,"loss":19,"for":73,"against":85},
+	{"country":"eng","name":"Arsenal","id":"arsenal_fc","win":16,"draw":7,"loss":19,"for":73,"against":85},
 	{"country":"eng","name":"Birmingham City","id":"Birmingham_City_F.C.","win":14,"draw":11,"loss":17,"for":76,"against":89},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":16,"draw":7,"loss":19,"for":73,"against":86},
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":14,"draw":10,"loss":18,"for":65,"against":87},

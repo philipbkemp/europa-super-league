@@ -15,7 +15,7 @@
 	{"country":"eng","name":"Coventry City","id":"Coventry_City_F.C.","win":13,"draw":14,"loss":15,"for":47,"against":57},
 	{"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":15,"draw":9,"loss":18,"for":71,"against":62},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":11,"draw":17,"loss":14,"for":51,"against":59,"isReturning":true},
-	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":13,"draw":10,"loss":19,"for":47,"against":53},
+	{"country":"eng","name":"Arsenal","id":"arsenal_fc","win":13,"draw":10,"loss":19,"for":47,"against":53},
 	{"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":13,"draw":10,"loss":19,"for":48,"against":71},
 	{"country":"eng","name":"Birmingham City","id":"Birmingham_City_F.C.","win":13,"draw":7,"loss":22,"for":57,"against":75},
 	{"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":10,"draw":10,"loss":22,"for":51,"against":68,"isRemoved":true},

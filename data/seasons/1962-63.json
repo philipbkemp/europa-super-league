@@ -5,7 +5,7 @@
 	{"country":"eng","name":"Leicester City","id":"Leicester_City_F.C.","win":20,"draw":12,"loss":10,"for":79,"against":53},
 	{"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":20,"draw":10,"loss":12,"for":93,"against":65},
 	{"country":"eng","name":"Sheffield Wednesday","id":"Sheffield_Wednesday_F.C.","win":19,"draw":10,"loss":13,"for":77,"against":63},
-	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":18,"draw":10,"loss":14,"for":86,"against":77},
+	{"country":"eng","name":"Arsenal","id":"arsenal_fc","win":18,"draw":10,"loss":14,"for":86,"against":77},
 	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":17,"draw":10,"loss":15,"for":71,"against":59,"isReturning":true},
 	{"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":17,"draw":10,"loss":15,"for":67,"against":69},
 	{"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":16,"draw":12,"loss":14,"for":58,"against":60},

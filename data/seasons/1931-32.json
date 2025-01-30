@@ -1,6 +1,6 @@
 [
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":26,"draw":4,"loss":12,"for":116,"against":64,"isChampion":true,"isReturning":true},
-	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":22,"draw":10,"loss":10,"for":90,"against":48},
+	{"country":"eng","name":"Arsenal","id":"arsenal_fc","win":22,"draw":10,"loss":10,"for":90,"against":48},
 	{"country":"eng","name":"Sheffield Wednesday","id":"Sheffield_Wednesday_F.C.","win":22,"draw":6,"loss":14,"for":96,"against":82},
 	{"country":"eng","name":"Huddersfield Town","id":"Huddersfield_Town_A.F.C.","win":19,"draw":10,"loss":13,"for":80,"against":63},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":19,"draw":8,"loss":15,"for":104,"against":72},

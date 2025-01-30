@@ -9,7 +9,7 @@
 	{"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":17,"draw":10,"loss":15,"for":74,"against":86},
 	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":18,"draw":7,"loss":17,"for":69,"against":61},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":18,"draw":7,"loss":17,"for":81,"against":83},
-	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":17,"draw":9,"loss":16,"for":77,"against":86},
+	{"country":"eng","name":"Arsenal","id":"arsenal_fc","win":17,"draw":9,"loss":16,"for":77,"against":86},
 	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":17,"draw":7,"loss":18,"for":86,"against":73,"isReturning":true},
 	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":16,"draw":9,"loss":17,"for":76,"against":78},
 	{"country":"eng","name":"Cardiff City","id":"Cardiff_City_F.C.","win":16,"draw":9,"loss":17,"for":55,"against":65},

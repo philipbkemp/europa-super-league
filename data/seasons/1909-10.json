@@ -16,7 +16,7 @@
 	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":11,"draw":10,"loss":17,"for":53,"against":69,"isNew":true},
 	{"country":"eng","name":"Bristol City","id":"Bristol_City_F.C.","win":12,"draw":8,"loss":18,"for":45,"against":60},
 	{"country":"eng","name":"Middlesbrough","id":"Middlesbrough_F.C.","win":11,"draw":9,"loss":18,"for":56,"against":73},
-	{"country":"eng","name":"Woolwich Arsenal","id":"Arsenal_F.C.","win":11,"draw":9,"loss":18,"for":37,"against":67},
+	{"country":"eng","name":"Woolwich Arsenal","id":"arsenal_fc","win":11,"draw":9,"loss":18,"for":37,"against":67},
 	{"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":11,"draw":7,"loss":20,"for":47,"against":70,"isRemoved":true},
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":9,"draw":6,"loss":23,"for":44,"against":71,"isRemoved":true,"isReturning":true},
 	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":9,"draw":1,"loss":0,"for":30,"against":6,"isChampion":true},

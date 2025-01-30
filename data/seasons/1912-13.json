@@ -18,7 +18,7 @@
 	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":12,"draw":6,"loss":20,"for":45,"against":72},
 	{"country":"eng","name":"Chelsea","id":"Chelsea_F.C.","win":11,"draw":6,"loss":21,"for":51,"against":73,"isReturning":true},
 	{"country":"eng","name":"Notts County","id":"Notts_County_F.C.","win":7,"draw":9,"loss":22,"for":28,"against":56,"isRemoved":true},
-	{"country":"eng","name":"Woolwich Arsenal","id":"Arsenal_F.C.","win":3,"draw":12,"loss":23,"for":26,"against":74,"isRemoved":true},
+	{"country":"eng","name":"Woolwich Arsenal","id":"arsenal_fc","win":3,"draw":12,"loss":23,"for":26,"against":74,"isRemoved":true},
 	{"country":"eir","name":"Glentoran","id":"Glentoran_F.C.","win":12,"draw":2,"loss":4,"for":37,"against":16,"isChampion":true},
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":11,"draw":2,"loss":5,"for":34,"against":17},
 	{"country":"eir","name":"Linfield","id":"linfield_fc","win":9,"draw":5,"loss":4,"for":29,"against":23},

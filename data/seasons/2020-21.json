@@ -6,7 +6,7 @@
 	{"country":"eng","name":"Leicester City","id":"Leicester_City_F.C.","win":20,"draw":6,"loss":12,"for":68,"against":50},
 	{"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":19,"draw":8,"loss":11,"for":62,"against":47},
 	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":18,"draw":8,"loss":12,"for":68,"against":45},
-	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":18,"draw":7,"loss":13,"for":55,"against":39},
+	{"country":"eng","name":"Arsenal","id":"arsenal_fc","win":18,"draw":7,"loss":13,"for":55,"against":39},
 	{"country":"eng","name":"Leeds United","id":"Leeds_United_F.C.","win":18,"draw":5,"loss":15,"for":62,"against":54,"isReturning":true},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":17,"draw":8,"loss":13,"for":47,"against":48},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":16,"draw":7,"loss":15,"for":55,"against":46},

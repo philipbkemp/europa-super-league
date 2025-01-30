@@ -1,7 +1,7 @@
 [
 	{"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":28,"draw":5,"loss":9,"for":110,"against":49,"isChampion":true},
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":24,"draw":7,"loss":11,"for":103,"against":66},
-	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":21,"draw":8,"loss":13,"for":88,"against":68},
+	{"country":"eng","name":"Arsenal","id":"arsenal_fc","win":21,"draw":8,"loss":13,"for":88,"against":68},
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":20,"draw":10,"loss":12,"for":79,"against":66},
 	{"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":18,"draw":13,"loss":11,"for":88,"against":68},
 	{"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":21,"draw":6,"loss":15,"for":85,"against":70,"isReturning":true},

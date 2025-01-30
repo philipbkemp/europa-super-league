@@ -1,5 +1,5 @@
 [
-	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":23,"draw":13,"loss":6,"for":81,"against":32,"isChampion":true},
+	{"country":"eng","name":"Arsenal","id":"arsenal_fc","win":23,"draw":13,"loss":6,"for":81,"against":32,"isChampion":true},
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":19,"draw":14,"loss":9,"for":81,"against":48},
 	{"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":20,"draw":12,"loss":10,"for":56,"against":43,"isReturning":true},
 	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":19,"draw":12,"loss":11,"for":77,"against":57},

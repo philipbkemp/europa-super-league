@@ -3,7 +3,7 @@
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":21,"draw":11,"loss":10,"for":77,"against":44},
 	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":22,"draw":9,"loss":11,"for":74,"against":55},
 	{"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":20,"draw":12,"loss":10,"for":70,"against":56,"isReturning":true},
-	{"country":"eng","name":"Arsenal","id":"Arsenal_F.C.","win":18,"draw":13,"loss":11,"for":74,"against":44},
+	{"country":"eng","name":"Arsenal","id":"arsenal_fc","win":18,"draw":13,"loss":11,"for":74,"against":44},
 	{"country":"eng","name":"Wolverhampton Wanderers","id":"Wolverhampton_Wanderers_F.C.","win":17,"draw":12,"loss":13,"for":79,"against":66},
 	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":15,"draw":15,"loss":12,"for":47,"against":51},
 	{"country":"eng","name":"Sunderland","id":"Sunderland_A.F.C.","win":13,"draw":17,"loss":12,"for":49,"against":58},
