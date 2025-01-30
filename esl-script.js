@@ -1159,10 +1159,22 @@ if ( document.getElementById('exampleDataList') ) {
 		});
 	}
 
+	duplicatedDatalistOptions = [];
+
 	var options = $('#datalistOptions option').sort(function(a, b) {
+		if ( $(a).val() === $(b).val() ) {
+			duplicatedDatalistOptions.push( $(a).val() );
+		}
 		return $(a).val().localeCompare($(b).val());
 	});
 	$('#datalistOptions').empty().append(options);
+
+	duplicatedDatalistOptions.forEach(d=>{
+		Array.from($("#datalistOptions option[value='"+d+"']")).forEach(dup=>{
+			dupCountry = $("#"+dup.getAttribute("data-id")+" img").attr("alt");
+			dup.setAttribute("value",d + " ("+dupCountry+")");
+		});
+	});
 
 	document.getElementById('exampleDataList').addEventListener('input', function () {
 		const inputValue = this.value;
