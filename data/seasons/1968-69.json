@@ -350,7 +350,7 @@
 	{"country":"tur","name":"İzmirspor","id":"İzmirspor","win":4,"draw":12,"loss":14,"for":19,"against":39,"isRemoved":true,"isReturning":true},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":18,"draw":11,"loss":1,"for":46,"against":21,"isChampion":true},
 	{"country":"esp","name":"Las Palmas","id":"UD_Las_Palmas","win":15,"draw":8,"loss":7,"for":45,"against":34},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":13,"draw":10,"loss":7,"for":40,"against":18},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":13,"draw":10,"loss":7,"for":40,"against":18},
 	{"country":"esp","name":"Sabadell","id":"CE_Sabadell_FC","win":10,"draw":12,"loss":8,"for":33,"against":34},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":10,"draw":11,"loss":9,"for":36,"against":39},
 	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":10,"draw":10,"loss":10,"for":40,"against":37},

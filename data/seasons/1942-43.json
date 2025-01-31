@@ -112,7 +112,7 @@
 	{"country":"irl","name":"Bray Unknowns","id":"Bray_Unknowns_F.C.","win":1,"draw":1,"loss":16,"for":14,"against":72,"isRemoved":true},
 	{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":16,"draw":4,"loss":6,"for":73,"against":38,"isChampion":true},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":15,"draw":3,"loss":8,"for":63,"against":47},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":14,"draw":4,"loss":8,"for":77,"against":50},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":14,"draw":4,"loss":8,"for":77,"against":50},
 	{"country":"esp","name":"Castellón","id":"CD_Castellón","win":13,"draw":5,"loss":8,"for":41,"against":43},
 	{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":14,"draw":2,"loss":10,"for":52,"against":50},
 	{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":12,"draw":4,"loss":10,"for":53,"against":63},

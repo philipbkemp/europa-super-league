@@ -118,7 +118,7 @@
 	{"country":"tur","name":"Karşıyaka","id":"Karşıyaka_S.K.","win":1,"draw":4,"loss":9,"for":14,"against":33,"isRemoved":true,"removedNote":"League used a regional format as part of next season"},
 	{"country":"tur","name":"Beykoz 1908","id":"Beykoz_S.K.D.","win":1,"draw":4,"loss":9,"for":13,"against":41,"isNew":true,"isRemoved":true,"removedNote":"League used a regional format as part of next season"},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":14,"draw":8,"loss":4,"for":53,"against":37,"isChampion":true},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":14,"draw":7,"loss":5,"for":48,"against":31},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":14,"draw":7,"loss":5,"for":48,"against":31},
 	{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":14,"draw":5,"loss":7,"for":63,"against":38},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":11,"draw":9,"loss":6,"for":46,"against":30},
 	{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":10,"draw":10,"loss":6,"for":44,"against":37},

@@ -177,7 +177,7 @@
 	{"country":"esp","name":"Hércules","id":"Hércules_CF","win":9,"draw":5,"loss":8,"for":41,"against":34,"isReturning":true},
 	{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":7,"draw":7,"loss":8,"for":30,"against":40,"isNew":true},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":9,"draw":3,"loss":10,"for":40,"against":36,"isReturning":true},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":8,"draw":3,"loss":11,"for":32,"against":38,"isReturning":true},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":8,"draw":3,"loss":11,"for":32,"against":38,"isReturning":true},
 	{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":9,"draw":1,"loss":12,"for":45,"against":50,"isNew":true},
 	{"country":"esp","name":"Betis","id":"Real_Betis","win":6,"draw":4,"loss":12,"for":26,"against":51,"isRemoved":true,"isReturning":true},
 	{"country":"esp","name":"Racing Santander","id":"Racing_de_Santander","win":6,"draw":1,"loss":15,"for":37,"against":57,"isRemoved":true,"isReturning":true},

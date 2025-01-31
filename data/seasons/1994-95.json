@@ -330,7 +330,7 @@
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":23,"draw":9,"loss":6,"for":76,"against":29,"isChampion":true},
 	{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":20,"draw":11,"loss":7,"for":68,"against":32},
 	{"country":"esp","name":"Betis","id":"Real_Betis","win":15,"draw":16,"loss":7,"for":46,"against":25,"isReturning":true},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":18,"draw":10,"loss":10,"for":60,"against":45},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":18,"draw":10,"loss":10,"for":60,"against":45},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":16,"draw":11,"loss":11,"for":55,"against":41},
 	{"country":"esp","name":"Espanyol","id":"RCD_Espanyol","win":14,"draw":15,"loss":9,"for":51,"against":35,"isReturning":true},
 	{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":18,"draw":7,"loss":13,"for":56,"against":51},

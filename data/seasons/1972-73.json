@@ -356,7 +356,7 @@
 	{"country":"tur","name":"Beypazarı Şekerspor","id":"Turanspor","win":6,"draw":10,"loss":14,"for":20,"against":38,"isRemoved":true,"isReturning":true},
 	{"country":"tur","name":"Türk Telekomspor","id":"Türk_Telekom_GSK","win":4,"draw":12,"loss":14,"for":22,"against":37,"isRemoved":true,"isReturning":true},
 	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":20,"draw":8,"loss":6,"for":49,"against":29,"isChampion":true},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":18,"draw":10,"loss":6,"for":41,"against":21},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":18,"draw":10,"loss":6,"for":41,"against":21},
 	{"country":"esp","name":"Español","id":"RCD_Espanyol","win":17,"draw":11,"loss":6,"for":48,"against":27},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":17,"draw":9,"loss":8,"for":45,"against":29},
 	{"country":"esp","name":"Castellón","id":"CD_Castellón","win":13,"draw":9,"loss":12,"for":44,"against":38,"isReturning":true},

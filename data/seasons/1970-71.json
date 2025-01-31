@@ -355,7 +355,7 @@
 	{"country":"tur","name":"Ankara Demirspor","id":"Ankara_Demirspor","win":3,"draw":12,"loss":15,"for":17,"against":37,"isRemoved":true},
 	{"country":"tur","name":"Türk Telekomspor","id":"Türk_Telekom_GSK","win":5,"draw":5,"loss":20,"for":16,"against":51,"isRemoved":true},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":18,"draw":7,"loss":5,"for":41,"against":19,"isChampion":true},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":19,"draw":5,"loss":6,"for":50,"against":22},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":19,"draw":5,"loss":6,"for":50,"against":22},
 	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":17,"draw":8,"loss":5,"for":51,"against":20},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":17,"draw":7,"loss":6,"for":46,"against":24},
 	{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":14,"draw":7,"loss":9,"for":40,"against":31},

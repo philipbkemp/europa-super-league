@@ -98,7 +98,7 @@ clubPages = ["linfield_fc","rangers_fc","floriana_fc","colentina_ac_bucuresti","
 	/*eng*/
 	,"preston_north_end_fc","tottenham_hotspur_fc","liverpool_fc","arsenal_fc"
 	/*esp*/
-	,"real_madrid_cf","atletico_madrid"
+	,"real_madrid_cf","atletico_madrid","fc_barcelona"
 	/*fin*/
 	,"kuopion_palloseura"
 	/*fra*/
@@ -1171,7 +1171,7 @@ if ( document.getElementById('exampleDataList') ) {
 
 	duplicatedDatalistOptions.forEach(d=>{
 		Array.from($("#datalistOptions option[value='"+d+"']")).forEach(dup=>{
-			dupCountry = $("#"+dup.getAttribute("data-id")+" img").attr("alt");
+			dupCountry = $(document.getElementById(dup.getAttribute("data-id"))).find("img").attr("alt");
 			dup.setAttribute("value",d + " ("+dupCountry+")");
 		});
 	});

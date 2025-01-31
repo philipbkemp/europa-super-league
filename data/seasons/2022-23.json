@@ -326,7 +326,7 @@
 	{"country":"tur","name":"Ümraniyespor","id":"Ümraniyespor","win":7,"draw":9,"loss":20,"for":47,"against":64,"isRemoved":true,"isNew":true},
 	{"country":"tur","name":"Gaziantep","id":"Gaziantep_F.K.","win":6,"draw":7,"loss":23,"for":31,"against":72,"note":"Withdrew mid-season due to a large earthquake in the region"},
 	{"country":"tur","name":"Hatayspor","id":"Hatayspor","win":6,"draw":5,"loss":25,"for":19,"against":83,"note":"Withdrew mid-season due to a large earthquake in the region"},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":28,"draw":4,"loss":6,"for":70,"against":20,"isChampion":true},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":28,"draw":4,"loss":6,"for":70,"against":20,"isChampion":true},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":24,"draw":6,"loss":8,"for":75,"against":36},
 	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":23,"draw":8,"loss":7,"for":70,"against":33},
 	{"country":"esp","name":"Real Sociedad","id":"Real_Sociedad","win":21,"draw":8,"loss":9,"for":51,"against":35},

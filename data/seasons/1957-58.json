@@ -293,7 +293,7 @@
 	{"country":"bgr","name":"Cherno More Varna","id":"PFC_Cherno_More_Varna","win":3,"draw":0,"loss":8,"for":8,"against":22},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":20,"draw":5,"loss":5,"for":71,"against":26,"isChampion":true},
 	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":16,"draw":10,"loss":4,"for":78,"against":43},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":17,"draw":4,"loss":9,"for":69,"against":38},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":17,"draw":4,"loss":9,"for":69,"against":38},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":13,"draw":10,"loss":7,"for":56,"against":40},
 	{"country":"esp","name":"Osasuna","id":"CA_Osasuna","win":15,"draw":5,"loss":10,"for":53,"against":43},
 	{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":14,"draw":4,"loss":12,"for":56,"against":48},

@@ -252,7 +252,7 @@
 	{"country":"tur","name":"Gençlerbirliği","id":"Gençlerbirliği_S.K.","win":2,"draw":5,"loss":7,"for":19,"against":32,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"tur","name":"Altınordu","id":"Altınordu_F.K.","win":2,"draw":2,"loss":10,"for":18,"against":38,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"tur","name":"Altay","id":"Altay_S.K.","win":2,"draw":1,"loss":11,"for":18,"against":53,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":15,"draw":7,"loss":4,"for":65,"against":31,"isChampion":true},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":15,"draw":7,"loss":4,"for":65,"against":31,"isChampion":true},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":15,"draw":4,"loss":7,"for":59,"against":34},
 	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":13,"draw":7,"loss":6,"for":73,"against":45},
 	{"country":"esp","name":"Celta","id":"RC_Celta_de_Vigo","win":14,"draw":3,"loss":9,"for":59,"against":48},

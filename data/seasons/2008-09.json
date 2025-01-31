@@ -323,7 +323,7 @@
 	{"country":"tur","name":"Konyaspor","id":"Konyaspor","win":10,"draw":8,"loss":16,"for":35,"against":46,"isRemoved":true},
 	{"country":"tur","name":"Kocaelispor","id":"Kocaelispor","win":8,"draw":5,"loss":21,"for":47,"against":73,"isRemoved":true,"isReturning":true},
 	{"country":"tur","name":"Hacettepe Spor","id":"Hacettepe_S.K.","win":5,"draw":7,"loss":22,"for":24,"against":63,"isRemoved":true},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":27,"draw":6,"loss":5,"for":105,"against":35,"isChampion":true},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":27,"draw":6,"loss":5,"for":105,"against":35,"isChampion":true},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":25,"draw":3,"loss":10,"for":83,"against":52},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":21,"draw":7,"loss":10,"for":54,"against":39},
 	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":20,"draw":7,"loss":11,"for":80,"against":57},

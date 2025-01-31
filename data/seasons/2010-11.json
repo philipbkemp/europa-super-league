@@ -322,7 +322,7 @@
 	{"country":"tur","name":"Bucaspor","id":"Bucaspor","win":6,"draw":8,"loss":20,"for":37,"against":65,"isRemoved":true,"isNew":true},
 	{"country":"tur","name":"Konyaspor","id":"Konyaspor","win":4,"draw":12,"loss":18,"for":28,"against":49,"isRemoved":true,"isReturning":true},
 	{"country":"tur","name":"Kasımpaşa","id":"Kasımpaşa_S.K.","win":5,"draw":8,"loss":21,"for":31,"against":71,"isRemoved":true},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":30,"draw":6,"loss":2,"for":95,"against":21,"isChampion":true},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":30,"draw":6,"loss":2,"for":95,"against":21,"isChampion":true},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":29,"draw":5,"loss":4,"for":102,"against":33},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":21,"draw":8,"loss":9,"for":64,"against":44},
 	{"country":"esp","name":"Villarreal","id":"Villarreal_CF","win":18,"draw":8,"loss":12,"for":54,"against":44},

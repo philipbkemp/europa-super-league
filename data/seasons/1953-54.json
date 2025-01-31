@@ -264,7 +264,7 @@
 	{"country":"bgr","name":"Torpedo Pleven","id":"Torpedo_Pleven","win":5,"draw":5,"loss":16,"for":13,"against":51,"isRemoved":true,"isNew":true},
 	{"country":"bgr","name":"Beroe Stara Zagora","id":"PFC_Beroe_Stara_Zagora","win":2,"draw":5,"loss":19,"for":13,"against":69,"isRemoved":true,"isNew":true},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":17,"draw":6,"loss":7,"for":72,"against":41,"isChampion":true},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":16,"draw":4,"loss":10,"for":74,"against":39},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":16,"draw":4,"loss":10,"for":74,"against":39},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":14,"draw":6,"loss":10,"for":69,"against":51},
 	{"country":"esp","name":"Español","id":"RCD_Espanyol","win":14,"draw":6,"loss":10,"for":50,"against":36},
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":15,"draw":2,"loss":13,"for":57,"against":49},

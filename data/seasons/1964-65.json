@@ -328,7 +328,7 @@
 	{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":19,"draw":2,"loss":9,"for":60,"against":37},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":17,"draw":4,"loss":9,"for":59,"against":37},
 	{"country":"esp","name":"Córdoba","id":"Córdoba_CF","win":16,"draw":3,"loss":11,"for":36,"against":34},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":14,"draw":4,"loss":12,"for":59,"against":41},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":14,"draw":4,"loss":12,"for":59,"against":41},
 	{"country":"esp","name":"Atlético Bilbao","id":"Athletic_Bilbao","win":13,"draw":6,"loss":11,"for":36,"against":41},
 	{"country":"esp","name":"Elche","id":"Elche_CF","win":14,"draw":3,"loss":13,"for":38,"against":43},
 	{"country":"esp","name":"Las Palmas","id":"UD_Las_Palmas","win":11,"draw":7,"loss":12,"for":36,"against":43,"isReturning":true},

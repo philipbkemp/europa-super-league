@@ -206,7 +206,7 @@
 	{"country":"esp","name":"Madrid FC","id":"real_madrid_cf","win":13,"draw":2,"loss":3,"for":49,"against":17,"isChampion":true},
 	{"country":"esp","name":"Athletic Bilbao","id":"Athletic_Bilbao","win":13,"draw":0,"loss":5,"for":63,"against":30},
 	{"country":"esp","name":"Español","id":"RCD_Espanyol","win":10,"draw":2,"loss":6,"for":33,"against":30},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":7,"draw":5,"loss":6,"for":42,"against":34},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":7,"draw":5,"loss":6,"for":42,"against":34},
 	{"country":"esp","name":"Betis","id":"Real_Betis","win":6,"draw":5,"loss":7,"for":31,"against":45,"isNew":true},
 	{"country":"esp","name":"Donostia","id":"Real_Sociedad","win":6,"draw":3,"loss":9,"for":41,"against":47},
 	{"country":"esp","name":"Arenas","id":"Arenas_Club_de_Getxo","win":5,"draw":4,"loss":9,"for":39,"against":44},

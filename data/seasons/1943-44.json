@@ -105,7 +105,7 @@
 	{"country":"esp","name":"Sevilla","id":"Sevilla_FC","win":12,"draw":8,"loss":6,"for":60,"against":46},
 	{"country":"esp","name":"Oviedo","id":"Real_Oviedo","win":12,"draw":5,"loss":9,"for":71,"against":47},
 	{"country":"esp","name":"Castellón","id":"CD_Castellón","win":13,"draw":3,"loss":10,"for":42,"against":36},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":10,"draw":8,"loss":8,"for":59,"against":46},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":10,"draw":8,"loss":8,"for":59,"against":46},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":11,"draw":6,"loss":9,"for":48,"against":38},
 	{"country":"esp","name":"Granada","id":"Granada_CF","win":9,"draw":8,"loss":9,"for":41,"against":46},
 	{"country":"esp","name":"Sabadell","id":"CE_Sabadell_FC","win":11,"draw":3,"loss":12,"for":53,"against":60,"isNew":true},

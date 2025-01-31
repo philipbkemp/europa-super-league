@@ -337,7 +337,7 @@
 	{"country":"tur","name":"Göztepe","id":"Göztepe_S.K.","win":7,"draw":5,"loss":22,"for":26,"against":54,"isRemoved":true,"isReturning":true},
 	{"country":"tur","name":"Vanspor","id":"Vanspor","win":4,"draw":6,"loss":24,"for":38,"against":78,"isRemoved":true,"isReturning":true},
 	{"country":"esp","name":"Deportivo La Coruña","id":"Deportivo_de_La_Coruña","win":21,"draw":6,"loss":11,"for":66,"against":44,"isChampion":true},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":19,"draw":7,"loss":12,"for":70,"against":46},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":19,"draw":7,"loss":12,"for":70,"against":46},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":18,"draw":10,"loss":10,"for":59,"against":39},
 	{"country":"esp","name":"Zaragoza","id":"Real_Zaragoza","win":16,"draw":15,"loss":7,"for":60,"against":40},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":16,"draw":14,"loss":8,"for":58,"against":48},

@@ -341,7 +341,7 @@
 	{"country":"tur","name":"MKE Ankaragücü","id":"MKE_Ankaragücü","win":8,"draw":6,"loss":16,"for":21,"against":31,"isRemoved":true,"isReturning":true},
 	{"country":"tur","name":"Mersin İdman Yurdu","id":"Mersin_Talim_Yurdu","win":3,"draw":15,"loss":12,"for":18,"against":34,"isRemoved":true},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":22,"draw":3,"loss":9,"for":77,"against":40,"isChampion":true},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":16,"draw":9,"loss":9,"for":49,"against":29},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":16,"draw":9,"loss":9,"for":49,"against":29},
 	{"country":"esp","name":"Athletic Bilbao","id":"Athletic_Bilbao","win":16,"draw":8,"loss":10,"for":62,"against":36},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":16,"draw":7,"loss":11,"for":54,"against":33},
 	{"country":"esp","name":"Sporting Gijón","id":"Sporting_de_Gijón","win":15,"draw":9,"loss":10,"for":53,"against":43,"isReturning":true},

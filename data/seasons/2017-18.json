@@ -315,7 +315,7 @@
 	{"country":"tur","name":"Osmanlıspor","id":"Ankaraspor","win":8,"draw":9,"loss":17,"for":49,"against":60,"isRemoved":true},
 	{"country":"tur","name":"Gençlerbirliği","id":"Gençlerbirliği_S.K.","win":8,"draw":9,"loss":17,"for":37,"against":54,"isRemoved":true},
 	{"country":"tur","name":"Kardemir Karabükspor","id":"Kardemir_Karabükspor","win":3,"draw":3,"loss":28,"for":20,"against":86,"isRemoved":true},
-	{"country":"esp","name":"Barcelona","id":"FC_Barcelona","win":28,"draw":9,"loss":1,"for":99,"against":29,"isChampion":true},
+	{"country":"esp","name":"Barcelona","id":"fc_barcelona","win":28,"draw":9,"loss":1,"for":99,"against":29,"isChampion":true},
 	{"country":"esp","name":"Atlético Madrid","id":"atletico_madrid","win":23,"draw":10,"loss":5,"for":58,"against":22},
 	{"country":"esp","name":"Real Madrid","id":"real_madrid_cf","win":22,"draw":10,"loss":6,"for":94,"against":44},
 	{"country":"esp","name":"Valencia","id":"Valencia_CF","win":22,"draw":7,"loss":9,"for":65,"against":38},
