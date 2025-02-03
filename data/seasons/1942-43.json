@@ -22,7 +22,7 @@
 	{"country":"ita","name":"Genova 1893","id":"Genoa_CFC","win":14,"draw":5,"loss":11,"for":59,"against":53,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":12,"draw":5,"loss":13,"for":53,"against":39,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":12,"draw":5,"loss":13,"for":55,"against":61,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
-	{"country":"ita","name":"Milano","id":"AC_Milan","win":10,"draw":9,"loss":11,"for":39,"against":44,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
+	{"country":"ita","name":"Milano","id":"ac_milan","win":10,"draw":9,"loss":11,"for":39,"against":44,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":10,"draw":8,"loss":12,"for":56,"against":59,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
 	{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":11,"draw":6,"loss":13,"for":34,"against":44,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":12,"draw":4,"loss":14,"for":36,"against":50,"isRemoved":true,"removedNote":"Championship suspended due to WW2"},

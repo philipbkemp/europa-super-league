@@ -68,7 +68,7 @@
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":8,"draw":2,"loss":6,"for":28,"against":19,"isNew":true},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":8,"draw":1,"loss":7,"for":43,"against":30,"isNew":true},
 	{"country":"ita","name":"Genoa","id":"Genoa_CFC","win":7,"draw":3,"loss":6,"for":29,"against":23,"isNew":true},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":6,"draw":1,"loss":9,"for":23,"against":36,"isNew":true},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":6,"draw":1,"loss":9,"for":23,"against":36,"isNew":true},
 	{"country":"ita","name":"US Milanese","id":"US_Milanese","win":6,"draw":1,"loss":9,"for":35,"against":53,"isNew":true},
 	{"country":"ita","name":"Andrea Doria","id":"UC_Sampdoria","win":5,"draw":1,"loss":10,"for":18,"against":39,"isNew":true},
 	{"country":"ita","name":"Ausonia Milano","id":"Ausonia_Milano","win":0,"draw":5,"loss":11,"for":16,"against":52,"isRemoved":true,"isNew":true},

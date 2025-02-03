@@ -82,7 +82,7 @@
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":30,"draw":7,"loss":1,"for":80,"against":34,"isChampion":true},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":22,"draw":9,"loss":7,"for":74,"against":34},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":18,"draw":11,"loss":9,"for":59,"against":33,"deduct":-3,"deductReason":"Calciopoli scandal"},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":19,"draw":12,"loss":7,"for":57,"against":36,"deduct":-8,"deductReason":"Calciopoli scandal"},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":19,"draw":12,"loss":7,"for":57,"against":36,"deduct":-8,"deductReason":"Calciopoli scandal"},
 	{"country":"ita","name":"Palermo","id":"Palermo_FC","win":16,"draw":10,"loss":12,"for":58,"against":51},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":21,"draw":10,"loss":7,"for":62,"against":31,"deduct":-15,"deductReason":"Calciopoli scandal"},
 	{"country":"ita","name":"Empoli","id":"Empoli_FC","win":14,"draw":12,"loss":12,"for":42,"against":43},

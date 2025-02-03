@@ -85,7 +85,7 @@
 	{"country":"bel","name":"Cercle Brugge K.S.V.","id":"Cercle_Brugge_K.S.V.","win":9,"draw":6,"loss":15,"for":39,"against":64,"isReturning":true},
 	{"country":"bel","name":"K. Waterschei S.V. Thor Genk","id":"K._Waterschei_S.V._Thor_Genk","win":8,"draw":8,"loss":14,"for":43,"against":61,"isRemoved":true},
 	{"country":"bel","name":"Eendracht Alost","id":"S.C._Eendracht_Aalst","win":6,"draw":5,"loss":19,"for":25,"against":62,"isRemoved":true},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":24,"draw":5,"loss":5,"for":83,"against":36,"isChampion":true},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":24,"draw":5,"loss":5,"for":83,"against":36,"isChampion":true},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":19,"draw":10,"loss":5,"for":59,"against":31},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":19,"draw":8,"loss":7,"for":57,"against":32},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":19,"draw":7,"loss":8,"for":57,"against":41},

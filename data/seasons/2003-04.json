@@ -79,7 +79,7 @@
 	{"country":"bel","name":"Mons","id":"R.A.E.C._Mons_(1910)","win":7,"draw":12,"loss":15,"for":29,"against":52},
 	{"country":"bel","name":"Heusden-Zolder","id":"K._Beringen-Heusden-Zolder","win":7,"draw":7,"loss":20,"for":36,"against":68,"isRemoved":true,"isNew":true},
 	{"country":"bel","name":"Antwerp","id":"Royal_Antwerp_F.C.","win":7,"draw":6,"loss":21,"for":30,"against":67,"isRemoved":true},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":25,"draw":7,"loss":2,"for":65,"against":24,"isChampion":true},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":25,"draw":7,"loss":2,"for":65,"against":24,"isChampion":true},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":21,"draw":8,"loss":5,"for":68,"against":19},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":21,"draw":6,"loss":7,"for":67,"against":42},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":17,"draw":8,"loss":9,"for":59,"against":37},

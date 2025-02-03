@@ -97,7 +97,7 @@
 	{"country":"ita","name":"Catanzaro","id":"US_Catanzaro_1929","win":5,"draw":14,"loss":11,"for":20,"against":34},
 	{"country":"ita","name":"Udinese","id":"Udinese_Calcio","win":3,"draw":15,"loss":12,"for":24,"against":38,"isReturning":true},
 	{"country":"ita","name":"Pescara","id":"Delfino_Pescara_1936","win":4,"draw":8,"loss":18,"for":18,"against":44,"isRemoved":true,"isReturning":true},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":14,"draw":8,"loss":8,"for":34,"against":19,"isRemoved":true,"removedNote":"Disqualified and relegated due to the 1980 Totonero scandal"},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":14,"draw":8,"loss":8,"for":34,"against":19,"isRemoved":true,"removedNote":"Disqualified and relegated due to the 1980 Totonero scandal"},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":5,"draw":15,"loss":10,"for":21,"against":25,"isRemoved":true,"removedNote":"Disqualified and relegated due to the 1980 Totonero scandal"},
 	{"country":"che","name":"Servette FC Genève","id":"Servette_FC","win":21,"draw":8,"loss":7,"for":79,"against":36},
 	{"country":"che","name":"FC Basel","id":"FC_Basel","win":21,"draw":9,"loss":6,"for":91,"against":38,"isChampion":true},

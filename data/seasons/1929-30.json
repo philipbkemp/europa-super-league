@@ -75,7 +75,7 @@
 	{"country":"ita","name":"Alessandria","id":"US_Alessandria_Calcio_1912","win":14,"draw":8,"loss":12,"for":55,"against":49,"isNew":true},
 	{"country":"ita","name":"Pro Vercelli","id":"FC_Pro_Vercelli_1892","win":12,"draw":9,"loss":13,"for":52,"against":60,"isReturning":true},
 	{"country":"ita","name":"Brescia","id":"Brescia_Calcio","win":13,"draw":7,"loss":14,"for":45,"against":56,"isNew":true},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":11,"draw":10,"loss":13,"for":52,"against":48,"isReturning":true},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":11,"draw":10,"loss":13,"for":52,"against":48,"isReturning":true},
 	{"country":"ita","name":"Modena","id":"Modena_FC_2018","win":11,"draw":8,"loss":15,"for":48,"against":55,"isNew":true},
 	{"country":"ita","name":"Pro Patria","id":"Aurora_Pro_Patria_1919","win":12,"draw":6,"loss":16,"for":46,"against":64,"isNew":true},
 	{"country":"ita","name":"Livorno","id":"US_Livorno_1915","win":12,"draw":5,"loss":17,"for":51,"against":79,"isNew":true},

@@ -74,7 +74,7 @@
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":10,"draw":9,"loss":11,"for":39,"against":38},
 	{"country":"ita","name":"Alessandria","id":"US_Alessandria_Calcio_1912","win":12,"draw":5,"loss":13,"for":44,"against":48},
 	{"country":"ita","name":"Palermo","id":"Palermo_FC","win":9,"draw":11,"loss":10,"for":27,"against":34},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":8,"draw":11,"loss":11,"for":36,"against":38},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":8,"draw":11,"loss":11,"for":36,"against":38},
 	{"country":"ita","name":"Triestina","id":"US_Triestina_Calcio_1918","win":11,"draw":5,"loss":14,"for":33,"against":44},
 	{"country":"ita","name":"Brescia","id":"Brescia_Calcio","win":10,"draw":7,"loss":13,"for":29,"against":45},
 	{"country":"ita","name":"Sampierdarenese","id":"UC_Sampdoria","win":9,"draw":8,"loss":13,"for":29,"against":42,"isReturning":true},

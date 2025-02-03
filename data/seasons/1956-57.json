@@ -83,7 +83,7 @@
 	{"country":"bel","name":"K.R.C. Mechelen","id":"K.R.C._Mechelen","win":7,"draw":8,"loss":15,"for":45,"against":63},
 	{"country":"bel","name":"Beringen FC","id":"K._Beringen_F.C.","win":6,"draw":6,"loss":18,"for":36,"against":65,"isRemoved":true},
 	{"country":"bel","name":"R. Charleroi S.C.","id":"Royal_Charleroi_S.C.","win":6,"draw":5,"loss":19,"for":34,"against":62,"isRemoved":true},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":21,"draw":6,"loss":7,"for":65,"against":40,"isChampion":true},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":21,"draw":6,"loss":7,"for":65,"against":40,"isChampion":true},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":16,"draw":10,"loss":8,"for":55,"against":40},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":14,"draw":13,"loss":7,"for":52,"against":40},
 	{"country":"ita","name":"Udinese","id":"Udinese_Calcio","win":15,"draw":6,"loss":13,"for":59,"against":58,"isReturning":true},

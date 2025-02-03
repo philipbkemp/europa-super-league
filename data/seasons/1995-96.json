@@ -77,7 +77,7 @@
 	{"country":"bel","name":"Seraing","id":"R.F.C._Seraing_(1904)","win":8,"draw":5,"loss":21,"for":35,"against":75,"isRemoved":true},
 	{"country":"bel","name":"Beveren","id":"K.S.K._Beveren","win":6,"draw":9,"loss":19,"for":38,"against":57,"isRemoved":true},
 	{"country":"bel","name":"Waregem","id":"K.S.V._Waregem","win":4,"draw":9,"loss":21,"for":30,"against":70,"isRemoved":true,"isReturning":true},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":21,"draw":10,"loss":3,"for":60,"against":24,"isChampion":true},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":21,"draw":10,"loss":3,"for":60,"against":24,"isChampion":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":19,"draw":8,"loss":7,"for":58,"against":35},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":17,"draw":8,"loss":9,"for":66,"against":38},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":17,"draw":8,"loss":9,"for":53,"against":41},

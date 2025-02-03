@@ -81,7 +81,7 @@
 	{"country":"bel","name":"La Louvière","id":"R.A.A._Louviéroise","win":4,"draw":14,"loss":16,"for":26,"against":56,"isRemoved":true},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":23,"draw":7,"loss":8,"for":68,"against":30,"isChampion":true},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":19,"draw":12,"loss":7,"for":70,"against":42},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":28,"draw":4,"loss":6,"for":85,"against":31,"deduct":-30,"deductReason":"Calciopoli scandal"},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":28,"draw":4,"loss":6,"for":85,"against":31,"deduct":-30,"deductReason":"Calciopoli scandal"},
 	{"country":"ita","name":"Chievo","id":"AC_ChievoVerona","win":13,"draw":15,"loss":10,"for":54,"against":49},
 	{"country":"ita","name":"Palermo","id":"Palermo_FC","win":13,"draw":13,"loss":12,"for":50,"against":52},
 	{"country":"ita","name":"Livorno","id":"US_Livorno_1915","win":12,"draw":13,"loss":13,"for":37,"against":44},

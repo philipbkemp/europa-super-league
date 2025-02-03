@@ -78,7 +78,7 @@
 	{"country":"bel","name":"Westerlo","id":"K.V.C._Westerlo","win":5,"draw":5,"loss":20,"for":29,"against":59,"isRemoved":true},
 	{"country":"bel","name":"Sint-Truiden","id":"Sint-Truidense_V.V.","win":3,"draw":10,"loss":17,"for":32,"against":61,"isRemoved":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":23,"draw":15,"loss":0,"for":68,"against":20,"isChampion":true},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":24,"draw":8,"loss":6,"for":74,"against":33},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":24,"draw":8,"loss":6,"for":74,"against":33},
 	{"country":"ita","name":"Udinese","id":"Udinese_Calcio","win":18,"draw":10,"loss":10,"for":52,"against":35},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":18,"draw":8,"loss":12,"for":56,"against":47},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":16,"draw":13,"loss":9,"for":66,"against":46},

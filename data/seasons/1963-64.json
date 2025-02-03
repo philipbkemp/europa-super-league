@@ -85,7 +85,7 @@
 	{"country":"bel","name":"KV Mechelen","id":"K.V._Mechelen","win":3,"draw":10,"loss":17,"for":20,"against":47,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":22,"draw":10,"loss":2,"for":54,"against":18,"isChampion":true},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":23,"draw":8,"loss":3,"for":54,"against":21},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":21,"draw":9,"loss":4,"for":58,"against":28},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":21,"draw":9,"loss":4,"for":58,"against":28},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":14,"draw":10,"loss":10,"for":43,"against":27},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":14,"draw":10,"loss":10,"for":49,"against":37},
 	{"country":"ita","name":"Vicenza","id":"LR_Vicenza","win":13,"draw":10,"loss":11,"for":34,"against":36},

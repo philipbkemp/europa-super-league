@@ -96,7 +96,7 @@
 	{"country":"ita","name":"Udinese","id":"Udinese_Calcio","win":9,"draw":8,"loss":13,"for":27,"against":37},
 	{"country":"ita","name":"Cagliari","id":"Cagliari_Calcio","win":7,"draw":11,"loss":12,"for":33,"against":36},
 	{"country":"ita","name":"Genoa","id":"Genoa_CFC","win":6,"draw":13,"loss":11,"for":24,"against":29,"isReturning":true},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":7,"draw":10,"loss":13,"for":21,"against":31,"isRemoved":true,"isReturning":true},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":7,"draw":10,"loss":13,"for":21,"against":31,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":6,"draw":11,"loss":13,"for":25,"against":37,"isRemoved":true},
 	{"country":"ita","name":"Como","id":"Como_1907","win":3,"draw":11,"loss":16,"for":18,"against":42,"isRemoved":true},
 	{"country":"che","name":"Grasshopper Club Zürich","id":"Grasshopper_Club_Zürich","win":21,"draw":7,"loss":2,"for":72,"against":24,"isChampion":true},

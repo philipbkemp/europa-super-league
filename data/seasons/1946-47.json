@@ -69,7 +69,7 @@
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":28,"draw":7,"loss":3,"for":104,"against":35,"isChampion":true,"isReturning":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":22,"draw":9,"loss":7,"for":83,"against":38,"isReturning":true},
 	{"country":"ita","name":"Modena","id":"Modena_FC_2018","win":21,"draw":9,"loss":8,"for":45,"against":24,"isReturning":true},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":19,"draw":12,"loss":7,"for":75,"against":52,"isReturning":true},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":19,"draw":12,"loss":7,"for":75,"against":52,"isReturning":true},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":15,"draw":9,"loss":14,"for":42,"against":41,"isReturning":true},
 	{"country":"ita","name":"Vicenza","id":"LR_Vicenza","win":16,"draw":7,"loss":15,"for":53,"against":57,"isReturning":true},
 	{"country":"ita","name":"Bari","id":"SSC_Bari","win":16,"draw":6,"loss":16,"for":33,"against":48,"isReturning":true},

@@ -64,7 +64,7 @@
 	{"country":"bel","name":"R.C. Malines","id":"K.R.C._Mechelen","win":3,"draw":7,"loss":12,"for":22,"against":42,"isRemoved":true},
 	{"country":"bel","name":"Léopold Club de Bruxelles","id":"Léopold_FC","win":3,"draw":4,"loss":15,"for":24,"against":46,"isRemoved":true},
 	{"country":"ita","name":"Pro Vercelli","id":"FC_Pro_Vercelli_1892","win":15,"draw":2,"loss":1,"for":50,"against":12,"isChampion":true,"isRemoved":true,"removedNote":"League switched to different format with multiple stages for next season"},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":14,"draw":3,"loss":1,"for":60,"against":10,"isRemoved":true,"removedNote":"League switched to different format with multiple stages for next season"},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":14,"draw":3,"loss":1,"for":60,"against":10,"isRemoved":true,"removedNote":"League switched to different format with multiple stages for next season"},
 	{"country":"ita","name":"Genoa","id":"Genoa_CFC","win":10,"draw":4,"loss":4,"for":35,"against":21,"isRemoved":true,"removedNote":"League switched to different format with multiple stages for next season"},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":10,"draw":1,"loss":7,"for":42,"against":22,"isRemoved":true,"removedNote":"League switched to different format with multiple stages for next season"},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":10,"draw":1,"loss":7,"for":31,"against":31,"isRemoved":true,"removedNote":"League switched to different format with multiple stages for next season"},

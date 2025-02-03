@@ -73,7 +73,7 @@
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":12,"draw":12,"loss":10,"for":46,"against":53},
 	{"country":"ita","name":"Pro Vercelli","id":"FC_Pro_Vercelli_1892","win":12,"draw":10,"loss":12,"for":41,"against":37},
 	{"country":"ita","name":"Livorno","id":"US_Livorno_1915","win":11,"draw":12,"loss":11,"for":47,"against":45,"isReturning":true},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":12,"draw":9,"loss":13,"for":50,"against":49},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":12,"draw":9,"loss":13,"for":50,"against":49},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":11,"draw":9,"loss":14,"for":48,"against":66},
 	{"country":"ita","name":"Triestina","id":"US_Triestina_Calcio_1918","win":10,"draw":10,"loss":14,"for":38,"against":40},
 	{"country":"ita","name":"Brescia","id":"Brescia_Calcio","win":11,"draw":7,"loss":16,"for":39,"against":47,"isReturning":true},

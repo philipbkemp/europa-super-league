@@ -82,7 +82,7 @@
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":28,"draw":6,"loss":4,"for":77,"against":28,"isChampion":true},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":22,"draw":8,"loss":8,"for":60,"against":30},
 	{"country":"ita","name":"Inter Milan","id":"inter_milan","win":23,"draw":3,"loss":12,"for":71,"against":42},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":20,"draw":10,"loss":8,"for":64,"against":43},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":20,"draw":10,"loss":8,"for":64,"against":43},
 	{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":19,"draw":7,"loss":12,"for":66,"against":48},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":18,"draw":9,"loss":11,"for":50,"against":38},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":22,"draw":6,"loss":10,"for":56,"against":33,"deduct":-10,"deductReason":"Capital Gains violations"},

@@ -64,7 +64,7 @@
 	{"country":"bel","name":"K. Lyra","id":"K._Lyra","win":7,"draw":5,"loss":18,"for":51,"against":81,"isRemoved":true},
 	{"country":"bel","name":"Stade Louvain","id":"K._Stade_Leuven","win":4,"draw":7,"loss":19,"for":46,"against":85,"isRemoved":true,"isNew":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":28,"draw":6,"loss":4,"for":100,"against":43,"isChampion":true},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":27,"draw":3,"loss":8,"for":118,"against":45},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":27,"draw":3,"loss":8,"for":118,"against":45},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":21,"draw":7,"loss":10,"for":99,"against":60},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":18,"draw":10,"loss":10,"for":67,"against":43},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":18,"draw":8,"loss":12,"for":76,"against":57},

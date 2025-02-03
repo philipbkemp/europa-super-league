@@ -86,7 +86,7 @@
 	{"country":"bel","name":"Royale Union Saint-Gilloise","id":"royale_union_saint_gilloise","win":4,"draw":11,"loss":15,"for":17,"against":38,"isRemoved":true},
 	{"country":"bel","name":"Crossing Club Schaerbeek","id":"K.V.V._Crossing_Elewijt","win":3,"draw":7,"loss":20,"for":20,"against":56,"isRemoved":true},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":18,"draw":9,"loss":3,"for":45,"against":22,"isChampion":true},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":18,"draw":8,"loss":4,"for":65,"against":33},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":18,"draw":8,"loss":4,"for":65,"against":33},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":16,"draw":11,"loss":3,"for":33,"against":16,"isReturning":true},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":16,"draw":5,"loss":9,"for":39,"against":26},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":15,"draw":7,"loss":8,"for":32,"against":23},

@@ -75,7 +75,7 @@
 	{"country":"ita","name":"Genova 1893","id":"Genoa_CFC","win":13,"draw":8,"loss":13,"for":58,"against":60},
 	{"country":"ita","name":"Triestina","id":"US_Triestina_Calcio_1918","win":14,"draw":6,"loss":14,"for":41,"against":56},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":12,"draw":9,"loss":13,"for":42,"against":44},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":11,"draw":10,"loss":13,"for":57,"against":62},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":11,"draw":10,"loss":13,"for":57,"against":62},
 	{"country":"ita","name":"Pro Vercelli","id":"FC_Pro_Vercelli_1892","win":13,"draw":3,"loss":18,"for":42,"against":58},
 	{"country":"ita","name":"Palermo","id":"Palermo_FC","win":11,"draw":7,"loss":16,"for":28,"against":58,"isNew":true},
 	{"country":"ita","name":"Padova","id":"Calcio_Padova","win":8,"draw":12,"loss":14,"for":43,"against":55,"isReturning":true},

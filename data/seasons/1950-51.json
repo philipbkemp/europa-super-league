@@ -63,7 +63,7 @@
 	{"country":"bel","name":"Daring Club","id":"R._Daring_Club_Molenbeek","win":7,"draw":9,"loss":14,"for":46,"against":66,"isReturning":true},
 	{"country":"bel","name":"Beringen FC","id":"K._Beringen_F.C.","win":9,"draw":4,"loss":17,"for":43,"against":78,"isRemoved":true,"isNew":true},
 	{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":6,"draw":9,"loss":15,"for":27,"against":57,"isRemoved":true},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":26,"draw":8,"loss":4,"for":107,"against":39,"isChampion":true},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":26,"draw":8,"loss":4,"for":107,"against":39,"isChampion":true},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":27,"draw":5,"loss":6,"for":107,"against":43},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":23,"draw":8,"loss":7,"for":103,"against":44},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":18,"draw":10,"loss":10,"for":64,"against":50},

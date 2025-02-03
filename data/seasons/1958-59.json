@@ -85,7 +85,7 @@
 	{"country":"bel","name":"K. Sint-Truidense V.V.","id":"Sint-Truidense_V.V.","win":8,"draw":6,"loss":16,"for":50,"against":77},
 	{"country":"bel","name":"R.F.C. Tournai","id":"R.F.C._Tournai","win":5,"draw":7,"loss":18,"for":37,"against":83,"isRemoved":true,"isReturning":true},
 	{"country":"bel","name":"Tilleur FC","id":"R.F.C._Tilleur","win":6,"draw":2,"loss":22,"for":36,"against":72,"isRemoved":true},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":20,"draw":12,"loss":2,"for":84,"against":32,"isChampion":true},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":20,"draw":12,"loss":2,"for":84,"against":32,"isChampion":true},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":20,"draw":9,"loss":5,"for":95,"against":35},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":20,"draw":6,"loss":8,"for":77,"against":41},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":16,"draw":10,"loss":8,"for":74,"against":51},

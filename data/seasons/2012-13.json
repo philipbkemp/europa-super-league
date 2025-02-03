@@ -79,7 +79,7 @@
 	{"country":"bel","name":"Cercle Brugge","id":"Cercle_Brugge_K.S.V.","win":3,"draw":5,"loss":22,"for":30,"against":65},
 	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":27,"draw":6,"loss":5,"for":71,"against":24,"isChampion":true},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":23,"draw":9,"loss":6,"for":73,"against":36},
-	{"country":"ita","name":"Milan","id":"AC_Milan","win":21,"draw":9,"loss":8,"for":67,"against":39},
+	{"country":"ita","name":"Milan","id":"ac_milan","win":21,"draw":9,"loss":8,"for":67,"against":39},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":21,"draw":7,"loss":10,"for":72,"against":44},
 	{"country":"ita","name":"Udinese","id":"Udinese_Calcio","win":18,"draw":12,"loss":8,"for":59,"against":45},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":18,"draw":8,"loss":12,"for":71,"against":56},
