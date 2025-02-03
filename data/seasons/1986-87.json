@@ -19,7 +19,7 @@
 	{"country":"eng","name":"Oxford United","id":"Oxford_United_F.C.","win":11,"draw":13,"loss":18,"for":44,"against":69},
 	{"country":"eng","name":"Charlton Athletic","id":"Charlton_Athletic_F.C.","win":11,"draw":11,"loss":20,"for":45,"against":55,"isReturning":true},
 	{"country":"eng","name":"Leicester City","id":"Leicester_City_F.C.","win":11,"draw":9,"loss":22,"for":54,"against":76,"isRemoved":true},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":8,"draw":15,"loss":19,"for":36,"against":57,"isRemoved":true},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":8,"draw":15,"loss":19,"for":36,"against":57,"isRemoved":true},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":8,"draw":12,"loss":22,"for":45,"against":79,"isRemoved":true},
 	{"country":"dnk","name":"Brøndby IF","id":"brondby_if","win":22,"draw":3,"loss":1,"for":63,"against":17,"isChampion":true},
 	{"country":"dnk","name":"Ikast FS","id":"Ikast_FC","win":16,"draw":6,"loss":4,"for":53,"against":26},

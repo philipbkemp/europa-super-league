@@ -17,7 +17,7 @@
 	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":15,"draw":6,"loss":17,"for":57,"against":65},
 	{"country":"eng","name":"Bury","id":"Bury_F.C.","win":14,"draw":8,"loss":16,"for":63,"against":77},
 	{"country":"eng","name":"Bradford City","id":"Bradford_City_A.F.C.","win":12,"draw":10,"loss":16,"for":47,"against":47,"isNew":true},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":15,"draw":4,"loss":19,"for":67,"against":69,"isRemoved":true},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":15,"draw":4,"loss":19,"for":67,"against":69,"isRemoved":true},
 	{"country":"eng","name":"Leicester Fosse","id":"Leicester_City_F.C.","win":8,"draw":9,"loss":21,"for":54,"against":102,"isRemoved":true,"isNew":true},
 	{"country":"dnk","name":"Boldklubben af 1893","id":"Boldklubben_af_1893","win":8,"draw":1,"loss":1,"for":52,"against":13,"isChampion":true},
 	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":7,"draw":2,"loss":1,"for":43,"against":15},

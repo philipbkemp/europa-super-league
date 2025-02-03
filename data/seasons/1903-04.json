@@ -1,6 +1,6 @@
 [
 	{"country":"eng","name":"The Wednesday","id":"Sheffield_Wednesday_F.C.","win":20,"draw":7,"loss":7,"for":48,"against":28,"isChampion":true},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":19,"draw":6,"loss":9,"for":71,"against":45,"isReturning":true},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":19,"draw":6,"loss":9,"for":71,"against":45,"isReturning":true},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":19,"draw":5,"loss":10,"for":59,"against":32},
 	{"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":18,"draw":6,"loss":10,"for":58,"against":45},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":17,"draw":7,"loss":10,"for":70,"against":48},

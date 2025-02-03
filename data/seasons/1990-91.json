@@ -3,7 +3,7 @@
 	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":23,"draw":7,"loss":8,"for":77,"against":40},
 	{"country":"eng","name":"Crystal Palace","id":"Crystal_Palace_F.C.","win":20,"draw":9,"loss":9,"for":50,"against":41},
 	{"country":"eng","name":"Leeds United","id":"Leeds_United_F.C.","win":19,"draw":7,"loss":12,"for":65,"against":47,"isReturning":true},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":17,"draw":11,"loss":10,"for":64,"against":53},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":17,"draw":11,"loss":10,"for":64,"against":53},
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":16,"draw":12,"loss":10,"for":58,"against":45,"deduct":-1,"deductReason":"Brawl in match with Arsenal"},
 	{"country":"eng","name":"Wimbledon","id":"Wimbledon_F.C.","win":14,"draw":14,"loss":10,"for":53,"against":46},
 	{"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":14,"draw":12,"loss":12,"for":65,"against":50},

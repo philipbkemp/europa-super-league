@@ -6,7 +6,7 @@
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":20,"draw":7,"loss":15,"for":63,"against":59},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":18,"draw":10,"loss":14,"for":64,"against":51},
 	{"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":17,"draw":11,"loss":14,"for":58,"against":49},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":17,"draw":11,"loss":14,"for":50,"against":49},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":17,"draw":11,"loss":14,"for":50,"against":49},
 	{"country":"eng","name":"Cardiff City","id":"Cardiff_City_F.C.","win":18,"draw":7,"loss":17,"for":73,"against":59},
 	{"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":16,"draw":10,"loss":16,"for":68,"against":64},
 	{"country":"eng","name":"Arsenal","id":"arsenal_fc","win":16,"draw":10,"loss":16,"for":61,"against":62},

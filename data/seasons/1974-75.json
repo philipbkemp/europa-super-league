@@ -6,7 +6,7 @@
 	{"country":"eng","name":"Stoke City","id":"Stoke_City_F.C.","win":17,"draw":15,"loss":10,"for":64,"against":48},
 	{"country":"eng","name":"Sheffield United","id":"Sheffield_United_F.C.","win":18,"draw":13,"loss":11,"for":58,"against":51},
 	{"country":"eng","name":"Middlesbrough","id":"Middlesbrough_F.C.","win":18,"draw":12,"loss":12,"for":54,"against":40,"isReturning":true},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":18,"draw":10,"loss":14,"for":54,"against":54},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":18,"draw":10,"loss":14,"for":54,"against":54},
 	{"country":"eng","name":"Leeds United","id":"Leeds_United_F.C.","win":16,"draw":13,"loss":13,"for":57,"against":49},
 	{"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":17,"draw":11,"loss":14,"for":68,"against":67},
 	{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_Rangers_F.C.","win":16,"draw":10,"loss":16,"for":54,"against":54},

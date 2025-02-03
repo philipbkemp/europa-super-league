@@ -18,7 +18,7 @@
 	{"country":"eng","name":"Birmingham City","id":"Birmingham_City_F.C.","win":12,"draw":14,"loss":16,"for":40,"against":55},
 	{"country":"eng","name":"Luton Town","id":"Luton_Town_F.C.","win":12,"draw":13,"loss":17,"for":65,"against":84,"isReturning":true},
 	{"country":"eng","name":"Coventry City","id":"Coventry_City_F.C.","win":13,"draw":9,"loss":20,"for":48,"against":59},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":13,"draw":8,"loss":21,"for":47,"against":70,"isRemoved":true},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":13,"draw":8,"loss":21,"for":47,"against":70,"isRemoved":true},
 	{"country":"eng","name":"Swansea City","id":"Swansea_City_A.F.C.","win":10,"draw":11,"loss":21,"for":51,"against":69,"isRemoved":true},
 	{"country":"eng","name":"Brighton & Hove Albion","id":"Brighton_%26_Hove_Albion_F.C.","win":9,"draw":13,"loss":20,"for":38,"against":68,"isRemoved":true},
 	{"country":"dnk","name":"Lyngby Boldklub","id":"Lyngby_Boldklub","win":17,"draw":6,"loss":7,"for":63,"against":33,"isChampion":true},

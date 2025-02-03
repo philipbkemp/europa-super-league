@@ -9,7 +9,7 @@
 	{"country":"eng","name":"Blackburn Rovers","id":"Blackburn_Rovers_F.C.","win":17,"draw":11,"loss":14,"for":54,"against":50},
 	{"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":17,"draw":10,"loss":15,"for":60,"against":54},
 	{"country":"eng","name":"Notts County","id":"Notts_County_F.C.","win":14,"draw":14,"loss":14,"for":44,"against":49,"isReturning":true},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":15,"draw":12,"loss":15,"for":54,"against":71},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":15,"draw":12,"loss":15,"for":54,"against":71},
 	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":15,"draw":11,"loss":16,"for":49,"against":48},
 	{"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":13,"draw":15,"loss":14,"for":40,"against":43,"isNew":true},
 	{"country":"eng","name":"Birmingham","id":"Birmingham_City_F.C.","win":13,"draw":13,"loss":16,"for":41,"against":49},

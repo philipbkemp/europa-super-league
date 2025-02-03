@@ -19,7 +19,7 @@
 	{"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":15,"draw":7,"loss":20,"for":63,"against":76},
 	{"country":"eng","name":"Leeds United","id":"Leeds_United_F.C.","win":14,"draw":8,"loss":20,"for":64,"against":76},
 	{"country":"eng","name":"Burnley","id":"Burnley_F.C.","win":13,"draw":10,"loss":19,"for":85,"against":108},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":12,"draw":11,"loss":19,"for":89,"against":100,"isRemoved":true},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":12,"draw":11,"loss":19,"for":89,"against":100,"isRemoved":true},
 	{"country":"eng","name":"Notts County","id":"Notts_County_F.C.","win":13,"draw":7,"loss":22,"for":54,"against":74,"isRemoved":true},
 	{"country":"sco","name":"Celtic","id":"celtic_fc","win":25,"draw":8,"loss":5,"for":97,"against":40,"isChampion":true},
 	{"country":"sco","name":"Airdrieonians","id":"Airdrieonians_F.C._(1878)","win":23,"draw":4,"loss":11,"for":95,"against":54},

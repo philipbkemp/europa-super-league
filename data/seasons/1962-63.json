@@ -19,7 +19,7 @@
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":15,"draw":5,"loss":22,"for":55,"against":75},
 	{"country":"eng","name":"Manchester United","id":"Manchester_United_F.C.","win":12,"draw":10,"loss":20,"for":67,"against":81},
 	{"country":"eng","name":"Birmingham City","id":"Birmingham_City_F.C.","win":10,"draw":13,"loss":19,"for":63,"against":90},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":10,"draw":11,"loss":21,"for":58,"against":102,"isRemoved":true},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":10,"draw":11,"loss":21,"for":58,"against":102,"isRemoved":true},
 	{"country":"eng","name":"Leyton Orient","id":"Leyton_Orient_F.C.","win":6,"draw":9,"loss":27,"for":37,"against":81,"isRemoved":true,"isNew":true},
 	{"country":"dnk","name":"Esbjerg fB","id":"Esbjerg_fB","win":15,"draw":3,"loss":4,"for":56,"against":28,"isChampion":true},
 	{"country":"dnk","name":"Boldklubben 1913","id":"Boldklubben_1913","win":11,"draw":3,"loss":8,"for":48,"against":44},

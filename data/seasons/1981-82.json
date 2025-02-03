@@ -8,7 +8,7 @@
 	{"country":"eng","name":"Southampton","id":"Southampton_F.C.","win":19,"draw":9,"loss":14,"for":72,"against":67},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":17,"draw":13,"loss":12,"for":56,"against":50},
 	{"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":14,"draw":16,"loss":12,"for":66,"against":57,"isReturning":true},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":15,"draw":13,"loss":14,"for":49,"against":50},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":15,"draw":13,"loss":14,"for":49,"against":50},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":15,"draw":12,"loss":15,"for":55,"against":53},
 	{"country":"eng","name":"Nottingham Forest","id":"Nottingham_Forest_F.C.","win":15,"draw":12,"loss":15,"for":42,"against":48},
 	{"country":"eng","name":"Brighton & Hove Albion","id":"Brighton_%26_Hove_Albion_F.C.","win":13,"draw":13,"loss":16,"for":43,"against":52},

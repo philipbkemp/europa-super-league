@@ -2,7 +2,7 @@
 	{"country":"eng","name":"Arsenal","id":"arsenal_fc","win":23,"draw":12,"loss":7,"for":115,"against":46,"isChampion":true},
 	{"country":"eng","name":"Sunderland","id":"Sunderland_A.F.C.","win":19,"draw":16,"loss":7,"for":90,"against":51},
 	{"country":"eng","name":"Sheffield Wednesday","id":"Sheffield_Wednesday_F.C.","win":18,"draw":13,"loss":11,"for":70,"against":64},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":20,"draw":8,"loss":14,"for":82,"against":67},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":20,"draw":8,"loss":14,"for":82,"against":67},
 	{"country":"eng","name":"Grimsby Town","id":"Grimsby_Town_F.C.","win":17,"draw":11,"loss":14,"for":78,"against":60,"isReturning":true},
 	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":18,"draw":9,"loss":15,"for":81,"against":66},
 	{"country":"eng","name":"Liverpool","id":"liverpool_fc","win":19,"draw":7,"loss":16,"for":85,"against":88},

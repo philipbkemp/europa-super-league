@@ -15,7 +15,7 @@
 	{"country":"eng","name":"West Ham United","id":"West_Ham_United_F.C.","win":13,"draw":11,"loss":18,"for":44,"against":48},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":11,"draw":17,"loss":14,"for":44,"against":51},
 	{"country":"eng","name":"Coventry City","id":"Coventry_City_F.C.","win":12,"draw":14,"loss":16,"for":44,"against":62},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":12,"draw":13,"loss":17,"for":53,"against":64},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":12,"draw":13,"loss":17,"for":53,"against":64},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":11,"draw":15,"loss":16,"for":51,"against":56},
 	{"country":"eng","name":"Crystal Palace","id":"Crystal_Palace_F.C.","win":11,"draw":12,"loss":19,"for":34,"against":49,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"Norwich City","id":"Norwich_City_F.C.","win":10,"draw":13,"loss":19,"for":37,"against":54,"isRemoved":true},

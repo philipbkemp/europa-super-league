@@ -13,7 +13,7 @@
 	{"country":"eng","name":"Watford","id":"Watford_F.C.","win":16,"draw":11,"loss":15,"for":69,"against":62},
 	{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_Rangers_F.C.","win":15,"draw":7,"loss":20,"for":53,"against":64},
 	{"country":"eng","name":"Southampton","id":"Southampton_F.C.","win":12,"draw":10,"loss":20,"for":51,"against":62},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":11,"draw":12,"loss":19,"for":43,"against":57,"isReturning":true},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":11,"draw":12,"loss":19,"for":43,"against":57,"isReturning":true},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":10,"draw":14,"loss":18,"for":51,"against":67},
 	{"country":"eng","name":"Coventry City","id":"Coventry_City_F.C.","win":11,"draw":10,"loss":21,"for":48,"against":71},
 	{"country":"eng","name":"Oxford United","id":"Oxford_United_F.C.","win":10,"draw":12,"loss":20,"for":62,"against":80,"isNew":true},

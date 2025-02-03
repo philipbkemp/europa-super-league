@@ -18,7 +18,7 @@
 	{"country":"eng","name":"Luton Town","id":"Luton_Town_F.C.","win":12,"draw":13,"loss":17,"for":68,"against":71},
 	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":13,"draw":10,"loss":19,"for":85,"against":95},
 	{"country":"eng","name":"Leicester City","id":"Leicester_City_F.C.","win":11,"draw":10,"loss":21,"for":67,"against":98},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":11,"draw":9,"loss":22,"for":64,"against":95},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":11,"draw":9,"loss":22,"for":64,"against":95},
 	{"country":"eng","name":"Aston Villa","id":"Aston_Villa_F.C.","win":11,"draw":8,"loss":23,"for":58,"against":87,"isRemoved":true},
 	{"country":"eng","name":"Portsmouth","id":"Portsmouth_F.C.","win":6,"draw":9,"loss":27,"for":64,"against":112,"isRemoved":true},
 	{"country":"dnk","name":"Boldklubben 1909","id":"Boldklubben_1909","win":14,"draw":5,"loss":3,"for":47,"against":28,"isChampion":true},

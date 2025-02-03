@@ -19,7 +19,7 @@
 	{"country":"eng","name":"Birmingham","id":"Birmingham_City_F.C.","win":10,"draw":18,"loss":14,"for":58,"against":62},
 	{"country":"eng","name":"Portsmouth","id":"Portsmouth_F.C.","win":13,"draw":12,"loss":17,"for":62,"against":68},
 	{"country":"eng","name":"Grimsby Town","id":"Grimsby_Town_F.C.","win":13,"draw":12,"loss":17,"for":51,"against":68},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":14,"draw":8,"loss":20,"for":80,"against":77,"isRemoved":true},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":14,"draw":8,"loss":20,"for":80,"against":77,"isRemoved":true},
 	{"country":"eng","name":"West Bromwich Albion","id":"West_Bromwich_Albion_F.C.","win":14,"draw":8,"loss":20,"for":74,"against":91,"isRemoved":true},
 	{"country":"dnk","name":"Boldklubben 1903","id":"Boldklubben_1903","win":12,"draw":3,"loss":3,"for":52,"against":21,"isChampion":true},
 	{"country":"dnk","name":"Boldklubben Frem","id":"boldklubben_frem","win":12,"draw":3,"loss":3,"for":50,"against":21},

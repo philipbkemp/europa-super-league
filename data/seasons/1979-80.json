@@ -15,7 +15,7 @@
 	{"country":"eng","name":"Tottenham Hotspur","id":"tottenham_hotspur_fc","win":15,"draw":10,"loss":17,"for":52,"against":62},
 	{"country":"eng","name":"Coventry City","id":"Coventry_City_F.C.","win":16,"draw":7,"loss":19,"for":56,"against":66},
 	{"country":"eng","name":"Brighton & Hove Albion","id":"Brighton_%26_Hove_Albion_F.C.","win":11,"draw":15,"loss":16,"for":47,"against":57,"isNew":true},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":12,"draw":13,"loss":17,"for":43,"against":66},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":12,"draw":13,"loss":17,"for":43,"against":66},
 	{"country":"eng","name":"Stoke City","id":"Stoke_City_F.C.","win":13,"draw":10,"loss":19,"for":44,"against":58,"isReturning":true},
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":9,"draw":17,"loss":16,"for":43,"against":51},
 	{"country":"eng","name":"Bristol City","id":"Bristol_City_F.C.","win":9,"draw":13,"loss":20,"for":37,"against":66,"isRemoved":true},

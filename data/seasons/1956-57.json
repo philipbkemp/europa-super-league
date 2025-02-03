@@ -16,7 +16,7 @@
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":14,"draw":10,"loss":18,"for":61,"against":79},
 	{"country":"eng","name":"Luton Town","id":"Luton_Town_F.C.","win":14,"draw":9,"loss":19,"for":58,"against":76},
 	{"country":"eng","name":"Newcastle United","id":"Newcastle_United_F.C.","win":14,"draw":8,"loss":20,"for":67,"against":87},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":13,"draw":9,"loss":20,"for":78,"against":88},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":13,"draw":9,"loss":20,"for":78,"against":88},
 	{"country":"eng","name":"Portsmouth","id":"Portsmouth_F.C.","win":10,"draw":13,"loss":19,"for":62,"against":92},
 	{"country":"eng","name":"Sunderland","id":"Sunderland_A.F.C.","win":12,"draw":8,"loss":22,"for":67,"against":88},
 	{"country":"eng","name":"Cardiff City","id":"Cardiff_City_F.C.","win":10,"draw":9,"loss":23,"for":53,"against":88,"isRemoved":true},

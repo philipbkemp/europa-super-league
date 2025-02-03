@@ -19,7 +19,7 @@
 	{"country":"eng","name":"Everton","id":"Everton_F.C.","win":10,"draw":14,"loss":18,"for":42,"against":66},
 	{"country":"eng","name":"Stoke City","id":"Stoke_City_F.C.","win":11,"draw":12,"loss":19,"for":45,"against":75},
 	{"country":"eng","name":"Charlton Athletic","id":"Charlton_Athletic_F.C.","win":13,"draw":6,"loss":23,"for":53,"against":65},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":8,"draw":13,"loss":21,"for":36,"against":68,"isRemoved":true},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":8,"draw":13,"loss":21,"for":36,"against":68,"isRemoved":true},
 	{"country":"eng","name":"Birmingham City","id":"Birmingham_City_F.C.","win":7,"draw":14,"loss":21,"for":31,"against":67,"isRemoved":true},
 	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":12,"draw":4,"loss":2,"for":36,"against":11,"isChampion":true},
 	{"country":"dnk","name":"Akademisk Boldklub","id":"akademisk_boldklub","win":12,"draw":3,"loss":3,"for":48,"against":18},

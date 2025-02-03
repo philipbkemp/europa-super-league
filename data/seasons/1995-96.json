@@ -16,7 +16,7 @@
 	{"country":"eng","name":"Sheffield Wednesday","id":"Sheffield_Wednesday_F.C.","win":10,"draw":10,"loss":18,"for":48,"against":61},
 	{"country":"eng","name":"Coventry City","id":"Coventry_City_F.C.","win":8,"draw":14,"loss":16,"for":42,"against":60},
 	{"country":"eng","name":"Southampton","id":"Southampton_F.C.","win":9,"draw":11,"loss":18,"for":34,"against":52},
-	{"country":"eng","name":"Manchester City","id":"Manchester_City_F.C.","win":9,"draw":11,"loss":18,"for":33,"against":58,"isRemoved":true},
+	{"country":"eng","name":"Manchester City","id":"manchester_city_fc","win":9,"draw":11,"loss":18,"for":33,"against":58,"isRemoved":true},
 	{"country":"eng","name":"Queens Park Rangers","id":"Queens_Park_Rangers_F.C.","win":9,"draw":6,"loss":23,"for":38,"against":57,"isRemoved":true},
 	{"country":"eng","name":"Bolton Wanderers","id":"Bolton_Wanderers_F.C.","win":8,"draw":5,"loss":25,"for":39,"against":71,"isRemoved":true,"isReturning":true},
 	{"country":"dnk","name":"Brøndby IF","id":"brondby_if","win":20,"draw":7,"loss":6,"for":71,"against":32,"isChampion":true},
