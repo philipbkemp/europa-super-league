@@ -128,7 +128,7 @@
 	{"country":"grc","name":"Asteras Tripolis","id":"Asteras_Tripolis_F.C.","win":17,"draw":5,"loss":8,"for":41,"against":25},
 	{"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":11,"draw":13,"loss":6,"for":26,"against":22},
 	{"country":"grc","name":"PAS Giannina","id":"PAS_Giannina_F.C.","win":12,"draw":8,"loss":10,"for":28,"against":24},
-	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":10,"draw":12,"loss":8,"for":32,"against":30,"deduct":-2,"deductReason":"Crowd violence in previous season"},
+	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":10,"draw":12,"loss":8,"for":32,"against":30,"deduct":-2,"deductReason":"Crowd violence in previous season"},
 	{"country":"grc","name":"Skoda Xanthi","id":"Xanthi_F.C.","win":10,"draw":10,"loss":10,"for":28,"against":26},
 	{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":11,"draw":3,"loss":16,"for":35,"against":42},
 	{"country":"grc","name":"Platanias","id":"Platanias_F.C.","win":10,"draw":6,"loss":14,"for":29,"against":42,"isNew":true},

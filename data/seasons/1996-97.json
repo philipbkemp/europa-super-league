@@ -129,7 +129,7 @@
 	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":22,"draw":6,"loss":6,"for":75,"against":28},
 	{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":20,"draw":6,"loss":8,"for":51,"against":28},
 	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":19,"draw":9,"loss":6,"for":53,"against":28},
-	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":20,"draw":4,"loss":10,"for":60,"against":25},
+	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":20,"draw":4,"loss":10,"for":60,"against":25},
 	{"country":"grc","name":"Kavala","id":"Kavala_F.C.","win":16,"draw":7,"loss":11,"for":42,"against":43,"isReturning":true},
 	{"country":"grc","name":"Paniliakos","id":"Paniliakos_F.C.","win":13,"draw":6,"loss":15,"for":39,"against":49},
 	{"country":"grc","name":"Ionikos","id":"Ionikos_F.C.","win":12,"draw":8,"loss":14,"for":40,"against":47},

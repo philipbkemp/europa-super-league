@@ -131,7 +131,7 @@
 	{"country":"hun","name":"Volán","id":"Volán_FC","win":7,"draw":10,"loss":13,"for":42,"against":54,"isRemoved":true,"isReturning":true},
 	{"country":"hun","name":"Nyíregyházi VSSC","id":"Nyíregyháza_Spartacus_FC","win":7,"draw":8,"loss":15,"for":28,"against":47,"isRemoved":true},
 	{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":2,"draw":9,"loss":19,"for":25,"against":53,"isRemoved":true},
-	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":19,"draw":8,"loss":3,"for":46,"against":14,"isChampion":true},
+	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":19,"draw":8,"loss":3,"for":46,"against":14,"isChampion":true},
 	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":19,"draw":5,"loss":6,"for":49,"against":22},
 	{"country":"grc","name":"Iraklis","id":"Iraklis_F.C._(Thessaloniki)","win":16,"draw":10,"loss":4,"for":47,"against":20},
 	{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":16,"draw":7,"loss":7,"for":39,"against":23},

@@ -132,7 +132,7 @@
 	{"country":"hun","name":"Eger","id":"Egri_FC","win":10,"draw":5,"loss":15,"for":26,"against":42,"isRemoved":true,"isReturning":true},
 	{"country":"hun","name":"Szeged","id":"Szegedi_EAC","win":6,"draw":2,"loss":22,"for":32,"against":73,"isRemoved":true},
 	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":19,"draw":8,"loss":3,"for":54,"against":26,"isChampion":true},
-	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":17,"draw":9,"loss":4,"for":61,"against":30},
+	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":17,"draw":9,"loss":4,"for":61,"against":30},
 	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":16,"draw":11,"loss":3,"for":58,"against":29},
 	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":17,"draw":8,"loss":5,"for":53,"against":23},
 	{"country":"grc","name":"Iraklis","id":"Iraklis_F.C._(Thessaloniki)","win":19,"draw":3,"loss":8,"for":59,"against":33},

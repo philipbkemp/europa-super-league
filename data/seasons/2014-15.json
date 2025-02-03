@@ -124,7 +124,7 @@
 	{"country":"hun","name":"Dunaújváros","id":"Dunaújváros_PASE","win":5,"draw":8,"loss":17,"for":26,"against":49,"isRemoved":true,"deduct":-1,"isNew":true},
 	{"country":"hun","name":"Pápa","id":"Pápai_FC","win":4,"draw":7,"loss":19,"for":14,"against":57,"isRemoved":true},
 	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":24,"draw":6,"loss":4,"for":79,"against":23,"isChampion":true},
-	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":21,"draw":6,"loss":7,"for":59,"against":31,"deduct":-3,"deductReason":"Extreme fan behaviour"},
+	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":21,"draw":6,"loss":7,"for":59,"against":31,"deduct":-3,"deductReason":"Extreme fan behaviour"},
 	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":20,"draw":5,"loss":9,"for":57,"against":42},
 	{"country":"grc","name":"Asteras Tripolis","id":"Asteras_Tripolis_F.C.","win":17,"draw":8,"loss":9,"for":52,"against":37},
 	{"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":14,"draw":12,"loss":8,"for":43,"against":27},

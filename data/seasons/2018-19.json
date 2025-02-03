@@ -128,7 +128,7 @@
 	{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":15,"draw":4,"loss":11,"for":46,"against":33,"isReturning":true},
 	{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":11,"draw":5,"loss":14,"for":27,"against":45},
 	{"country":"grc","name":"Lamia","id":"PAS_Lamia_1964","win":9,"draw":10,"loss":11,"for":28,"against":37},
-	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":13,"draw":8,"loss":9,"for":38,"against":30,"deduct":-11},
+	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":13,"draw":8,"loss":9,"for":38,"against":30,"deduct":-11},
 	{"country":"grc","name":"Panetolikos","id":"Panetolikos_F.C.","win":10,"draw":6,"loss":14,"for":34,"against":48},
 	{"country":"grc","name":"AEL","id":"Athlitiki_Enosi_Larissa_F.C.","win":8,"draw":10,"loss":12,"for":26,"against":34},
 	{"country":"grc","name":"Asteras Tripolis","id":"Asteras_Tripolis_F.C.","win":8,"draw":9,"loss":13,"for":25,"against":30},

@@ -123,7 +123,7 @@
 	{"country":"hun","name":"Gyirmót","id":"Gyirmót_FC_Győr","win":5,"draw":9,"loss":19,"for":21,"against":51,"isRemoved":true,"isNew":true},
 	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":21,"draw":4,"loss":5,"for":57,"against":16,"isChampion":true},
 	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":20,"draw":4,"loss":6,"for":52,"against":19,"deduct":-3,"deductReason":"Failing to attend a semi-final cup match in the previous season"},
-	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":16,"draw":9,"loss":5,"for":45,"against":19},
+	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":16,"draw":9,"loss":5,"for":45,"against":19},
 	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":14,"draw":11,"loss":5,"for":54,"against":23},
 	{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":15,"draw":7,"loss":8,"for":35,"against":23},
 	{"country":"grc","name":"Xanthi","id":"Xanthi_F.C.","win":13,"draw":9,"loss":8,"for":34,"against":25},

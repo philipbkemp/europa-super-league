@@ -131,7 +131,7 @@
 	{"country":"hun","name":"Dorog","id":"Dorogi_FC","win":6,"draw":7,"loss":13,"for":36,"against":50},
 	{"country":"hun","name":"Debreceni VSC","id":"Debreceni_VSC","win":7,"draw":5,"loss":14,"for":33,"against":61,"isReturning":true,"isRemoved":true},
 	{"country":"hun","name":"Diósgyőri VTK","id":"Diósgyőri_VTK","win":3,"draw":6,"loss":17,"for":25,"against":65,"isRemoved":true},
-	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":23,"draw":4,"loss":3,"for":71,"against":23,"isChampion":true},
+	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":23,"draw":4,"loss":3,"for":71,"against":23,"isChampion":true},
 	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":19,"draw":5,"loss":6,"for":62,"against":23},
 	{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":17,"draw":6,"loss":7,"for":55,"against":37},
 	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":17,"draw":6,"loss":7,"for":64,"against":32,"deduct":-1},

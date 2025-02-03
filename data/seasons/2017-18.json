@@ -131,7 +131,7 @@
 	{"country":"grc","name":"Panetolikos","id":"Panetolikos_F.C.","win":9,"draw":8,"loss":13,"for":31,"against":40},
 	{"country":"grc","name":"PAS Giannina","id":"PAS_Giannina_F.C.","win":7,"draw":13,"loss":10,"for":31,"against":34},
 	{"country":"grc","name":"Levadiakos","id":"Levadiakos_F.C.","win":8,"draw":10,"loss":12,"for":23,"against":34},
-	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":10,"draw":10,"loss":10,"for":30,"against":30,"deduct":-8,"deductReason":"3pts for crowd behaviour in previous season; 6pts for 2 instances of financial issues"},
+	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":10,"draw":10,"loss":10,"for":30,"against":30,"deduct":-8,"deductReason":"3pts for crowd behaviour in previous season; 6pts for 2 instances of financial issues"},
 	{"country":"grc","name":"AEL","id":"Athlitiki_Enosi_Larissa_F.C.","win":7,"draw":10,"loss":13,"for":22,"against":41},
 	{"country":"grc","name":"Lamia","id":"PAS_Lamia_1964","win":6,"draw":12,"loss":12,"for":20,"against":34,"isNew":true},
 	{"country":"grc","name":"Apollon Smyrnis","id":"Apollon_Smyrnis_F.C.","win":6,"draw":11,"loss":13,"for":23,"against":36,"isReturning":true},

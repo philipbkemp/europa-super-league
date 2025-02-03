@@ -129,7 +129,7 @@
 	{"country":"hun","name":"Siofoki Bányász","id":"BFC_Siófok","win":8,"draw":8,"loss":14,"for":28,"against":46,"isNew":true},
 	{"country":"hun","name":"Csepel","id":"Csepel_SC","win":8,"draw":6,"loss":16,"for":28,"against":41,"isRemoved":true},
 	{"country":"hun","name":"Volán","id":"Volán_FC","win":5,"draw":12,"loss":13,"for":30,"against":47,"isRemoved":true,"isReturning":true},
-	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":18,"draw":7,"loss":5,"for":58,"against":26,"isChampion":true},
+	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":18,"draw":7,"loss":5,"for":58,"against":26,"isChampion":true},
 	{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":16,"draw":6,"loss":8,"for":41,"against":31},
 	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":13,"draw":10,"loss":7,"for":42,"against":28},
 	{"country":"grc","name":"Iraklis","id":"Iraklis_F.C._(Thessaloniki)","win":14,"draw":8,"loss":8,"for":34,"against":22},

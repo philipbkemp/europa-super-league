@@ -126,7 +126,7 @@
 	{"country":"hun","name":"Vác","id":"Vác_FC","win":3,"draw":6,"loss":23,"for":24,"against":85,"isRemoved":true},
 	{"country":"hun","name":"Szeged LC","id":"Szeged_LC","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Excluded and results expunged","isNew":true},
 	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":30,"draw":2,"loss":2,"for":86,"against":18,"isChampion":true},
-	{"country":"grc","name":"Panathinaikos","id":"Panathinaikos_F.C.","win":28,"draw":4,"loss":2,"for":92,"against":24},
+	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":28,"draw":4,"loss":2,"for":92,"against":24},
 	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":20,"draw":6,"loss":8,"for":69,"against":39},
 	{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":18,"draw":9,"loss":7,"for":60,"against":44},
 	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":15,"draw":10,"loss":9,"for":64,"against":44},
