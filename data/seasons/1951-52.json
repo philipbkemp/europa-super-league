@@ -376,7 +376,7 @@
 	{"country":"isr","name":"Beitar Tel Aviv","id":"Beitar_Tel_Aviv_F.C.","win":7,"draw":7,"loss":8,"for":39,"against":41,"isRemoved":true,"isReturning":true,"removedNote":"League not contested next season"},
 	{"country":"isr","name":"Hapoel Ramat Gan","id":"Hapoel_Ramat_Gan_Givatayim_F.C.","win":7,"draw":3,"loss":12,"for":37,"against":46,"isRemoved":true,"isReturning":true,"removedNote":"League not contested next season"},
 	{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":6,"draw":5,"loss":11,"for":36,"against":46,"isRemoved":true,"isReturning":true,"removedNote":"League not contested next season"},
-	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":6,"draw":5,"loss":11,"for":33,"against":53,"isRemoved":true,"isReturning":true,"removedNote":"League not contested next season"},
+	{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":6,"draw":5,"loss":11,"for":33,"against":53,"isRemoved":true,"isReturning":true,"removedNote":"League not contested next season"},
 	{"country":"isr","name":"Hapoel Rishon LeZion","id":"Hapoel_Rishon_LeZion_F.C.","win":5,"draw":6,"loss":11,"for":22,"against":52,"isRemoved":true,"isReturning":true},
 	{"country":"isr","name":"Maccabi Rishon LeZion","id":"Maccabi_Rishon_LeZion_F.C.","win":1,"draw":2,"loss":19,"for":13,"against":100,"isRemoved":true,"isReturning":true}
 ]

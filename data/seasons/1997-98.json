@@ -449,7 +449,7 @@
 	{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":20,"draw":9,"loss":1,"for":71,"against":33,"isChampion":true},
 	{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":21,"draw":5,"loss":4,"for":44,"against":16},
 	{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":17,"draw":9,"loss":4,"for":59,"against":27},
-	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":15,"draw":7,"loss":8,"for":49,"against":34},
+	{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":15,"draw":7,"loss":8,"for":49,"against":34},
 	{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":12,"draw":6,"loss":12,"for":41,"against":41},
 	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":10,"draw":9,"loss":11,"for":42,"against":35},
 	{"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":10,"draw":8,"loss":12,"for":39,"against":39},

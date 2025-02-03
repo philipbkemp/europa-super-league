@@ -522,7 +522,7 @@
 	{"country":"ede","name":"BSG Chemie Leipzig","id":"FC_Sachsen_Leipzig","win":4,"draw":6,"loss":16,"for":21,"against":49,"isReturning":true},
 	{"country":"ede","name":"1. FC Union Berlin","id":"1._FC_Union_Berlin","win":4,"draw":6,"loss":16,"for":27,"against":55,"isRemoved":true},
 	{"country":"ede","name":"Hallescher FC Chemie","id":"Hallescher_FC","win":1,"draw":9,"loss":16,"for":32,"against":68,"isRemoved":true},
-	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":16,"draw":9,"loss":5,"for":48,"against":28,"isChampion":true},
+	{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":16,"draw":9,"loss":5,"for":48,"against":28,"isChampion":true},
 	{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":15,"draw":11,"loss":4,"for":45,"against":27},
 	{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":12,"draw":11,"loss":7,"for":40,"against":27},
 	{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":11,"draw":9,"loss":10,"for":52,"against":49},

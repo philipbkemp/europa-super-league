@@ -247,7 +247,7 @@
 	{"country":"pse","name":"Maccabi Nes Tziona","id":"Maccabi_Nes_Tziona_F.C.","win":4,"draw":2,"loss":7,"for":10,"against":24,"isReturning":true,"isRemoved":true,"removedNote":"Next season was abandoned mid-season"},
 	{"country":"pse","name":"Maccabi Rehovot","id":"Maccabi_Rehovot_F.C.","win":2,"draw":2,"loss":9,"for":11,"against":30,"isNew":true,"isRemoved":true,"removedNote":"Next season was abandoned mid-season"},
 	{"country":"pse","name":"Hapoel Jerusalem","id":"Hapoel_Jerusalem_F.C.","win":0,"draw":3,"loss":10,"for":10,"against":35,"isReturning":true,"isRemoved":true,"removedNote":"Next season was abandoned mid-season"},
-	{"country":"pse","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew after 2 matches; Record expunged","isReturning":true},
+	{"country":"pse","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":0,"draw":0,"loss":0,"for":0,"against":0,"isRemoved":true,"removedNote":"Withdrew after 2 matches; Record expunged","isReturning":true},
 	{"country":"fra","name":"FC Sète","id":"FC_Sète_34","win":14,"draw":6,"loss":6,"for":69,"against":52,"isChampion":true,"isNew":true},
 	{"country":"fra","name":"SC Fives","id":"SC_Fives","win":13,"draw":7,"loss":6,"for":57,"against":31,"isNew":true},
 	{"country":"fra","name":"Marseille","id":"Olympique_de_Marseille","win":15,"draw":3,"loss":8,"for":69,"against":46,"isNew":true},

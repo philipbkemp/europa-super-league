@@ -444,7 +444,7 @@
 	{"country":"fro","name":"B71 Sandoy","id":"B71_Sandoy","win":5,"draw":8,"loss":14,"for":24,"against":65,"isReturning":true},
 	{"country":"fro","name":"Suðuroy","id":"FC_Suðuroy","win":5,"draw":7,"loss":15,"for":33,"against":54,"isRemoved":true,"isReturning":true},
 	{"country":"fro","name":"AB","id":"Argja_Bóltfelag","win":2,"draw":8,"loss":17,"for":27,"against":65,"isRemoved":true},
-	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":24,"draw":8,"loss":3,"for":63,"against":28,"isChampion":true},
+	{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":24,"draw":8,"loss":3,"for":63,"against":28,"isChampion":true},
 	{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":21,"draw":7,"loss":7,"for":72,"against":36},
 	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":18,"draw":6,"loss":11,"for":53,"against":40},
 	{"country":"isr","name":"Ironi Kiryat Shmona","id":"Hapoel_Ironi_Kiryat_Shmona_F.C.","win":14,"draw":10,"loss":11,"for":57,"against":45,"isReturning":true},

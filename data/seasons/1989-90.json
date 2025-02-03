@@ -517,7 +517,7 @@
 {"country":"ede","name":"FC Wismut Aue","id":"FC_Erzgebirge_Aue","win":5,"draw":8,"loss":13,"for":25,"against":36,"isRemoved":true},
 {"country":"ede","name":"BSG Fortschritt Bischofswerda","id":"Bischofswerdaer_FV_08","win":7,"draw":2,"loss":17,"for":22,"against":52,"isRemoved":true,"isReturning":true},
 {"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":17,"draw":11,"loss":4,"for":48,"against":24,"isChampion":true},
-{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":14,"draw":8,"loss":10,"for":40,"against":29},
+{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":14,"draw":8,"loss":10,"for":40,"against":29},
 {"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":16,"draw":10,"loss":6,"for":40,"against":21},
 {"country":"isr","name":"Beitar Tel Aviv","id":"Beitar_Tel_Aviv_F.C.","win":10,"draw":8,"loss":14,"for":35,"against":46},
 {"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":10,"draw":6,"loss":16,"for":28,"against":41},

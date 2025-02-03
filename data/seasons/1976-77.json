@@ -494,7 +494,7 @@
 	{"country":"isr","name":"Hakoah Ramat Gan","id":"Hakoah_Amidar_Ramat_Gan_F.C.","win":7,"draw":13,"loss":10,"for":25,"against":29},
 	{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":9,"draw":9,"loss":12,"for":26,"against":31},
 	{"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":6,"draw":13,"loss":11,"for":37,"against":41,"isRemoved":true},
-	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":7,"draw":10,"loss":13,"for":25,"against":42,"isRemoved":true},
+	{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":7,"draw":10,"loss":13,"for":25,"against":42,"isRemoved":true},
 	{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":5,"draw":7,"loss":18,"for":20,"against":51,"isRemoved":true},
 	{"country":"wde","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":17,"draw":10,"loss":7,"for":58,"against":34,"isChampion":true},
 	{"country":"wde","name":"Schalke 04","id":"FC_Schalke_04","win":17,"draw":9,"loss":8,"for":77,"against":52},

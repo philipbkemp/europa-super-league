@@ -440,7 +440,7 @@
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":7,"draw":7,"loss":13,"for":37,"against":53},
 	{"country":"fro","name":"KÍ","id":"klaksvikar_itrottarfelag","win":6,"draw":6,"loss":15,"for":30,"against":57,"isRemoved":true},
 	{"country":"fro","name":"07 Vestur","id":"07_Vestur","win":4,"draw":7,"loss":16,"for":39,"against":63,"isRemoved":true,"isReturning":true},
-	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":28,"draw":3,"loss":4,"for":72,"against":16},
+	{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":28,"draw":3,"loss":4,"for":72,"against":16},
 	{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":25,"draw":9,"loss":1,"for":87,"against":26,"isChampion":true},
 	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":17,"draw":9,"loss":9,"for":52,"against":35},
 	{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":14,"draw":7,"loss":14,"for":50,"against":44},

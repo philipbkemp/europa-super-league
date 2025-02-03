@@ -433,7 +433,7 @@
 	{"country":"fro","name":"EB/Streymur","id":"EB/Streymur","win":5,"draw":3,"loss":19,"for":25,"against":63},
 	{"country":"fro","name":"ÍF","id":"Ítróttarfelag_Fuglafjarðar","win":1,"draw":3,"loss":23,"for":27,"against":81,"isReturning":true},
 	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":26,"draw":9,"loss":1,"for":63,"against":10,"isChampion":true},
-	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":22,"draw":7,"loss":7,"for":73,"against":32},
+	{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":22,"draw":7,"loss":7,"for":73,"against":32},
 	{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":16,"draw":11,"loss":9,"for":51,"against":35},
 	{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":15,"draw":10,"loss":11,"for":44,"against":33},
 	{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":14,"draw":6,"loss":16,"for":31,"against":55},

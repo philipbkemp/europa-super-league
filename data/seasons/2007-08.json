@@ -447,7 +447,7 @@
 	{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":16,"draw":10,"loss":7,"for":40,"against":24},
 	{"country":"isr","name":"Ironi Kiryat Shmona","id":"Hapoel_Ironi_Kiryat_Shmona_F.C.","win":15,"draw":11,"loss":7,"for":43,"against":34,"isNew":true},
 	{"country":"isr","name":"Bnei Sakhnin","id":"Bnei_Sakhnin_F.C.","win":15,"draw":10,"loss":8,"for":35,"against":29,"isReturning":true},
-	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":13,"draw":8,"loss":12,"for":38,"against":27},
+	{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":13,"draw":8,"loss":12,"for":38,"against":27},
 	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":11,"draw":8,"loss":14,"for":43,"against":43},
 	{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":12,"draw":5,"loss":16,"for":35,"against":40},
 	{"country":"isr","name":"F.C. Ashdod","id":"F.C._Ashdod","win":11,"draw":6,"loss":16,"for":36,"against":52},

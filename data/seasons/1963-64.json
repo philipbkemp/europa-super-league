@@ -478,7 +478,7 @@
 	{"country":"isr","name":"Hapoel Tiberias","id":"Hapoel_Tiberias_F.C.","win":10,"draw":4,"loss":14,"for":41,"against":52},
 	{"country":"isr","name":"Maccabi Sha'arayim","id":"Maccabi_Sha%27arayim_F.C.","win":10,"draw":4,"loss":14,"for":29,"against":44,"isNew":true},
 	{"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":8,"draw":7,"loss":13,"for":36,"against":46},
-	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":8,"draw":7,"loss":13,"for":31,"against":47},
+	{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":8,"draw":7,"loss":13,"for":31,"against":47},
 	{"country":"isr","name":"Hapoel Jerusalem","id":"Hapoel_Jerusalem_F.C.","win":6,"draw":8,"loss":14,"for":27,"against":46},
 	{"country":"isr","name":"Hapoel Lod","id":"Hapoel_Lod_F.C.","win":5,"draw":6,"loss":17,"for":17,"against":43,"isRemoved":true,"isNew":true},
 	{"country":"wde","name":"1. FC Köln","id":"1._FC_Köln","win":17,"draw":11,"loss":2,"for":78,"against":40,"isChampion":true,"isNew":true},

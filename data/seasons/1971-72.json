@@ -517,7 +517,7 @@
 	{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":15,"draw":7,"loss":8,"for":44,"against":29},
 	{"country":"isr","name":"Maccabi Jaffa","id":"Maccabi_Jaffa_F.C.","win":13,"draw":11,"loss":6,"for":34,"against":21,"isReturning":true},
 	{"country":"isr","name":"Hapoel Haifa","id":"Hapoel_Haifa_F.C.","win":14,"draw":8,"loss":8,"for":37,"against":18},
-	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":10,"draw":11,"loss":9,"for":31,"against":33},
+	{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":10,"draw":11,"loss":9,"for":31,"against":33},
 	{"country":"isr","name":"Hapoel Jerusalem","id":"Hapoel_Jerusalem_F.C.","win":9,"draw":10,"loss":11,"for":30,"against":32},
 	{"country":"isr","name":"Hapoel Kfar Saba","id":"Hapoel_Kfar_Saba_F.C.","win":6,"draw":15,"loss":9,"for":26,"against":32},
 	{"country":"isr","name":"Beitar Tel Aviv","id":"Beitar_Tel_Aviv_F.C.","win":9,"draw":8,"loss":13,"for":21,"against":31},

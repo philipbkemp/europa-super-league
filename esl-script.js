@@ -110,7 +110,7 @@ clubPages = ["linfield_fc","rangers_fc","floriana_fc","colentina_ac_bucuresti","
 	/*hun*/
 	,"ferencvarosi_tc","budapesti_tc","mtk_budapest_fc"
 	/*isr*/
-	,"maccabi_tel_aviv_fc"
+	,"maccabi_tel_aviv_fc","maccabi_haifa_fc"
 	/*ita*/
 	,"inter_milan"
 	/*ltu*/
@@ -142,7 +142,7 @@ clubPages = ["linfield_fc","rangers_fc","floriana_fc","colentina_ac_bucuresti","
 
 ];
 
-multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk","hsk_zrinjski_mostar","fc_viktoria_plzen","bayer_04_leverkusen","fc_dinamo_minsk","sk_slovan_bratislava","fk_buducnost_podgorica","fk_zalgiris","fc_zenit_saint_petersburg","maccabi_tel_aviv_fc","fc_shakhtar_donetsk"];
+multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk","hsk_zrinjski_mostar","fc_viktoria_plzen","bayer_04_leverkusen","fc_dinamo_minsk","sk_slovan_bratislava","fk_buducnost_podgorica","fk_zalgiris","fc_zenit_saint_petersburg","maccabi_tel_aviv_fc","fc_shakhtar_donetsk","maccabi_haifa_fc"];
 
 if ( $("h1 .placeholder").length !== 0 ) {
 
@@ -953,7 +953,7 @@ function saveClubs(refresh=false,dump=true) {
 					countryFlag = "deu";
 				} else if ( v === "hsk_gradanski_zagreb" || v === "gnk_dinamo_zagreb" ) {
 					countryFlag = "hrv";
-				} else if ( v === "maccabi_tel_aviv_fc" ) {
+				} else if ( v === "maccabi_tel_aviv_fc" || v === "maccabi_haifa_fc" ) {
 					countryFlag = "isr";
 				} else if ( v === "fk_zalgiris" ) {
 					countryFlag = "ltu";

@@ -425,7 +425,7 @@
 	{"country":"fro","name":"VB Vágur","id":"Vágs_Bóltfelag","win":4,"draw":4,"loss":10,"for":16,"against":30},
 	{"country":"fro","name":"Skála ÍF","id":"Skála_ÍF","win":4,"draw":0,"loss":14,"for":16,"against":39},
 	{"country":"fro","name":"FS Vágar","id":"07_Vestur","win":3,"draw":2,"loss":13,"for":25,"against":45,"isReturning":true,"isRemoved":true},
-	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":19,"draw":6,"loss":8,"for":54,"against":25,"isChampion":true},
+	{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":19,"draw":6,"loss":8,"for":54,"against":25,"isChampion":true},
 	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":16,"draw":9,"loss":8,"for":35,"against":22},
 	{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":16,"draw":8,"loss":9,"for":49,"against":35},
 	{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":16,"draw":7,"loss":10,"for":48,"against":36},

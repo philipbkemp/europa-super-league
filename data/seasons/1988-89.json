@@ -519,7 +519,7 @@
 	{"country":"ede","name":"BSG Sachsenring Zwickau","id":"FSV_Zwickau","win":6,"draw":4,"loss":16,"for":25,"against":49,"isRemoved":true,"isReturning":true},
 	{"country":"ede","name":"1. FC Union Berlin","id":"1._FC_Union_Berlin","win":5,"draw":5,"loss":16,"for":22,"against":53,"isRemoved":true},
 	{"country":"isr","name":"Maccabi Netanya","id":"Maccabi_Netanya_F.C.","win":14,"draw":10,"loss":7,"for":36,"against":33},
-	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":15,"draw":14,"loss":2,"for":49,"against":19,"deduct":-2,"deductReason":"Violating Budget rules","isChampion":true},
+	{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":15,"draw":14,"loss":2,"for":49,"against":19,"deduct":-2,"deductReason":"Violating Budget rules","isChampion":true},
 	{"country":"isr","name":"Hapoel Petah Tikva","id":"Hapoel_Petah_Tikva_F.C.","win":15,"draw":11,"loss":5,"for":36,"against":20,"deduct":-2,"deductReason":"Violating Budget rules"},
 	{"country":"isr","name":"Beitar Tel Aviv","id":"Beitar_Tel_Aviv_F.C.","win":13,"draw":9,"loss":9,"for":34,"against":27},
 	{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":11,"draw":10,"loss":10,"for":22,"against":29},

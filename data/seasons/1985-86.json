@@ -519,7 +519,7 @@
 	{"country":"ede","name":"F.C. Hansa Rostock","id":"FC_Hansa_Rostock","win":7,"draw":6,"loss":13,"for":31,"against":46,"isRemoved":true},
 	{"country":"ede","name":"BSG Sachsenring Zwickau","id":"FSV_Zwickau","win":2,"draw":9,"loss":15,"for":27,"against":56,"isRemoved":true,"isReturning":true},
 	{"country":"isr","name":"Hapoel Tel Aviv","id":"Hapoel_Tel_Aviv_F.C.","win":17,"draw":8,"loss":5,"for":52,"against":26,"isChampion":true},
-	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":16,"draw":9,"loss":5,"for":47,"against":18},
+	{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":16,"draw":9,"loss":5,"for":47,"against":18},
 	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":16,"draw":9,"loss":5,"for":48,"against":27},
 	{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":15,"draw":7,"loss":8,"for":48,"against":33},
 	{"country":"isr","name":"Bnei Yehuda Tel Aviv","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":12,"draw":10,"loss":8,"for":27,"against":19,"isReturning":true},

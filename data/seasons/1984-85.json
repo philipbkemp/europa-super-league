@@ -525,7 +525,7 @@
 	{"country":"ede","name":"BSG Stahl Riesa","id":"BSG_Stahl_Riesa","win":6,"draw":8,"loss":12,"for":29,"against":55},
 	{"country":"ede","name":"BSG Chemie Leipzig","id":"FC_Sachsen_Leipzig","win":4,"draw":9,"loss":13,"for":26,"against":56,"isRemoved":true},
 	{"country":"ede","name":"BSG Motor Suhl","id":"1._Suhler_SV_06","win":1,"draw":3,"loss":22,"for":16,"against":92,"isRemoved":true,"isNew":true},
-	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":20,"draw":5,"loss":5,"for":57,"against":20,"isChampion":true},
+	{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":20,"draw":5,"loss":5,"for":57,"against":20,"isChampion":true},
 	{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":17,"draw":9,"loss":4,"for":52,"against":27},
 	{"country":"isr","name":"Shimshon Tel Aviv","id":"Shimshon_Tel_Aviv_F.C.","win":13,"draw":10,"loss":7,"for":29,"against":20},
 	{"country":"isr","name":"Maccabi Petah Tikva","id":"Maccabi_Petah_Tikva_F.C.","win":13,"draw":9,"loss":8,"for":45,"against":31},

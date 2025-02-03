@@ -432,7 +432,7 @@
 	{"country":"isr","name":"Hapoel Be'er Sheva","id":"Hapoel_Be%27er_Sheva_F.C.","win":25,"draw":8,"loss":3,"for":66,"against":24,"isChampion":true},
 	{"country":"isr","name":"Maccabi Tel Aviv","id":"maccabi_tel_aviv_fc","win":24,"draw":9,"loss":3,"for":76,"against":24},
 	{"country":"isr","name":"Beitar Jerusalem","id":"Beitar_Jerusalem_F.C.","win":18,"draw":6,"loss":12,"for":46,"against":37,"deduct":-2,"deductReason":"Racist chanting by fans"},
-	{"country":"isr","name":"Maccabi Haifa","id":"Maccabi_Haifa_F.C.","win":14,"draw":11,"loss":11,"for":45,"against":42},
+	{"country":"isr","name":"Maccabi Haifa","id":"maccabi_haifa_fc","win":14,"draw":11,"loss":11,"for":45,"against":42},
 	{"country":"isr","name":"Bnei Sakhnin","id":"Bnei_Sakhnin_F.C.","win":13,"draw":9,"loss":14,"for":46,"against":40},
 	{"country":"isr","name":"Hapoel Ra'anana","id":"Hapoel_Ra%27anana_A.F.C.","win":11,"draw":9,"loss":16,"for":38,"against":48},
 	{"country":"isr","name":"Bnei Yehuda","id":"Bnei_Yehuda_Tel_Aviv_F.C.","win":13,"draw":7,"loss":13,"for":37,"against":43,"isReturning":true},
