@@ -4,7 +4,7 @@ page = page.replace("2024%E2%80%9325_","");
 page = page.replace("2024_","");
 page = page.split("#")[0];
 page = page.split(":")[1] ?? page;
-country = tbl = "";
+country = tbl = tbl2 = "";
 teams = [];
 switch ( page ) {
 	case "A_Lyga": 															country = "ltu";		tbl = "#League_table";			break;
@@ -41,7 +41,7 @@ switch ( page ) {
 	case "Luxembourg_National_Division": 						country = "lux"; 	tbl = "#League_table"; 			break;
 	case "Macedonian_First_Football_League": 					country = "mkd";	tbl = "#League_table";			break;
 	//case "Maltese_Premier_League": 								country = "mlt";		tbl = "#First_phase";				console.warn("Season will break into playoffs");	break;
-	case "Maltese_Premier_League": 								country = "mlt";		tbl = "#Top_Six, #Play-Out";	console.warn("Season will break into closing round"); break;
+	case "Maltese_Premier_League": 								country = "mlt";		tbl = "#Top_Six, #Play-Out";	tbl2 = "#Closing_Round"; console.warn("Season will break into closing round"); break;
 	case "Meistriliiga": 														country = "est";		tbl = "#League_table";			break;
 	case "Moldovan_Super_Liga": 										country = "mda";	tbl = "#Phase_I";					console.warn("Season will break into playoffs");	break;
 	case "Montenegrin_First_League": 								country = "mne";	tbl = "#League_table";			break;
@@ -101,9 +101,34 @@ if ( country === "" || tbl === "" || $tbl.length === 0 ) {
 					team.isRemoved = true;
 				}
 				if ( $(cols[9]).find("a").length !== 0 ) {
-					console.error("Note about " + team.id);
+					noteId = $(cols[9]).find("a").attr("href").replace("#","");
+					note = document.querySelector("*[id='"+noteId+"'] .reference-text");
+					noteText = note.innerText;
+					knownTexts = [
+						"Penya Encarnada were deducted three points.",
+						"Hapoel Be'er Sheva had 2 points deducted following riot in Bnei Sakhnin match.[8]",
+						"Bnei Sakhnin had 1 point deducted following riot in Hapoel Be'er Sheva match.[8]",
+						"Shakhtyor Soligorsk were deducted 20 points for match-fixing.[5]",
+						"On 19 April, Valmiera were deducted three points, with an additional six points and a suspended 25 points deduction being issued on 11 October due to licensing regulation breaches.[4][5]"
+					];
+					if ( ! knownTexts.includes(noteText) && noteText.toLowerCase().indexOf("head-to-head") === -1) {
+						console.error("Note about " + team.id , noteText );
+					}
 				}
-				teams.push(team);
+
+				if ( tbl2 === "" ) {
+					teams.push(team);
+				} else {
+					secondRow = $("#Closing_Round").parent().nextAll(".wikitable").find("a[href='/wiki/"+team.id+"']").parent().parent();
+					secondCols = Array.from($(secondRow).find("td,th"));
+					team.win += parseInt($(secondCols[3]).text().trim());
+					team.draw += parseInt($(secondCols[4]).text().trim());
+					team.loss += parseInt($(secondCols[5]).text().trim());
+					team.for += parseInt($(secondCols[6]).text().trim());
+					team.against += parseInt($(secondCols[7]).text().trim());
+					teams.push(team);
+				}
+
 			}
 		}
 	}
