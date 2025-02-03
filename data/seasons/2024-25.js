@@ -321,7 +321,7 @@ THEDATA = [
 	{"country":"lux","name":"F91 Dudelange","id":"f91_dudelange","win":10,"draw":3,"loss":2,"for":37,"against":18,"isCurrentSeason":true},
 	{"country":"lux","name":"Racing Union","id":"Racing_FC_Union_Luxembourg","win":10,"draw":3,"loss":2,"for":30,"against":12,"isCurrentSeason":true},
 	{"country":"lux","name":"Swift Hesperange","id":"FC_Swift_Hesperange","win":9,"draw":3,"loss":3,"for":34,"against":14,"isCurrentSeason":true},
-	{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":8,"draw":5,"loss":2,"for":29,"against":14,"isCurrentSeason":true},
+	{"country":"lux","name":"Progrès Niederkorn","id":"fc_progres_niederkorn","win":8,"draw":5,"loss":2,"for":29,"against":14,"isCurrentSeason":true},
 	{"country":"lux","name":"UNA Strassen","id":"FC_UNA_Strassen","win":8,"draw":4,"loss":3,"for":27,"against":10,"isCurrentSeason":true},
 	{"country":"lux","name":"Mondorf-les-Bains","id":"US_Mondorf-les-Bains","win":7,"draw":4,"loss":4,"for":26,"against":20,"isCurrentSeason":true},
 	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":6,"draw":5,"loss":4,"for":21,"against":25,"isCurrentSeason":true},

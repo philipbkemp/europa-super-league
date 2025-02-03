@@ -134,7 +134,7 @@
 	{"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":8,"draw":6,"loss":8,"for":61,"against":49},
 	{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":9,"draw":3,"loss":10,"for":38,"against":42},
 	{"country":"lux","name":"Alliance Dudelange","id":"Alliance_Dudelange","win":8,"draw":5,"loss":9,"for":38,"against":42},
-	{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":9,"draw":3,"loss":10,"for":40,"against":46},
+	{"country":"lux","name":"FC Progrès Niedercorn","id":"fc_progres_niederkorn","win":9,"draw":3,"loss":10,"for":40,"against":46},
 	{"country":"lux","name":"SC Tétange","id":"SC_Tétange","win":8,"draw":4,"loss":10,"for":37,"against":48,"isReturning":true},
 	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":5,"draw":9,"loss":8,"for":35,"against":53},
 	{"country":"lux","name":"National Schifflange","id":"National_Schifflange","win":6,"draw":5,"loss":11,"for":36,"against":48,"isRemoved":true},

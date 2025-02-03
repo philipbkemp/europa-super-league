@@ -155,7 +155,7 @@
 	{"country":"lux","name":"Alliance Dudelange","id":"Alliance_Dudelange","win":6,"draw":5,"loss":11,"for":40,"against":50},
 	{"country":"lux","name":"US Dudelange","id":"US_Dudelange","win":7,"draw":3,"loss":12,"for":33,"against":46},
 	{"country":"lux","name":"National Schifflange","id":"National_Schifflange","win":5,"draw":5,"loss":12,"for":29,"against":55},
-	{"country":"lux","name":"FC Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":4,"draw":4,"loss":14,"for":21,"against":57,"isRemoved":true,"isReturning":true},
+	{"country":"lux","name":"FC Progrès Niederkorn","id":"fc_progres_niederkorn","win":4,"draw":4,"loss":14,"for":21,"against":57,"isRemoved":true,"isReturning":true},
 	{"country":"lux","name":"FC Avenir Beggen","id":"FC_Avenir_Beggen","win":4,"draw":3,"loss":15,"for":34,"against":64,"isRemoved":true},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":13,"draw":0,"loss":1,"for":39,"against":9,"isChampion":true},
 	{"country":"mlt","name":"Valletta F.C.","id":"valletta_fc","win":10,"draw":2,"loss":2,"for":44,"against":8},

@@ -147,7 +147,7 @@
 	{"country":"lux","name":"Fola Esch","id":"CS_Fola_Esch","win":10,"draw":8,"loss":8,"for":41,"against":30},
 	{"country":"lux","name":"RM Hamm Benfica","id":"F.C._Luxembourg_City","win":12,"draw":2,"loss":12,"for":54,"against":47},
 	{"country":"lux","name":"Pétange","id":"CS_Pétange","win":10,"draw":6,"loss":10,"for":29,"against":37},
-	{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":9,"draw":6,"loss":11,"for":32,"against":35},
+	{"country":"lux","name":"Progrès Niederkorn","id":"fc_progres_niederkorn","win":9,"draw":6,"loss":11,"for":32,"against":35},
 	{"country":"lux","name":"Racing FC","id":"Racing_FC_Union_Luxembourg","win":7,"draw":11,"loss":8,"for":40,"against":41},
 	{"country":"lux","name":"Union 05 Kayl-Tétange","id":"Union_05_Kayl-Tétange","win":8,"draw":5,"loss":13,"for":39,"against":51,"isNew":true},
 	{"country":"lux","name":"Swift Hesperange","id":"FC_Swift_Hesperange","win":7,"draw":5,"loss":14,"for":34,"against":53,"isRemoved":true},

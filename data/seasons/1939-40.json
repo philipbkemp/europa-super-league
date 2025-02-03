@@ -53,7 +53,7 @@
 	{"country":"hun","name":"Nemzeti SC","id":"Nemzeti_SC","win":2,"draw":0,"loss":24,"for":15,"against":24,"isRemoved":true},
 	{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":13,"draw":5,"loss":0,"for":68,"against":21,"isChampion":true,"isRemoved":true,"removedNote":"League suspended for WW2"},
 	{"country":"lux","name":"US Dudelange","id":"US_Dudelange","win":11,"draw":2,"loss":5,"for":79,"against":34,"isRemoved":true,"removedNote":"League suspended for WW2"},
-	{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":9,"draw":4,"loss":5,"for":49,"against":34,"isRemoved":true,"removedNote":"League suspended for WW2"},
+	{"country":"lux","name":"FC Progrès Niedercorn","id":"fc_progres_niederkorn","win":9,"draw":4,"loss":5,"for":49,"against":34,"isRemoved":true,"removedNote":"League suspended for WW2"},
 	{"country":"lux","name":"National Schifflange","id":"National_Schifflange","win":8,"draw":3,"loss":7,"for":41,"against":45,"isRemoved":true,"removedNote":"League suspended for WW2"},
 	{"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":8,"draw":2,"loss":8,"for":36,"against":37,"isRemoved":true,"removedNote":"League suspended for WW2"},
 	{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":8,"draw":1,"loss":9,"for":49,"against":43,"isRemoved":true,"removedNote":"League suspended for WW2"},

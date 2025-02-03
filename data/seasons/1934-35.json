@@ -114,7 +114,7 @@
 	{"country":"lux","name":"FC Red Black Pfaffenthal","id":"FC_Red_Black_Pfaffenthal","win":4,"draw":5,"loss":5,"for":21,"against":23,"isReturning":true},
 	{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":5,"draw":3,"loss":6,"for":27,"against":31},
 	{"country":"lux","name":"FC Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":5,"draw":1,"loss":8,"for":27,"against":39,"isReturning":true},
-	{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":4,"draw":2,"loss":8,"for":20,"against":31,"isRemoved":true},
+	{"country":"lux","name":"FC Progrès Niedercorn","id":"fc_progres_niederkorn","win":4,"draw":2,"loss":8,"for":20,"against":31,"isRemoved":true},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":5,"draw":1,"loss":0,"for":15,"against":1,"isChampion":true,"isReturning":true},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":5,"draw":0,"loss":1,"for":28,"against":4},
 	{"country":"mlt","name":"Hibernians F.C.","id":"hibernians_fc","win":4,"draw":1,"loss":1,"for":15,"against":3},

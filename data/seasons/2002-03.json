@@ -147,7 +147,7 @@
 	{"country":"lux","name":"Wiltz 71","id":"FC_Wiltz_71","win":9,"draw":5,"loss":14,"for":40,"against":53,"isReturning":true},
 	{"country":"lux","name":"Victoria Rosport","id":"FC_Victoria_Rosport","win":10,"draw":8,"loss":10,"for":44,"against":55,"isNew":true},
 	{"country":"lux","name":"Avenir Beggen","id":"FC_Avenir_Beggen","win":11,"draw":4,"loss":13,"for":57,"against":64},
-	{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":6,"draw":0,"loss":22,"for":29,"against":82,"isRemoved":true},
+	{"country":"lux","name":"Progrès Niederkorn","id":"fc_progres_niederkorn","win":6,"draw":0,"loss":22,"for":29,"against":82,"isRemoved":true},
 	{"country":"lux","name":"Sporting Mertzig","id":"FC_Sporting_Mertzig","win":6,"draw":0,"loss":22,"for":36,"against":76,"isRemoved":true},
 	{"country":"mlt","name":"Sliema Wanderers","id":"sliema_wanderers_fc","win":20,"draw":4,"loss":4,"for":70,"against":28,"isChampion":true},
 	{"country":"mlt","name":"Birkirkara","id":"Birkirkara_F.C.","win":18,"draw":3,"loss":7,"for":64,"against":34},

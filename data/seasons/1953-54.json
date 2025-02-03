@@ -111,7 +111,7 @@
 	{"country":"hun","name":"SORTEX","id":"Soroksár_FC","win":1,"draw":9,"loss":16,"for":20,"against":64,"isReturning":true,"isRemoved":true},
 	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":14,"draw":5,"loss":3,"for":51,"against":27,"isChampion":true},
 	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":10,"draw":8,"loss":4,"for":59,"against":34},
-	{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":8,"draw":8,"loss":6,"for":35,"against":31},
+	{"country":"lux","name":"FC Progrès Niedercorn","id":"fc_progres_niederkorn","win":8,"draw":8,"loss":6,"for":35,"against":31},
 	{"country":"lux","name":"CS Grevenmacher","id":"CS_Grevenmacher","win":9,"draw":6,"loss":7,"for":38,"against":43,"isReturning":true},
 	{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":10,"draw":2,"loss":10,"for":41,"against":44},
 	{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":5,"draw":11,"loss":6,"for":26,"against":25},

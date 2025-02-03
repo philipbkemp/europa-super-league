@@ -72,7 +72,7 @@
 	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":6,"draw":3,"loss":5,"for":36,"against":27},
 	{"country":"lux","name":"FC Red Black Pfaffenthal","id":"FC_Red_Black_Pfaffenthal","win":3,"draw":5,"loss":6,"for":14,"against":26},
 	{"country":"lux","name":"FC Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":3,"draw":2,"loss":9,"for":28,"against":57,"isNew":true,"isRemoved":true},
-	{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":3,"draw":0,"loss":11,"for":22,"against":49,"isNew":true,"isRemoved":true},
+	{"country":"lux","name":"FC Progrès Niedercorn","id":"fc_progres_niederkorn","win":3,"draw":0,"loss":11,"for":22,"against":49,"isNew":true,"isRemoved":true},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":2,"draw":1,"loss":0,"for":3,"against":1,"isChampion":true},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":1,"draw":1,"loss":1,"for":3,"against":2},
 	{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":0,"draw":2,"loss":1,"for":1,"against":2},

@@ -109,7 +109,7 @@
 	{"country":"hun","name":"Budapesti Postás SE","id":"Budapesti_Postás_SE","win":7,"draw":5,"loss":14,"for":34,"against":55,"isReturning":true},
 	{"country":"hun","name":"Diósgyőri VTK","id":"Diósgyőri_VTK","win":6,"draw":4,"loss":16,"for":31,"against":64,"isRemoved":true},
 	{"country":"hun","name":"SK Précis Lokomotív","id":"Pécsi_Vasutas_SK","win":4,"draw":8,"loss":14,"for":24,"against":55,"isNew":true,"isRemoved":true},
-	{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":13,"draw":6,"loss":3,"for":52,"against":32,"isChampion":true},
+	{"country":"lux","name":"FC Progrès Niedercorn","id":"fc_progres_niederkorn","win":13,"draw":6,"loss":3,"for":52,"against":32,"isChampion":true},
 	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":13,"draw":5,"loss":4,"for":41,"against":24},
 	{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":11,"draw":5,"loss":6,"for":40,"against":25},
 	{"country":"lux","name":"FA Red Boys Differdange","id":"fa_red_boys_differdange","win":10,"draw":2,"loss":10,"for":37,"against":39},

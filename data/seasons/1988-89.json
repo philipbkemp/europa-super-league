@@ -148,7 +148,7 @@
 	{"country":"lux","name":"FC Avenir Beggen","id":"FC_Avenir_Beggen","win":13,"draw":7,"loss":8,"for":56,"against":32},
 	{"country":"lux","name":"CS Grevenmacher","id":"CS_Grevenmacher","win":7,"draw":3,"loss":18,"for":32,"against":66},
 	{"country":"lux","name":"FC Swift Hesperange","id":"FC_Swift_Hesperange","win":12,"draw":5,"loss":11,"for":44,"against":46},
-	{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":9,"draw":3,"loss":16,"for":42,"against":53,"isRemoved":true},
+	{"country":"lux","name":"FC Progrès Niedercorn","id":"fc_progres_niederkorn","win":9,"draw":3,"loss":16,"for":42,"against":53,"isRemoved":true},
 	{"country":"lux","name":"FC Olympique Eischen","id":"FC_Olympique_Eischen","win":4,"draw":5,"loss":19,"for":34,"against":78,"isRemoved":true},
 	{"country":"lux","name":"CS Pétange","id":"CS_Pétange","win":3,"draw":4,"loss":21,"for":23,"against":73,"isReturning":true,"isRemoved":true},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":11,"draw":4,"loss":1,"for":32,"against":16,"isChampion":true},

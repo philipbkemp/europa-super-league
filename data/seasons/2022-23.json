@@ -136,7 +136,7 @@
 	{"country":"grc","name":"Lamia","id":"PAS_Lamia_1964","win":5,"draw":14,"loss":14,"for":23,"against":53},
 	{"country":"grc","name":"Levadiakos","id":"Levadiakos_F.C.","win":4,"draw":14,"loss":15,"for":25,"against":48,"isRemoved":true,"isReturning":true},
 	{"country":"lux","name":"Swift Hesperange","id":"FC_Swift_Hesperange","win":24,"draw":5,"loss":1,"for":100,"against":28,"isChampion":true},
-	{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":22,"draw":4,"loss":4,"for":67,"against":31},
+	{"country":"lux","name":"Progrès Niederkorn","id":"fc_progres_niederkorn","win":22,"draw":4,"loss":4,"for":67,"against":31},
 	{"country":"lux","name":"F91 Dudelange","id":"f91_dudelange","win":22,"draw":1,"loss":7,"for":86,"against":38},
 	{"country":"lux","name":"Union Titus Pétange","id":"Union_Titus_Pétange","win":18,"draw":5,"loss":7,"for":62,"against":38},
 	{"country":"lux","name":"Differdange 03","id":"fc_differdange_03","win":14,"draw":3,"loss":13,"for":60,"against":43},

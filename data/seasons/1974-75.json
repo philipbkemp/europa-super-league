@@ -163,7 +163,7 @@
 	{"country":"lux","name":"US Rumelange","id":"US_Rumelange","win":7,"draw":8,"loss":7,"for":32,"against":31},
 	{"country":"lux","name":"Alliance Dudelange","id":"Alliance_Dudelange","win":6,"draw":9,"loss":7,"for":37,"against":36,"isReturning":true},
 	{"country":"lux","name":"FC Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":8,"draw":5,"loss":9,"for":34,"against":34},
-	{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":8,"draw":4,"loss":10,"for":34,"against":44,"isReturning":true},
+	{"country":"lux","name":"FC Progrès Niedercorn","id":"fc_progres_niederkorn","win":8,"draw":4,"loss":10,"for":34,"against":44,"isReturning":true},
 	{"country":"lux","name":"FC Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":6,"draw":7,"loss":9,"for":39,"against":45},
 	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":8,"draw":2,"loss":12,"for":40,"against":55},
 	{"country":"lux","name":"FC Red Star Merl-Belair","id":"FC_Red_Star_Merl-Belair","win":4,"draw":6,"loss":12,"for":20,"against":42,"isRemoved":true},

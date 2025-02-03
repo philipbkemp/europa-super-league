@@ -144,7 +144,7 @@
 	{"country":"lux","name":"Avenir Beggen","id":"FC_Avenir_Beggen","win":7,"draw":11,"loss":10,"for":40,"against":50},
 	{"country":"lux","name":"Sporting Mertzig","id":"FC_Sporting_Mertzig","win":9,"draw":7,"loss":12,"for":33,"against":50},
 	{"country":"lux","name":"Rumelange","id":"US_Rumelange","win":8,"draw":8,"loss":12,"for":47,"against":55},
-	{"country":"lux","name":"Progrès Niederkorn","id":"FC_Progrès_Niederkorn","win":7,"draw":7,"loss":14,"for":38,"against":62,"isReturning":true},
+	{"country":"lux","name":"Progrès Niederkorn","id":"fc_progres_niederkorn","win":7,"draw":7,"loss":14,"for":38,"against":62,"isReturning":true},
 	{"country":"lux","name":"Hobscheid","id":"CS_Hobscheid","win":6,"draw":7,"loss":15,"for":44,"against":65,"isRemoved":true},
 	{"country":"lux","name":"Etzella Ettelbruck","id":"FC_Etzella_Ettelbruck","win":6,"draw":5,"loss":17,"for":47,"against":65,"isRemoved":true},
 	{"country":"mlt","name":"Birkirkara","id":"Birkirkara_F.C.","win":14,"draw":9,"loss":5,"for":60,"against":29},

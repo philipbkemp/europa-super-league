@@ -116,7 +116,7 @@
 	{"country":"lux","name":"US Dudelange","id":"US_Dudelange","win":5,"draw":4,"loss":5,"for":37,"against":29},
 	{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":5,"draw":3,"loss":6,"for":19,"against":28},
 	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":4,"draw":5,"loss":5,"for":21,"against":33,"isReturning":true},
-	{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":4,"draw":4,"loss":6,"for":22,"against":23},
+	{"country":"lux","name":"FC Progrès Niedercorn","id":"fc_progres_niederkorn","win":4,"draw":4,"loss":6,"for":22,"against":23},
 	{"country":"lux","name":"National Schifflange","id":"National_Schifflange","win":2,"draw":7,"loss":5,"for":18,"against":27,"isRemoved":true},
 	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":3,"draw":2,"loss":9,"for":14,"against":33,"isRemoved":true},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":2,"draw":1,"loss":1,"for":6,"against":4,"isChampion":true},

@@ -158,7 +158,7 @@
 	{"country":"lux","name":"FC Avenir Beggen","id":"FC_Avenir_Beggen","win":9,"draw":4,"loss":9,"for":31,"against":31},
 	{"country":"lux","name":"SC Tétange","id":"SC_Tétange","win":6,"draw":6,"loss":10,"for":25,"against":44,"isReturning":true},
 	{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":8,"draw":1,"loss":13,"for":41,"against":44,"isReturning":true},
-	{"country":"lux","name":"FC Progrès Niedercorn","id":"FC_Progrès_Niederkorn","win":4,"draw":8,"loss":10,"for":28,"against":45},
+	{"country":"lux","name":"FC Progrès Niedercorn","id":"fc_progres_niederkorn","win":4,"draw":8,"loss":10,"for":28,"against":45},
 	{"country":"lux","name":"US Dudelange","id":"US_Dudelange","win":3,"draw":9,"loss":10,"for":24,"against":43,"isRemoved":true},
 	{"country":"lux","name":"US Mondorf","id":"US_Mondorf-les-Bains","win":2,"draw":1,"loss":19,"for":21,"against":86,"isRemoved":true},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":9,"draw":4,"loss":1,"for":19,"against":7,"isChampion":true},
