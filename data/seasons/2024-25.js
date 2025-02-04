@@ -238,7 +238,7 @@ THEDATA = [
 	{"country":"gib","name":"Lynx","id":"Lynx_F.C.","win":3,"draw":2,"loss":11,"for":20,"against":40,"isCurrentSeason":true},
 	{"country":"gib","name":"Europa Point","id":"Europa_Point_F.C.","win":0,"draw":3,"loss":13,"for":11,"against":55,"isCurrentSeason":true},
 	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":14,"draw":5,"loss":2,"for":36,"against":14,"isCurrentSeason":true},
-	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":13,"draw":4,"loss":4,"for":34,"against":14,"isCurrentSeason":true},
+	{"country":"grc","name":"AEK Athens","id":"aek_athens_fc","win":13,"draw":4,"loss":4,"for":34,"against":14,"isCurrentSeason":true},
 	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":12,"draw":7,"loss":2,"for":25,"against":15,"isCurrentSeason":true},
 	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":11,"draw":4,"loss":6,"for":35,"against":22,"isCurrentSeason":true},
 	{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":10,"draw":4,"loss":7,"for":25,"against":22,"isCurrentSeason":true},

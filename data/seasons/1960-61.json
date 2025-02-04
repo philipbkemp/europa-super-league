@@ -134,7 +134,7 @@
 	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":23,"draw":4,"loss":3,"for":71,"against":23,"isChampion":true},
 	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":19,"draw":5,"loss":6,"for":62,"against":23},
 	{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":17,"draw":6,"loss":7,"for":55,"against":37},
-	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":17,"draw":6,"loss":7,"for":64,"against":32,"deduct":-1},
+	{"country":"grc","name":"AEK Athens","id":"aek_athens_fc","win":17,"draw":6,"loss":7,"for":64,"against":32,"deduct":-1},
 	{"country":"grc","name":"Apollon Athens","id":"Apollon_Smyrnis_F.C.","win":10,"draw":13,"loss":7,"for":56,"against":41},
 	{"country":"grc","name":"Ethnikos Piraeus","id":"Ethnikos_Piraeus_F.C.","win":11,"draw":10,"loss":9,"for":33,"against":29},
 	{"country":"grc","name":"Doxa Drama","id":"Doxa_Drama_F.C.","win":12,"draw":8,"loss":10,"for":48,"against":50},

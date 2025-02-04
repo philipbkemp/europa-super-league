@@ -131,7 +131,7 @@
 	{"country":"hun","name":"Dunaújváros FC","id":"Dunaújváros_FC","win":9,"draw":7,"loss":14,"for":35,"against":56},
 	{"country":"hun","name":"Komlói Bányász SK","id":"Komlói_Bányász_SK","win":8,"draw":8,"loss":14,"for":36,"against":63,"isReturning":true,"isRemoved":true},
 	{"country":"hun","name":"Egri Dózsa","id":"Egri_FC","win":6,"draw":7,"loss":17,"for":35,"against":67,"isNew":true,"isRemoved":true},
-	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":22,"draw":6,"loss":6,"for":68,"against":24,"isChampion":true},
+	{"country":"grc","name":"AEK Athens","id":"aek_athens_fc","win":22,"draw":6,"loss":6,"for":68,"against":24,"isChampion":true},
 	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":21,"draw":4,"loss":9,"for":63,"against":32},
 	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":17,"draw":11,"loss":6,"for":44,"against":19},
 	{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":16,"draw":9,"loss":9,"for":61,"against":49},

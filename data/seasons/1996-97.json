@@ -126,7 +126,7 @@
 	{"country":"hun","name":"Pécs","id":"Pécsi_MFC","win":6,"draw":8,"loss":20,"for":31,"against":68,"isRemoved":true},
 	{"country":"hun","name":"Csepel","id":"Csepel_SC","win":5,"draw":10,"loss":19,"for":43,"against":70,"isRemoved":true},
 	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":26,"draw":6,"loss":2,"for":72,"against":14,"isChampion":true},
-	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":22,"draw":6,"loss":6,"for":75,"against":28},
+	{"country":"grc","name":"AEK Athens","id":"aek_athens_fc","win":22,"draw":6,"loss":6,"for":75,"against":28},
 	{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":20,"draw":6,"loss":8,"for":51,"against":28},
 	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":19,"draw":9,"loss":6,"for":53,"against":28},
 	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":20,"draw":4,"loss":10,"for":60,"against":25},

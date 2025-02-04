@@ -126,7 +126,7 @@
 {"country":"hun","name":"Haladás","id":"Szombathelyi_Haladás","win":9,"draw":6,"loss":15,"for":33,"against":46,"isRemoved":true},
 {"country":"hun","name":"Csepel","id":"Csepel_SC","win":5,"draw":10,"loss":15,"for":27,"against":49,"isRemoved":true,"isReturning":true},
 {"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":21,"draw":11,"loss":2,"for":75,"against":35,"isChampion":true},
-{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":20,"draw":10,"loss":4,"for":64,"against":18},
+{"country":"grc","name":"AEK Athens","id":"aek_athens_fc","win":20,"draw":10,"loss":4,"for":64,"against":18},
 {"country":"grc","name":"PAOK","id":"PAOK_FC","win":19,"draw":8,"loss":7,"for":49,"against":26},
 {"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":18,"draw":9,"loss":7,"for":60,"against":37},
 {"country":"grc","name":"Iraklis","id":"Iraklis_F.C._(Thessaloniki)","win":14,"draw":11,"loss":9,"for":44,"against":36},

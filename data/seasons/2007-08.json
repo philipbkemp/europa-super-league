@@ -126,7 +126,7 @@
 	{"country":"hun","name":"Tatabánya","id":"Tatabányai_SC","win":2,"draw":4,"loss":24,"for":34,"against":93,"isRemoved":true},
 	{"country":"hun","name":"Sopron","id":"FC_Sopron","win":2,"draw":5,"loss":23,"for":10,"against":73,"isRemoved":true},
 	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":21,"draw":7,"loss":2,"for":58,"against":23,"isChampion":true},
-	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":22,"draw":2,"loss":6,"for":65,"against":17},
+	{"country":"grc","name":"AEK Athens","id":"aek_athens_fc","win":22,"draw":2,"loss":6,"for":65,"against":17},
 	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":20,"draw":6,"loss":4,"for":44,"against":18},
 	{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":14,"draw":8,"loss":8,"for":32,"against":20},
 	{"country":"grc","name":"Panionios","id":"Panionios_F.C.","win":13,"draw":6,"loss":11,"for":39,"against":42},

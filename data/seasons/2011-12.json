@@ -127,7 +127,7 @@
 	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":22,"draw":3,"loss":5,"for":54,"against":23,"deduct":-3,"deductReason":"Crowd violence"},
 	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":14,"draw":8,"loss":8,"for":45,"against":27},
 	{"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":13,"draw":11,"loss":6,"for":32,"against":26},
-	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":13,"draw":9,"loss":8,"for":36,"against":30},
+	{"country":"grc","name":"AEK Athens","id":"aek_athens_fc","win":13,"draw":9,"loss":8,"for":36,"against":30},
 	{"country":"grc","name":"Asteras Tripolis","id":"Asteras_Tripolis_F.C.","win":13,"draw":6,"loss":11,"for":30,"against":34},
 	{"country":"grc","name":"Levadiakos","id":"Levadiakos_F.C.","win":11,"draw":6,"loss":13,"for":33,"against":42,"isReturning":true},
 	{"country":"grc","name":"PAS Giannina","id":"PAS_Giannina_F.C.","win":10,"draw":8,"loss":12,"for":30,"against":35,"isReturning":true},

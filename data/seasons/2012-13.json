@@ -137,7 +137,7 @@
 	{"country":"grc","name":"Veria","id":"Veria_F.C.","win":8,"draw":9,"loss":13,"for":30,"against":35,"isReturning":true},
 	{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":7,"draw":12,"loss":11,"for":32,"against":40},
 	{"country":"grc","name":"OFI","id":"OFI_Crete_F.C.","win":8,"draw":8,"loss":14,"for":33,"against":46},
-	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":8,"draw":6,"loss":16,"for":21,"against":36,"isRemoved":true,"deduct":-2,"deductReason":"Crowd violence"},
+	{"country":"grc","name":"AEK Athens","id":"aek_athens_fc","win":8,"draw":6,"loss":16,"for":21,"against":36,"isRemoved":true,"deduct":-2,"deductReason":"Crowd violence"},
 	{"country":"grc","name":"Kerkyra","id":"A.O._Kerkyra","win":4,"draw":8,"loss":18,"for":16,"against":41,"isRemoved":true},
 	{"country":"lux","name":"Fola Esch","id":"CS_Fola_Esch","win":18,"draw":5,"loss":3,"for":66,"against":23,"isChampion":true},
 	{"country":"lux","name":"F91 Dudelange","id":"f91_dudelange","win":16,"draw":7,"loss":3,"for":53,"against":20},

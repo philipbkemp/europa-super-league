@@ -121,7 +121,7 @@
 	{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":10,"draw":6,"loss":17,"for":44,"against":53},
 	{"country":"hun","name":"Balmazújváros","id":"Balmazújvárosi_FC","win":8,"draw":12,"loss":13,"for":39,"against":46,"isRemoved":true,"isNew":true},
 	{"country":"hun","name":"Vasas","id":"Vasas_SC","win":9,"draw":7,"loss":17,"for":38,"against":61,"isRemoved":true},
-	{"country":"grc","name":"AEK Athens","id":"AEK_Athens_F.C.","win":21,"draw":7,"loss":2,"for":50,"against":12,"isChampion":true},
+	{"country":"grc","name":"AEK Athens","id":"aek_athens_fc","win":21,"draw":7,"loss":2,"for":50,"against":12,"isChampion":true},
 	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":21,"draw":4,"loss":5,"for":59,"against":19,"deduct":-3},
 	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":18,"draw":6,"loss":6,"for":63,"against":28,"deduct":-3,"deductReason":"Crowd behaviour"},
 	{"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":15,"draw":11,"loss":4,"for":43,"against":21},
