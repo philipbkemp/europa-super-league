@@ -50,7 +50,7 @@
 	{"country":"nld","name":"Heerenveen","id":"SC_Heerenveen","win":16,"draw":9,"loss":9,"for":72,"against":51},
 	{"country":"nld","name":"Vitesse Arnhem","id":"SBV_Vitesse","win":15,"draw":10,"loss":9,"for":65,"against":49},
 	{"country":"nld","name":"Groningen","id":"FC_Groningen","win":14,"draw":9,"loss":11,"for":57,"against":53},
-	{"country":"nld","name":"AZ","id":"AZ_Alkmaar","win":13,"draw":8,"loss":13,"for":54,"against":50},
+	{"country":"nld","name":"AZ","id":"az_alkmaar","win":13,"draw":8,"loss":13,"for":54,"against":50},
 	{"country":"nld","name":"ADO Den Haag","id":"ADO_Den_Haag","win":12,"draw":7,"loss":15,"for":45,"against":64},
 	{"country":"nld","name":"Utrecht","id":"FC_Utrecht","win":11,"draw":8,"loss":15,"for":46,"against":65},
 	{"country":"nld","name":"PEC Zwolle","id":"PEC_Zwolle","win":9,"draw":13,"loss":12,"for":47,"against":49},

@@ -392,7 +392,7 @@ THEDATA = [
 	{"country":"nld","name":"Utrecht","id":"FC_Utrecht","win":12,"draw":6,"loss":3,"for":40,"against":33,"isCurrentSeason":true},
 	{"country":"nld","name":"Feyenoord","id":"feyenoord","win":10,"draw":6,"loss":4,"for":43,"against":26,"isCurrentSeason":true},
 	{"country":"nld","name":"Twente","id":"FC_Twente","win":10,"draw":5,"loss":5,"for":41,"against":27,"isCurrentSeason":true},
-	{"country":"nld","name":"AZ","id":"AZ_Alkmaar","win":10,"draw":4,"loss":6,"for":34,"against":21,"isCurrentSeason":true},
+	{"country":"nld","name":"AZ","id":"az_alkmaar","win":10,"draw":4,"loss":6,"for":34,"against":21,"isCurrentSeason":true},
 	{"country":"nld","name":"Go Ahead Eagles","id":"Go_Ahead_Eagles","win":9,"draw":5,"loss":6,"for":37,"against":30,"isCurrentSeason":true},
 	{"country":"nld","name":"Fortuna Sittard","id":"Fortuna_Sittard","win":7,"draw":5,"loss":9,"for":29,"against":38,"isCurrentSeason":true},
 	{"country":"nld","name":"NAC Breda","id":"NAC_Breda","win":8,"draw":2,"loss":11,"for":26,"against":36,"isReturning":true,"isCurrentSeason":true},

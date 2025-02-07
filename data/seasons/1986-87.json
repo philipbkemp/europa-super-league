@@ -61,7 +61,7 @@
 	{"country":"nld","name":"HFC Haarlem","id":"HFC_Haarlem","win":11,"draw":9,"loss":14,"for":32,"against":57},
 	{"country":"nld","name":"FC Groningen","id":"FC_Groningen","win":9,"draw":12,"loss":13,"for":43,"against":43},
 	{"country":"nld","name":"FC Den Haag","id":"ADO_Den_Haag","win":8,"draw":12,"loss":14,"for":46,"against":64,"isReturning":true},
-	{"country":"nld","name":"AZ","id":"AZ_Alkmaar","win":7,"draw":13,"loss":14,"for":31,"against":57},
+	{"country":"nld","name":"AZ","id":"az_alkmaar","win":7,"draw":13,"loss":14,"for":31,"against":57},
 	{"country":"nld","name":"Go Ahead Eagles","id":"Go_Ahead_Eagles","win":5,"draw":13,"loss":16,"for":23,"against":48,"isRemoved":true},
 	{"country":"nld","name":"SC Veendam","id":"SC_Veendam","win":4,"draw":15,"loss":15,"for":37,"against":67,"isRemoved":true,"isNew":true},
 	{"country":"nld","name":"Excelsior","id":"Excelsior_Rotterdam","win":5,"draw":9,"loss":20,"for":40,"against":91,"isRemoved":true},

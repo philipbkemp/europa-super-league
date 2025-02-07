@@ -58,7 +58,7 @@
 	{"country":"nld","name":"Willem II","id":"Willem_II_(football_club)","win":9,"draw":8,"loss":17,"for":34,"against":51},
 	{"country":"nld","name":"RKC Waalwijk","id":"RKC_Waalwijk","win":9,"draw":7,"loss":18,"for":39,"against":61},
 	{"country":"nld","name":"NEC","id":"NEC_Nijmegen","win":7,"draw":11,"loss":16,"for":35,"against":61},
-	{"country":"nld","name":"AZ","id":"AZ_Alkmaar","win":6,"draw":7,"loss":21,"for":27,"against":52,"isRemoved":true,"isReturning":true},
+	{"country":"nld","name":"AZ","id":"az_alkmaar","win":6,"draw":7,"loss":21,"for":27,"against":52,"isRemoved":true,"isReturning":true},
 	{"country":"bel","name":"Lierse S.K.","id":"Lierse_S.K.","win":21,"draw":10,"loss":3,"for":70,"against":38,"isChampion":true},
 	{"country":"bel","name":"Club Brugge","id":"club_brugge_kv","win":22,"draw":5,"loss":7,"for":69,"against":34},
 	{"country":"bel","name":"R.E. Mouscron","id":"R.E._Mouscron","win":17,"draw":10,"loss":7,"for":60,"against":38,"isNew":true},

@@ -67,7 +67,7 @@
 	{"country":"nld","name":"NAC","id":"NAC_Breda","win":7,"draw":10,"loss":17,"for":40,"against":61},
 	{"country":"nld","name":"Holland Sport","id":"SVV_Scheveningen","win":5,"draw":14,"loss":15,"for":34,"against":60,"isRemoved":true,"removedNote":"Merged with another club to form FC Den Haag"},
 	{"country":"nld","name":"SBV Excelsior","id":"Excelsior_Rotterdam","win":5,"draw":10,"loss":19,"for":22,"against":66,"isNew":true},
-	{"country":"nld","name":"AZ '67","id":"AZ_Alkmaar","win":3,"draw":9,"loss":22,"for":24,"against":76,"isRemoved":true},
+	{"country":"nld","name":"AZ '67","id":"az_alkmaar","win":3,"draw":9,"loss":22,"for":24,"against":76,"isRemoved":true},
 	{"country":"nld","name":"HFC Haarlem","id":"HFC_Haarlem","win":1,"draw":12,"loss":21,"for":22,"against":64,"isRemoved":true},
 	{"country":"bel","name":"Standard Liège","id":"standard_liege","win":21,"draw":5,"loss":4,"for":66,"against":24,"isChampion":true},
 	{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":21,"draw":4,"loss":5,"for":71,"against":32},

@@ -47,7 +47,7 @@
 	{"country":"sco","name":"Ross County","id":"Ross_County_F.C.","win":6,"draw":11,"loss":21,"for":40,"against":62,"isRemoved":true},
 	{"country":"nld","name":"PSV Eindhoven","id":"psv_eindhoven","win":26,"draw":5,"loss":3,"for":87,"against":39,"isChampion":true},
 	{"country":"nld","name":"Ajax","id":"afc_ajax","win":25,"draw":4,"loss":5,"for":89,"against":33},
-	{"country":"nld","name":"AZ","id":"AZ_Alkmaar","win":22,"draw":5,"loss":7,"for":72,"against":38},
+	{"country":"nld","name":"AZ","id":"az_alkmaar","win":22,"draw":5,"loss":7,"for":72,"against":38},
 	{"country":"nld","name":"Feyenoord","id":"feyenoord","win":20,"draw":6,"loss":8,"for":76,"against":39},
 	{"country":"nld","name":"Utrecht","id":"FC_Utrecht","win":14,"draw":12,"loss":8,"for":58,"against":53},
 	{"country":"nld","name":"Vitesse","id":"SBV_Vitesse","win":13,"draw":10,"loss":11,"for":63,"against":47},

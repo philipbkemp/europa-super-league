@@ -61,7 +61,7 @@
 	{"country":"nld","name":"PEC Zwolle","id":"PEC_Zwolle","win":10,"draw":9,"loss":15,"for":40,"against":64},
 	{"country":"nld","name":"FC Volendam","id":"FC_Volendam","win":10,"draw":9,"loss":15,"for":40,"against":66,"isReturning":true},
 	{"country":"nld","name":"Roda JC","id":"Roda_JC_Kerkrade","win":10,"draw":8,"loss":16,"for":46,"against":54},
-	{"country":"nld","name":"AZ","id":"AZ_Alkmaar","win":9,"draw":10,"loss":15,"for":44,"against":64,"isRemoved":true},
+	{"country":"nld","name":"AZ","id":"az_alkmaar","win":9,"draw":10,"loss":15,"for":44,"against":64,"isRemoved":true},
 	{"country":"nld","name":"FC Den Haag","id":"ADO_Den_Haag","win":7,"draw":8,"loss":19,"for":50,"against":72,"isRemoved":true},
 	{"country":"nld","name":"DS '79","id":"FC_Dordrecht","win":2,"draw":8,"loss":24,"for":41,"against":100,"isRemoved":true,"isReturning":true},
 	{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":23,"draw":5,"loss":6,"for":74,"against":34,"isChampion":true},

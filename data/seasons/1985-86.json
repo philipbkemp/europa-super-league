@@ -53,7 +53,7 @@
 	{"country":"nld","name":"FC Den Bosch","id":"FC_Den_Bosch","win":13,"draw":11,"loss":10,"for":50,"against":41},
 	{"country":"nld","name":"Sparta Rotterdam","id":"Sparta_Rotterdam","win":13,"draw":11,"loss":10,"for":54,"against":59},
 	{"country":"nld","name":"Fortuna Sittard","id":"Fortuna_Sittard","win":11,"draw":12,"loss":11,"for":47,"against":47},
-	{"country":"nld","name":"AZ '67","id":"AZ_Alkmaar","win":11,"draw":12,"loss":11,"for":40,"against":55},
+	{"country":"nld","name":"AZ '67","id":"az_alkmaar","win":11,"draw":12,"loss":11,"for":40,"against":55},
 	{"country":"nld","name":"Go Ahead Eagles","id":"Go_Ahead_Eagles","win":13,"draw":7,"loss":14,"for":47,"against":62},
 	{"country":"nld","name":"HFC Haarlem","id":"HFC_Haarlem","win":10,"draw":12,"loss":12,"for":48,"against":47},
 	{"country":"nld","name":"FC Utrecht","id":"FC_Utrecht","win":11,"draw":10,"loss":13,"for":40,"against":46},

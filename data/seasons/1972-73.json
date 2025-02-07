@@ -65,7 +65,7 @@
 	{"country":"nld","name":"Telstar","id":"SC_Telstar","win":12,"draw":4,"loss":18,"for":39,"against":51},
 	{"country":"nld","name":"FC Groningen","id":"FC_Groningen","win":7,"draw":13,"loss":14,"for":37,"against":61},
 	{"country":"nld","name":"Go Ahead Eagles","id":"Go_Ahead_Eagles","win":8,"draw":9,"loss":17,"for":31,"against":52},
-	{"country":"nld","name":"AZ '67","id":"AZ_Alkmaar","win":8,"draw":9,"loss":17,"for":32,"against":58,"isReturning":true},
+	{"country":"nld","name":"AZ '67","id":"az_alkmaar","win":8,"draw":9,"loss":17,"for":32,"against":58,"isReturning":true},
 	{"country":"nld","name":"NAC","id":"NAC_Breda","win":7,"draw":7,"loss":20,"for":26,"against":57},
 	{"country":"nld","name":"SBV Excelsior","id":"Excelsior_Rotterdam","win":5,"draw":8,"loss":21,"for":24,"against":70,"isRemoved":true},
 	{"country":"nld","name":"FC Den Bosch","id":"FC_Den_Bosch","win":5,"draw":7,"loss":22,"for":23,"against":73,"isRemoved":true},

@@ -62,7 +62,7 @@
 	{"country":"nld","name":"Holland Sport","id":"SVV_Scheveningen","win":13,"draw":7,"loss":14,"for":48,"against":63},
 	{"country":"nld","name":"NAC","id":"NAC_Breda","win":11,"draw":10,"loss":13,"for":40,"against":54},
 	{"country":"nld","name":"NEC","id":"NEC_Nijmegen","win":8,"draw":15,"loss":11,"for":31,"against":39},
-	{"country":"nld","name":"AZ '67","id":"AZ_Alkmaar","win":8,"draw":12,"loss":14,"for":31,"against":48},
+	{"country":"nld","name":"AZ '67","id":"az_alkmaar","win":8,"draw":12,"loss":14,"for":31,"against":48},
 	{"country":"nld","name":"HFC Haarlem","id":"HFC_Haarlem","win":6,"draw":15,"loss":13,"for":23,"against":36,"isNew":true},
 	{"country":"nld","name":"Telstar","id":"SC_Telstar","win":5,"draw":14,"loss":15,"for":33,"against":48},
 	{"country":"nld","name":"DWS","id":"AFC_DWS","win":9,"draw":6,"loss":19,"for":26,"against":50},
