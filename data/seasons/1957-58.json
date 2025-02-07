@@ -85,7 +85,7 @@
 	{"country":"bel","name":"Tilleur FC","id":"R.F.C._Tilleur","win":5,"draw":8,"loss":17,"for":39,"against":72},
 	{"country":"bel","name":"Daring Club","id":"R._Daring_Club_Molenbeek","win":6,"draw":5,"loss":19,"for":40,"against":74,"isRemoved":true},
 	{"country":"bel","name":"K.R.C. Mechelen","id":"K.R.C._Mechelen","win":4,"draw":8,"loss":18,"for":30,"against":72,"isRemoved":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":23,"draw":5,"loss":6,"for":77,"against":44,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":23,"draw":5,"loss":6,"for":77,"against":44,"isChampion":true},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":16,"draw":11,"loss":7,"for":56,"against":36},
 	{"country":"ita","name":"Padova","id":"Calcio_Padova","win":16,"draw":10,"loss":8,"for":55,"against":42},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":17,"draw":6,"loss":11,"for":65,"against":55},

@@ -67,7 +67,7 @@
 	{"country":"bel","name":"Sint-Niklase","id":"K._Sint-Niklase_S.K.E.","win":11,"draw":4,"loss":21,"for":53,"against":102,"isRemoved":true},
 	{"country":"bel","name":"Club Brugge K.V.","id":"club_brugge_kv","win":7,"draw":8,"loss":21,"for":56,"against":94,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":28,"draw":7,"loss":3,"for":104,"against":35,"isChampion":true,"isReturning":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":22,"draw":9,"loss":7,"for":83,"against":38,"isReturning":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":22,"draw":9,"loss":7,"for":83,"against":38,"isReturning":true},
 	{"country":"ita","name":"Modena","id":"Modena_FC_2018","win":21,"draw":9,"loss":8,"for":45,"against":24,"isReturning":true},
 	{"country":"ita","name":"Milan","id":"ac_milan","win":19,"draw":12,"loss":7,"for":75,"against":52,"isReturning":true},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":15,"draw":9,"loss":14,"for":42,"against":41,"isReturning":true},

@@ -79,7 +79,7 @@
 	{"country":"bel","name":"Excel Mouscron","id":"Royal_Excel_Mouscron","win":12,"draw":8,"loss":20,"for":58,"against":75},
 	{"country":"bel","name":"Eupen","id":"K.A.S._Eupen","win":8,"draw":11,"loss":21,"for":51,"against":78},
 	{"country":"bel","name":"Mechelen","id":"K.V._Mechelen","win":6,"draw":9,"loss":15,"for":31,"against":49,"isRemoved":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":30,"draw":5,"loss":3,"for":86,"against":24,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":30,"draw":5,"loss":3,"for":86,"against":24,"isChampion":true},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":28,"draw":7,"loss":3,"for":77,"against":29},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":23,"draw":8,"loss":7,"for":61,"against":28},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":20,"draw":12,"loss":6,"for":66,"against":30},

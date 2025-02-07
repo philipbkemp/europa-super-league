@@ -65,7 +65,7 @@
 	{"country":"bel","name":"F.C. Liégeois","id":"RFC_Liège","win":1,"draw":4,"loss":17,"for":11,"against":79,"isRemoved":true},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":12,"draw":1,"loss":3,"for":55,"against":26,"isChampion":true,"isNew":true},
 	{"country":"ita","name":"Pro Vercelli","id":"FC_Pro_Vercelli_1892","win":12,"draw":1,"loss":3,"for":46,"against":15,"isNew":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":8,"draw":2,"loss":6,"for":28,"against":19,"isNew":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":8,"draw":2,"loss":6,"for":28,"against":19,"isNew":true},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":8,"draw":1,"loss":7,"for":43,"against":30,"isNew":true},
 	{"country":"ita","name":"Genoa","id":"Genoa_CFC","win":7,"draw":3,"loss":6,"for":29,"against":23,"isNew":true},
 	{"country":"ita","name":"Milan","id":"ac_milan","win":6,"draw":1,"loss":9,"for":23,"against":36,"isNew":true},

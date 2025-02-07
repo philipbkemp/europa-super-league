@@ -290,7 +290,7 @@ THEDATA = [
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":17,"draw":3,"loss":3,"for":38,"against":16,"isCurrentSeason":true},
 	{"country":"ita","name":"Inter Milan","id":"inter_milan","win":15,"draw":6,"loss":1,"for":56,"against":19,"isCurrentSeason":true},
 	{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":14,"draw":5,"loss":4,"for":49,"against":26,"isCurrentSeason":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":9,"draw":13,"loss":1,"for":39,"against":20,"isCurrentSeason":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":9,"draw":13,"loss":1,"for":39,"against":20,"isCurrentSeason":true},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":11,"draw":6,"loss":5,"for":37,"against":23,"isCurrentSeason":true},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":12,"draw":3,"loss":7,"for":38,"against":30,"isCurrentSeason":true},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":9,"draw":10,"loss":3,"for":35,"against":27,"isCurrentSeason":true},

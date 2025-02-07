@@ -80,7 +80,7 @@
 	{"country":"bel","name":"KV Kortrijk","id":"K.V._Kortrijk","win":5,"draw":10,"loss":19,"for":31,"against":72,"isRemoved":true},
 	{"country":"bel","name":"Eendracht Aalst","id":"S.C._Eendracht_Aalst","win":4,"draw":8,"loss":22,"for":18,"against":62,"isRemoved":true,"isReturning":true},
 	{"country":"ita","name":"Milan","id":"ac_milan","win":22,"draw":12,"loss":0,"for":74,"against":21,"isChampion":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":18,"draw":12,"loss":4,"for":45,"against":22},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":18,"draw":12,"loss":4,"for":45,"against":22},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":14,"draw":15,"loss":5,"for":42,"against":20},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":15,"draw":12,"loss":7,"for":56,"against":40},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":13,"draw":14,"loss":7,"for":37,"against":31},

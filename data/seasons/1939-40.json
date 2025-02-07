@@ -11,7 +11,7 @@
 	{"country":"dnk","name":"Hellerup IK","id":"Hellerup_IK","win":3,"draw":5,"loss":10,"for":20,"against":35,"isRemoved":true,"removedNote":"League suspended and replaced with a War Tournament"},
 	{"country":"ita","name":"Ambrosiana-Inter","id":"inter_milan","win":20,"draw":4,"loss":6,"for":56,"against":23,"isChampion":true},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":16,"draw":9,"loss":5,"for":44,"against":23},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":15,"draw":6,"loss":9,"for":45,"against":40},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":15,"draw":6,"loss":9,"for":45,"against":40},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":12,"draw":11,"loss":7,"for":44,"against":36},
 	{"country":"ita","name":"Genova 1893","id":"Genoa_CFC","win":14,"draw":5,"loss":11,"for":56,"against":47},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":13,"draw":7,"loss":10,"for":47,"against":41},

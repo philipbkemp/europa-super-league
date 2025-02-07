@@ -86,7 +86,7 @@
 	{"country":"bel","name":"Lierse S.K.","id":"Lierse_S.K.","win":6,"draw":13,"loss":11,"for":35,"against":51},
 	{"country":"bel","name":"K. Sint-Truidense V.V.","id":"Sint-Truidense_V.V.","win":6,"draw":11,"loss":13,"for":30,"against":50,"isRemoved":true},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":18,"draw":7,"loss":5,"for":45,"against":23,"isChampion":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":16,"draw":9,"loss":5,"for":50,"against":26},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":16,"draw":9,"loss":5,"for":50,"against":26},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":12,"draw":12,"loss":6,"for":35,"against":28},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":12,"draw":11,"loss":7,"for":47,"against":33},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":10,"draw":14,"loss":6,"for":27,"against":24},

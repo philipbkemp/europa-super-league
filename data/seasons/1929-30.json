@@ -67,7 +67,7 @@
 	{"country":"bel","name":"RC de Gand","id":"K.R.C._Gent","win":4,"draw":5,"loss":17,"for":34,"against":63,"isRemoved":true},
 	{"country":"ita","name":"Ambrosiana","id":"inter_milan","win":22,"draw":6,"loss":6,"for":85,"against":38,"isChampion":true,"isReturning":true},
 	{"country":"ita","name":"Genoa","id":"Genoa_CFC","win":20,"draw":8,"loss":6,"for":63,"against":36,"isReturning":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":19,"draw":7,"loss":8,"for":56,"against":31,"isReturning":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":19,"draw":7,"loss":8,"for":56,"against":31,"isReturning":true},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":16,"draw":7,"loss":11,"for":52,"against":31,"isReturning":true},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":14,"draw":9,"loss":11,"for":61,"against":51,"isNew":true},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":15,"draw":6,"loss":13,"for":73,"against":52,"isNew":true},

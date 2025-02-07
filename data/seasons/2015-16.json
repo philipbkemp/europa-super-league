@@ -77,7 +77,7 @@
 	{"country":"bel","name":"Mouscron-Péruwelz","id":"Royal_Excel_Mouscron","win":8,"draw":11,"loss":17,"for":44,"against":59},
 	{"country":"bel","name":"Westerlo","id":"K.V.C._Westerlo","win":7,"draw":9,"loss":14,"for":35,"against":59},
 	{"country":"bel","name":"OH Leuven","id":"Oud-Heverlee_Leuven","win":7,"draw":8,"loss":15,"for":42,"against":53,"isRemoved":true,"isReturning":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":29,"draw":4,"loss":5,"for":75,"against":20,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":29,"draw":4,"loss":5,"for":75,"against":20,"isChampion":true},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":25,"draw":7,"loss":6,"for":80,"against":32},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":23,"draw":11,"loss":4,"for":83,"against":41},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":20,"draw":7,"loss":11,"for":50,"against":38},

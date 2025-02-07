@@ -70,7 +70,7 @@
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":10,"draw":1,"loss":7,"for":31,"against":31,"isRemoved":true,"removedNote":"League switched to different format with multiple stages for next season"},
 	{"country":"ita","name":"Casale","id":"Casale_FBC","win":6,"draw":3,"loss":9,"for":19,"against":26,"isNew":true,"isRemoved":true,"removedNote":"League switched to different format with multiple stages for next season"},
 	{"country":"ita","name":"Andrea Doria","id":"UC_Sampdoria","win":7,"draw":1,"loss":10,"for":24,"against":37,"isRemoved":true,"removedNote":"League switched to different format with multiple stages for next season"},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":3,"draw":3,"loss":12,"for":22,"against":47,"isRemoved":true,"removedNote":"League switched to different format with multiple stages for next season"},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":3,"draw":3,"loss":12,"for":22,"against":47,"isRemoved":true,"removedNote":"League switched to different format with multiple stages for next season"},
 	{"country":"ita","name":"US Milanese","id":"US_Milanese","win":3,"draw":2,"loss":13,"for":18,"against":52,"isRemoved":true,"removedNote":"League switched to different format with multiple stages for next season"},
 	{"country":"ita","name":"Piemonte","id":"Piemonte_FC","win":1,"draw":2,"loss":15,"for":16,"against":59,"isRemoved":true,"removedNote":"League switched to different format with multiple stages for next season"},
 	{"country":"hun","name":"Ferencvárosi TC","id":"ferencvarosi_tc","win":14,"draw":2,"loss":2,"for":74,"against":17,"isChampion":true},

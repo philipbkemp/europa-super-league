@@ -85,7 +85,7 @@
 	{"country":"bel","name":"Verviers","id":"R.C.S._Verviétois","win":8,"draw":9,"loss":13,"for":25,"against":37},
 	{"country":"bel","name":"Berchem Sport","id":"K._Berchem_Sport","win":9,"draw":7,"loss":14,"for":36,"against":56,"isRemoved":true},
 	{"country":"bel","name":"Beringen FC","id":"K._Beringen_F.C.","win":7,"draw":5,"loss":18,"for":35,"against":62,"isRemoved":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":25,"draw":5,"loss":4,"for":92,"against":33,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":25,"draw":5,"loss":4,"for":92,"against":33,"isChampion":true},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":20,"draw":7,"loss":7,"for":68,"against":31},
 	{"country":"ita","name":"Milan","id":"ac_milan","win":17,"draw":10,"loss":7,"for":56,"against":37},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":14,"draw":12,"loss":8,"for":55,"against":43},

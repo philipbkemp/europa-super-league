@@ -85,7 +85,7 @@
 	{"country":"bel","name":"Crossing Club Schaerbeek","id":"K.V.V._Crossing_Elewijt","win":6,"draw":12,"loss":12,"for":17,"against":35},
 	{"country":"bel","name":"K.S.V. Waregem","id":"K.S.V._Waregem","win":7,"draw":7,"loss":16,"for":30,"against":44,"isRemoved":true},
 	{"country":"bel","name":"K.S.K. Beveren","id":"K.S.K._Beveren","win":5,"draw":6,"loss":19,"for":21,"against":52,"isRemoved":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":17,"draw":9,"loss":4,"for":48,"against":24,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":17,"draw":9,"loss":4,"for":48,"against":24,"isChampion":true},
 	{"country":"ita","name":"Milan","id":"ac_milan","win":16,"draw":10,"loss":4,"for":36,"against":17},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":17,"draw":8,"loss":5,"for":39,"against":25},
 	{"country":"ita","name":"Cagliari","id":"Cagliari_Calcio","win":15,"draw":9,"loss":6,"for":39,"against":23},

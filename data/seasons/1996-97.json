@@ -77,7 +77,7 @@
 	{"country":"bel","name":"R.W.D. Molenbeek","id":"R.W.D._Molenbeek_(1909)","win":8,"draw":11,"loss":15,"for":32,"against":43},
 	{"country":"bel","name":"Y.R. K.V. Mechelen","id":"K.V._Mechelen","win":7,"draw":10,"loss":17,"for":33,"against":55,"isRemoved":true},
 	{"country":"bel","name":"Cercle Brugge K.S.V.","id":"Cercle_Brugge_K.S.V.","win":6,"draw":9,"loss":19,"for":36,"against":67,"isRemoved":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":17,"draw":14,"loss":3,"for":51,"against":24,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":17,"draw":14,"loss":3,"for":51,"against":24,"isChampion":true},
 	{"country":"ita","name":"Parma","id":"Parma_Calcio_1913","win":18,"draw":9,"loss":7,"for":41,"against":26},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":15,"draw":14,"loss":5,"for":51,"against":35},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":15,"draw":10,"loss":9,"for":54,"against":37},

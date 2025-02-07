@@ -83,7 +83,7 @@
 	{"country":"bel","name":"Waterschei Thor","id":"K._Waterschei_S.V._Thor_Genk","win":10,"draw":5,"loss":19,"for":54,"against":77},
 	{"country":"bel","name":"Beringen","id":"K._Beringen_F.C.","win":8,"draw":8,"loss":18,"for":35,"against":62},
 	{"country":"bel","name":"K. Berchem Sport","id":"K._Berchem_Sport","win":5,"draw":9,"loss":20,"for":29,"against":90,"isRemoved":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":17,"draw":10,"loss":3,"for":46,"against":15,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":17,"draw":10,"loss":3,"for":46,"against":15,"isChampion":true},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":14,"draw":14,"loss":2,"for":43,"against":20},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":14,"draw":10,"loss":6,"for":31,"against":21},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":14,"draw":8,"loss":8,"for":41,"against":24},

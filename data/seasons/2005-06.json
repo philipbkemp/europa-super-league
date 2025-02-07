@@ -98,7 +98,7 @@
 	{"country":"ita","name":"Messina","id":"ACR_Messina","win":6,"draw":13,"loss":19,"for":33,"against":59},
 	{"country":"ita","name":"Lecce","id":"US_Lecce","win":7,"draw":8,"loss":23,"for":30,"against":57,"isRemoved":true},
 	{"country":"ita","name":"Treviso","id":"Treviso_FBC_1993","win":3,"draw":12,"loss":23,"for":24,"against":56,"isRemoved":true,"isNew":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":27,"draw":10,"loss":1,"for":71,"against":24,"isRemoved":true,"removedNote":"Disqualified due to the Calciopoli scandal"},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":27,"draw":10,"loss":1,"for":71,"against":24,"isRemoved":true,"removedNote":"Disqualified due to the Calciopoli scandal"},
 	{"country":"che","name":"Zürich","id":"FC_Zürich","win":23,"draw":9,"loss":4,"for":86,"against":36,"isChampion":true},
 	{"country":"che","name":"Basel","id":"FC_Basel","win":23,"draw":9,"loss":4,"for":87,"against":42},
 	{"country":"che","name":"Young Boys","id":"bsc_young_boys","win":17,"draw":11,"loss":8,"for":60,"against":46},

@@ -81,7 +81,7 @@
 	{"country":"ita","name":"Genoa","id":"Genoa_CFC","win":14,"draw":12,"loss":8,"for":51,"against":36},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":12,"draw":14,"loss":8,"for":40,"against":29,"isReturning":true},
 	{"country":"ita","name":"Parma","id":"Parma_Calcio_1913","win":13,"draw":12,"loss":9,"for":35,"against":31,"isNew":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":13,"draw":11,"loss":10,"for":45,"against":32},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":13,"draw":11,"loss":10,"for":45,"against":32},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":11,"draw":15,"loss":8,"for":37,"against":37},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":11,"draw":14,"loss":9,"for":43,"against":37},
 	{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":11,"draw":13,"loss":10,"for":38,"against":37},

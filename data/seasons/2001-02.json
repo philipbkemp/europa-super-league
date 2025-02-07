@@ -79,7 +79,7 @@
 	{"country":"bel","name":"Antwerp","id":"Royal_Antwerp_F.C.","win":7,"draw":10,"loss":17,"for":47,"against":67},
 	{"country":"bel","name":"Eendracht Aalst","id":"S.C._Eendracht_Aalst","win":4,"draw":9,"loss":21,"for":32,"against":73,"isRemoved":true,"removedNote":"Relegated to third tier after failing to be granted professional license"},
 	{"country":"bel","name":"Beveren","id":"K.S.K._Beveren","win":2,"draw":8,"loss":24,"for":30,"against":91},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":20,"draw":11,"loss":3,"for":64,"against":23,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":20,"draw":11,"loss":3,"for":64,"against":23,"isChampion":true},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":19,"draw":13,"loss":2,"for":58,"against":24},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":20,"draw":9,"loss":5,"for":62,"against":35},
 	{"country":"ita","name":"Milan","id":"ac_milan","win":14,"draw":13,"loss":7,"for":47,"against":33},

@@ -83,7 +83,7 @@
 	{"country":"ita","name":"Sampdoria","id":"UC_Sampdoria","win":19,"draw":10,"loss":9,"for":49,"against":41},
 	{"country":"ita","name":"Palermo","id":"Palermo_FC","win":18,"draw":11,"loss":9,"for":59,"against":47},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":15,"draw":14,"loss":9,"for":50,"against":43},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":16,"draw":7,"loss":15,"for":55,"against":56},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":16,"draw":7,"loss":15,"for":55,"against":56},
 	{"country":"ita","name":"Parma","id":"Parma_Calcio_1913","win":14,"draw":10,"loss":14,"for":46,"against":51,"isReturning":true},
 	{"country":"ita","name":"Genoa","id":"Genoa_CFC","win":14,"draw":9,"loss":15,"for":57,"against":61},
 	{"country":"ita","name":"Bari","id":"SSC_Bari","win":13,"draw":11,"loss":14,"for":49,"against":49,"isReturning":true},

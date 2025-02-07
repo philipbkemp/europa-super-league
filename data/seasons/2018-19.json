@@ -79,7 +79,7 @@
 	{"country":"bel","name":"Oostende","id":"K.V._Oostende","win":9,"draw":12,"loss":19,"for":41,"against":67},
 	{"country":"bel","name":"Waasland-Beveren","id":"S.K._Beveren","win":9,"draw":13,"loss":18,"for":54,"against":74},
 	{"country":"bel","name":"Lokeren","id":"K.S.C._Lokeren_Oost-Vlaanderen","win":5,"draw":5,"loss":20,"for":28,"against":53,"isRemoved":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":28,"draw":6,"loss":4,"for":70,"against":30,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":28,"draw":6,"loss":4,"for":70,"against":30,"isChampion":true},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":24,"draw":7,"loss":7,"for":74,"against":36},
 	{"country":"ita","name":"Atalanta","id":"Atalanta_BC","win":20,"draw":9,"loss":9,"for":77,"against":46},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":20,"draw":9,"loss":9,"for":57,"against":33},

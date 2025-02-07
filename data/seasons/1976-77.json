@@ -83,7 +83,7 @@
 	{"country":"bel","name":"R. Charleroi S.C.","id":"Royal_Charleroi_S.C.","win":8,"draw":9,"loss":17,"for":30,"against":50},
 	{"country":"bel","name":"KV Mechelen","id":"K.V._Mechelen","win":6,"draw":8,"loss":20,"for":38,"against":67,"isRemoved":true},
 	{"country":"bel","name":"A.S.V. Oostende K.M.","id":"A.S.V._Oostende_K.M.","win":6,"draw":8,"loss":20,"for":39,"against":72,"isRemoved":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":23,"draw":5,"loss":2,"for":50,"against":20,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":23,"draw":5,"loss":2,"for":50,"against":20,"isChampion":true},
 	{"country":"ita","name":"Torino","id":"Torino_FC","win":21,"draw":8,"loss":1,"for":51,"against":14},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":12,"draw":11,"loss":7,"for":38,"against":31},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":10,"draw":13,"loss":7,"for":34,"against":27},

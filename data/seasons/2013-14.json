@@ -77,7 +77,7 @@
 	{"country":"bel","name":"Waasland-Beveren","id":"S.K._Beveren","win":7,"draw":14,"loss":15,"for":35,"against":46},
 	{"country":"bel","name":"OH Leuven","id":"Oud-Heverlee_Leuven","win":6,"draw":9,"loss":15,"for":30,"against":47,"isRemoved":true},
 	{"country":"bel","name":"Mons","id":"R.A.E.C._Mons_(1910)","win":6,"draw":4,"loss":20,"for":29,"against":53,"isRemoved":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":33,"draw":3,"loss":2,"for":80,"against":23,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":33,"draw":3,"loss":2,"for":80,"against":23,"isChampion":true},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":26,"draw":7,"loss":5,"for":72,"against":25},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":23,"draw":9,"loss":6,"for":77,"against":39},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":19,"draw":8,"loss":11,"for":65,"against":44},

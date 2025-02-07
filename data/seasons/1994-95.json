@@ -77,7 +77,7 @@
 	{"country":"bel","name":"R. Antwerp F.C.","id":"Royal_Antwerp_F.C.","win":8,"draw":8,"loss":18,"for":40,"against":56},
 	{"country":"bel","name":"K.V. Oostende","id":"K.V._Oostende","win":5,"draw":9,"loss":20,"for":34,"against":81,"isRemoved":true},
 	{"country":"bel","name":"R.F.C. de Liège","id":"RFC_Liège","win":5,"draw":7,"loss":22,"for":35,"against":72,"isRemoved":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":23,"draw":4,"loss":7,"for":59,"against":32,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":23,"draw":4,"loss":7,"for":59,"against":32,"isChampion":true},
 	{"country":"ita","name":"Lazio","id":"SS_Lazio","win":19,"draw":6,"loss":9,"for":69,"against":34},
 	{"country":"ita","name":"Parma","id":"Parma_Calcio_1913","win":18,"draw":9,"loss":7,"for":51,"against":31},
 	{"country":"ita","name":"Milan","id":"ac_milan","win":17,"draw":9,"loss":8,"for":53,"against":32},

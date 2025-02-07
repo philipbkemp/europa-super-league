@@ -83,7 +83,7 @@
 	{"country":"bel","name":"R.F.C. de Liège","id":"RFC_Liège","win":10,"draw":8,"loss":16,"for":36,"against":50},
 	{"country":"bel","name":"Beringen FC","id":"K._Beringen_F.C.","win":9,"draw":9,"loss":16,"for":33,"against":50,"isRemoved":true},
 	{"country":"bel","name":"KV Mechelen","id":"K.V._Mechelen","win":6,"draw":5,"loss":23,"for":28,"against":65,"isRemoved":true,"isReturning":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":19,"draw":8,"loss":3,"for":48,"against":14,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":19,"draw":8,"loss":3,"for":48,"against":14,"isChampion":true},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":17,"draw":11,"loss":2,"for":36,"against":17},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":15,"draw":8,"loss":7,"for":40,"against":29},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":10,"draw":15,"loss":5,"for":31,"against":21},

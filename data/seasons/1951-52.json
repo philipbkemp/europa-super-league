@@ -63,7 +63,7 @@
 	{"country":"bel","name":"R. Charleroi S.C.","id":"Royal_Charleroi_S.C.","win":7,"draw":8,"loss":15,"for":43,"against":65},
 	{"country":"bel","name":"R.R.C. Bruxelles","id":"kfc_rhodienne_de_hoek","win":7,"draw":7,"loss":16,"for":36,"against":61,"isRemoved":true},
 	{"country":"bel","name":"R.U.S. Tournai","id":"R.F.C._Tournai","win":3,"draw":6,"loss":21,"for":25,"against":101,"isRemoved":true,"isNew":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":26,"draw":8,"loss":4,"for":98,"against":34,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":26,"draw":8,"loss":4,"for":98,"against":34,"isChampion":true},
 	{"country":"ita","name":"Milan","id":"ac_milan","win":20,"draw":13,"loss":5,"for":87,"against":41},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":21,"draw":7,"loss":10,"for":86,"against":49},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":17,"draw":9,"loss":12,"for":52,"against":38},

@@ -97,7 +97,7 @@
 	{"country":"ita","name":"Sampdoria","id":"UC_Sampdoria","win":9,"draw":12,"loss":13,"for":32,"against":40},
 	{"country":"ita","name":"Catania","id":"Catania_FC","win":9,"draw":12,"loss":13,"for":30,"against":45},
 	{"country":"ita","name":"Venezia","id":"Venezia_FC","win":8,"draw":13,"loss":13,"for":35,"against":41,"isReturning":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":10,"draw":9,"loss":15,"for":48,"against":56},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":10,"draw":9,"loss":15,"for":48,"against":56},
 	{"country":"ita","name":"Vicenza","id":"LR_Vicenza","win":8,"draw":11,"loss":15,"for":29,"against":43},
 	{"country":"ita","name":"SPAL","id":"SPAL","win":9,"draw":9,"loss":16,"for":30,"against":50},
 	{"country":"ita","name":"Padova","id":"Calcio_Padova","win":7,"draw":9,"loss":18,"for":29,"against":49,"isRemoved":true},

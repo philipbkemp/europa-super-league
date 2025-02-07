@@ -65,7 +65,7 @@
 	{"country":"bel","name":"K.R.C. Mechelen","id":"K.R.C._Mechelen","win":9,"draw":6,"loss":11,"for":52,"against":67},
 	{"country":"bel","name":"K. Tubantia Borgerhout V.K.","id":"K._Tubantia_Borgerhout_V.K.","win":8,"draw":3,"loss":15,"for":46,"against":74,"isRemoved":true},
 	{"country":"bel","name":"K.V. Turnhout","id":"KFC_Turnhout","win":4,"draw":2,"loss":20,"for":45,"against":84,"isRemoved":true,"isNew":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":24,"draw":6,"loss":4,"for":89,"against":38,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":24,"draw":6,"loss":4,"for":89,"against":38,"isChampion":true},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":21,"draw":8,"loss":5,"for":85,"against":33},
 	{"country":"ita","name":"Roma","id":"AS_Roma","win":16,"draw":8,"loss":10,"for":53,"against":42},
 	{"country":"ita","name":"Fiorentina","id":"ACF_Fiorentina","win":16,"draw":7,"loss":11,"for":54,"against":35,"isNew":true},

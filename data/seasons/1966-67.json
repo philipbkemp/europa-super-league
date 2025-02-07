@@ -85,7 +85,7 @@
 	{"country":"bel","name":"R. Charleroi S.C.","id":"Royal_Charleroi_S.C.","win":7,"draw":11,"loss":12,"for":32,"against":49,"isReturning":true},
 	{"country":"bel","name":"La Gantoise","id":"K.A.A._Gent","win":7,"draw":8,"loss":15,"for":31,"against":56,"isRemoved":true},
 	{"country":"bel","name":"R.F.C. Tilleur-Saint-Nicolas","id":"R.F.C._Tilleur","win":6,"draw":4,"loss":20,"for":26,"against":62,"isRemoved":true},
-	{"country":"ita","name":"Juventus","id":"Juventus_FC","win":18,"draw":13,"loss":3,"for":44,"against":19,"isChampion":true},
+	{"country":"ita","name":"Juventus","id":"juventus_fc","win":18,"draw":13,"loss":3,"for":44,"against":19,"isChampion":true},
 	{"country":"ita","name":"Internazionale","id":"inter_milan","win":19,"draw":10,"loss":5,"for":59,"against":22},
 	{"country":"ita","name":"Bologna","id":"Bologna_FC_1909","win":18,"draw":9,"loss":7,"for":48,"against":27},
 	{"country":"ita","name":"Napoli","id":"SSC_Napoli","win":17,"draw":10,"loss":7,"for":46,"against":23},
