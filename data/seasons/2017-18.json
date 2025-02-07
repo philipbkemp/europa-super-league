@@ -517,7 +517,7 @@
 	{"country":"deu","name":"VfL Wolfsburg","id":"VfL_Wolfsburg","win":6,"draw":15,"loss":13,"for":36,"against":48},
 	{"country":"deu","name":"Hamburger SV","id":"Hamburger_SV","win":8,"draw":7,"loss":19,"for":29,"against":53,"isRemoved":true},
 	{"country":"deu","name":"1. FC Köln","id":"1._FC_Köln","win":5,"draw":7,"loss":22,"for":35,"against":70,"isRemoved":true},
-	{"country":"kaz","name":"Astana","id":"FC_Astana","win":25,"draw":4,"loss":4,"for":74,"against":21,"isChampion":true},
+	{"country":"kaz","name":"Astana","id":"fc_astana","win":25,"draw":4,"loss":4,"for":74,"against":21,"isChampion":true},
 	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":23,"draw":9,"loss":1,"for":75,"against":28},
 	{"country":"kaz","name":"Ordabasy","id":"FC_Ordabasy","win":18,"draw":4,"loss":11,"for":44,"against":37},
 	{"country":"kaz","name":"Irtysh Pavlodar","id":"FC_Irtysh_Pavlodar","win":12,"draw":12,"loss":9,"for":35,"against":32},

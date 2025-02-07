@@ -542,7 +542,7 @@
 	{"country":"deu","name":"Arminia Bielefeld","id":"Arminia_Bielefeld","win":5,"draw":13,"loss":16,"for":27,"against":53,"isRemoved":true},
 	{"country":"deu","name":"Greuther Fürth","id":"SpVgg_Greuther_Fürth","win":3,"draw":9,"loss":22,"for":28,"against":82,"isRemoved":true,"isReturning":true},
 	{"country":"kaz","name":"Tobol","id":"FC_Tobol","win":18,"draw":7,"loss":1,"for":54,"against":18,"isChampion":true},
-	{"country":"kaz","name":"Astana","id":"FC_Astana","win":17,"draw":6,"loss":3,"for":53,"against":25},
+	{"country":"kaz","name":"Astana","id":"fc_astana","win":17,"draw":6,"loss":3,"for":53,"against":25},
 	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":14,"draw":9,"loss":3,"for":52,"against":21},
 	{"country":"kaz","name":"Kyzylzhar","id":"FC_Kyzylzhar","win":11,"draw":6,"loss":9,"for":32,"against":24},
 	{"country":"kaz","name":"Ordabasy","id":"FC_Ordabasy","win":10,"draw":8,"loss":8,"for":36,"against":35},

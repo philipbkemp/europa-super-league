@@ -521,7 +521,7 @@
 	{"country":"deu","name":"Hannover 96","id":"Hannover_96","win":7,"draw":4,"loss":23,"for":31,"against":62,"isRemoved":true},
 	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":20,"draw":7,"loss":5,"for":60,"against":19},
 	{"country":"kaz","name":"Aktobe","id":"FC_Aktobe","win":15,"draw":9,"loss":8,"for":35,"against":25},
-	{"country":"kaz","name":"Astana","id":"FC_Astana","win":20,"draw":7,"loss":5,"for":55,"against":26,"isChampion":true},
+	{"country":"kaz","name":"Astana","id":"fc_astana","win":20,"draw":7,"loss":5,"for":55,"against":26,"isChampion":true},
 	{"country":"kaz","name":"Atyrau","id":"FC_Atyrau","win":11,"draw":12,"loss":9,"for":31,"against":33},
 	{"country":"kaz","name":"Ordabasy","id":"FC_Ordabasy","win":12,"draw":10,"loss":10,"for":32,"against":31},
 	{"country":"kaz","name":"Irtysh Pavlodar","id":"FC_Irtysh_Pavlodar","win":10,"draw":10,"loss":12,"for":37,"against":39},

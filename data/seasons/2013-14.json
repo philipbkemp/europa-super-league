@@ -529,7 +529,7 @@
 	{"country":"deu","name":"1. FC Nürnberg","id":"1._FC_Nürnberg","win":5,"draw":11,"loss":18,"for":37,"against":70,"isRemoved":true},
 	{"country":"deu","name":"Eintracht Braunschweig","id":"Eintracht_Braunschweig","win":6,"draw":7,"loss":21,"for":29,"against":60,"isRemoved":true,"isReturning":true},
 	{"country":"kaz","name":"Aktobe","id":"FC_Aktobe","win":20,"draw":6,"loss":6,"for":46,"against":22,"isChampion":true},
-	{"country":"kaz","name":"Astana","id":"FC_Astana","win":19,"draw":5,"loss":8,"for":54,"against":35},
+	{"country":"kaz","name":"Astana","id":"fc_astana","win":19,"draw":5,"loss":8,"for":54,"against":35},
 	{"country":"kaz","name":"Shakhter Karagandy","id":"FC_Shakhter_Karagandy","win":12,"draw":7,"loss":13,"for":43,"against":45},
 	{"country":"kaz","name":"Irtysh Pavlodar","id":"FC_Irtysh_Pavlodar","win":12,"draw":8,"loss":12,"for":41,"against":39},
 	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":12,"draw":12,"loss":8,"for":44,"against":38},

@@ -549,7 +549,7 @@
 	{"country":"deu","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":7,"draw":12,"loss":15,"for":45,"against":57},
 	{"country":"deu","name":"Schalke 04","id":"FC_Schalke_04","win":7,"draw":10,"loss":17,"for":35,"against":71,"isRemoved":true,"isReturning":true},
 	{"country":"deu","name":"Hertha BSC","id":"Hertha_BSC","win":7,"draw":8,"loss":19,"for":42,"against":69,"isRemoved":true},
-	{"country":"kaz","name":"Astana","id":"FC_Astana","win":16,"draw":5,"loss":5,"for":65,"against":24,"isChampion":true},
+	{"country":"kaz","name":"Astana","id":"fc_astana","win":16,"draw":5,"loss":5,"for":65,"against":24,"isChampion":true},
 	{"country":"kaz","name":"Aktobe","id":"FC_Aktobe","win":16,"draw":4,"loss":6,"for":43,"against":28},
 	{"country":"kaz","name":"Tobol","id":"FC_Tobol","win":14,"draw":5,"loss":7,"for":46,"against":33},
 	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":12,"draw":6,"loss":8,"for":34,"against":36},

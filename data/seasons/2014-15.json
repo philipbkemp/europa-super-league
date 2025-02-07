@@ -531,7 +531,7 @@
 	{"country":"deu","name":"SC Paderborn 07","id":"SC_Paderborn_07","win":7,"draw":10,"loss":17,"for":31,"against":65,"isRemoved":true,"isNew":true},
 	{"country":"kaz","name":"Aktobe","id":"FC_Aktobe","win":17,"draw":10,"loss":5,"for":52,"against":31,"isChampion":true},
 	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":18,"draw":5,"loss":9,"for":58,"against":31},
-	{"country":"kaz","name":"Astana","id":"FC_Astana","win":18,"draw":10,"loss":4,"for":63,"against":26},
+	{"country":"kaz","name":"Astana","id":"fc_astana","win":18,"draw":10,"loss":4,"for":63,"against":26},
 	{"country":"kaz","name":"Shakhter Karagandy","id":"FC_Shakhter_Karagandy","win":11,"draw":6,"loss":15,"for":41,"against":49},
 	{"country":"kaz","name":"Ordabasy","id":"FC_Ordabasy","win":13,"draw":5,"loss":14,"for":34,"against":44},
 	{"country":"kaz","name":"Kaisar","id":"FC_Kaisar","win":10,"draw":13,"loss":9,"for":30,"against":34,"isReturning":true},

@@ -667,7 +667,7 @@ THEDATA = [
 	{"country":"isl","name":"HK","id":"Handknattleiksfélag_Kópavogs","win":7,"draw":4,"loss":16,"for":34,"against":71,"isRemoved":true},
 	{"country":"isl","name":"Fylkir","id":"Fylkir","win":5,"draw":6,"loss":16,"for":32,"against":60,"isRemoved":true},
 	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":14,"draw":5,"loss":5,"for":39,"against":21,"isChampion":true},
-	{"country":"kaz","name":"Astana","id":"FC_Astana","win":14,"draw":4,"loss":6,"for":39,"against":19},
+	{"country":"kaz","name":"Astana","id":"fc_astana","win":14,"draw":4,"loss":6,"for":39,"against":19},
 	{"country":"kaz","name":"Aktobe","id":"FC_Aktobe","win":12,"draw":7,"loss":5,"for":39,"against":26},
 	{"country":"kaz","name":"Ordabasy","id":"FC_Ordabasy","win":12,"draw":6,"loss":6,"for":36,"against":24},
 	{"country":"kaz","name":"Tobol","id":"FC_Tobol","win":11,"draw":6,"loss":7,"for":33,"against":23},

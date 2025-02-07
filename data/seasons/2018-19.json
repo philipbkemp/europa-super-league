@@ -518,7 +518,7 @@
 	{"country":"deu","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":7,"draw":7,"loss":20,"for":32,"against":70,"isRemoved":true},
 	{"country":"deu","name":"Hannover 96","id":"Hannover_96","win":5,"draw":6,"loss":23,"for":31,"against":71,"isRemoved":true},
 	{"country":"deu","name":"1. FC Nürnberg","id":"1._FC_Nürnberg","win":3,"draw":10,"loss":21,"for":26,"against":68,"isRemoved":true,"isReturning":true},
-	{"country":"kaz","name":"Astana","id":"FC_Astana","win":24,"draw":5,"loss":4,"for":66,"against":22,"isChampion":true},
+	{"country":"kaz","name":"Astana","id":"fc_astana","win":24,"draw":5,"loss":4,"for":66,"against":22,"isChampion":true},
 	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":19,"draw":5,"loss":9,"for":60,"against":33},
 	{"country":"kaz","name":"Tobol","id":"FC_Tobol","win":15,"draw":8,"loss":10,"for":36,"against":30},
 	{"country":"kaz","name":"Ordabasy","id":"FC_Ordabasy","win":13,"draw":7,"loss":13,"for":38,"against":44},

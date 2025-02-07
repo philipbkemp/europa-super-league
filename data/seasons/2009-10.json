@@ -535,7 +535,7 @@
 	{"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":6,"draw":10,"loss":18,"for":33,"against":64,"isRemoved":true},
 	{"country":"deu","name":"Hertha BSC","id":"Hertha_BSC","win":5,"draw":9,"loss":20,"for":34,"against":56,"isRemoved":true},
 	{"country":"kaz","name":"Aktobe","id":"FC_Aktobe","win":21,"draw":2,"loss":3,"for":65,"against":19,"isChampion":true},
-	{"country":"kaz","name":"Lokomotiv","id":"FC_Astana","win":20,"draw":0,"loss":6,"for":54,"against":24,"isNew":true},
+	{"country":"kaz","name":"Lokomotiv","id":"fc_astana","win":20,"draw":0,"loss":6,"for":54,"against":24,"isNew":true},
 	{"country":"kaz","name":"Shakhter Karagandy","id":"FC_Shakhter_Karagandy","win":18,"draw":3,"loss":5,"for":50,"against":18},
 	{"country":"kaz","name":"Tobol","id":"FC_Tobol","win":14,"draw":9,"loss":3,"for":54,"against":23},
 	{"country":"kaz","name":"Zhetysu","id":"FC_Zhetysu","win":13,"draw":5,"loss":8,"for":33,"against":26},
