@@ -271,7 +271,7 @@
 	{"country":"nir","name":"Newry City","id":"Newry_City_A.F.C.","win":9,"draw":3,"loss":26,"for":37,"against":71,"isReturning":true},
 	{"country":"nir","name":"Dungannon Swifts","id":"Dungannon_Swifts_F.C.","win":9,"draw":3,"loss":26,"for":28,"against":84},
 	{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":6,"draw":5,"loss":27,"for":29,"against":88,"isRemoved":true},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":24,"draw":7,"loss":5,"for":61,"against":22,"isChampion":true},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":24,"draw":7,"loss":5,"for":61,"against":22,"isChampion":true},
 	{"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":18,"draw":12,"loss":6,"for":53,"against":27},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":18,"draw":12,"loss":6,"for":53,"against":30},
 	{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":18,"draw":7,"loss":11,"for":57,"against":37},

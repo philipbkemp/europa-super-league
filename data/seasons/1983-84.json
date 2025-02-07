@@ -278,7 +278,7 @@
 	{"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":4,"draw":6,"loss":16,"for":24,"against":57},
 	{"country":"nir","name":"Larne","id":"Larne_F.C.","win":7,"draw":1,"loss":18,"for":25,"against":58,"deduct":-2},
 	{"country":"nir","name":"Carrick Rangers","id":"Carrick_Rangers_F.C.","win":3,"draw":3,"loss":20,"for":24,"against":57,"isNew":true},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":19,"draw":4,"loss":3,"for":64,"against":15,"isChampion":true},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":19,"draw":4,"loss":3,"for":64,"against":15,"isChampion":true},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":13,"draw":10,"loss":3,"for":39,"against":20},
 	{"country":"irl","name":"Athlone Town","id":"Athlone_Town_A.F.C.","win":15,"draw":4,"loss":7,"for":44,"against":28},
 	{"country":"irl","name":"Limerick City","id":"Limerick_F.C.","win":13,"draw":7,"loss":6,"for":38,"against":26},

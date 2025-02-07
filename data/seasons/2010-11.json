@@ -267,7 +267,7 @@
 	{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":12,"draw":9,"loss":17,"for":60,"against":59},
 	{"country":"nir","name":"Donegal Celtic","id":"Donegal_Celtic_F.C.","win":8,"draw":8,"loss":22,"for":55,"against":89,"isReturning":true},
 	{"country":"nir","name":"Newry City","id":"Newry_City_F.C.","win":6,"draw":8,"loss":24,"for":37,"against":65,"isRemoved":true},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":19,"draw":10,"loss":7,"for":57,"against":34,"isChampion":true},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":19,"draw":10,"loss":7,"for":57,"against":34,"isChampion":true},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":19,"draw":10,"loss":7,"for":50,"against":29},
 	{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":17,"draw":12,"loss":7,"for":61,"against":36},
 	{"country":"irl","name":"Sporting Fingal","id":"Sporting_Fingal_F.C.","win":16,"draw":14,"loss":6,"for":60,"against":38,"isRemoved":true,"removedNote":"Withdrew due to financial issues","isNew":true},

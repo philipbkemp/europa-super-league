@@ -134,7 +134,7 @@
 	{"country":"nir","name":"Larne","id":"Larne_F.C.","win":4,"draw":5,"loss":17,"for":36,"against":83,"isRemoved":true,"removedNote":"League suspended due to WW2"},
 	{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":3,"draw":1,"loss":22,"for":40,"against":99,"isRemoved":true,"removedNote":"League suspended due to WW2"},
 	{"country":"irl","name":"St James's Gate","id":"St_James%27s_Gate_F.C.","win":17,"draw":2,"loss":3,"for":63,"against":27,"isChampion":true},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":13,"draw":4,"loss":5,"for":51,"against":39},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":13,"draw":4,"loss":5,"for":51,"against":39},
 	{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":12,"draw":4,"loss":6,"for":60,"against":44,"isRemoved":true},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":11,"draw":3,"loss":8,"for":45,"against":36},
 	{"country":"irl","name":"Cork United","id":"Cork_United_F.C._(1940–1948)","win":11,"draw":3,"loss":8,"for":40,"against":34,"isNew":true},

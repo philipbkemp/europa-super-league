@@ -273,7 +273,7 @@
 	{"country":"irl","name":"Waterford United","id":"Waterford_F.C.","win":9,"draw":7,"loss":17,"for":30,"against":49},
 	{"country":"irl","name":"UCD","id":"University_College_Dublin_A.F.C.","win":7,"draw":12,"loss":14,"for":28,"against":44,"isReturning":true},
 	{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":7,"draw":11,"loss":15,"for":26,"against":36},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":9,"draw":8,"loss":16,"for":33,"against":52,"isRemoved":true,"deduct":-8,"deductReason":"Financial iregularities"},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":9,"draw":8,"loss":16,"for":33,"against":52,"isRemoved":true,"deduct":-8,"deductReason":"Financial iregularities"},
 	{"country":"irl","name":"Finn Harps","id":"Finn_Harps_F.C.","win":5,"draw":6,"loss":22,"for":30,"against":51,"isRemoved":true,"isReturning":true},
 	{"country":"ltu","name":"Ekranas","id":"FK_Ekranas","win":29,"draw":5,"loss":2,"for":87,"against":23,"isChampion":true},
 	{"country":"ltu","name":"FBK Kaunas","id":"FBK_Kaunas","win":26,"draw":4,"loss":6,"for":89,"against":25},

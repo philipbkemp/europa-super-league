@@ -261,7 +261,7 @@
 	{"country":"nir","name":"Warrenpoint Town","id":"Warrenpoint_Town_F.C.","win":9,"draw":7,"loss":22,"for":45,"against":73,"isRemoved":true},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":23,"draw":9,"loss":1,"for":78,"against":23,"isChampion":true},
 	{"country":"irl","name":"Cork City","id":"Cork_City_F.C.","win":19,"draw":10,"loss":4,"for":57,"against":25},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":18,"draw":11,"loss":4,"for":56,"against":27},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":18,"draw":11,"loss":4,"for":56,"against":27},
 	{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":18,"draw":4,"loss":11,"for":52,"against":34},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":15,"draw":8,"loss":10,"for":49,"against":42},
 	{"country":"irl","name":"Longford Town","id":"Longford_Town_F.C.","win":10,"draw":9,"loss":14,"for":41,"against":53,"isReturning":true},

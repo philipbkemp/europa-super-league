@@ -185,7 +185,7 @@
 	{"country":"nir","name":"Larne","id":"Larne_F.C.","win":6,"draw":3,"loss":17,"for":48,"against":87},
 	{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":5,"draw":5,"loss":16,"for":40,"against":75},
 	{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":2,"draw":6,"loss":18,"for":27,"against":86},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":14,"draw":4,"loss":4,"for":71,"against":47,"isChampion":true},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":14,"draw":4,"loss":4,"for":71,"against":47,"isChampion":true},
 	{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":13,"draw":5,"loss":4,"for":76,"against":40},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":13,"draw":4,"loss":5,"for":53,"against":29},
 	{"country":"irl","name":"Brideville","id":"Brideville_F.C.","win":12,"draw":5,"loss":5,"for":51,"against":35},

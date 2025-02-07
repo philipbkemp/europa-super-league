@@ -267,7 +267,7 @@
 	{"country":"nir","name":"Lisburn Distillery","id":"Lisburn_Distillery_F.C.","win":11,"draw":6,"loss":21,"for":45,"against":76},
 	{"country":"nir","name":"Institute","id":"Institute_F.C.","win":6,"draw":13,"loss":19,"for":36,"against":62,"isRemoved":true},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":24,"draw":5,"loss":7,"for":62,"against":21,"isChampion":true},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":21,"draw":10,"loss":5,"for":51,"against":27},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":21,"draw":10,"loss":5,"for":51,"against":27},
 	{"country":"irl","name":"Cork City","id":"Cork_City_F.C.","win":17,"draw":9,"loss":10,"for":42,"against":28,"isRemoved":true,"removedNote":"Expelled due to holding company being wound up"},
 	{"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":18,"draw":5,"loss":13,"for":49,"against":31,"isRemoved":true,"removedNote":"Expelled due to player contract issues"},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":12,"draw":8,"loss":16,"for":46,"against":51,"isReturning":true},

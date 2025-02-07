@@ -175,7 +175,7 @@
 	{"country":"nir","name":"Ards","id":"Ards_F.C.","win":7,"draw":4,"loss":15,"for":52,"against":82},
 	{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":6,"draw":5,"loss":15,"for":42,"against":74},
 	{"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":3,"draw":6,"loss":17,"for":41,"against":68},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":13,"draw":6,"loss":3,"for":70,"against":34,"isChampion":true},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":13,"draw":6,"loss":3,"for":70,"against":34,"isChampion":true},
 	{"country":"irl","name":"Cork","id":"Cork_F.C.","win":10,"draw":9,"loss":3,"for":57,"against":27},
 	{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":12,"draw":4,"loss":6,"for":64,"against":42,"isRemoved":true},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":11,"draw":5,"loss":6,"for":56,"against":31},

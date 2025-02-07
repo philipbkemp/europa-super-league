@@ -645,7 +645,7 @@ THEDATA = [
 	{"country":"geo","name":"Telavi","id":"FC_Telavi","win":8,"draw":10,"loss":18,"for":32,"against":43},
 	{"country":"geo","name":"Samtredia","id":"FC_Samtredia","win":5,"draw":12,"loss":19,"for":33,"against":61,"isRemoved":true},
 	{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":17,"draw":12,"loss":7,"for":40,"against":27,"isChampion":true},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":17,"draw":10,"loss":9,"for":50,"against":35},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":17,"draw":10,"loss":9,"for":50,"against":35},
 	{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":17,"draw":8,"loss":11,"for":51,"against":37},
 	{"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":14,"draw":13,"loss":9,"for":48,"against":31},
 	{"country":"irl","name":"Galway United","id":"Galway_United_F.C.","win":13,"draw":13,"loss":10,"for":33,"against":29,"isReturning":true},

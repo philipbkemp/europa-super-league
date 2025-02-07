@@ -265,7 +265,7 @@
 	{"country":"nir","name":"Warrenpoint Town","id":"Warrenpoint_Town_F.C.","win":5,"draw":3,"loss":23,"for":26,"against":85},
 	{"country":"nir","name":"Institute","id":"Institute_F.C.","win":2,"draw":9,"loss":20,"for":23,"against":72,"isRemoved":true},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":27,"draw":5,"loss":4,"for":73,"against":18,"isChampion":true},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":23,"draw":6,"loss":7,"for":62,"against":21},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":23,"draw":6,"loss":7,"for":62,"against":21},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":17,"draw":9,"loss":10,"for":47,"against":28},
 	{"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":15,"draw":12,"loss":9,"for":56,"against":34},
 	{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":14,"draw":10,"loss":12,"for":29,"against":35},

@@ -207,7 +207,7 @@
 	{"country":"irl","name":"Cork","id":"Cork_F.C.","win":14,"draw":3,"loss":5,"for":61,"against":38},
 	{"country":"irl","name":"Reds United","id":"Reds_United_F.C.","win":12,"draw":1,"loss":9,"for":45,"against":47,"isNew":true,"isRemoved":true},
 	{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":9,"draw":5,"loss":8,"for":58,"against":53},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":10,"draw":2,"loss":10,"for":61,"against":58},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":10,"draw":2,"loss":10,"for":61,"against":58},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":9,"draw":3,"loss":10,"for":43,"against":39},
 	{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":9,"draw":3,"loss":10,"for":48,"against":47},
 	{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":9,"draw":2,"loss":11,"for":45,"against":53},

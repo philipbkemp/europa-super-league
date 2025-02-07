@@ -234,7 +234,7 @@
 	{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":9,"draw":7,"loss":20,"for":41,"against":65},
 	{"country":"nir","name":"Ards","id":"Ards_F.C.","win":6,"draw":9,"loss":21,"for":30,"against":71,"isReturning":true},
 	{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":19,"draw":6,"loss":8,"for":50,"against":28,"isChampion":true},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":17,"draw":6,"loss":10,"for":54,"against":32},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":17,"draw":6,"loss":10,"for":54,"against":32},
 	{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":20,"draw":8,"loss":5,"for":59,"against":29,"deduct":-15,"deductReason":"Fielding an ineligible player"},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":14,"draw":10,"loss":9,"for":57,"against":32},
 	{"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":14,"draw":9,"loss":10,"for":42,"against":30},

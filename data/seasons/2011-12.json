@@ -268,7 +268,7 @@
 	{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":8,"draw":10,"loss":20,"for":60,"against":71},
 	{"country":"nir","name":"Lisburn Distillery","id":"Lisburn_Distillery_F.C.","win":8,"draw":8,"loss":22,"for":56,"against":84},
 	{"country":"nir","name":"Carrick Rangers","id":"Carrick_Rangers_F.C.","win":7,"draw":10,"loss":21,"for":50,"against":91,"isRemoved":true,"isReturning":true},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":23,"draw":8,"loss":5,"for":69,"against":24,"isChampion":true},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":23,"draw":8,"loss":5,"for":69,"against":24,"isChampion":true},
 	{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":22,"draw":7,"loss":7,"for":73,"against":19},
 	{"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":18,"draw":14,"loss":4,"for":63,"against":23,"isReturning":true},
 	{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":17,"draw":12,"loss":7,"for":62,"against":35},

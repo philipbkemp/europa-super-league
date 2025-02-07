@@ -275,7 +275,7 @@
 	{"country":"nir","name":"Carrick Rangers","id":"Carrick_Rangers_F.C.","win":6,"draw":5,"loss":15,"for":27,"against":53},
 	{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":3,"draw":11,"loss":12,"for":22,"against":45},
 	{"country":"nir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":2,"draw":3,"loss":21,"for":21,"against":74},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":18,"draw":3,"loss":1,"for":51,"against":16,"isChampion":true},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":18,"draw":3,"loss":1,"for":51,"against":16,"isChampion":true},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":12,"draw":6,"loss":4,"for":40,"against":21},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":11,"draw":7,"loss":4,"for":32,"against":23},
 	{"country":"irl","name":"Waterford United","id":"Waterford_F.C.","win":12,"draw":4,"loss":6,"for":42,"against":24},

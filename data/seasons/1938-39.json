@@ -189,7 +189,7 @@
 	{"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":6,"draw":7,"loss":13,"for":37,"against":71},
 	{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":5,"draw":2,"loss":19,"for":38,"against":81},
 	{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":3,"draw":3,"loss":20,"for":40,"against":87},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":16,"draw":4,"loss":2,"for":60,"against":32,"isChampion":true},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":16,"draw":4,"loss":2,"for":60,"against":32,"isChampion":true},
 	{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":10,"draw":7,"loss":5,"for":50,"against":31},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":10,"draw":7,"loss":5,"for":48,"against":31},
 	{"country":"irl","name":"St James's Gate","id":"St_James%27s_Gate_F.C.","win":10,"draw":3,"loss":9,"for":59,"against":48},

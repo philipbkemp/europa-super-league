@@ -210,7 +210,7 @@
 	{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":10,"draw":3,"loss":9,"for":41,"against":47},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":10,"draw":2,"loss":10,"for":54,"against":56},
 	{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":9,"draw":3,"loss":10,"for":53,"against":48,"isReturning":true},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":8,"draw":3,"loss":11,"for":46,"against":55},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":8,"draw":3,"loss":11,"for":46,"against":55},
 	{"country":"irl","name":"Dolphin","id":"Dolphin_F.C._(Ireland)","win":7,"draw":4,"loss":11,"for":33,"against":59,"isRemoved":true},
 	{"country":"irl","name":"Cork","id":"Cork_F.C.","win":7,"draw":3,"loss":12,"for":51,"against":60},
 	{"country":"irl","name":"Brideville","id":"Brideville_F.C.","win":6,"draw":3,"loss":13,"for":32,"against":51},

@@ -191,7 +191,7 @@
 	{"country":"nir","name":"Larne","id":"Larne_F.C.","win":4,"draw":5,"loss":17,"for":37,"against":74},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":11,"draw":5,"loss":2,"for":38,"against":23,"isChampion":true},
 	{"country":"irl","name":"Cork","id":"Cork_F.C.","win":11,"draw":4,"loss":3,"for":47,"against":26},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":9,"draw":4,"loss":5,"for":28,"against":23},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":9,"draw":4,"loss":5,"for":28,"against":23},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":9,"draw":3,"loss":6,"for":33,"against":25},
 	{"country":"irl","name":"Dolphin","id":"Dolphin_F.C._(Ireland)","win":7,"draw":3,"loss":8,"for":23,"against":21},
 	{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":6,"draw":5,"loss":7,"for":22,"against":25,"isRemoved":true},

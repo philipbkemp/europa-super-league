@@ -220,7 +220,7 @@
 	{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":12,"draw":5,"loss":1,"for":34,"against":23,"isChampion":true},
 	{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":9,"draw":5,"loss":4,"for":39,"against":23},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":9,"draw":5,"loss":4,"for":33,"against":24},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":6,"draw":8,"loss":4,"for":33,"against":25},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":6,"draw":8,"loss":4,"for":33,"against":25},
 	{"country":"irl","name":"Transport","id":"Transport_F.C.","win":5,"draw":8,"loss":5,"for":35,"against":41,"isNew":true},
 	{"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":6,"draw":5,"loss":7,"for":27,"against":35},
 	{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":7,"draw":1,"loss":10,"for":39,"against":34},

@@ -210,7 +210,7 @@
 	{"country":"nir","name":"Derry City","id":"Derry_City_F.C.","win":5,"draw":3,"loss":14,"for":36,"against":50},
 	{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":5,"draw":2,"loss":15,"for":34,"against":60},
 	{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":3,"draw":2,"loss":17,"for":26,"against":67},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":11,"draw":8,"loss":3,"for":44,"against":20,"isChampion":true},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":11,"draw":8,"loss":3,"for":44,"against":20,"isChampion":true},
 	{"country":"irl","name":"Evergreen United","id":"Cork_Celtic_F.C.","win":11,"draw":6,"loss":5,"for":44,"against":29},
 	{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":10,"draw":7,"loss":5,"for":37,"against":25},
 	{"country":"irl","name":"Cork Athletic","id":"Cork_Athletic_F.C.","win":11,"draw":3,"loss":8,"for":40,"against":46},

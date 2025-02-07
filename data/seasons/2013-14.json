@@ -275,7 +275,7 @@
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":21,"draw":5,"loss":7,"for":55,"against":30},
 	{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":19,"draw":9,"loss":5,"for":53,"against":22},
 	{"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":17,"draw":5,"loss":11,"for":57,"against":39},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":13,"draw":13,"loss":7,"for":43,"against":28},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":13,"draw":13,"loss":7,"for":43,"against":28},
 	{"country":"irl","name":"Cork City","id":"Cork_City_F.C.","win":13,"draw":7,"loss":13,"for":47,"against":50},
 	{"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":11,"draw":9,"loss":13,"for":38,"against":46,"isReturning":true},
 	{"country":"irl","name":"Drogheda United","id":"Drogheda_United_F.C.","win":8,"draw":14,"loss":11,"for":44,"against":46},

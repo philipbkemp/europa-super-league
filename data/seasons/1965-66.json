@@ -260,7 +260,7 @@
 	{"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":5,"draw":4,"loss":13,"for":26,"against":59},
 	{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":1,"draw":4,"loss":17,"for":23,"against":96},
 	{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":16,"draw":4,"loss":2,"for":53,"against":26,"isChampion":true},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":15,"draw":4,"loss":3,"for":59,"against":23},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":15,"draw":4,"loss":3,"for":59,"against":23},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":13,"draw":1,"loss":8,"for":46,"against":30},
 	{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":10,"draw":5,"loss":7,"for":37,"against":30},
 	{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":8,"draw":7,"loss":7,"for":26,"against":26},

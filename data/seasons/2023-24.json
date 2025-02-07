@@ -271,7 +271,7 @@
 	{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":11,"draw":4,"loss":23,"for":45,"against":70},
 	{"country":"nir","name":"Ballymena United","id":"Ballymena_United_F.C.","win":8,"draw":4,"loss":26,"for":29,"against":70},
 	{"country":"nir","name":"Newry City","id":"Newry_City_A.F.C.","win":4,"draw":5,"loss":29,"for":26,"against":99,"isRemoved":true},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":20,"draw":12,"loss":4,"for":67,"against":27,"isChampion":true},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":20,"draw":12,"loss":4,"for":67,"against":27,"isChampion":true},
 	{"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":18,"draw":11,"loss":7,"for":57,"against":24},
 	{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":19,"draw":5,"loss":12,"for":59,"against":42},
 	{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":15,"draw":15,"loss":6,"for":44,"against":27},

@@ -239,7 +239,7 @@
 	{"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":6,"draw":2,"loss":14,"for":30,"against":47},
 	{"country":"nir","name":"Derry City","id":"Derry_City_F.C.","win":6,"draw":2,"loss":14,"for":27,"against":55},
 	{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":2,"draw":1,"loss":19,"for":20,"against":92},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":15,"draw":4,"loss":3,"for":58,"against":29,"isChampion":true},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":15,"draw":4,"loss":3,"for":58,"against":29,"isChampion":true},
 	{"country":"irl","name":"Evergreen United","id":"Cork_Celtic_F.C.","win":13,"draw":3,"loss":6,"for":49,"against":27},
 	{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":14,"draw":1,"loss":7,"for":58,"against":36},
 	{"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":11,"draw":5,"loss":6,"for":48,"against":31},

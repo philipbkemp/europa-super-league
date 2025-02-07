@@ -271,7 +271,7 @@
 	{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":18,"draw":7,"loss":8,"for":54,"against":29},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":16,"draw":10,"loss":7,"for":35,"against":17},
 	{"country":"irl","name":"Cork City","id":"Cork_City_F.C.","win":15,"draw":10,"loss":8,"for":44,"against":32},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":14,"draw":9,"loss":10,"for":36,"against":26,"isReturning":true},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":14,"draw":9,"loss":10,"for":36,"against":26,"isReturning":true},
 	{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":12,"draw":5,"loss":16,"for":34,"against":45},
 	{"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":8,"draw":13,"loss":12,"for":30,"against":31},
 	{"country":"irl","name":"Galway United","id":"Galway_United_F.C.","win":7,"draw":14,"loss":12,"for":28,"against":35,"isReturning":true},

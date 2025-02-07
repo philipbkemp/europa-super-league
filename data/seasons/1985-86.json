@@ -274,7 +274,7 @@
 	{"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":6,"draw":6,"loss":14,"for":31,"against":45},
 	{"country":"nir","name":"Newry Town","id":"Newry_City_F.C.","win":6,"draw":5,"loss":15,"for":28,"against":59},
 	{"country":"nir","name":"Carrick Rangers","id":"Carrick_Rangers_F.C.","win":2,"draw":6,"loss":18,"for":12,"against":58},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":15,"draw":3,"loss":4,"for":44,"against":17,"isChampion":true},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":15,"draw":3,"loss":4,"for":44,"against":17,"isChampion":true},
 	{"country":"irl","name":"Galway United","id":"Galway_United_F.C.","win":12,"draw":7,"loss":3,"for":42,"against":19},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":12,"draw":6,"loss":4,"for":35,"against":16},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":8,"draw":11,"loss":3,"for":27,"against":22},

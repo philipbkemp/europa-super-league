@@ -277,7 +277,7 @@
 	{"country":"nir","name":"Newry Town","id":"Newry_City_F.C.","win":7,"draw":6,"loss":13,"for":39,"against":57},
 	{"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":5,"draw":9,"loss":12,"for":24,"against":39},
 	{"country":"nir","name":"Carrick Rangers","id":"Carrick_Rangers_F.C.","win":3,"draw":6,"loss":17,"for":24,"against":62},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":22,"draw":5,"loss":3,"for":63,"against":21,"isChampion":true},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":22,"draw":5,"loss":3,"for":63,"against":21,"isChampion":true},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":19,"draw":5,"loss":6,"for":57,"against":29},
 	{"country":"irl","name":"Athlone Town","id":"Athlone_Town_A.F.C.","win":17,"draw":6,"loss":7,"for":54,"against":28},
 	{"country":"irl","name":"University College Dublin","id":"University_College_Dublin_A.F.C.","win":12,"draw":14,"loss":4,"for":41,"against":26},

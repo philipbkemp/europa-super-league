@@ -240,7 +240,7 @@
 	{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":7,"draw":1,"loss":14,"for":38,"against":57},
 	{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":2,"draw":2,"loss":18,"for":35,"against":86},
 	{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":15,"draw":3,"loss":4,"for":51,"against":23,"isChampion":true},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":15,"draw":1,"loss":6,"for":55,"against":26},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":15,"draw":1,"loss":6,"for":55,"against":26},
 	{"country":"irl","name":"Evergreen United","id":"Cork_Celtic_F.C.","win":13,"draw":3,"loss":6,"for":53,"against":30},
 	{"country":"irl","name":"St Patrick's Athletic","id":"St_Patrick%27s_Athletic_F.C.","win":10,"draw":6,"loss":6,"for":45,"against":32},
 	{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":11,"draw":3,"loss":8,"for":41,"against":29},

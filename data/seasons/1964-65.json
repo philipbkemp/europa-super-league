@@ -249,7 +249,7 @@
 	{"country":"nir","name":"Ards","id":"Ards_F.C.","win":5,"draw":6,"loss":11,"for":34,"against":55},
 	{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":1,"draw":0,"loss":21,"for":17,"against":100},
 	{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":14,"draw":4,"loss":4,"for":35,"against":22,"isChampion":true},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":14,"draw":3,"loss":5,"for":40,"against":22},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":14,"draw":3,"loss":5,"for":40,"against":22},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":10,"draw":7,"loss":5,"for":38,"against":24},
 	{"country":"irl","name":"Cork Hibernians","id":"Cork_Hibernians_F.C.","win":11,"draw":5,"loss":6,"for":41,"against":29},
 	{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":10,"draw":5,"loss":7,"for":30,"against":31},

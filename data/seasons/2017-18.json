@@ -265,7 +265,7 @@
 	{"country":"nir","name":"Ballinamallard United","id":"Ballinamallard_United_F.C.","win":5,"draw":8,"loss":25,"for":38,"against":89,"isRemoved":true},
 	{"country":"irl","name":"Cork City","id":"Cork_City_F.C.","win":24,"draw":4,"loss":5,"for":67,"against":23,"isChampion":true},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":22,"draw":3,"loss":8,"for":72,"against":24},
-	{"country":"irl","name":"Shamrock Rovers","id":"Shamrock_Rovers_F.C.","win":17,"draw":3,"loss":13,"for":49,"against":41},
+	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":17,"draw":3,"loss":13,"for":49,"against":41},
 	{"country":"irl","name":"Derry City","id":"Derry_City_F.C.","win":14,"draw":9,"loss":10,"for":49,"against":40},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":14,"draw":5,"loss":14,"for":36,"against":40},
 	{"country":"irl","name":"Bray Wanderers","id":"Bray_Wanderers_F.C.","win":13,"draw":7,"loss":13,"for":55,"against":52},
