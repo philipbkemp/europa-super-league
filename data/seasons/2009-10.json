@@ -160,7 +160,7 @@
 	{"country":"mlt","name":"Hibernians","id":"hibernians_fc","win":8,"draw":6,"loss":14,"for":40,"against":51},
 	{"country":"mlt","name":"Tarxien Rainbows","id":"Tarxien_Rainbows_F.C.","win":10,"draw":6,"loss":12,"for":41,"against":50},
 	{"country":"mlt","name":"Floriana","id":"floriana_fc","win":10,"draw":6,"loss":8,"for":35,"against":41},
-	{"country":"mlt","name":"Ħamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":10,"draw":4,"loss":10,"for":41,"against":39},
+	{"country":"mlt","name":"Ħamrun Spartans","id":"hamrun_spartans_fc","win":10,"draw":4,"loss":10,"for":41,"against":39},
 	{"country":"mlt","name":"Msida Saint-Joseph","id":"Msida_Saint-Joseph_F.C.","win":4,"draw":4,"loss":16,"for":24,"against":51,"isRemoved":true,"deduct":-10,"deductReason":"Failing to pay former players"},
 	{"country":"mlt","name":"Dingli Swallows","id":"Dingli_Swallows_F.C.","win":2,"draw":0,"loss":22,"for":23,"against":71,"isRemoved":true,"isNew":true},
 	{"country":"rou","name":"CFR Cluj","id":"CFR_Cluj","win":20,"draw":9,"loss":5,"for":46,"against":23,"isChampion":true},

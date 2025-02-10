@@ -357,7 +357,7 @@ THEDATA = [
 	{"country":"mlt","name":"Birkirkara","id":"Birkirkara_F.C.","win":12,"draw":5,"loss":4,"for":32,"against":19,"isCurrentSeason":true},
 	{"country":"mlt","name":"Sliema Wanderers","id":"sliema_wanderers_fc","win":11,"draw":6,"loss":4,"for":34,"against":16,"isCurrentSeason":true},
 	{"country":"mlt","name":"Hibernians","id":"hibernians_fc","win":11,"draw":4,"loss":6,"for":31,"against":25,"isCurrentSeason":true},
-	{"country":"mlt","name":"Ħamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":10,"draw":5,"loss":6,"for":37,"against":21,"isCurrentSeason":true},
+	{"country":"mlt","name":"Ħamrun Spartans","id":"hamrun_spartans_fc","win":10,"draw":5,"loss":6,"for":37,"against":21,"isCurrentSeason":true},
 	{"country":"mlt","name":"Mosta","id":"Mosta_F.C.","win":8,"draw":1,"loss":12,"for":24,"against":32,"isCurrentSeason":true},
 	{"country":"mlt","name":"Gżira United","id":"Gżira_United_F.C.","win":7,"draw":6,"loss":8,"for":26,"against":29,"isCurrentSeason":true},
 	{"country":"mlt","name":"Marsaxlokk","id":"Marsaxlokk_F.C.","win":7,"draw":7,"loss":7,"for":30,"against":31,"isCurrentSeason":true},

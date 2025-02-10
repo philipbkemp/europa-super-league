@@ -163,7 +163,7 @@
 	{"country":"mlt","name":"Hibernians F.C.","id":"hibernians_fc","win":11,"draw":4,"loss":3,"for":39,"against":14,"isRemoved":true,"removedNote":"Malta switched to a grouped format for new season"},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":8,"draw":8,"loss":2,"for":28,"against":14,"isRemoved":true,"removedNote":"Malta switched to a grouped format for new season"},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":9,"draw":6,"loss":3,"for":34,"against":13,"deduct":-1,"isRemoved":true,"removedNote":"Malta switched to a grouped format for new season"},
-	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":7,"draw":7,"loss":4,"for":27,"against":13,"bonusPts":1,"isRemoved":true,"removedNote":"Malta switched to a grouped format for new season"},
+	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"hamrun_spartans_fc","win":7,"draw":7,"loss":4,"for":27,"against":13,"bonusPts":1,"isRemoved":true,"removedNote":"Malta switched to a grouped format for new season"},
 	{"country":"mlt","name":"Msida Saint-Joseph F.C.","id":"Msida_Saint-Joseph_F.C.","win":5,"draw":7,"loss":6,"for":19,"against":34,"isRemoved":true,"removedNote":"Malta switched to a grouped format for new season"},
 	{"country":"mlt","name":"Marsa F.C.","id":"Marsa_F.C.","win":5,"draw":5,"loss":8,"for":20,"against":27,"isReturning":true,"isRemoved":true,"removedNote":"Malta switched to a grouped format for new season"},
 	{"country":"mlt","name":"St. George's F.C.","id":"St._George%27s_F.C.","win":3,"draw":7,"loss":8,"for":17,"against":31,"isRemoved":true,"removedNote":"Malta switched to a grouped format for new season"},

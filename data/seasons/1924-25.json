@@ -81,7 +81,7 @@
 	{"country":"mlt","name":"Valletta Rovers","id":"valletta_rovers","win":2,"draw":2,"loss":3,"for":8,"against":6,"isNew":true},
 	{"country":"mlt","name":"Vittoriosa Rovers","id":"Vittoriosa_Stars_F.C.","win":3,"draw":0,"loss":3,"for":6,"against":8,"isRemoved":true},
 	{"country":"mlt","name":"Sliema Rangers","id":"sliema_rangers","win":1,"draw":2,"loss":3,"for":7,"against":12},
-	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":1,"draw":1,"loss":5,"for":3,"against":18,"isReturning":true,"isRemoved":true},
+	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"hamrun_spartans_fc","win":1,"draw":1,"loss":5,"for":3,"against":18,"isReturning":true,"isRemoved":true},
 	{"country":"mlt","name":"Msida Rovers","id":"Msida_Saint-Joseph_F.C.","win":0,"draw":1,"loss":5,"for":2,"against":15},
 	{"country":"swe","name":"GAIS","id":"GAIS","win":17,"draw":4,"loss":1,"for":63,"against":16,"isChampion":true,"isReturning":true},
 	{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":16,"draw":4,"loss":2,"for":87,"against":30,"isReturning":true},

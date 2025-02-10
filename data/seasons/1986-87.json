@@ -159,7 +159,7 @@
 	{"country":"lux","name":"FC Swift Hesperange","id":"FC_Swift_Hesperange","win":6,"draw":3,"loss":13,"for":37,"against":51},
 	{"country":"lux","name":"FC Wiltz 71","id":"FC_Wiltz_71","win":3,"draw":4,"loss":15,"for":24,"against":57,"isReturning":true,"isRemoved":true},
 	{"country":"lux","name":"CS Pétange","id":"CS_Pétange","win":2,"draw":6,"loss":14,"for":17,"against":57,"isReturning":true,"isRemoved":true},
-	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":11,"draw":3,"loss":0,"for":25,"against":6,"isChampion":true},
+	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"hamrun_spartans_fc","win":11,"draw":3,"loss":0,"for":25,"against":6,"isChampion":true},
 	{"country":"mlt","name":"Valletta F.C.","id":"valletta_fc","win":4,"draw":8,"loss":2,"for":17,"against":12},
 	{"country":"mlt","name":"Żurrieq F.C.","id":"Żurrieq_F.C.","win":7,"draw":2,"loss":5,"for":24,"against":11},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":5,"draw":4,"loss":5,"for":12,"against":16},

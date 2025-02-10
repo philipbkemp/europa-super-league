@@ -160,7 +160,7 @@
 	{"country":"mlt","name":"Gżira United","id":"Gżira_United_F.C.","win":10,"draw":7,"loss":16,"for":43,"against":51,"isReturning":true},
 	{"country":"mlt","name":"St. Andrews","id":"St._Andrews_F.C._(Malta)","win":9,"draw":10,"loss":14,"for":45,"against":51},
 	{"country":"mlt","name":"Tarxien Rainbows","id":"Tarxien_Rainbows_F.C.","win":8,"draw":11,"loss":14,"for":38,"against":48},
-	{"country":"mlt","name":"Hamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":9,"draw":6,"loss":18,"for":44,"against":61,"isReturning":true},
+	{"country":"mlt","name":"Hamrun Spartans","id":"hamrun_spartans_fc","win":9,"draw":6,"loss":18,"for":44,"against":61,"isReturning":true},
 	{"country":"mlt","name":"Mosta","id":"Mosta_F.C.","win":7,"draw":5,"loss":21,"for":29,"against":71,"deduct":-5,"deductReason":"Making illegal payments to amateur player"},
 	{"country":"mlt","name":"Pembroke Athleta","id":"Pembroke_Athleta_F.C.","win":4,"draw":6,"loss":23,"for":28,"against":84,"isRemoved":true},
 	{"country":"rou","name":"Viitorul Constanța","id":"FC_Viitorul_Constanța","win":21,"draw":6,"loss":9,"for":51,"against":30,"isChampion":true},

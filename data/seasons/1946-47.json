@@ -128,7 +128,7 @@
 	{"country":"lux","name":"Racing Rodange","id":"FC_Racing","win":5,"draw":5,"loss":12,"for":33,"against":41,"isNew":true,"isRemoved":true},
 	{"country":"lux","name":"Chiers Rodange","id":"FC_Chiers","win":5,"draw":3,"loss":14,"for":29,"against":55,"isRemoved":true},
 	{"country":"lux","name":"CS Pétange","id":"CS_Pétange","win":5,"draw":2,"loss":15,"for":26,"against":65,"isRemoved":true},
-	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":10,"draw":1,"loss":3,"for":29,"against":13,"isChampion":true,"isReturning":true},
+	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"hamrun_spartans_fc","win":10,"draw":1,"loss":3,"for":29,"against":13,"isChampion":true,"isReturning":true},
 	{"country":"mlt","name":"Valletta F.C.","id":"valletta_fc","win":8,"draw":4,"loss":2,"for":30,"against":18},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":7,"draw":3,"loss":4,"for":30,"against":17},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":6,"draw":2,"loss":6,"for":30,"against":25},

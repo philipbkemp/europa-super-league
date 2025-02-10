@@ -162,7 +162,7 @@
 	{"country":"mlt","name":"Qormi","id":"Qormi_F.C.","win":15,"draw":2,"loss":15,"for":54,"against":48},
 	{"country":"mlt","name":"Mosta","id":"Mosta_F.C.","win":10,"draw":8,"loss":14,"for":45,"against":47,"isReturning":true},
 	{"country":"mlt","name":"Mqabba","id":"Mqabba_F.C.","win":9,"draw":7,"loss":16,"for":40,"against":55,"isRemoved":true,"isReturning":true},
-	{"country":"mlt","name":"Hamrun Spartans","id":"Ħamrun_Spartans_F.C.","win":9,"draw":7,"loss":16,"for":47,"against":71},
+	{"country":"mlt","name":"Hamrun Spartans","id":"hamrun_spartans_fc","win":9,"draw":7,"loss":16,"for":47,"against":71},
 	{"country":"mlt","name":"Tarxien Rainbows","id":"Tarxien_Rainbows_F.C.","win":11,"draw":3,"loss":18,"for":45,"against":54},
 	{"country":"mlt","name":"Marsaxlokk","id":"Marsaxlokk_F.C.","win":5,"draw":2,"loss":25,"for":34,"against":88,"isRemoved":true,"deduct":-9},
 	{"country":"rou","name":"CFR Cluj","id":"CFR_Cluj","win":21,"draw":8,"loss":5,"for":63,"against":31,"isChampion":true},

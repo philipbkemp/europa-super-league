@@ -170,7 +170,7 @@
 	{"country":"mlt","name":"Gzira United","id":"Gżira_United_F.C.","win":5,"draw":5,"loss":8,"for":16,"against":23},
 	{"country":"mlt","name":"Birkirkara F.C.","id":"Birkirkara_F.C.","win":3,"draw":8,"loss":7,"for":12,"against":19},
 	{"country":"mlt","name":"Qormi F.C.","id":"Qormi_F.C.","win":5,"draw":4,"loss":9,"for":10,"against":23,"isRemoved":true,"isReturning":true},
-	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":2,"draw":9,"loss":7,"for":11,"against":22,"isRemoved":true},
+	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"hamrun_spartans_fc","win":2,"draw":9,"loss":7,"for":11,"against":22,"isRemoved":true},
 	{"country":"rou","name":"Universitatea Craiova","id":"CS_Universitatea_Craiova","win":20,"draw":5,"loss":9,"for":63,"against":37,"isChampion":true},
 	{"country":"rou","name":"Dinamo București","id":"FC_Dinamo_București","win":18,"draw":8,"loss":8,"for":60,"against":34},
 	{"country":"rou","name":"Steagul Roşu Brașov","id":"FC_Brașov_(1936)","win":15,"draw":9,"loss":10,"for":36,"against":25},

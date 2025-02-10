@@ -122,7 +122,7 @@
 	{"country":"lux","name":"SC Tétange","id":"SC_Tétange","win":5,"draw":6,"loss":7,"for":29,"against":31},
 	{"country":"lux","name":"Racing Rodange","id":"FC_Racing","win":1,"draw":6,"loss":11,"for":23,"against":46},
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":11,"draw":2,"loss":1,"for":48,"against":12,"isChampion":true},
-	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"Ħamrun_Spartans_F.C.","win":9,"draw":2,"loss":3,"for":32,"against":16},
+	{"country":"mlt","name":"Hamrun Spartans F.C.","id":"hamrun_spartans_fc","win":9,"draw":2,"loss":3,"for":32,"against":16},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":7,"draw":5,"loss":2,"for":27,"against":15},
 	{"country":"mlt","name":"Valletta F.C.","id":"valletta_fc","win":7,"draw":2,"loss":5,"for":34,"against":19},
 	{"country":"mlt","name":"Hibernians F.C.","id":"hibernians_fc","win":5,"draw":5,"loss":4,"for":33,"against":22,"deduct":-2},
