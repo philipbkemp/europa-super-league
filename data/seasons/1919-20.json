@@ -27,7 +27,7 @@
 	{"country":"eir","name":"Shelbourne","id":"Shelbourne_F.C.","win":3,"draw":7,"loss":4,"for":16,"against":21,"isRemoved":true,"isReturning":true},
 	{"country":"eir","name":"Linfield","id":"linfield_fc","win":4,"draw":4,"loss":6,"for":8,"against":11,"isReturning":true},
 	{"country":"eir","name":"Glenavon","id":"Glenavon_F.C.","win":3,"draw":4,"loss":7,"for":21,"against":28,"isReturning":true},
-	{"country":"eir","name":"Cliftonville","id":"Cliftonville_F.C.","win":2,"draw":5,"loss":7,"for":11,"against":22,"isReturning":true},
+	{"country":"eir","name":"Cliftonville","id":"cliftonville_fc","win":2,"draw":5,"loss":7,"for":11,"against":22,"isReturning":true},
 	{"country":"eir","name":"Bohemians","id":"Bohemian_F.C.","win":2,"draw":2,"loss":10,"for":7,"against":38,"isRemoved":true,"isReturning":true},
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":31,"draw":9,"loss":2,"for":106,"against":25,"isChampion":true},
 	{"country":"sco","name":"Celtic","id":"celtic_fc","win":29,"draw":10,"loss":3,"for":89,"against":31},

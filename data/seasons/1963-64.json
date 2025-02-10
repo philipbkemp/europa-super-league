@@ -260,7 +260,7 @@
 	{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":8,"draw":2,"loss":12,"for":40,"against":41},
 	{"country":"nir","name":"Ards","id":"Ards_F.C.","win":7,"draw":3,"loss":12,"for":45,"against":58},
 	{"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":2,"draw":2,"loss":18,"for":26,"against":76},
-	{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":2,"draw":2,"loss":18,"for":24,"against":80},
+	{"country":"nir","name":"Cliftonville","id":"cliftonville_fc","win":2,"draw":2,"loss":18,"for":24,"against":80},
 	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":14,"draw":7,"loss":1,"for":68,"against":27,"isChampion":true},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":12,"draw":6,"loss":4,"for":49,"against":27},
 	{"country":"irl","name":"Limerick","id":"Limerick_F.C.","win":12,"draw":6,"loss":4,"for":46,"against":32},

@@ -25,7 +25,7 @@
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":7,"draw":1,"loss":6,"for":23,"against":16,"isRemoved":true,"removedNote":"League suspended due to WW1"},
 	{"country":"eir","name":"Shelbourne","id":"Shelbourne_F.C.","win":6,"draw":3,"loss":5,"for":17,"against":12,"isRemoved":true,"removedNote":"League suspended due to WW1"},
 	{"country":"eir","name":"Glenavon","id":"Glenavon_F.C.","win":3,"draw":5,"loss":6,"for":24,"against":28,"isRemoved":true,"removedNote":"League suspended due to WW1"},
-	{"country":"eir","name":"Cliftonville","id":"Cliftonville_F.C.","win":4,"draw":1,"loss":9,"for":13,"against":29,"isRemoved":true,"removedNote":"League suspended due to WW1"},
+	{"country":"eir","name":"Cliftonville","id":"cliftonville_fc","win":4,"draw":1,"loss":9,"for":13,"against":29,"isRemoved":true,"removedNote":"League suspended due to WW1"},
 	{"country":"eir","name":"Bohemians","id":"Bohemian_F.C.","win":0,"draw":1,"loss":13,"for":10,"against":45,"isRemoved":true,"removedNote":"League suspended due to WW1"},
 	{"country":"sco","name":"Celtic","id":"celtic_fc","win":30,"draw":5,"loss":3,"for":91,"against":25,"isChampion":true},
 	{"country":"sco","name":"Heart of Midlothian","id":"heart_of_midlothian_fc","win":27,"draw":7,"loss":4,"for":83,"against":32},

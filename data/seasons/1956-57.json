@@ -224,7 +224,7 @@
 	{"country":"nir","name":"Crusaders","id":"Crusaders_F.C.","win":8,"draw":2,"loss":12,"for":37,"against":47},
 	{"country":"nir","name":"Portadown","id":"Portadown_F.C.","win":5,"draw":6,"loss":11,"for":47,"against":66},
 	{"country":"nir","name":"Ballymena United","id":"Ballymena_United_F.C.","win":3,"draw":3,"loss":16,"for":35,"against":72},
-	{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":2,"draw":2,"loss":18,"for":31,"against":79},
+	{"country":"nir","name":"Cliftonville","id":"cliftonville_fc","win":2,"draw":2,"loss":18,"for":31,"against":79},
 	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":15,"draw":6,"loss":1,"for":68,"against":24,"isChampion":true},
 	{"country":"irl","name":"Drumcondra","id":"Drumcondra_F.C.","win":11,"draw":9,"loss":2,"for":49,"against":28},
 	{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":11,"draw":7,"loss":4,"for":42,"against":29},

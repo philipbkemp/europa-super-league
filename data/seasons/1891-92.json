@@ -22,7 +22,7 @@
 	{"country":"eir","name":"Lancashire Fusiliers","id":"Lancashire_Fusiliers_F.C.","win":11,"draw":2,"loss":3,"for":56,"against":29,"isNew":true,"isRemoved":true},
 	{"country":"eir","name":"Ulster","id":"Ulster_F.C.","win":12,"draw":0,"loss":4,"for":61,"against":34},
 	{"country":"eir","name":"Glentoran","id":"Glentoran_F.C.","win":9,"draw":3,"loss":4,"for":81,"against":41},
-	{"country":"eir","name":"Cliftonville","id":"Cliftonville_F.C.","win":5,"draw":4,"loss":7,"for":31,"against":39},
+	{"country":"eir","name":"Cliftonville","id":"cliftonville_fc","win":5,"draw":4,"loss":7,"for":31,"against":39},
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":7,"draw":0,"loss":3,"for":40,"against":17,"deduct":-2},
 	{"country":"eir","name":"Milltown","id":"Milltown_F.C.","win":4,"draw":0,"loss":12,"for":12,"against":77,"isRemoved":true,"removedNote":"Withdrew","isNew":true},
 	{"country":"eir","name":"Ligoniel","id":"Ligoniel_F.C.","win":3,"draw":1,"loss":12,"for":24,"against":72,"isRemoved":true,"removedNote":"Withdrew","isNew":true},

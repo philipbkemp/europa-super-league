@@ -243,7 +243,7 @@
 	{"country":"nir","name":"Glenavon","id":"Glenavon_F.C.","win":9,"draw":5,"loss":8,"for":44,"against":31},
 	{"country":"nir","name":"Derry City","id":"Derry_City_F.C.","win":8,"draw":5,"loss":9,"for":34,"against":38},
 	{"country":"nir","name":"Ards","id":"Ards_F.C.","win":5,"draw":3,"loss":14,"for":30,"against":54},
-	{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":2,"draw":5,"loss":15,"for":24,"against":56},
+	{"country":"nir","name":"Cliftonville","id":"cliftonville_fc","win":2,"draw":5,"loss":15,"for":24,"against":56},
 	{"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":2,"draw":5,"loss":15,"for":22,"against":65},
 	{"country":"irl","name":"Dundalk","id":"Dundalk_F.C.","win":9,"draw":6,"loss":3,"for":39,"against":23,"isChampion":true},
 	{"country":"irl","name":"Waterford","id":"Waterford_F.C.","win":10,"draw":3,"loss":5,"for":50,"against":37},

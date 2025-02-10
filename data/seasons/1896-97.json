@@ -21,7 +21,7 @@
 	{"country":"dnk","name":"Østerbros Boldklub","id":"Østerbros_Boldklub","win":1,"draw":0,"loss":2,"for":6,"against":14,"isNew":true},
 	{"country":"dnk","name":"Boldklubben Frem","id":"boldklubben_frem","win":0,"draw":0,"loss":4,"for":5,"against":17,"isReturning":true},
 	{"country":"eir","name":"Glentoran","id":"Glentoran_F.C.","win":8,"draw":1,"loss":1,"for":24,"against":10,"isChampion":true},
-	{"country":"eir","name":"Cliftonville","id":"Cliftonville_F.C.","win":4,"draw":3,"loss":3,"for":22,"against":20},
+	{"country":"eir","name":"Cliftonville","id":"cliftonville_fc","win":4,"draw":3,"loss":3,"for":22,"against":20},
 	{"country":"eir","name":"Linfield","id":"linfield_fc","win":4,"draw":3,"loss":3,"for":34,"against":24},
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":3,"draw":3,"loss":4,"for":17,"against":23},
 	{"country":"eir","name":"North Staffordshire Regiment","id":"North_Staffordshire_Regiment_F.C.","win":2,"draw":4,"loss":4,"for":17,"against":23,"isNew":true},

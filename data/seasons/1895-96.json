@@ -19,7 +19,7 @@
 	{"country":"dnk","name":"Kjøbenhavns Boldklub","id":"kjobenhavns_boldklub","win":1,"draw":0,"loss":1,"for":2,"against":5},
 	{"country":"dnk","name":"Cricketklubben af 1893","id":"Boldklubben_af_1893","win":0,"draw":0,"loss":2,"for":0,"against":4,"isNew":true},
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":3,"draw":2,"loss":1,"for":17,"against":12,"isChampion":true},
-	{"country":"eir","name":"Cliftonville","id":"Cliftonville_F.C.","win":3,"draw":2,"loss":1,"for":14,"against":9},
+	{"country":"eir","name":"Cliftonville","id":"cliftonville_fc","win":3,"draw":2,"loss":1,"for":14,"against":9},
 	{"country":"eir","name":"Linfield","id":"linfield_fc","win":2,"draw":1,"loss":3,"for":10,"against":14},
 	{"country":"eir","name":"Glentoran","id":"Glentoran_F.C.","win":1,"draw":1,"loss":4,"for":13,"against":19},
 	{"country":"sco","name":"Celtic","id":"celtic_fc","win":15,"draw":0,"loss":3,"for":64,"against":25,"isChampion":true},

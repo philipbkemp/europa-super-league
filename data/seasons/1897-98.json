@@ -22,7 +22,7 @@
 	{"country":"dnk","name":"Østerbros BK","id":"Østerbros_Boldklub","win":1,"draw":0,"loss":4,"for":1,"against":23},
 	{"country":"dnk","name":"Christianshavn BK","id":"Christianshavn_Boldklub","win":0,"draw":0,"loss":5,"for":0,"against":14,"isReturning":true,"isRemoved":true},
 	{"country":"eir","name":"Linfield","id":"linfield_fc","win":8,"draw":1,"loss":1,"for":22,"against":10,"isChampion":true},
-	{"country":"eir","name":"Cliftonville","id":"Cliftonville_F.C.","win":6,"draw":1,"loss":3,"for":23,"against":17},
+	{"country":"eir","name":"Cliftonville","id":"cliftonville_fc","win":6,"draw":1,"loss":3,"for":23,"against":17},
 	{"country":"eir","name":"Glentoran","id":"Glentoran_F.C.","win":6,"draw":1,"loss":3,"for":31,"against":12},
 	{"country":"eir","name":"Celtic","id":"Belfast_Celtic_F.C.","win":3,"draw":1,"loss":6,"for":15,"against":19},
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":2,"draw":1,"loss":7,"for":13,"against":28},

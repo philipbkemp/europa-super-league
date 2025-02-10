@@ -232,7 +232,7 @@
 	{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":7,"draw":4,"loss":11,"for":37,"against":39},
 	{"country":"nir","name":"Derry City","id":"Derry_City_F.C.","win":3,"draw":8,"loss":11,"for":22,"against":38},
 	{"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":5,"draw":3,"loss":14,"for":31,"against":56},
-	{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":0,"draw":5,"loss":17,"for":17,"against":73},
+	{"country":"nir","name":"Cliftonville","id":"cliftonville_fc","win":0,"draw":5,"loss":17,"for":17,"against":73},
 	{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":15,"draw":5,"loss":2,"for":55,"against":23,"isChampion":true},
 	{"country":"irl","name":"Cork Celtic","id":"Cork_Celtic_F.C.","win":16,"draw":3,"loss":3,"for":71,"against":24},
 	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":14,"draw":3,"loss":5,"for":51,"against":32},

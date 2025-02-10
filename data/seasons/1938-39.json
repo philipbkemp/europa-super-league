@@ -187,7 +187,7 @@
 	{"country":"nir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":9,"draw":4,"loss":13,"for":53,"against":56},
 	{"country":"nir","name":"Larne","id":"Larne_F.C.","win":8,"draw":4,"loss":14,"for":45,"against":73},
 	{"country":"nir","name":"Bangor","id":"Bangor_F.C.","win":6,"draw":7,"loss":13,"for":37,"against":71},
-	{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":5,"draw":2,"loss":19,"for":38,"against":81},
+	{"country":"nir","name":"Cliftonville","id":"cliftonville_fc","win":5,"draw":2,"loss":19,"for":38,"against":81},
 	{"country":"nir","name":"Coleraine","id":"Coleraine_F.C.","win":3,"draw":3,"loss":20,"for":40,"against":87},
 	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":16,"draw":4,"loss":2,"for":60,"against":32,"isChampion":true},
 	{"country":"irl","name":"Sligo Rovers","id":"Sligo_Rovers_F.C.","win":10,"draw":7,"loss":5,"for":50,"against":31},

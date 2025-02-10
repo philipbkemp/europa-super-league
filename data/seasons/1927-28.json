@@ -143,7 +143,7 @@
 	{"country":"nir","name":"Ards","id":"Ards_F.C.","win":8,"draw":5,"loss":13,"for":54,"against":69},
 	{"country":"nir","name":"Queen's Island","id":"Queen%27s_Island_F.C.","win":5,"draw":7,"loss":14,"for":46,"against":70},
 	{"country":"nir","name":"Barn","id":"Barn_F.C.","win":5,"draw":4,"loss":17,"for":38,"against":91,"isRemoved":true,"removedNote":"Withdrew"},
-	{"country":"nir","name":"Cliftonville","id":"Cliftonville_F.C.","win":5,"draw":3,"loss":18,"for":29,"against":72},
+	{"country":"nir","name":"Cliftonville","id":"cliftonville_fc","win":5,"draw":3,"loss":18,"for":29,"against":72},
 	{"country":"irl","name":"Bohemians","id":"Bohemian_F.C.","win":15,"draw":1,"loss":2,"for":53,"against":20,"isChampion":true},
 	{"country":"irl","name":"Shelbourne","id":"Shelbourne_F.C.","win":13,"draw":2,"loss":3,"for":67,"against":24},
 	{"country":"irl","name":"Shamrock Rovers","id":"shamrock_rovers_fc","win":9,"draw":7,"loss":2,"for":41,"against":18},

@@ -25,7 +25,7 @@
 	{"country":"eir","name":"Celtic","id":"Belfast_Celtic_F.C.","win":6,"draw":1,"loss":2,"for":19,"against":11,"isChampion":true},
 	{"country":"eir","name":"Linfield","id":"linfield_fc","win":4,"draw":4,"loss":1,"for":21,"against":10},
 	{"country":"eir","name":"Distillery","id":"Lisburn_Distillery_F.C.","win":4,"draw":4,"loss":2,"for":17,"against":13},
-	{"country":"eir","name":"Cliftonville","id":"Cliftonville_F.C.","win":3,"draw":4,"loss":3,"for":19,"against":22},
+	{"country":"eir","name":"Cliftonville","id":"cliftonville_fc","win":3,"draw":4,"loss":3,"for":19,"against":22},
 	{"country":"eir","name":"Royal Scots","id":"Royal_Scots_F.C.","win":2,"draw":1,"loss":4,"for":10,"against":17,"isRemoved":true,"isNew":true},
 	{"country":"eir","name":"Glentoran","id":"Glentoran_F.C.","win":0,"draw":2,"loss":7,"for":9,"against":22},
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":15,"draw":2,"loss":1,"for":69,"against":27,"isChampion":true},
