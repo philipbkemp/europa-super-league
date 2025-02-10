@@ -525,7 +525,7 @@
 	{"country":"deu","name":"1. FC Nürnberg","id":"1._FC_Nürnberg","win":11,"draw":15,"loss":8,"for":43,"against":32},
 	{"country":"deu","name":"Hamburger SV","id":"Hamburger_SV","win":10,"draw":15,"loss":9,"for":43,"against":37},
 	{"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":13,"draw":6,"loss":15,"for":49,"against":50,"isReturning":true},
-	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":12,"draw":8,"loss":14,"for":41,"against":43},
+	{"country":"deu","name":"Borussia Dortmund","id":"borussia_dortmund","win":12,"draw":8,"loss":14,"for":41,"against":43},
 	{"country":"deu","name":"Hertha BSC","id":"Hertha_BSC","win":12,"draw":8,"loss":14,"for":50,"against":55},
 	{"country":"deu","name":"Hannover 96","id":"Hannover_96","win":12,"draw":8,"loss":14,"for":41,"against":50},
 	{"country":"deu","name":"Arminia Bielefeld","id":"Arminia_Bielefeld","win":11,"draw":9,"loss":14,"for":47,"against":49},

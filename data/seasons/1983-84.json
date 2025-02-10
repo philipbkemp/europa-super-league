@@ -550,7 +550,7 @@
 	{"country":"wde","name":"Bayer 05 Uerdingen","id":"KFC_Uerdingen_05","win":12,"draw":7,"loss":15,"for":66,"against":79,"isReturning":true},
 	{"country":"wde","name":"Waldhof Mannheim","id":"SV_Waldhof_Mannheim","win":10,"draw":11,"loss":13,"for":45,"against":58,"isNew":true},
 	{"country":"wde","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":12,"draw":6,"loss":16,"for":68,"against":69},
-	{"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":11,"draw":8,"loss":15,"for":54,"against":65},
+	{"country":"wde","name":"Borussia Dortmund","id":"borussia_dortmund","win":11,"draw":8,"loss":15,"for":54,"against":65},
 	{"country":"wde","name":"Fortuna Düsseldorf","id":"Fortuna_Düsseldorf","win":11,"draw":7,"loss":16,"for":63,"against":75},
 	{"country":"wde","name":"VfL Bochum","id":"VfL_Bochum","win":10,"draw":8,"loss":16,"for":58,"against":70},
 	{"country":"wde","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":7,"draw":13,"loss":14,"for":45,"against":61},

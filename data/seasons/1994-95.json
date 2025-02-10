@@ -552,7 +552,7 @@
 	{"country":"hrv","name":"Primorac","id":"NK_Primorac_1929","win":7,"draw":10,"loss":13,"for":27,"against":49,"isRemoved":true,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
 	{"country":"hrv","name":"Neretva","id":"NK_Neretva","win":4,"draw":11,"loss":15,"for":20,"against":44,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
 	{"country":"hrv","name":"Belišće","id":"NK_Belišće","win":4,"draw":4,"loss":22,"for":26,"against":69,"isRemoved":true,"isRemoved":true,"removedNote":"Next season the league is split into groups"},
-	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":20,"draw":9,"loss":5,"for":67,"against":33,"isChampion":true},
+	{"country":"deu","name":"Borussia Dortmund","id":"borussia_dortmund","win":20,"draw":9,"loss":5,"for":67,"against":33,"isChampion":true},
 	{"country":"deu","name":"Werder Bremen","id":"SV_Werder_Bremen","win":20,"draw":8,"loss":6,"for":70,"against":39},
 	{"country":"deu","name":"SC Freiburg","id":"SC_Freiburg","win":20,"draw":6,"loss":8,"for":66,"against":44},
 	{"country":"deu","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":17,"draw":12,"loss":5,"for":58,"against":41},

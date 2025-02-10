@@ -517,7 +517,7 @@
 	{"country":"hrv","name":"Cibalia","id":"HNK_Cibalia","win":9,"draw":5,"loss":19,"for":29,"against":44,"isRemoved":true},
 	{"country":"hrv","name":"NK Zagreb","id":"NK_Zagreb","win":7,"draw":6,"loss":20,"for":28,"against":60,"isRemoved":true},
 	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":29,"draw":4,"loss":1,"for":98,"against":18,"isChampion":true},
-	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":19,"draw":9,"loss":6,"for":81,"against":42},
+	{"country":"deu","name":"Borussia Dortmund","id":"borussia_dortmund","win":19,"draw":9,"loss":6,"for":81,"against":42},
 	{"country":"deu","name":"Bayer Leverkusen","id":"bayer_04_leverkusen","win":19,"draw":8,"loss":7,"for":65,"against":39},
 	{"country":"deu","name":"Schalke 04","id":"FC_Schalke_04","win":16,"draw":7,"loss":11,"for":58,"against":50},
 	{"country":"deu","name":"SC Freiburg","id":"SC_Freiburg","win":14,"draw":9,"loss":11,"for":45,"against":40},

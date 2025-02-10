@@ -501,7 +501,7 @@
 	{"country":"hrv","name":"Istra 1961","id":"NK_Istra_1961","win":6,"draw":7,"loss":23,"for":31,"against":73},
 	{"country":"hrv","name":"Rudeš","id":"NK_Rudeš","win":3,"draw":5,"loss":28,"for":26,"against":80,"isRemoved":true},
 	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":24,"draw":6,"loss":4,"for":88,"against":32,"isChampion":true},
-	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":23,"draw":7,"loss":4,"for":81,"against":44},
+	{"country":"deu","name":"Borussia Dortmund","id":"borussia_dortmund","win":23,"draw":7,"loss":4,"for":81,"against":44},
 	{"country":"deu","name":"RB Leipzig","id":"RB_Leipzig","win":19,"draw":9,"loss":6,"for":63,"against":29},
 	{"country":"deu","name":"Bayer Leverkusen","id":"bayer_04_leverkusen","win":18,"draw":4,"loss":12,"for":69,"against":52},
 	{"country":"deu","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":16,"draw":7,"loss":11,"for":55,"against":42},

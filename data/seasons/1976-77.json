@@ -503,7 +503,7 @@
 	{"country":"wde","name":"1. FC Köln","id":"1._FC_Köln","win":17,"draw":6,"loss":11,"for":83,"against":61},
 	{"country":"wde","name":"Hamburger SV","id":"Hamburger_SV","win":14,"draw":10,"loss":10,"for":67,"against":56},
 	{"country":"wde","name":"Bayern Munich","id":"fc_bayern_munich","win":14,"draw":9,"loss":11,"for":74,"against":65},
-	{"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":12,"draw":10,"loss":12,"for":73,"against":64,"isReturning":true},
+	{"country":"wde","name":"Borussia Dortmund","id":"borussia_dortmund","win":12,"draw":10,"loss":12,"for":73,"against":64,"isReturning":true},
 	{"country":"wde","name":"MSV Duisburg","id":"MSV_Duisburg","win":11,"draw":12,"loss":11,"for":60,"against":51},
 	{"country":"wde","name":"Hertha BSC","id":"Hertha_BSC","win":13,"draw":8,"loss":13,"for":55,"against":54},
 	{"country":"wde","name":"Werder Bremen","id":"SV_Werder_Bremen","win":13,"draw":7,"loss":14,"for":51,"against":59},

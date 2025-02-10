@@ -489,7 +489,7 @@
 	{"country":"hrv","name":"RNK Split","id":"RNK_Split","win":3,"draw":9,"loss":24,"for":12,"against":52,"isRemoved":true},
 	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":25,"draw":7,"loss":2,"for":89,"against":22,"isChampion":true},
 	{"country":"deu","name":"RB Leipzig","id":"RB_Leipzig","win":20,"draw":7,"loss":7,"for":66,"against":39,"isNew":true},
-	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":18,"draw":10,"loss":6,"for":72,"against":40},
+	{"country":"deu","name":"Borussia Dortmund","id":"borussia_dortmund","win":18,"draw":10,"loss":6,"for":72,"against":40},
 	{"country":"deu","name":"1899 Hoffenheim","id":"TSG_1899_Hoffenheim","win":16,"draw":14,"loss":4,"for":64,"against":37},
 	{"country":"deu","name":"1. FC Köln","id":"1._FC_Köln","win":12,"draw":13,"loss":9,"for":51,"against":42},
 	{"country":"deu","name":"Hertha BSC","id":"Hertha_BSC","win":15,"draw":4,"loss":15,"for":43,"against":47},

@@ -541,7 +541,7 @@
 	{"country":"deu","name":"Werder Bremen","id":"SV_Werder_Bremen","win":14,"draw":8,"loss":12,"for":43,"against":47},
 	{"country":"deu","name":"MSV Duisburg","id":"MSV_Duisburg","win":11,"draw":11,"loss":12,"for":43,"against":44},
 	{"country":"deu","name":"Hamburger SV","id":"Hamburger_SV","win":11,"draw":11,"loss":12,"for":38,"against":46},
-	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":11,"draw":10,"loss":13,"for":57,"against":55},
+	{"country":"deu","name":"Borussia Dortmund","id":"borussia_dortmund","win":11,"draw":10,"loss":13,"for":57,"against":55},
 	{"country":"deu","name":"Hertha BSC","id":"Hertha_BSC","win":12,"draw":7,"loss":15,"for":41,"against":53,"isReturning":true},
 	{"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":11,"draw":8,"loss":15,"for":41,"against":49},
 	{"country":"deu","name":"1860 Munich","id":"TSV_1860_Munich","win":11,"draw":8,"loss":15,"for":43,"against":54},

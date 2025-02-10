@@ -545,7 +545,7 @@
 	{"country":"wde","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":17,"draw":10,"loss":7,"for":60,"against":37},
 	{"country":"wde","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":13,"draw":12,"loss":9,"for":61,"against":57},
 	{"country":"wde","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":15,"draw":7,"loss":12,"for":68,"against":64},
-	{"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":13,"draw":9,"loss":12,"for":69,"against":59},
+	{"country":"wde","name":"Borussia Dortmund","id":"borussia_dortmund","win":13,"draw":9,"loss":12,"for":69,"against":59},
 	{"country":"wde","name":"1. FC Köln","id":"1._FC_Köln","win":12,"draw":10,"loss":12,"for":54,"against":55},
 	{"country":"wde","name":"VfL Bochum","id":"VfL_Bochum","win":9,"draw":15,"loss":10,"for":53,"against":45},
 	{"country":"wde","name":"Karlsruher SC","id":"Karlsruher_SC","win":9,"draw":14,"loss":11,"for":56,"against":63,"isReturning":true},

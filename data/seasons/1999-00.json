@@ -530,7 +530,7 @@
 	{"country":"deu","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":14,"draw":6,"loss":14,"for":44,"against":47},
 	{"country":"deu","name":"Werder Bremen","id":"SV_Werder_Bremen","win":13,"draw":8,"loss":13,"for":65,"against":52},
 	{"country":"deu","name":"SpVgg Unterhaching","id":"SpVgg_Unterhaching","win":12,"draw":8,"loss":14,"for":40,"against":42,"isNew":true},
-	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":9,"draw":13,"loss":12,"for":41,"against":38},
+	{"country":"deu","name":"Borussia Dortmund","id":"borussia_dortmund","win":9,"draw":13,"loss":12,"for":41,"against":38},
 	{"country":"deu","name":"SC Freiburg","id":"SC_Freiburg","win":10,"draw":10,"loss":14,"for":45,"against":50},
 	{"country":"deu","name":"Schalke 04","id":"FC_Schalke_04","win":8,"draw":15,"loss":11,"for":42,"against":44},
 	{"country":"deu","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":12,"draw":5,"loss":17,"for":42,"against":44,"deduct":-2,"deductReason":"Licensing irregularities"},

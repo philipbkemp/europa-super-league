@@ -522,7 +522,7 @@
 	{"country":"hrv","name":"Šibenik","id":"HNK_Šibenik","win":6,"draw":9,"loss":15,"for":27,"against":39,"isRemoved":true},
 	{"country":"hrv","name":"Karlovac","id":"NK_Karlovac_1919","win":6,"draw":7,"loss":17,"for":25,"against":53,"isRemoved":true,"deduct":-1,"deductReason":"Failing to attend a match"},
 	{"country":"hrv","name":"Varaždin","id":"NK_Varaždin_(1931–2015)","win":2,"draw":3,"loss":19,"for":16,"against":52,"isRemoved":true,"deduct":-1,"deductReason":"Failing to play a match","removedNote":"Withdrew mid-season"},
-	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":25,"draw":6,"loss":3,"for":80,"against":25,"isChampion":true},
+	{"country":"deu","name":"Borussia Dortmund","id":"borussia_dortmund","win":25,"draw":6,"loss":3,"for":80,"against":25,"isChampion":true},
 	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":23,"draw":4,"loss":7,"for":77,"against":22},
 	{"country":"deu","name":"Schalke 04","id":"FC_Schalke_04","win":20,"draw":4,"loss":10,"for":74,"against":44},
 	{"country":"deu","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":17,"draw":9,"loss":8,"for":49,"against":24},

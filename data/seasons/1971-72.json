@@ -543,6 +543,6 @@
 	{"country":"wde","name":"MSV Duisburg","id":"MSV_Duisburg","win":10,"draw":7,"loss":17,"for":36,"against":51},
 	{"country":"wde","name":"Rot-Weiß Oberhausen","id":"Rot-Weiß_Oberhausen","win":7,"draw":11,"loss":16,"for":33,"against":66},
 	{"country":"wde","name":"Hannover 96","id":"Hannover_96","win":10,"draw":3,"loss":21,"for":54,"against":69},
-	{"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":6,"draw":8,"loss":20,"for":34,"against":83,"isRemoved":true},
+	{"country":"wde","name":"Borussia Dortmund","id":"borussia_dortmund","win":6,"draw":8,"loss":20,"for":34,"against":83,"isRemoved":true},
 	{"country":"wde","name":"Arminia Bielefeld","id":"Arminia_Bielefeld","win":6,"draw":7,"loss":21,"for":41,"against":75,"isRemoved":true}
 ]

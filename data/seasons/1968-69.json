@@ -528,7 +528,7 @@
 	{"country":"wde","name":"1. FC Köln","id":"1._FC_Köln","win":13,"draw":6,"loss":15,"for":47,"against":56},
 	{"country":"wde","name":"Hertha BSC","id":"Hertha_BSC","win":12,"draw":8,"loss":14,"for":31,"against":39,"isReturning":true},
 	{"country":"wde","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":12,"draw":6,"loss":16,"for":45,"against":47},
-	{"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":11,"draw":8,"loss":15,"for":49,"against":54},
+	{"country":"wde","name":"Borussia Dortmund","id":"borussia_dortmund","win":11,"draw":8,"loss":15,"for":49,"against":54},
 	{"country":"wde","name":"1. FC Nürnberg","id":"1._FC_Nürnberg","win":9,"draw":11,"loss":14,"for":45,"against":55,"isRemoved":true},
 	{"country":"wde","name":"Kickers Offenbach","id":"Kickers_Offenbach","win":10,"draw":8,"loss":16,"for":42,"against":59,"isRemoved":true,"isNew":true}
 ]

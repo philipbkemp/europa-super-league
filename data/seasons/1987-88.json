@@ -547,7 +547,7 @@
 	{"country":"wde","name":"Hannover 96","id":"Hannover_96","win":12,"draw":7,"loss":15,"for":59,"against":60,"isReturning":true},
 	{"country":"wde","name":"Bayer 05 Uerdingen","id":"KFC_Uerdingen_05","win":11,"draw":9,"loss":14,"for":59,"against":61},
 	{"country":"wde","name":"VfL Bochum","id":"VfL_Bochum","win":10,"draw":10,"loss":14,"for":47,"against":51},
-	{"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":9,"draw":11,"loss":14,"for":51,"against":54},
+	{"country":"wde","name":"Borussia Dortmund","id":"borussia_dortmund","win":9,"draw":11,"loss":14,"for":51,"against":54},
 	{"country":"wde","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":11,"draw":7,"loss":16,"for":53,"against":62},
 	{"country":"wde","name":"Karlsruher SC","id":"Karlsruher_SC","win":9,"draw":11,"loss":14,"for":37,"against":55,"isReturning":true},
 	{"country":"wde","name":"Waldhof Mannheim","id":"SV_Waldhof_Mannheim","win":7,"draw":14,"loss":13,"for":35,"against":50},

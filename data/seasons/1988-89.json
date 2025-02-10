@@ -538,7 +538,7 @@
 	{"country":"wde","name":"Hamburger SV","id":"Hamburger_SV","win":17,"draw":9,"loss":8,"for":60,"against":36},
 	{"country":"wde","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":16,"draw":7,"loss":11,"for":58,"against":49},
 	{"country":"wde","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":12,"draw":14,"loss":8,"for":44,"against":43},
-	{"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":12,"draw":13,"loss":9,"for":56,"against":40},
+	{"country":"wde","name":"Borussia Dortmund","id":"borussia_dortmund","win":12,"draw":13,"loss":9,"for":56,"against":40},
 	{"country":"wde","name":"Bayer Leverkusen","id":"bayer_04_leverkusen","win":10,"draw":14,"loss":10,"for":45,"against":44},
 	{"country":"wde","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":10,"draw":13,"loss":11,"for":47,"against":44},
 	{"country":"wde","name":"FC St. Pauli","id":"FC_St._Pauli","win":9,"draw":14,"loss":11,"for":41,"against":42,"isReturning":true},

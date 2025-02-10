@@ -492,7 +492,7 @@
 	{"country":"wde","name":"Alemannia Aachen","id":"Alemannia_Aachen","win":13,"draw":8,"loss":13,"for":52,"against":66,"isNew":true},
 	{"country":"wde","name":"1860 Munich","id":"TSV_1860_Munich","win":11,"draw":11,"loss":12,"for":55,"against":39},
 	{"country":"wde","name":"Hamburger SV","id":"Hamburger_SV","win":11,"draw":11,"loss":12,"for":51,"against":54},
-	{"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":12,"draw":7,"loss":15,"for":60,"against":59},
+	{"country":"wde","name":"Borussia Dortmund","id":"borussia_dortmund","win":12,"draw":7,"loss":15,"for":60,"against":59},
 	{"country":"wde","name":"Schalke 04","id":"FC_Schalke_04","win":11,"draw":8,"loss":15,"for":42,"against":48},
 	{"country":"wde","name":"1. FC Kaiserslautern","id":"1._FC_Kaiserslautern","win":8,"draw":12,"loss":14,"for":39,"against":67},
 	{"country":"wde","name":"Borussia Neunkirchen","id":"Borussia_Neunkirchen","win":7,"draw":5,"loss":22,"for":33,"against":93,"isRemoved":true,"isReturning":true},

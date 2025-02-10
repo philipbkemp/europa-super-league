@@ -535,7 +535,7 @@
 	{"country":"wde","name":"Eintracht Braunschweig","id":"Eintracht_Braunschweig","win":10,"draw":13,"loss":11,"for":50,"against":55},
 	{"country":"wde","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":12,"draw":8,"loss":14,"for":50,"against":53},
 	{"country":"wde","name":"Werder Bremen","id":"SV_Werder_Bremen","win":10,"draw":11,"loss":13,"for":48,"against":60},
-	{"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":10,"draw":11,"loss":13,"for":54,"against":70},
+	{"country":"wde","name":"Borussia Dortmund","id":"borussia_dortmund","win":10,"draw":11,"loss":13,"for":54,"against":70},
 	{"country":"wde","name":"MSV Duisburg","id":"MSV_Duisburg","win":12,"draw":6,"loss":16,"for":43,"against":56},
 	{"country":"wde","name":"Hertha BSC","id":"Hertha_BSC","win":9,"draw":11,"loss":14,"for":40,"against":50},
 	{"country":"wde","name":"Schalke 04","id":"FC_Schalke_04","win":9,"draw":10,"loss":15,"for":55,"against":61},

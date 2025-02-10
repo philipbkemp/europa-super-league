@@ -529,7 +529,7 @@
 	{"country":"hrv","name":"Inker Zaprešić","id":"NK_Inter_Zaprešić","win":6,"draw":3,"loss":21,"for":22,"against":65,"isRemoved":true,"isReturning":true},
 	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":20,"draw":11,"loss":3,"for":68,"against":34,"isChampion":true},
 	{"country":"deu","name":"Bayer Leverkusen","id":"bayer_04_leverkusen","win":21,"draw":6,"loss":7,"for":69,"against":41},
-	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":19,"draw":6,"loss":9,"for":63,"against":41},
+	{"country":"deu","name":"Borussia Dortmund","id":"borussia_dortmund","win":19,"draw":6,"loss":9,"for":63,"against":41},
 	{"country":"deu","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":18,"draw":7,"loss":9,"for":78,"against":40},
 	{"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":14,"draw":11,"loss":9,"for":54,"against":51,"isReturning":true},
 	{"country":"deu","name":"Karlsruher SC","id":"Karlsruher_SC","win":13,"draw":10,"loss":11,"for":55,"against":44},

@@ -79,7 +79,7 @@ clubPages = ["not-a-real-club"
 	/*che*/	,"bsc_young_boys"
 	/*cyp*/	,"apoel_fc","ac_omonia","apollon_limassol_fc"
 	/*cze*/	,"sk_slavia_prague","ac_sparta_prague","fc_viktoria_plzen"
-	/*deu*/	,"fc_bayern_munich","bayer_04_leverkusen"
+	/*deu*/	,"fc_bayern_munich","bayer_04_leverkusen","borussia_dortmund"
 	/*dnk*/	,"brondby_if","akademisk_boldklub","kjobenhavns_boldklub","boldklubben_frem","fc_copenhagen"
 	/*eng*/	,"preston_north_end_fc","tottenham_hotspur_fc","liverpool_fc","arsenal_fc","manchester_city_fc"
 	/*esp*/	,"real_madrid_cf","atletico_madrid","fc_barcelona"
@@ -120,7 +120,7 @@ clubPages = ["not-a-real-club"
 	/*ede*/	,"berliner_fc_dynamo"
 ];
 
-multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk","hsk_zrinjski_mostar","fc_viktoria_plzen","bayer_04_leverkusen","fc_dinamo_minsk","sk_slovan_bratislava","fk_buducnost_podgorica","fk_zalgiris","fc_zenit_saint_petersburg","maccabi_tel_aviv_fc","fc_shakhtar_donetsk","maccabi_haifa_fc"];
+multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk","hsk_zrinjski_mostar","fc_viktoria_plzen","bayer_04_leverkusen","fc_dinamo_minsk","sk_slovan_bratislava","fk_buducnost_podgorica","fk_zalgiris","fc_zenit_saint_petersburg","maccabi_tel_aviv_fc","fc_shakhtar_donetsk","maccabi_haifa_fc","borussia_dortmund"];
 
 if ( $("h1 .placeholder").length !== 0 ) {
 
@@ -911,9 +911,10 @@ function saveClubs(refresh=false,dump=true) {
 					if ( dump ) { console.error(vc); }
 				}
 				if ( dump ) {
+					localEsl =  localStorage["esl_"+v] ? JSON.parse(localStorage["esl_"+v]) : [];
 					//console.log("<tr class='"+classes+"'>"+$sr.html().replace('<a href="../../19/9/9-2000.html">1999-2000</a>','<a href="../../19/9/9-00.html">1999-00</a>')+"</tr>");
 					localEsl.unshift("<tr class='"+classes+"'>"+$sr.html().replace('<a href="../../19/9/9-2000.html">1999-2000</a>','<a href="../../19/9/9-00.html">1999-00</a>')+"</tr>")
-					localStorage.esl = JSON.stringify(localEsl);
+					localStorage["esl_"+v] = JSON.stringify(localEsl);
 				}
 				$sr.html(original);
 				clubName = $($sr.find("th")[0]);
@@ -927,7 +928,7 @@ function saveClubs(refresh=false,dump=true) {
 					countryFlag = "cyp";
 				} else if ( v === "ac_sparta_prague" || v === "sk_slavia_prague" || v === "fc_viktoria_plzen") {
 					countryFlag = "cze";
-				} else if ( v === "fc_bayern_munich" || v === "bayer_04_leverkusen" ) {
+				} else if ( v === "fc_bayern_munich" || v === "bayer_04_leverkusen" || v === "borussia_dortmund" ) {
 					countryFlag = "deu";
 				} else if ( v === "hsk_gradanski_zagreb" || v === "gnk_dinamo_zagreb" ) {
 					countryFlag = "hrv";

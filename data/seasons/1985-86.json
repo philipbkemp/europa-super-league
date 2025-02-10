@@ -549,7 +549,7 @@
 	{"country":"wde","name":"1. FC Köln","id":"1._FC_Köln","win":9,"draw":11,"loss":14,"for":46,"against":59},
 	{"country":"wde","name":"Fortuna Düsseldorf","id":"Fortuna_Düsseldorf","win":11,"draw":7,"loss":16,"for":54,"against":78},
 	{"country":"wde","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":7,"draw":14,"loss":13,"for":35,"against":49},
-	{"country":"wde","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":10,"draw":8,"loss":16,"for":49,"against":65},
+	{"country":"wde","name":"Borussia Dortmund","id":"borussia_dortmund","win":10,"draw":8,"loss":16,"for":49,"against":65},
 	{"country":"wde","name":"1. FC Saarbrücken","id":"1._FC_Saarbrücken","win":6,"draw":9,"loss":19,"for":39,"against":68,"isRemoved":true,"isReturning":true},
 	{"country":"wde","name":"Hannover 96","id":"Hannover_96","win":5,"draw":8,"loss":21,"for":43,"against":92,"isRemoved":true,"isReturning":true},
 	{"country":"smr","name":"S.C. Faetano","id":"SC_Faetano","win":10,"draw":6,"loss":0,"for":48,"against":15,"isChampion":true,"isNew":true},

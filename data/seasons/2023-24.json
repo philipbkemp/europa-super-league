@@ -534,7 +534,7 @@
 	{"country":"deu","name":"VfB Stuttgart","id":"VfB_Stuttgart","win":23,"draw":4,"loss":7,"for":78,"against":39},
 	{"country":"deu","name":"Bayern Munich","id":"fc_bayern_munich","win":23,"draw":3,"loss":8,"for":94,"against":45},
 	{"country":"deu","name":"RB Leipzig","id":"RB_Leipzig","win":19,"draw":8,"loss":7,"for":77,"against":39},
-	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":18,"draw":9,"loss":7,"for":68,"against":43},
+	{"country":"deu","name":"Borussia Dortmund","id":"borussia_dortmund","win":18,"draw":9,"loss":7,"for":68,"against":43},
 	{"country":"deu","name":"Eintracht Frankfurt","id":"Eintracht_Frankfurt","win":11,"draw":14,"loss":9,"for":51,"against":50},
 	{"country":"deu","name":"TSG Hoffenheim","id":"TSG_1899_Hoffenheim","win":13,"draw":7,"loss":14,"for":66,"against":66},
 	{"country":"deu","name":"1. FC Heidenheim","id":"1._FC_Heidenheim","win":10,"draw":12,"loss":12,"for":50,"against":55,"isNew":true},

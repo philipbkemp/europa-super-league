@@ -148,7 +148,7 @@ THEDATA = [
 	{"country":"deu","name":"Borussia Mönchengladbach","id":"Borussia_Mönchengladbach","win":9,"draw":4,"loss":8,"for":33,"against":31,"isCurrentSeason":true},
 	{"country":"deu","name":"VfL Wolfsburg","id":"VfL_Wolfsburg","win":8,"draw":6,"loss":7,"for":43,"against":35,"isCurrentSeason":true},
 	{"country":"deu","name":"Werder Bremen","id":"SV_Werder_Bremen","win":8,"draw":6,"loss":7,"for":34,"against":39,"isCurrentSeason":true},
-	{"country":"deu","name":"Borussia Dortmund","id":"Borussia_Dortmund","win":8,"draw":5,"loss":8,"for":37,"against":36,"isCurrentSeason":true},
+	{"country":"deu","name":"Borussia Dortmund","id":"borussia_dortmund","win":8,"draw":5,"loss":8,"for":37,"against":36,"isCurrentSeason":true},
 	{"country":"deu","name":"FC Augsburg","id":"FC_Augsburg","win":7,"draw":6,"loss":8,"for":24,"against":35,"isCurrentSeason":true},
 	{"country":"deu","name":"Union Berlin","id":"1._FC_Union_Berlin","win":6,"draw":5,"loss":10,"for":19,"against":28,"isCurrentSeason":true},
 	{"country":"deu","name":"FC St. Pauli","id":"FC_St._Pauli","win":6,"draw":3,"loss":12,"for":18,"against":24,"isReturning":true,"isCurrentSeason":true},
