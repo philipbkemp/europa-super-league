@@ -132,7 +132,7 @@
 	{"country":"hun","name":"Diósgyőr","id":"Diósgyőri_VTK","win":5,"draw":10,"loss":15,"for":20,"against":50,"isRemoved":true},
 	{"country":"hun","name":"Komlói Bányász","id":"Komlói_Bányász_SK","win":5,"draw":9,"loss":16,"for":24,"against":52,"isRemoved":true},
 	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":27,"draw":6,"loss":1,"for":72,"against":13,"isChampion":true},
-	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":27,"draw":4,"loss":3,"for":75,"against":24},
+	{"country":"grc","name":"PAOK","id":"paok_fc","win":27,"draw":4,"loss":3,"for":75,"against":24},
 	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":22,"draw":7,"loss":5,"for":89,"against":29,"deduct":-3},
 	{"country":"grc","name":"Panachaiki","id":"Panachaiki_F.C.","win":16,"draw":12,"loss":6,"for":42,"against":27},
 	{"country":"grc","name":"AEK Athens","id":"aek_athens_fc","win":13,"draw":11,"loss":10,"for":39,"against":36},

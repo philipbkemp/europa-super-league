@@ -130,7 +130,7 @@
 	{"country":"hun","name":"Kaposvár","id":"Kaposvári_Rákóczi_FC","win":8,"draw":7,"loss":19,"for":32,"against":61,"isRemoved":true},
 	{"country":"hun","name":"SZEOL","id":"Szegedi_EAC","win":6,"draw":6,"loss":22,"for":35,"against":76,"isRemoved":true,"isReturning":true},
 	{"country":"grc","name":"AEK Athens","id":"aek_athens_fc","win":21,"draw":11,"loss":2,"for":74,"against":27,"isChampion":true},
-	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":16,"draw":14,"loss":4,"for":48,"against":24},
+	{"country":"grc","name":"PAOK","id":"paok_fc","win":16,"draw":14,"loss":4,"for":48,"against":24},
 	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":19,"draw":7,"loss":8,"for":63,"against":25},
 	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":17,"draw":10,"loss":7,"for":46,"against":20},
 	{"country":"grc","name":"PAS Giannina","id":"PAS_Giannina_F.C.","win":14,"draw":10,"loss":10,"for":45,"against":39},

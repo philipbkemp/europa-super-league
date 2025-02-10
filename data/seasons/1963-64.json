@@ -136,7 +136,7 @@
 	{"country":"grc","name":"Apollon Athens","id":"Apollon_Smyrnis_F.C.","win":13,"draw":7,"loss":10,"for":41,"against":36},
 	{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":10,"draw":11,"loss":9,"for":28,"against":29},
 	{"country":"grc","name":"Pierikos","id":"S.F.K._Pierikos_(football)","win":9,"draw":9,"loss":12,"for":34,"against":42},
-	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":10,"draw":7,"loss":13,"for":22,"against":30,"deduct":-1},
+	{"country":"grc","name":"PAOK","id":"paok_fc","win":10,"draw":7,"loss":13,"for":22,"against":30,"deduct":-1},
 	{"country":"grc","name":"Apollon Kalamarias","id":"Apollon_Kalamarias_F.C.","win":6,"draw":13,"loss":11,"for":29,"against":38},
 	{"country":"grc","name":"Ethnikos Piraeus","id":"Ethnikos_Piraeus_F.C.","win":9,"draw":7,"loss":14,"for":24,"against":36},
 	{"country":"grc","name":"Doxa Drama","id":"Doxa_Drama_F.C.","win":9,"draw":7,"loss":14,"for":28,"against":47,"isReturning":true},

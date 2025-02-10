@@ -240,7 +240,7 @@ THEDATA = [
 	{"country":"grc","name":"Olympiacos","id":"olympiacos_fc","win":14,"draw":6,"loss":2,"for":37,"against":15,"isCurrentSeason":true},
 	{"country":"grc","name":"AEK Athens","id":"aek_athens_fc","win":14,"draw":4,"loss":4,"for":39,"against":14,"isCurrentSeason":true},
 	{"country":"grc","name":"Panathinaikos","id":"panathinaikos_fc","win":12,"draw":7,"loss":3,"for":25,"against":17,"isCurrentSeason":true},
-	{"country":"grc","name":"PAOK","id":"PAOK_FC","win":12,"draw":4,"loss":6,"for":40,"against":22,"isCurrentSeason":true},
+	{"country":"grc","name":"PAOK","id":"paok_fc","win":12,"draw":4,"loss":6,"for":40,"against":22,"isCurrentSeason":true},
 	{"country":"grc","name":"Aris","id":"Aris_Thessaloniki_F.C.","win":11,"draw":4,"loss":7,"for":27,"against":22,"isCurrentSeason":true},
 	{"country":"grc","name":"Asteras Tripolis","id":"Asteras_Tripolis_F.C.","win":10,"draw":5,"loss":7,"for":25,"against":20,"isCurrentSeason":true},
 	{"country":"grc","name":"Panetolikos","id":"Panetolikos_F.C.","win":8,"draw":5,"loss":9,"for":17,"against":18,"isCurrentSeason":true},
