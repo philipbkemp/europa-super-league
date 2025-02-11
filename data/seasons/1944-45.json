@@ -99,7 +99,7 @@
 	{"country":"fin","name":"KIF Helsinki","id":"FC_Kiffen_08","win":3,"draw":2,"loss":2,"for":15,"against":12,"isRemoved":true,"isReturning":true,"removedNote":"League contested as knockout competition next season"},
 	{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":2,"draw":3,"loss":2,"for":13,"against":13,"isRemoved":true,"isReturning":true,"removedNote":"League contested as knockout competition next season"},
 	{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":3,"draw":1,"loss":3,"for":15,"against":22,"isRemoved":true,"isReturning":true,"removedNote":"League contested as knockout competition next season"},
-	{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":1,"draw":2,"loss":4,"for":20,"against":22,"isRemoved":true,"isReturning":true,"removedNote":"League contested as knockout competition next season"},
+	{"country":"fin","name":"HJK Helsinki","id":"helsingin_jalkapalloklubi","win":1,"draw":2,"loss":4,"for":20,"against":22,"isRemoved":true,"isReturning":true,"removedNote":"League contested as knockout competition next season"},
 	{"country":"fin","name":"KPT Kuopio","id":"Koparit","win":1,"draw":1,"loss":5,"for":9,"against":22,"isRemoved":true,"isReturning":true,"removedNote":"League contested as knockout competition next season"},
 	{"country":"cyp","name":"EPA Larnaca FC","id":"EPA_Larnaca_FC","win":8,"draw":1,"loss":1,"for":50,"against":19,"isChampion":true,"isReturning":true},
 	{"country":"cyp","name":"APOEL F.C.","id":"apoel_fc","win":8,"draw":1,"loss":1,"for":40,"against":13,"isReturning":true},

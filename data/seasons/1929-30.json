@@ -178,7 +178,7 @@
 	{"country":"irl","name":"Bray Unknowns","id":"Bray_Unknowns_F.C.","win":4,"draw":5,"loss":9,"for":34,"against":48},
 	{"country":"irl","name":"St James's Gate","id":"St_James%27s_Gate_F.C.","win":4,"draw":3,"loss":11,"for":30,"against":38},
 	{"country":"irl","name":"Jacobs","id":"Jacobs_F.C.","win":0,"draw":3,"loss":15,"for":23,"against":76},
-	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":5,"draw":2,"loss":1,"for":25,"against":15,"isChampion":true},
+	{"country":"yug","name":"Hajduk Split","id":"hnk_hajduk_split","win":5,"draw":2,"loss":1,"for":25,"against":15,"isChampion":true},
 	{"country":"yug","name":"BSK","id":"ofk_beograd","win":4,"draw":2,"loss":2,"for":18,"against":16},
 	{"country":"yug","name":"SK Jugoslavija","id":"SK_Jugoslavija","win":3,"draw":2,"loss":3,"for":14,"against":10},
 	{"country":"yug","name":"HAŠK","id":"HAŠK","win":3,"draw":1,"loss":4,"for":15,"against":15,"isRemoved":true},

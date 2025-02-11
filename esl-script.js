@@ -73,7 +73,7 @@ clubPages = ["not-a-real-club"
 	/*aut*/	,"sk_rapid_wien","wiener_ac","fk_austria_wien"
 	/*aze*/	,"neftci_pfk","qarabag_fk"
 	/*bel*/	,"kfc_rhodienne_de_hoek","royale_union_saint_gilloise","standard_liege","club_brugge_kv"
-	/*bgr*/	,"pfc_levski_sofia","pfc_ludogorets_razgrad"
+	/*bgr*/	,"pfc_levski_sofia","pfc_ludogorets_razgrad","pfc_cska_sofia"
 	/*bih*/	,"hsk_zrinjski_mostar"
 	/*blr*/	,"fc_dinamo_minsk","fc_bate_borisov"
 	/*che*/	,"bsc_young_boys"
@@ -84,12 +84,13 @@ clubPages = ["not-a-real-club"
 	/*eng*/	,"preston_north_end_fc","tottenham_hotspur_fc","liverpool_fc","arsenal_fc","manchester_city_fc"
 	/*esp*/	,"real_madrid_cf","atletico_madrid","fc_barcelona"
 	/*est*/	,"js_estonia_tallinn","balti_laevastik_tallinn","fc_norma_tallinn","fc_flora","fc_tvmk","fci_levadia_tallinn"
-	/*fin*/	,"kuopion_palloseura"
+	/*fin*/	,"kuopion_palloseura","helsingin_jalkapalloklubi"
 	/*fra*/	,"paris_saint_germain_fc"
 	/*fro*/	,"havnar_boltfelag","klaksvikar_itrottarfelag","tvoroyrar_boltfelag","vikingur_gota"
+	/*geo*/	,"fc_dinamo_tbilisi"
 	/*gib*/	,"europa_fc","lincoln_red_imps_fc","st_josephs_fc"
 	/*grc*/	,"olympiacos_fc","panathinaikos_fc","aek_athens_fc","paok_fc"
-	/*hrv*/	,"hsk_gradanski_zagreb","gnk_dinamo_zagreb"
+	/*hrv*/	,"hsk_gradanski_zagreb","gnk_dinamo_zagreb","hnk_hajduk_split"
 	/*hun*/	,"ferencvarosi_tc","budapesti_tc","mtk_budapest_fc"
 	/*irl*/	,"shamrock_rovers_fc"
 	/*isl*/	,"knattspyrnufelagio_fram","knattspyrnufelagio_vikingur","knattspyrnufelag_reykjavikur","valur","iprottabandalag_akraness"
@@ -108,7 +109,7 @@ clubPages = ["not-a-real-club"
 	/*nld*/	,"afc_ajax","feyenoord","psv_eindhoven","az_alkmaar"
 	/*prt*/	,"sl_benfica","fc_porto","sporting_cp","sc_braga"
 	/*rou*/	,"colentina_ac_bucuresti","fcsb","fc_rapid_bucuresti","cfr_cluj"
-	/*rus*/	,"fc_zenit_saint_petersburg"
+	/*rus*/	,"fc_zenit_saint_petersburg","pfc_cska_moscow"
 	/*sco*/	,"rangers_fc","heart_of_midlothian_fc","celtic_fc"
 	/*srb*/	,"ofk_beograd","fk_partizan","red_star_belgrade"
 	/*svk*/	,"sk_slovan_bratislava"
@@ -121,7 +122,7 @@ clubPages = ["not-a-real-club"
 	/*ede*/	,"berliner_fc_dynamo"
 ];
 
-multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk","hsk_zrinjski_mostar","fc_viktoria_plzen","bayer_04_leverkusen","fc_dinamo_minsk","sk_slovan_bratislava","fk_buducnost_podgorica","fk_zalgiris","fc_zenit_saint_petersburg","maccabi_tel_aviv_fc","fc_shakhtar_donetsk","maccabi_haifa_fc","borussia_dortmund","cliftonville_fc"];
+multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk","hsk_zrinjski_mostar","fc_viktoria_plzen","bayer_04_leverkusen","fc_dinamo_minsk","sk_slovan_bratislava","fk_buducnost_podgorica","fk_zalgiris","fc_zenit_saint_petersburg","maccabi_tel_aviv_fc","fc_shakhtar_donetsk","maccabi_haifa_fc","borussia_dortmund","cliftonville_fc","pfc_cska_moscow","fc_dinamo_tbilisi","hnk_hajduk_split"];
 
 if ( $("h1 .placeholder").length !== 0 ) {
 
@@ -931,7 +932,9 @@ function saveClubs(refresh=false,dump=true) {
 					countryFlag = "cze";
 				} else if ( v === "fc_bayern_munich" || v === "bayer_04_leverkusen" || v === "borussia_dortmund" ) {
 					countryFlag = "deu";
-				} else if ( v === "hsk_gradanski_zagreb" || v === "gnk_dinamo_zagreb" ) {
+				} else if ( v === "fc_dinamo_tbilisi" ) {
+					countryFlag = "geo";
+				} else if ( ["hsk_gradanski_zagreb","gnk_dinamo_zagreb","hnk_hajduk_split"].indexOf(v) !== -1 ) {
 					countryFlag = "hrv";
 				} else if ( v === "maccabi_tel_aviv_fc" || v === "maccabi_haifa_fc" ) {
 					countryFlag = "isr";
@@ -941,7 +944,7 @@ function saveClubs(refresh=false,dump=true) {
 					countryFlag = "mne";
 				} else if ( v === "linfield_fc" || v === "cliftonville_fc" ) {
 					countryFlag = "nir";
-				} else if ( v === "fc_zenit_saint_petersburg" ) {
+				} else if ( v === "fc_zenit_saint_petersburg" || v === "pfc_cska_moscow" ) {
 					countryFlag = "rus";
 				} else if ( v === "ofk_beograd" || v === "fk_partizan" || v === "red_star_belgrade" ) {
 					countryFlag = "srb";

@@ -185,7 +185,7 @@
 	{"country":"irl","name":"Jacobs","id":"Jacobs_F.C.","win":1,"draw":2,"loss":19,"for":21,"against":72},
 	{"country":"yug","name":"Concordia Zagreb","id":"HŠK_Concordia","win":6,"draw":3,"loss":1,"for":25,"against":15,"isChampion":true,"isNew":true,"isRemoved":true,"removedNote":"League moved to knockout format"},
 	{"country":"yug","name":"Jugoslavija Beograd","id":"SK_Jugoslavija","win":5,"draw":3,"loss":2,"for":23,"against":13,"isRemoved":true,"removedNote":"League moved to knockout format"},
-	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":5,"draw":3,"loss":2,"for":21,"against":17,"isRemoved":true,"removedNote":"League moved to knockout format"},
+	{"country":"yug","name":"Hajduk Split","id":"hnk_hajduk_split","win":5,"draw":3,"loss":2,"for":21,"against":17,"isRemoved":true,"removedNote":"League moved to knockout format"},
 	{"country":"yug","name":"BSK Belgrade","id":"ofk_beograd","win":5,"draw":2,"loss":3,"for":26,"against":16,"isRemoved":true,"removedNote":"League moved to knockout format"},
 	{"country":"yug","name":"Slavija Sarajevo","id":"FK_Slavija_Sarajevo","win":2,"draw":2,"loss":6,"for":15,"against":23,"isNew":true,"isRemoved":true,"removedNote":"League moved to knockout format"},
 	{"country":"yug","name":"Slavija Osijek","id":"JŠK_Slavija_Osijek","win":0,"draw":1,"loss":9,"for":6,"against":32,"isNew":true,"isRemoved":true,"removedNote":"League moved to knockout format"},

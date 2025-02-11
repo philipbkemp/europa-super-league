@@ -243,7 +243,7 @@
 	{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":11,"draw":0,"loss":3,"for":38,"against":15,"isChampion":true},
 	{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":8,"draw":1,"loss":5,"for":41,"against":28},
 	{"country":"fin","name":"HT Helsinki","id":"Toverit_Helsinki","win":7,"draw":1,"loss":6,"for":28,"against":26},
-	{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":6,"draw":2,"loss":6,"for":32,"against":26},
+	{"country":"fin","name":"HJK Helsinki","id":"helsingin_jalkapalloklubi","win":6,"draw":2,"loss":6,"for":32,"against":26},
 	{"country":"fin","name":"VPS Vaasa","id":"Vaasan_Palloseura","win":6,"draw":2,"loss":6,"for":27,"against":27,"isReturning":true},
 	{"country":"fin","name":"Sudet Viipuri","id":"Sudet","win":7,"draw":0,"loss":7,"for":31,"against":34},
 	{"country":"fin","name":"VIFK Vaasa","id":"Vasa_IFK","win":3,"draw":3,"loss":8,"for":29,"against":37,"isRemoved":true,"isNew":true},

@@ -183,7 +183,7 @@
 	{"country":"ltu","name":"Freya VfR Klaipėda","id":"Freya_Klaipėda","win":1,"draw":1,"loss":5,"for":5,"against":10,"isRemoved":true},
 	{"country":"ltu","name":"Makabi Šiauliai","id":"Makabi_Šiauliai","win":0,"draw":1,"loss":6,"for":2,"against":34,"isNew":true,"isRemoved":true},
 	{"country":"yug","name":"BSK","id":"ofk_beograd","win":14,"draw":3,"loss":3,"for":66,"against":21,"isChampion":true,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
-	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":13,"draw":2,"loss":5,"for":41,"against":19,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
+	{"country":"yug","name":"Hajduk Split","id":"hnk_hajduk_split","win":13,"draw":2,"loss":5,"for":41,"against":19,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"yug","name":"SK Jugoslavija","id":"SK_Jugoslavija","win":10,"draw":3,"loss":7,"for":34,"against":27,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"yug","name":"HAŠK","id":"HAŠK","win":10,"draw":3,"loss":7,"for":37,"against":33,"isReturning":true,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"yug","name":"BASK","id":"FK_BASK","win":10,"draw":3,"loss":7,"for":42,"against":37,"isNew":true,"isRemoved":true,"removedNote":"League not contested next season"},

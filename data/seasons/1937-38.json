@@ -212,7 +212,7 @@
 	{"country":"yug","name":"BASK Belgrade","id":"FK_BASK","win":8,"draw":2,"loss":8,"for":36,"against":33},
 	{"country":"yug","name":"Slavija Sarajevo","id":"FK_Slavija_Sarajevo","win":7,"draw":4,"loss":7,"for":25,"against":28},
 	{"country":"yug","name":"Jugoslavija Belgrade","id":"SK_Jugoslavija","win":6,"draw":5,"loss":7,"for":26,"against":21},
-	{"country":"yug","name":"Hajduk Split","id":"HNK_Hajduk_Split","win":6,"draw":5,"loss":7,"for":31,"against":38},
+	{"country":"yug","name":"Hajduk Split","id":"hnk_hajduk_split","win":6,"draw":5,"loss":7,"for":31,"against":38},
 	{"country":"yug","name":"Jedinstvo Belgrade","id":"SK_Jedinstvo_Beograd","win":4,"draw":4,"loss":10,"for":13,"against":36,"isNew":true},
 	{"country":"yug","name":"Ljubljana","id":"SK_Ljubljana","win":3,"draw":5,"loss":10,"for":24,"against":42},
 	{"country":"yug","name":"Concordia Zagreb","id":"HŠK_Concordia","win":4,"draw":2,"loss":12,"for":24,"against":52,"isRemoved":true},
@@ -257,7 +257,7 @@
 	{"country":"alb","name":"Ismail Qemali","id":"Flamurtari_FC","win":3,"draw":4,"loss":11,"for":10,"against":43,"isRemoved":true,"removedNote":"League not contested next season"},
 	{"country":"alb","name":"Tomori","id":"FK_Tomori_Berat","win":3,"draw":4,"loss":11,"for":17,"against":50,"isRemoved":true,"removedNote":"League not contested next season","isNew":true},
 	{"country":"fin","name":"HIFK Helsinki","id":"HIFK_Fotboll","win":8,"draw":5,"loss":1,"for":48,"against":16,"isChampion":true},
-	{"country":"fin","name":"HJK Helsinki","id":"Helsingin_Jalkapalloklubi","win":8,"draw":4,"loss":2,"for":58,"against":24},
+	{"country":"fin","name":"HJK Helsinki","id":"helsingin_jalkapalloklubi","win":8,"draw":4,"loss":2,"for":58,"against":24},
 	{"country":"fin","name":"Sudet Viipuri","id":"Sudet","win":5,"draw":6,"loss":3,"for":33,"against":27},
 	{"country":"fin","name":"HPS Helsinki","id":"Helsingin_Palloseura","win":5,"draw":5,"loss":4,"for":30,"against":25},
 	{"country":"fin","name":"HT Helsinki","id":"Toverit_Helsinki","win":6,"draw":3,"loss":5,"for":30,"against":34},
@@ -301,10 +301,10 @@
 	{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":8,"draw":6,"loss":2,"for":37,"against":20,"isChampion":true,"isNew":true},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":8,"draw":5,"loss":3,"for":24,"against":16,"isNew":true},
 	{"country":"sov","name":"Dynamo Kiev","id":"fc_dynamo_kyiv","win":7,"draw":6,"loss":3,"for":33,"against":24,"isNew":true},
-	{"country":"sov","name":"Dynamo Tbilisi","id":"FC_Dinamo_Tbilisi","win":7,"draw":4,"loss":5,"for":30,"against":24,"isNew":true},
+	{"country":"sov","name":"Dynamo Tbilisi","id":"fc_dinamo_tbilisi","win":7,"draw":4,"loss":5,"for":30,"against":24,"isNew":true},
 	{"country":"sov","name":"Metallurg Moscow","id":"FC_Serp_i_Molot_Moscow","win":7,"draw":2,"loss":7,"for":26,"against":21,"isNew":true},
 	{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":5,"draw":5,"loss":6,"for":18,"against":20,"isNew":true},
 	{"country":"sov","name":"Dynamo Leningrad","id":"FC_Dynamo_Saint_Petersburg","win":2,"draw":9,"loss":5,"for":21,"against":25,"isNew":true},
 	{"country":"sov","name":"Krasnaya Zarya Leningrad","id":"FC_Elektrosila_Leningrad","win":4,"draw":4,"loss":8,"for":17,"against":31,"isNew":true},
-	{"country":"sov","name":"CDKA Moscow","id":"PFC_CSKA_Moscow","win":3,"draw":1,"loss":12,"for":18,"against":43,"isNew":true}
+	{"country":"sov","name":"CDKA Moscow","id":"pfc_cska_moscow","win":3,"draw":1,"loss":12,"for":18,"against":43,"isNew":true}
 ]
