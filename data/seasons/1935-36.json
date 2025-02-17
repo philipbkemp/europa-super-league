@@ -134,7 +134,7 @@
 	{"country":"rou","name":"Victoria Cluj","id":"FC_Victoria_Cluj","win":8,"draw":3,"loss":11,"for":39,"against":57},
 	{"country":"rou","name":"Unirea Tricolor București","id":"Unirea_Tricolor_București","win":7,"draw":5,"loss":10,"for":54,"against":58},
 	{"country":"rou","name":"Universitatea Cluj","id":"FC_Universitatea_Cluj","win":7,"draw":2,"loss":13,"for":29,"against":53},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":15,"draw":4,"loss":3,"for":71,"against":33,"isChampion":true},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":15,"draw":4,"loss":3,"for":71,"against":33,"isChampion":true},
 	{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":13,"draw":4,"loss":5,"for":58,"against":39},
 	{"country":"swe","name":"Sandvikens IF","id":"Sandvikens_IF","win":11,"draw":5,"loss":6,"for":40,"against":32},
 	{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":9,"draw":7,"loss":6,"for":36,"against":28},

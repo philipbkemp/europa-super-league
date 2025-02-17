@@ -160,7 +160,7 @@
 	{"country":"swe","name":"IS Halmia","id":"IS_Halmia","win":6,"draw":7,"loss":9,"for":34,"against":41},
 	{"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":6,"draw":7,"loss":9,"for":30,"against":39},
 	{"country":"swe","name":"Jönköpings Södra IF","id":"Jönköpings_Södra_IF","win":6,"draw":7,"loss":9,"for":31,"against":53,"isReturning":true},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":7,"draw":4,"loss":11,"for":40,"against":51},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":7,"draw":4,"loss":11,"for":40,"against":51},
 	{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":6,"draw":5,"loss":11,"for":32,"against":35,"isRemoved":true},
 	{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":6,"draw":5,"loss":11,"for":38,"against":56,"isRemoved":true,"isReturning":true},
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":13,"draw":2,"loss":3,"for":55,"against":23,"isChampion":true},

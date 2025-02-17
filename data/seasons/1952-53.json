@@ -150,7 +150,7 @@
 	{"country":"swe","name":"Jönköpings Södra IF","id":"Jönköpings_Södra_IF","win":7,"draw":7,"loss":8,"for":40,"against":43},
 	{"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":8,"draw":4,"loss":10,"for":41,"against":36},
 	{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":9,"draw":2,"loss":11,"for":32,"against":54},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":7,"draw":4,"loss":11,"for":28,"against":36},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":7,"draw":4,"loss":11,"for":28,"against":36},
 	{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":6,"draw":4,"loss":12,"for":23,"against":40,"isRemoved":true},
 	{"country":"swe","name":"IFK Malmö","id":"IFK_Malmö_Fotboll","win":5,"draw":4,"loss":13,"for":29,"against":46,"isRemoved":true,"isReturning":true},
 	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":21,"draw":3,"loss":2,"for":106,"against":38,"isChampion":true},

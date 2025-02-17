@@ -183,7 +183,7 @@
 	{"country":"rou","name":"Turnu Severin","id":"CS_Turnu_Severin","win":7,"draw":11,"loss":16,"for":36,"against":47,"isRemoved":true,"isNew":true},
 	{"country":"rou","name":"CSMS Iași","id":"FC_Politehnica_Iași_(2010)","win":7,"draw":5,"loss":22,"for":31,"against":50,"isRemoved":true,"isNew":true},
 	{"country":"rou","name":"Gloria Bistrița","id":"ACF_Gloria_Bistrița","win":3,"draw":9,"loss":22,"for":21,"against":69,"isRemoved":true,"isReturning":true},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":18,"draw":5,"loss":7,"for":48,"against":29,"isChampion":true},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":18,"draw":5,"loss":7,"for":48,"against":29,"isChampion":true},
 	{"country":"swe","name":"BK Häcken","id":"BK_Häcken","win":17,"draw":6,"loss":7,"for":67,"against":36},
 	{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":16,"draw":8,"loss":6,"for":49,"against":33},
 	{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":15,"draw":10,"loss":5,"for":41,"against":27},

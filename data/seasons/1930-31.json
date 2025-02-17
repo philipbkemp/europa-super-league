@@ -116,7 +116,7 @@
 	{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":8,"draw":5,"loss":9,"for":45,"against":46},
 	{"country":"swe","name":"IK Sleipner","id":"IK_Sleipner","win":7,"draw":3,"loss":12,"for":53,"against":54},
 	{"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":6,"draw":3,"loss":13,"for":45,"against":58,"isReturning":true},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":6,"draw":3,"loss":13,"for":39,"against":59},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":6,"draw":3,"loss":13,"for":39,"against":59},
 	{"country":"swe","name":"Redbergslid","id":"Redbergslids_IK_Fotboll","win":5,"draw":5,"loss":12,"for":35,"against":60,"isRemoved":true,"isNew":true},
 	{"country":"swe","name":"Sandvikens IF","id":"Sandvikens_IF","win":6,"draw":2,"loss":14,"for":39,"against":52,"isRemoved":true},
 	{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":12,"draw":5,"loss":1,"for":53,"against":25,"isChampion":true},

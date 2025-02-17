@@ -62,7 +62,7 @@
 	{"country":"hun","name":"Szegedi AK","id":"Szegedi_AK","win":8,"draw":3,"loss":19,"for":60,"against":115,"isRemoved":true},
 	{"country":"hun","name":"Törekvés SE","id":"Törekvés_SE","win":6,"draw":6,"loss":18,"for":42,"against":86,"isReturning":true,"isRemoved":true},
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":12,"draw":7,"loss":3,"for":52,"against":25,"isChampion":true},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":14,"draw":2,"loss":6,"for":58,"against":32},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":14,"draw":2,"loss":6,"for":58,"against":32},
 	{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":12,"draw":6,"loss":4,"for":46,"against":28},
 	{"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":9,"draw":8,"loss":5,"for":49,"against":27},
 	{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":10,"draw":5,"loss":7,"for":44,"against":30},

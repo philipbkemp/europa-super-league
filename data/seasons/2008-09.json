@@ -184,7 +184,7 @@
 	{"country":"rou","name":"Otopeni","id":"CS_Otopeni","win":5,"draw":7,"loss":22,"for":32,"against":54,"isRemoved":true,"isNew":true},
 	{"country":"rou","name":"Gloria Buzău","id":"FC_Gloria_Buzău","win":4,"draw":5,"loss":25,"for":23,"against":62,"isRemoved":true},
 	{"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":20,"draw":4,"loss":6,"for":70,"against":32,"isChampion":true},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":19,"draw":6,"loss":5,"for":49,"against":18},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":19,"draw":6,"loss":5,"for":49,"against":18},
 	{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":15,"draw":9,"loss":6,"for":50,"against":26},
 	{"country":"swe","name":"Helsingborgs IF","id":"Helsingborgs_IF","win":16,"draw":6,"loss":8,"for":54,"against":41},
 	{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":12,"draw":9,"loss":9,"for":36,"against":32},

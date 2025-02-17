@@ -154,7 +154,7 @@
 	{"country":"swe","name":"GAIS","id":"GAIS","win":8,"draw":3,"loss":11,"for":33,"against":40},
 	{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":7,"draw":4,"loss":11,"for":32,"against":45,"isReturning":true},
 	{"country":"swe","name":"Jönköpings Södra IF","id":"Jönköpings_Södra_IF","win":7,"draw":4,"loss":11,"for":37,"against":54},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":6,"draw":5,"loss":11,"for":31,"against":41},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":6,"draw":5,"loss":11,"for":31,"against":41},
 	{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":6,"draw":5,"loss":11,"for":27,"against":37,"isRemoved":true},
 	{"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":2,"draw":6,"loss":14,"for":25,"against":54,"isRemoved":true},
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":20,"draw":3,"loss":1,"for":133,"against":40,"isChampion":true},

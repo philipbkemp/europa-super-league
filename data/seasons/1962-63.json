@@ -189,7 +189,7 @@
 	{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":10,"draw":1,"loss":11,"for":36,"against":34},
 	{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":6,"draw":8,"loss":8,"for":31,"against":33},
 	{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":7,"draw":5,"loss":10,"for":33,"against":47},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":7,"draw":4,"loss":11,"for":29,"against":42},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":7,"draw":4,"loss":11,"for":29,"against":42},
 	{"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":5,"draw":4,"loss":13,"for":43,"against":60,"isRemoved":true},
 	{"country":"swe","name":"IS Halmia","id":"IS_Halmia","win":1,"draw":3,"loss":18,"for":28,"against":67,"isRemoved":true,"isReturning":true},
 	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":17,"draw":4,"loss":5,"for":60,"against":26,"isChampion":true},

@@ -136,7 +136,7 @@
 	{"country":"rou","name":"AMEF Arad","id":"Vagonul_Arad","win":2,"draw":4,"loss":16,"for":24,"against":53,"isNew":true},
 	{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":15,"draw":3,"loss":4,"for":48,"against":22,"isChampion":true},
 	{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":11,"draw":6,"loss":5,"for":59,"against":28},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":13,"draw":2,"loss":7,"for":59,"against":43},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":13,"draw":2,"loss":7,"for":59,"against":43},
 	{"country":"swe","name":"Sandvikens IF","id":"Sandvikens_IF","win":12,"draw":4,"loss":6,"for":46,"against":46},
 	{"country":"swe","name":"GAIS","id":"GAIS","win":10,"draw":4,"loss":8,"for":44,"against":49},
 	{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":10,"draw":2,"loss":10,"for":47,"against":47,"isReturning":true},

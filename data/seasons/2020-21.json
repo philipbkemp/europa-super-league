@@ -184,7 +184,7 @@
 	{"country":"rou","name":"Hermannstadt","id":"FC_Hermannstadt","win":9,"draw":12,"loss":18,"for":34,"against":49,"isRemoved":true},
 	{"country":"rou","name":"Politehnica Iași","id":"FC_Politehnica_Iași_(2010)","win":9,"draw":5,"loss":25,"for":36,"against":79,"isRemoved":true},
 	{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":17,"draw":9,"loss":4,"for":64,"against":30,"isChampion":true},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":12,"draw":15,"loss":3,"for":49,"against":38},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":12,"draw":15,"loss":3,"for":49,"against":38},
 	{"country":"swe","name":"BK Häcken","id":"BK_Häcken","win":12,"draw":13,"loss":5,"for":45,"against":29},
 	{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":14,"draw":6,"loss":10,"for":48,"against":33},
 	{"country":"swe","name":"Mjällby AIF","id":"Mjällby_AIF","win":13,"draw":8,"loss":9,"for":48,"against":44,"isReturning":true},

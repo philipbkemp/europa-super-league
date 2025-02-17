@@ -79,7 +79,7 @@
 	{"country":"rou","name":"Gloria CFR Galaţi","id":"Gloria_CFR_Galați","win":8,"draw":1,"loss":13,"for":27,"against":59,"isNew":true},
 	{"country":"rou","name":"Juventus București","id":"FC_Petrolul_Ploiești","win":4,"draw":6,"loss":12,"for":36,"against":48,"isRemoved":true},
 	{"country":"rou","name":"Victoria Cluj","id":"FC_Victoria_Cluj","win":4,"draw":4,"loss":14,"for":18,"against":40,"isRemoved":true},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":13,"draw":6,"loss":3,"for":66,"against":31,"isChampion":true},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":13,"draw":6,"loss":3,"for":66,"against":31,"isChampion":true},
 	{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":15,"draw":2,"loss":5,"for":49,"against":27,"isReturning":true},
 	{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":12,"draw":3,"loss":7,"for":49,"against":32},
 	{"country":"swe","name":"IK Brage","id":"IK_Brage","win":10,"draw":6,"loss":6,"for":42,"against":38},

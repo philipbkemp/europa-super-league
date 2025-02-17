@@ -183,7 +183,7 @@
 	{"country":"rou","name":"Unirea Alba Iulia","id":"CSM_Unirea_Alba_Iulia","win":7,"draw":5,"loss":22,"for":33,"against":62,"isRemoved":true,"isReturning":true},
 	{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":18,"draw":7,"loss":5,"for":36,"against":20,"isChampion":true},
 	{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":17,"draw":6,"loss":7,"for":53,"against":24},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":15,"draw":10,"loss":5,"for":43,"against":34},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":15,"draw":10,"loss":5,"for":43,"against":34},
 	{"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":14,"draw":8,"loss":8,"for":53,"against":39},
 	{"country":"swe","name":"BK Häcken","id":"BK_Häcken","win":13,"draw":9,"loss":8,"for":43,"against":30,"isReturning":true},
 	{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":12,"draw":9,"loss":9,"for":33,"against":32},

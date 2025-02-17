@@ -133,7 +133,7 @@
 	{"country":"rou","name":"Chinezul Timișoara","id":"Chinezul_Timișoara","win":6,"draw":7,"loss":9,"for":48,"against":56,"isRemoved":true,"isReturning":true},
 	{"country":"rou","name":"Tricolor Ploiești","id":"FC_Ploiești","win":7,"draw":3,"loss":12,"for":23,"against":38,"isRemoved":true,"isNew":true},
 	{"country":"rou","name":"Gloria Arad","id":"AFC_Gloria_Arad","win":5,"draw":7,"loss":10,"for":27,"against":43,"isRemoved":true,"isReturning":true},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":15,"draw":4,"loss":3,"for":65,"against":26,"isChampion":true},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":15,"draw":4,"loss":3,"for":65,"against":26,"isChampion":true},
 	{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":11,"draw":3,"loss":8,"for":49,"against":34},
 	{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":9,"draw":7,"loss":6,"for":30,"against":29},
 	{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":9,"draw":7,"loss":6,"for":29,"against":36},

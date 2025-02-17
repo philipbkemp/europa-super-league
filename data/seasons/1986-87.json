@@ -194,7 +194,7 @@
 	{"country":"swe","name":"Östers IF","id":"Östers_IF","win":6,"draw":8,"loss":8,"for":20,"against":28},
 	{"country":"swe","name":"IK Brage","id":"IK_Brage","win":8,"draw":4,"loss":10,"for":19,"against":27},
 	{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":7,"draw":5,"loss":10,"for":33,"against":35},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":5,"draw":8,"loss":9,"for":19,"against":26,"isReturning":true},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":5,"draw":8,"loss":9,"for":19,"against":26,"isReturning":true},
 	{"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":5,"draw":7,"loss":10,"for":22,"against":36,"isRemoved":true},
 	{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":7,"draw":1,"loss":14,"for":23,"against":43,"isRemoved":true,"isReturning":true},
 	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":21,"draw":10,"loss":5,"for":86,"against":40},

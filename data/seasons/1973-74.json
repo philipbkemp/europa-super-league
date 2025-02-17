@@ -197,7 +197,7 @@
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":9,"draw":11,"loss":6,"for":48,"against":34},
 	{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":11,"draw":6,"loss":9,"for":35,"against":34},
 	{"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":9,"draw":8,"loss":9,"for":33,"against":37},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":7,"draw":11,"loss":8,"for":36,"against":37,"isReturning":true},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":7,"draw":11,"loss":8,"for":36,"against":37,"isReturning":true},
 	{"country":"swe","name":"GAIS","id":"GAIS","win":9,"draw":7,"loss":10,"for":33,"against":42},
 	{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":8,"draw":8,"loss":10,"for":42,"against":42},
 	{"country":"swe","name":"IK Sirius","id":"IK_Sirius_Fotboll","win":7,"draw":5,"loss":14,"for":20,"against":48,"isReturning":true},

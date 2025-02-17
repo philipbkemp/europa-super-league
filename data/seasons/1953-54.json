@@ -154,7 +154,7 @@
 	{"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":9,"draw":3,"loss":10,"for":33,"against":42,"isReturning":true},
 	{"country":"swe","name":"Sandvikens IF","id":"Sandvikens_IF","win":7,"draw":5,"loss":10,"for":29,"against":37,"isRemoved":true,"isReturning":true},
 	{"country":"swe","name":"Jönköpings Södra IF","id":"Jönköpings_Södra_IF","win":6,"draw":5,"loss":11,"for":34,"against":41,"isRemoved":true},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":5,"draw":5,"loss":12,"for":24,"against":48,"isRemoved":true},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":5,"draw":5,"loss":12,"for":24,"against":48,"isRemoved":true},
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":18,"draw":5,"loss":3,"for":96,"against":43,"isChampion":true},
 	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":16,"draw":6,"loss":4,"for":73,"against":43},
 	{"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":12,"draw":7,"loss":7,"for":72,"against":42},

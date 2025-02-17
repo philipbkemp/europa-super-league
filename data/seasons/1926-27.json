@@ -86,7 +86,7 @@
 	{"country":"swe","name":"IFK Eskilstuna","id":"IFK_Eskilstuna","win":7,"draw":5,"loss":10,"for":51,"against":61},
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":6,"draw":6,"loss":10,"for":35,"against":50},
 	{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":7,"draw":2,"loss":13,"for":36,"against":56},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":6,"draw":4,"loss":12,"for":33,"against":60,"isNew":true},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":6,"draw":4,"loss":12,"for":33,"against":60,"isNew":true},
 	{"country":"swe","name":"Westermalm","id":"Westermalms_IF","win":5,"draw":4,"loss":13,"for":35,"against":58,"isRemoved":true,"isNew":true},
 	{"country":"swe","name":"IFK Uddevalla","id":"IFK_Uddevalla","win":2,"draw":4,"loss":16,"for":27,"against":65,"isRemoved":true},
 	{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":17,"draw":2,"loss":5,"for":81,"against":41,"isChampion":true},

@@ -124,7 +124,7 @@
 	{"country":"swe","name":"IK Sleipner","id":"IK_Sleipner","win":12,"draw":6,"loss":4,"for":46,"against":28,"isChampion":true},
 	{"country":"swe","name":"Hälsingborgs IF","id":"Helsingborgs_IF","win":12,"draw":2,"loss":8,"for":36,"against":27,"isReturning":true},
 	{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":10,"draw":6,"loss":6,"for":40,"against":31},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":12,"draw":2,"loss":8,"for":44,"against":37},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":12,"draw":2,"loss":8,"for":44,"against":37},
 	{"country":"swe","name":"Gårda","id":"Gårda_BK","win":8,"draw":9,"loss":5,"for":29,"against":28},
 	{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":9,"draw":6,"loss":7,"for":44,"against":37},
 	{"country":"swe","name":"IK Brage","id":"IK_Brage","win":9,"draw":3,"loss":10,"for":45,"against":44,"isNew":true},

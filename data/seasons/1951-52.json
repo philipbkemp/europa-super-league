@@ -150,7 +150,7 @@
 	{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":10,"draw":3,"loss":9,"for":39,"against":42},
 	{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":9,"draw":5,"loss":8,"for":40,"against":45},
 	{"country":"swe","name":"Jönköpings Södra IF","id":"Jönköpings_Södra_IF","win":7,"draw":3,"loss":12,"for":34,"against":40},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":4,"draw":6,"loss":12,"for":27,"against":47},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":4,"draw":6,"loss":12,"for":27,"against":47},
 	{"country":"swe","name":"Råå","id":"Råå_IF","win":4,"draw":4,"loss":14,"for":22,"against":58,"isRemoved":true},
 	{"country":"swe","name":"Åtvidabergs FF","id":"Åtvidabergs_FF","win":1,"draw":8,"loss":13,"for":21,"against":52,"isRemoved":true,"isNew":true},
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":20,"draw":1,"loss":5,"for":107,"against":39,"isChampion":true},

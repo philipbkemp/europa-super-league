@@ -183,7 +183,7 @@
 	{"country":"rou","name":"Național București","id":"FC_Progresul_București","win":6,"draw":6,"loss":22,"for":27,"against":52,"isRemoved":true},
 	{"country":"rou","name":"Argeș Pitești","id":"FC_Argeș_Pitești","win":5,"draw":9,"loss":20,"for":23,"against":47,"isRemoved":true},
 	{"country":"rou","name":"Jiul Petroşani","id":"CSM_Jiul_Petroșani","win":5,"draw":5,"loss":24,"for":15,"against":47,"isRemoved":true},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":13,"draw":11,"loss":2,"for":41,"against":19,"isChampion":true},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":13,"draw":11,"loss":2,"for":41,"against":19,"isChampion":true},
 	{"country":"swe","name":"AIK","id":"AIK_Fotboll","win":13,"draw":10,"loss":3,"for":46,"against":23,"isReturning":true},
 	{"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":13,"draw":7,"loss":6,"for":40,"against":31,"deduct":-3,"deductReason":"Turmult during game"},
 	{"country":"swe","name":"Helsingborgs IF","id":"Helsingborgs_IF","win":11,"draw":9,"loss":6,"for":44,"against":34},

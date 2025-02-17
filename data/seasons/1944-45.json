@@ -30,7 +30,7 @@
 	{"country":"mlt","name":"Floriana F.C.","id":"floriana_fc","win":1,"draw":1,"loss":1,"for":3,"against":5,"isReturning":true},
 	{"country":"mlt","name":"Melita F.C.","id":"Melita_F.C.","win":1,"draw":0,"loss":2,"for":4,"against":11,"isReturning":true},
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":17,"draw":3,"loss":2,"for":71,"against":23,"isChampion":true},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":13,"draw":6,"loss":3,"for":52,"against":31},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":13,"draw":6,"loss":3,"for":52,"against":31},
 	{"country":"swe","name":"Malmö FF","id":"malmo_ff","win":12,"draw":4,"loss":6,"for":58,"against":31},
 	{"country":"swe","name":"IFK Göteborg","id":"IFK_Göteborg","win":12,"draw":3,"loss":7,"for":57,"against":43},
 	{"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":10,"draw":5,"loss":7,"for":35,"against":32},

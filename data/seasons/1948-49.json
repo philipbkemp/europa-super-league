@@ -156,7 +156,7 @@
 	{"country":"swe","name":"IFK Norrköping","id":"IFK_Norrköping","win":8,"draw":6,"loss":8,"for":38,"against":33},
 	{"country":"swe","name":"Jönköpings Södra IF","id":"Jönköpings_Södra_IF","win":6,"draw":10,"loss":6,"for":34,"against":52},
 	{"country":"swe","name":"IS Halmia","id":"IS_Halmia","win":6,"draw":7,"loss":9,"for":33,"against":39},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":7,"draw":4,"loss":11,"for":28,"against":47},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":7,"draw":4,"loss":11,"for":28,"against":47},
 	{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":5,"draw":4,"loss":13,"for":30,"against":57,"isRemoved":true,"isReturning":true},
 	{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":3,"draw":5,"loss":14,"for":26,"against":60,"isRemoved":true,"isReturning":true},
 	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":13,"draw":1,"loss":4,"for":65,"against":27,"isChampion":true},

@@ -721,7 +721,7 @@ THEDATA = [
 	{"country":"swe","name":"Djurgårdens IF","id":"Djurgårdens_IF_Fotboll","win":16,"draw":5,"loss":9,"for":45,"against":35},
 	{"country":"swe","name":"Mjällby AIF","id":"Mjällby_AIF","win":14,"draw":8,"loss":8,"for":44,"against":35},
 	{"country":"swe","name":"GAIS","id":"GAIS","win":14,"draw":6,"loss":10,"for":36,"against":34,"isReturning":true},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":13,"draw":6,"loss":11,"for":52,"against":44},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":13,"draw":6,"loss":11,"for":52,"against":44},
 	{"country":"swe","name":"BK Häcken","id":"BK_Häcken","win":12,"draw":6,"loss":12,"for":54,"against":51},
 	{"country":"swe","name":"IK Sirius","id":"IK_Sirius_Fotboll","win":12,"draw":5,"loss":13,"for":47,"against":46},
 	{"country":"swe","name":"IF Brommapojkarna","id":"IF_Brommapojkarna","win":8,"draw":10,"loss":12,"for":46,"against":53},

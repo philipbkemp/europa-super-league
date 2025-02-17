@@ -197,7 +197,7 @@
 	{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":7,"draw":7,"loss":8,"for":20,"against":25},
 	{"country":"swe","name":"Östers IF","id":"Östers_IF","win":5,"draw":10,"loss":7,"for":26,"against":24},
 	{"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":6,"draw":7,"loss":9,"for":22,"against":27},
-	{"country":"swe","name":"IF Elfsborg","id":"IF_Elfsborg","win":6,"draw":2,"loss":14,"for":20,"against":34,"isRemoved":true},
+	{"country":"swe","name":"IF Elfsborg","id":"if_elfsborg","win":6,"draw":2,"loss":14,"for":20,"against":34,"isRemoved":true},
 	{"country":"swe","name":"IFK Luleå","id":"IFK_Luleå","win":4,"draw":6,"loss":12,"for":20,"against":44,"isRemoved":true,"isNew":true},
 	{"country":"aut","name":"FC Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":15,"draw":9,"loss":4,"for":49,"against":20,"isChampion":true},
 	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":17,"draw":4,"loss":7,"for":49,"against":34},
