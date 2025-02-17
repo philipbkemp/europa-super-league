@@ -580,7 +580,7 @@
 	{"country":"kaz","name":"Taraz","id":"FC_Taraz","win":12,"draw":7,"loss":11,"for":42,"against":34,"isNew":true},
 	{"country":"kaz","name":"Batyr","id":"FC_Ekibastuzets","win":10,"draw":8,"loss":12,"for":36,"against":34,"isNew":true},
 	{"country":"kaz","name":"Khimik","id":"FC_Tobol","win":11,"draw":5,"loss":14,"for":42,"against":37,"isNew":true},
-	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":10,"draw":6,"loss":14,"for":36,"against":42,"isReturning":true},
+	{"country":"kaz","name":"Kairat","id":"fc_kairat","win":10,"draw":6,"loss":14,"for":36,"against":42,"isReturning":true},
 	{"country":"kaz","name":"Gornyak","id":"FC_Gornyak","win":8,"draw":6,"loss":16,"for":29,"against":60,"isNew":true},
 	{"country":"kaz","name":"Vostok","id":"FC_Vostok","win":8,"draw":6,"loss":16,"for":39,"against":58,"isNew":true},
 	{"country":"kaz","name":"Tsesna Akmola","id":"FC_Zhenis","win":6,"draw":7,"loss":17,"for":24,"against":48,"isNew":true},

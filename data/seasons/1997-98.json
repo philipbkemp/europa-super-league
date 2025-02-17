@@ -552,7 +552,7 @@
 	{"country":"deu","name":"Arminia Bielefeld","id":"Arminia_Bielefeld","win":8,"draw":8,"loss":18,"for":43,"against":56,"isRemoved":true},
 	{"country":"kaz","name":"Irtysh Pavlodar","id":"FC_Irtysh_Pavlodar","win":17,"draw":5,"loss":4,"for":46,"against":15,"isChampion":true},
 	{"country":"kaz","name":"Taraz","id":"FC_Taraz","win":18,"draw":2,"loss":6,"for":49,"against":18},
-	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":16,"draw":5,"loss":5,"for":52,"against":14,"isRemoved":true},
+	{"country":"kaz","name":"Kairat","id":"fc_kairat","win":16,"draw":5,"loss":5,"for":52,"against":14,"isRemoved":true},
 	{"country":"kaz","name":"Shakhter-Ispat-Karmet","id":"FC_Shakhter_Karagandy","win":16,"draw":4,"loss":6,"for":40,"against":22},
 	{"country":"kaz","name":"Vostok Adil","id":"FC_Vostok","win":14,"draw":8,"loss":4,"for":42,"against":16},
 	{"country":"kaz","name":"Batyr","id":"FC_Ekibastuzets","win":15,"draw":2,"loss":9,"for":38,"against":22},

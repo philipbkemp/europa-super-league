@@ -427,7 +427,7 @@
 	{"country":"sov","name":"Shakhtar Donetsk","id":"fc_shakhtar_donetsk","win":11,"draw":14,"loss":13,"for":29,"against":33,"isReturning":true},
 	{"country":"sov","name":"Torpedo Kutaisi","id":"FC_Torpedo_Kutaisi","win":6,"draw":21,"loss":11,"for":22,"against":37,"isNew":true},
 	{"country":"sov","name":"Moldova Chisinau","id":"FC_Zimbru_Chișinău","win":8,"draw":16,"loss":14,"for":27,"against":43,"isReturning":true},
-	{"country":"sov","name":"Kairat Alma-Ata","id":"FC_Kairat","win":10,"draw":12,"loss":16,"for":28,"against":47,"isNew":true},
+	{"country":"sov","name":"Kairat Alma-Ata","id":"fc_kairat","win":10,"draw":12,"loss":16,"for":28,"against":47,"isNew":true},
 	{"country":"sov","name":"Krylya Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":11,"draw":7,"loss":20,"for":45,"against":53,"isReturning":true},
 	{"country":"sov","name":"Dynamo Leningrad","id":"FC_Dynamo_Saint_Petersburg","win":7,"draw":15,"loss":16,"for":37,"against":51,"isRemoved":true,"isReturning":true},
 	{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":5,"draw":19,"loss":14,"for":37,"against":54,"isRemoved":true,"isReturning":true},

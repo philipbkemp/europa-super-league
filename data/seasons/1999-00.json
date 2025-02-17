@@ -540,7 +540,7 @@
 	{"country":"deu","name":"MSV Duisburg","id":"MSV_Duisburg","win":4,"draw":10,"loss":20,"for":37,"against":71,"isRemoved":true},
 	{"country":"kaz","name":"Irtysh Pavlodar","id":"FC_Irtysh_Pavlodar","win":24,"draw":4,"loss":2,"for":69,"against":19,"isChampion":true},
 	{"country":"kaz","name":"Access-Esil","id":"FC_Kyzylzhar","win":23,"draw":3,"loss":4,"for":56,"against":19,"isNew":true},
-	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":21,"draw":1,"loss":8,"for":62,"against":19,"isReturning":true},
+	{"country":"kaz","name":"Kairat","id":"fc_kairat","win":21,"draw":1,"loss":8,"for":62,"against":19,"isReturning":true},
 	{"country":"kaz","name":"Zhenis Astana","id":"FC_Zhenis","win":18,"draw":5,"loss":7,"for":60,"against":25},
 	{"country":"kaz","name":"Kaisar-Hurricane","id":"FC_Kaisar","win":17,"draw":7,"loss":6,"for":47,"against":19},
 	{"country":"kaz","name":"Sintez","id":"FC_Tomiris","win":17,"draw":5,"loss":8,"for":48,"against":31,"isNew":true,"isRemoved":true},

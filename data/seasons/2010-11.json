@@ -545,7 +545,7 @@
 	{"country":"kaz","name":"Zhetysu","id":"FC_Zhetysu","win":13,"draw":10,"loss":9,"for":36,"against":26},
 	{"country":"kaz","name":"Ordabasy","id":"FC_Ordabasy","win":12,"draw":9,"loss":11,"for":37,"against":34},
 	{"country":"kaz","name":"Taraz","id":"FC_Taraz","win":9,"draw":10,"loss":13,"for":36,"against":40},
-	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":6,"draw":11,"loss":15,"for":17,"against":38,"isReturning":true},
+	{"country":"kaz","name":"Kairat","id":"fc_kairat","win":6,"draw":11,"loss":15,"for":17,"against":38,"isReturning":true},
 	{"country":"kaz","name":"Akzhayik","id":"FC_Akzhayik","win":7,"draw":5,"loss":20,"for":33,"against":58,"isRemoved":true,"isReturning":true},
 	{"country":"kaz","name":"Okzhetpes","id":"FC_Okzhetpes","win":6,"draw":7,"loss":19,"for":24,"against":57,"isRemoved":true},
 	{"country":"mda","name":"Dacia Chișinău","id":"FC_Dacia_Chișinău","win":27,"draw":11,"loss":1,"for":66,"against":16,"isChampion":true},

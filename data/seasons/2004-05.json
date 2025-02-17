@@ -525,7 +525,7 @@
 	{"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":9,"draw":8,"loss":17,"for":47,"against":68,"isRemoved":true},
 	{"country":"deu","name":"Hansa Rostock","id":"FC_Hansa_Rostock","win":7,"draw":9,"loss":18,"for":31,"against":65,"isRemoved":true},
 	{"country":"deu","name":"SC Freiburg","id":"SC_Freiburg","win":3,"draw":9,"loss":22,"for":30,"against":75,"isRemoved":true},
-	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":25,"draw":8,"loss":3,"for":70,"against":21,"isChampion":true},
+	{"country":"kaz","name":"Kairat","id":"fc_kairat","win":25,"draw":8,"loss":3,"for":70,"against":21,"isChampion":true},
 	{"country":"kaz","name":"Irtysh","id":"FC_Irtysh_Pavlodar","win":24,"draw":7,"loss":5,"for":56,"against":16},
 	{"country":"kaz","name":"Tobol","id":"FC_Tobol","win":22,"draw":11,"loss":3,"for":87,"against":27},
 	{"country":"kaz","name":"Aktobe-Lento","id":"FC_Aktobe","win":22,"draw":8,"loss":6,"for":52,"against":19},

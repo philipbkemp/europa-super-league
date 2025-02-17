@@ -430,7 +430,7 @@
 	{"country":"sov","name":"Neftyanik Baku","id":"neftci_pfk","win":8,"draw":11,"loss":13,"for":25,"against":30},
 	{"country":"sov","name":"Torpedo Kutaisi","id":"FC_Torpedo_Kutaisi","win":10,"draw":7,"loss":15,"for":20,"against":37},
 	{"country":"sov","name":"Volga Gorky","id":"FC_Volga_Nizhny_Novgorod","win":7,"draw":13,"loss":12,"for":19,"against":38,"isRemoved":true,"isNew":true},
-	{"country":"sov","name":"Kairat Alma-Ata","id":"FC_Kairat","win":8,"draw":10,"loss":14,"for":23,"against":27,"isRemoved":true},
+	{"country":"sov","name":"Kairat Alma-Ata","id":"fc_kairat","win":8,"draw":10,"loss":14,"for":23,"against":27,"isRemoved":true},
 	{"country":"sov","name":"Shinnik Yaroslavl","id":"FC_Shinnik_Yaroslavl","win":6,"draw":9,"loss":17,"for":20,"against":48,"isRemoved":true,"isNew":true},
 	{"country":"sov","name":"Moldova Chișinău","id":"FC_Zimbru_Chișinău","win":6,"draw":6,"loss":20,"for":15,"against":44,"isRemoved":true},
 	{"country":"fro","name":"Havnar Bóltfelag","id":"havnar_boltfelag","win":3,"draw":0,"loss":1,"for":15,"against":6,"isChampion":true},

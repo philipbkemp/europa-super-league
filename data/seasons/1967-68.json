@@ -440,7 +440,7 @@
 	{"country":"sov","name":"Krylya Sovetov Kuybyshev","id":"PFC_Krylia_Sovetov_Samara","win":8,"draw":18,"loss":10,"for":23,"against":28},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":12,"draw":9,"loss":15,"for":38,"against":47},
 	{"country":"sov","name":"Torpedo Kutaisi","id":"FC_Torpedo_Kutaisi","win":8,"draw":15,"loss":13,"for":37,"against":50},
-	{"country":"sov","name":"Kairat Alma-Ata","id":"FC_Kairat","win":10,"draw":11,"loss":15,"for":27,"against":47},
+	{"country":"sov","name":"Kairat Alma-Ata","id":"fc_kairat","win":10,"draw":11,"loss":15,"for":27,"against":47},
 	{"country":"sov","name":"Pakhtakor Tashkent","id":"Pakhtakor_FC","win":5,"draw":19,"loss":12,"for":31,"against":42},
 	{"country":"sov","name":"Zarya Voroshilovgrad","id":"FC_Zorya_Luhansk","win":8,"draw":13,"loss":15,"for":27,"against":42,"isNew":true},
 	{"country":"sov","name":"Lokomotiv Moscow","id":"FC_Lokomotiv_Moscow","win":7,"draw":14,"loss":15,"for":33,"against":37},

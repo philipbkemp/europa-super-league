@@ -466,7 +466,7 @@
 	{"country":"sov","name":"Dynamo Moscow","id":"FC_Dynamo_Moscow","win":9,"draw":13,"loss":8,"for":35,"against":22},
 	{"country":"sov","name":"Spartak Moscow","id":"FC_Spartak_Moscow","win":9,"draw":13,"loss":8,"for":35,"against":31},
 	{"country":"sov","name":"Torpedo Moscow","id":"FC_Torpedo_Moscow","win":4,"draw":20,"loss":6,"for":27,"against":27},
-	{"country":"sov","name":"Kairat Alma-Ata","id":"FC_Kairat","win":9,"draw":10,"loss":11,"for":36,"against":40,"isReturning":true},
+	{"country":"sov","name":"Kairat Alma-Ata","id":"fc_kairat","win":9,"draw":10,"loss":11,"for":36,"against":40,"isReturning":true},
 	{"country":"sov","name":"Neftchi Baku","id":"neftci_pfk","win":9,"draw":10,"loss":11,"for":30,"against":34},
 	{"country":"sov","name":"Karpaty Lviv","id":"FC_Karpaty_Lviv","win":5,"draw":18,"loss":7,"for":30,"against":35,"isNew":true},
 	{"country":"sov","name":"Dinamo Minsk","id":"fc_dinamo_minsk","win":8,"draw":12,"loss":10,"for":36,"against":43},

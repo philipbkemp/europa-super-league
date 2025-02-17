@@ -541,7 +541,7 @@
 	{"country":"kaz","name":"Zhenis Astana","id":"FC_Zhenis","win":24,"draw":2,"loss":2,"for":69,"against":20,"isChampion":true},
 	{"country":"kaz","name":"Access-Golden Grain","id":"FC_Kyzylzhar","win":24,"draw":2,"loss":2,"for":59,"against":10},
 	{"country":"kaz","name":"Irtysh Pavlodar","id":"FC_Irtysh_Pavlodar","win":19,"draw":3,"loss":6,"for":50,"against":26},
-	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":18,"draw":6,"loss":4,"for":48,"against":17},
+	{"country":"kaz","name":"Kairat","id":"fc_kairat","win":18,"draw":6,"loss":4,"for":48,"against":17},
 	{"country":"kaz","name":"Shakhter-Ispat-Karmet","id":"FC_Shakhter_Karagandy","win":14,"draw":6,"loss":8,"for":38,"against":26},
 	{"country":"kaz","name":"Kaisar-Hurricane","id":"FC_Kaisar","win":12,"draw":7,"loss":9,"for":36,"against":23},
 	{"country":"kaz","name":"Tobol","id":"FC_Tobol","win":13,"draw":3,"loss":12,"for":42,"against":39},

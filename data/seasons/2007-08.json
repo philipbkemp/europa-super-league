@@ -548,7 +548,7 @@
 	{"country":"kaz","name":"Kaisar","id":"FC_Kaisar","win":10,"draw":7,"loss":13,"for":27,"against":37},
 	{"country":"kaz","name":"Esil Bogatyr","id":"FC_Kyzylzhar","win":8,"draw":13,"loss":9,"for":24,"against":28},
 	{"country":"kaz","name":"Ekibastuzets","id":"FC_Ekibastuzets","win":8,"draw":8,"loss":14,"for":28,"against":38,"isRemoved":true,"removedNote":"Administratively relegated due to match fixing"},
-	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":9,"draw":3,"loss":18,"for":23,"against":43},
+	{"country":"kaz","name":"Kairat","id":"fc_kairat","win":9,"draw":3,"loss":18,"for":23,"against":43},
 	{"country":"kaz","name":"Atyrau","id":"FC_Atyrau","win":8,"draw":6,"loss":16,"for":29,"against":39},
 	{"country":"kaz","name":"Okzhetpes","id":"FC_Okzhetpes","win":8,"draw":5,"loss":17,"for":26,"against":56},
 	{"country":"kaz","name":"Taraz","id":"FC_Taraz","win":3,"draw":6,"loss":21,"for":16,"against":50,"isRemoved":true},

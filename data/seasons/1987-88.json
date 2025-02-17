@@ -478,7 +478,7 @@
 	{"country":"sov","name":"Neftchi Baku","id":"neftci_pfk","win":9,"draw":10,"loss":11,"for":33,"against":30},
 	{"country":"sov","name":"Dinamo Moscow","id":"FC_Dynamo_Moscow","win":9,"draw":11,"loss":10,"for":27,"against":30},
 	{"country":"sov","name":"Metalist Kharkiv","id":"FC_Metalist_Kharkiv","win":10,"draw":7,"loss":13,"for":23,"against":32},
-	{"country":"sov","name":"Kairat Alma-Ata","id":"FC_Kairat","win":10,"draw":6,"loss":14,"for":27,"against":38},
+	{"country":"sov","name":"Kairat Alma-Ata","id":"fc_kairat","win":10,"draw":6,"loss":14,"for":27,"against":38},
 	{"country":"sov","name":"Dinamo Tbilisi","id":"fc_dinamo_tbilisi","win":9,"draw":7,"loss":14,"for":31,"against":40},
 	{"country":"sov","name":"Zenit Leningrad","id":"fc_zenit_saint_petersburg","win":7,"draw":10,"loss":13,"for":25,"against":37},
 	{"country":"sov","name":"CSKA Moscow","id":"pfc_cska_moscow","win":7,"draw":11,"loss":12,"for":26,"against":35,"isRemoved":true,"isReturning":true},

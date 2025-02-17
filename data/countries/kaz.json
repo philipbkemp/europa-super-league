@@ -1,13 +1,14 @@
 {
 	"teams":[
-		"FC_Elimai","FC_Irtysh_Pavlodar","FC_Zhiger","FC_Aktobe","FC_Ordabasy","FC_Shakhter_Karagandy","FC_Shakhter-Bulat","FC_Taraz","FC_Ekibastuzets","FC_Tobol","FC_Kairat","FC_Gornyak","FC_Vostok","FC_Zhenis","FC_Turkestan","FC_Akzhayik","FC_Zhetysu","FC_Caspiy","FC_Kaisar","FC_Ulytau","FC_Okzhetpes","FC_CSKA_Almaty","FC_Nasha_Kampaniya","FC_Kyzylzhar","FC_Tomiris","FC_Atyrau","FC_Alma-Ata","FC_Ekibastuz","FC_Megasport","fc_astana","FC_Kazakhmys","FC_Sunkar","FC_Turan","FC_Aksu","FC_Maktaaral"
+		"FC_Elimai","FC_Irtysh_Pavlodar","FC_Zhiger","FC_Aktobe","FC_Ordabasy","FC_Shakhter_Karagandy","FC_Shakhter-Bulat","FC_Taraz","FC_Ekibastuzets","FC_Tobol","fc_kairat","FC_Gornyak","FC_Vostok","FC_Zhenis","FC_Turkestan","FC_Akzhayik","FC_Zhetysu","FC_Caspiy","FC_Kaisar","FC_Ulytau","FC_Okzhetpes","FC_CSKA_Almaty","FC_Nasha_Kampaniya","FC_Kyzylzhar","FC_Tomiris","FC_Atyrau","FC_Alma-Ata","FC_Ekibastuz","FC_Megasport","fc_astana","FC_Kazakhmys","FC_Sunkar","FC_Turan","FC_Aksu","FC_Maktaaral"
 	],"redirects":[
-		["FC_Astana","fc_astana"],["FC_Spartak_Semey","FC_Elimai"],["FC_Irtysh_Pavlodar#Ansat","FC_Irtysh_Pavlodar"],["FC_Ordabasy#Zhiger","FC_Zhiger"],["FC_Bolat","FC_Shakhter-Bulat"],["FC_Ekibastuzets#Batyr","FC_Ekibastuzets"],["FC_Tobol#Khimik","FC_Tobol"],["FC_Astana-1964","FC_Zhenis"],["FC_Yassi","FC_Turkestan"],["FC_Akzhayik#Uralets-Arma","FC_Akzhayik"],["FC_Astana-1964#Tsesna_Akmola","FC_Zhenis"],["FC_Caspiy#Munaishy","FC_Caspiy"],["FC_Ulytau#Metallist","FC_Ulytau"],["FC_Okzhetpes#Kokshe","FC_Okzhetpes"],["FC_Okzhetpes#Khimik","FC_Okzhetpes"],["FC_Akzhayik#Naryn","FC_Akzhayik"],["FC_Ordabasy#Sintez","FC_Tomiris"],["FC_Okzhetpes#Akmola","FC_Okzhetpes"],["FC_Ordabasy#Dostyk","FC_Ordabasy"],["FC_Astana-64","FC_Zhenis"],["FC_Esil_Bogatyr","FC_Kyzylzhar"],["FC_Energetik-2","FC_Ekibastuz"]
+		["FC_Kairat","fc_kairat"],["FC_Astana","fc_astana"],["FC_Spartak_Semey","FC_Elimai"],["FC_Irtysh_Pavlodar#Ansat","FC_Irtysh_Pavlodar"],["FC_Ordabasy#Zhiger","FC_Zhiger"],["FC_Bolat","FC_Shakhter-Bulat"],["FC_Ekibastuzets#Batyr","FC_Ekibastuzets"],["FC_Tobol#Khimik","FC_Tobol"],["FC_Astana-1964","FC_Zhenis"],["FC_Yassi","FC_Turkestan"],["FC_Akzhayik#Uralets-Arma","FC_Akzhayik"],["FC_Astana-1964#Tsesna_Akmola","FC_Zhenis"],["FC_Caspiy#Munaishy","FC_Caspiy"],["FC_Ulytau#Metallist","FC_Ulytau"],["FC_Okzhetpes#Kokshe","FC_Okzhetpes"],["FC_Okzhetpes#Khimik","FC_Okzhetpes"],["FC_Akzhayik#Naryn","FC_Akzhayik"],["FC_Ordabasy#Sintez","FC_Tomiris"],["FC_Okzhetpes#Akmola","FC_Okzhetpes"],["FC_Ordabasy#Dostyk","FC_Ordabasy"],["FC_Astana-64","FC_Zhenis"],["FC_Esil_Bogatyr","FC_Kyzylzhar"],["FC_Energetik-2","FC_Ekibastuz"]
 	],"previous":[
-		"FC_Kairat","FC_Aktobe","FC_Elimai","FC_Ordabasy","FC_Kaisar","FC_Tobol","FC_Atyrau","fc_astana","FC_Zhetysu","FC_Kyzylzhar","FC_Turan","FC_Zhenis","FC_Shakhter_Karagandy"
+		"fc_kairat","FC_Aktobe","FC_Elimai","FC_Ordabasy","FC_Kaisar","FC_Tobol","FC_Atyrau","fc_astana","FC_Zhetysu","FC_Kyzylzhar","FC_Turan","FC_Zhenis","FC_Shakhter_Karagandy"
 	]
 }
 
 /*
 	FC_Astana		=>	fc_astana
+	FC_Kairat		=>	fc_kairat
 */

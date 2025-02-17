@@ -666,7 +666,7 @@ THEDATA = [
 	{"country":"isl","name":"Vestri","id":"Vestri_men%27s_football","win":6,"draw":7,"loss":14,"for":32,"against":53,"isNew":true},
 	{"country":"isl","name":"HK","id":"Handknattleiksfélag_Kópavogs","win":7,"draw":4,"loss":16,"for":34,"against":71,"isRemoved":true},
 	{"country":"isl","name":"Fylkir","id":"Fylkir","win":5,"draw":6,"loss":16,"for":32,"against":60,"isRemoved":true},
-	{"country":"kaz","name":"Kairat","id":"FC_Kairat","win":14,"draw":5,"loss":5,"for":39,"against":21,"isChampion":true},
+	{"country":"kaz","name":"Kairat","id":"fc_kairat","win":14,"draw":5,"loss":5,"for":39,"against":21,"isChampion":true},
 	{"country":"kaz","name":"Astana","id":"fc_astana","win":14,"draw":4,"loss":6,"for":39,"against":19},
 	{"country":"kaz","name":"Aktobe","id":"FC_Aktobe","win":12,"draw":7,"loss":5,"for":39,"against":26},
 	{"country":"kaz","name":"Ordabasy","id":"FC_Ordabasy","win":12,"draw":6,"loss":6,"for":36,"against":24},

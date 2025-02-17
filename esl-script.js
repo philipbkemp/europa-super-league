@@ -97,7 +97,7 @@ clubPages = ["not-a-real-club"
 	/*isr*/	,"maccabi_tel_aviv_fc","maccabi_haifa_fc"
 	/*ita*/	,"inter_milan","ac_milan","juventus_fc"
 	/*ltu*/	,"fk_zalgiris"
-	/*kaz*/	,"fc_astana"
+	/*kaz*/	,"fc_astana","fc_kairat"
 	/*kos*/	,"fc_ballkani"
 	/*lux*/	,"f91_dudelange","fa_red_boys_differdange","us_hollerich_bonnevoie","fc_differdange_03","fc_progres_niederkorn"
 	/*lva*/	,"fk_alfa","fk_ask","fk_avn","fk_liepajas_metalurgs","olimpia_liepaja","skonto_fc","fk_rfs","riga_fc"
@@ -122,7 +122,7 @@ clubPages = ["not-a-real-club"
 	/*ede*/	,"berliner_fc_dynamo"
 ];
 
-multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk","hsk_zrinjski_mostar","fc_viktoria_plzen","bayer_04_leverkusen","fc_dinamo_minsk","sk_slovan_bratislava","fk_buducnost_podgorica","fk_zalgiris","fc_zenit_saint_petersburg","maccabi_tel_aviv_fc","fc_shakhtar_donetsk","maccabi_haifa_fc","borussia_dortmund","cliftonville_fc","pfc_cska_moscow","fc_dinamo_tbilisi","hnk_hajduk_split"];
+multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk","hsk_zrinjski_mostar","fc_viktoria_plzen","bayer_04_leverkusen","fc_dinamo_minsk","sk_slovan_bratislava","fk_buducnost_podgorica","fk_zalgiris","fc_zenit_saint_petersburg","maccabi_tel_aviv_fc","fc_shakhtar_donetsk","maccabi_haifa_fc","borussia_dortmund","cliftonville_fc","pfc_cska_moscow","fc_dinamo_tbilisi","hnk_hajduk_split","fc_kairat"];
 
 if ( $("h1 .placeholder").length !== 0 ) {
 
@@ -938,6 +938,8 @@ function saveClubs(refresh=false,dump=true) {
 					countryFlag = "hrv";
 				} else if ( v === "maccabi_tel_aviv_fc" || v === "maccabi_haifa_fc" ) {
 					countryFlag = "isr";
+				} else if ( v === "fc_kairat" ) {
+					countryFlag = "kaz";
 				} else if ( v === "fk_zalgiris" ) {
 					countryFlag = "ltu";
 				} else if ( v === "fk_buducnost_podgorica" ) {
