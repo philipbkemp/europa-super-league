@@ -1126,12 +1126,12 @@ function calcPromotionRelegationLimits() {
 
 
 function toggleDatalist(input) {
-const datalist = document.getElementById('datalistOptions');
-if (input.value.length >= 3) {
-input.setAttribute('list', 'datalistOptions');
-} else {
-input.removeAttribute('list');
-}
+	const datalist = document.getElementById('datalistOptions');
+	if (input.value.length >= 3) {
+		input.setAttribute('list', 'datalistOptions');
+	} else {
+		input.removeAttribute('list');
+	}
 }
 
 if ( document.getElementById('exampleDataList') ) {
