@@ -612,7 +612,7 @@
 	{"country":"mda","name":"Cristalul Fălești","id":"FC_Spicul_Fălești","win":3,"draw":3,"loss":16,"for":25,"against":60,"isNew":true},
 	{"country":"mda","name":"Constructorul Leova","id":"FC_Prut_Leova","win":2,"draw":3,"loss":17,"for":11,"against":63,"isRemoved":true,"isNew":true},
 	{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":30,"draw":6,"loss":4,"for":102,"against":18,"isChampion":true},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":25,"draw":9,"loss":6,"for":76,"against":30,"isReturning":true},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":25,"draw":9,"loss":6,"for":76,"against":30,"isReturning":true},
 	{"country":"svn","name":"Izola","id":"NK_Izola","win":22,"draw":12,"loss":6,"for":62,"against":26,"isNew":true},
 	{"country":"svn","name":"Gorica","id":"ND_Gorica","win":15,"draw":16,"loss":9,"for":63,"against":40,"isNew":true},
 	{"country":"svn","name":"Ljubljana","id":"NK_Ljubljana","win":17,"draw":12,"loss":11,"for":59,"against":41,"isNew":true},

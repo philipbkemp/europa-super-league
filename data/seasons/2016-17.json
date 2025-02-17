@@ -544,7 +544,7 @@
 	{"country":"rus","name":"Arsenal Tula","id":"FC_Arsenal_Tula","win":7,"draw":7,"loss":16,"for":18,"against":40,"isReturning":true},
 	{"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":6,"draw":10,"loss":14,"for":31,"against":39,"isRemoved":true},
 	{"country":"rus","name":"Tom Tomsk","id":"FC_Tom_Tomsk","win":3,"draw":5,"loss":22,"for":17,"against":64,"isRemoved":true,"isReturning":true},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":21,"draw":10,"loss":5,"for":63,"against":30,"isChampion":true},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":21,"draw":10,"loss":5,"for":63,"against":30,"isChampion":true},
 	{"country":"svn","name":"Gorica","id":"ND_Gorica","win":16,"draw":12,"loss":8,"for":48,"against":39},
 	{"country":"svn","name":"Olimpija Ljubljana","id":"nk_olimpija_ljubljana","win":17,"draw":9,"loss":10,"for":49,"against":35},
 	{"country":"svn","name":"Domžale","id":"NK_Domžale","win":16,"draw":8,"loss":12,"for":63,"against":45},

@@ -305,7 +305,7 @@
 	{"country":"yug","name":"Radnički Niš","id":"FK_Radnički_Niš","win":13,"draw":2,"loss":15,"for":36,"against":48},
 	{"country":"yug","name":"NK Zagreb","id":"Borac_Zagreb","win":10,"draw":7,"loss":13,"for":53,"against":54},
 	{"country":"yug","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":9,"draw":9,"loss":12,"for":33,"against":46},
-	{"country":"yug","name":"Maribor","id":"NK_Maribor","win":8,"draw":11,"loss":11,"for":38,"against":53,"isNew":true},
+	{"country":"yug","name":"Maribor","id":"nk_maribor","win":8,"draw":11,"loss":11,"for":38,"against":53,"isNew":true},
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":7,"draw":12,"loss":11,"for":28,"against":30},
 	{"country":"yug","name":"Velež","id":"FK_Velež_Mostar","win":9,"draw":8,"loss":13,"for":33,"against":40},
 	{"country":"yug","name":"OFK Belgrade","id":"ofk_beograd","win":9,"draw":7,"loss":14,"for":38,"against":46},

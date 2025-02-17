@@ -316,7 +316,7 @@
 	{"country":"yug","name":"Sloboda Tuzla","id":"FK_Sloboda_Tuzla","win":9,"draw":14,"loss":11,"for":23,"against":29},
 	{"country":"yug","name":"Radnički Niš","id":"FK_Radnički_Niš","win":11,"draw":9,"loss":14,"for":38,"against":43},
 	{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":9,"draw":11,"loss":14,"for":42,"against":51},
-	{"country":"yug","name":"Maribor","id":"NK_Maribor","win":9,"draw":11,"loss":14,"for":33,"against":48},
+	{"country":"yug","name":"Maribor","id":"nk_maribor","win":9,"draw":11,"loss":14,"for":33,"against":48},
 	{"country":"yug","name":"Borac Banja Luka","id":"FK_Borac_Banja_Luka","win":9,"draw":11,"loss":14,"for":47,"against":66,"isReturning":true},
 	{"country":"yug","name":"Vojvodina","id":"FK_Vojvodina","win":9,"draw":10,"loss":15,"for":38,"against":43},
 	{"country":"yug","name":"Radnički Kragujevac","id":"FK_Radnički_1923","win":9,"draw":10,"loss":15,"for":29,"against":50},

@@ -530,7 +530,7 @@ THEDATA = [
 	{"country":"svk","name":"Ružomberok","id":"MFK_Ružomberok","win":4,"draw":5,"loss":11,"for":20,"against":35,"isCurrentSeason":true},
 	{"country":"svk","name":"Komárno","id":"KFC_Komárno","win":5,"draw":2,"loss":12,"for":21,"against":36,"isNew":true,"isCurrentSeason":true},
 	{"country":"svn","name":"Olimpija Ljubljana","id":"nk_olimpija_ljubljana","win":14,"draw":6,"loss":1,"for":36,"against":7,"isCurrentSeason":true},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":11,"draw":6,"loss":4,"for":37,"against":19,"isCurrentSeason":true},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":11,"draw":6,"loss":4,"for":37,"against":19,"isCurrentSeason":true},
 	{"country":"svn","name":"Bravo","id":"NK_Bravo","win":11,"draw":6,"loss":4,"for":35,"against":23,"isCurrentSeason":true},
 	{"country":"svn","name":"Koper","id":"FC_Koper","win":11,"draw":3,"loss":6,"for":30,"against":17,"isCurrentSeason":true},
 	{"country":"svn","name":"Celje","id":"nk_celje","win":9,"draw":5,"loss":7,"for":35,"against":31,"isCurrentSeason":true},

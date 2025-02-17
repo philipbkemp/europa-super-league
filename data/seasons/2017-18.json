@@ -556,7 +556,7 @@
 	{"country":"rus","name":"Tosno (D)","id":"FC_Tosno","win":6,"draw":6,"loss":18,"for":23,"against":54,"isRemoved":true,"isNew":true,"removedNote":"Club dissolved"},
 	{"country":"rus","name":"SKA-Khabarovsk","id":"FC_SKA-Khabarovsk","win":2,"draw":7,"loss":21,"for":16,"against":55,"isRemoved":true,"isNew":true},
 	{"country":"svn","name":"Olimpija Ljubljana","id":"nk_olimpija_ljubljana","win":23,"draw":11,"loss":2,"for":61,"against":17,"isChampion":true},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":24,"draw":8,"loss":4,"for":76,"against":28},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":24,"draw":8,"loss":4,"for":76,"against":28},
 	{"country":"svn","name":"Domžale","id":"NK_Domžale","win":22,"draw":7,"loss":7,"for":79,"against":31},
 	{"country":"svn","name":"Rudar Velenje","id":"NK_Rudar_Velenje","win":15,"draw":5,"loss":16,"for":50,"against":49},
 	{"country":"svn","name":"Celje","id":"nk_celje","win":14,"draw":8,"loss":14,"for":56,"against":51},

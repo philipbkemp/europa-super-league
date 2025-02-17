@@ -320,7 +320,7 @@
 	{"country":"yug","name":"Sarajevo","id":"FK_Sarajevo","win":10,"draw":8,"loss":16,"for":43,"against":46},
 	{"country":"yug","name":"Sutjeska Nikšić","id":"FK_Sutjeska_Nikšić","win":9,"draw":10,"loss":15,"for":25,"against":39,"isReturning":true},
 	{"country":"yug","name":"Radnički Kragujevac","id":"FK_Radnički_1923","win":7,"draw":10,"loss":17,"for":24,"against":55,"isRemoved":true},
-	{"country":"yug","name":"Maribor","id":"NK_Maribor","win":3,"draw":14,"loss":17,"for":24,"against":61,"isRemoved":true},
+	{"country":"yug","name":"Maribor","id":"nk_maribor","win":3,"draw":14,"loss":17,"for":24,"against":61,"isRemoved":true},
 	{"country":"bgr","name":"CSKA Sofia","id":"pfc_cska_sofia","win":26,"draw":6,"loss":2,"for":95,"against":28,"isChampion":true},
 	{"country":"bgr","name":"Levski Sofia","id":"pfc_levski_sofia","win":22,"draw":6,"loss":6,"for":68,"against":26},
 	{"country":"bgr","name":"Beroe Stara Zagora","id":"PFC_Beroe_Stara_Zagora","win":18,"draw":6,"loss":10,"for":61,"against":46,"isReturning":true},

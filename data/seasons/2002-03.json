@@ -543,7 +543,7 @@
 	{"country":"rus","name":"Torpedo-ZIL Moscow","id":"FC_Torpedo-ZIL_Moscow","win":6,"draw":10,"loss":14,"for":20,"against":39},
 	{"country":"rus","name":"Anzhi Makhachkala","id":"FC_Anzhi_Makhachkala","win":5,"draw":10,"loss":15,"for":22,"against":43,"isRemoved":true},
 	{"country":"rus","name":"Sokol Saratov","id":"FC_Sokol_Saratov","win":5,"draw":8,"loss":17,"for":24,"against":45,"isRemoved":true},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":18,"draw":8,"loss":5,"for":57,"against":32,"isChampion":true},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":18,"draw":8,"loss":5,"for":57,"against":32,"isChampion":true},
 	{"country":"svn","name":"Celje","id":"nk_celje","win":15,"draw":10,"loss":6,"for":57,"against":38},
 	{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":14,"draw":12,"loss":5,"for":54,"against":32},
 	{"country":"svn","name":"Šmartno","id":"NK_Šmartno_ob_Paki","win":12,"draw":10,"loss":9,"for":46,"against":42},

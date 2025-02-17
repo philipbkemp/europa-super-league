@@ -580,7 +580,7 @@
 	{"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":12,"draw":15,"loss":17,"for":33,"against":50},
 	{"country":"rus","name":"Spartak Nalchik","id":"PFC_Spartak_Nalchik","win":7,"draw":13,"loss":24,"for":39,"against":60,"isRemoved":true},
 	{"country":"rus","name":"Tom Tomsk","id":"FC_Tom_Tomsk","win":8,"draw":13,"loss":23,"for":30,"against":70,"isRemoved":true},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":26,"draw":7,"loss":3,"for":88,"against":35,"isChampion":true},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":26,"draw":7,"loss":3,"for":88,"against":35,"isChampion":true},
 	{"country":"svn","name":"Olimpija","id":"nk_olimpija_ljubljana","win":19,"draw":8,"loss":9,"for":60,"against":38},
 	{"country":"svn","name":"Mura 05","id":"ND_Mura_05","win":18,"draw":5,"loss":13,"for":52,"against":46,"isNew":true},
 	{"country":"svn","name":"Koper","id":"FC_Koper","win":16,"draw":10,"loss":10,"for":48,"against":35},

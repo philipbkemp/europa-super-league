@@ -577,7 +577,7 @@
 	{"country":"rus","name":"Kuban Krasnodar","id":"FC_Kuban_Krasnodar","win":6,"draw":10,"loss":14,"for":23,"against":51,"isRemoved":true,"isReturning":true},
 	{"country":"rus","name":"Khimki","id":"FC_Khimki","win":2,"draw":4,"loss":24,"for":20,"against":64,"isRemoved":true},
 	{"country":"svn","name":"Koper","id":"FC_Koper","win":21,"draw":10,"loss":5,"for":59,"against":35,"isChampion":true},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":18,"draw":8,"loss":10,"for":58,"against":44},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":18,"draw":8,"loss":10,"for":58,"against":44},
 	{"country":"svn","name":"Gorica","id":"ND_Gorica","win":16,"draw":7,"loss":13,"for":74,"against":60},
 	{"country":"svn","name":"Olimpija","id":"nk_olimpija_ljubljana","win":16,"draw":7,"loss":13,"for":51,"against":33,"deduct":-2,"deductReason":"Missing one game in previous season","isNew":true},
 	{"country":"svn","name":"Celje","id":"nk_celje","win":14,"draw":9,"loss":13,"for":53,"against":56},

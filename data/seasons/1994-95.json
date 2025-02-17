@@ -617,7 +617,7 @@
 	{"country":"rus","name":"Dynamo Stavropol","id":"PFC_Dynamo_Stavropol","win":6,"draw":11,"loss":13,"for":25,"against":34,"isRemoved":true},
 	{"country":"rus","name":"Lada-Togliatti","id":"FC_Lada-Tolyatti","win":6,"draw":10,"loss":14,"for":24,"against":41,"isRemoved":true,"isNew":true},
 	{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":20,"draw":4,"loss":6,"for":78,"against":30,"isChampion":true},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":17,"draw":8,"loss":5,"for":60,"against":24},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":17,"draw":8,"loss":5,"for":60,"against":24},
 	{"country":"svn","name":"Gorica","id":"ND_Gorica","win":18,"draw":5,"loss":7,"for":66,"against":30},
 	{"country":"svn","name":"Mura","id":"NK_Mura","win":17,"draw":6,"loss":7,"for":46,"against":24},
 	{"country":"svn","name":"Beltinci","id":"NK_Beltinci","win":15,"draw":8,"loss":7,"for":74,"against":32},

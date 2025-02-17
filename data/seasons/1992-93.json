@@ -593,7 +593,7 @@
 	{"country":"mda","name":"Tricon Cahul","id":"FC_Cahul-2005","win":4,"draw":9,"loss":17,"for":25,"against":53,"isRemoved":true,"isNew":true},
 	{"country":"mda","name":"Universul Ciuciuleni","id":"FC_Universul_Ciuciuleni","win":4,"draw":4,"loss":22,"for":21,"against":59,"isRemoved":true,"isNew":true},
 	{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":22,"draw":8,"loss":4,"for":94,"against":20,"isChampion":true},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":18,"draw":12,"loss":4,"for":50,"against":20},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":18,"draw":12,"loss":4,"for":50,"against":20},
 	{"country":"svn","name":"Mura","id":"NK_Mura","win":19,"draw":8,"loss":7,"for":50,"against":28},
 	{"country":"svn","name":"Ljubljana","id":"NK_Ljubljana","win":16,"draw":8,"loss":10,"for":44,"against":34},
 	{"country":"svn","name":"Naklo","id":"NK_Naklo","win":15,"draw":10,"loss":9,"for":55,"against":47},

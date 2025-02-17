@@ -611,7 +611,7 @@
 	{"country":"rus","name":"Asmaral Moscow","id":"FC_Presnya_Moscow","win":7,"draw":6,"loss":21,"for":28,"against":53,"isRemoved":true,"isNew":true},
 	{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":23,"draw":5,"loss":2,"for":95,"against":20,"isChampion":true},
 	{"country":"svn","name":"Mura","id":"NK_Mura","win":19,"draw":7,"loss":4,"for":59,"against":23},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":16,"draw":10,"loss":4,"for":55,"against":24},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":16,"draw":10,"loss":4,"for":55,"against":24},
 	{"country":"svn","name":"Celje","id":"nk_celje","win":14,"draw":10,"loss":6,"for":50,"against":34},
 	{"country":"svn","name":"Gorica","id":"ND_Gorica","win":12,"draw":11,"loss":7,"for":40,"against":38},
 	{"country":"svn","name":"Beltinci","id":"NK_Beltinci","win":13,"draw":6,"loss":11,"for":57,"against":40},

@@ -577,7 +577,7 @@
 	{"country":"rus","name":"Krylia Sovetov Samara","id":"PFC_Krylia_Sovetov_Samara","win":8,"draw":5,"loss":17,"for":25,"against":45},
 	{"country":"rus","name":"Lokomotiv N.N.","id":"FC_Lokomotiv_Nizhny_Novgorod","win":3,"draw":9,"loss":18,"for":16,"against":47,"isRemoved":true},
 	{"country":"rus","name":"Uralan Elista","id":"FC_Elista","win":2,"draw":6,"loss":22,"for":17,"against":61,"isRemoved":true},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":18,"draw":8,"loss":7,"for":61,"against":36,"isChampion":true},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":18,"draw":8,"loss":7,"for":61,"against":36,"isChampion":true},
 	{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":18,"draw":6,"loss":9,"for":73,"against":46},
 	{"country":"svn","name":"Primorje","id":"NK_Primorje","win":16,"draw":8,"loss":9,"for":47,"against":34},
 	{"country":"svn","name":"Mura","id":"NK_Mura","win":14,"draw":9,"loss":10,"for":43,"against":39},

@@ -596,7 +596,7 @@
 	{"country":"rus","name":"Fakel Voronezh","id":"FC_Fakel_Voronezh","win":7,"draw":5,"loss":22,"for":25,"against":49,"isRemoved":true,"isReturning":true},
 	{"country":"rus","name":"Lokomotiv N.N.","id":"FC_Lokomotiv_Nizhny_Novgorod","win":6,"draw":5,"loss":23,"for":26,"against":60,"isRemoved":true},
 	{"country":"rus","name":"KAMAZ Naberezhnye Chelny","id":"FC_KAMAZ_Naberezhnye_Chelny","win":8,"draw":3,"loss":23,"for":38,"against":75,"isRemoved":true,"deduct":-6,"deductReason":"Failing to pay transfer fee"},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":24,"draw":4,"loss":8,"for":69,"against":34,"isChampion":true},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":24,"draw":4,"loss":8,"for":69,"against":34,"isChampion":true},
 	{"country":"svn","name":"Mura","id":"NK_Mura","win":19,"draw":10,"loss":7,"for":63,"against":42},
 	{"country":"svn","name":"Gorica","id":"ND_Gorica","win":20,"draw":5,"loss":11,"for":64,"against":36},
 	{"country":"svn","name":"Primorje","id":"NK_Primorje","win":17,"draw":6,"loss":13,"for":63,"against":49},

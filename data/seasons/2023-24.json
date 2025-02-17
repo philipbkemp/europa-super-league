@@ -587,7 +587,7 @@
 	{"country":"rus","name":"Baltika Kaliningrad","id":"FC_Baltika_Kaliningrad","win":7,"draw":5,"loss":18,"for":33,"against":42,"isRemoved":true,"isReturning":true},
 	{"country":"rus","name":"Sochi","id":"PFC_Sochi","win":5,"draw":9,"loss":16,"for":37,"against":48,"isRemoved":true},
 	{"country":"svn","name":"Celje","id":"nk_celje","win":24,"draw":7,"loss":5,"for":75,"against":34,"isChampion":true},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":19,"draw":10,"loss":7,"for":67,"against":35},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":19,"draw":10,"loss":7,"for":67,"against":35},
 	{"country":"svn","name":"Olimpija Ljubljana","id":"nk_olimpija_ljubljana","win":18,"draw":10,"loss":8,"for":69,"against":44},
 	{"country":"svn","name":"Bravo","id":"NK_Bravo","win":12,"draw":14,"loss":10,"for":42,"against":42},
 	{"country":"svn","name":"Koper","id":"FC_Koper","win":12,"draw":12,"loss":12,"for":51,"against":49},

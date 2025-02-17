@@ -113,7 +113,7 @@ clubPages = ["not-a-real-club"
 	/*sco*/	,"rangers_fc","heart_of_midlothian_fc","celtic_fc"
 	/*srb*/	,"ofk_beograd","fk_partizan","red_star_belgrade"
 	/*svk*/	,"sk_slovan_bratislava"
-	/*svn*/	,"nk_olimpija_ljubljana","nk_celje"
+	/*svn*/	,"nk_olimpija_ljubljana","nk_celje","nk_maribor"
 	/*swe*/	,"malmo_ff","if_elfsborg"
 	/*tur*/	,"besiktas_jk","galatasaray_sk","fenerbahce_sk"
 	/*ukr*/	,"fc_dynamo_kyiv","fc_shakhtar_donetsk"
@@ -122,7 +122,7 @@ clubPages = ["not-a-real-club"
 	/*ede*/	,"berliner_fc_dynamo"
 ];
 
-multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk","hsk_zrinjski_mostar","fc_viktoria_plzen","bayer_04_leverkusen","fc_dinamo_minsk","sk_slovan_bratislava","fk_buducnost_podgorica","fk_zalgiris","fc_zenit_saint_petersburg","maccabi_tel_aviv_fc","fc_shakhtar_donetsk","maccabi_haifa_fc","borussia_dortmund","cliftonville_fc","pfc_cska_moscow","fc_dinamo_tbilisi","hnk_hajduk_split","fc_kairat"];
+multiCountryClubs = ["ofk_beograd","ac_sparta_prague","sk_slavia_prague","hsk_gradanski_zagreb","linfield_fc","apoel_fc","ac_omonia","fc_dynamo_kyiv","gnk_dinamo_zagreb","fk_partizan","fc_bayern_munich","red_star_belgrade","neftci_pfk","hsk_zrinjski_mostar","fc_viktoria_plzen","bayer_04_leverkusen","fc_dinamo_minsk","sk_slovan_bratislava","fk_buducnost_podgorica","fk_zalgiris","fc_zenit_saint_petersburg","maccabi_tel_aviv_fc","fc_shakhtar_donetsk","maccabi_haifa_fc","borussia_dortmund","cliftonville_fc","pfc_cska_moscow","fc_dinamo_tbilisi","hnk_hajduk_split","fc_kairat","nk_maribor"];
 
 if ( $("h1 .placeholder").length !== 0 ) {
 
@@ -952,6 +952,8 @@ function saveClubs(refresh=false,dump=true) {
 					countryFlag = "srb";
 				} else if ( v === "sk_slovan_bratislava" ) {
 					countryFlag = "svk";
+				} else if ( v === "nk_maribor" ) {
+					countryFlag = "svn";
 				} else if ( v === "fc_dynamo_kyiv" || v === "fc_shakhtar_donetsk" ) {
 					countryFlag = "ukr";
 				}

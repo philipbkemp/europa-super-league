@@ -582,7 +582,7 @@
 	{"country":"rus","name":"Rotor Volgograd","id":"FC_Rotor_Volgograd","win":5,"draw":7,"loss":18,"for":15,"against":52,"isRemoved":true,"isReturning":true},
 	{"country":"rus","name":"Tambov (D)","id":"FC_Tambov","win":3,"draw":4,"loss":23,"for":19,"against":65,"isRemoved":true,"removedNote":"Club dissolved"},
 	{"country":"svn","name":"Mura","id":"NŠ_Mura","win":17,"draw":12,"loss":7,"for":50,"against":26,"isChampion":true},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":17,"draw":12,"loss":7,"for":64,"against":41},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":17,"draw":12,"loss":7,"for":64,"against":41},
 	{"country":"svn","name":"Olimpija Ljubljana","id":"nk_olimpija_ljubljana","win":16,"draw":11,"loss":9,"for":45,"against":35},
 	{"country":"svn","name":"Domžale","id":"NK_Domžale","win":14,"draw":13,"loss":9,"for":52,"against":41},
 	{"country":"svn","name":"Bravo","id":"NK_Bravo","win":10,"draw":15,"loss":11,"for":39,"against":39},

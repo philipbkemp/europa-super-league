@@ -564,7 +564,7 @@
 	{"country":"rus","name":"Chernomorets Novorossiysk","id":"FC_Chernomorets_Novorossiysk","win":6,"draw":6,"loss":18,"for":30,"against":49,"isRemoved":true,"isReturning":true},
 	{"country":"svn","name":"Gorica","id":"ND_Gorica","win":15,"draw":11,"loss":6,"for":55,"against":29,"isChampion":true},
 	{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":16,"draw":7,"loss":9,"for":59,"against":39},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":15,"draw":9,"loss":8,"for":41,"against":34},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":15,"draw":9,"loss":8,"for":41,"against":34},
 	{"country":"svn","name":"Primorje","id":"NK_Primorje","win":12,"draw":12,"loss":8,"for":59,"against":36},
 	{"country":"svn","name":"Koper","id":"FC_Koper","win":13,"draw":11,"loss":8,"for":41,"against":32},
 	{"country":"svn","name":"Mura","id":"NK_Mura","win":14,"draw":7,"loss":11,"for":53,"against":54},

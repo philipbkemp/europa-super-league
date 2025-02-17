@@ -579,7 +579,7 @@
 	{"country":"rus","name":"Khimki","id":"FC_Khimki","win":6,"draw":9,"loss":15,"for":34,"against":54},
 	{"country":"rus","name":"Shinnik Yaroslavl","id":"FC_Shinnik_Yaroslavl","win":5,"draw":7,"loss":18,"for":25,"against":48,"isRemoved":true,"isReturning":true},
 	{"country":"rus","name":"Luch-Energiya Vladivostok","id":"FC_Luch_Vladivostok","win":3,"draw":12,"loss":15,"for":24,"against":53,"isRemoved":true},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":17,"draw":12,"loss":7,"for":62,"against":44,"isChampion":true},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":17,"draw":12,"loss":7,"for":62,"against":44,"isChampion":true},
 	{"country":"svn","name":"Gorica","id":"ND_Gorica","win":17,"draw":5,"loss":14,"for":60,"against":55},
 	{"country":"svn","name":"Rudar","id":"NK_Rudar_Velenje","win":16,"draw":7,"loss":13,"for":44,"against":39,"isReturning":true},
 	{"country":"svn","name":"Celje","id":"nk_celje","win":15,"draw":8,"loss":13,"for":48,"against":39},

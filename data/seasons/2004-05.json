@@ -574,7 +574,7 @@
 	{"country":"svn","name":"Olimpija","id":"NK_Olimpija_Ljubljana_(1945–2005)","win":10,"draw":7,"loss":15,"for":34,"against":52,"isRemoved":true,"removedNote":"Dissolved midseason and remaining matches awarded"},
 	{"country":"svn","name":"Domžale","id":"NK_Domžale","win":14,"draw":10,"loss":8,"for":48,"against":36},
 	{"country":"svn","name":"Drava Ptuj","id":"NK_Drava_Ptuj_(1933)","win":12,"draw":10,"loss":10,"for":40,"against":36},
-	{"country":"svn","name":"Maribor","id":"NK_Maribor","win":15,"draw":6,"loss":11,"for":47,"against":36},
+	{"country":"svn","name":"Maribor","id":"nk_maribor","win":15,"draw":6,"loss":11,"for":47,"against":36},
 	{"country":"svn","name":"Ljubljana","id":"NK_Ljubljana","win":10,"draw":12,"loss":10,"for":38,"against":43,"isRemoved":true,"removedNote":"Dissolved midseason and remaining matches awarded"},
 	{"country":"svn","name":"Mura","id":"NK_Mura","win":11,"draw":11,"loss":10,"for":43,"against":39,"isRemoved":true,"removedNote":"Dissolved midseason and remaining matches awarded"},
 	{"country":"svn","name":"Bela Krajina","id":"NK_Bela_Krajina","win":9,"draw":10,"loss":13,"for":31,"against":44,"isNew":true},
