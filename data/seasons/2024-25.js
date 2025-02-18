@@ -156,7 +156,7 @@ THEDATA = [
 	{"country":"deu","name":"VfL Bochum","id":"VfL_Bochum","win":4,"draw":4,"loss":14,"for":22,"against":45,"isCurrentSeason":true},
 	{"country":"deu","name":"1. FC Heidenheim","id":"1._FC_Heidenheim","win":4,"draw":2,"loss":16,"for":25,"against":45,"isCurrentSeason":true},
 	{"country":"deu","name":"Holstein Kiel","id":"Holstein_Kiel","win":3,"draw":4,"loss":15,"for":34,"against":57,"isNew":true,"isCurrentSeason":true},
-	{"country":"dnk","name":"Midtjylland","id":"FC_Midtjylland","win":11,"draw":3,"loss":4,"for":32,"against":22,"isCurrentSeason":true},
+	{"country":"dnk","name":"Midtjylland","id":"fc_midtjylland","win":11,"draw":3,"loss":4,"for":32,"against":22,"isCurrentSeason":true},
 	{"country":"dnk","name":"Copenhagen","id":"fc_copenhagen","win":9,"draw":6,"loss":2,"for":32,"against":19,"isCurrentSeason":true},
 	{"country":"dnk","name":"AGF","id":"Aarhus_Gymnastikforening","win":8,"draw":7,"loss":3,"for":34,"against":18,"isCurrentSeason":true},
 	{"country":"dnk","name":"Brøndby","id":"brondby_if","win":8,"draw":6,"loss":4,"for":35,"against":23,"isCurrentSeason":true},

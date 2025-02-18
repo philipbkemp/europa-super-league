@@ -20,7 +20,7 @@
 	{"country":"eng","name":"Birmingham City","id":"Birmingham_City_F.C.","win":8,"draw":11,"loss":19,"for":46,"against":62,"isRemoved":true,"isReturning":true},
 	{"country":"eng","name":"Derby County","id":"Derby_County_F.C.","win":1,"draw":8,"loss":29,"for":20,"against":89,"isRemoved":true,"isReturning":true},
 	{"country":"dnk","name":"AaB","id":"AaB_Fodbold","win":22,"draw":5,"loss":6,"for":60,"against":38,"isChampion":true},
-	{"country":"dnk","name":"Midtjylland","id":"FC_Midtjylland","win":18,"draw":8,"loss":7,"for":53,"against":36},
+	{"country":"dnk","name":"Midtjylland","id":"fc_midtjylland","win":18,"draw":8,"loss":7,"for":53,"against":36},
 	{"country":"dnk","name":"Copenhagen","id":"fc_copenhagen","win":17,"draw":9,"loss":7,"for":51,"against":29},
 	{"country":"dnk","name":"OB","id":"Odense_Boldklub","win":12,"draw":16,"loss":5,"for":46,"against":27},
 	{"country":"dnk","name":"Horsens","id":"AC_Horsens","win":14,"draw":10,"loss":9,"for":47,"against":43},

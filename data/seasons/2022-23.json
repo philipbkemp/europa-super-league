@@ -26,7 +26,7 @@
 	{"country":"dnk","name":"Randers","id":"Randers_FC","win":10,"draw":11,"loss":11,"for":40,"against":47},
 	{"country":"dnk","name":"Brøndby","id":"brondby_if","win":12,"draw":8,"loss":12,"for":48,"against":52},
 	{"country":"dnk","name":"Silkeborg","id":"Silkeborg_IF","win":11,"draw":8,"loss":13,"for":44,"against":49},
-	{"country":"dnk","name":"Midtjylland","id":"FC_Midtjylland","win":13,"draw":12,"loss":7,"for":55,"against":39},
+	{"country":"dnk","name":"Midtjylland","id":"fc_midtjylland","win":13,"draw":12,"loss":7,"for":55,"against":39},
 	{"country":"dnk","name":"OB","id":"Odense_Boldklub","win":12,"draw":10,"loss":10,"for":47,"against":53},
 	{"country":"dnk","name":"Horsens","id":"AC_Horsens","win":7,"draw":7,"loss":18,"for":33,"against":58,"isRemoved":true,"isReturning":true},
 	{"country":"dnk","name":"Lyngby","id":"Lyngby_Boldklub","win":6,"draw":10,"loss":16,"for":30,"against":49,"isReturning":true},
