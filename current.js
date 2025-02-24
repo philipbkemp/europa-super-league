@@ -83,6 +83,8 @@ if ( country === "" || tbl === "" || $tbl.length === 0 ) {
 					.replace(" (W)","")
 					.replace(" (V)","")
 					.replace("[a]","")
+					.replace(" (V, Z)")
+					.replace(" (Z)","")
 					;
 				team = {
 					country: country,
