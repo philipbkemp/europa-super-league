@@ -417,7 +417,7 @@
 	{"country":"prt","name":"Farense","id":"S.C._Farense","win":7,"draw":10,"loss":17,"for":31,"against":48,"isRemoved":true,"isReturning":true},
 	{"country":"prt","name":"Nacional","id":"C.D._Nacional","win":6,"draw":7,"loss":21,"for":30,"against":59,"isRemoved":true,"isReturning":true},
 	{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":26,"draw":3,"loss":1,"for":103,"against":32,"isChampion":true},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":20,"draw":2,"loss":8,"for":77,"against":36},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":20,"draw":2,"loss":8,"for":77,"against":36},
 	{"country":"nor","name":"Vålerenga","id":"Vålerenga_Fotball","win":15,"draw":10,"loss":5,"for":51,"against":33},
 	{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":15,"draw":7,"loss":8,"for":50,"against":35},
 	{"country":"nor","name":"Kristiansund","id":"Kristiansund_BK","win":12,"draw":12,"loss":6,"for":57,"against":45},

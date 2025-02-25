@@ -703,7 +703,7 @@ THEDATA = [
 	{"country":"nor","name":"Brann","id":"SK_Brann","win":17,"draw":8,"loss":5,"for":55,"against":33},
 	{"country":"nor","name":"Viking","id":"Viking_FK","win":16,"draw":9,"loss":5,"for":61,"against":39},
 	{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":16,"draw":5,"loss":9,"for":52,"against":39},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":15,"draw":7,"loss":8,"for":64,"against":36},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":15,"draw":7,"loss":8,"for":64,"against":36},
 	{"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":14,"draw":9,"loss":7,"for":39,"against":35,"isReturning":true},
 	{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":10,"draw":8,"loss":12,"for":32,"against":40},
 	{"country":"nor","name":"KFUM","id":"KFUM-Kameratene_Oslo","win":9,"draw":10,"loss":11,"for":35,"against":36,"isNew":true},

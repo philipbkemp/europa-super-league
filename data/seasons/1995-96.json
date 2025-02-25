@@ -427,7 +427,7 @@
 	{"country":"prt","name":"Campomaiorense","id":"S.C._Campomaiorense","win":10,"draw":3,"loss":21,"for":32,"against":69,"isRemoved":true,"isNew":true},
 	{"country":"prt","name":"Tirsense","id":"F.C._Tirsense","win":7,"draw":10,"loss":17,"for":30,"against":53,"isRemoved":true},
 	{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":19,"draw":5,"loss":2,"for":78,"against":29,"isChampion":true},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":14,"draw":5,"loss":7,"for":60,"against":47,"isReturning":true},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":14,"draw":5,"loss":7,"for":60,"against":47,"isReturning":true},
 	{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":12,"draw":7,"loss":7,"for":65,"against":43},
 	{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":11,"draw":8,"loss":7,"for":50,"against":36},
 	{"country":"nor","name":"Viking","id":"Viking_FK","win":12,"draw":4,"loss":10,"for":55,"against":42},

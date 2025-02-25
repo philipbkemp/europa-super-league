@@ -421,7 +421,7 @@
 	{"country":"prt","name":"Olhanense","id":"S.C._Olhanense","win":5,"draw":10,"loss":15,"for":26,"against":42},
 	{"country":"prt","name":"Moreirense","id":"Moreirense_F.C.","win":5,"draw":9,"loss":16,"for":30,"against":51,"isRemoved":true,"isReturning":true},
 	{"country":"prt","name":"Beira-Mar","id":"S.C._Beira-Mar","win":5,"draw":8,"loss":17,"for":35,"against":55,"isRemoved":true},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":19,"draw":5,"loss":6,"for":51,"against":31,"isChampion":true},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":19,"draw":5,"loss":6,"for":51,"against":31,"isChampion":true},
 	{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":17,"draw":7,"loss":6,"for":62,"against":40},
 	{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":15,"draw":10,"loss":5,"for":53,"against":26},
 	{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":14,"draw":7,"loss":9,"for":45,"against":32},

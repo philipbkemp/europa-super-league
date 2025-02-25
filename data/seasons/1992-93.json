@@ -453,7 +453,7 @@
 	{"country":"nor","name":"Start","id":"IK_Start","win":11,"draw":6,"loss":5,"for":38,"against":28},
 	{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":11,"draw":5,"loss":6,"for":48,"against":28},
 	{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":11,"draw":4,"loss":7,"for":33,"against":29},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":11,"draw":3,"loss":8,"for":30,"against":30},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":11,"draw":3,"loss":8,"for":30,"against":30},
 	{"country":"nor","name":"Brann","id":"SK_Brann","win":4,"draw":12,"loss":6,"for":26,"against":30},
 	{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":6,"draw":6,"loss":10,"for":22,"against":37},
 	{"country":"nor","name":"Viking","id":"Viking_FK","win":4,"draw":9,"loss":9,"for":25,"against":34},

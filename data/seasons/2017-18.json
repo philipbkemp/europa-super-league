@@ -410,7 +410,7 @@
 	{"country":"prt","name":"Paços de Ferreira","id":"F.C._Paços_de_Ferreira","win":7,"draw":9,"loss":18,"for":33,"against":59,"isRemoved":true},
 	{"country":"prt","name":"Estoril","id":"G.D._Estoril_Praia","win":8,"draw":6,"loss":20,"for":29,"against":61,"isRemoved":true},
 	{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":18,"draw":7,"loss":5,"for":57,"against":20,"isChampion":true},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":16,"draw":6,"loss":8,"for":50,"against":35},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":16,"draw":6,"loss":8,"for":50,"against":35},
 	{"country":"nor","name":"Sarpsborg 08","id":"Sarpsborg_08_FF","win":13,"draw":12,"loss":5,"for":50,"against":36},
 	{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":14,"draw":8,"loss":8,"for":45,"against":37},
 	{"country":"nor","name":"Brann","id":"SK_Brann","win":13,"draw":8,"loss":9,"for":51,"against":36},

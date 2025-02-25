@@ -457,7 +457,7 @@
 	{"country":"nor","name":"Mjøndalen","id":"Mjøndalen_IF_Fotball","win":9,"draw":4,"loss":9,"for":40,"against":31,"isReturning":true},
 	{"country":"nor","name":"Start","id":"IK_Start","win":9,"draw":3,"loss":10,"for":40,"against":44},
 	{"country":"nor","name":"Viking","id":"Viking_FK","win":8,"draw":5,"loss":9,"for":28,"against":36},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":7,"draw":7,"loss":8,"for":25,"against":33},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":7,"draw":7,"loss":8,"for":25,"against":33},
 	{"country":"nor","name":"Bryne","id":"Bryne_FK","win":6,"draw":8,"loss":8,"for":34,"against":29},
 	{"country":"nor","name":"Moss","id":"Moss_FK","win":7,"draw":5,"loss":10,"for":29,"against":34,"isRemoved":true},
 	{"country":"nor","name":"Brann","id":"SK_Brann","win":8,"draw":3,"loss":11,"for":26,"against":34,"isRemoved":true,"isReturning":true},

@@ -452,7 +452,7 @@
 	{"country":"nor","name":"Bryne","id":"Bryne_FK","win":7,"draw":8,"loss":7,"for":27,"against":30},
 	{"country":"nor","name":"Moss","id":"Moss_FK","win":8,"draw":4,"loss":10,"for":39,"against":38},
 	{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":6,"draw":6,"loss":10,"for":37,"against":37},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":5,"draw":2,"loss":15,"for":36,"against":58,"isRemoved":true},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":5,"draw":2,"loss":15,"for":36,"against":58,"isRemoved":true},
 	{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":3,"draw":5,"loss":14,"for":23,"against":53,"isRemoved":true,"isReturning":true},
 	{"country":"nor","name":"Steinkjer","id":"Steinkjer_FK","win":1,"draw":9,"loss":12,"for":20,"against":51,"isRemoved":true,"isReturning":true},
 	{"country":"sov","name":"Dinamo Tbilisi","id":"fc_dinamo_tbilisi","win":17,"draw":8,"loss":5,"for":45,"against":24,"isChampion":true},

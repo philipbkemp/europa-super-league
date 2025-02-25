@@ -439,7 +439,7 @@
 	{"country":"prt","name":"Olhanense","id":"S.C._Olhanense","win":6,"draw":5,"loss":19,"for":41,"against":70,"isRemoved":true},
 	{"country":"prt","name":"Espinho","id":"S.C._Espinho","win":4,"draw":7,"loss":19,"for":25,"against":64,"isRemoved":true,"isNew":true},
 	{"country":"nor","name":"Viking","id":"Viking_FK","win":11,"draw":9,"loss":2,"for":31,"against":10,"isChampion":true},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":12,"draw":6,"loss":4,"for":40,"against":18,"isNew":true},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":12,"draw":6,"loss":4,"for":40,"against":18,"isNew":true},
 	{"country":"nor","name":"Vålerengen","id":"Vålerenga_Fotball","win":12,"draw":4,"loss":6,"for":33,"against":25,"isReturning":true},
 	{"country":"nor","name":"Brann","id":"SK_Brann","win":9,"draw":9,"loss":4,"for":36,"against":20},
 	{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":11,"draw":5,"loss":6,"for":38,"against":28},

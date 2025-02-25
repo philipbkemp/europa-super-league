@@ -403,7 +403,7 @@
 	{"country":"prt","name":"Santa Clara","id":"C.D._Santa_Clara","win":8,"draw":11,"loss":15,"for":39,"against":54,"isRemoved":true},
 	{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":6,"draw":13,"loss":15,"for":40,"against":53,"isRemoved":true},
 	{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":17,"draw":5,"loss":4,"for":57,"against":30,"isChampion":true},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":15,"draw":5,"loss":6,"for":48,"against":26},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":15,"draw":5,"loss":6,"for":48,"against":26},
 	{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":14,"draw":5,"loss":7,"for":36,"against":29},
 	{"country":"nor","name":"Viking","id":"Viking_FK","win":11,"draw":11,"loss":4,"for":44,"against":31},
 	{"country":"nor","name":"Stabæk","id":"Stabæk_Fotball","win":12,"draw":6,"loss":8,"for":48,"against":34},

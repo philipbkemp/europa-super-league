@@ -406,7 +406,7 @@
 	{"country":"prt","name":"Vitória de Setúbal","id":"Vitória_F.C.","win":7,"draw":13,"loss":14,"for":27,"against":43,"isRemoved":true},
 	{"country":"prt","name":"Portimonense","id":"Portimonense_S.C.","win":7,"draw":12,"loss":15,"for":30,"against":45},
 	{"country":"prt","name":"Aves","id":"C.D._Aves","win":5,"draw":2,"loss":27,"for":24,"against":68,"isRemoved":true},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":21,"draw":5,"loss":4,"for":72,"against":31,"isChampion":true},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":21,"draw":5,"loss":4,"for":72,"against":31,"isChampion":true},
 	{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":15,"draw":9,"loss":6,"for":64,"against":44},
 	{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":14,"draw":10,"loss":6,"for":53,"against":41},
 	{"country":"nor","name":"Odd","id":"Odds_BK","win":15,"draw":7,"loss":8,"for":45,"against":40},

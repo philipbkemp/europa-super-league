@@ -417,7 +417,7 @@
 	{"country":"nor","name":"Odd Grenland","id":"Odds_BK","win":9,"draw":8,"loss":9,"for":47,"against":44},
 	{"country":"nor","name":"Viking","id":"Viking_FK","win":7,"draw":12,"loss":7,"for":31,"against":33},
 	{"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":9,"draw":5,"loss":12,"for":42,"against":54,"isReturning":true},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":7,"draw":10,"loss":9,"for":34,"against":37},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":7,"draw":10,"loss":9,"for":34,"against":37},
 	{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":7,"draw":6,"loss":13,"for":28,"against":41},
 	{"country":"nor","name":"Stabæk","id":"Stabæk_Fotball","win":7,"draw":6,"loss":13,"for":25,"against":40,"isRemoved":true},
 	{"country":"nor","name":"Sogndal","id":"Sogndal_Fotball","win":5,"draw":7,"loss":14,"for":39,"against":57,"isRemoved":true},

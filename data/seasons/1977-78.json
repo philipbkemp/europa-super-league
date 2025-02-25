@@ -436,7 +436,7 @@
 	{"country":"prt","name":"Feirense","id":"C.D._Feirense","win":5,"draw":2,"loss":23,"for":24,"against":59,"isRemoved":true,"isReturning":true},
 	{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":16,"draw":4,"loss":2,"for":42,"against":11,"isChampion":true},
 	{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":10,"draw":8,"loss":4,"for":33,"against":24,"isNew":true},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":12,"draw":3,"loss":7,"for":31,"against":28},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":12,"draw":3,"loss":7,"for":31,"against":28},
 	{"country":"nor","name":"Start","id":"IK_Start","win":9,"draw":7,"loss":6,"for":37,"against":30},
 	{"country":"nor","name":"Viking","id":"Viking_FK","win":9,"draw":5,"loss":8,"for":41,"against":34},
 	{"country":"nor","name":"Brann","id":"SK_Brann","win":8,"draw":6,"loss":8,"for":40,"against":35},

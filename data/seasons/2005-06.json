@@ -426,7 +426,7 @@
 	{"country":"nor","name":"Odd Grenland","id":"Odds_BK","win":9,"draw":6,"loss":11,"for":28,"against":51},
 	{"country":"nor","name":"Ham-Kam","id":"Hamarkameratene","win":8,"draw":7,"loss":11,"for":31,"against":37},
 	{"country":"nor","name":"Fredrikstad","id":"Fredrikstad_FK","win":8,"draw":7,"loss":11,"for":35,"against":44},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":8,"draw":6,"loss":12,"for":40,"against":46},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":8,"draw":6,"loss":12,"for":40,"against":46},
 	{"country":"nor","name":"Aalesund","id":"Aalesunds_FK","win":6,"draw":9,"loss":11,"for":30,"against":42,"isRemoved":true,"isReturning":true},
 	{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":6,"draw":6,"loss":14,"for":29,"against":45,"isRemoved":true},
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":15,"draw":9,"loss":3,"for":38,"against":17,"isChampion":true},

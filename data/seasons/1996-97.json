@@ -418,7 +418,7 @@
 	{"country":"nor","name":"Tromsø","id":"Tromsø_IL","win":11,"draw":8,"loss":7,"for":46,"against":41},
 	{"country":"nor","name":"Stabæk","id":"Stabæk_Fotball","win":9,"draw":9,"loss":8,"for":47,"against":45},
 	{"country":"nor","name":"Kongsvinger","id":"Kongsvinger_IL_Toppfotball","win":9,"draw":7,"loss":10,"for":38,"against":48},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":9,"draw":6,"loss":11,"for":45,"against":38},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":9,"draw":6,"loss":11,"for":45,"against":38},
 	{"country":"nor","name":"Skeid","id":"Skeid_Fotball","win":10,"draw":2,"loss":14,"for":33,"against":59,"isReturning":true},
 	{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":9,"draw":4,"loss":13,"for":44,"against":49},
 	{"country":"nor","name":"Strømsgodset","id":"Strømsgodset_Toppfotball","win":8,"draw":5,"loss":13,"for":40,"against":59,"isReturning":true},

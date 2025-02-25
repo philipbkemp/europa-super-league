@@ -420,7 +420,7 @@
 	{"country":"prt","name":"Marítimo","id":"C.S._Marítimo","win":7,"draw":5,"loss":22,"for":32,"against":63,"isRemoved":true},
 	{"country":"prt","name":"Paços de Ferreira","id":"F.C._Paços_de_Ferreira","win":6,"draw":5,"loss":23,"for":26,"against":62,"isRemoved":true},
 	{"country":"prt","name":"Santa Clara","id":"C.D._Santa_Clara","win":5,"draw":7,"loss":22,"for":26,"against":58,"isRemoved":true},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":25,"draw":3,"loss":2,"for":71,"against":25,"isChampion":true},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":25,"draw":3,"loss":2,"for":71,"against":25,"isChampion":true},
 	{"country":"nor","name":"Bodø/Glimt","id":"FK_Bodø/Glimt","win":18,"draw":6,"loss":6,"for":86,"against":41},
 	{"country":"nor","name":"Rosenborg","id":"Rosenborg_BK","win":16,"draw":8,"loss":6,"for":69,"against":44},
 	{"country":"nor","name":"Lillestrøm","id":"Lillestrøm_SK","win":16,"draw":5,"loss":9,"for":49,"against":34},

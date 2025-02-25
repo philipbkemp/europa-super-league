@@ -431,7 +431,7 @@
 	{"country":"nor","name":"Viking","id":"Viking_FK","win":8,"draw":5,"loss":13,"for":31,"against":37},
 	{"country":"nor","name":"Odd Grenland","id":"Odds_BK","win":7,"draw":8,"loss":11,"for":30,"against":38},
 	{"country":"nor","name":"Ham-Kam","id":"Hamarkameratene","win":7,"draw":7,"loss":12,"for":35,"against":39,"isRemoved":true},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":7,"draw":4,"loss":15,"for":29,"against":50,"isRemoved":true},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":7,"draw":4,"loss":15,"for":29,"against":50,"isRemoved":true},
 	{"country":"fro","name":"HB","id":"havnar_boltfelag","win":16,"draw":7,"loss":4,"for":61,"against":36,"isChampion":true},
 	{"country":"fro","name":"EB/Streymur","id":"EB/Streymur","win":16,"draw":6,"loss":5,"for":63,"against":30},
 	{"country":"fro","name":"B36 Tórshavn","id":"B36_Tórshavn","win":13,"draw":8,"loss":6,"for":45,"against":32},

@@ -454,7 +454,7 @@
 	{"country":"nor","name":"Brann","id":"SK_Brann","win":7,"draw":5,"loss":10,"for":31,"against":38},
 	{"country":"nor","name":"Kongsvinger","id":"Kongsvinger_IL_Toppfotball","win":7,"draw":4,"loss":11,"for":33,"against":41},
 	{"country":"nor","name":"Start","id":"IK_Start","win":6,"draw":5,"loss":11,"for":26,"against":29},
-	{"country":"nor","name":"Molde","id":"Molde_FK","win":5,"draw":7,"loss":10,"for":23,"against":36,"isRemoved":true},
+	{"country":"nor","name":"Molde","id":"molde_fk","win":5,"draw":7,"loss":10,"for":23,"against":36,"isRemoved":true},
 	{"country":"nor","name":"Lyn","id":"Lyn_Fotball","win":6,"draw":4,"loss":12,"for":39,"against":53,"isRemoved":true},
 	{"country":"nor","name":"Fyllingen","id":"Fyllingen_Fotball","win":4,"draw":5,"loss":13,"for":21,"against":55,"isRemoved":true,"isReturning":true},
 	{"country":"fro","name":"GÍ Gøta","id":"Gøtu_Ítróttarfelag","win":11,"draw":6,"loss":1,"for":32,"against":14,"isChampion":true},
