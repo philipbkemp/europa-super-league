@@ -546,7 +546,7 @@
 	{"country":"kaz","name":"Okzhetpes","id":"FC_Okzhetpes","win":10,"draw":5,"loss":15,"for":32,"against":48},
 	{"country":"kaz","name":"Kairat","id":"fc_kairat","win":9,"draw":10,"loss":11,"for":25,"against":28,"isRemoved":true,"deduct":-3,"deductReason":"Failing to pay debts"},
 	{"country":"kaz","name":"Astana","id":"FC_Zhenis","win":8,"draw":11,"loss":11,"for":37,"against":33,"isRemoved":true},
-	{"country":"kaz","name":"Ordabasy","id":"FC_Ordabasy","win":7,"draw":9,"loss":14,"for":25,"against":44},
+	{"country":"kaz","name":"Ordabasy","id":"fc_ordabasy","win":7,"draw":9,"loss":14,"for":25,"against":44},
 	{"country":"kaz","name":"Esil Bogatyr","id":"FC_Kyzylzhar","win":4,"draw":12,"loss":14,"for":21,"against":42},
 	{"country":"kaz","name":"Energetik-2","id":"FC_Ekibastuz","win":5,"draw":8,"loss":17,"for":21,"against":43,"isRemoved":true,"isReturning":true},
 	{"country":"kaz","name":"Atyrau","id":"FC_Atyrau","win":3,"draw":10,"loss":17,"for":22,"against":54},

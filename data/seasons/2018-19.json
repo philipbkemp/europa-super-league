@@ -521,7 +521,7 @@
 	{"country":"kaz","name":"Astana","id":"fc_astana","win":24,"draw":5,"loss":4,"for":66,"against":22,"isChampion":true},
 	{"country":"kaz","name":"Kairat","id":"fc_kairat","win":19,"draw":5,"loss":9,"for":60,"against":33},
 	{"country":"kaz","name":"Tobol","id":"FC_Tobol","win":15,"draw":8,"loss":10,"for":36,"against":30},
-	{"country":"kaz","name":"Ordabasy","id":"FC_Ordabasy","win":13,"draw":7,"loss":13,"for":38,"against":44},
+	{"country":"kaz","name":"Ordabasy","id":"fc_ordabasy","win":13,"draw":7,"loss":13,"for":38,"against":44},
 	{"country":"kaz","name":"Kaisar","id":"FC_Kaisar","win":11,"draw":12,"loss":10,"for":35,"against":31},
 	{"country":"kaz","name":"Zhetysu","id":"FC_Zhetysu","win":11,"draw":10,"loss":12,"for":36,"against":40,"isReturning":true},
 	{"country":"kaz","name":"Aktobe","id":"FC_Aktobe","win":13,"draw":9,"loss":11,"for":51,"against":47,"deduct":-6,"deductReason":"Unpaid debts"},

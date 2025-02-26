@@ -560,7 +560,7 @@
 	{"country":"kaz","name":"Tselinnik Akmola","id":"FC_Zhenis","win":12,"draw":3,"loss":19,"for":44,"against":61},
 	{"country":"kaz","name":"Zhiger","id":"FC_Zhiger","win":9,"draw":9,"loss":16,"for":39,"against":50},
 	{"country":"kaz","name":"Metallist","id":"FC_Ulytau","win":8,"draw":3,"loss":23,"for":24,"against":70,"isNew":true},
-	{"country":"kaz","name":"SKIF-Ordabasy","id":"FC_Ordabasy","win":6,"draw":6,"loss":22,"for":29,"against":61,"isRemoved":true},
+	{"country":"kaz","name":"SKIF-Ordabasy","id":"fc_ordabasy","win":6,"draw":6,"loss":22,"for":29,"against":61,"isRemoved":true},
 	{"country":"kaz","name":"Bolat","id":"FC_Shakhter-Bulat","win":5,"draw":2,"loss":27,"for":26,"against":76},
 	{"country":"kaz","name":"Kokshe","id":"FC_Okzhetpes","win":2,"draw":4,"loss":28,"for":12,"against":77,"isNew":true},
 	{"country":"mda","name":"Constructorul Chişinău","id":"FC_Tiraspol","win":26,"draw":3,"loss":1,"for":82,"against":10,"isChampion":true},

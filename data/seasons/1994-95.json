@@ -574,7 +574,7 @@
 	{"country":"kaz","name":"Ansat","id":"FC_Irtysh_Pavlodar","win":17,"draw":7,"loss":6,"for":57,"against":14,"isNew":true},
 	{"country":"kaz","name":"Zhiger","id":"FC_Zhiger","win":16,"draw":8,"loss":6,"for":63,"against":30,"isNew":true},
 	{"country":"kaz","name":"Aktyubinets","id":"FC_Aktobe","win":15,"draw":10,"loss":5,"for":45,"against":23,"isNew":true},
-	{"country":"kaz","name":"SKIF-Ordabasy","id":"FC_Ordabasy","win":14,"draw":8,"loss":8,"for":41,"against":29,"isNew":true},
+	{"country":"kaz","name":"SKIF-Ordabasy","id":"fc_ordabasy","win":14,"draw":8,"loss":8,"for":41,"against":29,"isNew":true},
 	{"country":"kaz","name":"Shakhter Karagandy","id":"FC_Shakhter_Karagandy","win":11,"draw":12,"loss":7,"for":45,"against":38,"isNew":true},
 	{"country":"kaz","name":"Bolat","id":"FC_Shakhter-Bulat","win":13,"draw":7,"loss":10,"for":31,"against":34,"isNew":true},
 	{"country":"kaz","name":"Taraz","id":"FC_Taraz","win":12,"draw":7,"loss":11,"for":42,"against":34,"isNew":true},

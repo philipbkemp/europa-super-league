@@ -526,7 +526,7 @@
 	{"country":"kaz","name":"Zhenis Astana","id":"FC_Zhenis","win":20,"draw":4,"loss":8,"for":65,"against":33},
 	{"country":"kaz","name":"Atyrau","id":"FC_Atyrau","win":16,"draw":5,"loss":11,"for":48,"against":42},
 	{"country":"kaz","name":"Aktobe-Lento","id":"FC_Aktobe","win":13,"draw":12,"loss":7,"for":40,"against":29},
-	{"country":"kaz","name":"Ordabasy","id":"FC_Ordabasy","win":15,"draw":4,"loss":13,"for":33,"against":29,"isReturning":true},
+	{"country":"kaz","name":"Ordabasy","id":"fc_ordabasy","win":15,"draw":4,"loss":13,"for":33,"against":29,"isReturning":true},
 	{"country":"kaz","name":"Kairat","id":"fc_kairat","win":14,"draw":7,"loss":11,"for":51,"against":42},
 	{"country":"kaz","name":"Zhetysu","id":"FC_Zhetysu","win":14,"draw":6,"loss":12,"for":46,"against":38,"isReturning":true},
 	{"country":"kaz","name":"Yelimay","id":"FC_Elimai","win":12,"draw":7,"loss":13,"for":35,"against":35},

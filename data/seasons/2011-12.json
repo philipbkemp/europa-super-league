@@ -545,7 +545,7 @@
 	{"country":"kaz","name":"Aktobe","id":"FC_Aktobe","win":15,"draw":9,"loss":8,"for":53,"against":31},
 	{"country":"kaz","name":"Astana","id":"fc_astana","win":16,"draw":7,"loss":9,"for":50,"against":37},
 	{"country":"kaz","name":"Irtysh Pavlodar","id":"FC_Irtysh_Pavlodar","win":15,"draw":5,"loss":12,"for":50,"against":50},
-	{"country":"kaz","name":"Ordabasy","id":"FC_Ordabasy","win":11,"draw":10,"loss":11,"for":41,"against":36},
+	{"country":"kaz","name":"Ordabasy","id":"fc_ordabasy","win":11,"draw":10,"loss":11,"for":41,"against":36},
 	{"country":"kaz","name":"Tobol","id":"FC_Tobol","win":14,"draw":3,"loss":15,"for":48,"against":44},
 	{"country":"kaz","name":"Kaisar","id":"FC_Kaisar","win":10,"draw":5,"loss":17,"for":29,"against":53,"isReturning":true},
 	{"country":"kaz","name":"Taraz","id":"FC_Taraz","win":10,"draw":5,"loss":17,"for":30,"against":39},

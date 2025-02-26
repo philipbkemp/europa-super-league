@@ -561,7 +561,7 @@
 	{"country":"kaz","name":"Tsesna Akmola","id":"FC_Zhenis","win":11,"draw":6,"loss":13,"for":36,"against":42},
 	{"country":"kaz","name":"Batyr","id":"FC_Ekibastuzets","win":10,"draw":7,"loss":13,"for":22,"against":32},
 	{"country":"kaz","name":"Tobol","id":"FC_Tobol","win":10,"draw":6,"loss":14,"for":30,"against":37},
-	{"country":"kaz","name":"SKIF-Ordabasy","id":"FC_Ordabasy","win":8,"draw":8,"loss":14,"for":28,"against":33},
+	{"country":"kaz","name":"SKIF-Ordabasy","id":"fc_ordabasy","win":8,"draw":8,"loss":14,"for":28,"against":33},
 	{"country":"kaz","name":"Aktyubinets","id":"FC_Aktobe","win":9,"draw":5,"loss":16,"for":26,"against":45},
 	{"country":"kaz","name":"Bolat","id":"FC_Shakhter-Bulat","win":8,"draw":5,"loss":17,"for":34,"against":45},
 	{"country":"kaz","name":"Munaishy","id":"FC_Caspiy","win":1,"draw":5,"loss":24,"for":15,"against":107,"isNew":true},

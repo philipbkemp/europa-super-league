@@ -550,7 +550,7 @@
 	{"country":"kaz","name":"Akmola","id":"FC_Okzhetpes","win":8,"draw":5,"loss":15,"for":25,"against":34},
 	{"country":"kaz","name":"Vostok Altyn","id":"FC_Vostok","win":8,"draw":4,"loss":16,"for":30,"against":45},
 	{"country":"kaz","name":"Taraz","id":"FC_Taraz","win":7,"draw":5,"loss":16,"for":22,"against":47},
-	{"country":"kaz","name":"Dostyk","id":"FC_Ordabasy","win":5,"draw":4,"loss":19,"for":24,"against":53,"isReturning":true},
+	{"country":"kaz","name":"Dostyk","id":"fc_ordabasy","win":5,"draw":4,"loss":19,"for":24,"against":53,"isReturning":true},
 	{"country":"kaz","name":"Zhetysu","id":"FC_Zhetysu","win":4,"draw":2,"loss":22,"for":15,"against":73},
 	{"country":"kaz","name":"Zhiger","id":"FC_Zhiger","win":1,"draw":1,"loss":26,"for":13,"against":72,"isRemoved":true},
 	{"country":"mda","name":"Sheriff Tiraspol","id":"fc_sheriff_tiraspol","win":21,"draw":4,"loss":3,"for":58,"against":18,"isChampion":true},

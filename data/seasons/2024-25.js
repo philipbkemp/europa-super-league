@@ -669,7 +669,7 @@ THEDATA = [
 	{"country":"kaz","name":"Kairat","id":"fc_kairat","win":14,"draw":5,"loss":5,"for":39,"against":21,"isChampion":true},
 	{"country":"kaz","name":"Astana","id":"fc_astana","win":14,"draw":4,"loss":6,"for":39,"against":19},
 	{"country":"kaz","name":"Aktobe","id":"FC_Aktobe","win":12,"draw":7,"loss":5,"for":39,"against":26},
-	{"country":"kaz","name":"Ordabasy","id":"FC_Ordabasy","win":12,"draw":6,"loss":6,"for":36,"against":24},
+	{"country":"kaz","name":"Ordabasy","id":"fc_ordabasy","win":12,"draw":6,"loss":6,"for":36,"against":24},
 	{"country":"kaz","name":"Tobol","id":"FC_Tobol","win":11,"draw":6,"loss":7,"for":33,"against":23},
 	{"country":"kaz","name":"Elimai","id":"FC_Elimai","win":10,"draw":7,"loss":7,"for":35,"against":32,"isReturning":true},
 	{"country":"kaz","name":"Atyrau","id":"FC_Atyrau","win":9,"draw":8,"loss":7,"for":28,"against":20},

@@ -538,7 +538,7 @@
 	{"country":"kaz","name":"Okzhetpes","id":"FC_Okzhetpes","win":10,"draw":13,"loss":13,"for":26,"against":39},
 	{"country":"kaz","name":"Vostok","id":"FC_Vostok","win":11,"draw":7,"loss":18,"for":42,"against":54},
 	{"country":"kaz","name":"Zhetysu","id":"FC_Zhetysu","win":11,"draw":7,"loss":18,"for":34,"against":55},
-	{"country":"kaz","name":"Ordabasy","id":"FC_Ordabasy","win":11,"draw":7,"loss":18,"for":37,"against":43},
+	{"country":"kaz","name":"Ordabasy","id":"fc_ordabasy","win":11,"draw":7,"loss":18,"for":37,"against":43},
 	{"country":"kaz","name":"Yassi-Sairam","id":"FC_Turkestan","win":9,"draw":8,"loss":19,"for":30,"against":49,"isRemoved":true,"isReturning":true},
 	{"country":"kaz","name":"Kaisar","id":"FC_Kaisar","win":9,"draw":4,"loss":23,"for":24,"against":61,"isRemoved":true},
 	{"country":"kaz","name":"Akzhayik","id":"FC_Akzhayik","win":7,"draw":4,"loss":25,"for":24,"against":83,"isRemoved":true},
