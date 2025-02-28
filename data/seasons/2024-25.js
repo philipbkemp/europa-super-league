@@ -335,7 +335,7 @@ THEDATA = [
 	{"country":"lux","name":"Mondercange","id":"FC_Mondercange","win":1,"draw":2,"loss":15,"for":12,"against":42,"isCurrentSeason":true},
 	{"country":"mda","name":"Sheriff Tiraspol","id":"fc_sheriff_tiraspol","win":11,"draw":3,"loss":0,"for":33,"against":6,"isCurrentSeason":true},
 	{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":8,"draw":1,"loss":5,"for":32,"against":16,"isCurrentSeason":true},
-	{"country":"mda","name":"Petrocub Hîncești","id":"FC_Petrocub_Hîncești","win":6,"draw":5,"loss":3,"for":20,"against":9,"isCurrentSeason":true},
+	{"country":"mda","name":"Petrocub Hîncești","id":"fc_petrocub_hincesti","win":6,"draw":5,"loss":3,"for":20,"against":9,"isCurrentSeason":true},
 	{"country":"mda","name":"Bălți","id":"FC_Bălți","win":6,"draw":5,"loss":3,"for":18,"against":9,"isCurrentSeason":true},
 	{"country":"mda","name":"Milsami Orhei","id":"FC_Milsami_Orhei","win":6,"draw":3,"loss":5,"for":30,"against":18,"isCurrentSeason":true},
 	{"country":"mda","name":"Spartanii Sportul","id":"CSF_Spartanii_Sportul","win":3,"draw":5,"loss":6,"for":12,"against":17,"isCurrentSeason":true},

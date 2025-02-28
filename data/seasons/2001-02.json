@@ -543,7 +543,7 @@
 	{"country":"mda","name":"Nistru Otaci","id":"FC_Nistru_Otaci","win":14,"draw":10,"loss":4,"for":40,"against":19},
 	{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":12,"draw":10,"loss":6,"for":52,"against":20},
 	{"country":"mda","name":"Constructorul-93 Cioburciu","id":"FC_Tiraspol","win":11,"draw":6,"loss":11,"for":36,"against":42},
-	{"country":"mda","name":"Hîncești","id":"FC_Petrocub_Hîncești","win":7,"draw":11,"loss":10,"for":30,"against":40,"isNew":true},
+	{"country":"mda","name":"Hîncești","id":"fc_petrocub_hincesti","win":7,"draw":11,"loss":10,"for":30,"against":40,"isNew":true},
 	{"country":"mda","name":"Agro Chișinău","id":"FC_Agro-Goliador_Chișinău","win":8,"draw":5,"loss":15,"for":25,"against":38},
 	{"country":"mda","name":"Tiligul-Tiras Tiraspol","id":"CS_Tiligul-Tiras_Tiraspol","win":6,"draw":7,"loss":15,"for":24,"against":46,"isRemoved":true},
 	{"country":"mda","name":"Happy End Camenca","id":"FC_Happy_End_Camenca","win":3,"draw":6,"loss":19,"for":23,"against":69,"isRemoved":true,"isNew":true},

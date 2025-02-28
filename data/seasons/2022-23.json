@@ -564,7 +564,7 @@
 	{"country":"kaz","name":"Turan","id":"FC_Turan","win":6,"draw":10,"loss":10,"for":25,"against":35,"isRemoved":true},
 	{"country":"kaz","name":"Akzhayik","id":"FC_Akzhayik","win":6,"draw":7,"loss":13,"for":19,"against":31,"isRemoved":true},
 	{"country":"mda","name":"Sheriff Tiraspol","id":"fc_sheriff_tiraspol","win":17,"draw":6,"loss":1,"for":39,"against":9,"isChampion":true,"isChampion":true},
-	{"country":"mda","name":"Petrocub Hîncești","id":"FC_Petrocub_Hîncești","win":14,"draw":6,"loss":4,"for":36,"against":17},
+	{"country":"mda","name":"Petrocub Hîncești","id":"fc_petrocub_hincesti","win":14,"draw":6,"loss":4,"for":36,"against":17},
 	{"country":"mda","name":"Zimbru Chișinău","id":"FC_Zimbru_Chișinău","win":7,"draw":10,"loss":7,"for":27,"against":26},
 	{"country":"mda","name":"Sfîntul Gheorghe","id":"FC_Sfîntul_Gheorghe","win":7,"draw":5,"loss":12,"for":22,"against":35,"isRemoved":true,"removedNote":"Dissolved"},
 	{"country":"mda","name":"Milsami Orhei","id":"FC_Milsami_Orhei","win":7,"draw":7,"loss":10,"for":22,"against":30},

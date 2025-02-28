@@ -532,7 +532,7 @@
 	{"country":"kaz","name":"Aktobe","id":"FC_Aktobe","win":7,"draw":6,"loss":20,"for":35,"against":75,"isRemoved":true,"deduct":-12,"deductReason":"Unpaid debts"},
 	{"country":"mda","name":"Sheriff Tiraspol","id":"fc_sheriff_tiraspol","win":22,"draw":4,"loss":2,"for":60,"against":9,"isChampion":true},
 	{"country":"mda","name":"Sfîntul Gheorghe","id":"FC_Sfîntul_Gheorghe","win":16,"draw":5,"loss":7,"for":40,"against":28},
-	{"country":"mda","name":"Petrocub-Hîncești","id":"FC_Petrocub_Hîncești","win":14,"draw":8,"loss":6,"for":34,"against":21},
+	{"country":"mda","name":"Petrocub-Hîncești","id":"fc_petrocub_hincesti","win":14,"draw":8,"loss":6,"for":34,"against":21},
 	{"country":"mda","name":"Dinamo-Auto","id":"FC_Dinamo-Auto_Tiraspol","win":12,"draw":5,"loss":11,"for":38,"against":37},
 	{"country":"mda","name":"Milsami Orhei","id":"FC_Milsami_Orhei","win":10,"draw":9,"loss":9,"for":30,"against":28},
 	{"country":"mda","name":"Speranța Nisporeni","id":"Speranța_Nisporeni","win":8,"draw":11,"loss":9,"for":29,"against":34},
