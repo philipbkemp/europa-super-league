@@ -134,3 +134,25 @@ a[istodo] { border: 1px dotted red; }
 #records td a { font-weight: bold; color: #2b5873; text-decoration: none; }
 #records td a:hover { background-color: #2b587333; }
 .small { font-size: 0.7rem; }
+
+a[data-div] {
+    position: relative;
+}
+a[data-div]:after {
+    content: attr(data-div);
+    text-transform: uppercase;
+    float: right;
+    background: #eeeeee;
+    border-left: 1px solid black;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    width: 30px;
+    padding: 5px;
+    border-radius: 0 5px 5px 0;
+}
+a[data-div]:hover:after {
+    background-color: #555;
+}
