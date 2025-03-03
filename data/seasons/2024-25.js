@@ -473,7 +473,7 @@ THEDATA = [
 	{"country":"rus","name":"Akhmat Grozny","id":"FC_Akhmat_Grozny","win":3,"draw":7,"loss":9,"for":18,"against":33,"isCurrentSeason":true},
 	{"country":"rus","name":"Fakel Voronezh","id":"FC_Fakel_Voronezh","win":2,"draw":8,"loss":9,"for":11,"against":26,"isCurrentSeason":true},
 	{"country":"rus","name":"Orenburg","id":"FC_Orenburg","win":1,"draw":5,"loss":13,"for":16,"against":35,"isCurrentSeason":true},
-	{"country":"sco","name":"Celtic (V, T)","id":"celtic_fc","win":24,"draw":3,"loss":2,"for":87,"against":17,"isCurrentSeason":true},
+	{"country":"sco","name":"Celtic","id":"celtic_fc","win":24,"draw":3,"loss":2,"for":87,"against":17,"isCurrentSeason":true},
 	{"country":"sco","name":"Rangers","id":"rangers_fc","win":18,"draw":5,"loss":6,"for":59,"against":26,"isCurrentSeason":true},
 	{"country":"sco","name":"Hibernian","id":"Hibernian_F.C.","win":11,"draw":10,"loss":8,"for":44,"against":40,"isCurrentSeason":true},
 	{"country":"sco","name":"Aberdeen","id":"Aberdeen_F.C.","win":12,"draw":6,"loss":11,"for":38,"against":46,"isCurrentSeason":true},
