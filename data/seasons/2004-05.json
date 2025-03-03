@@ -201,7 +201,7 @@
 	{"country":"aut","name":"Wacker Tirol","id":"FC_Wacker_Innsbruck_(2002)","win":11,"draw":11,"loss":14,"for":48,"against":48,"isNew":true},
 	{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":10,"draw":10,"loss":16,"for":37,"against":47},
 	{"country":"aut","name":"Admira Wacker Mödling","id":"FC_Admira_Wacker_Mödling","win":10,"draw":8,"loss":18,"for":36,"against":63},
-	{"country":"aut","name":"Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":9,"draw":9,"loss":18,"for":37,"against":51},
+	{"country":"aut","name":"Austria Salzburg","id":"fc_red_bull_salzburg","win":9,"draw":9,"loss":18,"for":37,"against":51},
 	{"country":"aut","name":"Bregenz","id":"Schwarz-Weiß_Bregenz","win":4,"draw":9,"loss":23,"for":30,"against":80,"isRemoved":true},
 	{"country":"isl","name":"FH","id":"FH_men%27s_football","win":10,"draw":7,"loss":1,"for":33,"against":16,"isChampion":true},
 	{"country":"isl","name":"ÍBV","id":"ÍBV_men%27s_football","win":9,"draw":4,"loss":5,"for":35,"against":20},

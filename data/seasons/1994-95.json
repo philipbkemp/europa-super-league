@@ -195,7 +195,7 @@
 	{"country":"swe","name":"Hammarby IF","id":"Hammarby_Fotboll","win":5,"draw":7,"loss":14,"for":28,"against":44,"isReturning":true},
 	{"country":"swe","name":"Landskrona BoIS","id":"Landskrona_BoIS","win":4,"draw":5,"loss":17,"for":22,"against":59,"isRemoved":true,"isReturning":true},
 	{"country":"swe","name":"BK Häcken","id":"BK_Häcken","win":2,"draw":8,"loss":16,"for":27,"against":58,"isRemoved":true},
-	{"country":"aut","name":"Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":15,"draw":17,"loss":4,"for":48,"against":24,"isChampion":true},
+	{"country":"aut","name":"Austria Salzburg","id":"fc_red_bull_salzburg","win":15,"draw":17,"loss":4,"for":48,"against":24,"isChampion":true},
 	{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":18,"draw":11,"loss":7,"for":58,"against":41},
 	{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":19,"draw":8,"loss":9,"for":63,"against":50},
 	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":16,"draw":11,"loss":9,"for":58,"against":38},

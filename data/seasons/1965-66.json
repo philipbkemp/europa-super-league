@@ -201,7 +201,7 @@
 	{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":7,"draw":9,"loss":10,"for":35,"against":46},
 	{"country":"aut","name":"Kapfenberger SV","id":"Kapfenberger_SV","win":5,"draw":10,"loss":11,"for":26,"against":51},
 	{"country":"aut","name":"1. Wiener Neustädter SC","id":"1._Wiener_Neustädter_SC","win":7,"draw":5,"loss":14,"for":30,"against":60},
-	{"country":"aut","name":"SV Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":3,"draw":6,"loss":17,"for":26,"against":66,"isReturning":true,"isRemoved":true},
+	{"country":"aut","name":"SV Austria Salzburg","id":"fc_red_bull_salzburg","win":3,"draw":6,"loss":17,"for":26,"against":66,"isReturning":true,"isRemoved":true},
 	{"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":3,"draw":3,"loss":20,"for":26,"against":68,"isReturning":true,"isRemoved":true},
 	{"country":"isl","name":"KR","id":"knattspyrnufelag_reykjavikur","win":5,"draw":3,"loss":2,"for":22,"against":15,"isChampion":true},
 	{"country":"isl","name":"ÍA","id":"iprottabandalag_akraness","win":6,"draw":1,"loss":3,"for":24,"against":16},

@@ -202,7 +202,7 @@
 	{"country":"aut","name":"FC Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":15,"draw":9,"loss":4,"for":49,"against":20,"isChampion":true},
 	{"country":"aut","name":"FK Austria Wien","id":"fk_austria_wien","win":17,"draw":4,"loss":7,"for":49,"against":34},
 	{"country":"aut","name":"VÖEST Linz","id":"VÖEST_Linz","win":15,"draw":5,"loss":8,"for":52,"against":26},
-	{"country":"aut","name":"SV Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":12,"draw":11,"loss":5,"for":47,"against":29},
+	{"country":"aut","name":"SV Austria Salzburg","id":"fc_red_bull_salzburg","win":12,"draw":11,"loss":5,"for":47,"against":29},
 	{"country":"aut","name":"SK Rapid Wien","id":"sk_rapid_wien","win":12,"draw":9,"loss":7,"for":39,"against":23},
 	{"country":"aut","name":"Donawitzer SV Alpine","id":"DSV_Leoben","win":10,"draw":10,"loss":8,"for":31,"against":28,"isReturning":true},
 	{"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":13,"draw":4,"loss":11,"for":37,"against":39},

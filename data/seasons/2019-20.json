@@ -193,7 +193,7 @@
 	{"country":"swe","name":"Kalmar FF","id":"Kalmar_FF","win":4,"draw":11,"loss":15,"for":22,"against":47},
 	{"country":"swe","name":"GIF Sundsvall","id":"GIF_Sundsvall","win":4,"draw":8,"loss":18,"for":31,"against":50,"isRemoved":true},
 	{"country":"swe","name":"AFC Eskilstuna","id":"AFC_Eskilstuna","win":4,"draw":8,"loss":18,"for":23,"against":55,"isRemoved":true,"isReturning":true},
-	{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":22,"draw":8,"loss":2,"for":110,"against":34,"isChampion":true},
+	{"country":"aut","name":"Red Bull Salzburg","id":"fc_red_bull_salzburg","win":22,"draw":8,"loss":2,"for":110,"against":34,"isChampion":true},
 	{"country":"aut","name":"LASK","id":"LASK","win":20,"draw":4,"loss":8,"for":67,"against":37,"deduct":-8,"deductReason":"Violating pandemic restrictions"},
 	{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":17,"draw":7,"loss":8,"for":64,"against":43},
 	{"country":"aut","name":"Wolfsberger AC","id":"Wolfsberger_AC","win":15,"draw":9,"loss":8,"for":69,"against":43},

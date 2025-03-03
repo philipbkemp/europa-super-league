@@ -191,7 +191,7 @@
 	{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":12,"draw":10,"loss":10,"for":45,"against":39},
 	{"country":"swe","name":"Västra Frölunda","id":"Västra_Frölunda_IF","win":5,"draw":9,"loss":18,"for":37,"against":58,"isReturning":true},
 	{"country":"swe","name":"GAIS","id":"GAIS","win":9,"draw":6,"loss":17,"for":32,"against":53,"isRemoved":true},
-	{"country":"aut","name":"Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":20,"draw":10,"loss":6,"for":69,"against":33},
+	{"country":"aut","name":"Austria Salzburg","id":"fc_red_bull_salzburg","win":20,"draw":10,"loss":6,"for":69,"against":33},
 	{"country":"aut","name":"Wacker Innsbruck","id":"FC_Wacker_Innsbruck","win":14,"draw":12,"loss":10,"for":63,"against":43,"isReturning":true,"isRemoved":true},
 	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":22,"draw":6,"loss":8,"for":81,"against":35,"isChampion":true},
 	{"country":"aut","name":"Wiener SC","id":"Wiener_Sport-Club","win":14,"draw":8,"loss":14,"for":47,"against":67,"isReturning":true},

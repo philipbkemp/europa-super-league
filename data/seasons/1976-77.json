@@ -210,7 +210,7 @@
 	{"country":"aut","name":"First Vienna FC","id":"First_Vienna_FC","win":9,"draw":13,"loss":14,"for":34,"against":40,"isReturning":true},
 	{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":9,"draw":12,"loss":15,"for":34,"against":62},
 	{"country":"aut","name":"SK Sturm Graz","id":"SK_Sturm_Graz","win":9,"draw":10,"loss":17,"for":40,"against":55},
-	{"country":"aut","name":"SV Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":9,"draw":5,"loss":22,"for":34,"against":64,"isRemoved":true},
+	{"country":"aut","name":"SV Austria Salzburg","id":"fc_red_bull_salzburg","win":9,"draw":5,"loss":22,"for":34,"against":64,"isRemoved":true},
 	{"country":"isl","name":"Valur","id":"valur","win":10,"draw":5,"loss":1,"for":45,"against":14,"isChampion":true},
 	{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":10,"draw":4,"loss":2,"for":30,"against":16},
 	{"country":"isl","name":"ÍA","id":"iprottabandalag_akraness","win":8,"draw":5,"loss":3,"for":27,"against":19},

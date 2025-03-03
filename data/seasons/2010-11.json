@@ -198,7 +198,7 @@
 	{"country":"swe","name":"Åtvidabergs FF","id":"Åtvidabergs_FF","win":7,"draw":8,"loss":15,"for":32,"against":51,"isRemoved":true,"isReturning":true},
 	{"country":"swe","name":"IF Brommapojkarna","id":"IF_Brommapojkarna","win":6,"draw":7,"loss":17,"for":20,"against":48,"isRemoved":true},
 	{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":19,"draw":9,"loss":8,"for":66,"against":33,"isChampion":true},
-	{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":17,"draw":12,"loss":7,"for":53,"against":31},
+	{"country":"aut","name":"Red Bull Salzburg","id":"fc_red_bull_salzburg","win":17,"draw":12,"loss":7,"for":53,"against":31},
 	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":17,"draw":10,"loss":9,"for":65,"against":37},
 	{"country":"aut","name":"Ried","id":"SV_Ried","win":16,"draw":10,"loss":10,"for":51,"against":38},
 	{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":14,"draw":11,"loss":11,"for":52,"against":42},

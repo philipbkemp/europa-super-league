@@ -197,7 +197,7 @@
 	{"country":"swe","name":"BK Häcken","id":"BK_Häcken","win":4,"draw":10,"loss":12,"for":29,"against":41,"isRemoved":true},
 	{"country":"swe","name":"Östers IF","id":"Östers_IF","win":4,"draw":7,"loss":15,"for":19,"against":46,"isRemoved":true,"isReturning":true},
 	{"country":"swe","name":"Örgryte IS","id":"Örgryte_IS","win":3,"draw":8,"loss":15,"for":24,"against":44,"isRemoved":true},
-	{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":22,"draw":9,"loss":5,"for":70,"against":23,"isChampion":true},
+	{"country":"aut","name":"Red Bull Salzburg","id":"fc_red_bull_salzburg","win":22,"draw":9,"loss":5,"for":70,"against":23,"isChampion":true},
 	{"country":"aut","name":"Ried","id":"SV_Ried","win":15,"draw":11,"loss":10,"for":47,"against":42},
 	{"country":"aut","name":"Mattersburg","id":"SV_Mattersburg","win":16,"draw":7,"loss":13,"for":61,"against":58},
 	{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":14,"draw":10,"loss":12,"for":55,"against":49},

@@ -197,7 +197,7 @@
 	{"country":"swe","name":"IF Brommapojkarna","id":"IF_Brommapojkarna","win":10,"draw":3,"loss":17,"for":40,"against":53,"isReturning":true},
 	{"country":"swe","name":"Degerfors IF","id":"Degerfors_IF","win":7,"draw":5,"loss":18,"for":30,"against":62,"isRemoved":true},
 	{"country":"swe","name":"Varbergs BoIS","id":"Varbergs_BoIS","win":3,"draw":6,"loss":21,"for":26,"against":67,"isRemoved":true},
-	{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":20,"draw":7,"loss":5,"for":74,"against":29},
+	{"country":"aut","name":"Red Bull Salzburg","id":"fc_red_bull_salzburg","win":20,"draw":7,"loss":5,"for":74,"against":29},
 	{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":19,"draw":10,"loss":3,"for":56,"against":23,"isChampion":true},
 	{"country":"aut","name":"LASK","id":"LASK","win":14,"draw":10,"loss":8,"for":43,"against":33},
 	{"country":"aut","name":"Austria Klagenfurt","id":"SK_Austria_Klagenfurt_(2007)","win":9,"draw":12,"loss":11,"for":40,"against":50},

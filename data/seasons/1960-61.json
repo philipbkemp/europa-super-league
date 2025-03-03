@@ -204,7 +204,7 @@
 	{"country":"aut","name":"SVS Linz","id":"SVS_Linz","win":9,"draw":6,"loss":11,"for":53,"against":58,"isNew":true},
 	{"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":7,"draw":7,"loss":12,"for":42,"against":52},
 	{"country":"aut","name":"1. Schwechater SC","id":"SV_Schwechat","win":8,"draw":5,"loss":13,"for":37,"against":49,"isNew":true},
-	{"country":"aut","name":"SV Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":8,"draw":4,"loss":14,"for":45,"against":54,"isRemoved":true},
+	{"country":"aut","name":"SV Austria Salzburg","id":"fc_red_bull_salzburg","win":8,"draw":4,"loss":14,"for":45,"against":54,"isRemoved":true},
 	{"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":6,"draw":8,"loss":12,"for":39,"against":56,"isRemoved":true},
 	{"country":"aut","name":"FC Dornbirn","id":"FC_Dornbirn_1913","win":3,"draw":4,"loss":19,"for":37,"against":101,"isRemoved":true,"isNew":true},
 	{"country":"isl","name":"ÍA","id":"iprottabandalag_akraness","win":6,"draw":3,"loss":1,"for":32,"against":15,"isChampion":true},

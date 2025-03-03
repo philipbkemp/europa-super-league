@@ -195,7 +195,7 @@
 	{"country":"swe","name":"IF Brommapojkarna","id":"IF_Brommapojkarna","win":8,"draw":2,"loss":20,"for":25,"against":64,"isRemoved":true,"isReturning":true},
 	{"country":"swe","name":"Dalkurd FF","id":"Dalkurd_FF","win":6,"draw":6,"loss":18,"for":30,"against":57,"isRemoved":true,"isNew":true},
 	{"country":"swe","name":"Trelleborgs FF","id":"Trelleborgs_FF","win":3,"draw":6,"loss":21,"for":24,"against":64,"isRemoved":true,"isReturning":true},
-	{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":25,"draw":5,"loss":2,"for":79,"against":27,"isChampion":true},
+	{"country":"aut","name":"Red Bull Salzburg","id":"fc_red_bull_salzburg","win":25,"draw":5,"loss":2,"for":79,"against":27,"isChampion":true},
 	{"country":"aut","name":"LASK","id":"LASK","win":18,"draw":9,"loss":5,"for":59,"against":31},
 	{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":10,"draw":10,"loss":12,"for":37,"against":40},
 	{"country":"aut","name":"Wolfsberger AC","id":"Wolfsberger_AC","win":12,"draw":10,"loss":10,"for":47,"against":47},

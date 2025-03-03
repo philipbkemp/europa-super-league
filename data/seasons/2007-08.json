@@ -198,7 +198,7 @@
 	{"country":"swe","name":"Trelleborgs FF","id":"Trelleborgs_FF","win":5,"draw":8,"loss":13,"for":22,"against":38,"isReturning":true},
 	{"country":"swe","name":"IF Brommapojkarna","id":"IF_Brommapojkarna","win":5,"draw":8,"loss":13,"for":21,"against":43,"isRemoved":true,"isNew":true},
 	{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":21,"draw":6,"loss":9,"for":69,"against":36,"isChampion":true},
-	{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":18,"draw":9,"loss":9,"for":63,"against":42},
+	{"country":"aut","name":"Red Bull Salzburg","id":"fc_red_bull_salzburg","win":18,"draw":9,"loss":9,"for":63,"against":42},
 	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":15,"draw":13,"loss":8,"for":46,"against":33},
 	{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":15,"draw":11,"loss":10,"for":60,"against":41},
 	{"country":"aut","name":"Mattersburg","id":"SV_Mattersburg","win":13,"draw":14,"loss":9,"for":55,"against":43},

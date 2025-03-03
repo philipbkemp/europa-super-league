@@ -201,7 +201,7 @@
 	{"country":"aut","name":"SC Wacker","id":"SC_Wacker","win":7,"draw":6,"loss":13,"for":47,"against":57},
 	{"country":"aut","name":"1. Wiener Neustädter SC","id":"1._Wiener_Neustädter_SC","win":6,"draw":8,"loss":12,"for":49,"against":79,"isReturning":true},
 	{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":7,"draw":5,"loss":14,"for":45,"against":55},
-	{"country":"aut","name":"SV Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":5,"draw":9,"loss":12,"for":42,"against":67,"isReturning":true},
+	{"country":"aut","name":"SV Austria Salzburg","id":"fc_red_bull_salzburg","win":5,"draw":9,"loss":12,"for":42,"against":67,"isReturning":true},
 	{"country":"aut","name":"Kremser SC","id":"Kremser_SC","win":6,"draw":6,"loss":14,"for":44,"against":65,"isRemoved":true},
 	{"country":"aut","name":"WSV Donawitz","id":"DSV_Leoben","win":7,"draw":3,"loss":16,"for":39,"against":73,"isRemoved":true},
 	{"country":"aut","name":"SK Admira Wien","id":"SK_Admira_Wien","win":3,"draw":5,"loss":18,"for":31,"against":71,"isRemoved":true},

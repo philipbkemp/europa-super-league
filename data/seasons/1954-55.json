@@ -162,7 +162,7 @@
 	{"country":"aut","name":"Admira Wien","id":"SK_Admira_Wien","win":10,"draw":7,"loss":9,"for":54,"against":51},
 	{"country":"aut","name":"Kapfenberger SV","id":"Kapfenberger_SV","win":11,"draw":5,"loss":10,"for":55,"against":57,"isReturning":true},
 	{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":8,"draw":9,"loss":9,"for":45,"against":47},
-	{"country":"aut","name":"Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":7,"draw":8,"loss":11,"for":43,"against":55},
+	{"country":"aut","name":"Austria Salzburg","id":"fc_red_bull_salzburg","win":7,"draw":8,"loss":11,"for":43,"against":55},
 	{"country":"aut","name":"1. Simmeringer SC","id":"1._Simmeringer_SC","win":10,"draw":1,"loss":15,"for":57,"against":55},
 	{"country":"aut","name":"FC Stadlau","id":"FC_Stadlau","win":7,"draw":6,"loss":13,"for":29,"against":48,"isNew":true},
 	{"country":"aut","name":"FC Wien","id":"FC_Wien","win":6,"draw":5,"loss":15,"for":39,"against":77},

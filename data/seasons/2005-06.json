@@ -194,7 +194,7 @@
 	{"country":"swe","name":"GIF Sundsvall","id":"GIF_Sundsvall","win":6,"draw":7,"loss":13,"for":31,"against":46,"isRemoved":true},
 	{"country":"swe","name":"Assyriska FF","id":"Assyriska_FF","win":4,"draw":2,"loss":20,"for":17,"against":52,"isRemoved":true,"isNew":true},
 	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":19,"draw":10,"loss":7,"for":51,"against":33,"isChampion":true},
-	{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":20,"draw":3,"loss":13,"for":62,"against":42},
+	{"country":"aut","name":"Red Bull Salzburg","id":"fc_red_bull_salzburg","win":20,"draw":3,"loss":13,"for":62,"against":42},
 	{"country":"aut","name":"Pasching","id":"ASKÖ_Pasching","win":16,"draw":10,"loss":10,"for":43,"against":32},
 	{"country":"aut","name":"Ried","id":"SV_Ried","win":13,"draw":13,"loss":10,"for":48,"against":47,"isReturning":true},
 	{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":13,"draw":10,"loss":13,"for":51,"against":41},

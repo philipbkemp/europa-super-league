@@ -33,7 +33,7 @@ THEDATA = [
 	{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":12,"draw":4,"loss":4,"for":45,"against":25,"isCurrentSeason":true},
 	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":12,"draw":4,"loss":4,"for":32,"against":19,"isCurrentSeason":true},
 	{"country":"aut","name":"Wolfsberg","id":"Wolfsberger_AC","win":11,"draw":3,"loss":6,"for":43,"against":27,"isCurrentSeason":true},
-	{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":9,"draw":7,"loss":4,"for":31,"against":21,"isCurrentSeason":true},
+	{"country":"aut","name":"Red Bull Salzburg","id":"fc_red_bull_salzburg","win":9,"draw":7,"loss":4,"for":31,"against":21,"isCurrentSeason":true},
 	{"country":"aut","name":"SK Rapid","id":"sk_rapid_wien","win":8,"draw":7,"loss":5,"for":28,"against":22,"isCurrentSeason":true},
 	{"country":"aut","name":"LASK","id":"LASK","win":8,"draw":4,"loss":8,"for":28,"against":28,"isCurrentSeason":true},
 	{"country":"aut","name":"Blau-Weiß Linz","id":"FC_Blau-Weiß_Linz","win":8,"draw":3,"loss":9,"for":24,"against":27,"isCurrentSeason":true},

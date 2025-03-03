@@ -206,7 +206,7 @@
 	{"country":"aut","name":"Austria Klagenfurt","id":"FC_Kärnten","win":12,"draw":10,"loss":8,"for":55,"against":38},
 	{"country":"aut","name":"Grazer AK","id":"Grazer_AK","win":13,"draw":6,"loss":11,"for":45,"against":37},
 	{"country":"aut","name":"Wiener Sportclub","id":"Wiener_Sport-Club","win":10,"draw":7,"loss":13,"for":53,"against":52},
-	{"country":"aut","name":"SV Austria Salzburg","id":"FC_Red_Bull_Salzburg","win":10,"draw":7,"loss":13,"for":39,"against":46},
+	{"country":"aut","name":"SV Austria Salzburg","id":"fc_red_bull_salzburg","win":10,"draw":7,"loss":13,"for":39,"against":46},
 	{"country":"aut","name":"SC Eisenstadt","id":"SC_Eisenstadt","win":9,"draw":7,"loss":14,"for":39,"against":49},
 	{"country":"aut","name":"VÖEST Linz","id":"VÖEST_Linz","win":8,"draw":9,"loss":13,"for":35,"against":47},
 	{"country":"aut","name":"Favoritner AC","id":"Favoritner_AC","win":8,"draw":9,"loss":13,"for":35,"against":52,"isReturning":true},

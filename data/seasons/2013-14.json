@@ -201,7 +201,7 @@
 	{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":7,"draw":10,"loss":13,"for":32,"against":46,"isReturning":true},
 	{"country":"swe","name":"Östers IF","id":"Östers_IF","win":6,"draw":10,"loss":14,"for":27,"against":43,"isRemoved":true,"isReturning":true},
 	{"country":"swe","name":"Syrianska FC","id":"Syrianska_FC","win":3,"draw":5,"loss":22,"for":26,"against":64,"isRemoved":true},
-	{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":25,"draw":5,"loss":6,"for":110,"against":35,"isChampion":true},
+	{"country":"aut","name":"Red Bull Salzburg","id":"fc_red_bull_salzburg","win":25,"draw":5,"loss":6,"for":110,"against":35,"isChampion":true},
 	{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":17,"draw":11,"loss":8,"for":63,"against":40},
 	{"country":"aut","name":"Grödig","id":"SV_Grödig","win":15,"draw":9,"loss":12,"for":68,"against":71,"isNew":true},
 	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":14,"draw":11,"loss":11,"for":58,"against":44},

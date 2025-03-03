@@ -199,7 +199,7 @@
 	{"country":"swe","name":"Syrianska FC","id":"Syrianska_FC","win":8,"draw":4,"loss":18,"for":27,"against":44,"isNew":true},
 	{"country":"swe","name":"Trelleborgs FF","id":"Trelleborgs_FF","win":7,"draw":4,"loss":19,"for":39,"against":64,"isRemoved":true},
 	{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":3,"draw":5,"loss":22,"for":24,"against":58,"isRemoved":true},
-	{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":19,"draw":11,"loss":6,"for":60,"against":30,"isChampion":true},
+	{"country":"aut","name":"Red Bull Salzburg","id":"fc_red_bull_salzburg","win":19,"draw":11,"loss":6,"for":60,"against":30,"isChampion":true},
 	{"country":"aut","name":"Rapid Wien","id":"sk_rapid_wien","win":16,"draw":14,"loss":6,"for":52,"against":30},
 	{"country":"aut","name":"Admira Wacker Mödling","id":"FC_Admira_Wacker_Mödling","win":15,"draw":10,"loss":11,"for":59,"against":52,"isReturning":true},
 	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":14,"draw":12,"loss":10,"for":52,"against":44},

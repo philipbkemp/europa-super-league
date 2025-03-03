@@ -195,7 +195,7 @@
 	{"country":"swe","name":"Halmstads BK","id":"Halmstads_BK","win":6,"draw":14,"loss":10,"for":21,"against":26,"isRemoved":true,"isReturning":true},
 	{"country":"swe","name":"Örebro SK","id":"Örebro_SK","win":4,"draw":6,"loss":20,"for":23,"against":58,"isRemoved":true},
 	{"country":"swe","name":"Östersunds FK","id":"Östersunds_FK","win":3,"draw":5,"loss":22,"for":24,"against":59,"isRemoved":true},
-	{"country":"aut","name":"Red Bull Salzburg","id":"FC_Red_Bull_Salzburg","win":25,"draw":5,"loss":2,"for":77,"against":19,"isChampion":true},
+	{"country":"aut","name":"Red Bull Salzburg","id":"fc_red_bull_salzburg","win":25,"draw":5,"loss":2,"for":77,"against":19,"isChampion":true},
 	{"country":"aut","name":"Sturm Graz","id":"SK_Sturm_Graz","win":16,"draw":8,"loss":8,"for":62,"against":46},
 	{"country":"aut","name":"Wolfsberger AC","id":"Wolfsberger_AC","win":14,"draw":5,"loss":13,"for":48,"against":53},
 	{"country":"aut","name":"Austria Wien","id":"fk_austria_wien","win":11,"draw":13,"loss":8,"for":44,"against":39},
