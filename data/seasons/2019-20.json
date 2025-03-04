@@ -297,7 +297,7 @@
 	{"country":"bgr","name":"Dunav Ruse","id":"FC_Dunav_Ruse","win":5,"draw":7,"loss":17,"for":25,"against":55,"isRemoved":true},
 	{"country":"bgr","name":"Vitosha Bistritsa","id":"FC_Vitosha_Bistritsa","win":1,"draw":3,"loss":25,"for":15,"against":57,"isRemoved":true},
 	{"country":"tur","name":"İstanbul Başakşehir","id":"İstanbul_Başakşehir_F.K.","win":20,"draw":9,"loss":5,"for":65,"against":34,"isChampion":true},
-	{"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":18,"draw":11,"loss":5,"for":76,"against":42},
+	{"country":"tur","name":"Trabzonspor","id":"trabzonspor","win":18,"draw":11,"loss":5,"for":76,"against":42},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":19,"draw":5,"loss":10,"for":59,"against":40},
 	{"country":"tur","name":"Sivasspor","id":"Sivasspor","win":17,"draw":9,"loss":8,"for":55,"against":38},
 	{"country":"tur","name":"Alanyaspor","id":"Alanyaspor","win":16,"draw":9,"loss":9,"for":61,"against":37},

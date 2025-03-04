@@ -318,7 +318,7 @@
 	{"country":"bgr","name":"Minyor Pernik","id":"FC_Minyor_Pernik","win":8,"draw":10,"loss":12,"for":30,"against":46},
 	{"country":"bgr","name":"Cherno More Varna","id":"PFC_Cherno_More_Varna","win":7,"draw":10,"loss":13,"for":35,"against":44,"isRemoved":true},
 	{"country":"bgr","name":"Spartak Pleven","id":"OFC_Spartak_Pleven","win":4,"draw":6,"loss":20,"for":32,"against":63,"isRemoved":true},
-	{"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":17,"draw":9,"loss":4,"for":36,"against":14,"isChampion":true},
+	{"country":"tur","name":"Trabzonspor","id":"trabzonspor","win":17,"draw":9,"loss":4,"for":36,"against":14,"isChampion":true},
 	{"country":"tur","name":"Fenerbahçe","id":"fenerbahce_sk","win":14,"draw":12,"loss":4,"for":40,"against":18},
 	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":12,"draw":13,"loss":5,"for":36,"against":23},
 	{"country":"tur","name":"Adanaspor","id":"Adanaspor","win":13,"draw":10,"loss":7,"for":36,"against":27},

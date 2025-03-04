@@ -547,7 +547,7 @@ THEDATA = [
 	{"country":"tur","name":"Göztepe","id":"Göztepe_S.K.","win":10,"draw":5,"loss":8,"for":40,"against":28,"isReturning":true,"isCurrentSeason":true},
 	{"country":"tur","name":"Başakşehir","id":"İstanbul_Başakşehir_F.K.","win":9,"draw":6,"loss":8,"for":38,"against":31,"isCurrentSeason":true},
 	{"country":"tur","name":"Rizespor","id":"Çaykur_Rizespor","win":10,"draw":3,"loss":12,"for":33,"against":41,"isCurrentSeason":true},
-	{"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":8,"draw":8,"loss":7,"for":39,"against":28,"isCurrentSeason":true},
+	{"country":"tur","name":"Trabzonspor","id":"trabzonspor","win":8,"draw":8,"loss":7,"for":39,"against":28,"isCurrentSeason":true},
 	{"country":"tur","name":"Kasımpaşa","id":"Kasımpaşa_S.K.","win":7,"draw":11,"loss":7,"for":45,"against":50,"isCurrentSeason":true},
 	{"country":"tur","name":"Alanyaspor","id":"Alanyaspor","win":8,"draw":7,"loss":10,"for":29,"against":36,"isCurrentSeason":true},
 	{"country":"tur","name":"Antalyaspor","id":"Antalyaspor","win":8,"draw":6,"loss":11,"for":28,"against":46,"isCurrentSeason":true},

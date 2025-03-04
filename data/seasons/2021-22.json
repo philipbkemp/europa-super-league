@@ -302,7 +302,7 @@
 	{"country":"bgr","name":"Lokomotiv Sofia","id":"FC_Lokomotiv_1929_Sofia","win":8,"draw":10,"loss":14,"for":27,"against":46,"isReturning":true},
 	{"country":"bgr","name":"Botev Vratsa","id":"POFC_Botev_Vratsa","win":6,"draw":10,"loss":16,"for":30,"against":55},
 	{"country":"bgr","name":"Tsarsko Selo","id":"FC_Tsarsko_Selo_Sofia","win":5,"draw":11,"loss":16,"for":22,"against":38,"isRemoved":true},
-	{"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":23,"draw":12,"loss":3,"for":69,"against":36,"isChampion":true},
+	{"country":"tur","name":"Trabzonspor","id":"trabzonspor","win":23,"draw":12,"loss":3,"for":69,"against":36,"isChampion":true},
 	{"country":"tur","name":"Fenerbahçe","id":"fenerbahce_sk","win":21,"draw":10,"loss":7,"for":73,"against":38},
 	{"country":"tur","name":"Konyaspor","id":"Konyaspor","win":20,"draw":8,"loss":10,"for":66,"against":45},
 	{"country":"tur","name":"İstanbul Başakşehir","id":"İstanbul_Başakşehir_F.K.","win":19,"draw":8,"loss":11,"for":56,"against":36},

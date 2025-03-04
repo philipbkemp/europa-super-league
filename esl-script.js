@@ -116,7 +116,7 @@ clubPages = ["not-a-real-club"
 	/*svk*/	,"sk_slovan_bratislava"
 	/*svn*/	,"nk_olimpija_ljubljana","nk_celje","nk_maribor"
 	/*swe*/	,"malmo_ff","if_elfsborg"
-	/*tur*/	,"besiktas_jk","galatasaray_sk","fenerbahce_sk"
+	/*tur*/	,"besiktas_jk","galatasaray_sk","fenerbahce_sk","trabzonspor",
 	/*ukr*/	,"fc_dynamo_kyiv","fc_shakhtar_donetsk"
 	/*wal*/	,"rhyl_fc","the_new_saints_fc"
 

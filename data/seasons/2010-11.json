@@ -305,7 +305,7 @@
 	{"country":"bgr","name":"Akademik Sofia","id":"PFC_Akademik_Sofia","win":5,"draw":5,"loss":20,"for":16,"against":51,"isRemoved":true,"isReturning":true},
 	{"country":"bgr","name":"Sliven","id":"FC_Sliven","win":4,"draw":7,"loss":19,"for":22,"against":52,"isRemoved":true},
 	{"country":"tur","name":"Fenerbahçe","id":"fenerbahce_sk","win":26,"draw":4,"loss":4,"for":84,"against":34,"isChampion":true},
-	{"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":25,"draw":7,"loss":2,"for":69,"against":23},
+	{"country":"tur","name":"Trabzonspor","id":"trabzonspor","win":25,"draw":7,"loss":2,"for":69,"against":23},
 	{"country":"tur","name":"Bursaspor","id":"Bursaspor","win":17,"draw":10,"loss":7,"for":50,"against":29},
 	{"country":"tur","name":"Gaziantepspor","id":"Gaziantepspor","win":17,"draw":8,"loss":9,"for":44,"against":33},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":15,"draw":9,"loss":10,"for":53,"against":36},

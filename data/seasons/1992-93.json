@@ -334,7 +334,7 @@
 	{"country":"bgr","name":"Sliven","id":"FC_Sliven","win":6,"draw":1,"loss":23,"for":27,"against":58,"isRemoved":true},
 	{"country":"tur","name":"Galatasaray","id":"galatasaray_sk","win":20,"draw":6,"loss":4,"for":74,"against":21,"isChampion":true},
 	{"country":"tur","name":"Beşiktaş","id":"besiktas_jk","win":19,"draw":9,"loss":2,"for":68,"against":23},
-	{"country":"tur","name":"Trabzonspor","id":"Trabzonspor","win":17,"draw":9,"loss":4,"for":57,"against":27},
+	{"country":"tur","name":"Trabzonspor","id":"trabzonspor","win":17,"draw":9,"loss":4,"for":57,"against":27},
 	{"country":"tur","name":"Kocaelispor","id":"Kocaelispor","win":17,"draw":8,"loss":5,"for":56,"against":30,"isReturning":true},
 	{"country":"tur","name":"Fenerbahçe","id":"fenerbahce_sk","win":18,"draw":4,"loss":8,"for":75,"against":41},
 	{"country":"tur","name":"Bursaspor","id":"Bursaspor","win":12,"draw":6,"loss":12,"for":42,"against":42},
