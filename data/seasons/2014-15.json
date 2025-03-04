@@ -660,7 +660,7 @@
 	{"country":"svk","name":"Dukla Banská Bystrica","id":"FK_Dukla_Banská_Bystrica","win":4,"draw":10,"loss":19,"for":29,"against":57,"isRemoved":true},
 	{"country":"and","name":"FC Santa Coloma","id":"fc_santa_coloma","win":13,"draw":3,"loss":4,"for":64,"against":14,"isChampion":true},
 	{"country":"and","name":"FC Lusitanos","id":"FC_Lusitanos","win":12,"draw":3,"loss":5,"for":53,"against":26,"deduct":-1,"deductReason":"Incorrect lineup for a match"},
-	{"country":"and","name":"UE Santa Coloma","id":"UE_Santa_Coloma","win":12,"draw":2,"loss":6,"for":33,"against":17,"bonusPoints":2,"bonusPointsReason":"Opponents had incorrect lineup"},
+	{"country":"and","name":"UE Santa Coloma","id":"ue_santa_coloma","win":12,"draw":2,"loss":6,"for":33,"against":17,"bonusPoints":2,"bonusPointsReason":"Opponents had incorrect lineup"},
 	{"country":"and","name":"UE Sant Julià","id":"ue_sant_julia","win":9,"draw":5,"loss":6,"for":41,"against":23},
 	{"country":"and","name":"FC Ordino","id":"FC_Ordino","win":10,"draw":3,"loss":7,"for":36,"against":29},
 	{"country":"and","name":"FC Encamp","id":"FC_Encamp","win":7,"draw":3,"loss":10,"for":21,"against":34,"bonusPoints":3,"bonusPointsReason":"Opponents had incorrect lineup"},

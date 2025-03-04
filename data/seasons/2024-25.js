@@ -12,7 +12,7 @@ THEDATA = [
 	{"country":"and","name":"Inter Club d'Escaldes","id":"inter_club_descaldes","win":12,"draw":6,"loss":1,"for":63,"against":15,"isCurrentSeason":true},
 	{"country":"and","name":"FC Santa Coloma","id":"fc_santa_coloma","win":11,"draw":4,"loss":4,"for":30,"against":17,"isCurrentSeason":true},
 	{"country":"and","name":"Rànger's","id":"FC_Rànger%27s","win":10,"draw":6,"loss":3,"for":43,"against":14,"isReturning":true,"isCurrentSeason":true},
-	{"country":"and","name":"UE Santa Coloma","id":"UE_Santa_Coloma","win":10,"draw":5,"loss":4,"for":39,"against":17,"isCurrentSeason":true},
+	{"country":"and","name":"UE Santa Coloma","id":"ue_santa_coloma","win":10,"draw":5,"loss":4,"for":39,"against":17,"isCurrentSeason":true},
 	{"country":"and","name":"Atlètic Club d'Escaldes","id":"Atlètic_Club_d%27Escaldes","win":11,"draw":6,"loss":2,"for":51,"against":16,"isCurrentSeason":true},
 	{"country":"and","name":"Ordino","id":"FC_Ordino","win":6,"draw":4,"loss":9,"for":21,"against":35,"isCurrentSeason":true},
 	{"country":"and","name":"Pas de la Casa","id":"FC_Pas_de_la_Casa","win":6,"draw":4,"loss":9,"for":26,"against":22,"isCurrentSeason":true},

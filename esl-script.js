@@ -68,7 +68,7 @@ const countries = {
 clubPages = ["not-a-real-club"
 
 	/*alb*/	,"fk_partizani_tirana","kf_tirana","fk_vllaznia_shkoder"
-	/*and*/	,"ue_sant_julia","fc_santa_coloma","inter_club_descaldes"
+	/*and*/	,"ue_sant_julia","fc_santa_coloma","inter_club_descaldes","ue_santa_coloma",
 	/*arm*/	,"shirak_sc","fc_pyunik"
 	/*aut*/	,"sk_rapid_wien","wiener_ac","fk_austria_wien","fc_red_bull_salzburg"
 	/*aze*/	,"neftci_pfk","qarabag_fk"
