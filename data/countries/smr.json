@@ -1,9 +1,13 @@
 {
 	"teams":[
-		"SC_Faetano","AS_San_Giovanni","SP_La_Fiorita","FC_Fiorentino","SP_Cailungo","AC_Libertas","SP_Tre_Penne","G.S._Dogana","SS_Murata","SS_Folgore_Falciano_Calcio","FC_Domagnano","S.S._Cosmos","Tre_Fiori_FC","S.P._Aurora","SS_Pennarossa","AC_Virtus","S.S._Juvenes","AC_Juvenes/Dogana","San_Marino_Academy_U22"
+		"SC_Faetano","AS_San_Giovanni","SP_La_Fiorita","FC_Fiorentino","SP_Cailungo","AC_Libertas","SP_Tre_Penne","G.S._Dogana","SS_Murata","SS_Folgore_Falciano_Calcio","FC_Domagnano","S.S._Cosmos","Tre_Fiori_FC","S.P._Aurora","SS_Pennarossa","AC_Virtus","S.S._Juvenes","ac_juvenes_dogana","San_Marino_Academy_U22"
 	],"redirects":[
-		["/w/index.php?title=San_Marino_Academy_U22&action=edit&redlink=1","San_Marino_Academy_U22"],["S.C._Faetano","SC_Faetano"],["S.S._San_Giovanni","AS_San_Giovanni"],["S.P._La_Fiorita","SP_La_Fiorita"],["S.S._Montevito","FC_Fiorentino"],["S.P._Cailungo","SP_Cailungo"],["A.C._Libertas","AC_Libertas"],["S.P._Tre_Penne","SP_Tre_Penne"],["S.S._Murata","SS_Murata"],["S.S._Folgore/Falciano","SS_Folgore_Falciano_Calcio"],["F.C._Domagnano","FC_Domagnano"],["S.P._Tre_Fiori","Tre_Fiori_FC"],["S.S._Pennarossa","SS_Pennarossa"],["S.S._Virtus","AC_Virtus"],["S.S._Folgore_Falciano_Calcio","SS_Folgore_Falciano_Calcio"],["A.S._San_Giovanni","AS_San_Giovanni"],["A.C._Juvenes/Dogana","AC_Juvenes/Dogana"],["F.C._Fiorentino","FC_Fiorentino"],["A.C._Virtus","AC_Virtus"],["Tre_Fiori_F.C.","Tre_Fiori_FC"]
+		["AC_Juvenes/Dogana","ac_juvenes_dogana"],["/w/index.php?title=San_Marino_Academy_U22&action=edit&redlink=1","San_Marino_Academy_U22"],["S.C._Faetano","SC_Faetano"],["S.S._San_Giovanni","AS_San_Giovanni"],["S.P._La_Fiorita","SP_La_Fiorita"],["S.S._Montevito","FC_Fiorentino"],["S.P._Cailungo","SP_Cailungo"],["A.C._Libertas","AC_Libertas"],["S.P._Tre_Penne","SP_Tre_Penne"],["S.S._Murata","SS_Murata"],["S.S._Folgore/Falciano","SS_Folgore_Falciano_Calcio"],["F.C._Domagnano","FC_Domagnano"],["S.P._Tre_Fiori","Tre_Fiori_FC"],["S.S._Pennarossa","SS_Pennarossa"],["S.S._Virtus","AC_Virtus"],["S.S._Folgore_Falciano_Calcio","SS_Folgore_Falciano_Calcio"],["A.S._San_Giovanni","AS_San_Giovanni"],["A.C._Juvenes/Dogana","ac_juvenes_dogana"],["F.C._Fiorentino","FC_Fiorentino"],["A.C._Virtus","AC_Virtus"],["Tre_Fiori_F.C.","Tre_Fiori_FC"]
 	],"previous":[
-		"AC_Virtus","SP_La_Fiorita","SP_Tre_Penne","S.S._Cosmos","SS_Murata","Tre_Fiori_FC","AS_San_Giovanni","AC_Juvenes/Dogana","SS_Folgore_Falciano_Calcio","FC_Fiorentino","FC_Domagnano","SC_Faetano","AC_Libertas","San_Marino_Academy_U22","SP_Cailungo","SS_Pennarossa"
+		"AC_Virtus","SP_La_Fiorita","SP_Tre_Penne","S.S._Cosmos","SS_Murata","Tre_Fiori_FC","AS_San_Giovanni","ac_juvenes_dogana","SS_Folgore_Falciano_Calcio","FC_Fiorentino","FC_Domagnano","SC_Faetano","AC_Libertas","San_Marino_Academy_U22","SP_Cailungo","SS_Pennarossa"
 	]
 }
+
+/*
+	AC_Juvenes/Dogana	=>	ac_juvenes_dogana
+*/

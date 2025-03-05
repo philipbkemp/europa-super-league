@@ -467,7 +467,7 @@
 	{"country":"smr","name":"San Giovanni","id":"AS_San_Giovanni","win":6,"draw":11,"loss":11,"for":29,"against":34},
 	{"country":"smr","name":"Murata","id":"SS_Murata","win":5,"draw":10,"loss":13,"for":20,"against":32},
 	{"country":"smr","name":"Cailungo","id":"SP_Cailungo","win":4,"draw":10,"loss":14,"for":26,"against":46},
-	{"country":"smr","name":"Juvenes/Dogana","id":"AC_Juvenes/Dogana","win":5,"draw":6,"loss":17,"for":24,"against":63},
+	{"country":"smr","name":"Juvenes/Dogana","id":"ac_juvenes_dogana","win":5,"draw":6,"loss":17,"for":24,"against":63},
 	{"country":"smr","name":"Cosmos","id":"S.S._Cosmos","win":0,"draw":5,"loss":23,"for":9,"against":64},
 	{"country":"geo","name":"Dinamo Batumi","id":"FC_Dinamo_Batumi","win":21,"draw":12,"loss":3,"for":73,"against":27,"isChampion":true},
 	{"country":"geo","name":"Dinamo Tbilisi","id":"fc_dinamo_tbilisi","win":21,"draw":7,"loss":8,"for":59,"against":28},

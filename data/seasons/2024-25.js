@@ -497,7 +497,7 @@ THEDATA = [
 	{"country":"smr","name":"Faetano","id":"SC_Faetano","win":8,"draw":2,"loss":13,"for":22,"against":47,"isCurrentSeason":true},
 	{"country":"smr","name":"Domagnano","id":"FC_Domagnano","win":5,"draw":10,"loss":8,"for":19,"against":28,"isCurrentSeason":true},
 	{"country":"smr","name":"Libertas","id":"AC_Libertas","win":4,"draw":6,"loss":13,"for":23,"against":50,"isCurrentSeason":true},
-	{"country":"smr","name":"Juvenes/Dogana","id":"AC_Juvenes/Dogana","win":4,"draw":5,"loss":14,"for":14,"against":27,"isCurrentSeason":true},
+	{"country":"smr","name":"Juvenes/Dogana","id":"ac_juvenes_dogana","win":4,"draw":5,"loss":14,"for":14,"against":27,"isCurrentSeason":true},
 	{"country":"smr","name":"Cailungo","id":"SP_Cailungo","win":4,"draw":3,"loss":16,"for":23,"against":59,"isCurrentSeason":true},
 	{"country":"smr","name":"San Marino Academy U22","id":"San_Marino_Academy_U22","win":3,"draw":3,"loss":17,"for":22,"against":52,"isCurrentSeason":true},
 	{"country":"smr","name":"Pennarossa","id":"SS_Pennarossa","win":2,"draw":6,"loss":15,"for":17,"against":56,"isCurrentSeason":true},

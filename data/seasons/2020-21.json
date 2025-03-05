@@ -463,7 +463,7 @@
 	{"country":"smr","name":"Tre Fiori","id":"Tre_Fiori_FC","win":7,"draw":5,"loss":2,"for":26,"against":11,"isReturning":true},
 	{"country":"smr","name":"Pennarossa","id":"SS_Pennarossa","win":6,"draw":3,"loss":5,"for":15,"against":15,"isReturning":true},
 	{"country":"smr","name":"San Giovanni","id":"AS_San_Giovanni","win":5,"draw":4,"loss":5,"for":17,"against":20,"isReturning":true},
-	{"country":"smr","name":"Juvenes/Dogana","id":"AC_Juvenes/Dogana","win":6,"draw":1,"loss":7,"for":23,"against":34,"isNew":true},
+	{"country":"smr","name":"Juvenes/Dogana","id":"ac_juvenes_dogana","win":6,"draw":1,"loss":7,"for":23,"against":34,"isNew":true},
 	{"country":"smr","name":"Murata","id":"SS_Murata","win":4,"draw":6,"loss":4,"for":14,"against":9,"isReturning":true},
 	{"country":"smr","name":"Virtus","id":"AC_Virtus","win":4,"draw":6,"loss":4,"for":14,"against":12,"isReturning":true},
 	{"country":"smr","name":"Fiorentino","id":"FC_Fiorentino","win":4,"draw":4,"loss":6,"for":18,"against":26,"isReturning":true},
