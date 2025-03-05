@@ -179,7 +179,7 @@
 	{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":7,"draw":4,"loss":9,"for":19,"against":20},
 	{"country":"pol","name":"Polonia Bydgoszcz","id":"Polonia_Bydgoszcz","win":6,"draw":4,"loss":10,"for":18,"against":22,"isNew":true},
 	{"country":"pol","name":"AKS Chorzów","id":"AKS_Chorzów","win":5,"draw":6,"loss":9,"for":28,"against":37,"isRemoved":true},
-	{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":5,"draw":6,"loss":9,"for":21,"against":28,"isRemoved":true},
+	{"country":"pol","name":"KS Cracovia","id":"ks_cracovia","win":5,"draw":6,"loss":9,"for":21,"against":28,"isRemoved":true},
 	{"country":"pol","name":"Wawel Kraków","id":"Wawel_Kraków","win":null,"draw":null,"loss":null,"for":null,"against":null,"isRemoved":true},
 	{"country":"est","name":"Tallinna Dünamo","id":"Tallinna_JK_Dünamo","win":12,"draw":3,"loss":3,"for":54,"against":18,"isChampion":true,"isReturning":true},
 	{"country":"est","name":"Narva Kalev","id":"Narva_Kalev","win":11,"draw":3,"loss":4,"for":50,"against":13,"isReturning":true},

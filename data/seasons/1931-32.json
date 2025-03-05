@@ -135,7 +135,7 @@
 	{"country":"isl","name":"Valur","id":"valur","win":2,"draw":0,"loss":1,"for":6,"against":3},
 	{"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":1,"draw":0,"loss":2,"for":4,"against":11},
 	{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":0,"draw":0,"loss":3,"for":3,"against":11},
-	{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":12,"draw":5,"loss":5,"for":55,"against":30,"isChampion":true,"isRemoved":true,"removedNote":"League moved to regional format for next season"},
+	{"country":"pol","name":"KS Cracovia","id":"ks_cracovia","win":12,"draw":5,"loss":5,"for":55,"against":30,"isChampion":true,"isRemoved":true,"removedNote":"League moved to regional format for next season"},
 	{"country":"pol","name":"Pogoń Lwów","id":"Pogoń_Lwów","win":13,"draw":2,"loss":7,"for":32,"against":24,"isRemoved":true,"removedNote":"League moved to regional format for next season"},
 	{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":13,"draw":1,"loss":8,"for":55,"against":37,"isRemoved":true,"removedNote":"League moved to regional format for next season"},
 	{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":11,"draw":4,"loss":7,"for":50,"against":32,"isRemoved":true,"removedNote":"League moved to regional format for next season"},

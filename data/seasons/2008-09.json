@@ -234,7 +234,7 @@
 	{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":9,"draw":5,"loss":16,"for":30,"against":44,"isReturning":true},
 	{"country":"pol","name":"Odra Wodzisław","id":"Odra_Wodzisław_Śląski","win":8,"draw":8,"loss":14,"for":23,"against":40},
 	{"country":"pol","name":"Arka Gdynia","id":"Arka_Gdynia","win":7,"draw":9,"loss":14,"for":27,"against":39,"isReturning":true},
-	{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":7,"draw":9,"loss":14,"for":24,"against":40},
+	{"country":"pol","name":"Cracovia","id":"ks_cracovia","win":7,"draw":9,"loss":14,"for":24,"against":40},
 	{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":7,"draw":8,"loss":15,"for":20,"against":33,"isRemoved":true},
 	{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":10,"draw":5,"loss":15,"for":27,"against":43,"isRemoved":true},
 	{"country":"est","name":"Levadia","id":"fci_levadia_tallinn","win":29,"draw":6,"loss":1,"for":105,"against":22,"isChampion":true},

@@ -236,7 +236,7 @@
 	{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":7,"draw":10,"loss":13,"for":21,"against":30},
 	{"country":"pol","name":"GKS Bełchatów","id":"GKS_Bełchatów","win":7,"draw":10,"loss":13,"for":34,"against":36},
 	{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":5,"draw":9,"loss":16,"for":23,"against":53,"isRemoved":true,"isReturning":true},
-	{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":4,"draw":10,"loss":16,"for":20,"against":41,"isRemoved":true},
+	{"country":"pol","name":"Cracovia","id":"ks_cracovia","win":4,"draw":10,"loss":16,"for":20,"against":41,"isRemoved":true},
 	{"country":"est","name":"Flora","id":"fc_flora","win":26,"draw":8,"loss":2,"for":100,"against":24,"isChampion":true},
 	{"country":"est","name":"Nõmme Kalju","id":"Nõmme_Kalju_FC","win":24,"draw":7,"loss":5,"for":82,"against":23},
 	{"country":"est","name":"Narva Trans","id":"JK_Narva_Trans","win":22,"draw":7,"loss":7,"for":107,"against":29},

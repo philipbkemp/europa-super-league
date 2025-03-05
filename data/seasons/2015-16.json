@@ -217,7 +217,7 @@
 	{"country":"pol","name":"Piast Gliwice","id":"Piast_Gliwice","win":20,"draw":9,"loss":8,"for":60,"against":45},
 	{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":12,"draw":17,"loss":8,"for":43,"against":43},
 	{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":17,"draw":9,"loss":11,"for":55,"against":42,"isReturning":true},
-	{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":16,"draw":10,"loss":11,"for":66,"against":50},
+	{"country":"pol","name":"Cracovia","id":"ks_cracovia","win":16,"draw":10,"loss":11,"for":66,"against":50},
 	{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":14,"draw":6,"loss":17,"for":42,"against":47},
 	{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":14,"draw":10,"loss":13,"for":53,"against":44},
 	{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":11,"draw":8,"loss":18,"for":40,"against":60,"deduct":-1,"deductReason":"Failing licensing requirements"},

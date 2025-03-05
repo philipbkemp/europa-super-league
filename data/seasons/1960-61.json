@@ -223,7 +223,7 @@
 	{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":9,"draw":6,"loss":11,"for":27,"against":35,"isRemoved":true,"removedNote":"League moved to group format next season"},
 	{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":8,"draw":6,"loss":12,"for":32,"against":39,"isRemoved":true,"removedNote":"League moved to group format next season"},
 	{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":8,"draw":6,"loss":12,"for":27,"against":40,"isReturning":true,"isRemoved":true,"removedNote":"League moved to group format next season"},
-	{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":9,"draw":3,"loss":14,"for":41,"against":44,"isReturning":true,"isRemoved":true,"removedNote":"League moved to group format next season"},
+	{"country":"pol","name":"KS Cracovia","id":"ks_cracovia","win":9,"draw":3,"loss":14,"for":41,"against":44,"isReturning":true,"isRemoved":true,"removedNote":"League moved to group format next season"},
 	{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":8,"draw":5,"loss":13,"for":34,"against":45,"isNew":true,"isRemoved":true,"removedNote":"League moved to group format next season"},
 	{"country":"pol","name":"Polonia Bydgoszcz","id":"Polonia_Bydgoszcz","win":8,"draw":3,"loss":15,"for":36,"against":71,"isRemoved":true,"isRemoved":true,"removedNote":"League moved to group format next season"},
 	{"country":"pol","name":"Zawisza Bydgoszcz","id":"Zawisza_Bydgoszcz","win":3,"draw":4,"loss":19,"for":18,"against":64,"isRemoved":true,"isNew":true,"isRemoved":true,"removedNote":"League moved to group format next season"},

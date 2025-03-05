@@ -114,7 +114,7 @@
 	{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":20,"draw":2,"loss":6,"for":98,"against":36,"isChampion":true},
 	{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":16,"draw":8,"loss":4,"for":63,"against":39},
 	{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":17,"draw":2,"loss":9,"for":77,"against":43},
-	{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":15,"draw":6,"loss":7,"for":70,"against":42,"isNew":true},
+	{"country":"pol","name":"KS Cracovia","id":"ks_cracovia","win":15,"draw":6,"loss":7,"for":70,"against":42,"isNew":true},
 	{"country":"pol","name":"1. FC Kattowitz","id":"1._FC_Kattowitz","win":16,"draw":3,"loss":9,"for":64,"against":49},
 	{"country":"pol","name":"Pogoń Lwów","id":"Pogoń_Lwów","win":14,"draw":3,"loss":11,"for":61,"against":55},
 	{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":14,"draw":2,"loss":12,"for":63,"against":61},

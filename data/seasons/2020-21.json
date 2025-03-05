@@ -236,7 +236,7 @@
 	{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":9,"draw":10,"loss":11,"for":39,"against":38},
 	{"country":"pol","name":"Wisła Płock","id":"Wisła_Płock","win":8,"draw":9,"loss":13,"for":37,"against":44},
 	{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":8,"draw":9,"loss":13,"for":39,"against":42},
-	{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":8,"draw":13,"loss":9,"for":28,"against":32,"deduct":-5,"deductReason":"Match-fixing in 2003-04"},
+	{"country":"pol","name":"Cracovia","id":"ks_cracovia","win":8,"draw":13,"loss":9,"for":28,"against":32,"deduct":-5,"deductReason":"Match-fixing in 2003-04"},
 	{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":6,"draw":11,"loss":13,"for":31,"against":47,"isReturning":true},
 	{"country":"pol","name":"Podbeskidzie Bielsko-Biała","id":"Podbeskidzie_Bielsko-Biała","win":6,"draw":7,"loss":17,"for":29,"against":60,"isRemoved":true,"isReturning":true},
 	{"country":"est","name":"Flora","id":"fc_flora","win":26,"draw":2,"loss":1,"for":76,"against":17,"isChampion":true},

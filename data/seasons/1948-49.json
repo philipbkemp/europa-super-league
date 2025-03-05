@@ -174,7 +174,7 @@
 	{"country":"isl","name":"Valur","id":"valur","win":1,"draw":0,"loss":2,"for":5,"against":9},
 	{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":0,"draw":1,"loss":2,"for":3,"against":6},
 	{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":13,"draw":4,"loss":5,"for":50,"against":21,"isChampion":true},
-	{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":10,"draw":9,"loss":3,"for":44,"against":29},
+	{"country":"pol","name":"KS Cracovia","id":"ks_cracovia","win":10,"draw":9,"loss":3,"for":44,"against":29},
 	{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":10,"draw":7,"loss":5,"for":60,"against":37},
 	{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":11,"draw":5,"loss":6,"for":43,"against":29},
 	{"country":"pol","name":"AKS Chorzów","id":"AKS_Chorzów","win":9,"draw":5,"loss":8,"for":40,"against":44},

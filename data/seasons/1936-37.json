@@ -162,7 +162,7 @@
 	{"country":"isl","name":"KR","id":"knattspyrnufelag_reykjavikur","win":1,"draw":2,"loss":0,"for":10,"against":4},
 	{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":1,"draw":1,"loss":1,"for":8,"against":3},
 	{"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":0,"draw":0,"loss":3,"for":1,"against":17,"isRemoved":true},
-	{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":8,"draw":6,"loss":2,"for":37,"against":16,"isChampion":true,"isReturning":true},
+	{"country":"pol","name":"KS Cracovia","id":"ks_cracovia","win":8,"draw":6,"loss":2,"for":37,"against":16,"isChampion":true,"isReturning":true},
 	{"country":"pol","name":"AKS Chorzów","id":"AKS_Chorzów","win":8,"draw":4,"loss":4,"for":31,"against":22,"isNew":true},
 	{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":7,"draw":5,"loss":4,"for":40,"against":29},
 	{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":6,"draw":4,"loss":6,"for":34,"against":38},

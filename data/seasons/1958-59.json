@@ -205,7 +205,7 @@
 	{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":6,"draw":8,"loss":8,"for":35,"against":35},
 	{"country":"pol","name":"Polonia Bydgoszcz","id":"Polonia_Bydgoszcz","win":6,"draw":8,"loss":8,"for":33,"against":42},
 	{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":6,"draw":6,"loss":10,"for":28,"against":40,"isNew":true},
-	{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":6,"draw":5,"loss":11,"for":29,"against":42,"isRemoved":true},
+	{"country":"pol","name":"KS Cracovia","id":"ks_cracovia","win":6,"draw":5,"loss":11,"for":29,"against":42,"isRemoved":true},
 	{"country":"pol","name":"Górnik Radlin","id":"Górnik_Radlin","win":2,"draw":4,"loss":16,"for":15,"against":48,"isRemoved":true,"isReturning":true},
 	{"country":"est","name":"Ülemiste Kalev","id":"Ülemiste_Kalev","win":14,"draw":2,"loss":2,"for":66,"against":14,"isChampion":true},
 	{"country":"est","name":"Balti Laevastik Tallinn","id":"balti_laevastik_tallinn","win":12,"draw":4,"loss":2,"for":66,"against":20},

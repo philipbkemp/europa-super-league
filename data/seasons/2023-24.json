@@ -233,7 +233,7 @@
 	{"country":"pol","name":"Piast Gliwice","id":"Piast_Gliwice","win":9,"draw":16,"loss":9,"for":38,"against":35},
 	{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":11,"draw":10,"loss":13,"for":42,"against":48},
 	{"country":"pol","name":"Puszcza Niepołomice","id":"Puszcza_Niepołomice","win":9,"draw":13,"loss":12,"for":39,"against":49,"isNew":true},
-	{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":8,"draw":15,"loss":11,"for":45,"against":46},
+	{"country":"pol","name":"Cracovia","id":"ks_cracovia","win":8,"draw":15,"loss":11,"for":45,"against":46},
 	{"country":"pol","name":"Korona Kielce","id":"Korona_Kielce","win":8,"draw":14,"loss":12,"for":40,"against":44},
 	{"country":"pol","name":"Radomiak Radom","id":"Radomiak_Radom","win":10,"draw":8,"loss":16,"for":41,"against":58},
 	{"country":"pol","name":"Warta Poznań","id":"Warta_Poznań","win":9,"draw":10,"loss":15,"for":33,"against":43,"isRemoved":true},

@@ -223,7 +223,7 @@
 	{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":17,"draw":6,"loss":7,"for":55,"against":32},
 	{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":15,"draw":7,"loss":8,"for":43,"against":30,"isRemoved":true,"removedNote":"Relegated due to corruption scandal"},
 	{"country":"pol","name":"Korona Kielce","id":"Korona_Kielce","win":15,"draw":6,"loss":9,"for":38,"against":32,"isRemoved":true,"removedNote":"Relegated due to corruption scandal"},
-	{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":11,"draw":6,"loss":13,"for":30,"against":32},
+	{"country":"pol","name":"Cracovia","id":"ks_cracovia","win":11,"draw":6,"loss":13,"for":30,"against":32},
 	{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":11,"draw":6,"loss":13,"for":34,"against":39},
 	{"country":"pol","name":"GKS Bełchatów","id":"GKS_Bełchatów","win":9,"draw":11,"loss":10,"for":26,"against":32},
 	{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":8,"draw":10,"loss":12,"for":35,"against":41,"isReturning":true},

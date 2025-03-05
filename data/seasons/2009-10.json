@@ -230,7 +230,7 @@
 	{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":8,"draw":12,"loss":10,"for":32,"against":33},
 	{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":8,"draw":11,"loss":11,"for":30,"against":38,"isReturning":true},
 	{"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":11,"draw":11,"loss":8,"for":29,"against":27,"deduct":-10,"deductReason":"Involvement in corruption scandal"},
-	{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":9,"draw":7,"loss":14,"for":25,"against":39},
+	{"country":"pol","name":"Cracovia","id":"ks_cracovia","win":9,"draw":7,"loss":14,"for":25,"against":39},
 	{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":9,"draw":6,"loss":15,"for":25,"against":38},
 	{"country":"pol","name":"Arka Gdynia","id":"Arka_Gdynia","win":7,"draw":7,"loss":16,"for":28,"against":39},
 	{"country":"pol","name":"Odra Wodzisław","id":"Odra_Wodzisław_Śląski","win":7,"draw":6,"loss":17,"for":27,"against":45,"isRemoved":true},

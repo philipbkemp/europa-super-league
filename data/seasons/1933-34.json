@@ -150,7 +150,7 @@
 	{"country":"isl","name":"Fram","id":"knattspyrnufelagio_fram","win":1,"draw":0,"loss":2,"for":6,"against":8},
 	{"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":0,"draw":0,"loss":3,"for":0,"against":16},
 	{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":16,"draw":4,"loss":2,"for":90,"against":29,"isChampion":true,"isReturning":true},
-	{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":14,"draw":1,"loss":7,"for":48,"against":32,"isReturning":true},
+	{"country":"pol","name":"KS Cracovia","id":"ks_cracovia","win":14,"draw":1,"loss":7,"for":48,"against":32,"isReturning":true},
 	{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":13,"draw":2,"loss":7,"for":54,"against":36,"isReturning":true},
 	{"country":"pol","name":"Garbarnia Kraków","id":"Garbarnia_Kraków","win":11,"draw":3,"loss":7,"for":49,"against":36,"isReturning":true},
 	{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":10,"draw":4,"loss":8,"for":37,"against":30,"isReturning":true},

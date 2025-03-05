@@ -231,7 +231,7 @@
 	{"country":"pol","name":"Zawisza Bydgoszcz","id":"Zawisza_Bydgoszcz","win":12,"draw":10,"loss":15,"for":48,"against":48,"isReturning":true},
 	{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":14,"draw":10,"loss":13,"for":53,"against":57},
 	{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":13,"draw":13,"loss":11,"for":46,"against":41},
-	{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":12,"draw":8,"loss":17,"for":43,"against":56,"isReturning":true},
+	{"country":"pol","name":"Cracovia","id":"ks_cracovia","win":12,"draw":8,"loss":17,"for":43,"against":56,"isReturning":true},
 	{"country":"pol","name":"Jagiellonia Białystok","id":"Jagiellonia_Białystok","win":12,"draw":12,"loss":13,"for":59,"against":58},
 	{"country":"pol","name":"Korona Kielce","id":"Korona_Kielce","win":10,"draw":14,"loss":13,"for":47,"against":56},
 	{"country":"pol","name":"Śląsk Wrocław","id":"Śląsk_Wrocław","win":12,"draw":15,"loss":10,"for":49,"against":41},

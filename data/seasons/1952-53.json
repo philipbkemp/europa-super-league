@@ -181,7 +181,7 @@
 	{"country":"pol","name":"Lech Poznań","id":"Lech_Poznań","win":4,"draw":10,"loss":8,"for":22,"against":29,"isReturning":true},
 	{"country":"pol","name":"Górnik Radlin","id":"Górnik_Radlin","win":6,"draw":6,"loss":10,"for":27,"against":38,"isReturning":true},
 	{"country":"pol","name":"AKS Chorzów","id":"AKS_Chorzów","win":7,"draw":4,"loss":11,"for":31,"against":46,"isReturning":true},
-	{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":7,"draw":3,"loss":12,"for":23,"against":30,"isReturning":true},
+	{"country":"pol","name":"KS Cracovia","id":"ks_cracovia","win":7,"draw":3,"loss":12,"for":23,"against":30,"isReturning":true},
 	{"country":"pol","name":"Odra Opole","id":"Odra_Opole","win":4,"draw":8,"loss":10,"for":25,"against":38,"isRemoved":true,"isNew":true},
 	{"country":"pol","name":"Lechia Gdańsk","id":"Lechia_Gdańsk","win":2,"draw":8,"loss":12,"for":21,"against":35,"isRemoved":true,"isReturning":true},
 	{"country":"lva","name":"AVN","id":"fk_avn","win":18,"draw":2,"loss":0,"for":97,"against":11,"isChampion":true,"isRemoved":true},

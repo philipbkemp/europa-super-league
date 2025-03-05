@@ -172,7 +172,7 @@
 	{"country":"pol","name":"Garbarnia Kraków","id":"Garbarnia_Kraków","win":7,"draw":5,"loss":8,"for":37,"against":31},
 	{"country":"pol","name":"Warszawianka Warszawa","id":"KS_Warszawianka","win":6,"draw":6,"loss":8,"for":29,"against":37},
 	{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":8,"draw":2,"loss":10,"for":32,"against":46},
-	{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":6,"draw":5,"loss":9,"for":34,"against":34,"isRemoved":true},
+	{"country":"pol","name":"KS Cracovia","id":"ks_cracovia","win":6,"draw":5,"loss":9,"for":34,"against":34,"isRemoved":true},
 	{"country":"pol","name":"Polonia Warsaw","id":"Polonia_Warsaw","win":3,"draw":2,"loss":15,"for":15,"against":57,"isRemoved":true},
 	{"country":"est","name":"JS Estonia Tallinn","id":"js_estonia_tallinn","win":7,"draw":3,"loss":0,"for":22,"against":3,"isChampion":true},
 	{"country":"est","name":"VS Sport Tallinn","id":"SK_Tallinna_Sport","win":7,"draw":1,"loss":2,"for":23,"against":5},

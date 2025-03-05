@@ -179,7 +179,7 @@
 	{"country":"isl","name":"Víkingur","id":"knattspyrnufelagio_vikingur","win":0,"draw":1,"loss":3,"for":4,"against":7},
 	{"country":"isl","name":"ÍA","id":"iprottabandalag_akraness","win":0,"draw":1,"loss":3,"for":3,"against":11,"isRemoved":true},
 	{"country":"pol","name":"Wisła Kraków","id":"Wisła_Kraków","win":17,"draw":4,"loss":5,"for":86,"against":34,"isReturning":true},
-	{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":17,"draw":4,"loss":5,"for":61,"against":26,"isChampion":true,"championNote":"Champions after playoff match as two teams tied on points","isReturning":true},
+	{"country":"pol","name":"KS Cracovia","id":"ks_cracovia","win":17,"draw":4,"loss":5,"for":61,"against":26,"isChampion":true,"championNote":"Champions after playoff match as two teams tied on points","isReturning":true},
 	{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":12,"draw":6,"loss":8,"for":71,"against":40,"isReturning":true},
 	{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":14,"draw":2,"loss":10,"for":55,"against":46,"isReturning":true},
 	{"country":"pol","name":"AKS Chorzów","id":"AKS_Chorzów","win":13,"draw":3,"loss":10,"for":50,"against":49,"isReturning":true},

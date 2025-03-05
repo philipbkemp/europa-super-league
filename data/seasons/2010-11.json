@@ -232,7 +232,7 @@
 	{"country":"pol","name":"Zagłębie Lubin","id":"Zagłębie_Lubin","win":10,"draw":9,"loss":11,"for":31,"against":41},
 	{"country":"pol","name":"Ruch Chorzów","id":"Ruch_Chorzów","win":10,"draw":8,"loss":12,"for":29,"against":32},
 	{"country":"pol","name":"Korona Kielce","id":"Korona_Kielce","win":10,"draw":7,"loss":13,"for":34,"against":49},
-	{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":8,"draw":5,"loss":17,"for":37,"against":47},
+	{"country":"pol","name":"Cracovia","id":"ks_cracovia","win":8,"draw":5,"loss":17,"for":37,"against":47},
 	{"country":"pol","name":"Arka Gdynia","id":"Arka_Gdynia","win":6,"draw":10,"loss":14,"for":22,"against":43,"isRemoved":true},
 	{"country":"pol","name":"Polonia Bytom","id":"Polonia_Bytom","win":6,"draw":9,"loss":15,"for":29,"against":45,"isRemoved":true},
 	{"country":"est","name":"Flora","id":"fc_flora","win":29,"draw":4,"loss":3,"for":104,"against":32,"isChampion":true},

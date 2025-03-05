@@ -238,7 +238,7 @@
 	{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":10,"draw":9,"loss":11,"for":29,"against":37},
 	{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":10,"draw":8,"loss":12,"for":30,"against":38},
 	{"country":"pol","name":"GKS Katowice","id":"GKS_Katowice","win":10,"draw":7,"loss":13,"for":28,"against":34,"isReturning":true},
-	{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":6,"draw":15,"loss":9,"for":20,"against":33,"isReturning":true},
+	{"country":"pol","name":"KS Cracovia","id":"ks_cracovia","win":6,"draw":15,"loss":9,"for":20,"against":33,"isReturning":true},
 	{"country":"pol","name":"Stal Mielec","id":"Stal_Mielec","win":7,"draw":10,"loss":13,"for":27,"against":36,"isRemoved":true},
 	{"country":"pol","name":"Gwardia Warsaw","id":"Gwardia_Warsaw","win":7,"draw":7,"loss":16,"for":26,"against":46,"isRemoved":true},
 	{"country":"est","name":"Tempo","id":"Tallinna_JK_Tempo","win":15,"draw":2,"loss":5,"for":43,"against":19,"isChampion":true},

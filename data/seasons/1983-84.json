@@ -237,7 +237,7 @@
 	{"country":"pol","name":"Zagłębie Sosnowiec","id":"Zagłębie_Sosnowiec","win":7,"draw":13,"loss":10,"for":25,"against":35},
 	{"country":"pol","name":"Bałtyk Gdynia","id":"Bałtyk_Gdynia","win":7,"draw":11,"loss":12,"for":25,"against":30},
 	{"country":"pol","name":"ŁKS Łódź","id":"ŁKS_Łódź","win":8,"draw":9,"loss":13,"for":29,"against":43},
-	{"country":"pol","name":"KS Cracovia","id":"KS_Cracovia","win":6,"draw":9,"loss":15,"for":19,"against":35,"isRemoved":true},
+	{"country":"pol","name":"KS Cracovia","id":"ks_cracovia","win":6,"draw":9,"loss":15,"for":19,"against":35,"isRemoved":true},
 	{"country":"pol","name":"Szombierki Bytom","id":"Szombierki_Bytom","win":5,"draw":7,"loss":18,"for":23,"against":58,"isRemoved":true},
 	{"country":"est","name":"Tallinna Dünamo","id":"Tallinna_JK_Dünamo","win":16,"draw":3,"loss":3,"for":48,"against":19,"isChampion":true},
 	{"country":"est","name":"Tempo","id":"Tallinna_JK_Tempo","win":14,"draw":6,"loss":2,"for":38,"against":19},

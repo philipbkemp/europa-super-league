@@ -410,7 +410,7 @@ THEDATA = [
 	{"country":"pol","name":"Raków Częstochowa","id":"Raków_Częstochowa","win":12,"draw":7,"loss":3,"for":28,"against":13,"isCurrentSeason":true},
 	{"country":"pol","name":"Legia Warsaw","id":"Legia_Warsaw","win":11,"draw":6,"loss":6,"for":43,"against":29,"isCurrentSeason":true},
 	{"country":"pol","name":"Pogoń Szczecin","id":"Pogoń_Szczecin","win":12,"draw":3,"loss":8,"for":35,"against":25,"isCurrentSeason":true},
-	{"country":"pol","name":"Cracovia","id":"KS_Cracovia","win":10,"draw":8,"loss":5,"for":41,"against":32,"isCurrentSeason":true},
+	{"country":"pol","name":"Cracovia","id":"ks_cracovia","win":10,"draw":8,"loss":5,"for":41,"against":32,"isCurrentSeason":true},
 	{"country":"pol","name":"Motor Lublin","id":"Motor_Lublin","win":10,"draw":5,"loss":8,"for":32,"against":37,"isReturning":true,"isCurrentSeason":true},
 	{"country":"pol","name":"Górnik Zabrze","id":"Górnik_Zabrze","win":10,"draw":4,"loss":9,"for":30,"against":28,"isCurrentSeason":true},
 	{"country":"pol","name":"Piast Gliwice","id":"Piast_Gliwice","win":8,"draw":9,"loss":6,"for":25,"against":21,"isCurrentSeason":true},
