@@ -699,11 +699,11 @@
 	{"country":"srb","name":"Javor Ivanjica","id":"FK_Javor_Ivanjica","win":6,"draw":11,"loss":13,"for":29,"against":38,"isRemoved":true},
 	{"country":"srb","name":"Sloboda Užice","id":"FK_Sloboda_Užice","win":7,"draw":7,"loss":16,"for":21,"against":38,"isRemoved":true},
 	{"country":"gib","name":"Lincoln","id":"lincoln_red_imps_fc","win":11,"draw":3,"loss":0,"for":66,"against":6,"isChampion":true},
-	{"country":"gib","name":"Manchester 62","id":"Manchester_62_F.C.","win":9,"draw":3,"loss":2,"for":37,"against":10},
-	{"country":"gib","name":"Lynx","id":"Lynx_F.C.","win":9,"draw":2,"loss":3,"for":36,"against":18},
+	{"country":"gib","name":"Manchester 62","id":"manchester_62_fc","win":9,"draw":3,"loss":2,"for":37,"against":10},
+	{"country":"gib","name":"Lynx","id":"lynx_fc","win":9,"draw":2,"loss":3,"for":36,"against":18},
 	{"country":"gib","name":"Europa FC","id":"europa_fc","win":5,"draw":4,"loss":5,"for":31,"against":20,"isNew":true},
-	{"country":"gib","name":"Glacis United","id":"Glacis_United_F.C.","win":6,"draw":1,"loss":7,"for":18,"against":32},
-	{"country":"gib","name":"Lions Gibraltar","id":"Lions_Gibraltar_F.C.","win":4,"draw":2,"loss":8,"for":23,"against":33},
+	{"country":"gib","name":"Glacis United","id":"glacis_united_fc","win":6,"draw":1,"loss":7,"for":18,"against":32},
+	{"country":"gib","name":"Lions Gibraltar","id":"lions_gibraltar_fc","win":4,"draw":2,"loss":8,"for":23,"against":33},
 	{"country":"gib","name":"St Joseph's","id":"st_josephs_fc","win":4,"draw":1,"loss":9,"for":20,"against":29},
 	{"country":"gib","name":"Gibraltar Phoenix","id":"Gibraltar_Phoenix_F.C.","win":0,"draw":0,"loss":14,"for":9,"against":94,"isRemoved":true,"isNew":true}
 ]

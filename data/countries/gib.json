@@ -1,15 +1,23 @@
 {
 	"teams":[
-		"lincoln_red_imps_fc","st_josephs_fc","Manchester_62_F.C.","Lynx_F.C.","Lions_Gibraltar_F.C.","Glacis_United_F.C.","europa_fc","Gibraltar_Phoenix_F.C.","F.C._Britannia_XI","Gibraltar_United_F.C.","Angels_F.C.","Mons_Calpe_S.C.","Europa_Point_F.C.","F.C._Boca_Gibraltar","F.C._Bruno%27s_Magpies","College_1975_F.C."
+		"lincoln_red_imps_fc","st_josephs_fc","manchester_62_fc","lynx_fc","lions_gibraltar_fc","glacis_united_fc","europa_fc","Gibraltar_Phoenix_F.C.","F.C._Britannia_XI","Gibraltar_United_F.C.","Angels_F.C.","mons_calpe_sc","europa_point_fc","F.C._Boca_Gibraltar","fc_brunos_magpies","college_1975_fc"
 	],"redirects":[
-		["St_Joseph%27s_F.C.","st_josephs_fc"],["Europa_F.C.","europa_fc"],["Lincoln_Red_Imps_F.C.","lincoln_red_imps_fc"],["FC_Britannia_XI","F.C._Britannia_XI"]
+		["College_1975_F.C.","college_1975_fc"],["Europa_Point_F.C.","europa_point_fc"],["F.C._Bruno%27s_Magpies","fc_brunos_magpies"],["Glacis_United_F.C.","glacis_united_fc"],["Lions_Gibraltar_F.C.","lions_gibraltar_fc"],["Lynx_F.C.","lynx_fc"],["Manchester_62_F.C.","manchester_62_fc"],["Mons_Calpe_S.C.","mons_calpe_sc"],["St_Joseph%27s_F.C.","st_josephs_fc"],["Europa_F.C.","europa_fc"],["Lincoln_Red_Imps_F.C.","lincoln_red_imps_fc"],["FC_Britannia_XI","F.C._Britannia_XI"]
 	],"previous":[
-		"europa_fc","st_josephs_fc","Manchester_62_F.C.","Glacis_United_F.C.","Lions_Gibraltar_F.C.","lincoln_red_imps_fc","Mons_Calpe_S.C.","College_1975_F.C.","F.C._Bruno%27s_Magpies","Lynx_F.C.","Europa_Point_F.C."
+		"europa_fc","st_josephs_fc","manchester_62_fc","glacis_united_fc","lions_gibraltar_fc","lincoln_red_imps_fc","mons_calpe_sc","college_1975_fc","fc_brunos_magpies","lynx_fc","europa_point_fc"
 	]
 }
 
 /*
-	Europa_F.C.					=>	europa_fc
-	Lincoln_Red_Imps_F.C.	=>	lincoln_red_imps_fc
-	St_Joseph%27s_F.C.		=>	st_josephs_fc
+	College_1975_F.C.				=>	college_1975_fc
+	Europa_F.C.						=>	europa_fc
+	Europa_Point_F.C.				=>	europa_point_fc
+	F.C._Bruno%27s_Magpies	=>	fc_brunos_magpies
+	Glacis_United_F.C.				=>	glacis_united_fc
+	Lincoln_Red_Imps_F.C.		=>	lincoln_red_imps_fc
+	Lions_Gibraltar_F.C.			=>	lions_gibraltar_fc
+	Lynx_F.C.							=>	lynx_fc
+	Manchester_62_F.C.			=>	manchester_62_fc
+	Mons_Calpe_S.C.				=>	mons_calpe_sc
+	St_Joseph%27s_F.C.			=>	st_josephs_fc
 */

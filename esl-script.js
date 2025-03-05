@@ -88,7 +88,7 @@ clubPages = ["not-a-real-club"
 	/*fra*/	,"paris_saint_germain_fc"
 	/*fro*/	,"havnar_boltfelag","klaksvikar_itrottarfelag","tvoroyrar_boltfelag","vikingur_gota"
 	/*geo*/	,"fc_dinamo_tbilisi"
-	/*gib*/	,"europa_fc","lincoln_red_imps_fc","st_josephs_fc"
+	/*gib*/	,"college_1975_fc","europa_fc","europa_point_fc","fc_brunos_magpies","glacis_united_fc","lincoln_red_imps_fc","lions_gibraltar_fc","lynx_fc","manchester_62_fc","mons_calpe_sc","st_josephs_fc",
 	/*grc*/	,"olympiacos_fc","panathinaikos_fc","aek_athens_fc","paok_fc"
 	/*hrv*/	,"hsk_gradanski_zagreb","gnk_dinamo_zagreb","hnk_hajduk_split"
 	/*hun*/	,"ferencvarosi_tc","budapesti_tc","mtk_budapest_fc"
