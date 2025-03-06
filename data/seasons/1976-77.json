@@ -147,7 +147,7 @@
 	{"country":"grc","name":"Apollon Athens","id":"Apollon_Smyrnis_F.C.","win":9,"draw":8,"loss":17,"for":29,"against":54},
 	{"country":"grc","name":"Panetolikos","id":"Panetolikos_F.C.","win":9,"draw":8,"loss":17,"for":25,"against":51,"isRemoved":true},
 	{"country":"grc","name":"Atromitos","id":"Atromitos_F.C.","win":6,"draw":4,"loss":24,"for":28,"against":68,"isRemoved":true,"deduct":-2},
-	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":16,"draw":2,"loss":4,"for":42,"against":21,"isChampion":true},
+	{"country":"lux","name":"Jeunesse Esch","id":"jeunesse_esch","win":16,"draw":2,"loss":4,"for":42,"against":21,"isChampion":true},
 	{"country":"lux","name":"FC Progrès Niedercorn","id":"fc_progres_niederkorn","win":15,"draw":2,"loss":5,"for":50,"against":31},
 	{"country":"lux","name":"FA Red Boys Differdange","id":"fa_red_boys_differdange","win":11,"draw":5,"loss":6,"for":45,"against":34},
 	{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":11,"draw":2,"loss":9,"for":46,"against":34},

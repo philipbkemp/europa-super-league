@@ -151,7 +151,7 @@
 	{"country":"grc","name":"EPA Larnaca","id":"EPA_Larnaca_FC","win":3,"draw":4,"loss":27,"for":23,"against":76,"deduct":-1},
 	{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":15,"draw":7,"loss":0,"for":55,"against":24,"isChampion":true},
 	{"country":"lux","name":"FC Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":12,"draw":5,"loss":5,"for":51,"against":32},
-	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":12,"draw":5,"loss":5,"for":51,"against":33},
+	{"country":"lux","name":"Jeunesse Esch","id":"jeunesse_esch","win":12,"draw":5,"loss":5,"for":51,"against":33},
 	{"country":"lux","name":"FC Avenir Beggen","id":"FC_Avenir_Beggen","win":10,"draw":4,"loss":8,"for":29,"against":35},
 	{"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":8,"draw":7,"loss":7,"for":38,"against":28},
 	{"country":"lux","name":"FA Red Boys Differdange","id":"fa_red_boys_differdange","win":9,"draw":3,"loss":10,"for":41,"against":40},

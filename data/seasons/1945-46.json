@@ -50,7 +50,7 @@
 	{"country":"lux","name":"Chiers Rodange","id":"FC_Chiers","win":6,"draw":3,"loss":9,"for":23,"against":32,"isReturning":true},
 	{"country":"lux","name":"National Schifflange","id":"National_Schifflange","win":6,"draw":3,"loss":9,"for":35,"against":53,"isReturning":true},
 	{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":5,"draw":3,"loss":10,"for":34,"against":32,"isReturning":true},
-	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":5,"draw":3,"loss":10,"for":26,"against":44,"isReturning":true},
+	{"country":"lux","name":"CS Fola Esch","id":"cs_fola_esch","win":5,"draw":3,"loss":10,"for":26,"against":44,"isReturning":true},
 	{"country":"lux","name":"CS Pétange","id":"CS_Pétange","win":3,"draw":3,"loss":12,"for":26,"against":50,"isReturning":true},
 	{"country":"mlt","name":"Valletta F.C.","id":"valletta_fc","win":8,"draw":3,"loss":1,"for":32,"against":13,"isChampion":true},
 	{"country":"mlt","name":"Sliema Wanderers F.C.","id":"sliema_wanderers_fc","win":8,"draw":1,"loss":3,"for":39,"against":15},

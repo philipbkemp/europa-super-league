@@ -29,7 +29,7 @@
 	{"country":"hun","name":"MÁV Gépgyári SK","id":"Budapesti_MÁVAG_SK","win":4,"draw":5,"loss":13,"for":25,"against":77,"isNew":true},
 	{"country":"hun","name":"Kispest AC","id":"Budapest_Honvéd_FC","win":2,"draw":8,"loss":12,"for":26,"against":48},
 	{"country":"hun","name":"Magyar AC","id":"Magyar_AC","win":3,"draw":6,"loss":13,"for":26,"against":69,"isRemoved":true},
-	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":7,"draw":2,"loss":1,"for":28,"against":11,"isChampion":true},
+	{"country":"lux","name":"CS Fola Esch","id":"cs_fola_esch","win":7,"draw":2,"loss":1,"for":28,"against":11,"isChampion":true},
 	{"country":"lux","name":"US Hollerich Bonnevoie","id":"us_hollerich_bonnevoie","win":6,"draw":1,"loss":3,"for":34,"against":22},
 	{"country":"lux","name":"Sporting Club Luxembourg","id":"SC_Luxembourg","win":4,"draw":2,"loss":4,"for":19,"against":17},
 	{"country":"lux","name":"FCM Young Boys Diekirch","id":"FCM_Young_Boys_Diekirch","win":4,"draw":1,"loss":5,"for":25,"against":18},

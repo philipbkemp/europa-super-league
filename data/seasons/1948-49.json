@@ -114,7 +114,7 @@
 	{"country":"hun","name":"Kispesti Textil SE","id":"Kispesti_Textil_SE","win":4,"draw":4,"loss":22,"for":40,"against":104,"isNew":true,"isRemoved":true},
 	{"country":"hun","name":"Goldberger SE","id":"Kelenföldi_Textilgyár_SE","win":4,"draw":4,"loss":22,"for":24,"against":88,"isNew":true,"isRemoved":true},
 	{"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":18,"draw":2,"loss":2,"for":65,"against":26,"isChampion":true},
-	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":16,"draw":2,"loss":4,"for":57,"against":24},
+	{"country":"lux","name":"CS Fola Esch","id":"cs_fola_esch","win":16,"draw":2,"loss":4,"for":57,"against":24},
 	{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":12,"draw":5,"loss":5,"for":45,"against":25},
 	{"country":"lux","name":"National Schifflange","id":"National_Schifflange","win":11,"draw":2,"loss":9,"for":46,"against":35},
 	{"country":"lux","name":"FC Progrès Niedercorn","id":"fc_progres_niederkorn","win":7,"draw":8,"loss":7,"for":35,"against":34},

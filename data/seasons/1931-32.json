@@ -100,7 +100,7 @@
 	{"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":5,"draw":4,"loss":5,"for":42,"against":33},
 	{"country":"lux","name":"Union Luxembourg","id":"Union_Luxembourg","win":6,"draw":2,"loss":6,"for":31,"against":34},
 	{"country":"lux","name":"National Schifflange","id":"National_Schifflange","win":5,"draw":3,"loss":6,"for":30,"against":32},
-	{"country":"lux","name":"CS Fola Esch","id":"CS_Fola_Esch","win":4,"draw":3,"loss":7,"for":25,"against":28},
+	{"country":"lux","name":"CS Fola Esch","id":"cs_fola_esch","win":4,"draw":3,"loss":7,"for":25,"against":28},
 	{"country":"lux","name":"US Dudelange","id":"US_Dudelange","win":4,"draw":3,"loss":7,"for":28,"against":33,"isReturning":true},
 	{"country":"lux","name":"FC Aris Bonnevoie","id":"FC_Aris_Bonnevoie","win":2,"draw":3,"loss":9,"for":19,"against":47,"isReturning":true,"isRemoved":true},
 	{"country":"mlt","name":"Valletta United","id":"valletta_fc","win":2,"draw":1,"loss":0,"for":6,"against":1,"isChampion":true,"isRemoved":true},

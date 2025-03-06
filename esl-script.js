@@ -99,7 +99,7 @@ clubPages = ["not-a-real-club"
 	/*ltu*/	,"fk_zalgiris"
 	/*kaz*/	,"fc_astana","fc_kairat","fc_ordabasy"
 	/*kos*/	,"fc_ballkani"
-	/*lux*/	,"f91_dudelange","fa_red_boys_differdange","us_hollerich_bonnevoie","fc_differdange_03","fc_progres_niederkorn"
+	/*lux*/	,"f91_dudelange","fa_red_boys_differdange","us_hollerich_bonnevoie","fc_differdange_03","fc_progres_niederkorn","sc_bettembourg","cs_fola_esch","us_hostert","jeunesse_esch","fc_mondercange","us_mondorf_les_bains","racing_fc_union_luxembourg","fc_rodange_91","fc_swift_hesperange","fc_una_strassen","union_titus_petange","fc_victoria_rosport","fc_wiltz_71",
 	/*lva*/	,"fk_alfa","fk_ask","fk_avn","fk_liepajas_metalurgs","olimpia_liepaja","skonto_fc","fk_rfs","riga_fc"
 	/*mda*/,"fc_sheriff_tiraspol","fc_petrocub_hincesti"
 	/*mkd*/,"kf_shkendija"

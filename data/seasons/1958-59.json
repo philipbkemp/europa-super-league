@@ -131,7 +131,7 @@
 	{"country":"hun","name":"BVSC Budapest","id":"Budapesti_VSC","win":6,"draw":6,"loss":14,"for":26,"against":39,"isNew":true},
 	{"country":"hun","name":"Miskolci VSC","id":"Miskolci_VSC","win":4,"draw":9,"loss":13,"for":15,"against":46,"isNew":true,"isRemoved":true},
 	{"country":"hun","name":"Győri ETO FC","id":"Győri_ETO_FC","win":3,"draw":7,"loss":16,"for":15,"against":36,"isReturning":true,"isRemoved":true},
-	{"country":"lux","name":"Jeunesse Esch","id":"Jeunesse_Esch","win":14,"draw":4,"loss":4,"for":55,"against":22,"isChampion":true},
+	{"country":"lux","name":"Jeunesse Esch","id":"jeunesse_esch","win":14,"draw":4,"loss":4,"for":55,"against":22,"isChampion":true},
 	{"country":"lux","name":"CA Spora Luxembourg","id":"CA_Spora_Luxembourg","win":10,"draw":6,"loss":6,"for":49,"against":40},
 	{"country":"lux","name":"FA Red Boys Differdange","id":"fa_red_boys_differdange","win":11,"draw":4,"loss":7,"for":39,"against":32},
 	{"country":"lux","name":"Stade Dudelange","id":"Stade_Dudelange","win":9,"draw":8,"loss":5,"for":32,"against":29},
