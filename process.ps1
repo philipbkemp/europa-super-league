@@ -13,16 +13,11 @@ foreach ($file in $files) {
     # Replace values
     #
     $content = [System.IO.File]::ReadAllText($file.FullName, [System.Text.Encoding]::UTF8)
-    $newContent = $content -replace $escapedOriginalName, $newName
+    $newContent = $content -replace "`"$escapedOriginalName`"", "`"$newName`""
     if ($newContent -ne $content) {
         [System.IO.File]::WriteAllText($file.FullName, $newContent, [System.Text.Encoding]::UTF8)
         [System.IO.File]::WriteAllBytes($file.FullName, [System.Text.Encoding]::UTF8.GetBytes($newContent))
     }
-    ####
-
-    ####
-    # Add to (country).json comments
-    #
     ####
 
     ####
@@ -57,13 +52,21 @@ foreach ($file in $files) {
 }
 
 ####
-# Add to (country).json list of replacements
+# Add to (country).json comments
 #
 $jsonFile = Join-Path -Path $PSScriptRoot -ChildPath "data/countries/$country.json"
 $dataJson = Get-Content $jsonFile -Raw
 $replacement = "`t$originalName`t=>`t$newName`n*/"
 $dataJson = $dataJson -replace "\*/", $replacement
 [System.IO.File]::WriteAllText($jsonFile, $dataJson, [System.Text.Encoding]::UTF8)
+[System.IO.File]::WriteAllBytes($jsonFile, [System.Text.Encoding]::UTF8.GetBytes($dataJson))
+####
+
+####
+# Add to (country).json list of replacements
+#
+#$replacement = ""redirects":`n`t`t["
+#$newRedirect = ""redirects":`n`t`t[""
 ####
 
 Write-Host "Replacement complete."
