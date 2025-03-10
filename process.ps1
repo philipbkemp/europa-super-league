@@ -1,6 +1,7 @@
 clear
 $originalName = Read-Host "Enter the original name"
 $newName = Read-Host "Enter the new name"
+$country = Read-Host "Country code"
 
 $escapedOriginalName = [regex]::Escape($originalName)
 
@@ -13,16 +14,10 @@ foreach ($file in $files) {
     #
     $content = [System.IO.File]::ReadAllText($file.FullName, [System.Text.Encoding]::UTF8)
     $newContent = $content -replace $escapedOriginalName, $newName
-
     if ($newContent -ne $content) {
         [System.IO.File]::WriteAllText($file.FullName, $newContent, [System.Text.Encoding]::UTF8)
         [System.IO.File]::WriteAllBytes($file.FullName, [System.Text.Encoding]::UTF8.GetBytes($newContent))
     }
-    ####
-
-    ####
-    # Add to (country).json list of replacements
-    #
     ####
 
     ####
@@ -60,5 +55,15 @@ foreach ($file in $files) {
     #
     ####
 }
+
+####
+# Add to (country).json list of replacements
+#
+$jsonFile = Join-Path -Path $PSScriptRoot -ChildPath "data/countries/$country.json"
+$dataJson = Get-Content $jsonFile -Raw
+$replacement = "`t$originalName`t=>`t$newName`n*/"
+$dataJson = $dataJson -replace "\*/", $replacement
+[System.IO.File]::WriteAllText($jsonFile, $dataJson, [System.Text.Encoding]::UTF8)
+####
 
 Write-Host "Replacement complete."
