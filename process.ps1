@@ -1,3 +1,4 @@
+clear
 $originalName = Read-Host "Enter the original name"
 $newName = Read-Host "Enter the new name"
 
@@ -10,11 +11,12 @@ foreach ($file in $files) {
     ####
     # Replace values
     #
-    $content = Get-Content $file.FullName -Raw
+    $content = [System.IO.File]::ReadAllText($file.FullName, [System.Text.Encoding]::UTF8)
     $newContent = $content -replace $escapedOriginalName, $newName
 
     if ($newContent -ne $content) {
-        Set-Content -Path $file.FullName -Value $newContent
+        [System.IO.File]::WriteAllText($file.FullName, $newContent, [System.Text.Encoding]::UTF8)
+        [System.IO.File]::WriteAllBytes($file.FullName, [System.Text.Encoding]::UTF8.GetBytes($newContent))
     }
     ####
 
