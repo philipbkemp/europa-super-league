@@ -38,7 +38,7 @@ foreach ($file in $files) {
     ####
     # Edit the (country)/index.html page to list the club properly
     #
-    ####    
+    ####
 
     ####
     # Create team page
@@ -65,8 +65,13 @@ $dataJson = $dataJson -replace "\*/", $replacement
 ####
 # Add to (country).json list of replacements
 #
-#$replacement = ""redirects":`n`t`t["
-#$newRedirect = ""redirects":`n`t`t[""
+$jsonFile = Join-Path -Path $PSScriptRoot -ChildPath "data/countries/$country.json"
+$content = Get-Content $jsonFile -Raw
+$toFind = '"redirects":\['
+$toReplace = '"redirects":[["' + $originalName + '","' + $newName + '"],'
+$newContent = $content -replace $toFind, $toReplace
+[System.IO.File]::WriteAllText($jsonFile, $newContent, [System.Text.Encoding]::UTF8)
+[System.IO.File]::WriteAllBytes($jsonFile, [System.Text.Encoding]::UTF8.GetBytes($newContent))
 ####
 
 Write-Host "Replacement complete."
