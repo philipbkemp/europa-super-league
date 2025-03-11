@@ -21,11 +21,6 @@ foreach ($file in $files) {
     ####
 
     ####
-    # Add to current.html list of replacements
-    #
-    ####
-
-    ####
     # Find all TRs and get their data into team page format
     #
     ####
